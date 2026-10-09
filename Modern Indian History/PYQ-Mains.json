@@ -1,0 +1,30 @@
+{
+  "subject": "Modern Indian History",
+  "exam_stage": "Mains",
+  "questions": [
+    {
+      "id": "modern-history-mains-2017-fragmented-polity",
+      "year": 2017,
+      "question": "Clarify how mid-eighteenth century India was beset with the spectre of a fragmented polity.",
+      "chapter": "Rise of Autonomous States"
+    },
+    {
+      "id": "modern-history-mains-2010-dalhousie-annexations",
+      "year": 2010,
+      "question": "‘Dalhousie’s predecessors had acted on the general principles of avoiding annexations, if these could be avoided. Dalhousie acted on the principles of annexation if he could do so legitimately. His annexations were both of War and Peace’. Analyse.",
+      "chapter": "British Expansion in South India: Conquest of Mysore and the Marathas (1767–1818)"
+    },
+    {
+      "id": "modern-history-mains-2013-dalhousie-modern-india",
+      "year": 2013,
+      "question": "In many ways, Lord Dalhousie was the founder of modern India. Elaborate.",
+      "chapter": "British Expansion in South India: Conquest of Mysore and the Marathas (1767–1818)"
+    },
+    {
+      "id": "modern-history-mains-2022-company-armies",
+      "year": 2022,
+      "question": "Why did the armies of the British East India company – mostly comprising of Indian soldiers – win consistently against the more numerous and better equipped armies of the then Indian rulers? Give reasons.",
+      "chapter": "British Expansion in South India: Conquest of Mysore and the Marathas (1767–1818)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "subject": "Indian Economy",
+  "exam_stage": "Mains",
+  "questions": [
+    {
+      "id": "economy-mains-2021-methodology",
+      "question": "Explain the difference between computing methodology of India’s Gross Domestic Product (GDP) before the year 2015 and after the year 2015.",
+      "chapter": "National Income",
+      "year": 2021
+    },
+    {
+      "id": "economy-mains-2021-recovery",
+      "question": "Do you agree that the Indian economy has recently experienced V-shaped recovery? Give reasons in support of your answer.",
+      "chapter": "National Income",
+      "year": 2021
+    },
+    {
+      "id": "economy-mains-2020-potential",
+      "question": "Define potential GDP and explain its determinants. What are the factors that have been inhibiting India from realising its potential GDP?",
+      "chapter": "National Income",
+      "year": 2020
+    },
+    {
+      "id": "economy-mains-2017-inclusive",
+      "question": "What are the salient features of ‘inclusive growth’? Has India been experiencing such a growth process? Analyse and suggest measures for inclusive growth.",
+      "chapter": "National Income",
+      "year": 2017,
+      "chapters": [
+        "National Income",
+        "Economic Growth Vs Economic Development"
+      ]
+    },
+    {
+      "id": "economy-mains-2025-hdi-ihdi",
+      "question": "Distinguish between the Human Development Index (HDI) and Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth?",
+      "chapter": "Economic Growth Vs Economic Development",
+      "year": 2025
+    },
+    {
+      "id": "economy-mains-2022-market-inclusion",
+      "question": "Is inclusive growth possible under market economy? State the significance of financial inclusion in achieving economic growth in India.",
+      "chapter": "Economic Growth Vs Economic Development",
+      "year": 2022
+    },
+    {
+      "id": "economy-mains-2019-sustainable-inclusion",
+      "question": "It is argued that the strategy of inclusive growth is intended to meet the objectives of inclusiveness and sustainability together. Comment on this statement.",
+      "chapter": "Economic Growth Vs Economic Development",
+      "year": 2019
+    },
+    {
+      "id": "economy-mains-2016-manpower",
+      "question": "Comment on the challenges for inclusive growth which include careless and useless manpower in the Indian context. Suggest measures to be taken for facing these challenges.",
+      "chapter": "Economic Growth Vs Economic Development",
+      "year": 2016
+    },
+    {
+      "id": "economy-mains-2016-pmjdy",
+      "question": "Pradhan Mantri Jan Dhan Yojana (PMJDY) is necessary for bringing unbanked to the institutional finance fold. Do you agree with this for financial inclusion of the poorer section of the Indian society? Give arguments to justify your opinion.",
+      "chapter": "Banking Sector in India",
+      "year": 2016
+    }
+  ]
+}

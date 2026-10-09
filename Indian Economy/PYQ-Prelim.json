@@ -1,0 +1,1025 @@
+{
+  "subject": "Indian Economy",
+  "exam_stage": "Prelims",
+  "questions": [
+    {
+      "id": "economy-prelims-2021-demand",
+      "question": "Consider the following statements:\nOther things remaining unchanged, market demand for a good might increase if\n1. Price of its substitute increases\n2. Price of its complement increases\n3. The good is an inferior good and income of the consumers increases\n4. Its price falls\nWhich of the above statements are correct?",
+      "chapter": "Basic Key Concepts",
+      "year": 2021,
+      "options": {
+        "a": "1 and 4 only",
+        "b": "2, 3 and 4",
+        "c": "1, 3 and 4",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelims-2018-opportunity-cost",
+      "question": "If a commodity is provided free to the public by the Government, then",
+      "chapter": "Basic Key Concepts",
+      "year": 2018,
+      "options": {
+        "a": "the opportunity cost is zero.",
+        "b": "the opportunity cost is ignored.",
+        "c": "the opportunity cost is transferred from the consumers of the product to the tax-paying public.",
+        "d": "the opportunity cost is transferred from the consumers of the product to the Government."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2024-sectors",
+      "question": "With reference to the sectors of the Indian economy, consider the following pairs:\nEconomic activity — Sector\n1. Storage of agricultural produce — Secondary\n2. Dairy farm — Primary\n3. Mineral exploration — Tertiary\n4. Weaving cloth — Secondary\nHow many of the pairs given above are correctly matched?",
+      "chapter": "National Income",
+      "year": 2024,
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All four"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2018-development",
+      "question": "Increase in absolute and per capita GNP do not connote a higher level of economic development, if",
+      "chapter": "National Income",
+      "year": 2018,
+      "options": {
+        "a": "industrial output fails to keep pace with agriculture output.",
+        "b": "agricultural output fails to keep pace with industrial output.",
+        "c": "poverty and unemployment increase.",
+        "d": "imports grow faster than exports."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2018-capital-output",
+      "question": "Despite being a high-saving economy, capital formation may not result in significant increase in output due to",
+      "chapter": "National Income",
+      "year": 2018,
+      "options": {
+        "a": "weak administrative machinery.",
+        "b": "illiteracy.",
+        "c": "high population density.",
+        "d": "high capital-output ratio."
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2015-gdp-trends",
+      "question": "With reference to Indian economy, consider the following statements:\n1. The rate of growth of Real GDP has steadily increased in the last decade.\n2. The GDP at MP (in rupees) has steadily increased in the last decade.\nWhich of the statements given above is/are correct?",
+      "chapter": "National Income",
+      "year": 2015,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2013-ni-definition",
+      "question": "The NI of a country for a given period is equal to the",
+      "chapter": "National Income",
+      "year": 2013,
+      "options": {
+        "a": "total value of goods and services produced by the nationals.",
+        "b": "sum of total consumption and investment expenditure.",
+        "c": "sum of PI of all individuals.",
+        "d": "money value of final goods and service produced."
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2011-closed-economy",
+      "question": "A ‘closed economy’ is an economy in which",
+      "chapter": "National Income",
+      "year": 2011,
+      "options": {
+        "a": "The money supply is fully controlled.",
+        "b": "Deficit financing takes place.",
+        "c": "Only exports takes place.",
+        "d": "Neither exports nor imports take place."
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2010-public-sector",
+      "question": "With reference to Indian economy, consider the following statements:\n1. The GDP has increased by four times in the last 10 years.\n2. The percentage share of Public Sector in GDP has declined in the last 10 years.\nWhich of the statements given above is/are correct?",
+      "chapter": "National Income",
+      "year": 2010,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2018-human-capital",
+      "question": "Consider the following statements:\nHuman capital formation as a concept is better explained in terms of a process which enables\n1. individuals of a country to accumulate more capital.\n2. increasing the knowledge, skill levels and capacities of the people of the country.\n3. accumulation of tangible wealth.\n4. accumulation of intangible wealth.\nWhich of the statements given above is/are correct?",
+      "chapter": "Economic Growth Vs Economic Development",
+      "year": 2018,
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "2 and 4 only",
+        "d": "1, 3 and 4 only"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2013-growth-capital",
+      "question": "Economic growth in country X will necessarily have to occur if",
+      "chapter": "Economic Growth Vs Economic Development",
+      "year": 2013,
+      "options": {
+        "a": "there is technical progress in the world economy.",
+        "b": "there is population growth in X.",
+        "c": "there is capital formation in X.",
+        "d": "the volume of trade grows in the world economy."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2012-inclusive-governance",
+      "question": "Which of the following can be said to be essentially the parts of Inclusive Governance?\n1. Permitting the Non-Banking Financial Companies to do banking\n2. Establishing effective District Planning Committees in all the districts\n3. Increasing the government spending on public health\n4. Strengthening the Mid-day Meal Scheme\nSelect the correct answer using the codes given below:",
+      "chapter": "Economic Growth Vs Economic Development",
+      "year": 2012,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 and 4 only",
+        "c": "2, 3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2021-multiplier",
+      "question": "The money multiplier in an economy increases with which one of the following?",
+      "chapter": "Money and Money Supply",
+      "year": 2021,
+      "options": {
+        "a": "Increase in the Cash Reserve Ratio in the banks.",
+        "b": "Increase in the Statutory Liquidity Ratio in the banks.",
+        "c": "Increase in the banking habit of the people.",
+        "d": "Increase in the population of the country."
+      },
+      "answer": "c",
+      "chapters": [
+        "Money and Money Supply",
+        "Banking Sector in India"
+      ]
+    },
+    {
+      "id": "economy-prelim-2020-blockchain",
+      "question": "With reference to “Blockchain Technology”, consider the following statements:\n1. It is a public ledger that everyone can inspect, but which no single user controls.\n2. The structure and design of blockchain is such that all the data in it are about cryptocurrency only.\n3. Applications that depend on basic features of blockchain can be developed without anybody’s permission.\nWhich of the statements given above is/are correct?",
+      "chapter": "Money and Money Supply",
+      "year": 2020,
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 only",
+        "d": "1 and 3 only"
+      },
+      "answer": "d",
+      "chapters": [
+        "Money and Money Supply",
+        "Banking Sector in India"
+      ]
+    },
+    {
+      "id": "economy-prelim-2013-money-demand",
+      "question": "Supply of money remaining the same when there is an increase in demand for money, there will be",
+      "chapter": "Money and Money Supply",
+      "year": 2013,
+      "options": {
+        "a": "a fall in the level of prices",
+        "b": "an increase in the rate of interest",
+        "c": "a decrease in the rate of interest",
+        "d": "an increase in the level of income and employment"
+      },
+      "answer": "b",
+      "chapters": [
+        "Money and Money Supply",
+        "Banking Sector in India"
+      ]
+    },
+    {
+      "id": "economy-prelim-2025-banking-01",
+      "question": "Which of the following are the sources of income for the Reserve Bank of India?\nI. Buying and selling Government bonds\nII. Buying and selling foreign currency\nIII. Pension fund management\nIV. Lending to private companies\nV. Printing and distributing currency notes\nSelect the correct answer using the code given below.",
+      "chapter": "Banking Sector in India",
+      "year": 2025,
+      "options": {
+        "a": "I and II only",
+        "b": "II, III and IV",
+        "c": "I, III, IV and V",
+        "d": "I, II and V"
+      },
+      "answer_note": "The supplied textbook key gives (d). Printing/distribution is an expense in RBI accounts; seigniorage is a distinct economic concept. Final UPSC-key verification is required before treating this answer as settled.",
+      "answer_status": "needs_review",
+      "textbook_answer": "d"
+    },
+    {
+      "id": "economy-prelim-2025-banking-02",
+      "question": "Consider the following countries:\n1. United Arab Emirates\n2. France\n3. Germany\n4. Singapore\n5. Bangladesh\nHow many countries amongst the above are there other than India where international merchant payments are accepted under UPI?",
+      "chapter": "Banking Sector in India",
+      "year": 2025,
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2025-banking-03",
+      "question": "Consider the following statements in respect of RTGS and NEFT:\nI. In RTGS, the settlement time is instantaneous while in case of NEFT, it takes some time to settle payments.\nII. In RTGS, the customer is charged for inward transactions while that is not the case for NEFT.\nIII. Operating hours for RTGS are restricted on certain days while this is not true for NEFT.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2025,
+      "options": {
+        "a": "I only",
+        "b": "I and II",
+        "c": "I and III",
+        "d": "III only"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2024-banking-04",
+      "question": "Consider the following statements:\n1. In India, Non-Banking Financial Companies can access the Liquidity Adjustment Facility window of the Reserve Bank of India.\n2. In India, Foreign Institutional Investors can hold the Government Securities (G-Secs).\n3. In India, Stock Exchanges can offer separate trading platforms for debts.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2024,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "1, 2 and 3",
+        "d": "2 and 3 only"
+      },
+      "answer": "c",
+      "answer_note": "Answer follows the supplied key. Eligible standalone Primary Dealers have LAF access; this must not be generalised to every ordinary NBFC."
+    },
+    {
+      "id": "economy-prelim-2024-banking-05",
+      "question": "With reference to the rule/rules imposed by the Reserve Bank of India while treating foreign banks, consider the following statements:\n1. There is no minimum capital requirement for wholly owned banking subsidiaries in India.\n2. For wholly owned banking subsidiaries in India, at least 50% of the board members should be Indian nationals.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2024,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2023-banking-06",
+      "question": "Consider the following statements:\nStatement-I: In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes.\nStatement-II: Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means.\nWhich one of the following is correct in respect of the above statements?",
+      "chapter": "Banking Sector in India",
+      "year": 2023,
+      "options": {
+        "a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.",
+        "b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.",
+        "c": "Statement-I is correct but Statement-II is incorrect.",
+        "d": "Statement-I is incorrect but Statement-II is correct."
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2023-banking-07",
+      "question": "Which one of the following activities of the Reserve Bank of India is considered to be part of ‘sterilisation’?",
+      "chapter": "Banking Sector in India",
+      "year": 2023,
+      "options": {
+        "a": "Conducting Open Market Operations",
+        "b": "Oversight of settlement and payment systems",
+        "c": "Debt and cash management for the Central and State Governments",
+        "d": "Regulating the functions of Nonbanking Financial Institutions"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2023-banking-08",
+      "question": "With reference to Central Bank digital currencies, consider the following statements:\n1. It is possible to make payments in a digital currency without using US dollar or SWIFT system.\n2. A digital currency can be distributed with a condition programmed into it such as a timeframe for spending it.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2023,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2023-banking-09",
+      "question": "Consider the following statements:\n1. The Self-Help Group (SHG) programme was originally initiated by the State Bank of India by providing microcredit to the financially deprived.\n2. In an SHG, all members of a group take responsibility for a loan that an individual member takes.\n3. The Regional Rural Banks and Scheduled Commercial Banks support SHGs.\nHow many of the above statements are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2023,
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2022-banking-10",
+      "question": "With reference to the ‘Banks Board Bureau (BBB)’, which of the following statements are correct?\n1. The Governor of RBI is the Chairman of BBB.\n2. BBB recommends for the selection of heads for Public Sector Banks.\n3. BBB helps the Public Sector Banks in developing strategies and capital raising plans.\nSelect the correct answer using the code given below.",
+      "chapter": "Banking Sector in India",
+      "year": 2022,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2022-banking-11",
+      "question": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\n1. They enable the digital representation of physical assets.\n2. They are unique cryptographic tokens that exist on a blockchain.\n3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.\nWhich of the statements given above are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2022,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2021-banking-12",
+      "question": "Consider the following statements:\n1. The Governor of the RBI is appointed by the Central Government.\n2. Certain provisions in the Constitution of India give the Central Government the right to issue directions to the RBI in public interest.\n3. The Governor of the RBI draws his power from the RBI Act.\nWhich of the above statements are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2021,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2021-banking-14",
+      "question": "In India, the Central Bank's function as the ‘lender of last resort’ usually refers to which of the following?\n1. Lending to trade and industry bodies when they fail to borrow from other sources\n2. Providing liquidity to the banks having a temporary crisis\n3. Lending to Governments to finance budgetary deficits\nSelect the correct answer using the code given below.",
+      "chapter": "Banking Sector in India",
+      "year": 2021,
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2021-banking-15",
+      "question": "With reference to Urban Cooperative Banks in India, consider the following statements:\n1. They are supervised and regulated by local boards set up by the State Governments.\n2. They can issue equity shares and preference shares.\n3. They were brought under the purview of the Banking Regulation Act, 1949 through an Amendment in 1966.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2021,
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2020-banking-17",
+      "question": "If you withdraw ₹1,00,000 in cash from your Demand Deposit Account at your bank, the immediate effect on aggregate money supply in the economy will be:",
+      "chapter": "Banking Sector in India",
+      "year": 2020,
+      "options": {
+        "a": "to reduce it by ₹1,00,000",
+        "b": "to increase it by ₹1,00,000",
+        "c": "to increase it by more than ₹1,00,000",
+        "d": "to leave it unchanged"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2020-banking-18",
+      "question": "If the RBI decides to adopt an expansionist monetary policy, which of the following would it not do?\n1. Cut and optimise the Statutory Liquidity Ratio\n2. Increase the Marginal Standing Facility Rate\n3. Cut the Bank Rate and Repo Rate\nSelect the correct answer using the code given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2020,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2020-banking-19",
+      "question": "Consider the following statements:\n1. In terms of short-term credit delivery to the agriculture sector, District Central Co-operative Banks (DCCBs) deliver more credit in comparison to Scheduled Commercial Banks and Regional Rural Banks.\n2. One of the most important functions of DCCBs is to provide funds to the Primary Agricultural Credit Societies.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2020,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2020-banking-20",
+      "question": "What is the importance of the term ‘Interest Coverage Ratio’ of a firm in India?\n1. It helps in understanding the present risk of a firm that a bank is going to give a loan to.\n2. It helps in evaluating the emerging risk of a firm that a bank is going to give a loan to.\n3. The higher a borrowing firm's level of Interest Coverage Ratio, the worse is its ability to service its debt.\nSelect the correct answer using the code given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2020,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2020-banking-21",
+      "question": "Which of the following phrases defines the nature of the ‘Hundi’ generally referred to in the sources of the post-Harsha period?",
+      "chapter": "Banking Sector in India",
+      "year": 2020,
+      "options": {
+        "a": "An advisory issued by the king to his subordinates",
+        "b": "A diary to be maintained for daily accounts",
+        "c": "A bill of exchange",
+        "d": "An order from the feudal lord to his subordinates"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2019-banking-22",
+      "question": "Which of the following is not included in the assets of a Commercial Bank in India?",
+      "chapter": "Banking Sector in India",
+      "year": 2019,
+      "options": {
+        "a": "Advances",
+        "b": "Deposits",
+        "c": "Investments",
+        "d": "Money at call and short notice"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2019-banking-23",
+      "question": "What was the purpose of Inter-Creditor Agreement signed by Indian Banks and Financial Institutions recently?",
+      "chapter": "Banking Sector in India",
+      "year": 2019,
+      "options": {
+        "a": "To lessen the Government of India’s perennial burden of fiscal deficit and current account deficit.",
+        "b": "To support the infrastructure projects of Central and State Governments.",
+        "c": "To act as independent regulator in case of applications for loans of ₹50 crore or more.",
+        "d": "To aim at faster resolution of stressed assets of ₹50 crore or more which are under consortium lending."
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2019-banking-24",
+      "question": "The Chairman of Public Sector Banks is selected by the:",
+      "chapter": "Banking Sector in India",
+      "year": 2019,
+      "options": {
+        "a": "Banks Board Bureau",
+        "b": "Reserve Bank of India",
+        "c": "Union Ministry of Finance",
+        "d": "Management of concerned bank"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2019-banking-25",
+      "question": "Which one of the following is not the most likely measure the Government/RBI takes to stop the slide of Indian rupee?",
+      "chapter": "Banking Sector in India",
+      "year": 2019,
+      "options": {
+        "a": "Curbing imports of non-essential goods and promoting exports",
+        "b": "Encouraging Indian borrowers to issue rupee-denominated Masala Bonds",
+        "c": "Easing conditions relating to External Commercial Borrowings",
+        "d": "Following an expansionary monetary policy"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2019-banking-26",
+      "question": "Consider the following statements:\nThe Reserve Bank of India's recent directives relating to ‘Storage of Payment System Data’, popularly known as data diktat, command the payment system providers that:\n1. They shall ensure that entire data relating to payment systems operated by them are stored in a system only in India.\n2. They shall ensure that the systems are owned and operated by Public Sector Enterprises.\n3. They shall submit the consolidated system audit report to the Comptroller and Auditor General of India by the end of the calendar year.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2019,
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2019-banking-27",
+      "question": "The money multiplier in an economy increases with which one of the following?",
+      "chapter": "Banking Sector in India",
+      "year": 2019,
+      "options": {
+        "a": "Increase in the Cash Reserve Ratio",
+        "b": "Increase in the banking habit of population",
+        "c": "Increase in the statutory liquidity ratio",
+        "d": "Increase in the population of the country"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2019-banking-28",
+      "question": "The Service Area Approach was implemented under the purview of",
+      "chapter": "Banking Sector in India",
+      "year": 2019,
+      "options": {
+        "a": "Integrated Rural Development Programme",
+        "b": "Lead Bank Scheme",
+        "c": "Mahatma Gandhi National Rural Employment Guarantee Scheme",
+        "d": "National Skill Development Mission"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2018-banking-29",
+      "question": "Which one of the following best describes the term ‘Merchant Discount Rate’ sometimes seen in news?",
+      "chapter": "Banking Sector in India",
+      "year": 2018,
+      "options": {
+        "a": "The incentive given by a bank to a merchant for accepting payments through debit cards pertaining to that bank.",
+        "b": "The amount paid back by banks to their customers when they use debit cards for financial transactions for purchasing goods or services.",
+        "c": "The charge to a merchant by a bank for accepting payments from his customers through the bank’s debit cards.",
+        "d": "The incentive given by the Government to merchants for promoting digital payments by their customers through point-of-sale (PoS) machines and debit cards."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2018-banking-30",
+      "question": "Consider the following statements:\n1. Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if the account holders fail to repay dues.\n2. CAR is decided by each individual bank.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2018,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2018-banking-31",
+      "question": "Which one of the following statements correctly describes the meaning of legal tender money?",
+      "chapter": "Banking Sector in India",
+      "year": 2018,
+      "options": {
+        "a": "The money which is tendered in courts of law to defray the fee of legal cases.",
+        "b": "The money which a creditor is under compulsion to accept in settlement of his claims.",
+        "c": "The bank money in the form of cheques, drafts, bills of exchange, etc.",
+        "d": "The metallic money in circulation in a country."
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2018-banking-32",
+      "question": "Consider the following statements:\n1. The Reserve Bank of India manages and services the Government of India Securities but not any State Government Securities.\n2. Treasury Bills are issued by the Government of India and there are no Treasury Bills issued by the State Governments.\n3. Treasury Bills offers are issued at a discount from the par value.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2018,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2018-banking-33",
+      "question": "With reference to the governance of public sector banking in India, consider the following statements:\n1. Capital infusion into Public Sector Banks by the Government of India has steadily increased in the last decade.\n2. To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2018,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2017-banking-34",
+      "question": "Which of the following statements is/are correct regarding the Monetary Policy Committee (MPC)?\n1. It decides the RBI's benchmark interest rates.\n2. It is a 12-member body including the Governor of RBI and is reconstituted every year.\n3. It functions under the Chairmanship of the Union Finance Minister.\nSelect the correct answer using the code given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2017,
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "3 only",
+        "d": "2 and 3 only"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2017-banking-35",
+      "question": "Which of the following statements best describes the term ‘Scheme for Sustainable Structuring of Stressed Assets (S4A)’ recently seen in the news?",
+      "chapter": "Banking Sector in India",
+      "year": 2017,
+      "options": {
+        "a": "It is a procedure for considering ecological costs of developmental schemes formulated by the Government.",
+        "b": "It is a scheme of RBI for reworking the financial structure of big corporate entities facing genuine difficulties.",
+        "c": "It is a disinvestment plan of the Government regarding Central Public Sector Undertakings.",
+        "d": "It is an important provision in The Insolvency and Bankruptcy Code recently implemented by the Government."
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2017-banking-36",
+      "question": "What is the purpose of setting up of Small Finance Banks (SFBs) in India?\n1. To supply credit to small business units\n2. To supply credit to small and marginal farmers\n3. To encourage young entrepreneurs to set up businesses particularly in rural areas\nSelect the correct answer using the code given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2017,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2017-banking-37",
+      "question": "Consider the following statements:\n1. National Payments Corporation of India (NPCI) helps in promoting the financial inclusion in the country.\n2. NPCI has launched RuPay, a card payment scheme.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2017,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2017-banking-38",
+      "question": "Which of the following is a most likely consequence of implementing the Unified Payments Interface (UPI)?",
+      "chapter": "Banking Sector in India",
+      "year": 2017,
+      "options": {
+        "a": "Mobile wallets will not be necessary for online payments.",
+        "b": "Digital currency will totally replace the physical currency in about two decades.",
+        "c": "FDI inflows will drastically increase.",
+        "d": "Direct transfer of subsidies to poor people will become very effective."
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2016-banking-39",
+      "question": "The establishment of ‘Payments Banks’ is being allowed in India to promote financial inclusion. Which of the following statements is/are correct in this context?\n1. Mobile telephone companies and supermarket chains that are owned and controlled by residents are eligible to be promoters of Payments Banks.\n2. Payments Banks can issue both credit cards and debit cards.\n3. Payments banks cannot undertake lending activities.\nSelect the correct answer using the code given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2016,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1 and 3 only",
+        "c": "2 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2016-banking-40",
+      "question": "The term ‘Core Banking Solutions’ is sometimes seen in the news. Which of the following statements best describes/describe this term?\n1. It is a networking of a bank's branches which enables customers to operate their accounts from any branch of the bank on its network regardless of where they open their accounts.\n2. It is an effort to increase RBI's control over commercial banks through computerization.\n3. It is a detailed procedure by which a bank with huge non-performing assets is taken over by another bank.\nSelect the correct answer using the code given below.",
+      "chapter": "Banking Sector in India",
+      "year": 2016,
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2016-banking-41",
+      "question": "Pradhan Mantri MUDRA Yojana is aimed at",
+      "chapter": "Banking Sector in India",
+      "year": 2016,
+      "options": {
+        "a": "bringing the small entrepreneurs into formal financial system",
+        "b": "providing loans to poor farmers for cultivating particular crops",
+        "c": "providing pensions to old and destitute persons",
+        "d": "funding the voluntary organisations involved in the promotion of skill development and employment generation"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2015-banking-42",
+      "question": "‘Basel-III Accord’ or simply ‘Basel-III’ often seen in the news seeks to",
+      "chapter": "Banking Sector in India",
+      "year": 2015,
+      "options": {
+        "a": "develop national strategies for the conservation and sustainable use of biological diversity",
+        "b": "improve banking sector’s ability to deal with financial and economic stress and improve risk management",
+        "c": "reduce the greenhouse gas emissions but place a heavier burden on developed countries",
+        "d": "transfer technology from developed countries to poor countries to enable them to replace the use of chlorofluorocarbons in refrigeration with harmless chemicals"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2015-banking-43",
+      "question": "When the Reserve Bank of India reduced the Statutory Liquidity Ratio by 50 basis points, which of the following is likely to happen?",
+      "chapter": "Banking Sector in India",
+      "year": 2015,
+      "options": {
+        "a": "India’s GDP growth rate increases drastically.",
+        "b": "Foreign Institutional Investors may bring more capital into our country.",
+        "c": "Scheduled Commercial Banks may cut their lending rates.",
+        "d": "It may drastically reduce the liquidity to the banking system."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2015-banking-44",
+      "question": "With reference to Indian economy, consider the following:\n1. Bank Rate\n2. Open Market Operations\n3. Public Debt\n4. Public Revenue\nWhich of the above is/are component/components of Monetary Policy?",
+      "chapter": "Banking Sector in India",
+      "year": 2015,
+      "options": {
+        "a": "1 only",
+        "b": "2, 3 and 4",
+        "c": "1 and 2",
+        "d": "1, 3 and 4"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2014-banking-45",
+      "question": "What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas?\n1. It enables the beneficiaries to draw their subsidies and social security benefits in their villages.\n2. It enables the beneficiaries in the rural areas to make deposits and withdrawals.\nSelect the correct answer using the code given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2014,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2014-banking-46",
+      "question": "The terms Marginal Standing Facility Rate and Net Demand and Time Liabilities, sometimes appearing in news, are used in relation to",
+      "chapter": "Banking Sector in India",
+      "year": 2014,
+      "options": {
+        "a": "banking operations",
+        "b": "communication networking",
+        "c": "military strategies",
+        "d": "supply and demand of agricultural products"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2013-banking-47",
+      "question": "Consider the following liquid assets:\n1. Demand deposits with the banks\n2. Time deposits with the banks\n3. Saving deposits with the banks\n4. Currency\nThe correct sequence of these assets in the decreasing order of liquidity is",
+      "chapter": "Banking Sector in India",
+      "year": 2013,
+      "options": {
+        "a": "1-4-3-2",
+        "b": "4-3-2-1",
+        "c": "2-3-1-4",
+        "d": "4-1-3-2"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2013-banking-48",
+      "question": "In the context of Indian economy, Open Market Operations refers to",
+      "chapter": "Banking Sector in India",
+      "year": 2013,
+      "options": {
+        "a": "borrowing by scheduled banks from the RBI",
+        "b": "lending by commercial banks to industry and trade",
+        "c": "purchase and sale of Government Securities by the RBI",
+        "d": "none of the above"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2013-banking-49",
+      "question": "Priority Sector Lending by banks in India constitutes the lending to",
+      "chapter": "Banking Sector in India",
+      "year": 2013,
+      "options": {
+        "a": "Agriculture",
+        "b": "Micro and Small Enterprises",
+        "c": "Weaker Sections",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2013-banking-51",
+      "question": "Which of the following grant/grants direct credit assistance to rural households?\n1. Regional Rural Banks\n2. National Bank for Agriculture and Rural Development\n3. Land Development Banks\nSelect the correct answer using the codes given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2013,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2013-banking-52",
+      "question": "The Reserve Bank of India regulates the commercial banks in matters of\n1. liquidity of assets\n2. branch expansion\n3. merger of banks\n4. winding up of banks\nSelect the correct answer using the codes given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2013,
+      "options": {
+        "a": "1 and 4 only",
+        "b": "2, 3 and 4 only",
+        "c": "1, 2 and 3 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2013-banking-53",
+      "question": "An increase in the Bank Rate generally indicates that the",
+      "chapter": "Banking Sector in India",
+      "year": 2013,
+      "options": {
+        "a": "Market rate of interest is likely to fall",
+        "b": "Central Bank is no longer making loans to commercial banks",
+        "c": "Central Bank is following an easy money policy",
+        "d": "Central Bank is following a tight money policy"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2012-banking-54",
+      "question": "The Reserve Bank of India (RBI) acts as a banker's bank. This would imply which of the following?\n1. Other banks retain their deposits with the RBI\n2. The RBI lends funds to the commercial banks in times of need\n3. The RBI advises the commercial banks on monetary matters\nSelect the correct answer using the codes given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2012,
+      "options": {
+        "a": "2 and 3 only",
+        "b": "1 and 2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer_note": "The supplied textbook key marks (a), despite statement 1 describing banks’ reserve deposits with RBI. Official UPSC-key verification is required; do not learn (a) as a settled exclusion of statement 1.",
+      "answer_status": "needs_review",
+      "textbook_answer": "a"
+    },
+    {
+      "id": "economy-prelim-2012-banking-55",
+      "question": "Which of the following measures would result in an increase in the money supply in the economy?\n1. Purchase of Government Securities from the public by the Central Bank\n2. Deposit of currency in commercial banks by the public\n3. Borrowing by the Government from the Central Bank\n4. Sale of Government Securities to the public by the Central Bank\nSelect the correct answer using the codes given below:",
+      "chapter": "Banking Sector in India",
+      "year": 2012,
+      "options": {
+        "a": "1 only",
+        "b": "2 and 4 only",
+        "c": "1 and 3 only",
+        "d": "2, 3 and 4"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2012-banking-56",
+      "question": "The basic idea of Lead Bank Scheme is that",
+      "chapter": "Banking Sector in India",
+      "year": 2012,
+      "options": {
+        "a": "big banks should try to open offices in each district",
+        "b": "there should be stiff competition among the various nationalised banks",
+        "c": "individual banks should adopt particular district for intensive development",
+        "d": "all the banks should make intensive efforts to mobilise deposits"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2011-banking-57",
+      "question": "The lowering of bank rate by the Reserve Bank of India leads to",
+      "chapter": "Banking Sector in India",
+      "year": 2011,
+      "options": {
+        "a": "more liquidity in the market",
+        "b": "less liquidity in the market",
+        "c": "no change in the liquidity in the market",
+        "d": "mobilisation of more deposits by commercial banks"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2011-banking-58",
+      "question": "In India, which of the following has the highest share in the disbursement of credit to agriculture and allied activities?",
+      "chapter": "Banking Sector in India",
+      "year": 2011,
+      "options": {
+        "a": "Commercial Banks",
+        "b": "Co-operative banks",
+        "c": "Regional Rural Banks",
+        "d": "Micro Finance Institutions"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelim-2010-banking-59",
+      "question": "With reference to the institution of Banking Ombudsman in India, which one of the statements is not correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2010,
+      "options": {
+        "a": "The Banking Ombudsman is appointed by the Reserve Bank of India.",
+        "b": "The Banking Ombudsman can consider complaints from Non-Resident Indians having accounts in India.",
+        "c": "The orders passed by the Banking Ombudsman are final and binding on the parties concerned.",
+        "d": "The service provided by the Banking Ombudsman is free of any fee."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2010-banking-60",
+      "question": "With reference to India, consider the following:\n1. Nationalisation of Banks\n2. Formation of Regional Rural Banks\n3. Adoption of villages by Bank Branches\nWhich of the above can be considered as steps taken to achieve the financial inclusion in India?",
+      "chapter": "Banking Sector in India",
+      "year": 2010,
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2010-banking-61",
+      "question": "Consider the following statements:\nThe functions of commercial banks in India include\n1. purchase and sale of shares and securities on behalf of customers\n2. acting as executors and trustees of wills\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2010,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelim-2010-banking-62",
+      "question": "In India, the interest rate on savings account in all the nationalised commercial banks is fixed by",
+      "chapter": "Banking Sector in India",
+      "year": 2010,
+      "options": {
+        "a": "Union Ministry of Finance",
+        "b": "Union Finance Commission",
+        "c": "Indian Banks’ Association",
+        "d": "None of the above"
+      },
+      "answer": "d",
+      "answer_note": "Historical 2010 question: RBI then regulated savings-deposit rates. Savings-deposit interest rates were deregulated in October 2011."
+    },
+    {
+      "id": "economy-prelim-2010-banking-63",
+      "question": "Which of the following terms indicates a mechanism used by commercial banks for providing credit to the Government?",
+      "chapter": "Banking Sector in India",
+      "year": 2010,
+      "options": {
+        "a": "Cash Credit Ratio",
+        "b": "Debt Service Obligation",
+        "c": "Liquidity Adjustment Facility",
+        "d": "Statutory Liquidity Ratio"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelim-2010-banking-64",
+      "question": "With reference to the Non-Banking Financial Companies (NBFCs) in India, consider the following statements:\n1. They cannot engage in the acquisition of securities issued by the Government.\n2. They cannot accept demand deposits like Saving Account.\nWhich of the statements given above is/are correct?",
+      "chapter": "Banking Sector in India",
+      "year": 2010,
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelim-2010-banking-65",
+      "question": "When the Reserve Bank of India announces an increase of the Cash Reserve Ratio, what does it mean?",
+      "chapter": "Banking Sector in India",
+      "year": 2010,
+      "options": {
+        "a": "The Commercial Banks will have less money to lend.",
+        "b": "The Reserve Bank of India will have less money to lend.",
+        "c": "The Union Government will have less money to lend.",
+        "d": "The Commercial Banks will have more money to lend."
+      },
+      "answer": "a"
+    }
+  ]
+}

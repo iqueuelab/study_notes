@@ -1,0 +1,323 @@
+{
+  "subject": "Modern Indian History",
+  "exam_stage": "Prelims",
+  "questions": [
+    {
+      "id": "modern-history-prelims-2003-shah-alam-ii",
+      "question": "Assertion (A): Shah Alam II spent the initial years as an emperor outside Delhi.\nReason (R): There was always a lurking danger of foreign invasion from the North-West Frontier.\nSelect the answer from the options given below:",
+      "chapter": "Decline of Mughal Empire",
+      "year": 2003,
+      "options": {
+        "a": "Both A and R are true, and R is the correct explanation of A.",
+        "b": "Both A and R are true, but R is not the correct explanation of A.",
+        "c": "A is true, but R is false.",
+        "d": "A is false, but R is true."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "modern-history-prelims-2003-jahandar-shah",
+      "question": "How did the Mughal emperor Jahandar Shah's reign come to an early end?",
+      "chapter": "Decline of Mughal Empire",
+      "year": 2003,
+      "options": {
+        "a": "He was deposed by his Wazir.",
+        "b": "He died due to slip while climbing down steps.",
+        "c": "He was defeated by his nephew in a battle.",
+        "d": "He died of sickness due to too much consumption of wine."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "modern-history-prelims-2000-maratha-administration",
+      "year": 2000,
+      "question": "Who among the following streamlined the last Maratha administration after Sambhaji?",
+      "options": {
+        "a": "Raja Ram",
+        "b": "Balaji Vishwanath",
+        "c": "Ganga bai",
+        "d": "Nanaji Deshmukh"
+      },
+      "answer": "b",
+      "chapter": "Rise of Autonomous States"
+    },
+    {
+      "id": "modern-history-prelims-2001-foreign-embassies",
+      "year": 2001,
+      "question": "Who among the following Indian rulers established embassies in foreign countries on modern lines?",
+      "options": {
+        "a": "Hyder Ali",
+        "b": "Mir Qasim",
+        "c": "Shah Alam II",
+        "d": "Tipu Sultan"
+      },
+      "answer": "d",
+      "chapter": "Rise of Autonomous States",
+      "related_chapters": [
+        "British Expansion in South India: Conquest of Mysore and the Marathas (1767–1818)"
+      ]
+    },
+    {
+      "id": "modern-history-prelims-2010-abdali-panipat",
+      "year": 2010,
+      "question": "What was the immediate reason for Ahmad Shah Abdali to invade India and fight the third Battle of Panipat?",
+      "options": {
+        "a": "He wanted to avenge the expulsion of his viceroy Taimur Shah from Lahore by the Marathas",
+        "b": "The frustrated governor of Jullundhar Adina Beg Khan invited him to invade Punjab",
+        "c": "He wanted to punish Mughal administration for non-payment of the revenues of the Chahar Mahal (Gujarat, Aurangabad, Sialkot and Pasrur)",
+        "d": "He wanted to annex all the fertile plains of Punjab up to the borders of Delhi to his Kingdom"
+      },
+      "answer": "a",
+      "chapter": "Rise of Autonomous States"
+    },
+    {
+      "id": "modern-history-prelims-2018-bengal-exports",
+      "year": 2018,
+      "question": "The staple commodities of export by the English East India Company from Bengal in the middle of the 18th century were",
+      "options": {
+        "a": "Raw cotton, oil-seeds and opium",
+        "b": "Sugar, salt, zinc and lead",
+        "c": "Copper, silver, gold, spices and tea",
+        "d": "Cotton, silk, saltpetre and opium"
+      },
+      "answer": "d",
+      "chapter": "Rise of Autonomous States"
+    },
+    {
+      "id": "modern-history-prelims-2021-regional-kingdoms",
+      "year": 2021,
+      "question": "With reference to Indian History, which of the following statements is/are correct?\n1. The Nizamat of Arcot emerged out of Hyderabad State\n2. The Mysore Kingdom emerged out of Vijayanagara Empire\n3. Rohilkhand Kingdom was formed out of the territories occupied by Ahmad Shah Durani\nSelect the correct answer using the code given below",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "answer": "a",
+      "chapter": "Rise of Autonomous States"
+    },
+    {
+      "id": "modern-history-prelims-1999-european-visitors",
+      "year": 1999,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "Which one of the following pairs is not correctly matched?",
+      "options": {
+        "a": "Jahangir : William Hawkins",
+        "b": "Akbar : Sir Thomas Roe",
+        "c": "Shahjahan : Travernier",
+        "d": "Aurangzeb : Manucci"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "modern-history-prelims-2003-dutch-earliest-factory",
+      "year": 2003,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "In India, among the following locations, the Dutch established their earliest Factory at",
+      "options": {
+        "a": "Surat",
+        "b": "Pulicat",
+        "c": "Cochin",
+        "d": "Kasimbazar"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "modern-history-prelims-2003-european-entry",
+      "year": 2003,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "With reference to the entry of European powers into India, which one of the following statements is not correct?",
+      "options": {
+        "a": "The Portuguese captured Goa in 1499",
+        "b": "The English opened their first factory in South India at Masulipatnam",
+        "c": "In Eastern India, the English Company opened its first factory in Orissa in 1633",
+        "d": "Under the leadership of Dupleix, the French occupied Madras in 1746"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "modern-history-prelims-2005-kochi-colonial-status",
+      "year": 2005,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "Which of the following is the correct statement?",
+      "options": {
+        "a": "The modern Kochi was a Dutch Colony till India's Independence.",
+        "b": "The Dutch defeated the Portuguese and built Fort Williams in the modern Kochi.",
+        "c": "The modern Kochi was first a Dutch Colony before the Portuguese took over from them.",
+        "d": "The modern Kochi never became a part of the British Colony."
+      },
+      "answer": "d",
+      "answer_note": "The supplied key gives (d); distinguish the princely kingdom of Cochin from Fort Kochi, which came under British control in 1795. The wording is geographically ambiguous."
+    },
+    {
+      "id": "modern-history-prelims-2006-factory-1613",
+      "year": 2006,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "In the year 1613, where was the English East India Company given permission to set up a factory (trading post)?",
+      "options": {
+        "a": "Bangalore",
+        "b": "Madras",
+        "c": "Masulipatnam",
+        "d": "Surat"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "modern-history-prelims-2007-first-english-fort",
+      "year": 2007,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "Which one of the following was the first Fort constructed by the British in India?",
+      "options": {
+        "a": "Fort William",
+        "b": "Fort St. George",
+        "c": "Fort St. David",
+        "d": "Fort St. Angelo"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "modern-history-prelims-2007-last-european-traders",
+      "year": 2007,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "Who among the following Europeans were the last to come to pre-independence India as traders?",
+      "options": {
+        "a": "Dutch",
+        "b": "English",
+        "c": "French",
+        "d": "Portuguese"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "modern-history-prelims-2009-surat-permission",
+      "year": 2009,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "With whose permission did the English set up their first factory in Surat?",
+      "options": {
+        "a": "Akbar",
+        "b": "Jahangir",
+        "c": "Shahjahan",
+        "d": "Aurangzeb"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "modern-history-prelims-2010-pondicherry-occupation",
+      "year": 2010,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "With reference to Pondicherry (now Puducherry), consider the following statements:\n1. The first European power to occupy Pondicherry were the Portuguese.\n2. The second European power to occupy Pondicherry were the French.\n3. The English never occupied Pondicherry.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "modern-history-prelims-2022-european-settlement-grants",
+      "year": 2022,
+      "chapter": "Rise of British Supremacy: A Backgrounder",
+      "question": "With reference to Indian history, consider the following statements:\n1. The Dutch established their factories/warehouses on the east coast on lands granted to them by Gajapati rulers.\n2. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate.\n3. The English East India Company established a factory at Madras on a plot of land leased from a representative of the Vijayanagara empire.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "modern-history-prelims-1995-battle-pairs",
+      "year": 1995,
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": {
+        "a": "Battle of Buxar : Mir Jafar vs Clive",
+        "b": "Battle of Wandiwash : French vs East India Company",
+        "c": "Battle of Chillianwala : Dalhousie vs Marathas",
+        "d": "Battle of Kharda : Nizam vs East India Company"
+      },
+      "answer": "b",
+      "chapter": "Rise of British Supremacy: Carnatic, Plassey and Buxar"
+    },
+    {
+      "id": "modern-history-prelims-1996-dupleix-intervention",
+      "year": 1996,
+      "question": "Who among the following was the first European to initiate the policy of taking part in the quarrels of Indian princes with a view to acquire territories?",
+      "options": {
+        "a": "Clive",
+        "b": "Dupleix",
+        "c": "Albuquerque",
+        "d": "Warren Hastings"
+      },
+      "answer": "b",
+      "chapter": "Rise of British Supremacy: Carnatic, Plassey and Buxar"
+    },
+    {
+      "id": "modern-history-prelims-2004-panipat-tipu-plassey",
+      "year": 2004,
+      "question": "Consider the following statements:\n1. In the third Battle of Panipat, Ahmad Shah Abdali defeated Ibrahim Lodi.\n2. Tipu Sultan was killed in the Third Anglo-Mysore war.\n3. Mir Jafar entered in a conspiracy with the English for the defeat of Nawab Siraj-ud-Daulah in the Battle of Plassey.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "3 only",
+        "c": "2 and 3",
+        "d": "None"
+      },
+      "answer": "b",
+      "chapter": "Rise of British Supremacy: Carnatic, Plassey and Buxar"
+    },
+    {
+      "id": "modern-history-prelims-2005-battle-chronology",
+      "year": 2005,
+      "question": "Which of the following is the correct chronological order of the battles fought in India in the 18th century?",
+      "options": {
+        "a": "Battle of Wandiwash, Battle of Buxar, Battle of Ambur, Battle of Plassey",
+        "b": "Battle of Ambur, Battle of Plassey, Battle of Wandiwash, Battle of Buxar",
+        "c": "Battle of Wandiwash, Battle of Plassey, Battle of Ambur, Battle of Buxar",
+        "d": "Battle of Ambur, Battle of Buxar, Battle of Wandiwash, Battle of Plassey"
+      },
+      "answer": "b",
+      "chapter": "Rise of British Supremacy: Carnatic, Plassey and Buxar"
+    },
+    {
+      "id": "modern-history-prelims-2003-maratha-assertion-reason",
+      "year": 2003,
+      "question": "Assertion (A): Marathas emerged as the strongest native power in India after the decline of Mughal Empire.\nReason (R): Marathas were first to have a clear concept of united nation.\nSelect the answer from the options given below:",
+      "options": {
+        "a": "Both A and R are true and R is the correct explanation of A",
+        "b": "Both A and R are true but R is not a correct explanation of A",
+        "c": "A is true but R is false",
+        "d": "A is false but R is true"
+      },
+      "answer": "c",
+      "answer_note": "The supplied book key gives (a), which conflicts with the correct answer (c): the assertion is true, but the reason incorrectly attributes a modern concept of united nationhood to the Marathas.",
+      "chapter": "British Expansion in South India: Conquest of Mysore and the Marathas (1767–1818)"
+    },
+    {
+      "id": "modern-history-prelims-2003-annexation-order",
+      "year": 2003,
+      "question": "Consider the following Princely states of the British rule in India:\n1. Jhansi\n2. Sambalpur\n3. Satara\nThe correct chronological order in which they were annexed by the British is:",
+      "options": {
+        "a": "1-2-3",
+        "b": "1-3-2",
+        "c": "3-2-1",
+        "d": "3-1-2"
+      },
+      "answer": "c",
+      "chapter": "British Expansion in South India: Conquest of Mysore and the Marathas (1767–1818)"
+    },
+    {
+      "id": "modern-history-prelims-2018-subsidiary-alliance-objectives",
+      "year": 2018,
+      "question": "Which one of the following statements does not apply to the system of Subsidiary Alliance introduced by Lord Wellesley?",
+      "options": {
+        "a": "To maintain a large standing army at other's expense",
+        "b": "To keep India safe from Napoleonic danger",
+        "c": "To secure a fixed income for the Company",
+        "d": "To establish British paramountcy over the Indian States"
+      },
+      "answer": "c",
+      "chapter": "British Expansion in South India: Conquest of Mysore and the Marathas (1767–1818)"
+    }
+  ]
+}
