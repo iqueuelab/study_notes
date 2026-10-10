@@ -15,3 +15,15 @@ When creating or updating chapter notes from supplied images or documents:
 - Keep standalone end-of-chapter Article summaries in the common editable `Indian Polity/Articles Summary.md` and matching HTML preview. Merge new entries without duplicates; retain Article citations that explain chapter concepts, but do not reproduce standalone Article indices within individual chapter notes.
 
 - Organise the common Articles Summary by constitutional Part in Part order, with Articles in ascending numeric order within each Part; keep lettered Articles and clauses beside their parent Article.
+
+## Historical subject chronology
+
+- When completing any history chapter (Modern Indian History, Ancient/Medieval India, Indian Art and Culture, or World History), update that subject’s common `Chronology.json`, editable `Chronology.md`, and responsive `Chronology.html` at subject-folder level. Start the file when the first chapter is completed; keep expanding it chapter by chapter.
+- Include all dated historical events, reigns, treaties, wars, institutional changes and relevant background periods covered in the chapter. Exclude PYQ exam years, rejected dates and unsupported dates. Do not invent dates for undated events. Keep approximate/disputed dates clearly labelled.
+- Maintain one entry for each event; merge chapter references and complementary facts when an event recurs. Retain previous entries. Store numeric start/end years and known month/day separately; use negative years for BCE. Sort chronologically by start date, preserve ranges, and do not imply an exact within-year sequence when only years are known.
+- Keep chapter links, event/category and chapter filters, readable vertical timeline cards on small screens, and a clean A4 print layout. Preserve corrected facts and qualifications from the chapter notes. Regenerate Markdown/HTML with `python3 tools/build_history_chronology.py "<subject-folder>"` after editing the common JSON.
+
+## Polity amendments summary
+
+- Maintain the common editable `Indian Polity/Amendments Summary.md` and responsive `Amendments Summary.html` when completing Polity chapters. Group all amendment-related changes across chapters under one heading per constitutional amendment number, in ascending numeric order, with the Amendment Act title year. Merge complementary changes without duplicates and preserve earlier entries.
+- Include relevant Articles/Parts/Schedules, before-and-after changes, and chapter links. Distinguish Act title year from assent/commencement; clearly label repeal, uncommenced provisions and judicial invalidation without treating them as operative law or invalidating a whole amendment when only part was struck down. Exclude ordinary statutory amendments and other countries’ amendments.

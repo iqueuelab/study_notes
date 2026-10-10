@@ -1,0 +1,4467 @@
+{
+  "subject": "Modern Indian History",
+  "chapters": {
+    "1": {
+      "label": "Unit 1 · Chapter 1",
+      "title": "Decline of Mughal Empire",
+      "notes": "01. Mid-Eighteenth Century India (India on the Eve of British Conquest)/01. Decline of Mughal Empire/Quick Revision Notes.html",
+      "short_label": "U1 · C1"
+    },
+    "2": {
+      "label": "Unit 1 · Chapter 2",
+      "title": "Rise of Autonomous States",
+      "notes": "01. Mid-Eighteenth Century India (India on the Eve of British Conquest)/02. Rise of Autonomous States/Quick Revision Notes.html",
+      "short_label": "U1 · C2"
+    },
+    "3": {
+      "label": "Unit 1 · Chapter 3",
+      "title": "Rise of British Supremacy: A Backgrounder",
+      "notes": "01. Mid-Eighteenth Century India (India on the Eve of British Conquest)/03. Rise of British Supremacy - A Backgrounder/Quick Revision Notes.html",
+      "short_label": "U1 · C3"
+    },
+    "4": {
+      "label": "Unit 1 · Chapter 4",
+      "title": "Rise of British Supremacy: Carnatic, Plassey and Buxar",
+      "notes": "01. Mid-Eighteenth Century India (India on the Eve of British Conquest)/04. Rise of British Supremacy - Carnatic, Plassey and Buxar/Quick Revision Notes.html",
+      "short_label": "U1 · C4"
+    },
+    "5": {
+      "label": "Unit 2 · Chapter 1",
+      "title": "British Expansion in South India: Conquest of Mysore and the Marathas (1767–1818)",
+      "notes": "02. British Expansion and Consolidation in India (1767-1857)/01. British Expansion in South India(Conquest of Mysore and the Marathas, 1767-1818)/Quick Revision Notes.html",
+      "short_label": "U2 · C1"
+    }
+  },
+  "events": [
+    {
+      "id": "9d48df1b5c30",
+      "start_year": 1300,
+      "date_label": "14th–16th centuries",
+      "title": "Renaissance",
+      "summary": "Revival of classical learning, art and enquiry, beginning in Italy.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1599,
+      "date_precision": "period"
+    },
+    {
+      "id": "c2d2fa0dd3a1",
+      "start_year": 1347,
+      "date_label": "1347–51",
+      "title": "Black Death in Europe",
+      "summary": "Population loss and labour scarcity deepened the feudal crisis; England affected in 1348.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1351,
+      "date_precision": "period"
+    },
+    {
+      "id": "fa1b90da5741",
+      "start_year": 1453,
+      "date_label": "1453",
+      "title": "Ottomans capture Constantinople",
+      "summary": "Increased interest in alternative Asian routes; existing trade did not simply cease.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "edc34ed645b6",
+      "start_year": 1487,
+      "date_label": "1487",
+      "title": "Dias's expedition begins",
+      "summary": "Portuguese exploration sought a route around southern Africa.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "541b97e3e205",
+      "start_year": 1488,
+      "date_label": "1488",
+      "title": "Dias rounds the Cape",
+      "summary": "Southern African route opened; Cape of Storms became Cape of Good Hope.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "46cf94e2fae0",
+      "start_year": 1492,
+      "date_label": "1492",
+      "title": "Columbus reaches the Americas",
+      "summary": "Sailed for Spain; did not reach India.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "39eae1bd70ed",
+      "start_year": 1498,
+      "date_label": "1498",
+      "title": "Vasco da Gama reaches Calicut",
+      "summary": "Cape route to India; Zamorin ruled Calicut, Manuel I ruled Portugal.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "826acaabfeda",
+      "start_year": 1500,
+      "date_label": "1500",
+      "title": "Cabral's expedition",
+      "summary": "Reached Brazil and India; conflict at Calicut strengthened Portuguese links with Cochin.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5d020122ad99",
+      "start_year": 1500,
+      "date_label": "16th–18th centuries",
+      "title": "Mercantilist policy",
+      "summary": "Bullion, protected commerce and colonial monopoly link State power to trade.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1799,
+      "date_precision": "period"
+    },
+    {
+      "id": "c7a1f734513b",
+      "start_year": 1500,
+      "date_label": "16th–17th centuries",
+      "title": "Merchant capitalism expands",
+      "summary": "Trade, credit and joint-stock enterprise connect distant markets and producers.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1699,
+      "date_precision": "period"
+    },
+    {
+      "id": "ec6ac8f9a5b5",
+      "start_year": 1500,
+      "date_label": "16th century",
+      "title": "Reformation",
+      "summary": "Challenges to Catholic authority and emergence of Protestant churches.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1599,
+      "date_precision": "period"
+    },
+    {
+      "id": "68478a1b4815",
+      "start_year": 1502,
+      "date_label": "1502",
+      "title": "Da Gama returns to India",
+      "summary": "Armed Portuguese commerce expands.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "8711342add04",
+      "start_year": 1503,
+      "date_label": "1503",
+      "title": "Portuguese fort at Cochin",
+      "summary": "Fortification is distinct from establishing a trading factory.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b0f05a0cc597",
+      "start_year": 1505,
+      "date_label": "1505–09",
+      "title": "Almeida's viceroyalty",
+      "summary": "First viceroy of Estado da Índia; Blue Water naval policy.",
+      "category": "Rulers & States",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1509,
+      "date_precision": "period"
+    },
+    {
+      "id": "c71ff67c8c86",
+      "start_year": 1505,
+      "date_label": "1505",
+      "title": "Portuguese fort at Cannanore",
+      "summary": "Part of the coastal network supporting armed trade.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "68d7518d3133",
+      "start_year": 1508,
+      "date_label": "1508",
+      "title": "Battle of Chaul",
+      "summary": "Almeida's son Lourenço killed; distinguish from the following year's Diu victory.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e664fec754dd",
+      "start_year": 1509,
+      "date_label": "1509–15",
+      "title": "Albuquerque's governorship",
+      "summary": "Strategic territorial and maritime bases consolidate Portuguese power.",
+      "category": "Rulers & States",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1515,
+      "date_precision": "period"
+    },
+    {
+      "id": "cf6afad5237d",
+      "start_year": 1509,
+      "date_label": "1509",
+      "title": "Battle of Diu",
+      "summary": "Almeida defeated a fleet including Egyptian Mamluk and Gujarat forces.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "18315bd9285a",
+      "start_year": 1510,
+      "date_label": "1510",
+      "title": "Goa captured by Albuquerque",
+      "summary": "Taken from Bijapur Sultanate; not in 1499.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "f2256865caec",
+      "start_year": 1511,
+      "date_label": "1511",
+      "title": "Portuguese capture Malacca",
+      "summary": "Control of an important Southeast Asian maritime choke point.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c770143af9ed",
+      "start_year": 1515,
+      "date_label": "1515",
+      "title": "Portuguese take Hormuz",
+      "summary": "Persian Gulf base completes a strategic port network.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "2570f29de1e8",
+      "start_year": 1526,
+      "date_label": "1526",
+      "title": "First Battle of Panipat",
+      "summary": "Babur defeated Ibrahim Lodi; comparison in the chapter's PYQ explanation.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c69ad3ba024b",
+      "start_year": 1529,
+      "date_label": "1529–38",
+      "title": "Nuno da Cunha's governorship",
+      "summary": "Associated with Goa headquarters and Diu fortification agreement.",
+      "category": "Rulers & States",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1538,
+      "date_precision": "period"
+    },
+    {
+      "id": "028db354363a",
+      "start_year": 1530,
+      "date_label": "1530",
+      "title": "Portuguese headquarters move to Goa",
+      "summary": "Cochin replaced as the principal administrative centre.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b05363e6f2d9",
+      "start_year": 1535,
+      "date_label": "1535",
+      "title": "Diu fortification agreement",
+      "summary": "Bahadur Shah of Gujarat permitted Portuguese fortification under Mughal pressure.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "458dcdd36f9f",
+      "start_year": 1556,
+      "date_label": "1556",
+      "title": "Printing press at Goa",
+      "summary": "Early printing and missionary/vernacular publishing.",
+      "category": "Society & culture",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "4b4d3e274e3d",
+      "start_year": 1565,
+      "date_label": "1565",
+      "title": "Battle of Talikota",
+      "summary": "Vijayanagara defeated; its political lineage did not disappear immediately.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c9c83a53fe16",
+      "start_year": 1580,
+      "date_label": "1580–1640",
+      "title": "Iberian Union",
+      "summary": "Portuguese Crown linked to Spain; wider European conflicts affected overseas power.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1640,
+      "date_precision": "period"
+    },
+    {
+      "id": "8c525e70abd6",
+      "start_year": 1596,
+      "date_label": "1596",
+      "title": "Houtman reaches Banten, Java",
+      "summary": "Dutch maritime expansion; this voyage did not reach India.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "78e4316e67dc",
+      "start_year": 1599,
+      "date_label": "1599",
+      "title": "English merchants organise",
+      "summary": "Enterprise preceded the East India Company charter.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "04bc3d6679d2",
+      "start_year": 1600,
+      "date_label": "1600",
+      "title": "English East India Company charter",
+      "summary": "Elizabeth I granted the company a trading monopoly.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "64090a2add07",
+      "start_year": 1602,
+      "date_label": "1602",
+      "title": "Dutch VOC founded",
+      "summary": "United company with chartered commercial and quasi-State powers.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7098d76032f1",
+      "start_year": 1605,
+      "date_label": "1605",
+      "title": "Dutch factory at Masulipatnam",
+      "summary": "Earliest Dutch factory in India; Pulicat is earliest only among certain PYQ choices.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c82466dcf03a",
+      "start_year": 1606,
+      "date_label": "1606",
+      "title": "Dutch factory at Petapuli",
+      "summary": "Petapuli/Nizampatnam joins the Coromandel trading network.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "006b2498c5b7",
+      "start_year": 1606,
+      "date_label": "1606",
+      "title": "Guru Arjan executed",
+      "summary": "Important turning point in Sikh–Mughal relations.",
+      "category": "Society & culture",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6bc43e1e4439",
+      "start_year": 1608,
+      "date_label": "1608",
+      "title": "Hawkins arrives at Surat",
+      "summary": "Came on Hector; later travelled to Jahangir's court.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "12189d093c35",
+      "start_year": 1609,
+      "date_label": "1609",
+      "title": "Hawkins at Jahangir's court",
+      "summary": "Commercial negotiations obstructed by Portuguese opposition.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "442a786d50ba",
+      "start_year": 1610,
+      "date_label": "1610",
+      "title": "Dutch base at Pulicat",
+      "summary": "Major headquarters, Fort Geldria and pagoda coinage.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "901519e19987",
+      "start_year": 1611,
+      "date_label": "1611",
+      "title": "English factory at Masulipatnam",
+      "summary": "First English factory in South India.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "79301e1801a9",
+      "start_year": 1612,
+      "date_label": "1612",
+      "title": "Battle of Swally/Suvali",
+      "summary": "Thomas Best defeated Portuguese naval forces near Surat.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d6e917645bb4",
+      "start_year": 1613,
+      "date_label": "1613",
+      "title": "English factory permitted at Surat",
+      "summary": "Permission under Jahangir after Swally.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "ac889cac5610",
+      "start_year": 1615,
+      "date_label": "1615–19",
+      "title": "Thomas Roe's embassy",
+      "summary": "James I's ambassador negotiated at Jahangir's court, not Akbar's.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1619,
+      "date_precision": "period"
+    },
+    {
+      "id": "5ec8a75ffc3a",
+      "start_year": 1616,
+      "date_label": "1616",
+      "title": "Danish East India Company founded",
+      "summary": "Charter date differs from the later Tranquebar settlement.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "07480f128d54",
+      "start_year": 1620,
+      "date_label": "1620",
+      "title": "Danish settlement at Tranquebar",
+      "summary": "Tharangambadi near Tanjore; Fort Dansborg.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "bd4e2786f3d2",
+      "start_year": 1623,
+      "date_label": "1623",
+      "title": "Amboyna incident",
+      "summary": "Dutch executions of English merchants and others intensified commercial rivalry.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a25e4d3b6dc6",
+      "start_year": 1625,
+      "date_label": "1625",
+      "title": "Company gains judicial powers",
+      "summary": "One stage in the English Company's acquisition of governmental functions.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "525171013c8b",
+      "start_year": 1632,
+      "date_label": "1632",
+      "title": "Golconda Golden Farman",
+      "summary": "Trading concessions associated with an annual payment of 500 pagodas.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "8b1c1e57fe2d",
+      "start_year": 1633,
+      "date_label": "1633",
+      "title": "English factories in Odisha",
+      "summary": "Hariharpur and Balasore: first English footholds in Eastern India.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e0b2a42fef98",
+      "start_year": 1639,
+      "date_label": "1639",
+      "title": "Madras acquired for Company settlement",
+      "summary": "Day and Cogan obtained land from Damarla Venkatadri Nayak under the Vijayanagara lineage.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5bf4a7323277",
+      "start_year": 1640,
+      "date_label": "1640",
+      "title": "Fort St George built",
+      "summary": "First English fort in India; distinguish from Fort William in Calcutta.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "25140c75a598",
+      "start_year": 1651,
+      "date_label": "1651",
+      "title": "English factory at Hugli",
+      "summary": "Shah Shuja's permission; Bengal trade network expands.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "499a00e63214",
+      "start_year": 1661,
+      "date_label": "1661",
+      "title": "Anglo-Portuguese marriage treaty",
+      "summary": "Bombay promised in the Catherine–Charles II marriage arrangement.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "9362719d4703",
+      "start_year": 1661,
+      "date_label": "1661",
+      "title": "Company authorised armed shipping",
+      "summary": "Further development of military capacity under charter.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "068bdb1c2235",
+      "start_year": 1662,
+      "date_label": "1662",
+      "title": "Catherine of Braganza marries Charles II",
+      "summary": "Wedding date differs from 1661 treaty and 1668 Company transfer.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a6d09519fc46",
+      "start_year": 1663,
+      "date_label": "1663",
+      "title": "Dutch take Cochin from Portuguese",
+      "summary": "Fort Kochi later passed to British control; distinguish the princely Cochin kingdom.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d21d503ee090",
+      "start_year": 1664,
+      "date_label": "1664",
+      "title": "French East India Company founded",
+      "summary": "Colbert's initiative under Louis XIV.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "870d8693d00e",
+      "start_year": 1667,
+      "date_label": "1667",
+      "title": "French expedition to Surat",
+      "summary": "Preceded the factory established in 1668.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "92d10c8c93f0",
+      "start_year": 1668,
+      "date_label": "1668",
+      "title": "Bombay transferred to English Company",
+      "summary": "Crown lease at £10 annual rent; later western administrative base.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7b6736fac649",
+      "start_year": 1668,
+      "date_label": "1668",
+      "title": "French factory at Surat",
+      "summary": "First major French Indian commercial foothold in this sequence.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d9fdd3d03d81",
+      "start_year": 1669,
+      "date_label": "1669",
+      "title": "French factory at Masulipatnam",
+      "summary": "French trade expands along the Coromandel Coast.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d8eadd3c3302",
+      "start_year": 1673,
+      "date_label": "1673",
+      "title": "Bellanger arrives at Pondicherry",
+      "summary": "Precedes François Martin's development of the settlement.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "2dc8ab813188",
+      "start_year": 1674,
+      "date_label": "1674",
+      "title": "François Martin develops Pondicherry",
+      "summary": "Local grant from Sher Khan Lodi, Bijapur's representative.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a3eca63dce54",
+      "start_year": 1675,
+      "date_label": "1675",
+      "title": "Guru Tegh Bahadur executed at Delhi",
+      "summary": "Gobind Singh succeeded as Guru aged nine.",
+      "category": "Society & culture",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "254a28222e49",
+      "start_year": 1683,
+      "date_label": "1683",
+      "title": "Company gains further war/peace powers",
+      "summary": "Charter strengthens quasi-State military functions.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cb9cc8cacd0e",
+      "start_year": 1686,
+      "date_label": "1686–90",
+      "title": "Child's War against Aurangzeb",
+      "summary": "Company defeated; trade resumed after submission and fine.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1690,
+      "date_precision": "period"
+    },
+    {
+      "id": "7304024bab61",
+      "start_year": 1689,
+      "date_label": "1689",
+      "title": "Sambhaji executed; Shahu captured",
+      "summary": "Rajaram and later Tarabai sustained Maratha resistance.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e46fd06c2aa9",
+      "start_year": 1690,
+      "date_label": "1690s",
+      "title": "Chandernagore consolidated",
+      "summary": "French Bengal trading base develops in the late seventeenth century.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1699,
+      "date_precision": "period"
+    },
+    {
+      "id": "ee05a92d3f1c",
+      "start_year": 1690,
+      "date_label": "1690",
+      "title": "Company purchases Fort St David",
+      "summary": "Southern base near Cuddalore.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "32b8f12f1e18",
+      "start_year": 1690,
+      "date_label": "1690",
+      "title": "Dutch headquarters shift to Nagapattinam",
+      "summary": "Replaced Pulicat as principal Dutch Coromandel headquarters.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5067fd1333ac",
+      "start_year": 1690,
+      "date_label": "1690",
+      "title": "Job Charnock settles at Sutanuti",
+      "summary": "Company foothold; does not imply Calcutta had no earlier inhabitants.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "ef2759020d98",
+      "start_year": 1691,
+      "date_label": "1691",
+      "title": "Bengal trading concession",
+      "summary": "Company privilege against ₹3,000 annual payment.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cbf747a73bb2",
+      "start_year": 1693,
+      "date_label": "1693",
+      "title": "Dutch seize Pondicherry",
+      "summary": "French possession temporarily interrupted.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "dc932e5e3b7a",
+      "start_year": 1696,
+      "date_label": "1696",
+      "title": "Calcutta fortification begins",
+      "summary": "Fort William developed around 1700; do not collapse the stages.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "8172a5d4ce78",
+      "start_year": 1697,
+      "date_label": "1697",
+      "title": "Treaty of Ryswick",
+      "summary": "Provided for French restoration at Pondicherry; actual return followed in 1699.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c27a6c4c7a2c",
+      "start_year": 1698,
+      "date_label": "1698",
+      "title": "Company acquires three-village zamindari",
+      "summary": "Sutanuti, Kalikata and Gobindapur, with Azim-us-Shan's permission.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d87a9121d08d",
+      "start_year": 1699,
+      "date_label": "1699",
+      "title": "Khalsa founded",
+      "summary": "Guru Gobind Singh; lasting community and martial institutions.",
+      "category": "Society & culture",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b255618075e9",
+      "start_year": 1699,
+      "date_label": "1699",
+      "title": "Pondicherry returned to French",
+      "summary": "Distinguish actual restoration from the 1697 treaty.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "221e97e3101b",
+      "start_year": 1699,
+      "date_label": "1699–1743",
+      "title": "Sawai Jai Singh II's reign",
+      "summary": "Jaipur, observatories and scientific patronage.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1743,
+      "date_precision": "period"
+    },
+    {
+      "id": "a022dc6e30e8",
+      "start_year": 1700,
+      "date_label": "c.1700",
+      "title": "Fort William and Bengal presidency develop",
+      "summary": "Company's Bengal settlements become an administrative centre.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "date_precision": "approximate"
+    },
+    {
+      "id": "d498a9b7b0d0",
+      "start_year": 1700,
+      "date_label": "1700",
+      "title": "Murshid Quli Khan becomes Bengal diwan",
+      "summary": "Revenue authority precedes combined governorship in 1717.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "aa758a06b417",
+      "start_year": 1700,
+      "date_label": "1700",
+      "title": "Rajaram dies; Tarabai's regency",
+      "summary": "Maratha resistance continued through Shivaji II's regency.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "0c2b71a362d3",
+      "start_year": 1707,
+      "date_label": "1707",
+      "title": "Aurangzeb dies",
+      "summary": "Succession struggle; regional autonomy accelerates without an immediate end to the dynasty.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6ead3141cd20",
+      "start_year": 1707,
+      "date_label": "1707–12",
+      "title": "Bahadur Shah I's reign",
+      "summary": "Muazzam/Shah Alam I; conciliatory measures alongside Sikh conflict.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1712,
+      "date_precision": "period"
+    },
+    {
+      "id": "3de90dc7118e",
+      "start_year": 1707,
+      "date_label": "1707",
+      "title": "Shahu released",
+      "summary": "Return sharpened conflict with Tarabai; release associated with Azam Shah/Zulfiqar Khan.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "3e4e024b27ab",
+      "start_year": 1707,
+      "date_label": "June 1707",
+      "title": "Battle of Jajau",
+      "summary": "Bahadur Shah defeated Azam in the Mughal succession struggle.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1"
+      ],
+      "month": 6,
+      "date_precision": "month"
+    },
+    {
+      "id": "ad4866c31c41",
+      "start_year": 1708,
+      "date_label": "1708–16",
+      "title": "Banda Singh Bahadur's resistance",
+      "summary": "Agrarian mobilisation and armed challenge continued despite repression.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "end_year": 1716,
+      "date_precision": "period"
+    },
+    {
+      "id": "101160e754e2",
+      "start_year": 1708,
+      "date_label": "1708",
+      "title": "Guru Gobind Singh dies",
+      "summary": "Sikh community institutions and armed mobilisation continued.",
+      "category": "Society & culture",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "29c1bf5f1e7d",
+      "start_year": 1708,
+      "date_label": "1708",
+      "title": "Rajput alliances renew autonomy",
+      "summary": "Marwar, Amber and Mewar cooperate amid weakening imperial control.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "47ae1f8b9bb8",
+      "start_year": 1709,
+      "date_label": "January 1709",
+      "title": "Kam Bakhsh defeated near Hyderabad",
+      "summary": "Bahadur Shah secured victory over another succession rival.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1"
+      ],
+      "month": 1,
+      "date_precision": "month"
+    },
+    {
+      "id": "26178c780a73",
+      "start_year": 1710,
+      "date_label": "1710–32",
+      "title": "Saadatullah Khan in Carnatic",
+      "summary": "Arcot-based Nawab nominated Dost Ali as successor.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1732,
+      "date_precision": "period"
+    },
+    {
+      "id": "a7716aba6887",
+      "start_year": 1711,
+      "date_label": "1711",
+      "title": "Daud Khan Panni–Shahu arrangement",
+      "summary": "Chauth/sardeshmukhi arrangement later confirmed under Jahandar Shah.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d60810f12f24",
+      "start_year": 1712,
+      "date_label": "1712–13",
+      "title": "Jahandar Shah's reign",
+      "summary": "Zulfiqar Khan's support secured the throne; Farrukhsiyar defeated him.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1713,
+      "date_precision": "period"
+    },
+    {
+      "id": "14eb53a20da4",
+      "start_year": 1713,
+      "date_label": "1713",
+      "title": "Asaf Jah becomes Deccan governor",
+      "summary": "Precedes his wazirship and foundation of autonomous Hyderabad.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6027689bd49c",
+      "start_year": 1713,
+      "date_label": "1713–20",
+      "title": "Balaji Vishwanath as Peshwa",
+      "summary": "Diplomacy and the 1719 sanad strengthen Maratha claims.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1720,
+      "date_precision": "period"
+    },
+    {
+      "id": "6dfa320ff005",
+      "start_year": 1713,
+      "date_label": "1713–19",
+      "title": "Farrukhsiyar's reign",
+      "summary": "Sayyid-supported emperor; commercial farman and court conflict.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1719,
+      "date_precision": "period"
+    },
+    {
+      "id": "be4f7dade102",
+      "start_year": 1713,
+      "date_label": "1713–20",
+      "title": "Sayyid brothers' ascendancy",
+      "summary": "Abdullah Khan as wazir; Husain Ali as Mir Bakshi.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1720,
+      "date_precision": "period"
+    },
+    {
+      "id": "81cc31ebeca9",
+      "start_year": 1714,
+      "date_label": "1714",
+      "title": "Farrukhabad founded",
+      "summary": "Muhammad Khan Bangash; named after Farrukhsiyar.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b9a1da29e802",
+      "start_year": 1715,
+      "date_label": "1715",
+      "title": "Banda Bahadur captured",
+      "summary": "Gurdas Nangal, near Gurdaspur.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "541508b3881f",
+      "start_year": 1716,
+      "date_label": "1716",
+      "title": "Banda Bahadur executed at Delhi",
+      "summary": "Sikh resistance survived repression.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6a3460075bb4",
+      "start_year": 1717,
+      "date_label": "1717",
+      "title": "Farrukhsiyar's Company farman",
+      "summary": "Bengal concessions against ₹3,000 annually; dastak misuse later creates conflict.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "70f0ca69ad2e",
+      "start_year": 1717,
+      "date_label": "1717–27",
+      "title": "Murshid Quli combines Bengal offices",
+      "summary": "Nazim and diwan authority together; Murshidabad-based autonomy.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1",
+        "2",
+        "4"
+      ],
+      "end_year": 1727,
+      "date_precision": "period"
+    },
+    {
+      "id": "50b1743ae5af",
+      "start_year": 1719,
+      "date_label": "1719",
+      "title": "Farrukhsiyar deposed and killed",
+      "summary": "Sayyid coalition, assisted by Balaji Vishwanath, removes the emperor.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e2ba3e963e8c",
+      "start_year": 1719,
+      "date_label": "1719",
+      "title": "Mughal sanad recognises Maratha claims",
+      "summary": "Chauth/sardeshmukhi in six Deccan subahs; linked service and tribute obligations.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "09dad0aa6aa2",
+      "start_year": 1719,
+      "date_label": "1719–48",
+      "title": "Muhammad Shah's reign",
+      "summary": "Roshan Akhtar/Rangeela; regional breakup and Nadir's invasion.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1748,
+      "date_precision": "period"
+    },
+    {
+      "id": "04961c083901",
+      "start_year": 1719,
+      "date_label": "1719",
+      "title": "Rafi-ud-Darajat and Shah Jahan II",
+      "summary": "Two short-lived Sayyid nominees; distinguish Shah Jahan II from III.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "18b45752692f",
+      "start_year": 1720,
+      "date_label": "1720–40",
+      "title": "Baji Rao I as Peshwa",
+      "summary": "Northern expansion and rapid cavalry campaigns.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1740,
+      "date_precision": "period"
+    },
+    {
+      "id": "b739ca5e752f",
+      "start_year": 1720,
+      "date_label": "1720",
+      "title": "Sayyid ascendancy broken",
+      "summary": "Rival nobles including Nizam-ul-Mulk undermined their power.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "10271717f551",
+      "start_year": 1722,
+      "date_label": "1722–24",
+      "title": "Asaf Jah serves as Mughal wazir",
+      "summary": "Returns to Deccan and consolidates independent authority.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1724,
+      "date_precision": "period"
+    },
+    {
+      "id": "3433bd5c5646",
+      "start_year": 1722,
+      "date_label": "1722–39",
+      "title": "Saadat Khan establishes Awadh",
+      "summary": "Burhan-ul-Mulk's provincial authority becomes hereditary.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "end_year": 1739,
+      "date_precision": "period"
+    },
+    {
+      "id": "13309c332408",
+      "start_year": 1723,
+      "date_label": "1723",
+      "title": "Saadat Khan reorganises Awadh revenue",
+      "summary": "Paid forces and stronger provincial finance support autonomy.",
+      "category": "Administration & economy",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "aaf98146b824",
+      "start_year": 1724,
+      "date_label": "October 1724",
+      "title": "Battle of Shakar Kheda",
+      "summary": "Asaf Jah defeated Mubariz Khan; autonomous Hyderabad consolidated.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "month": 10,
+      "date_precision": "month"
+    },
+    {
+      "id": "8e5f170bb849",
+      "start_year": 1727,
+      "date_label": "1727",
+      "title": "Jaipur founded",
+      "summary": "Sawai Jai Singh II's planned capital and scientific/cultural patronage.",
+      "category": "Society & culture",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d54581084cd0",
+      "start_year": 1727,
+      "date_label": "1727–39",
+      "title": "Shuja-ud-Din in Bengal",
+      "summary": "Murshid Quli's son-in-law succeeds him.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1739,
+      "date_precision": "period"
+    },
+    {
+      "id": "c25f0ca68e7f",
+      "start_year": 1729,
+      "date_label": "1729–58",
+      "title": "Marthanda Varma in Travancore",
+      "summary": "Territorial consolidation and a reorganised army.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1758,
+      "date_precision": "period"
+    },
+    {
+      "id": "4a46e30d53b1",
+      "start_year": 1732,
+      "date_label": "1732–40",
+      "title": "Dost Ali in Carnatic",
+      "summary": "Maratha attack ended his rule in 1740.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1740,
+      "date_precision": "period"
+    },
+    {
+      "id": "5abc23f9ce2c",
+      "start_year": 1733,
+      "date_label": "From 1733",
+      "title": "Maratha campaigning against Sidis",
+      "summary": "One strand of Baji Rao-era western expansion.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "approximate"
+    },
+    {
+      "id": "0ea45f0f60b1",
+      "start_year": 1737,
+      "date_label": "1737",
+      "title": "Baji Rao I raids Delhi",
+      "summary": "Exposes imperial military vulnerability.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "65293d8ce38c",
+      "start_year": 1738,
+      "date_label": "1738–39",
+      "title": "Nadir Shah's invasion",
+      "summary": "Persian intervention culminates in Karnal and Delhi plunder.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1739,
+      "date_precision": "period"
+    },
+    {
+      "id": "a3273db6f1d5",
+      "start_year": 1739,
+      "date_label": "1739",
+      "title": "Battle of Karnal and sack of Delhi",
+      "summary": "Muhammad Shah defeated; massacre/plunder and removal of Peacock Throne/Koh-i-Noor.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "069a4d45b364",
+      "start_year": 1739,
+      "date_label": "1739",
+      "title": "Chimaji Appa captures Bassein",
+      "summary": "Maratha victory against Portuguese; distinguish from the 1802 Bassein treaty.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "ba13e19a45ef",
+      "start_year": 1739,
+      "date_label": "1739–54",
+      "title": "Safdar Jung in Awadh",
+      "summary": "Became imperial wazir in 1748; Nawab-Wazir connection.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1754,
+      "date_precision": "period"
+    },
+    {
+      "id": "9a20428e7460",
+      "start_year": 1739,
+      "date_label": "1739–40",
+      "title": "Sarfaraz Khan in Bengal",
+      "summary": "Shuja-ud-Din's son defeated by Alivardi at Giria.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1740,
+      "date_precision": "period"
+    },
+    {
+      "id": "2ce1a3bf167f",
+      "start_year": 1740,
+      "date_label": "1740–56",
+      "title": "Alivardi Khan in Bengal",
+      "summary": "Bargi raids, provincial finance and restrictions on European fortification.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "4"
+      ],
+      "end_year": 1756,
+      "date_precision": "period"
+    },
+    {
+      "id": "523cae8fcafd",
+      "start_year": 1740,
+      "date_label": "1740–61",
+      "title": "Balaji Baji Rao as Peshwa",
+      "summary": "Nana Saheb; expansion to zenith followed by Panipat setback.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1761,
+      "date_precision": "period"
+    },
+    {
+      "id": "1cb16e0a8048",
+      "start_year": 1740,
+      "date_label": "1740",
+      "title": "Battle of Giria",
+      "summary": "Alivardi defeated/killed Sarfaraz and took Bengal.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5924bf313578",
+      "start_year": 1740,
+      "date_label": "1740s",
+      "title": "Maratha/Bargi raids in Bengal",
+      "summary": "Repeated raids culminate in the 1751 settlement.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1749,
+      "date_precision": "period"
+    },
+    {
+      "id": "29e18baac009",
+      "start_year": 1740,
+      "date_label": "1740",
+      "title": "Marathas attack Carnatic",
+      "summary": "Dost Ali killed; Chanda Sahib captured and taken to Satara.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "fa49b688b84b",
+      "start_year": 1740,
+      "date_label": "1740–48",
+      "title": "War of Austrian Succession",
+      "summary": "European conflict provides immediate context for First Carnatic War.",
+      "category": "World context",
+      "chapters": [
+        "4"
+      ],
+      "end_year": 1748,
+      "date_precision": "period"
+    },
+    {
+      "id": "dfb40daf4238",
+      "start_year": 1741,
+      "date_label": "1741",
+      "title": "Battle of Colachel",
+      "summary": "Marthanda Varma's Travancore forces defeated Dutch.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "aa3983c01c81",
+      "start_year": 1742,
+      "date_label": "1742–54",
+      "title": "Dupleix governs French India",
+      "summary": "Succession intervention and territorial concessions extend French influence.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "end_year": 1754,
+      "date_precision": "period"
+    },
+    {
+      "id": "b15a18efd2fc",
+      "start_year": 1745,
+      "date_label": "1745",
+      "title": "Zakariya Khan dies",
+      "summary": "Punjab provincial succession conflict opens further space for Sikh mobilisation.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "3b866e8ec617",
+      "start_year": 1746,
+      "date_label": "1746",
+      "title": "Battle of Adyar/St Thomé",
+      "summary": "Paradis's smaller French force defeated Mahfuz Khan's Carnatic army.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "19433cc7148f",
+      "start_year": 1746,
+      "date_label": "1746–48",
+      "title": "First Carnatic War",
+      "summary": "Austrian Succession conflict extends to India; settlement restores Madras.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "end_year": 1748,
+      "date_precision": "period"
+    },
+    {
+      "id": "dbe085e09590",
+      "start_year": 1746,
+      "date_label": "September 1746",
+      "title": "French capture Madras",
+      "summary": "La Bourdonnais's fleet supports French operations under Dupleix.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "month": 9,
+      "date_precision": "month"
+    },
+    {
+      "id": "e9752c34f233",
+      "start_year": 1747,
+      "date_label": "1747",
+      "title": "Nadir Shah assassinated; Durrani power founded",
+      "summary": "Ahmad Shah Abdali founded Afghan power, not a successor Persian dynasty.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "81b26e294232",
+      "start_year": 1748,
+      "date_label": "1748",
+      "title": "Abdali's first invasion repulsed",
+      "summary": "Beginning of the chapter's 1748–67 invasion sequence.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d5f54b3c180e",
+      "start_year": 1748,
+      "date_label": "1748–54",
+      "title": "Ahmad Shah Bahadur's reign",
+      "summary": "Weak court and kingmakers; Punjab/Multan ceded in 1752.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1754,
+      "date_precision": "period"
+    },
+    {
+      "id": "731198b9daf4",
+      "start_year": 1748,
+      "date_label": "1748",
+      "title": "Asaf Jah I dies",
+      "summary": "Nasir Jung–Muzaffar Jung succession dispute creates French/English opportunities.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "656e3cb129dc",
+      "start_year": 1748,
+      "date_label": "1748",
+      "title": "Chanda Sahib released",
+      "summary": "Resumes Carnatic claim with French-backed Muzaffar Jung.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "618dec49541e",
+      "start_year": 1748,
+      "date_label": "1748",
+      "title": "Safdar Jung becomes imperial wazir",
+      "summary": "Combines Awadh rulership with a central imperial office.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "9332330e8d5d",
+      "start_year": 1748,
+      "date_label": "1748",
+      "title": "Treaty of Aix-la-Chapelle",
+      "summary": "Madras to English; Louisbourg to French; First Carnatic War ends.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "3a4914b2db66",
+      "start_year": 1749,
+      "date_label": "1749",
+      "title": "Abdali pressures Punjab",
+      "summary": "Conflict over Muin-ul-Mulk and frontier authority continues.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "016d00476de3",
+      "start_year": 1749,
+      "date_label": "1749–54",
+      "title": "Second Carnatic War",
+      "summary": "Linked succession disputes in Hyderabad and Carnatic.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "end_year": 1754,
+      "date_precision": "period"
+    },
+    {
+      "id": "043c94fa4296",
+      "start_year": 1749,
+      "date_label": "1749",
+      "title": "Shahu dies",
+      "summary": "Succession and Sangola arrangement further consolidate Peshwa power.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "103b0a012700",
+      "start_year": 1749,
+      "date_label": "August 1749",
+      "title": "Battle of Ambur",
+      "summary": "Anwaruddin killed; Chanda Sahib installed, Muhammad Ali retreats to Trichinopoly.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "month": 8,
+      "date_precision": "month"
+    },
+    {
+      "id": "eb4e823e631c",
+      "start_year": 1750,
+      "date_label": "1750",
+      "title": "Nasir Jung killed; Muzaffar Jung installed",
+      "summary": "French-backed Hyderabad succession; grants strengthen Dupleix.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "4c51c0148703",
+      "start_year": 1750,
+      "date_label": "1750",
+      "title": "Sangola arrangement",
+      "summary": "Rajaram II/Ramraja and Peshwa authority; do not confuse with Shivaji's son Rajaram.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "9f7fd76584e4",
+      "start_year": 1751,
+      "date_label": "1751",
+      "title": "Bengal–Maratha settlement",
+      "summary": "Orissa passes to Maratha control; Bengal/Bihar annual chauth ₹12 lakh.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cdf71c733eb0",
+      "start_year": 1751,
+      "date_label": "1751",
+      "title": "Siege of Arcot",
+      "summary": "Clive defends the captured Carnatic capital through the subsequent siege.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b546237826d0",
+      "start_year": 1751,
+      "date_label": "February 1751",
+      "title": "Muzaffar Jung killed; Salabat Jung installed",
+      "summary": "Bussy maintains French influence at Hyderabad.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "month": 2,
+      "date_precision": "month"
+    },
+    {
+      "id": "34ca79c5e2b3",
+      "start_year": 1751,
+      "date_label": "August 1751",
+      "title": "Clive captures Arcot",
+      "summary": "Diversion relieves pressure on Muhammad Ali at Trichinopoly.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "month": 8,
+      "date_precision": "month"
+    },
+    {
+      "id": "071340330530",
+      "start_year": 1752,
+      "date_label": "1752",
+      "title": "Kaveripak and relief of Trichinopoly",
+      "summary": "English successes; Lawrence relieves Trichinopoly, Chanda Sahib killed in Tanjore hands.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "695f985f22ab",
+      "start_year": 1752,
+      "date_label": "1752",
+      "title": "Punjab and Multan ceded to Abdali",
+      "summary": "Afghan influence grows during Ahmad Shah Bahadur's reign.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "aeea4ab09a47",
+      "start_year": 1753,
+      "date_label": "1753",
+      "title": "Bussy obtains four Northern Circars",
+      "summary": "Mustafanagar, Ellore, Rajahmundry, Chicacole support French finances.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "de6e96e56141",
+      "start_year": 1754,
+      "date_label": "1754",
+      "title": "Ahmad Shah Bahadur deposed/blinded",
+      "summary": "Imad-ul-Mulk's kingmaking raises Alamgir II.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6be61cd271fb",
+      "start_year": 1754,
+      "date_label": "1754–59",
+      "title": "Alamgir II's reign",
+      "summary": "Abdali's Delhi sack and Plassey occur during his rule; murdered in 1759.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1759,
+      "date_precision": "period"
+    },
+    {
+      "id": "ec86f1111c29",
+      "start_year": 1754,
+      "date_label": "1754",
+      "title": "Dupleix recalled; Godeheu succeeds",
+      "summary": "French commercial/financial concerns reverse his intervention policy.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7fd448026af8",
+      "start_year": 1754,
+      "date_label": "1754",
+      "title": "Pondicherry agreement",
+      "summary": "Godeheu–Saunders agreement ending Second Carnatic War; not 1755.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c41cc7342cd6",
+      "start_year": 1754,
+      "date_label": "1754–75",
+      "title": "Shuja-ud-Daulah in Awadh",
+      "summary": "Panipat ally of Abdali; later coalition at Buxar and Allahabad settlement.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1775,
+      "date_precision": "period"
+    },
+    {
+      "id": "1cb74fb0759e",
+      "start_year": 1755,
+      "date_label": "1755",
+      "title": "Danish settlement at Serampore",
+      "summary": "Frederiksnagore in Bengal; education and missionary printing later important.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "8417bb6770de",
+      "start_year": 1755,
+      "date_label": "1755",
+      "title": "French-assisted arsenal at Dindigul",
+      "summary": "Hyder's military modernisation includes arms manufacture.",
+      "category": "Administration & economy",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e4e0b4e6d187",
+      "start_year": 1756,
+      "date_label": "1756–57",
+      "title": "Abdali's Delhi expedition",
+      "summary": "Delhi plundered; Afghan appointments and Timur's position established.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1757,
+      "date_precision": "period"
+    },
+    {
+      "id": "49d4cb7512dc",
+      "start_year": 1756,
+      "date_label": "1756–63",
+      "title": "Seven Years' War",
+      "summary": "European/global context for Third Carnatic War, often dated 1757–63 in Indian timelines.",
+      "category": "World context",
+      "chapters": [
+        "4"
+      ],
+      "end_year": 1763,
+      "date_precision": "period"
+    },
+    {
+      "id": "194498d17e3d",
+      "start_year": 1756,
+      "date_label": "1756–57",
+      "title": "Siraj-ud-Daulah in Bengal",
+      "summary": "Court factionalism and Company trade/fortification disputes culminate at Plassey.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "4"
+      ],
+      "end_year": 1757,
+      "date_precision": "period"
+    },
+    {
+      "id": "ce7b959329ea",
+      "start_year": 1756,
+      "date_label": "1756–63",
+      "title": "Suraj Mal's Bharatpur ascendancy",
+      "summary": "Jat State-building, diplomacy and regional power; survives his death.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1763,
+      "date_precision": "period"
+    },
+    {
+      "id": "8bbdd7f036e2",
+      "start_year": 1756,
+      "date_label": "1756/57–63",
+      "title": "Third Carnatic War",
+      "summary": "Lally's campaign, Wandiwash, fall of Pondicherry and Paris settlement.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "end_year": 1763,
+      "date_precision": "period"
+    },
+    {
+      "id": "72aaf12f50b6",
+      "start_year": 1756,
+      "date_label": "20 June 1756",
+      "title": "Fort William falls to Siraj",
+      "summary": "Calcutta renamed Alinagar; Holwell's Black Hole account has disputed numbers/responsibility.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "month": 6,
+      "day": 20,
+      "date_precision": "day"
+    },
+    {
+      "id": "34dfb89cbece",
+      "start_year": 1757,
+      "date_label": "1757–60",
+      "title": "Mir Jafar's first Nawabship",
+      "summary": "24-Parganas, payments and dependence; Dutch intervention fails.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "end_year": 1760,
+      "date_precision": "period"
+    },
+    {
+      "id": "65f171abff0f",
+      "start_year": 1757,
+      "date_label": "January 1757",
+      "title": "Company recovers Calcutta",
+      "summary": "Clive's land expedition and Admiral Watson's naval support.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "month": 1,
+      "date_precision": "month"
+    },
+    {
+      "id": "4e16ecd66840",
+      "start_year": 1757,
+      "date_label": "9 February 1757",
+      "title": "Treaty of Alinagar",
+      "summary": "Commercial privileges, fortification permission and compensation restored.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "4"
+      ],
+      "month": 2,
+      "day": 9,
+      "date_precision": "day"
+    },
+    {
+      "id": "f30c0b4323cd",
+      "start_year": 1757,
+      "date_label": "March 1757",
+      "title": "Company captures Chandernagore",
+      "summary": "French Bengal base weakened before Plassey.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "month": 3,
+      "date_precision": "month"
+    },
+    {
+      "id": "b9d86c095bbd",
+      "start_year": 1757,
+      "date_label": "23 June 1757",
+      "title": "Battle of Plassey",
+      "summary": "Clive defeated Siraj amid Mir Jafar/Rai Durlabh's non-cooperation; Company becomes kingmaker.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "2",
+        "4"
+      ],
+      "month": 6,
+      "day": 23,
+      "date_precision": "day"
+    },
+    {
+      "id": "2e92c5463319",
+      "start_year": 1758,
+      "date_label": "1758–60",
+      "title": "Clive's first Bengal governorship",
+      "summary": "Conventional governorship dates; political ascendancy began with Plassey in 1757.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "end_year": 1760,
+      "date_precision": "period"
+    },
+    {
+      "id": "a381e22c1f2b",
+      "start_year": 1758,
+      "date_label": "1758–98",
+      "title": "Dharma Raja in Travancore",
+      "summary": "Rama Varma; scholarship, arts and resistance to external pressure.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1798,
+      "date_precision": "period"
+    },
+    {
+      "id": "94dc5089c4e3",
+      "start_year": 1758,
+      "date_label": "1758",
+      "title": "Marathas expel Timur and occupy Punjab",
+      "summary": "Raghunath Rao displaces Afghan influence; immediate context for Abdali's later return.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "2a81130b0db6",
+      "start_year": 1758,
+      "date_label": "April 1758",
+      "title": "Lally arrives in India",
+      "summary": "Captures Fort St David but fails to secure lasting strategic advantage.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "month": 4,
+      "date_precision": "month"
+    },
+    {
+      "id": "0edbf39950f8",
+      "start_year": 1759,
+      "date_label": "1759–61",
+      "title": "Abdali's Panipat campaign",
+      "summary": "Countered Maratha occupation of Punjab and culminated in Panipat.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "end_year": 1761,
+      "date_precision": "period"
+    },
+    {
+      "id": "95804fa2403a",
+      "start_year": 1759,
+      "date_label": "1759",
+      "title": "Alamgir II murdered",
+      "summary": "Imad-ul-Mulk's court violence precedes competing imperial claims.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "54fb7f8cb634",
+      "start_year": 1759,
+      "date_label": "1759–1806",
+      "title": "Shah Alam II's reign",
+      "summary": "Early exile, Buxar, Maratha return to Delhi and later Company protection.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1806,
+      "date_precision": "period"
+    },
+    {
+      "id": "6fa789346fcd",
+      "start_year": 1759,
+      "date_label": "1759–60",
+      "title": "Shah Jahan III's brief claim",
+      "summary": "Muhi-ul-Millat's claim overlaps Shah Alam II's; not a neat exclusive succession.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1760,
+      "date_precision": "period"
+    },
+    {
+      "id": "60122e258f5e",
+      "start_year": 1759,
+      "date_label": "November 1759",
+      "title": "Battle of Bedara/Biderra",
+      "summary": "Company defeats Dutch Bengal intervention; does not instantly end every Dutch settlement.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "month": 11,
+      "date_precision": "month"
+    },
+    {
+      "id": "f579863232cf",
+      "start_year": 1760,
+      "date_label": "c.1760–1840",
+      "title": "British Industrial Revolution",
+      "summary": "Mechanised textile/iron production and steam alter colonial trading interests.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "end_year": 1840,
+      "date_precision": "period"
+    },
+    {
+      "id": "9e8d5af9c238",
+      "start_year": 1760,
+      "date_label": "1760",
+      "title": "Vansittart succeeds Clive",
+      "summary": "Bengal administration replaces Mir Jafar with Mir Qasim.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "246ab386be00",
+      "start_year": 1760,
+      "date_label": "22 January 1760",
+      "title": "Battle of Wandiwash",
+      "summary": "Eyre Coote defeated Lally; Bussy captured; decisive English–French turning point.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "month": 1,
+      "day": 22,
+      "date_precision": "day"
+    },
+    {
+      "id": "eb671a1e4d6c",
+      "start_year": 1760,
+      "date_label": "October 1760–1763",
+      "title": "Mir Qasim becomes Nawab",
+      "summary": "Cedes Burdwan, Midnapore and Chittagong; reorganises revenue and army, shifts capital to Munger.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "month": 10,
+      "date_precision": "period",
+      "end_year": 1763
+    },
+    {
+      "id": "b12b72b5cc40",
+      "start_year": 1761,
+      "date_label": "1761",
+      "title": "Hyder Ali takes effective power in Mysore",
+      "summary": "Wadiyar monarchy initially retained; military and territorial consolidation follows.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "df69c6625a45",
+      "start_year": 1761,
+      "date_label": "1761–72",
+      "title": "Madhav Rao I as Peshwa",
+      "summary": "Maratha Resurrection; strengthened regional/northern influence.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1772,
+      "date_precision": "period"
+    },
+    {
+      "id": "bc5781207d07",
+      "start_year": 1761,
+      "date_label": "14 January 1761",
+      "title": "Third Battle of Panipat",
+      "summary": "Abdali defeats Bhau/Vishwas Rao's Marathas; severe setback followed by later recovery.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "month": 1,
+      "day": 14,
+      "date_precision": "day"
+    },
+    {
+      "id": "6da2b67a25a0",
+      "start_year": 1761,
+      "date_label": "16 January 1761",
+      "title": "Pondicherry surrenders",
+      "summary": "British siege ends Lally's resistance; French commercial settlements later restored.",
+      "category": "Battles & wars",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "month": 1,
+      "day": 16,
+      "date_precision": "day"
+    },
+    {
+      "id": "81ab895bef6d",
+      "start_year": 1761,
+      "date_label": "June 1761",
+      "title": "Balaji Baji Rao dies",
+      "summary": "After Panipat; Madhav Rao I begins the period of Maratha recovery.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "month": 6,
+      "date_precision": "month"
+    },
+    {
+      "id": "3e804dd2e852",
+      "start_year": 1762,
+      "date_label": "1762",
+      "title": "Vansittart–Mir Qasim compromise",
+      "summary": "9% duty proposal on private inland trade; rejected by Calcutta Council.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "94825e29a506",
+      "start_year": 1763,
+      "date_label": "1763–65",
+      "title": "Mir Jafar restored",
+      "summary": "Restoration precedes Buxar; Najm-ud-Daulah succeeds in 1765.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "end_year": 1765,
+      "date_precision": "period"
+    },
+    {
+      "id": "923e5a346197",
+      "start_year": 1763,
+      "date_label": "1763",
+      "title": "Mir Qasim abolishes inland duties",
+      "summary": "Indian merchants gain parity; Ellis's Patna attack precipitates war.",
+      "category": "Administration & economy",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cf760bf30ac4",
+      "start_year": 1763,
+      "date_label": "1763",
+      "title": "Mir Qasim defeated and flees to Awadh",
+      "summary": "Coalition with Shuja-ud-Daulah and Shah Alam II develops.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "0dc6223bb729",
+      "start_year": 1763,
+      "date_label": "1763",
+      "title": "Suraj Mal dies fighting Rohillas",
+      "summary": "Bharatpur kingdom continues beyond his death.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "94575c2eee70",
+      "start_year": 1763,
+      "date_label": "1763",
+      "title": "Treaty of Paris",
+      "summary": "Third Carnatic War ends; French settlements restored under restrictions.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "3",
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7aee6064d13a",
+      "start_year": 1764,
+      "date_label": "c.1764",
+      "title": "Spinning jenny",
+      "summary": "Hargreaves's invention; distinct from Arkwright's later water frame.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "approximate"
+    },
+    {
+      "id": "3dc159836dd7",
+      "start_year": 1764,
+      "date_label": "22 October 1764",
+      "title": "Battle of Buxar",
+      "summary": "Hector Munro defeats allied Awadh/imperial forces; Mir Qasim part of the wider coalition.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "2",
+        "4"
+      ],
+      "month": 10,
+      "day": 22,
+      "date_precision": "day"
+    },
+    {
+      "id": "d54d1d54e84f",
+      "start_year": 1765,
+      "date_label": "1765–67",
+      "title": "Clive's second governorship",
+      "summary": "Settlements with Awadh, emperor and Bengal consolidate Company power.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "end_year": 1767,
+      "date_precision": "period"
+    },
+    {
+      "id": "3a6a6afbc9a5",
+      "start_year": 1765,
+      "date_label": "1765–72",
+      "title": "Dual government in Bengal",
+      "summary": "Company power and revenue control; nominal Nawab/intermediary administration; weak accountability.",
+      "category": "Administration & economy",
+      "chapters": [
+        "4",
+        "5"
+      ],
+      "end_year": 1772,
+      "date_precision": "period"
+    },
+    {
+      "id": "173daa001ab8",
+      "start_year": 1765,
+      "date_label": "February 1765",
+      "title": "Najm-ud-Daulah becomes Bengal Nawab",
+      "summary": "Military/foreign affairs and key appointments fall under Company control.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "month": 2,
+      "date_precision": "month"
+    },
+    {
+      "id": "68979caa72fc",
+      "start_year": 1765,
+      "date_label": "12 August 1765",
+      "title": "Imperial diwani grant",
+      "summary": "Shah Alam II grants Bengal, Bihar and Orissa revenue rights; ₹26 lakh annual imperial payment.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "month": 8,
+      "day": 12,
+      "date_precision": "day"
+    },
+    {
+      "id": "3e822e39b537",
+      "start_year": 1765,
+      "date_label": "16 August 1765",
+      "title": "Awadh settlement at Allahabad",
+      "summary": "Shuja pays ₹50 lakh; Kora/Allahabad ceded; Awadh restored as a buffer.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2",
+        "4"
+      ],
+      "month": 8,
+      "day": 16,
+      "date_precision": "day"
+    },
+    {
+      "id": "a84d4bc8b885",
+      "start_year": 1766,
+      "date_label": "1766",
+      "title": "Company–Nizam Northern Circars agreement",
+      "summary": "Coastal rights and promised military aid against Hyder contribute to conflict.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "db5f957f8d78",
+      "start_year": 1766,
+      "date_label": "1766",
+      "title": "Hyder's Malabar expansion",
+      "summary": "Did not absorb Travancore.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6e0606862904",
+      "start_year": 1766,
+      "date_label": "1766",
+      "title": "Lally executed in France",
+      "summary": "Prosecution follows the French defeat in India.",
+      "category": "Rulers & States",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "9eba9b01b288",
+      "start_year": 1767,
+      "date_label": "1767–69",
+      "title": "First Anglo-Mysore War",
+      "summary": "Hyder breaks the initial opposing coalition and reaches the vicinity of Madras.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "end_year": 1769,
+      "date_precision": "period"
+    },
+    {
+      "id": "c7edbf36a40a",
+      "start_year": 1768,
+      "date_label": "1768–94",
+      "title": "Mahadji Scindia's ascendancy",
+      "summary": "Northern reconstruction, Delhi influence and European-trained brigades.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1794,
+      "date_precision": "period"
+    },
+    {
+      "id": "0eb8285cefa7",
+      "start_year": 1769,
+      "date_label": "1769",
+      "title": "Arkwright's water frame",
+      "summary": "Mechanised water-powered spinning supports factory production.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cb648450b59b",
+      "start_year": 1769,
+      "date_label": "1769",
+      "title": "Company favours raw over woven silk",
+      "summary": "Commercial policy encourages raw silk supply while restricting competing finished fabrics.",
+      "category": "Administration & economy",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "37273e4324cc",
+      "start_year": 1769,
+      "date_label": "1769",
+      "title": "Watt's separate-condenser patent",
+      "summary": "Improves existing steam engines; not the first invention of steam power.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "1f03a37d95af",
+      "start_year": 1769,
+      "date_label": "April 1769",
+      "title": "Treaty of Madras",
+      "summary": "Mutual restitution and assistance against third-party attack; favourable peace for Hyder.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "month": 4,
+      "date_precision": "month"
+    },
+    {
+      "id": "77bc2bfdc683",
+      "start_year": 1770,
+      "date_label": "1770",
+      "title": "Bengal famine",
+      "summary": "Drought/crop failure compounded by extraction and administrative failures.",
+      "category": "Society & culture",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "df7577a1b7e4",
+      "start_year": 1771,
+      "date_label": "1771",
+      "title": "Company fails to aid Hyder against Marathas",
+      "summary": "Breach of expected assistance deepens Mysore's distrust.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "0350d9ef21f7",
+      "start_year": 1771,
+      "date_label": "1771–January 1772",
+      "title": "Shah Alam II returns to Delhi",
+      "summary": "Mahadji-led Maratha support restores emperor; return completed in January 1772.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1",
+        "2"
+      ],
+      "end_year": 1772,
+      "date_precision": "period"
+    },
+    {
+      "id": "0ed8b91c4e87",
+      "start_year": 1772,
+      "date_label": "1772–73",
+      "title": "Campaigns against Zabita Khan",
+      "summary": "Shah Alam's return and Maratha protection reshape Delhi politics.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1773,
+      "date_precision": "period"
+    },
+    {
+      "id": "12b8e0e03f0a",
+      "start_year": 1772,
+      "date_label": "1772",
+      "title": "Dual government abolished",
+      "summary": "Deputy diwan arrangement ended; treasury shifted towards Calcutta.",
+      "category": "Administration & economy",
+      "chapters": [
+        "4",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "0b0d596908e1",
+      "start_year": 1772,
+      "date_label": "1772",
+      "title": "Five-year revenue farming introduced",
+      "summary": "Highest-bidder quinquennial settlement increases extraction/speculation.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "37be391dad5f",
+      "start_year": 1772,
+      "date_label": "1772",
+      "title": "Hastings becomes Bengal governor",
+      "summary": "Company takes more direct administrative/revenue responsibility.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5c7cfc654a33",
+      "start_year": 1772,
+      "date_label": "1772",
+      "title": "Hastings's judicial reorganisation",
+      "summary": "District diwani/faujdari courts and appellate Sadr institutions.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7f1e6950ccde",
+      "start_year": 1772,
+      "date_label": "1772",
+      "title": "Madhav Rao I dies; Narayan Rao succeeds",
+      "summary": "Succession conflict soon destabilises Peshwa authority.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6ce8ea8b655a",
+      "start_year": 1773,
+      "date_label": "1773",
+      "title": "Awadh troop-payment arrangement",
+      "summary": "Growing subsidies reinforce dependence; chapter records ₹2.1 lakh monthly per brigade.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e7054cf579d5",
+      "start_year": 1773,
+      "date_label": "1773",
+      "title": "Narayan Rao murdered",
+      "summary": "Raghunath Rao's brief Peshwaship followed by Barbhai opposition.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "16ec6a2fbc10",
+      "start_year": 1773,
+      "date_label": "1773–74",
+      "title": "Raghunath Rao briefly Peshwa",
+      "summary": "Displaced by Barbhai; seeks Company support.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1774,
+      "date_precision": "period"
+    },
+    {
+      "id": "4307f63201ff",
+      "start_year": 1773,
+      "date_label": "1773",
+      "title": "Regulating Act",
+      "summary": "Creates Governor-General of Bengal framework and Calcutta Supreme Court provisions.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "4b80283ab64b",
+      "start_year": 1774,
+      "date_label": "1774",
+      "title": "Hastings becomes Governor-General of Bengal",
+      "summary": "Distinct from his Bengal governorship beginning in 1772.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "f787bd85e2e0",
+      "start_year": 1774,
+      "date_label": "1774–95",
+      "title": "Sawai Madhav Rao II as Peshwa",
+      "summary": "Infant installed under Barbhai regency; Nana Phadnavis influential.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "end_year": 1795,
+      "date_precision": "period"
+    },
+    {
+      "id": "339f4f09db55",
+      "start_year": 1774,
+      "date_label": "1774",
+      "title": "Supreme Court opens at Calcutta",
+      "summary": "Separate English-law court overlaps Company judicial institutions.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c8c9ec8f265b",
+      "start_year": 1775,
+      "date_label": "1775–83",
+      "title": "American War of Independence",
+      "summary": "French participation affects Company security calculations in India.",
+      "category": "World context",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1783,
+      "date_precision": "period"
+    },
+    {
+      "id": "b174cacbed6f",
+      "start_year": 1775,
+      "date_label": "1775–97",
+      "title": "Asaf-ud-Daulah in Awadh",
+      "summary": "Moves capital to Lucknow and promotes cultural patronage.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1797,
+      "date_precision": "period"
+    },
+    {
+      "id": "97bc65ce5fd7",
+      "start_year": 1775,
+      "date_label": "1775",
+      "title": "Awadh capital shifts to Lucknow",
+      "summary": "Faizabad replaced; later Bara Imambara anchors cultural expansion.",
+      "category": "Society & culture",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "1adc5a5c8a0c",
+      "start_year": 1775,
+      "date_label": "1775–82",
+      "title": "First Anglo-Maratha War",
+      "summary": "Raghoba's succession claim brings Bombay Company intervention.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "end_year": 1782,
+      "date_precision": "period"
+    },
+    {
+      "id": "61ad75dbeb8d",
+      "start_year": 1775,
+      "date_label": "March 1775",
+      "title": "Treaty of Surat",
+      "summary": "Bombay backs Raghoba for territorial/revenue concessions.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 3,
+      "date_precision": "month"
+    },
+    {
+      "id": "5cc295276856",
+      "start_year": 1775,
+      "date_label": "May 1775",
+      "title": "Battle of Adas",
+      "summary": "Keating's campaign follows the Surat agreement.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 5,
+      "date_precision": "month"
+    },
+    {
+      "id": "83860b107f00",
+      "start_year": 1776,
+      "date_label": "1776",
+      "title": "Adam Smith's Wealth of Nations",
+      "summary": "Criticism of monopoly contributes to arguments for open markets.",
+      "category": "World context",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7e60e84942b9",
+      "start_year": 1776,
+      "date_label": "1776",
+      "title": "Code of Gentoo Laws published",
+      "summary": "Halhed's English translation via Persian from Sanskrit compilation.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a127d7196e26",
+      "start_year": 1776,
+      "date_label": "1 March 1776",
+      "title": "Treaty of Purandar",
+      "summary": "Upton–Poona agreement annuls Surat arrangement and pensions Raghoba.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 3,
+      "day": 1,
+      "date_precision": "day"
+    },
+    {
+      "id": "c2dc6b23a05e",
+      "start_year": 1777,
+      "date_label": "1777",
+      "title": "Annual revenue settlements resumed",
+      "summary": "Hastings replaces failed five-year farming with annual settlements.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "33626b95d555",
+      "start_year": 1777,
+      "date_label": "1777",
+      "title": "Danish Crown assumes possessions",
+      "summary": "Company administration replaced; final transfer to British follows in 1845.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c259ff105faf",
+      "start_year": 1778,
+      "date_label": "1778",
+      "title": "France joins American war against Britain",
+      "summary": "French links at Poona intensify Company's intervention concerns.",
+      "category": "World context",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "ea152c1ee4ab",
+      "start_year": 1779,
+      "date_label": "1779",
+      "title": "Company captures Mahe",
+      "summary": "Threatens Hyder's French military-supply connection; immediate Second Mysore War setting.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "067011859e4f",
+      "start_year": 1779,
+      "date_label": "1779",
+      "title": "Crompton's spinning mule",
+      "summary": "Another key textile-mechanisation innovation.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "56048e07ebb3",
+      "start_year": 1779,
+      "date_label": "January 1779",
+      "title": "Talegaon/Wadgaon defeat and convention",
+      "summary": "Marathas compel Bombay army's surrender; Hastings rejects the terms.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 1,
+      "date_precision": "month"
+    },
+    {
+      "id": "09812b42c5c7",
+      "start_year": 1780,
+      "date_label": "1780",
+      "title": "Battle of Pollilur",
+      "summary": "Mysorean victory over Colonel Baillie's force.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cc93b6a75008",
+      "start_year": 1780,
+      "date_label": "1780",
+      "title": "Goddard captures Ahmedabad and Bassein",
+      "summary": "Company recovers ground in First Maratha War.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "54dcd81af55e",
+      "start_year": 1780,
+      "date_label": "1780",
+      "title": "Popham captures Gwalior",
+      "summary": "Correct year is 1780, not the chapter's 1781.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "ae5dec5acd81",
+      "start_year": 1780,
+      "date_label": "1780–84",
+      "title": "Second Anglo-Mysore War",
+      "summary": "Hyder, then Tipu, face Company; ends by mutual restoration, not decisive British conquest.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "end_year": 1784,
+      "date_precision": "period"
+    },
+    {
+      "id": "c8080a64d052",
+      "start_year": 1781,
+      "date_label": "1781",
+      "title": "Camac's Sipri campaign",
+      "summary": "Military pressure assists negotiations with Scindia.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "718cd63264d3",
+      "start_year": 1781,
+      "date_label": "July 1781",
+      "title": "Battle of Porto Novo",
+      "summary": "Eyre Coote defeated Hyder; distinguish from Pollilur's Mysorean victory.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 7,
+      "date_precision": "month"
+    },
+    {
+      "id": "e48ba15a30c7",
+      "start_year": 1782,
+      "date_label": "1782",
+      "title": "Suffren brings French naval support",
+      "summary": "French assistance in Second Mysore War.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "07b5cb0a5c40",
+      "start_year": 1782,
+      "date_label": "1782",
+      "title": "Treaty of Salbai",
+      "summary": "Madhav Rao II recognised; Raghoba pensioned; British retain Salsette/Elephanta, return most conquests.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "4da18b2a91a1",
+      "start_year": 1782,
+      "date_label": "December 1782",
+      "title": "Hyder dies; Tipu succeeds",
+      "summary": "Tipu continues Second Anglo-Mysore War.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "month": 12,
+      "date_precision": "month"
+    },
+    {
+      "id": "83979333255d",
+      "start_year": 1783,
+      "date_label": "1783",
+      "title": "American war ends",
+      "summary": "European settlement reduces French support and encourages Mysore–Company peace.",
+      "category": "World context",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c6e179f5cff7",
+      "start_year": 1784,
+      "date_label": "1784",
+      "title": "Bara Imambara built",
+      "summary": "Asaf-ud-Daulah's Lucknow patronage.",
+      "category": "Society & culture",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "084983a3c9d2",
+      "start_year": 1784,
+      "date_label": "March 1784",
+      "title": "Treaty of Mangalore",
+      "summary": "Mutual restoration of territories and prisoners.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 3,
+      "date_precision": "month"
+    },
+    {
+      "id": "d84995aac08f",
+      "start_year": 1785,
+      "date_label": "1785",
+      "title": "Cartwright's power loom",
+      "summary": "Mechanisation of weaving complements spinning innovations.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "217f1ebf5d41",
+      "start_year": 1785,
+      "date_label": "1785",
+      "title": "Tipu restricts pepper/cardamom exports",
+      "summary": "Commercial control challenges English interests on Malabar Coast.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "921f21bce276",
+      "start_year": 1786,
+      "date_label": "1786–93",
+      "title": "Cornwallis's first governorship",
+      "summary": "Third Mysore War, Permanent Settlement and Cornwallis Code.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1793,
+      "date_precision": "period"
+    },
+    {
+      "id": "2fd6bd98047a",
+      "start_year": 1787,
+      "date_label": "1787",
+      "title": "Tipu asserts Padshah status",
+      "summary": "Independent coinage/calendar/khutba and Ottoman recognition efforts.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "26f08a4e37f6",
+      "start_year": 1788,
+      "date_label": "1788",
+      "title": "Ghulam Qadir blinds Shah Alam II",
+      "summary": "Mahadji restores emperor later in the year.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "f819c9375d58",
+      "start_year": 1788,
+      "date_label": "1788",
+      "title": "Tipu forbids dealings with English traders",
+      "summary": "Commerce and sovereignty disputes intensify.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "800dea0ac172",
+      "start_year": 1789,
+      "date_label": "Late 1789",
+      "title": "Tipu attacks Travancore's defences",
+      "summary": "Nedumkotta assault, renewed in 1790, triggers Third Mysore War.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "approximate"
+    },
+    {
+      "id": "10f2fbc548ff",
+      "start_year": 1790,
+      "date_label": "1790",
+      "title": "Decennial revenue settlement",
+      "summary": "Cornwallis recognises zamindar proprietorship; made permanent in 1793.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5fb8f0c20dbe",
+      "start_year": 1790,
+      "date_label": "1790–92",
+      "title": "Third Anglo-Mysore War",
+      "summary": "Cornwallis, Nizam and Marathas defeat Tipu; half-territory settlement.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "end_year": 1792,
+      "date_precision": "period"
+    },
+    {
+      "id": "1823465ba4f6",
+      "start_year": 1792,
+      "date_label": "1792",
+      "title": "Ranjit Singh takes Sukerchakia leadership",
+      "summary": "Beginning of his consolidation before Lahore and Maharaja title.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a9daf148b64b",
+      "start_year": 1792,
+      "date_label": "March 1792",
+      "title": "Treaty of Seringapatam",
+      "summary": "Half territory ceded; ₹3.3 crore indemnity; two sons held as hostages.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 3,
+      "date_precision": "month"
+    },
+    {
+      "id": "042358734c83",
+      "start_year": 1793,
+      "date_label": "1793–98",
+      "title": "John Shore's governorship",
+      "summary": "Non-intervention orientation; not John Lawrence's later Afghan policy.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1798,
+      "date_precision": "period"
+    },
+    {
+      "id": "7a5cc751c0eb",
+      "start_year": 1793,
+      "date_label": "1793",
+      "title": "Permanent Settlement and Cornwallis Code",
+      "summary": "Fixed State revenue demand; revenue/judicial separation and court reforms.",
+      "category": "Administration & economy",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7876ff9173e4",
+      "start_year": 1794,
+      "date_label": "1794",
+      "title": "Mahadji Scindia dies",
+      "summary": "Daulat Rao succeeds; Perron's later command belongs to this successor's period.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "28232b7c0af1",
+      "start_year": 1795,
+      "date_label": "1795",
+      "title": "Battle of Kharda",
+      "summary": "Marathas versus Nizam; comparison in the chapter's PYQ recall.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e0bdb95ce3b0",
+      "start_year": 1795,
+      "date_label": "1795",
+      "title": "British take Fort Kochi",
+      "summary": "Princely Cochin kingdom distinct from the directly controlled Fort Kochi settlement.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b7e696d326cf",
+      "start_year": 1795,
+      "date_label": "1795",
+      "title": "Madhav Rao II dies",
+      "summary": "Court instability precedes Baji Rao II's accession.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "f4186d9ea8f5",
+      "start_year": 1795,
+      "date_label": "1795",
+      "title": "Travancore capital shifts",
+      "summary": "Padmanabhapuram to Thiruvananthapuram.",
+      "category": "Society & culture",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6ae78c6c52fb",
+      "start_year": 1796,
+      "date_label": "1796–1818",
+      "title": "Baji Rao II as Peshwa",
+      "summary": "Last Peshwa; Bassein, two wars and pension at Bithoor.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "end_year": 1818,
+      "date_precision": "period"
+    },
+    {
+      "id": "a497805dd227",
+      "start_year": 1798,
+      "date_label": "1798",
+      "title": "Hyderabad subsidiary alliance",
+      "summary": "Nizam's French corps disbanded; expanded agreement follows in 1800.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "42130b739d94",
+      "start_year": 1798,
+      "date_label": "1798",
+      "title": "Napoleon's Egyptian expedition",
+      "summary": "Raises concern over French approach to India.",
+      "category": "World context",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "eb68eed4f5f9",
+      "start_year": 1798,
+      "date_label": "1798–1805",
+      "title": "Richard Wellesley's governorship",
+      "summary": "Subsidiary alliances, Fourth Mysore and Second Maratha wars.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1805,
+      "date_precision": "period"
+    },
+    {
+      "id": "38d0dbaa35da",
+      "start_year": 1799,
+      "date_label": "1799",
+      "title": "Company assumes Tanjore administration",
+      "summary": "Distinguish takeover of administration from a simple standard alliance.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c0c0646d86f6",
+      "start_year": 1799,
+      "date_label": "1799",
+      "title": "Fourth Anglo-Mysore War",
+      "summary": "Company armies under Harris advance on Tipu's capital.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "80ba1b24f307",
+      "start_year": 1799,
+      "date_label": "1799",
+      "title": "Ranjit Singh takes Lahore",
+      "summary": "Important step towards a consolidated Punjab kingdom.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "da8199874ec1",
+      "start_year": 1799,
+      "date_label": "1799",
+      "title": "Wadiyar restoration and Mysore subsidiary treaty",
+      "summary": "Krishnaraja III installed with Purnaiah; restored State dependent on Company.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5c5cbeb221ff",
+      "start_year": 1799,
+      "date_label": "4 May 1799",
+      "title": "Seringapatam stormed; Tipu killed",
+      "summary": "Mysore's independent military challenge ends; partition follows.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "month": 5,
+      "day": 4,
+      "date_precision": "day"
+    },
+    {
+      "id": "c5e28bd38ec3",
+      "start_year": 1800,
+      "date_label": "1800",
+      "title": "Company assumes Surat administration",
+      "summary": "Another form of subordinated territorial control.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d09e60aaaa80",
+      "start_year": 1800,
+      "date_label": "1800",
+      "title": "Expanded Hyderabad subsidiary arrangement",
+      "summary": "Further territorial/fiscal dependence on Company.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "03563e2b2ff2",
+      "start_year": 1800,
+      "date_label": "1800",
+      "title": "Nana Phadnavis dies",
+      "summary": "Poona's factional instability deepens.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5328ad172d9d",
+      "start_year": 1801,
+      "date_label": "1801",
+      "title": "Awadh subsidiary alliance",
+      "summary": "Fiscal/territorial concessions reinforce British control.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "fbae3eff247d",
+      "start_year": 1801,
+      "date_label": "1801",
+      "title": "Company assumes Carnatic administration",
+      "summary": "Distinct from earlier Nawabship and Carnatic Wars.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "dbaa992ac649",
+      "start_year": 1801,
+      "date_label": "1801",
+      "title": "Napoleon–Russia India scheme",
+      "summary": "Later plan cannot explain the earlier 1799 Mysore war.",
+      "category": "World context",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7c8aea8bed70",
+      "start_year": 1801,
+      "date_label": "1801",
+      "title": "Ranjit Singh becomes Maharaja",
+      "summary": "Sikh consolidation advances beyond misl leadership.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b1d412409193",
+      "start_year": 1801,
+      "date_label": "1801",
+      "title": "Vithoji Holkar executed",
+      "summary": "Peshwa–Holkar antagonism leads to 1802 conflict.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b9587dcb8bfc",
+      "start_year": 1802,
+      "date_label": "1802",
+      "title": "Ranjit Singh takes Amritsar",
+      "summary": "Consolidates a major Sikh religious and political centre.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "397dd9fa2333",
+      "start_year": 1802,
+      "date_label": "October 1802",
+      "title": "Holkar defeats Peshwa/Scindia at Poona",
+      "summary": "Baji Rao II flees and seeks Company protection.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "month": 10,
+      "date_precision": "month"
+    },
+    {
+      "id": "a06157d91499",
+      "start_year": 1802,
+      "date_label": "31 December 1802",
+      "title": "Treaty of Bassein",
+      "summary": "Peshwa accepts subsidiary alliance; triggers resistance from Scindia/Bhonsle.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "month": 12,
+      "day": 31,
+      "date_precision": "day"
+    },
+    {
+      "id": "05017eba6505",
+      "start_year": 1803,
+      "date_label": "1803",
+      "title": "Company captures Aligarh, Delhi and Agra",
+      "summary": "Lake defeats Scindia's northern forces; Shah Alam II again under Company protection.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a39132ba2a29",
+      "start_year": 1803,
+      "date_label": "1803–05",
+      "title": "Second Anglo-Maratha War",
+      "summary": "Separate campaigns and treaties undermine confederacy coordination.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "end_year": 1805,
+      "date_precision": "period"
+    },
+    {
+      "id": "ca014cc047cc",
+      "start_year": 1803,
+      "date_label": "September 1803",
+      "title": "Battle of Assaye",
+      "summary": "Arthur Wellesley defeats Scindia/Bhonsle forces in Deccan.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 9,
+      "date_precision": "month"
+    },
+    {
+      "id": "9e035b934834",
+      "start_year": 1803,
+      "date_label": "November 1803",
+      "title": "Battle of Argaon",
+      "summary": "Further Deccan defeat of Scindia/Bhonsle forces.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 11,
+      "date_precision": "month"
+    },
+    {
+      "id": "435826d6ccf7",
+      "start_year": 1803,
+      "date_label": "November 1803",
+      "title": "Battle of Laswari",
+      "summary": "Lake defeats Scindia's northern army.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 11,
+      "date_precision": "month"
+    },
+    {
+      "id": "30fa7163518c",
+      "start_year": 1803,
+      "date_label": "December 1803",
+      "title": "Gawilgarh captured",
+      "summary": "Completes a key phase of the Deccan campaign.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 12,
+      "date_precision": "month"
+    },
+    {
+      "id": "1408d0090c54",
+      "start_year": 1803,
+      "date_label": "December 1803",
+      "title": "Treaty of Deogaon",
+      "summary": "Bhonsle cedes Cuttack/Balasore and west-Wardha territory; Resident accepted.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 12,
+      "date_precision": "month"
+    },
+    {
+      "id": "1bd33911bd97",
+      "start_year": 1803,
+      "date_label": "December 1803",
+      "title": "Treaty of Surji-Arjangaon",
+      "summary": "Scindia cedes major holdings including Ganga–Yamuna doab.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 12,
+      "date_precision": "month"
+    },
+    {
+      "id": "fdfae1d70120",
+      "start_year": 1804,
+      "date_label": "1804–05",
+      "title": "Holkar–Company war",
+      "summary": "Monson's defeat; Delhi defended; later British victories at Deeg/Farrukhabad.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1805,
+      "date_precision": "period"
+    },
+    {
+      "id": "af3d23fcb814",
+      "start_year": 1804,
+      "date_label": "February 1804",
+      "title": "Burhanpur agreement",
+      "summary": "Further Scindia–Company subsidiary arrangements.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 2,
+      "date_precision": "month"
+    },
+    {
+      "id": "bd9b62970936",
+      "start_year": 1805,
+      "date_label": "1805",
+      "title": "Wellesley recalled",
+      "summary": "Cornwallis briefly returns, then Barlow pursues retrenchment.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b125d5b241f0",
+      "start_year": 1805,
+      "date_label": "24 December 1805",
+      "title": "Treaty of Rajpurghat",
+      "summary": "Peace with Holkar; much territory restored, northern claims relinquished.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 12,
+      "day": 24,
+      "date_precision": "day"
+    },
+    {
+      "id": "c520804b0463",
+      "start_year": 1806,
+      "date_label": "1806–37",
+      "title": "Akbar II's reign",
+      "summary": "Ram Mohan Roy sent to Britain; imperial name removed from Company coinage in 1835.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1837,
+      "date_precision": "period"
+    },
+    {
+      "id": "e9f9dcb41855",
+      "start_year": 1809,
+      "date_label": "1809",
+      "title": "Treaty of Amritsar",
+      "summary": "Ranjit constrained south of Sutlej; cis-Sutlej chiefs under British protection.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "995bab79779a",
+      "start_year": 1812,
+      "date_label": "1812",
+      "title": "Pindari raids in Mirzapur/Shahabad",
+      "summary": "Part of growing raids on Company territories.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cc878497456f",
+      "start_year": 1813,
+      "date_label": "1813",
+      "title": "Charter Act ends Indian trade monopoly",
+      "summary": "Tea and China trade remain exceptions until 1833.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "700cd3240ae6",
+      "start_year": 1813,
+      "date_label": "1813–23",
+      "title": "Lord Hastings's governorship",
+      "summary": "Nepal, Pindaris and Third Maratha War consolidate paramountcy.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1823,
+      "date_precision": "period"
+    },
+    {
+      "id": "2e3e0f94b55d",
+      "start_year": 1814,
+      "date_label": "1814–16",
+      "title": "Anglo-Nepal War",
+      "summary": "One of Lord Hastings's expansion campaigns.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1816,
+      "date_precision": "period"
+    },
+    {
+      "id": "57b880348229",
+      "start_year": 1815,
+      "date_label": "1815",
+      "title": "Gangadhar Shastri murdered at Pandharpur",
+      "summary": "Gaekwad envoy's death and Trimbakji case intensify Peshwa–Company conflict.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cf1ed599c350",
+      "start_year": 1816,
+      "date_label": "1816",
+      "title": "Pindaris raid Northern Circars",
+      "summary": "Provides justification for a major Company campaign.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7fb9d47b8c74",
+      "start_year": 1816,
+      "date_label": "1816",
+      "title": "Raghuji II dies; Nagpur succession conflict",
+      "summary": "Parsoji/Appa Sahib dispute facilitates Resident Jenkins's intervention.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5497f7d3ac62",
+      "start_year": 1816,
+      "date_label": "27 May 1816",
+      "title": "Treaty of Nagpur",
+      "summary": "Appa Sahib accepts subsidiary force and dependence.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 5,
+      "day": 27,
+      "date_precision": "day"
+    },
+    {
+      "id": "9d6c2c363db3",
+      "start_year": 1817,
+      "date_label": "1817–18",
+      "title": "Pindari suppression",
+      "summary": "Hastings's northern and Hislop's Deccan armies disperse raiding bands.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1818,
+      "date_precision": "period"
+    },
+    {
+      "id": "f4bcd0820047",
+      "start_year": 1817,
+      "date_label": "1817–18",
+      "title": "Third Anglo-Maratha War",
+      "summary": "Final campaign ends Peshwaship and breaks the confederacy.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "end_year": 1818,
+      "date_precision": "period"
+    },
+    {
+      "id": "d57c9f71bb22",
+      "start_year": 1817,
+      "date_label": "13 June 1817",
+      "title": "Treaty of Poona",
+      "summary": "Further cessions/restrictions; Peshwa renounces confederacy leadership.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 6,
+      "day": 13,
+      "date_precision": "day"
+    },
+    {
+      "id": "28256dfb7ebb",
+      "start_year": 1817,
+      "date_label": "5 November 1817",
+      "title": "Battle of Khadki/Kirkee",
+      "summary": "Peshwa defeated after attacking Poona residency.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 11,
+      "day": 5,
+      "date_precision": "day"
+    },
+    {
+      "id": "6bb99cfbf534",
+      "start_year": 1817,
+      "date_label": "5 November 1817",
+      "title": "Treaty of Gwalior",
+      "summary": "Scindia agrees to assist anti-Pindari campaign and remains outside main anti-British war.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 11,
+      "day": 5,
+      "date_precision": "day"
+    },
+    {
+      "id": "241237c4a8fe",
+      "start_year": 1817,
+      "date_label": "26–27 November 1817",
+      "title": "Battle of Sitabaldi",
+      "summary": "Bhonsle forces defeated near Nagpur.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 11,
+      "day": 26,
+      "date_precision": "day"
+    },
+    {
+      "id": "49f42f33cf20",
+      "start_year": 1817,
+      "date_label": "21 December 1817",
+      "title": "Battle of Mahidpur",
+      "summary": "Hislop's forces defeat Holkar.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 12,
+      "day": 21,
+      "date_precision": "day"
+    },
+    {
+      "id": "9b1bc44e44dd",
+      "start_year": 1818,
+      "date_label": "1818",
+      "title": "Dependent Satara kingdom created",
+      "summary": "Pratap Singh, Shivaji's descendant, installed in a remnant kingdom.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5298b48eafbc",
+      "start_year": 1818,
+      "date_label": "1 January 1818",
+      "title": "Battle of Koregaon",
+      "summary": "Company detachment resists larger Peshwa force; not his final surrender.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 1,
+      "day": 1,
+      "date_precision": "day"
+    },
+    {
+      "id": "29e64e015457",
+      "start_year": 1818,
+      "date_label": "6 January 1818",
+      "title": "Treaty of Mandsaur",
+      "summary": "Holkar accepts subsidiary dependence and territorial concessions.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "5"
+      ],
+      "month": 1,
+      "day": 6,
+      "date_precision": "day"
+    },
+    {
+      "id": "4d656e03f4f6",
+      "start_year": 1818,
+      "date_label": "20 February 1818",
+      "title": "Battle of Ashti",
+      "summary": "Peshwa's commander Bapu Gokhale killed.",
+      "category": "Battles & wars",
+      "chapters": [
+        "5"
+      ],
+      "month": 2,
+      "day": 20,
+      "date_precision": "day"
+    },
+    {
+      "id": "676b06b8d4b0",
+      "start_year": 1818,
+      "date_label": "June 1818",
+      "title": "Baji Rao II surrenders to Malcolm",
+      "summary": "Peshwaship abolished; pension at Bithoor; territories enlarge Bombay Presidency.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "month": 6,
+      "date_precision": "month"
+    },
+    {
+      "id": "79bdb093914f",
+      "start_year": 1820,
+      "date_label": "1820",
+      "title": "Munro becomes Madras governor",
+      "summary": "Extends Ryotwari direct settlements, building on earlier work with Read.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "1351e82089f9",
+      "start_year": 1822,
+      "date_label": "1822",
+      "title": "Regulation VII and Mahalwari framework",
+      "summary": "Holt Mackenzie's village/mahal-based revenue arrangements.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cd8cc1f3845c",
+      "start_year": 1833,
+      "date_label": "1833",
+      "title": "Company's remaining commercial activities end",
+      "summary": "Tea/China monopoly ends; governing role continues until 1858.",
+      "category": "Administration & economy",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a3588039729b",
+      "start_year": 1835,
+      "date_label": "1835",
+      "title": "Company coinage drops Mughal emperor's name",
+      "summary": "Shows erosion of symbolic imperial authority under Akbar II.",
+      "category": "Administration & economy",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "1a6ddcb66eff",
+      "start_year": 1837,
+      "date_label": "1837–57",
+      "title": "Bahadur Shah II/Zafar's reign",
+      "summary": "Poet-emperor becomes symbolic sovereign for 1857 rebels.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "end_year": 1857,
+      "date_precision": "period"
+    },
+    {
+      "id": "628a47f6b87a",
+      "start_year": 1838,
+      "date_label": "1838",
+      "title": "Tripartite Treaty",
+      "summary": "Ranjit Singh, Company and Shah Shuja; Afghan restoration plans.",
+      "category": "Treaties & grants",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "ded9ed3380af",
+      "start_year": 1839,
+      "date_label": "1839",
+      "title": "Ranjit Singh dies",
+      "summary": "Succession conflict weakens the Punjab kingdom.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "06540a3d0eb4",
+      "start_year": 1840,
+      "date_label": "1840",
+      "title": "Kharak Singh and Nau Nihal Singh die",
+      "summary": "Date is 1840, not 1839; deepens succession instability.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "60d1491d51ac",
+      "start_year": 1845,
+      "date_label": "1845",
+      "title": "Danish possessions sold to British",
+      "summary": "Tranquebar and Serampore transferred.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "db54ff189cdb",
+      "start_year": 1845,
+      "date_label": "1845–46",
+      "title": "First Anglo-Sikh War",
+      "summary": "Weakening court/army coordination precedes further conflict.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2"
+      ],
+      "end_year": 1846,
+      "date_precision": "period"
+    },
+    {
+      "id": "76043cd4beb9",
+      "start_year": 1848,
+      "date_label": "1848",
+      "title": "Satara annexed",
+      "summary": "Doctrine-of-lapse chronology in supplied PYQ explanation.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5384d6df1849",
+      "start_year": 1849,
+      "date_label": "1849",
+      "title": "Battle of Chillianwala",
+      "summary": "Company versus Sikhs; not Dalhousie versus Marathas.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6fc1d0dba258",
+      "start_year": 1849,
+      "date_label": "1849",
+      "title": "Punjab annexed after Second Anglo-Sikh War",
+      "summary": "Sikh kingdom absorbed into British rule.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "9c237640ea65",
+      "start_year": 1849,
+      "date_label": "1849",
+      "title": "Sambalpur annexed",
+      "summary": "After Satara, before Jhansi in the PYQ sequence.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "af0e739b7f5d",
+      "start_year": 1853,
+      "date_label": "1853–54",
+      "title": "Jhansi annexation decision/implementation",
+      "summary": "Date convention varies; chronological position follows Satara and Sambalpur.",
+      "category": "Rulers & States",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1854,
+      "date_precision": "period"
+    },
+    {
+      "id": "8154eb6e31e3",
+      "start_year": 1856,
+      "date_label": "1856",
+      "title": "Awadh annexed",
+      "summary": "Long dependence ends in direct annexation.",
+      "category": "Rulers & States",
+      "chapters": [
+        "2",
+        "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "0210182429f9",
+      "start_year": 1857,
+      "date_label": "1857",
+      "title": "Revolt; Zafar becomes symbolic sovereign",
+      "summary": "Company retakes Delhi and captures the emperor.",
+      "category": "Battles & wars",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "1cd2fb7aafb6",
+      "start_year": 1858,
+      "date_label": "1858",
+      "title": "Zafar tried and deported to Rangoon",
+      "summary": "Mughal dynasty's political removal distinct from his death in 1862.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "94318915f64f",
+      "start_year": 1858,
+      "date_label": "1 November 1858",
+      "title": "Queen Victoria's Proclamation",
+      "summary": "Crown takeover from Company; not the beginning of Mughal decline.",
+      "category": "Administration & economy",
+      "chapters": [
+        "1",
+        "3"
+      ],
+      "month": 11,
+      "day": 1,
+      "date_precision": "day"
+    },
+    {
+      "id": "ba92a40156c7",
+      "start_year": 1862,
+      "date_label": "November 1862",
+      "title": "Bahadur Shah Zafar dies",
+      "summary": "Death in exile after the dynasty's removal.",
+      "category": "Rulers & States",
+      "chapters": [
+        "1"
+      ],
+      "month": 11,
+      "date_precision": "month"
+    },
+    {
+      "id": "ef4c0cb58826",
+      "start_year": 1954,
+      "date_label": "1954",
+      "title": "French enclaves transfer de facto to India",
+      "summary": "Distinguish practical transfer from 1962 legal transfer.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "0cc570a1d2a6",
+      "start_year": 1961,
+      "date_label": "1961",
+      "title": "Goa, Daman and Diu brought under India",
+      "summary": "Military action ends Portuguese administration.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "82b88e1bed95",
+      "start_year": 1962,
+      "date_label": "1962",
+      "title": "French enclave transfer de jure",
+      "summary": "Legal completion follows de facto transfer of 1954.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "3"
+      ],
+      "date_precision": "year"
+    }
+  ]
+}

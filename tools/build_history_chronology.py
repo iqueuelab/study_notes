@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+"""Rebuild a historical subject's common timeline from its editable Chronology.json."""
+from pathlib import Path
+import html,json,sys
+from urllib.parse import quote
+root=Path(sys.argv[1]) if len(sys.argv)>1 else Path('Modern Indian History')
+data=json.loads((root/'Chronology.json').read_text());events=data['events'];chapters=data['chapters'];subject=data['subject'];esc=html.escape
+ids=set()
+for e in events:
+ assert e['id'] not in ids;ids.add(e['id'])
+ assert type(e['start_year']) is int and e['title'] and e['summary'] and e['date_label']
+ assert all(c in chapters for c in e['chapters'])
+ assert e.get('end_year',e['start_year'])>=e['start_year']
+ assert 1<=e.get('month',1)<=12 and 1<=e.get('day',1)<=31
+ordered=sorted(events,key=lambda e:(e['start_year'],e.get('month',0),e.get('day',0),e['title']))
+assert events==ordered,'Sort events by numeric start date before rendering.'
+def era(e):
+ y=e['start_year']
+ if subject!='Modern Indian History':
+  if y<0:
+   upper=((-y-1)//100+1)*100
+   return f'{upper}–{upper-99} BCE'
+  lower=(max(y,1)-1)//100*100+1
+  return f'{lower}–{lower+99} CE'
+ if y<1600:return 'Before 1600 · European background and maritime routes'
+ if y<1707:return '1600–1706 · Companies and trading settlements'
+ if y<1749:return '1707–1748 · Imperial decline and regional States'
+ if y<1766:return '1749–1765 · Rivalry, conquest and revenue power'
+ if y<1819:return '1766–1818 · Expansion and subsidiary dependence'
+ return '1819 onwards · Later developments referenced in the chapters'
+keys={('1498','Vasco da Gama reaches Calicut'),('1600','English East India Company charter'),('1707','Aurangzeb dies'),('1717',"Farrukhsiyar's Company farman"),('1739','Battle of Karnal and sack of Delhi'),('1757','Battle of Plassey'),('1760','Battle of Wandiwash'),('1761','Third Battle of Panipat'),('1764','Battle of Buxar'),('1765','Imperial diwani grant'),('1772','Dual government abolished'),('1799','Seringapatam stormed; Tipu killed'),('1802','Treaty of Bassein'),('1818','Baji Rao II surrenders to Malcolm'),('1858',"Queen Victoria's Proclamation")}
+lead='European trade → regional States → Company power' if subject=='Modern Indian History' else 'Events, people and periods in chronological order'
+md=[f'# {subject} — Chronology','', lead+'.','', 'Ranges are placed at their start date. Approximate dates remain labelled. Year-only entries do not establish an exact order within that year.','']
+sections=[];current=None
+for e in events:
+ group=era(e)
+ if group!=current:
+  md.extend(['## '+group,'']);sections.append({'title':group,'cards':[]});current=group
+ references=[];mdrefs=[]
+ for c in e['chapters']:
+  ch=chapters[c];short=ch.get('short_label',ch['label']);url=quote(ch['notes'],safe='/')
+  references.append(f'<a href="{url}" title="{esc(ch["title"],quote=True)}" aria-label="{esc(ch["label"]+": "+ch["title"],quote=True)}">{short}</a>')
+  mdrefs.append(f'[{short}]({url})')
+ milestone=e.get('is_turning_point',(str(e['start_year']),e['title']) in keys)
+ searchable=' '.join([e['date_label'],e['title'],e['summary'],e['category']]+[chapters[c]['title'] for c in e['chapters']])
+ sections[-1]['cards'].append(f'''<article class="event" data-chapters="{','.join(e['chapters'])}" data-category="{esc(e['category'],quote=True)}" data-key="{int(milestone)}" data-year="{e['start_year']}" data-search="{esc(searchable.lower(),quote=True)}"><div class="date">{esc(e['date_label'])}</div><div class="event-body"><div class="eyebrow">{esc(e['category'])}{'<span class="key-label">Turning point</span>' if milestone else ''}</div><h3>{esc(e['title'])}</h3><p>{esc(e['summary'])}</p><div class="chapter-links">{''.join(references)}</div></div></article>''')
+ md.extend([f'### {e["date_label"]} · {e["title"]}','',e['summary'],'',f'*{e["category"]} · '+ ' / '.join(mdrefs)+'',''])
+(root/'Chronology.md').write_text('\n'.join(md)+'\n')
+options=''.join(f'<option value="{esc(c,quote=True)}">{esc(c)}</option>' for c in sorted({e['category'] for e in events}))
+chapteroptions=''.join(f'<option value="{k}">{esc(v["label"]+" — "+v["title"])}</option>' for k,v in chapters.items())
+body=''.join(f'<section class="era"><h2>{esc(s["title"])}</h2><div class="timeline">'+''.join(s['cards'])+'</div></section>' for s in sections)
+css='''*{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:#f6f3ec;color:#203335;font:16px/1.55 system-ui,-apple-system,Arial,sans-serif}header,main,.controls{max-width:1040px;margin:auto}header{padding:44px 28px 22px}h1{font-family:Georgia,serif;font-size:clamp(27px,4vw,42px);line-height:1.15;margin:8px 0 18px;color:#263734}header .lead{font-size:18px;color:#476563;margin:0}.topline{letter-spacing:.14em;text-transform:uppercase;font-size:12px;color:#785245;font-weight:700}.date-note{font-size:14px;max-width:720px;color:#5d6560;margin:16px 0 0}.controls{padding:18px 28px;background:#e9ede6;border-top:1px solid #d6ded3;border-bottom:1px solid #d6ded3}.fields{display:grid;grid-template-columns:1.2fr 1fr 1.6fr;gap:14px}label{font-size:13px;font-weight:600;display:block}input[type=search],select{display:block;width:100%;min-height:44px;border:1px solid #b9c6ba;border-radius:7px;background:#fff;padding:10px;color:#203335;font:inherit;margin-top:5px}input:focus,select:focus,button:focus,a:focus{outline:3px solid #b88242;outline-offset:3px}.actions{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-top:16px}.toggle{display:flex;align-items:center;gap:8px;font-size:14px;margin-right:auto}.toggle input{width:19px;height:19px}button{font:inherit;font-size:14px;border:1px solid #698576;border-radius:7px;background:#fff;color:#203335;padding:9px 14px;min-height:42px;cursor:pointer}button.print{background:#254f47;color:#fff}.result{font-size:13px;color:#50615a;margin:12px 0 0}main{padding:8px 28px 40px}h2{font-size:20px;line-height:1.3;margin:34px 0 18px;padding-bottom:10px;border-bottom:2px solid #819f8e;font-weight:650}.timeline{border-left:2px solid #b8cabc;margin-left:8px;padding-left:22px}.event{position:relative;display:grid;grid-template-columns:145px 1fr;gap:18px;margin:14px 0;padding:20px 22px;background:white;border:1px solid #d8dfd3;border-radius:10px;break-inside:avoid}.event:before{content:"";position:absolute;width:12px;height:12px;border-radius:50%;left:-30px;top:25px;background:#476f5b;border:2px solid #f6f3ec}.date{font-size:16px;font-weight:750;color:#865136;line-height:1.4}.eyebrow{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#607565;display:flex;gap:10px;flex-wrap:wrap}.key-label{color:#865136;font-weight:750}h3{font-size:18px;line-height:1.35;margin:6px 0 8px;color:#1d3e36}p{margin:0}.event p{font-size:15px;line-height:1.5;overflow-wrap:anywhere}.chapter-links{display:flex;gap:7px;flex-wrap:wrap;margin-top:12px}.chapter-links a{font-size:12px;color:#385e50;text-decoration:none;border-radius:5px;padding:3px 8px;background:#eef3eb}.chapter-links a:hover{text-decoration:underline}.empty{padding:34px 0;font-size:17px}.era[hidden],.event[hidden],.empty[hidden]{display:none}.print-status{display:none}@media(max-width:640px){header{padding:25px 16px 18px}.controls{padding:16px}.fields{grid-template-columns:1fr}.actions{gap:10px}.toggle{flex-basis:100%}main{padding:0 16px 30px}h2{font-size:18px}.timeline{padding-left:16px;margin-left:5px}.event{grid-template-columns:1fr;gap:8px;padding:16px 14px;margin:12px 0}.event:before{left:-24px;top:20px}.date{font-size:15px}h3{font-size:18px}.event p{font-size:15px}}@page{size:A4;margin:14mm}@media print{body{background:white;font:10pt/1.35 Arial,sans-serif}header{padding:0 0 12pt}h1{font-size:24pt}.topline{font-size:9pt}header .lead{font-size:11pt}.date-note{font-size:9pt}.controls{display:none}.print-status{display:block;font-size:9pt;margin-top:7pt}main{padding:0}h2{font-size:13pt;margin:16pt 0 10pt;break-after:avoid}.timeline{margin-left:3mm;padding-left:5mm}.event{grid-template-columns:29mm 1fr;gap:4mm;padding:9pt 11pt;border-radius:0;margin:8pt 0;break-inside:avoid}.event:before{width:7px;height:7px;left:-6.3mm;top:12pt;border:0}.date{font-size:10pt}.eyebrow{font-size:7pt}h3{font-size:11pt;margin:3pt 0 5pt}.event p{font-size:9.5pt;line-height:1.35}.chapter-links{margin-top:6pt}.chapter-links a{font-size:8pt;background:none;padding:0 6pt 0 0;color:#444}.empty{display:none}}'''
+js='''const cards=[...document.querySelectorAll('.event')],eras=[...document.querySelectorAll('.era')];const search=document.querySelector('#search'),category=document.querySelector('#category'),chapter=document.querySelector('#chapter'),key=document.querySelector('#key'),result=document.querySelector('#result');function filter(){const query=search.value.trim().toLowerCase().split(/\\s+/).filter(Boolean);let count=0;for(const c of cards){const ok=query.every(w=>c.dataset.search.includes(w))&&(!category.value||c.dataset.category===category.value)&&(!chapter.value||c.dataset.chapters.split(',').includes(chapter.value))&&(!key.checked||c.dataset.key==='1');c.hidden=!ok;if(ok)count++;}for(const e of eras)e.hidden=![...e.querySelectorAll('.event')].some(c=>!c.hidden);result.textContent=count+' of '+cards.length+' events shown';document.querySelector('.empty').hidden=count!==0;document.querySelector('.print-status').textContent=result.textContent+(chapter.value?' · '+chapter.options[chapter.selectedIndex].text:'')+(category.value?' · '+category.value:'')+(key.checked?' · Turning points':'')+(search.value?' · Search: '+search.value:'');}for(const el of [search,category,chapter,key])el.addEventListener('input',filter);document.querySelector('#reset').onclick=()=>{search.value='';category.value='';chapter.value='';key.checked=false;filter()};document.querySelector('#print').onclick=()=>window.print();filter();'''
+page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(subject)} — Chronology</title><style>{css}</style></head><body><header><div class="topline">{esc(subject)}</div><h1>Chronology</h1><p class="lead">{esc(lead)}</p><p class="date-note">Ranges appear at their start date. Approximate dates remain labelled. Year-only entries do not establish an exact order within that year.</p><p class="print-status"></p></header><div class="controls"><div class="fields"><label for="search">Find an event, ruler or year<input id="search" type="search" placeholder="e.g. Bassein, Tipu, 1765"></label><label for="category">Event type<select id="category"><option value="">All event types</option>{options}</select></label><label for="chapter">Chapter<select id="chapter"><option value="">All chapters</option>{chapteroptions}</select></label></div><div class="actions"><label class="toggle" for="key"><input id="key" type="checkbox">Key turning points only</label><button id="reset">Show all events</button><button class="print" id="print">Print / Save as PDF</button></div><p id="result" class="result" role="status" aria-live="polite"></p></div><main>{body}<p class="empty" hidden>No matching events. Try a different search or show all events.</p></main><script>{js}</script></body></html>'''
+(root/'Chronology.html').write_text(page)
+print(f'Rendered {len(events)} chronological events in {len(sections)} eras.')
