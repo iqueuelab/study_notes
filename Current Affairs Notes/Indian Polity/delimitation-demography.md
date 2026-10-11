@@ -11,7 +11,17 @@
 ## Mains distinction
 - **Author's proposal:** revisit purely count-based representation and consider broader capability characteristics.
 - This is an editorial position, not an enacted delimitation formula. Assess alternatives against constitutional equality, federalism, feasibility and women's reproductive choice.
+## Fertility decline: January 2025 discussion
+- **TFR**: average children per woman under current age-specific fertility rates; conventional replacement level **about 2.1**, varying with mortality. Below-replacement fertility does not mean population immediately shrinks: **population momentum** matters.
+- Source **GBD 2021 estimates**: India **6.18 in 1950**, **1.9 in 2021**; projected **1.04 in 2100**. Projection depends on assumptions, not a forecast guaranteed to occur; do not mix GBD figures with NFHS survey estimates without labels.
+- Education, lower desired family size, child survival, contraception, delayed marriage/parenthood, urban living and costs of care drive transition. Source's ranking of infertility/abortion or foreign migration as dominant nationwide causes is not demonstrated.
+- Southern States: earlier transition, ageing, changing dependency ratios, healthcare/pension needs and worker migration. Source Kerala migrants **one-sixth by 2030** is an estimate, not a completed census finding; elderly already outnumbering all younger people is an overstatement.
+- South Korea source **0.78 (2022), 0.73 (2023)** is rounded/inexact; official 2023 figure **0.72**, illustrating limits of incentives alone.
+- Support childcare, affordable housing, secure employment, gender-equitable care and reproductive choice; older-worker opportunities and internal migration complement productivity gains. Smaller youth cohorts do not mechanically mean less innovation.
+
+- Fertility comparison: [Statistics Korea](https://www.kostat.go.kr/boardDownload.es?bid=11748&list_no=437488&seq=1).
+
 
 ## PDF coverage
 
-2025-01-02: pp. 32
+2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24

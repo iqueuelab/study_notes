@@ -13,7 +13,20 @@
 - **CROPS — Compact Research Module for Orbital Plant Studies**: cowpea germination under microgravity, reported within **four days**; automated thermal/environment control and a two-leaf-stage objective. A germination experiment does not yet establish a complete sustainable food system. [ISRO CROPS](https://www.isro.gov.in/CROPS.html).
 - **RRM-TD — Relocatable Robotic Manipulator–Technology Demonstrator**, developed by **IISU**: **seven degrees of freedom**; relocates itself to defined targets using **inchworm walking**, rather than simply relocating objects. Potential: inspection, assembly and servicing. [ISRO payload description](https://www.isro.gov.in/ISRO_EN/POEM_4_Payloads_spadex.html).
 
+## SpaDeX milestone, 16 January 2025
+- **SDX-01 + SDX-02**, roughly **220 kg each**, successfully docked in orbit after earlier postponements. Rendezvous brings craft together; docking physically joins them; combined control/power transfer are further steps. [ISRO docking confirmation](https://www.isro.gov.in/spadex_docking.html).
+- Enables orbital assembly/resupply, satellite servicing and future **Chandrayaan-4** sample-return architecture; demonstrates enabling technology, not a fully operational space station or every interplanetary capability.
+- Source BAS “end of decade” needs distinction between initial module plans and full station ambition. **POEM/cowpea germination** remains a separate hosted experiment from docking.
+- Mains: sustained funding, skilled teams, safe iterative testing, international/private cooperation and clear national-use/research priorities. Source's 250-word/15-mark daily question is coaching practice, not a verified UPSC PYQ.
+
+## Third Launch Pad approval, January 2025
+- **Cabinet, 16 January 2025**: **SDSC Sriharikota, Andhra Pradesh**, proposed **Third Launch Pad**, **₹3,984.86 crore**, **48 months** target. Approval/schedule are not completion.
+- Supports **Next Generation Launch Vehicle**, **LVM3 with semi-cryogenic stages**, enlarged NGLV configurations; standby for **Second Launch Pad**, future human-spaceflight/greater launch frequency.
+- Share existing facilities, adaptable design and industry participation; redundancy reduces disruption but construction/qualification must be completed. [Cabinet decision](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2093358&lang=2&reg=48).
+- **First Launch Pad** serves **PSLV/SSLV**, source about 30 years old; **Second** serves **GSLV/LVM3** and PSLV backup, about 20 years. Ages are January 2025 approximations.
+- The repeated SpaDeX section adds no separate docking event; consolidated milestone remains **16 January 2025**.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 27, 28 · 2025-01-07: pp. 18, 19, 20
+2025-01-01: pp. 27, 28 · 2025-01-07: pp. 18, 19, 20 · 2025-01-17: pp. 24, 25, 26 · 2025-01-18: pp. 24, 25, 26, 34, 35, 36 · 2025-01-19: pp. 15, 46

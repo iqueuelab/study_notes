@@ -10,7 +10,10 @@
 - Sonamarg tunnel enables all-weather access to Sonamarg; alone it does **not** complete year-round access across every Ladakh bottleneck.
 - Separate **Zojila tunnel**, source **14.15 km**, planned eastward connection across the pass; do not confuse its length/completion with Sonamarg.
 - Benefits: winter tourism, local livelihoods, rescue and defence logistics near sensitive northern/eastern frontiers; monitor ecological disturbance, avalanche risk and emergency ventilation/egress.
+## Practice-test trap
+- The 19 January key overstates year-round access to all of Ladakh. **Sonamarg access ≠ completion of the separate Zoji La tunnel**; check the specific section of the route.
+
 
 ## PDF coverage
 
-2025-01-11: pp. 12, 13, 21, 22
+2025-01-11: pp. 12, 13, 21, 22 · 2025-01-19: pp. 1, 2, 18, 19

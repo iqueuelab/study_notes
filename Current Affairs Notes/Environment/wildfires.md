@@ -19,7 +19,14 @@
 - **During**: evacuation routes, accessible warnings, trained crews, water/retardants with environmental safeguards; protect responders and vulnerable residents.
 - **After**: safe return, ash/water monitoring, erosion control, habitat restoration, transparent relief and resilient reconstruction.
 - Mains: prevention + land-use planning + preparedness + ecosystem-sensitive recovery; emergency suppression alone is insufficient.
+## Pink aerial retardant: January 2025
+- **Phos-Chek** is a brand of long-term fire retardants, generally ammonium-phosphate/polyphosphate-based formulations. Pink colour marks treated ground; it is not the extinguishing mechanism.
+- Water carrier evaporates → retardant remains → vegetation combustion/spread slowed → supports ground response. Weather, flight safety and placement limit performance; an aerial drop is not guaranteed to extinguish a severe wildfire.
+- Source's Los Angeles death figure rose to **24** by its January 13 reporting; earlier figure stays dated, not a contradictory final toll.
+- Some formulations tested contain **chromium/cadmium and other toxic metals**; exposure/aquatic risk differs by product and dose. A study estimated **850,000 pounds of metals** released in the western US **2009–2021**, not all retardant chemicals globally since 2009. [USC research summary](https://viterbischool.usc.edu/news/2024/10/toxic-metals-found-in-wildfire-suppressants/).
+- Balance emergency protection with safer formulations, waterway protection, careful application and environmental monitoring; don't generalise one tested product to every Phos-Chek formulation.
+
 
 ## PDF coverage
 
-2025-01-11: pp. 5, 6, 7, 8, 20, 21
+2025-01-11: pp. 5, 6, 7, 8, 20, 21 · 2025-01-15: pp. 12, 13 · 2025-01-19: pp. 12, 41

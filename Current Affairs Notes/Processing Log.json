@@ -102,7 +102,10 @@
         "india-indonesia"
       ],
       "text_reviewed": true,
-      "page_images_reviewed": true
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        28
+      ]
     },
     {
       "date": "2025-01-06",
@@ -291,42 +294,198 @@
       ],
       "text_reviewed": true,
       "page_images_reviewed": true,
-      "date_verification": "January 2025 WMO release, Germany FMD outbreak, youth dialogue and president-elect proposal"
+      "date_verification": "January 2025 WMO release, Germany FMD outbreak, youth dialogue and president-elect proposal",
+      "non_content_pages": [
+        22
+      ]
     },
     {
       "date": "2025-01-15",
       "pdf": "2025/01-January/2025-01-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "1da4ebcdf9994c1dd7761eb90f1ce7d1a9211cebcd6a204ee3761b1b01aaf8b0",
+      "pages": 21,
+      "topic_ids": [
+        "wildfires",
+        "plasticisers",
+        "un-cebd",
+        "blue-flag",
+        "notto",
+        "trichophyton",
+        "hatti",
+        "vice-chancellors",
+        "dnt-seed",
+        "hollongapar",
+        "animal-fighting"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-16",
       "pdf": "2025/01-January/2025-01-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "c549e3dc79b32fea57ce55e8992d9d3507600a6129623006479f0bed17b94ce1",
+      "pages": 17,
+      "topic_ids": [
+        "naval-platforms",
+        "hollongapar",
+        "animal-fighting",
+        "trade-deficit",
+        "robotic-mules"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-17",
       "pdf": "2025/01-January/2025-01-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "27573d4d3ad4c054fec8fb566f3566f2ffe5de9c6c03b3389888e4b501117b7a",
+      "pages": 29,
+      "topic_ids": [
+        "space-sector",
+        "jallikattu",
+        "nagarahole",
+        "kashi-tamil",
+        "commercial-lunar",
+        "catastrophe-risk",
+        "bangladesh-fencing",
+        "gaza-ceasefire",
+        "small-language-models",
+        "chagos",
+        "makaravilakku",
+        "clouded-leopard",
+        "rat-hole-mining",
+        "pay-commissions"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-18",
       "pdf": "2025/01-January/2025-01-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "683db2d4878ab28188f054e5e00a0b8c88caabe8abe6ef6d03553c42903c4784",
+      "pages": 46,
+      "topic_ids": [
+        "space-sector",
+        "india-indonesia",
+        "bharatpol",
+        "pm-kisan",
+        "rat-hole-mining",
+        "india-eu",
+        "india-singapore",
+        "imd-mausam",
+        "iv-fluids",
+        "drone-didi",
+        "sc-appointments",
+        "sugary-drinks",
+        "dhruv",
+        "military-indices",
+        "nag-mk2"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-19",
       "pdf": "2025/01-January/2025-01-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "45c047235fb4a6b862c260f91e29634cc2cc2a956deea817b874c427bad0bb0d",
+      "pages": 47,
+      "topic_ids": [
+        "space-sector",
+        "thiruvalluvar",
+        "naval-platforms",
+        "groundwater",
+        "bharatpol",
+        "pravasi-divas",
+        "wildfires",
+        "sonamarg-tunnel",
+        "gaddi-dog",
+        "soapstone",
+        "sonobuoys",
+        "ujala",
+        "toda",
+        "kalpeni",
+        "garudakshi",
+        "iom",
+        "polar-vortex",
+        "ebola",
+        "anji-bridge",
+        "gulf-mexico",
+        "veer-gatha",
+        "pangolins",
+        "fmd",
+        "desert-park",
+        "plasticisers",
+        "un-cebd",
+        "blue-flag",
+        "trichophyton",
+        "dnt-seed",
+        "hollongapar",
+        "jallikattu",
+        "nagarahole",
+        "kashi-tamil",
+        "commercial-lunar",
+        "chagos",
+        "clouded-leopard",
+        "imd-mausam",
+        "iv-fluids",
+        "drone-didi"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "review_type": "Coaching revision test",
+      "practice_questions": 48,
+      "upsc_pyqs": 0,
+      "answer_key_issues": [
+        "Sonamarg access overstatement",
+        "UJALA versus SLNP conflation",
+        "Noim answer-letter mismatch",
+        "EstS1 application wrong key",
+        "IMD provincial origin/WMO date errors",
+        "Surat identification ambiguity",
+        "Vaghsheer BrahMos error",
+        "Gir indigenous-Indian breed distinction"
+      ]
     },
     {
       "date": "2025-01-20",
       "pdf": "2025/01-January/2025-01-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b22faa10d3de99e4f33298c2ed9434a4ee6da4e6d0d8ef1b151d1bbf1feb67de",
+      "pages": 27,
+      "topic_ids": [
+        "delimitation-demography",
+        "hazardous-waste",
+        "telesurgery",
+        "snakebite",
+        "svamitva",
+        "konark",
+        "green-mobility",
+        "gulf-aden",
+        "lokpal",
+        "la-perouse"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-21",
       "pdf": "2025/01-January/2025-01-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "64c6ee1c15cd4c959744546c28ab2ef6c98de0765d13e99aa49805c98e342902",
+      "pages": 19,
+      "topic_ids": [
+        "vice-chancellors",
+        "sc-appointments",
+        "imec",
+        "colonial-wealth"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-22",
@@ -3205,7 +3364,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-01-15",
+  "next_pdf": "2025-01-22",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

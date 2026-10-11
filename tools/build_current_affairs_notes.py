@@ -57,6 +57,13 @@ flows.update({
  'anaemia':['Finger-prick sample','Strip + portable reader','Assess iron status','Record + interpret with clinical context','Appropriate treatment / referral + follow-up'],
  'tidal-tails':['Galaxies interact gravitationally','Tidal forces distort and strip outer material','Stars + gas form elongated tails','Clumps / candidate diffuse system form','Observations constrain galaxy evolution'],
 })
+flows.update({'plasticisers':['Phthalate additive leaches from a product','Esterase hydrolyses an ester bond','Monoester and alcohol intermediates','Additional microbial metabolic steps','Assess residual toxicity and mineralisation'],'dnt-seed':['Accessible identification and documentation','Portable entitlements and correct classification','Education + health + housing + livelihoods','Participation and anti-stigma safeguards','Audit inclusion and outcomes']})
+flows.update({
+ 'svamitva':['Drone survey of village abadi','Ground verification + public objections','Resolve boundaries under State law','Issue property card / Record of Rights','Update records + enable planning / assessed credit'],
+ 'telesurgery':['Surgeon at remote console','Reliable encrypted network + low latency','Robotic instruments + cameras at patient site','On-site team monitors and provides emergency backup','Clinical follow-up + incident review'],
+ 'imec':['India: sea leg to Arabian Gulf','Gulf ports: transfer ship → rail','Overland links via Saudi Arabia / Jordan','Haifa: transfer rail → ship','European port + onward distribution'],
+ 'snakebite':['Exposure prevention + community awareness','Prompt access to trained clinical care','Assessment + suitable antivenom / supportive treatment','Manage complications + rehabilitation','Report cases + improve access and readiness'],
+})
 def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
 for i,t in enumerate(topics):
  folder=OUT/t['subject'];folder.mkdir(exist_ok=True)

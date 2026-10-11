@@ -1,5 +1,13 @@
 {
   "subject": "Social Problems In India",
   "exam_stage": "Mains",
-  "questions": []
+  "questions": [
+    {
+      "question": "What are the two major legal initiatives by the State since Independence addressing discrimination against Scheduled Tribes (STs).",
+      "chapter": "Denotified and nomadic communities: SEED and inclusion",
+      "year": 2017,
+      "word_limit": 250,
+      "marks": 15
+    }
+  ]
 }

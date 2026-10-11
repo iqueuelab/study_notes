@@ -26,7 +26,13 @@
 | INTERPOL–UNSC special | Individuals/entities subject to UNSC sanctions |
 - **Red Notice is not an international arrest warrant**; national law controls legal effect. [INTERPOL notices](https://www.interpol.int/How-we-work/Notices/), [official safeguards FAQ](https://www.interpol.int/content/download/15314/file/INTERPOL%20FAQ%20on%20Personal%20Data%20Safeguards.pdf).
 - Institutional priorities in graphic: counter-terrorism, organised/emerging crime and cybercrime.
+## INTERPOL Silver Notice: January 2025
+- **First published 10 January**, requested by **Italy** to trace assets of a senior mafia member. Assets: property, vehicles, financial accounts/business interests linked to crime.
+- Pilot **52 countries/territories including India**, planned at least to **November 2025**, collective ceiling **500 Silver Notices/diffusions**, not 500 for each country. Based on **2023 Vienna General Assembly** resolution. [INTERPOL announcement](https://www.interpol.int/News-and-Events/News/2025/INTERPOL-publishes-first-Silver-Notice-targeting-criminal-assets).
+- Asset tracing can support fraud/corruption/drug/environmental-crime investigations; **does not automatically freeze, confiscate or repatriate assets**. National legal process/evidence, international cooperation and judicial safeguards remain necessary.
+- **Silver = assets; Red = locate/request provisional arrest of persons under applicable law**. Source CBI Director's claim “more effective than MLAT” is an assessment; notices do not replace every mutual legal assistance requirement.
+
 
 ## PDF coverage
 
-2025-01-09: pp. 10, 11, 12, 20, 21, 22, 24 · 2025-01-11: pp. 13, 14, 15, 16, 19, 20, 21, 22
+2025-01-09: pp. 10, 11, 12, 20, 21, 22, 24 · 2025-01-11: pp. 13, 14, 15, 16, 19, 20, 21, 22 · 2025-01-18: pp. 40, 41, 42 · 2025-01-19: pp. 2, 19

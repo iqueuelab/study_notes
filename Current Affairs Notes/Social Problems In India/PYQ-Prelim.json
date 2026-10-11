@@ -1,5 +1,13 @@
 {
   "subject": "Social Problems In India",
   "exam_stage": "Prelim",
-  "questions": []
+  "questions": [
+    {
+      "question": "With reference to the “Changpa” community of India, consider the following statements:\n1. They live mainly in the State of Uttarakhand.\n2. They rear the Pashmina goats that yield a fine wool.\n3. They are kept in the category of Scheduled Tribes.\nWhich of the statements given above is/are correct?\n(a) 1 only\n(b) 2 and 3 only\n(c) 3 only\n(d) 1, 2 and 3",
+      "chapter": "Denotified and nomadic communities: SEED and inclusion",
+      "year": 2014,
+      "answer": "(b) 2 and 3 only",
+      "explanation": "Changpa live mainly in Ladakh, rear pashmina goats, and are listed as Scheduled Tribes."
+    }
+  ]
 }

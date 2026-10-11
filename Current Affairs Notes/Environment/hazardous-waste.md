@@ -23,7 +23,15 @@
 ## MIC trap
 - Colourless, volatile toxic chemical used in pesticide manufacture; water exposure can trigger a vigorous **exothermic reaction**.
 - The PDF's claims 'no longer produced' and 'only one storage site worldwide' are unsupported/outdated; do not memorise them.
+## Pithampur disposal: January 2025
+- Waste moved from Bhopal to **TSDF, Pithampur, Dhar district, Madhya Pradesh**, around **2 January**; source gives inconsistent totals **358 / 377 tonnes**, so neither is a reconciled measurement. Do not describe UCIL's pesticide residues as simply untreated fertiliser.
+- Source residues: **naphthol, carbaryl and reactor residues**; naphthol is a carbaryl precursor. Sealed/labeled transport differs from completed disposal.
+- Local protests raise emission, water-quality and long-term landfill concerns. Background contamination or disease surveys do not alone prove the facility caused harm or that future operations are risk-free.
+- Proposed **1,200°C trial incineration** and **90 / 270 kg** figures appear without clear time basis; preserve as reported trial/batch figures, not verified total trial mass or throughput. Source three/nine-month timetables were conditional plans.
+- Transparent trial-emission results, independent water/health monitoring, ash characterisation, protected landfill and public communication; liners require long-term maintenance. Incineration destroys suitable organics but leaves **ash/residues**, not zero waste.
+- Court dates, six-week allowance and **18 February hearing** are January procedural context, not proof disposal completed within that period.
+
 
 ## PDF coverage
 
-2025-01-08: pp. 8, 9, 10, 11, 12, 13
+2025-01-08: pp. 8, 9, 10, 11, 12, 13 · 2025-01-20: pp. 5, 6, 7

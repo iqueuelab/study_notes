@@ -17,7 +17,10 @@
 - Source's **85 lakh kWh / 15,000 tonnes CO₂** target lacks a usable timeframe and is inconsistent in scale with reported achievements; don't memorise it as the national annual target.
 - **77 crore conventional bulbs** is a replacement ambition; **3.5 crore streetlights** belongs to the separate street-lighting programme, not household bulbs already distributed under UJALA.
 - Mains mechanism: pooled demand → lower unit cost → wider adoption → lower electricity demand/bills/emissions; verify quality, disposal and access.
+## Practice-test trap
+- UJALA household bulbs and the **Street Lighting National Programme (SLNP)** are separate programmes. Do not attribute cumulative streetlight replacements to UJALA merely because both use LEDs.
+
 
 ## PDF coverage
 
-2025-01-13: pp. 4, 5
+2025-01-13: pp. 4, 5 · 2025-01-19: pp. 4, 24, 25

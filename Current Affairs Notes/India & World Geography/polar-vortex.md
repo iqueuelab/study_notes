@@ -10,7 +10,10 @@
 - A stratospheric disruption is **not required for every cold spell**, nor a guarantee all regions turn cold; coupling, timing and local weather matter. [NOAA distinctions](https://prod-01-asg-www-climate.woc.noaa.gov/news-features/blogs/enso/polar-vortex-going-make-you-put-sweater-be-afraid-be-very-afraid), [NWS cold-air explanation](https://www.weather.gov/safety/cold-polar-vortex).
 - Source January 2025 US cold outbreak; Europe/Asia also affected in relevant events. Southern circulation tends to be more symmetric, with ocean-dominated surroundings; Southern Hemisphere cold outbreaks still occur.
 - Impacts: hypothermia/frostbite, transport disruption, agricultural losses and energy demand; forecasts and protection for vulnerable people matter.
+## Precision trap
+- The **stratospheric** polar vortex is principally a winter feature; the tropospheric circulation persists year-round. Avoid an undifferentiated claim that every polar vortex remains equally strong in every season.
+
 
 ## PDF coverage
 
-2025-01-13: pp. 13, 14, 15, 22, 24
+2025-01-13: pp. 13, 14, 15, 22, 24 · 2025-01-19: pp. 7, 30, 31
