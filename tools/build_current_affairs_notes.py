@@ -76,6 +76,13 @@ flows.update({
  'kawacham':['Authoritative hazard observations / forecasts','Assess threat and authorise warnings','Sirens + voice + lights + other alert channels','People receive, understand and act','Coordinated response + monitoring'],
  'chinar':['Survey tree + record coordinates','Unique ID and QR-linked record','Record condition / estimated age / dimensions','Repeat inspection and compare changes','Conservation action + accountable monitoring'],
 })
+flows.update({
+ 'critical-minerals':['Explore and quantify resources','Assess viable extraction + safeguards','Refine and process materials','Manufacture strategic products','Recycle + diversify future supply'],
+ 'leprosy':['Recognise sensory loss / nerve signs','Confirm disease and classify','Complete appropriate multidrug treatment','Screen contacts + prevent disability','Follow up + reduce stigma'],
+ 'income-tax':['Calculate taxable income after eligible deductions','Apply marginal slab rates','Check rebate eligibility / special-rate income','Assess marginal relief where applicable','Determine final liability including applicable cess'],
+ 'arunachal-glaciers':['Glacier retreat under changing climate','Some sites develop expanding lakes','Assess lake / moraine instability','Outburst can threaten downstream people and assets','Monitoring + warning + safe planning'],
+ 'mental-health-work':['Identify psychosocial risks with workers','Improve workload and working conditions','Offer confidential accessible care','Support treatment and return to work','Evaluate equity and outcomes'],
+})
 def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
 for i,t in enumerate(topics):
  folder=OUT/t['subject'];folder.mkdir(exist_ok=True)

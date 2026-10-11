@@ -12,7 +12,16 @@
 - These are January historical rules, not an application guide to today's fees/selection requirements.
 - India: skilled careers, diaspora networks and remittances versus talent loss, employer dependence and long residency queues; IT-company deployment, talent retention and return opportunities matter.
 - Wage suppression, displacement and misuse are policy concerns to evaluate with evidence, not proof every migrant displaces an American worker. Skills, compliance and domestic talent development complement mobility.
+## Brain circulation: January 29 editorial
+- **Brain drain**: loss of skilled people; **brain gain**: attracting/retaining talent; **brain circulation**: repeated movement and exchange of skills, capital, research and diaspora networks. Returning talent does not automatically offset shortages in the sending country.
+- Visa restrictions can encourage firms to move work abroad, especially R&D; effects on domestic employment depend on firms, occupations and the wider economy. [Glennon research](https://www.nber.org/papers/w27538).
+- Source research examples, study-specific rather than universal forecasts: **10 denied positions → about 8 hires abroad**; **1% lower initial H-1B employment → 10–20% more foreign hiring**. Editorial also cites H-1B wage growth **52% versus 39%, 2003–2021**, immigrant-founded share above half of US billion-dollar startups, and foreign-born share **up to 71% of Silicon Valley tech workers**; denominators/periods differ.
+- Source innovation estimates: **10% more foreign STEM workers → native wages +0.5–0.6%, patents/person +0.3–0.7%**; immigrant college graduates +1 percentage point associated with patents/person +9–18%. These are research estimates, not proof every worker gains or that a 1% relative rise equals one percentage point.
+- Balance innovation/productivity and job creation against sector-specific displacement, wage compliance, dependence in sensitive technology and domestic skill shortages.
+- India: research clusters, predictable funding/IP rules, deep-tech capital, joint patents/research, skills matching, simpler OCI services and pension portability agreements. **Startup visa** is an editorial proposal; IndiaStack/UPI illustrate ecosystem capacity, not substitutes for laboratory research.
+- Mains structure: define circulation → diaspora/return networks → institutional barriers → feasible reforms and measurable gains. Source's 250-word/15-mark prompt is coaching practice, not a verified PYQ.
+
 
 ## PDF coverage
 
-2025-01-22: pp. 1, 2, 3, 4, 5, 17, 18 · 2025-01-26: pp. 7, 8
+2025-01-22: pp. 1, 2, 3, 4, 5, 17, 18 · 2025-01-26: pp. 7, 8 · 2025-01-29: pp. 1, 2, 3, 4, 5, 6

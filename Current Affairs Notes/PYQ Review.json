@@ -29,6 +29,42 @@
         2023
       ],
       "reason": "Embedded graphic has partial geomorphology stems, without complete original statements/options; CDS 2014 is outside CSE scope."
+    },
+    {
+      "topic": "January 30 dairy and lithium questions",
+      "issue_date": "2025-01-30",
+      "pages": [
+        3,
+        4,
+        5,
+        20
+      ],
+      "printed_years": [
+        2012,
+        2018,
+        2014,
+        2015,
+        2016,
+        2017,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "reason": "Dairy question list and 2023 lithium question lack confirmed official matches; 2019 PM Matsya Sampada attribution conflicts with 2020 scheme launch. Preserve separately; do not present as actual CSE PYQs."
+    },
+    {
+      "topic": "Galileo Project",
+      "issue_date": "2025-01-30",
+      "pages": [
+        13,
+        14
+      ],
+      "printed_years": [
+        2007
+      ],
+      "reason": "Complete printed stem/options read; EU answer correct, but official wording/year match pending."
     }
   ],
   "resolved": [
@@ -39,6 +75,18 @@
       ],
       "year": 2016,
       "verification": "Saved official UPSC 2016 GS-I PDF, pages 35 and 19 respectively, OCR and supplied question text compared."
+    },
+    {
+      "questions": [
+        "2023 cobalt",
+        "2023 Congo Basin",
+        "2023 satellite navigation",
+        "2023 ilmenite/rutile",
+        "2022 monazite",
+        "2022 country/news pairs",
+        "2018 IRNSS"
+      ],
+      "verification": "Official UPSC GS-I papers compared; 2018 scanned page 27 and 2022 scanned pages 15/39 reviewed through OCR. 2018 option d is None, correcting supplied reprint; answer a, not source b."
     }
   ]
 }

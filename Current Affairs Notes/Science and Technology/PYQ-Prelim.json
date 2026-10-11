@@ -30,6 +30,35 @@
         "d": "Reusable rocket designed by ISRO"
       },
       "answer": "a"
+    },
+    {
+      "question": "Which one of the following countries has its own Satellite Navigation System?",
+      "chapter": "NavIC and satellite navigation",
+      "year": 2023,
+      "options": {
+        "a": "Australia",
+        "b": "Canada",
+        "c": "Israel",
+        "d": "Japan"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements:\n1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.\n2. IRNSS covers entire India and about 5500 sq. km beyond its borders.\n3. India will have its own satellite navigation system with full global coverage by the middle of 2019.\nWhich of the statements given above is/are correct?",
+      "chapter": "NavIC and satellite navigation",
+      "year": 2018,
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "None"
+      },
+      "answer": "a",
+      "statements": [
+        "IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.",
+        "IRNSS covers entire India and about 5500 sq. km beyond its borders.",
+        "India will have its own satellite navigation system with full global coverage by the middle of 2019."
+      ]
     }
   ]
 }

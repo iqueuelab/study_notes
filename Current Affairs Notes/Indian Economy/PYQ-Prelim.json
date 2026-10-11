@@ -26,6 +26,36 @@
       "chapter": "World Economic Forum and global indices",
       "year": 2019,
       "answer": "(c) World Economic Forum"
+    },
+    {
+      "question": "Ilmenite and rutile, abundantly available in certain coastal tracts of India, are rich sources of which one of the following?",
+      "chapter": "Critical minerals and manufacturing",
+      "year": 2023,
+      "options": {
+        "a": "Aluminium",
+        "b": "Copper",
+        "c": "Iron",
+        "d": "Titanium"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "With reference to India, consider the following statements:\n1. Monazite is a source of rare earths.\n2. Monazite contains thorium.\n3. Monazite occurs naturally in the entire Indian coastal sands in India.\n4. In India, Government bodies only can process or export monazite.\nWhich of the statements given above are correct?",
+      "chapter": "Critical minerals and manufacturing",
+      "year": 2022,
+      "options": {
+        "a": "1, 2 and 3 only",
+        "b": "1, 2 and 4 only",
+        "c": "3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "b",
+      "statements": [
+        "Monazite is a source of rare earths.",
+        "Monazite contains thorium.",
+        "Monazite occurs naturally in the entire Indian coastal sands in India.",
+        "In India, Government bodies only can process or export monazite."
+      ]
     }
   ]
 }

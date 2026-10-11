@@ -28,7 +28,11 @@
 - Documentation camps/portable entitlements → accurate identification → accessible education, healthcare, housing and livelihoods → anti-stigma enforcement → participation and outcomes audit. Avoid treating mobility as criminal propensity.
 - **Prelims 2014, Changpa**: primarily **Ladakh**, rear **pashmina goats**, **ST**; statements **2 and 3**, answer **(b)**. This comparison does not classify all Changpa as DNTs.
 - **Mains 2017** asks for two major post-Independence legal initiatives addressing ST discrimination (**250 words, 15 marks**). Full questions are in the common subject PYQ files; welfare schemes and enforceable anti-discrimination laws must be distinguished.
+## January 29 implementation focus
+- Repeat coverage highlights certificate denial, poorly classified communities, outreach delays, overlapping-benefit checks and limited representation. Source's **“29 states”** and absence of a full-time board chair are dated claims, not verified universal present conditions.
+- Prioritise mobile documentation camps, State-specific classification, community participation and transparent SEED uptake; distinguish catalogue estimates from census totals.
+
 
 ## PDF coverage
 
-2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42
+2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42 · 2025-01-29: pp. 20, 21, 22, 23

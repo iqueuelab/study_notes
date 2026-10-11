@@ -655,32 +655,107 @@
     {
       "date": "2025-01-29",
       "pdf": "2025/01-January/2025-01-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6eab9c8bfcc60f23a249b2fec2823a0da4db0826a2153b1a6b76498c47581578",
+      "pages": 23,
+      "topic_ids": [
+        "dnt-seed",
+        "h1b",
+        "technology-clusters",
+        "diplomatic-capacity",
+        "child-marriage"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-30",
       "pdf": "2025/01-January/2025-01-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "dbf43b47979f024908a0e1b11a4509602f0e8507b7bb0595f4182add2e368725",
+      "pages": 53,
+      "topic_ids": [
+        "dairy-nutrition",
+        "drc-minerals",
+        "navic",
+        "critical-minerals",
+        "mineral-classification",
+        "fiscal-health",
+        "pangsau",
+        "blue-carbon",
+        "deep-ocean",
+        "paraquat",
+        "corpse-flower",
+        "inland-waterways",
+        "white-naped-tit",
+        "epicoccum"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-31",
       "pdf": "2025/01-January/2025-01-31.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4c613de64abf0f68e045b28a521fda291ffe77ce9f37cbcc664170faa9556d64",
+      "pages": 18,
+      "topic_ids": [
+        "pinaka",
+        "sodium-salt",
+        "leprosy",
+        "ad-hoc-judges"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-01",
       "pdf": "2025/02-February/2025-02-01.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d2059e264d00c58fa8c4678a74f259edca279f2dbd52685d25494f3bd0ee7d08",
+      "pages": 12,
+      "topic_ids": [
+        "tiger-conservation",
+        "industrial-indicators",
+        "economic-survey"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-03",
       "pdf": "2025/02-February/2025-02-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7759421790cd8f12891abac77e810eedca10f283ce8a43068c98db52f07f9599",
+      "pages": 26,
+      "topic_ids": [
+        "drc-minerals",
+        "navic",
+        "ad-hoc-judges",
+        "vshorad",
+        "income-tax",
+        "tariff-trade",
+        "cardamom",
+        "ucc-live-in"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-04",
       "pdf": "2025/02-February/2025-02-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a8b8a9d64da5057983c0cd064ae22a2c0820cd6cc7eda36fa4f64956f0ec2b9c",
+      "pages": 12,
+      "topic_ids": [
+        "rupee-trade",
+        "arunachal-glaciers",
+        "forest-diversion",
+        "ethanol-maize",
+        "mental-health-work"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-05",
@@ -3494,7 +3569,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-01-29",
+  "next_pdf": "2025-02-05",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -3518,6 +3593,10 @@
     {
       "date": "2025-01-12",
       "status": "not in current PDF queue; verify against download records before assuming a missing issue"
+    },
+    {
+      "date": "2025-02-02",
+      "status": "No PDF in current download queue; not reviewed. Verify Telegram issue availability."
     }
   ]
 }

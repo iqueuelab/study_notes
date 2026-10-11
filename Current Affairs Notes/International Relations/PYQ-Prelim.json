@@ -1,5 +1,48 @@
 {
   "subject": "International Relations",
   "exam_stage": "Prelim",
-  "questions": []
+  "questions": [
+    {
+      "question": "About three-fourths of world's cobalt, a metal required for the manufacture of batteries for electric motor vehicles, is produced by",
+      "chapter": "DRC minerals and geopolitics",
+      "year": 2023,
+      "options": {
+        "a": "Argentina",
+        "b": "Botswana",
+        "c": "The Democratic Republic of the Congo",
+        "d": "Kazakhstan"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which one of the following is a part of the Congo Basin?",
+      "chapter": "DRC minerals and geopolitics",
+      "year": 2023,
+      "options": {
+        "a": "Cameroon",
+        "b": "Nigeria",
+        "c": "South Sudan",
+        "d": "Uganda"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Consider the following pairs:\nCountry — Important reason for being in the news recently\n1. Chad — Setting up of permanent military base by China\n2. Guinea — Suspension of Constitution and Government by military\n3. Lebanon — Severe and prolonged economic depression\n4. Tunisia — Suspension of Parliament by President\nHow many pairs given above are correctly matched?",
+      "chapter": "DRC minerals and geopolitics",
+      "year": 2022,
+      "options": {
+        "a": "Only one pair",
+        "b": "Only two pairs",
+        "c": "Only three pairs",
+        "d": "All four pairs"
+      },
+      "answer": "c",
+      "statements": [
+        "Chad — Setting up of permanent military base by China",
+        "Guinea — Suspension of Constitution and Government by military",
+        "Lebanon — Severe and prolonged economic depression",
+        "Tunisia — Suspension of Parliament by President"
+      ]
+    }
+  ]
 }
