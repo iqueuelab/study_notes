@@ -1,0 +1,24 @@
+{
+  "subject": "Environment",
+  "exam_stage": "Prelim",
+  "questions": [
+    {
+      "question": "Due to improper/indiscriminate disposal of old and used computers or their parts, which of the following are released into the environment as e-waste?\n1. Beryllium\n2. Cadmium\n3. Chromium\n4. Heptachlor\n5. Mercury\n6. Lead\n7. Plutonium\nSelect the correct answer using the codes given below:\n(a) 1, 3, 4, 6 and 7 only\n(b) 1, 2, 3, 5 and 6 only\n(c) 2, 4, 5 and 7 only\n(d) 1, 2, 3, 4, 5, 6 and 7",
+      "chapter": "E-waste and extended producer responsibility",
+      "year": 2013,
+      "answer": "(b) 1, 2, 3, 5 and 6 only"
+    },
+    {
+      "question": "In India, “extended producer responsibility” was introduced as an important feature in which of the following?",
+      "chapter": "Hazardous waste and the Bhopal legacy",
+      "year": 2019,
+      "options": {
+        "a": "The Bio-medical Waste (Management and Handling) Rules, 1998",
+        "b": "The Recycled Plastic (Manufacturing and Usage) Rules, 1999",
+        "c": "The e-Waste (Management and Handling) Rules, 2011",
+        "d": "The Food Safety and Standard Regulations, 2011"
+      },
+      "answer": "c"
+    }
+  ]
+}

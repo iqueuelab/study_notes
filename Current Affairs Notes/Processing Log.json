@@ -1,0 +1,3215 @@
+{
+  "files": [
+    {
+      "date": "2025-01-01",
+      "pdf": "2025/01-January/2025-01-01.pdf",
+      "status": "reviewed",
+      "sha256": "fc69b0bb85ea9a61dae7ebb7987ea974cbb4e629296eac5b324c230c1674451c",
+      "pages": 33,
+      "topic_ids": [
+        "common-chargers",
+        "coffee",
+        "manufactured-sand",
+        "e-waste",
+        "operation-greens",
+        "lead-pollution",
+        "sea-level-rise",
+        "tamu-lhosar",
+        "manufacturing",
+        "defence-industry",
+        "citizenship",
+        "tiger-conservation",
+        "space-sector",
+        "pm-memorials",
+        "industrial-indicators"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
+    },
+    {
+      "date": "2025-01-02",
+      "pdf": "2025/01-January/2025-01-02.pdf",
+      "status": "reviewed",
+      "sha256": "12b8de742013f1e60be6ed0328363aa71e0b682369c4e46c0a9274b51109eb36",
+      "pages": 33,
+      "topic_ids": [
+        "lead-pollution",
+        "sea-level-rise",
+        "tamu-lhosar",
+        "manufacturing",
+        "defence-industry",
+        "green-steel",
+        "landslides",
+        "sea-otters",
+        "sevdalinka",
+        "vasilopita",
+        "thiruvalluvar",
+        "carnatic-music",
+        "naval-platforms",
+        "delimitation-demography"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
+    },
+    {
+      "date": "2025-01-03",
+      "pdf": "2025/01-January/2025-01-03.pdf",
+      "status": "reviewed",
+      "sha256": "4176378cc82a0f4aec06bc91c5ef8fccee7978a13eb50a14a1a197e49a8855e6",
+      "pages": 14,
+      "topic_ids": [
+        "coffee",
+        "industrial-indicators",
+        "economic-reforms",
+        "cancer-hydrogel",
+        "credit-rating",
+        "trinidad-tobago"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
+    },
+    {
+      "date": "2025-01-04",
+      "pdf": "2025/01-January/2025-01-04.pdf",
+      "status": "reviewed",
+      "sha256": "c30a90e8a42bc3e9bc01230a2016a6099f2de8d51b43aabea9e88496922b0270",
+      "pages": 14,
+      "topic_ids": [
+        "hmpv",
+        "banana",
+        "bank-npa",
+        "norovirus",
+        "tobacco-board",
+        "ganga-mission",
+        "simultaneous-elections",
+        "tungsten"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
+    },
+    {
+      "date": "2025-01-05",
+      "pdf": "2025/01-January/2025-01-05.pdf",
+      "status": "reviewed",
+      "sha256": "1c35f3e6fcf02264ab0232cbd129fe1c3c6fa278c86a453788072d8cfcb02efc",
+      "pages": 28,
+      "topic_ids": [
+        "quad",
+        "groundwater",
+        "renewable-energy",
+        "vikram-sarabhai",
+        "moldova-transnistria",
+        "india-indonesia"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
+    },
+    {
+      "date": "2025-01-06",
+      "pdf": "2025/01-January/2025-01-06.pdf",
+      "status": "reviewed",
+      "sha256": "136bd14062369d21e5dd997e7fc753cb79b9d6ead209427abc29054785895cd9",
+      "pages": 20,
+      "topic_ids": [
+        "naval-platforms",
+        "matrimonial-law",
+        "great-nicobar",
+        "preventive-health",
+        "india-neighbourhood",
+        "india-france"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
+    },
+    {
+      "date": "2025-01-07",
+      "pdf": "2025/01-January/2025-01-07.pdf",
+      "status": "reviewed",
+      "sha256": "f400cfee93eda314353ebdc8dfe3f82a1433fbd18d43c2909be8e45ec7db5a93",
+      "pages": 40,
+      "topic_ids": [
+        "space-sector",
+        "hmpv",
+        "vikram-sarabhai",
+        "moldova-transnistria",
+        "udise",
+        "crop-insurance",
+        "fertiliser-subsidy",
+        "cowpea",
+        "navika-sagar",
+        "europa",
+        "polavaram",
+        "tularemia",
+        "export-inspection",
+        "black-collared-catfish",
+        "left-wing-extremism"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_verification": "Cover 7 Jan 2025; inner 2024 heading is a typo"
+    },
+    {
+      "date": "2025-01-08",
+      "pdf": "2025/01-January/2025-01-08.pdf",
+      "status": "reviewed",
+      "sha256": "3905f29c8c15be96871d3b58d393efa48cf91f5f08826cb15e10d1e1f01574b2",
+      "pages": 25,
+      "topic_ids": [
+        "e-waste",
+        "moldova-transnistria",
+        "polavaram",
+        "tularemia",
+        "export-inspection",
+        "black-collared-catfish",
+        "hazardous-waste",
+        "golden-jackal",
+        "osteoporosis",
+        "panchayat-parliament",
+        "banihal-nh44",
+        "abdali",
+        "national-anthem",
+        "earthquakes"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_verification": "Cover 8 Jan 2025; inner 2024 heading is a typo"
+    },
+    {
+      "date": "2025-01-09",
+      "pdf": "2025/01-January/2025-01-09.pdf",
+      "status": "reviewed",
+      "sha256": "8cd87d5572af058dd12b124cad03facffab015d4dbd7a4b916ecc668ac48f0ae",
+      "pages": 24,
+      "topic_ids": [
+        "manufacturing",
+        "landslides",
+        "gold-council",
+        "tidal-tails",
+        "vembanad",
+        "armed-forces-tribunal",
+        "alaknanda",
+        "noctule",
+        "bharatpol",
+        "net-zero-banking",
+        "crowd-safety",
+        "arid-flooding"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_verification": "Cover 9 Jan 2025; inner 2024 heading is a typo"
+    },
+    {
+      "date": "2025-01-10",
+      "pdf": "2025/01-January/2025-01-10.pdf",
+      "status": "reviewed",
+      "sha256": "e6fbc848cb661650b6b6f19f85dd5032ab846a63b73bf865c37d2a11f17f69dc",
+      "pages": 30,
+      "topic_ids": [
+        "manufacturing",
+        "renewable-energy",
+        "india-afghanistan",
+        "dam-safety",
+        "flamingo-festival",
+        "finance-departments",
+        "road-trauma-care",
+        "anaemia",
+        "uapa",
+        "india-maldives",
+        "passport-index"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_verification": "Content concerns 8 Jan 2025 engagements, January 2025 festival and passport release; no cover date on this issue"
+    },
+    {
+      "date": "2025-01-11",
+      "pdf": "2025/01-January/2025-01-11.pdf",
+      "status": "reviewed",
+      "sha256": "7ac7d4abcdedbde573735f4af75e10b10836c55e164d5f3da82fbf5b491e49b5",
+      "pages": 22,
+      "topic_ids": [
+        "defence-industry",
+        "citizenship",
+        "trinidad-tobago",
+        "bharatpol",
+        "pravasi-divas",
+        "wildfires",
+        "sonamarg-tunnel",
+        "workplace-ethics"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_verification": "January 2025 PBD convention, LA fires and planned 13 January Sonamarg inauguration"
+    },
+    {
+      "date": "2025-01-13",
+      "pdf": "2025/01-January/2025-01-13.pdf",
+      "status": "reviewed",
+      "sha256": "df41add15054d0a1aba98b84431a4fa7d757d185ac24464284580124dff1020e",
+      "pages": 25,
+      "topic_ids": [
+        "defence-industry",
+        "renewable-energy",
+        "gaddi-dog",
+        "soapstone",
+        "sonobuoys",
+        "ujala",
+        "toda",
+        "kalpeni",
+        "garudakshi",
+        "vulture-drugs",
+        "genome-india",
+        "iom",
+        "polar-vortex",
+        "ebola",
+        "anji-bridge",
+        "siachen"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_verification": "January 2025 UJALA anniversary, GenomeIndia data release and breed registration"
+    },
+    {
+      "date": "2025-01-14",
+      "pdf": "2025/01-January/2025-01-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-15",
+      "pdf": "2025/01-January/2025-01-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-16",
+      "pdf": "2025/01-January/2025-01-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-17",
+      "pdf": "2025/01-January/2025-01-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-18",
+      "pdf": "2025/01-January/2025-01-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-19",
+      "pdf": "2025/01-January/2025-01-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-20",
+      "pdf": "2025/01-January/2025-01-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-21",
+      "pdf": "2025/01-January/2025-01-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-22",
+      "pdf": "2025/01-January/2025-01-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-23",
+      "pdf": "2025/01-January/2025-01-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-24",
+      "pdf": "2025/01-January/2025-01-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-25",
+      "pdf": "2025/01-January/2025-01-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-26",
+      "pdf": "2025/01-January/2025-01-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-27",
+      "pdf": "2025/01-January/2025-01-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-28",
+      "pdf": "2025/01-January/2025-01-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-29",
+      "pdf": "2025/01-January/2025-01-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-30",
+      "pdf": "2025/01-January/2025-01-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-01-31",
+      "pdf": "2025/01-January/2025-01-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-01",
+      "pdf": "2025/02-February/2025-02-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-03",
+      "pdf": "2025/02-February/2025-02-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-04",
+      "pdf": "2025/02-February/2025-02-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-05",
+      "pdf": "2025/02-February/2025-02-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-06",
+      "pdf": "2025/02-February/2025-02-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-07",
+      "pdf": "2025/02-February/2025-02-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-09",
+      "pdf": "2025/02-February/2025-02-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-10",
+      "pdf": "2025/02-February/2025-02-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-11",
+      "pdf": "2025/02-February/2025-02-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-12",
+      "pdf": "2025/02-February/2025-02-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-13",
+      "pdf": "2025/02-February/2025-02-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-14",
+      "pdf": "2025/02-February/2025-02-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-15",
+      "pdf": "2025/02-February/2025-02-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-16",
+      "pdf": "2025/02-February/2025-02-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-17",
+      "pdf": "2025/02-February/2025-02-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-18",
+      "pdf": "2025/02-February/2025-02-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-19",
+      "pdf": "2025/02-February/2025-02-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-20",
+      "pdf": "2025/02-February/2025-02-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-21",
+      "pdf": "2025/02-February/2025-02-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-22",
+      "pdf": "2025/02-February/2025-02-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-23",
+      "pdf": "2025/02-February/2025-02-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-24",
+      "pdf": "2025/02-February/2025-02-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-25",
+      "pdf": "2025/02-February/2025-02-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-26",
+      "pdf": "2025/02-February/2025-02-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-27",
+      "pdf": "2025/02-February/2025-02-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-02-28",
+      "pdf": "2025/02-February/2025-02-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-01",
+      "pdf": "2025/03-March/2025-03-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-02",
+      "pdf": "2025/03-March/2025-03-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-03",
+      "pdf": "2025/03-March/2025-03-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-04",
+      "pdf": "2025/03-March/2025-03-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-05",
+      "pdf": "2025/03-March/2025-03-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-06",
+      "pdf": "2025/03-March/2025-03-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-07",
+      "pdf": "2025/03-March/2025-03-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-08",
+      "pdf": "2025/03-March/2025-03-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-09",
+      "pdf": "2025/03-March/2025-03-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-10",
+      "pdf": "2025/03-March/2025-03-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-11",
+      "pdf": "2025/03-March/2025-03-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-12",
+      "pdf": "2025/03-March/2025-03-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-13",
+      "pdf": "2025/03-March/2025-03-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-14",
+      "pdf": "2025/03-March/2025-03-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-15",
+      "pdf": "2025/03-March/2025-03-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-16",
+      "pdf": "2025/03-March/2025-03-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-17",
+      "pdf": "2025/03-March/2025-03-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-18",
+      "pdf": "2025/03-March/2025-03-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-19",
+      "pdf": "2025/03-March/2025-03-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-20",
+      "pdf": "2025/03-March/2025-03-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-21",
+      "pdf": "2025/03-March/2025-03-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-22",
+      "pdf": "2025/03-March/2025-03-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-23",
+      "pdf": "2025/03-March/2025-03-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-24",
+      "pdf": "2025/03-March/2025-03-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-25",
+      "pdf": "2025/03-March/2025-03-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-26",
+      "pdf": "2025/03-March/2025-03-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-27",
+      "pdf": "2025/03-March/2025-03-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-28",
+      "pdf": "2025/03-March/2025-03-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-29",
+      "pdf": "2025/03-March/2025-03-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-30",
+      "pdf": "2025/03-March/2025-03-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-03-31",
+      "pdf": "2025/03-March/2025-03-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-01",
+      "pdf": "2025/04-April/2025-04-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-02",
+      "pdf": "2025/04-April/2025-04-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-03",
+      "pdf": "2025/04-April/2025-04-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-04",
+      "pdf": "2025/04-April/2025-04-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-05",
+      "pdf": "2025/04-April/2025-04-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-06",
+      "pdf": "2025/04-April/2025-04-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-07",
+      "pdf": "2025/04-April/2025-04-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-08",
+      "pdf": "2025/04-April/2025-04-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-09",
+      "pdf": "2025/04-April/2025-04-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-10",
+      "pdf": "2025/04-April/2025-04-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-11",
+      "pdf": "2025/04-April/2025-04-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-12",
+      "pdf": "2025/04-April/2025-04-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-13",
+      "pdf": "2025/04-April/2025-04-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-14",
+      "pdf": "2025/04-April/2025-04-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-15",
+      "pdf": "2025/04-April/2025-04-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-16",
+      "pdf": "2025/04-April/2025-04-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-17",
+      "pdf": "2025/04-April/2025-04-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-18",
+      "pdf": "2025/04-April/2025-04-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-19",
+      "pdf": "2025/04-April/2025-04-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-20",
+      "pdf": "2025/04-April/2025-04-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-21",
+      "pdf": "2025/04-April/2025-04-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-22",
+      "pdf": "2025/04-April/2025-04-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-23",
+      "pdf": "2025/04-April/2025-04-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-24",
+      "pdf": "2025/04-April/2025-04-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-25",
+      "pdf": "2025/04-April/2025-04-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-26",
+      "pdf": "2025/04-April/2025-04-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-27",
+      "pdf": "2025/04-April/2025-04-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-28",
+      "pdf": "2025/04-April/2025-04-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-29",
+      "pdf": "2025/04-April/2025-04-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-04-30",
+      "pdf": "2025/04-April/2025-04-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-01",
+      "pdf": "2025/05-May/2025-05-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-02",
+      "pdf": "2025/05-May/2025-05-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-03",
+      "pdf": "2025/05-May/2025-05-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-04",
+      "pdf": "2025/05-May/2025-05-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-05",
+      "pdf": "2025/05-May/2025-05-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-06",
+      "pdf": "2025/05-May/2025-05-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-08",
+      "pdf": "2025/05-May/2025-05-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-09",
+      "pdf": "2025/05-May/2025-05-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-10",
+      "pdf": "2025/05-May/2025-05-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-11",
+      "pdf": "2025/05-May/2025-05-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-12",
+      "pdf": "2025/05-May/2025-05-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-13",
+      "pdf": "2025/05-May/2025-05-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-14",
+      "pdf": "2025/05-May/2025-05-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-15",
+      "pdf": "2025/05-May/2025-05-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-16",
+      "pdf": "2025/05-May/2025-05-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-17",
+      "pdf": "2025/05-May/2025-05-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-18",
+      "pdf": "2025/05-May/2025-05-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-19",
+      "pdf": "2025/05-May/2025-05-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-20",
+      "pdf": "2025/05-May/2025-05-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-21",
+      "pdf": "2025/05-May/2025-05-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-22",
+      "pdf": "2025/05-May/2025-05-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-23",
+      "pdf": "2025/05-May/2025-05-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-24",
+      "pdf": "2025/05-May/2025-05-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-25",
+      "pdf": "2025/05-May/2025-05-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-26",
+      "pdf": "2025/05-May/2025-05-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-27",
+      "pdf": "2025/05-May/2025-05-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-28",
+      "pdf": "2025/05-May/2025-05-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-29",
+      "pdf": "2025/05-May/2025-05-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-30",
+      "pdf": "2025/05-May/2025-05-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-05-31",
+      "pdf": "2025/05-May/2025-05-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-01",
+      "pdf": "2025/06-June/2025-06-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-02",
+      "pdf": "2025/06-June/2025-06-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-03",
+      "pdf": "2025/06-June/2025-06-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-04",
+      "pdf": "2025/06-June/2025-06-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-05",
+      "pdf": "2025/06-June/2025-06-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-06",
+      "pdf": "2025/06-June/2025-06-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-07",
+      "pdf": "2025/06-June/2025-06-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-08",
+      "pdf": "2025/06-June/2025-06-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-09",
+      "pdf": "2025/06-June/2025-06-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-10",
+      "pdf": "2025/06-June/2025-06-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-11",
+      "pdf": "2025/06-June/2025-06-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-12",
+      "pdf": "2025/06-June/2025-06-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-13",
+      "pdf": "2025/06-June/2025-06-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-14",
+      "pdf": "2025/06-June/2025-06-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-16",
+      "pdf": "2025/06-June/2025-06-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-17",
+      "pdf": "2025/06-June/2025-06-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-18",
+      "pdf": "2025/06-June/2025-06-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-19",
+      "pdf": "2025/06-June/2025-06-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-20",
+      "pdf": "2025/06-June/2025-06-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-21",
+      "pdf": "2025/06-June/2025-06-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-23",
+      "pdf": "2025/06-June/2025-06-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-24",
+      "pdf": "2025/06-June/2025-06-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-25",
+      "pdf": "2025/06-June/2025-06-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-26",
+      "pdf": "2025/06-June/2025-06-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-27",
+      "pdf": "2025/06-June/2025-06-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-28",
+      "pdf": "2025/06-June/2025-06-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-29",
+      "pdf": "2025/06-June/2025-06-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-06-30",
+      "pdf": "2025/06-June/2025-06-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-01",
+      "pdf": "2025/07-July/2025-07-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-02",
+      "pdf": "2025/07-July/2025-07-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-03",
+      "pdf": "2025/07-July/2025-07-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-04",
+      "pdf": "2025/07-July/2025-07-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-05",
+      "pdf": "2025/07-July/2025-07-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-07",
+      "pdf": "2025/07-July/2025-07-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-09",
+      "pdf": "2025/07-July/2025-07-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-10",
+      "pdf": "2025/07-July/2025-07-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-11",
+      "pdf": "2025/07-July/2025-07-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-12",
+      "pdf": "2025/07-July/2025-07-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-13",
+      "pdf": "2025/07-July/2025-07-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-14",
+      "pdf": "2025/07-July/2025-07-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-15",
+      "pdf": "2025/07-July/2025-07-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-16",
+      "pdf": "2025/07-July/2025-07-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-17",
+      "pdf": "2025/07-July/2025-07-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-18",
+      "pdf": "2025/07-July/2025-07-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-19",
+      "pdf": "2025/07-July/2025-07-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-20",
+      "pdf": "2025/07-July/2025-07-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-21",
+      "pdf": "2025/07-July/2025-07-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-22",
+      "pdf": "2025/07-July/2025-07-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-23",
+      "pdf": "2025/07-July/2025-07-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-24",
+      "pdf": "2025/07-July/2025-07-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-25",
+      "pdf": "2025/07-July/2025-07-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-26",
+      "pdf": "2025/07-July/2025-07-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-27",
+      "pdf": "2025/07-July/2025-07-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-28",
+      "pdf": "2025/07-July/2025-07-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-29",
+      "pdf": "2025/07-July/2025-07-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-30",
+      "pdf": "2025/07-July/2025-07-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-07-31",
+      "pdf": "2025/07-July/2025-07-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-01",
+      "pdf": "2025/08-August/2025-08-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-02",
+      "pdf": "2025/08-August/2025-08-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-04",
+      "pdf": "2025/08-August/2025-08-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-05",
+      "pdf": "2025/08-August/2025-08-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-06",
+      "pdf": "2025/08-August/2025-08-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-07",
+      "pdf": "2025/08-August/2025-08-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-08",
+      "pdf": "2025/08-August/2025-08-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-09",
+      "pdf": "2025/08-August/2025-08-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-10",
+      "pdf": "2025/08-August/2025-08-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-11",
+      "pdf": "2025/08-August/2025-08-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-12",
+      "pdf": "2025/08-August/2025-08-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-13",
+      "pdf": "2025/08-August/2025-08-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-14",
+      "pdf": "2025/08-August/2025-08-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-15",
+      "pdf": "2025/08-August/2025-08-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-16",
+      "pdf": "2025/08-August/2025-08-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-17",
+      "pdf": "2025/08-August/2025-08-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-18",
+      "pdf": "2025/08-August/2025-08-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-19",
+      "pdf": "2025/08-August/2025-08-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-20",
+      "pdf": "2025/08-August/2025-08-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-21",
+      "pdf": "2025/08-August/2025-08-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-22",
+      "pdf": "2025/08-August/2025-08-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-23",
+      "pdf": "2025/08-August/2025-08-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-24",
+      "pdf": "2025/08-August/2025-08-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-25",
+      "pdf": "2025/08-August/2025-08-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-26",
+      "pdf": "2025/08-August/2025-08-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-27",
+      "pdf": "2025/08-August/2025-08-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-28",
+      "pdf": "2025/08-August/2025-08-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-29",
+      "pdf": "2025/08-August/2025-08-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-30",
+      "pdf": "2025/08-August/2025-08-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-08-31",
+      "pdf": "2025/08-August/2025-08-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-01",
+      "pdf": "2025/09-September/2025-09-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-02",
+      "pdf": "2025/09-September/2025-09-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-03",
+      "pdf": "2025/09-September/2025-09-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-04",
+      "pdf": "2025/09-September/2025-09-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-05",
+      "pdf": "2025/09-September/2025-09-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-06",
+      "pdf": "2025/09-September/2025-09-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-07",
+      "pdf": "2025/09-September/2025-09-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-08",
+      "pdf": "2025/09-September/2025-09-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-09",
+      "pdf": "2025/09-September/2025-09-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-10",
+      "pdf": "2025/09-September/2025-09-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-11",
+      "pdf": "2025/09-September/2025-09-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-12",
+      "pdf": "2025/09-September/2025-09-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-13",
+      "pdf": "2025/09-September/2025-09-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-15",
+      "pdf": "2025/09-September/2025-09-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-16",
+      "pdf": "2025/09-September/2025-09-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-17",
+      "pdf": "2025/09-September/2025-09-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-18",
+      "pdf": "2025/09-September/2025-09-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-19",
+      "pdf": "2025/09-September/2025-09-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-20",
+      "pdf": "2025/09-September/2025-09-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-22",
+      "pdf": "2025/09-September/2025-09-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-23",
+      "pdf": "2025/09-September/2025-09-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-24",
+      "pdf": "2025/09-September/2025-09-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-25",
+      "pdf": "2025/09-September/2025-09-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-26",
+      "pdf": "2025/09-September/2025-09-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-27",
+      "pdf": "2025/09-September/2025-09-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-28",
+      "pdf": "2025/09-September/2025-09-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-29",
+      "pdf": "2025/09-September/2025-09-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-09-30",
+      "pdf": "2025/09-September/2025-09-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-01",
+      "pdf": "2025/10-October/2025-10-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-02",
+      "pdf": "2025/10-October/2025-10-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-03",
+      "pdf": "2025/10-October/2025-10-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-04",
+      "pdf": "2025/10-October/2025-10-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-06",
+      "pdf": "2025/10-October/2025-10-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-07",
+      "pdf": "2025/10-October/2025-10-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-08",
+      "pdf": "2025/10-October/2025-10-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-09",
+      "pdf": "2025/10-October/2025-10-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-10",
+      "pdf": "2025/10-October/2025-10-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-11",
+      "pdf": "2025/10-October/2025-10-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-13",
+      "pdf": "2025/10-October/2025-10-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-14",
+      "pdf": "2025/10-October/2025-10-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-15",
+      "pdf": "2025/10-October/2025-10-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-16",
+      "pdf": "2025/10-October/2025-10-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-17",
+      "pdf": "2025/10-October/2025-10-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-18",
+      "pdf": "2025/10-October/2025-10-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-20",
+      "pdf": "2025/10-October/2025-10-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-21",
+      "pdf": "2025/10-October/2025-10-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-22",
+      "pdf": "2025/10-October/2025-10-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-23",
+      "pdf": "2025/10-October/2025-10-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-24",
+      "pdf": "2025/10-October/2025-10-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-25",
+      "pdf": "2025/10-October/2025-10-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-27",
+      "pdf": "2025/10-October/2025-10-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-28",
+      "pdf": "2025/10-October/2025-10-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-29",
+      "pdf": "2025/10-October/2025-10-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-30",
+      "pdf": "2025/10-October/2025-10-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-10-31",
+      "pdf": "2025/10-October/2025-10-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-03",
+      "pdf": "2025/11-November/2025-11-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-04",
+      "pdf": "2025/11-November/2025-11-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-05",
+      "pdf": "2025/11-November/2025-11-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-06",
+      "pdf": "2025/11-November/2025-11-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-07",
+      "pdf": "2025/11-November/2025-11-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-08",
+      "pdf": "2025/11-November/2025-11-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-10",
+      "pdf": "2025/11-November/2025-11-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-11",
+      "pdf": "2025/11-November/2025-11-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-12",
+      "pdf": "2025/11-November/2025-11-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-13",
+      "pdf": "2025/11-November/2025-11-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-14",
+      "pdf": "2025/11-November/2025-11-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-15",
+      "pdf": "2025/11-November/2025-11-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-17",
+      "pdf": "2025/11-November/2025-11-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-18",
+      "pdf": "2025/11-November/2025-11-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-19",
+      "pdf": "2025/11-November/2025-11-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-20",
+      "pdf": "2025/11-November/2025-11-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-21",
+      "pdf": "2025/11-November/2025-11-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-22",
+      "pdf": "2025/11-November/2025-11-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-24",
+      "pdf": "2025/11-November/2025-11-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-25",
+      "pdf": "2025/11-November/2025-11-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-26",
+      "pdf": "2025/11-November/2025-11-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-27",
+      "pdf": "2025/11-November/2025-11-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-28",
+      "pdf": "2025/11-November/2025-11-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-11-29",
+      "pdf": "2025/11-November/2025-11-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-02",
+      "pdf": "2025/12-December/2025-12-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-03",
+      "pdf": "2025/12-December/2025-12-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-04",
+      "pdf": "2025/12-December/2025-12-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-05",
+      "pdf": "2025/12-December/2025-12-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-06",
+      "pdf": "2025/12-December/2025-12-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-08",
+      "pdf": "2025/12-December/2025-12-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-09",
+      "pdf": "2025/12-December/2025-12-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-10",
+      "pdf": "2025/12-December/2025-12-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-11",
+      "pdf": "2025/12-December/2025-12-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-12",
+      "pdf": "2025/12-December/2025-12-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-13",
+      "pdf": "2025/12-December/2025-12-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-14",
+      "pdf": "2025/12-December/2025-12-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-15",
+      "pdf": "2025/12-December/2025-12-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-16",
+      "pdf": "2025/12-December/2025-12-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-17",
+      "pdf": "2025/12-December/2025-12-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-18",
+      "pdf": "2025/12-December/2025-12-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-19",
+      "pdf": "2025/12-December/2025-12-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-20",
+      "pdf": "2025/12-December/2025-12-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-22",
+      "pdf": "2025/12-December/2025-12-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-23",
+      "pdf": "2025/12-December/2025-12-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-24",
+      "pdf": "2025/12-December/2025-12-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-25",
+      "pdf": "2025/12-December/2025-12-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-26",
+      "pdf": "2025/12-December/2025-12-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-27",
+      "pdf": "2025/12-December/2025-12-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-29",
+      "pdf": "2025/12-December/2025-12-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-30",
+      "pdf": "2025/12-December/2025-12-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2025-12-31",
+      "pdf": "2025/12-December/2025-12-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-01",
+      "pdf": "2026/01-January/2026-01-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-02",
+      "pdf": "2026/01-January/2026-01-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-03",
+      "pdf": "2026/01-January/2026-01-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-05",
+      "pdf": "2026/01-January/2026-01-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-06",
+      "pdf": "2026/01-January/2026-01-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-07",
+      "pdf": "2026/01-January/2026-01-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-08",
+      "pdf": "2026/01-January/2026-01-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-09",
+      "pdf": "2026/01-January/2026-01-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-10",
+      "pdf": "2026/01-January/2026-01-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-12",
+      "pdf": "2026/01-January/2026-01-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-13",
+      "pdf": "2026/01-January/2026-01-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-14",
+      "pdf": "2026/01-January/2026-01-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-15",
+      "pdf": "2026/01-January/2026-01-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-16",
+      "pdf": "2026/01-January/2026-01-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-17",
+      "pdf": "2026/01-January/2026-01-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-18",
+      "pdf": "2026/01-January/2026-01-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-19",
+      "pdf": "2026/01-January/2026-01-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-20",
+      "pdf": "2026/01-January/2026-01-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-21",
+      "pdf": "2026/01-January/2026-01-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-22",
+      "pdf": "2026/01-January/2026-01-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-23",
+      "pdf": "2026/01-January/2026-01-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-24",
+      "pdf": "2026/01-January/2026-01-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-26",
+      "pdf": "2026/01-January/2026-01-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-27",
+      "pdf": "2026/01-January/2026-01-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-28",
+      "pdf": "2026/01-January/2026-01-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-29",
+      "pdf": "2026/01-January/2026-01-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-30",
+      "pdf": "2026/01-January/2026-01-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-01-31",
+      "pdf": "2026/01-January/2026-01-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-03",
+      "pdf": "2026/02-February/2026-02-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-04",
+      "pdf": "2026/02-February/2026-02-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-05",
+      "pdf": "2026/02-February/2026-02-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-07",
+      "pdf": "2026/02-February/2026-02-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-09",
+      "pdf": "2026/02-February/2026-02-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-10",
+      "pdf": "2026/02-February/2026-02-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-11",
+      "pdf": "2026/02-February/2026-02-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-12",
+      "pdf": "2026/02-February/2026-02-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-13",
+      "pdf": "2026/02-February/2026-02-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-14",
+      "pdf": "2026/02-February/2026-02-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-15",
+      "pdf": "2026/02-February/2026-02-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-16",
+      "pdf": "2026/02-February/2026-02-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-17",
+      "pdf": "2026/02-February/2026-02-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-18",
+      "pdf": "2026/02-February/2026-02-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-19",
+      "pdf": "2026/02-February/2026-02-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-20",
+      "pdf": "2026/02-February/2026-02-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-21",
+      "pdf": "2026/02-February/2026-02-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-23",
+      "pdf": "2026/02-February/2026-02-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-24",
+      "pdf": "2026/02-February/2026-02-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-25",
+      "pdf": "2026/02-February/2026-02-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-26",
+      "pdf": "2026/02-February/2026-02-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-27",
+      "pdf": "2026/02-February/2026-02-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-02-28",
+      "pdf": "2026/02-February/2026-02-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-02",
+      "pdf": "2026/03-March/2026-03-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-03",
+      "pdf": "2026/03-March/2026-03-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-04",
+      "pdf": "2026/03-March/2026-03-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-06",
+      "pdf": "2026/03-March/2026-03-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-07",
+      "pdf": "2026/03-March/2026-03-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-09",
+      "pdf": "2026/03-March/2026-03-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-10",
+      "pdf": "2026/03-March/2026-03-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-11",
+      "pdf": "2026/03-March/2026-03-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-12",
+      "pdf": "2026/03-March/2026-03-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-13",
+      "pdf": "2026/03-March/2026-03-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-14",
+      "pdf": "2026/03-March/2026-03-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-16",
+      "pdf": "2026/03-March/2026-03-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-17",
+      "pdf": "2026/03-March/2026-03-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-18",
+      "pdf": "2026/03-March/2026-03-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-19",
+      "pdf": "2026/03-March/2026-03-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-20",
+      "pdf": "2026/03-March/2026-03-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-21",
+      "pdf": "2026/03-March/2026-03-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-23",
+      "pdf": "2026/03-March/2026-03-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-24",
+      "pdf": "2026/03-March/2026-03-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-25",
+      "pdf": "2026/03-March/2026-03-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-26",
+      "pdf": "2026/03-March/2026-03-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-27",
+      "pdf": "2026/03-March/2026-03-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-28",
+      "pdf": "2026/03-March/2026-03-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-03-31",
+      "pdf": "2026/03-March/2026-03-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-01",
+      "pdf": "2026/04-April/2026-04-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-02",
+      "pdf": "2026/04-April/2026-04-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-03",
+      "pdf": "2026/04-April/2026-04-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-04",
+      "pdf": "2026/04-April/2026-04-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-06",
+      "pdf": "2026/04-April/2026-04-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-07",
+      "pdf": "2026/04-April/2026-04-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-08",
+      "pdf": "2026/04-April/2026-04-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-09",
+      "pdf": "2026/04-April/2026-04-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-10",
+      "pdf": "2026/04-April/2026-04-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-11",
+      "pdf": "2026/04-April/2026-04-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-13",
+      "pdf": "2026/04-April/2026-04-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-14",
+      "pdf": "2026/04-April/2026-04-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-15",
+      "pdf": "2026/04-April/2026-04-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-16",
+      "pdf": "2026/04-April/2026-04-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-17",
+      "pdf": "2026/04-April/2026-04-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-18",
+      "pdf": "2026/04-April/2026-04-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-20",
+      "pdf": "2026/04-April/2026-04-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-21",
+      "pdf": "2026/04-April/2026-04-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-22",
+      "pdf": "2026/04-April/2026-04-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-23",
+      "pdf": "2026/04-April/2026-04-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-24",
+      "pdf": "2026/04-April/2026-04-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-25",
+      "pdf": "2026/04-April/2026-04-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-27",
+      "pdf": "2026/04-April/2026-04-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-28",
+      "pdf": "2026/04-April/2026-04-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-29",
+      "pdf": "2026/04-April/2026-04-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-04-30",
+      "pdf": "2026/04-April/2026-04-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-01",
+      "pdf": "2026/05-May/2026-05-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-02",
+      "pdf": "2026/05-May/2026-05-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-04",
+      "pdf": "2026/05-May/2026-05-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-05",
+      "pdf": "2026/05-May/2026-05-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-06",
+      "pdf": "2026/05-May/2026-05-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-07",
+      "pdf": "2026/05-May/2026-05-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-08",
+      "pdf": "2026/05-May/2026-05-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-09",
+      "pdf": "2026/05-May/2026-05-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-10",
+      "pdf": "2026/05-May/2026-05-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-11",
+      "pdf": "2026/05-May/2026-05-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-12",
+      "pdf": "2026/05-May/2026-05-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-13",
+      "pdf": "2026/05-May/2026-05-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-14",
+      "pdf": "2026/05-May/2026-05-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-15",
+      "pdf": "2026/05-May/2026-05-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-16",
+      "pdf": "2026/05-May/2026-05-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-17",
+      "pdf": "2026/05-May/2026-05-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-18",
+      "pdf": "2026/05-May/2026-05-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-19",
+      "pdf": "2026/05-May/2026-05-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-20",
+      "pdf": "2026/05-May/2026-05-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-21",
+      "pdf": "2026/05-May/2026-05-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-22",
+      "pdf": "2026/05-May/2026-05-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-23",
+      "pdf": "2026/05-May/2026-05-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-24",
+      "pdf": "2026/05-May/2026-05-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-25",
+      "pdf": "2026/05-May/2026-05-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-26",
+      "pdf": "2026/05-May/2026-05-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-27",
+      "pdf": "2026/05-May/2026-05-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-28",
+      "pdf": "2026/05-May/2026-05-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-29",
+      "pdf": "2026/05-May/2026-05-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-30",
+      "pdf": "2026/05-May/2026-05-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-05-31",
+      "pdf": "2026/05-May/2026-05-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-01",
+      "pdf": "2026/06-June/2026-06-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-02",
+      "pdf": "2026/06-June/2026-06-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-03",
+      "pdf": "2026/06-June/2026-06-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-04",
+      "pdf": "2026/06-June/2026-06-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-05",
+      "pdf": "2026/06-June/2026-06-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-06",
+      "pdf": "2026/06-June/2026-06-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-07",
+      "pdf": "2026/06-June/2026-06-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-08",
+      "pdf": "2026/06-June/2026-06-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-09",
+      "pdf": "2026/06-June/2026-06-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-10",
+      "pdf": "2026/06-June/2026-06-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-11",
+      "pdf": "2026/06-June/2026-06-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-12",
+      "pdf": "2026/06-June/2026-06-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-13",
+      "pdf": "2026/06-June/2026-06-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-14",
+      "pdf": "2026/06-June/2026-06-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-15",
+      "pdf": "2026/06-June/2026-06-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-16",
+      "pdf": "2026/06-June/2026-06-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-17",
+      "pdf": "2026/06-June/2026-06-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-18",
+      "pdf": "2026/06-June/2026-06-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-19",
+      "pdf": "2026/06-June/2026-06-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-20",
+      "pdf": "2026/06-June/2026-06-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-22",
+      "pdf": "2026/06-June/2026-06-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-23",
+      "pdf": "2026/06-June/2026-06-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-24",
+      "pdf": "2026/06-June/2026-06-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-25",
+      "pdf": "2026/06-June/2026-06-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-26",
+      "pdf": "2026/06-June/2026-06-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-27",
+      "pdf": "2026/06-June/2026-06-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-28",
+      "pdf": "2026/06-June/2026-06-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-29",
+      "pdf": "2026/06-June/2026-06-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-06-30",
+      "pdf": "2026/06-June/2026-06-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-01",
+      "pdf": "2026/07-July/2026-07-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-02",
+      "pdf": "2026/07-July/2026-07-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-03",
+      "pdf": "2026/07-July/2026-07-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-04",
+      "pdf": "2026/07-July/2026-07-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-05",
+      "pdf": "2026/07-July/2026-07-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-06",
+      "pdf": "2026/07-July/2026-07-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-07",
+      "pdf": "2026/07-July/2026-07-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-08",
+      "pdf": "2026/07-July/2026-07-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-09",
+      "pdf": "2026/07-July/2026-07-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-10",
+      "pdf": "2026/07-July/2026-07-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-11",
+      "pdf": "2026/07-July/2026-07-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-13",
+      "pdf": "2026/07-July/2026-07-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-14",
+      "pdf": "2026/07-July/2026-07-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-15",
+      "pdf": "2026/07-July/2026-07-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-16",
+      "pdf": "2026/07-July/2026-07-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-17",
+      "pdf": "2026/07-July/2026-07-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-18",
+      "pdf": "2026/07-July/2026-07-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-19",
+      "pdf": "2026/07-July/2026-07-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-20",
+      "pdf": "2026/07-July/2026-07-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-21",
+      "pdf": "2026/07-July/2026-07-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-22",
+      "pdf": "2026/07-July/2026-07-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-23",
+      "pdf": "2026/07-July/2026-07-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-24",
+      "pdf": "2026/07-July/2026-07-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-25",
+      "pdf": "2026/07-July/2026-07-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-26",
+      "pdf": "2026/07-July/2026-07-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-27",
+      "pdf": "2026/07-July/2026-07-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-28",
+      "pdf": "2026/07-July/2026-07-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-29",
+      "pdf": "2026/07-July/2026-07-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-30",
+      "pdf": "2026/07-July/2026-07-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-07-31",
+      "pdf": "2026/07-July/2026-07-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-01",
+      "pdf": "2026/08-August/2026-08-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-03",
+      "pdf": "2026/08-August/2026-08-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-04",
+      "pdf": "2026/08-August/2026-08-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-05",
+      "pdf": "2026/08-August/2026-08-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-06",
+      "pdf": "2026/08-August/2026-08-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-07",
+      "pdf": "2026/08-August/2026-08-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-08",
+      "pdf": "2026/08-August/2026-08-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-10",
+      "pdf": "2026/08-August/2026-08-10.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-11",
+      "pdf": "2026/08-August/2026-08-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-12",
+      "pdf": "2026/08-August/2026-08-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-13",
+      "pdf": "2026/08-August/2026-08-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-14",
+      "pdf": "2026/08-August/2026-08-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-15",
+      "pdf": "2026/08-August/2026-08-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-16",
+      "pdf": "2026/08-August/2026-08-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-17",
+      "pdf": "2026/08-August/2026-08-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-18",
+      "pdf": "2026/08-August/2026-08-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-19",
+      "pdf": "2026/08-August/2026-08-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-20",
+      "pdf": "2026/08-August/2026-08-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-21",
+      "pdf": "2026/08-August/2026-08-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-22",
+      "pdf": "2026/08-August/2026-08-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-24",
+      "pdf": "2026/08-August/2026-08-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-25",
+      "pdf": "2026/08-August/2026-08-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-26",
+      "pdf": "2026/08-August/2026-08-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-27",
+      "pdf": "2026/08-August/2026-08-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-28",
+      "pdf": "2026/08-August/2026-08-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-29",
+      "pdf": "2026/08-August/2026-08-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-30",
+      "pdf": "2026/08-August/2026-08-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-08-31",
+      "pdf": "2026/08-August/2026-08-31.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-01",
+      "pdf": "2026/09-September/2026-09-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-02",
+      "pdf": "2026/09-September/2026-09-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-03",
+      "pdf": "2026/09-September/2026-09-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-04",
+      "pdf": "2026/09-September/2026-09-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-05",
+      "pdf": "2026/09-September/2026-09-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-07",
+      "pdf": "2026/09-September/2026-09-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-08",
+      "pdf": "2026/09-September/2026-09-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-09",
+      "pdf": "2026/09-September/2026-09-09.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-11",
+      "pdf": "2026/09-September/2026-09-11.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-12",
+      "pdf": "2026/09-September/2026-09-12.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-13",
+      "pdf": "2026/09-September/2026-09-13.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-14",
+      "pdf": "2026/09-September/2026-09-14.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-15",
+      "pdf": "2026/09-September/2026-09-15.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-16",
+      "pdf": "2026/09-September/2026-09-16.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-17",
+      "pdf": "2026/09-September/2026-09-17.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-18",
+      "pdf": "2026/09-September/2026-09-18.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-19",
+      "pdf": "2026/09-September/2026-09-19.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-20",
+      "pdf": "2026/09-September/2026-09-20.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-21",
+      "pdf": "2026/09-September/2026-09-21.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-22",
+      "pdf": "2026/09-September/2026-09-22.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-23",
+      "pdf": "2026/09-September/2026-09-23.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-24",
+      "pdf": "2026/09-September/2026-09-24.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-25",
+      "pdf": "2026/09-September/2026-09-25.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-26",
+      "pdf": "2026/09-September/2026-09-26.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-27",
+      "pdf": "2026/09-September/2026-09-27.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-28",
+      "pdf": "2026/09-September/2026-09-28.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-29",
+      "pdf": "2026/09-September/2026-09-29.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-09-30",
+      "pdf": "2026/09-September/2026-09-30.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-01",
+      "pdf": "2026/10-October/2026-10-01.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-02",
+      "pdf": "2026/10-October/2026-10-02.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-03",
+      "pdf": "2026/10-October/2026-10-03.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-04",
+      "pdf": "2026/10-October/2026-10-04.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-05",
+      "pdf": "2026/10-October/2026-10-05.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-06",
+      "pdf": "2026/10-October/2026-10-06.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-07",
+      "pdf": "2026/10-October/2026-10-07.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-08",
+      "pdf": "2026/10-October/2026-10-08.pdf",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-09",
+      "pdf": "2026/10-October/2026-10-09.pdf",
+      "status": "pending"
+    }
+  ],
+  "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
+  "next_pdf": "2025-01-14",
+  "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
+  "date_corrections": [
+    {
+      "filename": "3_January_2025_Deepak_Yadav_Education_Class_Notes_in_English_.pdf",
+      "sha256": "ac2e4197183de81053a5486df313c323eb1eed5e69a3ce7a141fc530abfbabcf",
+      "correct_date": "2026-01-03",
+      "evidence": "Cover 3rd Jan 2026; verified Jan 2 2026 ECMS release"
+    },
+    {
+      "sha256": "67298fda69954843049af8ded309498ed962ddfc27caccd3186b6a3f4679310f",
+      "correct_date": "2026-01-06",
+      "evidence": "PDF cover reviewed; Jan6 issue years swapped"
+    },
+    {
+      "sha256": "136bd14062369d21e5dd997e7fc753cb79b9d6ead209427abc29054785895cd9",
+      "correct_date": "2025-01-06",
+      "evidence": "PDF cover reviewed; Jan6 issue years swapped"
+    }
+  ],
+  "review_gaps": [
+    {
+      "date": "2025-01-12",
+      "status": "not in current PDF queue; verify against download records before assuming a missing issue"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# Citizenship, visas and deportation
+
+## Constitutional and statutory distinction
+- **Part II, Articles 5-11** addresses citizenship at commencement and Parliament's power to legislate; it does not itself prescribe all present-day acquisition procedures.
+- **Citizenship Act, 1955** governs birth, descent, registration, naturalisation and incorporation of territory; loss through renunciation, termination or deprivation.
+- Citizenship is a Union subject; **CAA 2019** provides a special route for specified Hindu, Sikh, Buddhist, Jain, Parsi and Christian migrants from Afghanistan, Bangladesh and Pakistan entering by **31 December 2014**, subject to statutory conditions/exemptions. It is not automatic citizenship for every such entrant.
+## MHA annual report 2023-24: source figures
+- FRRO deportations **2,331**: Nigeria 1,470; Bangladesh 411; Uganda 78; reasons include visa violations/overstay.
+- **1,112** long-term visas to Pakistani minority-community members; LTV is not citizenship.
+- Citizenship certificates **1,699**: registration **1,278** + naturalisation **421**; this source table excludes CAA figures.
+- Foreign visitors **98 lakh**: Bangladesh 21.1 lakh, US 17.4 lakh, UK 9.9 lakh.
+- Source lists Amendment Act years 1986, 1992, 2003, 2005, 2015, 2019; avoid turning this source list into an assertion that no other changes exist.
+## NRI, PIO and OCI: diaspora distinction
+| Term | Citizenship / meaning |
+| --- | --- |
+| NRI | Indian citizen residing abroad; residence definitions depend on the law/context |
+| PIO | Person of Indian origin; historical/demographic description can continue |
+| OCI cardholder | Eligible **foreign national**, registered under Citizenship Act, 1955 **section 7A**; not an Indian citizen |
+- **PIO card scheme merged into OCI in 2015**; the demographic category 'person of Indian origin' was not abolished.
+- Eligibility connects to qualifying Indian citizenship/territory and descendants, subject to statutory conditions; Pakistan/Bangladesh citizenship/ancestry exclusions apply as prescribed. Do not infer eligibility from Indian ethnicity alone.
+- OCI is **not dual citizenship**. No Indian voting rights, election eligibility or ordinary entitlement to constitutional/public posts; visa/residence privileges and permitted activities remain subject to rules. [MHA explanation](https://www.mha.gov.in/PDF_Other/1OCIcardholder_Introduction_15112019.pdf), [OCI FAQ](https://ociservices.gov.in/onlineOCI/onlineOCI/faq).
+
+
+## PDF coverage
+
+2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3

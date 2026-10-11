@@ -1,0 +1,35 @@
+{
+  "subject": "Science and Technology",
+  "exam_stage": "Prelim",
+  "questions": [
+    {
+      "question": "Consider the following statements:\nThe Mangalyaan launched by ISRO\n1. is also called the Mars Orbiter Mission\n2. made India the second country to have a spacecraft orbit the Mars after USA\n3. made India the only country to be successful in making its spacecraft orbit the Mars in its very first attempt\nWhich of the statements given above is/are correct?",
+      "chapter": "Vikram Sarabhai and institution building",
+      "year": 2016,
+      "statements": [
+        "is also called the Mars Orbiter Mission",
+        "made India the second country to have a spacecraft orbit the Mars after USA",
+        "made India the only country to be successful in making its spacecraft orbit the Mars in its very first attempt"
+      ],
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is “Greased Lightning-10 (GL-10)”, recently in the news?",
+      "chapter": "Vikram Sarabhai and institution building",
+      "year": 2016,
+      "options": {
+        "a": "Electric plane tested by NASA",
+        "b": "Solar-powered two-seater aircraft designed by Japan",
+        "c": "Space observatory launched by China",
+        "d": "Reusable rocket designed by ISRO"
+      },
+      "answer": "a"
+    }
+  ]
+}

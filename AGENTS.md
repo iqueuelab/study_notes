@@ -27,3 +27,12 @@ When creating or updating chapter notes from supplied images or documents:
 
 - Maintain the common editable `Indian Polity/Amendments Summary.md` and responsive `Amendments Summary.html` when completing Polity chapters. Group all amendment-related changes across chapters under one heading per constitutional amendment number, in ascending numeric order, with the Amendment Act title year. Merge complementary changes without duplicates and preserve earlier entries.
 - Include relevant Articles/Parts/Schedules, before-and-after changes, and chapter links. Distinguish Act title year from assent/commencement; clearly label repeal, uncommenced provisions and judicial invalidation without treating them as operative law or invalidating a whole amendment when only part was struck down. Exclude ordinary statutory amendments and other countries’ amendments.
+
+## Current affairs notes and Git checkpoints
+
+- Review downloaded daily PDFs chronologically, including their page images. Maintain one editable Markdown file and responsive HTML page per topic; merge repeated facts and add dated developments without duplicating whole sections.
+- Keep the main index compact: collapsed subject groups, year/month/day browsing, search and subject filters. Preserve Previous/Next navigation and Print / Save as PDF. Print all relevant collapsed content by expanding it for printing and restoring the browsing state afterward.
+- Current source collection is the external-drive `Current Affairs` folder reached through the local symlink. Build with `tools/build_current_affairs_notes.py`; override `CA_SOURCE_ROOT` if the collection moves.
+- User authorises committing and pushing current-affairs notes/code to `origin` after each seven-day batch. Use weekly boundaries in issue-date order (1–7 January, 8–14 January, etc.); report gaps rather than silently treating absent PDFs as reviewed.
+- Run `tools/publish_current_affairs_notes.py` to publish authored notes/HTML/PYQ JSON and review metadata into `Current Affairs Notes` in the checkout. The external Notes folder is the working master; the tracked folder is its portable snapshot. Never stage the `Current Affairs` symlink, downloaded source PDFs/images, original attachments, caches, AppleDouble files or blank directories.
+- Validate JSON and staged paths before each commit. Push only completed material, retain progress metadata, and record the successful commit and next seven-day boundary in the external Operations checkpoint file.

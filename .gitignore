@@ -1,2 +1,9 @@
 .DS_Store
 *.jpeg
+._*
+
+# Current affairs downloads live on the external drive; publish notes only.
+/Current Affairs
+/Current Affairs Originals/
+/Current Affairs Notes/**/*.pdf
+/Current Affairs Notes/Build State.json

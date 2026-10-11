@@ -1,0 +1,19 @@
+{
+  "pending": [
+    {
+      "topic": "Renewable energy and grid integration",
+      "question": "2013 Green Energy Corridor",
+      "reason": "Printed 250 words / 15 marks not verified; omitted those fields."
+    }
+  ],
+  "resolved": [
+    {
+      "questions": [
+        "Mangalyaan statements",
+        "Greased Lightning-10"
+      ],
+      "year": 2016,
+      "verification": "Saved official UPSC 2016 GS-I PDF, pages 35 and 19 respectively, OCR and supplied question text compared."
+    }
+  ]
+}
