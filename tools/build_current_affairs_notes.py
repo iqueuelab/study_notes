@@ -64,6 +64,18 @@ flows.update({
  'imec':['India: sea leg to Arabian Gulf','Gulf ports: transfer ship → rail','Overland links via Saudi Arabia / Jordan','Haifa: transfer rail → ship','European port + onward distribution'],
  'snakebite':['Exposure prevention + community awareness','Prompt access to trained clinical care','Assessment + suitable antivenom / supportive treatment','Manage complications + rehabilitation','Report cases + improve access and readiness'],
 })
+flows.update({
+ 'h1b':['Qualifying employer + specialty-occupation job','Certified Labor Condition Application','USCIS petition and applicable cap selection','Visa processing / admission where required','Compliant temporary employment + eligible extensions'],
+ 'space-surveillance':['Observe resident space objects','Determine and update orbital tracks','Assess conjunction / collision risk','Notify operators and plan avoidance','Monitor subsequent orbital changes'],
+ 'tb':['Prevent exposure + address nutrition and risk','Find symptomatic and high-risk cases','Confirm TB and test drug resistance','Appropriate treatment + adherence support','Follow up patients and eligible contacts'],
+ 'naivasha':['Nutrient enrichment','Rapid water-hyacinth growth','Dense floating mats','Reduced light / gas exchange + access','Control nutrients + suitable removal / monitoring'],
+ 'barrier-reef':['Heat or other sustained stress','Loss of symbiotic algae / pigment','Coral bleaching','Recovery if stress resolves; mortality if prolonged','Reduce warming pressure + protect water quality'],
+ 'kalaripayattu':['Maippayattu: condition the body','Kolthari: wooden weapons','Angathari: metal weapons','Verumkai: unarmed combat'],
+ 'sanjay':['Ground + aerial sensor observations','Integrate and remove duplicate tracks','Common Surveillance Picture','Secure Army data / satellite networks','Commander assessment and decisions'],
+ 'gbs':['Antecedent infection or other recognised association','Misguided immune response','Peripheral nerve injury','Weakness + possible respiratory / autonomic complications','Monitored clinical treatment + rehabilitation'],
+ 'kawacham':['Authoritative hazard observations / forecasts','Assess threat and authorise warnings','Sirens + voice + lights + other alert channels','People receive, understand and act','Coordinated response + monitoring'],
+ 'chinar':['Survey tree + record coordinates','Unique ID and QR-linked record','Record condition / estimated age / dimensions','Repeat inspection and compare changes','Conservation action + accountable monitoring'],
+})
 def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
 for i,t in enumerate(topics):
  folder=OUT/t['subject'];folder.mkdir(exist_ok=True)

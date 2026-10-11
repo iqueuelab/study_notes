@@ -2,7 +2,7 @@
 
 Downloaded PDFs, images, external-drive metadata and originals are never copied.
 """
-import argparse,hashlib,json
+import argparse,hashlib,json,subprocess,sys
 from pathlib import Path
 
 repo=Path(__file__).resolve().parents[1]
@@ -32,3 +32,6 @@ for path in sorted(paths):
  content=(source/path).read_bytes();out=target/path;out.parent.mkdir(parents=True,exist_ok=True);out.write_bytes(content)
  assert hashlib.sha256(out.read_bytes()).digest()==hashlib.sha256(content).digest()
 print(f'Published {len(paths)} notes/metadata files; {len(data["topics"])} topics; {sum(f["status"]=="reviewed" for f in queue["files"])} reviewed daily PDFs. No downloaded files copied.')
+
+# Refresh the shared entry point and return links after copying the snapshot.
+subprocess.run([sys.executable,str(repo/"tools"/"build_notes_home.py")],check=True)

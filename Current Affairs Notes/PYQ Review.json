@@ -18,6 +18,17 @@
         2001
       ],
       "reason": "Embedded graphic provides recall facts/partial stems, without complete original statements and options; recover full questions before adding PYQ JSON. Hepatitis B/C vaccine statement is reversed."
+    },
+    {
+      "topic": "Sada lateritic plateaus and seasonal ecology",
+      "issue_date": "2025-01-23",
+      "page": 13,
+      "printed_years": [
+        2020,
+        2019,
+        2023
+      ],
+      "reason": "Embedded graphic has partial geomorphology stems, without complete original statements/options; CDS 2014 is outside CSE scope."
     }
   ],
   "resolved": [

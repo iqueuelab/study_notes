@@ -15,7 +15,15 @@
 - High-altitude rescue/logistics, domestic manufacturing/supplier skills and reduced import dependence; Indian design does not imply every subsystem indigenous.
 - **5 January 2025 Coast Guard crash**, source temporary grounding/inspection measures. Await inquiry findings for cause; do not assign manufacturing/operational blame solely from the crash or treat temporary grounding as permanent retirement.
 - Certification, maintenance, defect reporting, transparent investigation and accountable corrective action sustain capability and public trust.
+## Safety investigation: January editorial
+- Reported recurring concerns: gearbox/transmission, vibration, leakage, flight-control issues, spares and slow corrective implementation. These are inquiry questions/history, not proof of a final cause of the **5 January crash**.
+- Investigate **design/stress analysis, metallurgy, fabrication, maintenance and operational evidence** with independent specialists and flight-test expertise; compare common components across **Prachand/LUH** without assuming all share identical faults.
+- **HAL** design/manufacturing responsibility; **CEMILAC** military airworthiness/certification and **DGAQA** production-quality assurance have distinct roles. Source assigning all production oversight to CEMILAC is incomplete. [Military airworthiness framework](https://www.drdo.gov.in/drdo/sites/default/files/inline-files/IMTAR21Ver2.pdf).
+- Armed **Rudra Mk IV**: **20 mm turret gun, 70 mm rockets**, missile/EW fit varies; warning sensors, countermeasures and maritime radar/searchlight/electro-optics are configuration-specific. Twin engines improve redundancy but cannot eliminate transmission/control failure risks.
+- Source's foreign operator list includes **Bolivia/Myanmar/Israel** without clear contract/service dates; do not present it as a verified current fleet inventory. Export reputation depends on safety and lifecycle support.
+- Ethical frame: crew safety, independent evidence, accountable certification, timely corrective action and transparent audits; strengthen overhaul/spares and apply lessons to future **Indian Multi Role Helicopter** programmes.
+
 
 ## PDF coverage
 
-2025-01-18: pp. 42, 43, 44
+2025-01-18: pp. 42, 43, 44 · 2025-01-27: pp. 4, 5, 6, 7, 8, 9

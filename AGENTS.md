@@ -36,3 +36,8 @@ When creating or updating chapter notes from supplied images or documents:
 - User authorises committing and pushing current-affairs notes/code to `origin` after each seven-day batch. Use weekly boundaries in issue-date order (1–7 January, 8–14 January, etc.); report gaps rather than silently treating absent PDFs as reviewed.
 - Run `tools/publish_current_affairs_notes.py` to publish authored notes/HTML/PYQ JSON and review metadata into `Current Affairs Notes` in the checkout. The external Notes folder is the working master; the tracked folder is its portable snapshot. Never stage the `Current Affairs` symlink, downloaded source PDFs/images, original attachments, caches, AppleDouble files or blank directories.
 - Validate JSON and staged paths before each commit. Push only completed material, retain progress metadata, and record the successful commit and next seven-day boundary in the external Operations checkpoint file.
+
+## Shared notes home
+
+- The root `index.html` is the offline entry point for subject chapters, common summaries and current-affairs topics. Rebuild it with `python3 tools/build_notes_home.py` after adding chapters or changing common summaries. The current-affairs publisher runs this builder automatically.
+- Keep subjects and history units collapsible, search/filter both collections, and preserve the Study home return link on generated pages. Only completed notes belong in the hub; exclude source downloads and empty folders.

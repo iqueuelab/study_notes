@@ -20,7 +20,13 @@
 - Eligibility connects to qualifying Indian citizenship/territory and descendants, subject to statutory conditions; Pakistan/Bangladesh citizenship/ancestry exclusions apply as prescribed. Do not infer eligibility from Indian ethnicity alone.
 - OCI is **not dual citizenship**. No Indian voting rights, election eligibility or ordinary entitlement to constitutional/public posts; visa/residence privileges and permitted activities remain subject to rules. [MHA explanation](https://www.mha.gov.in/PDF_Other/1OCIcardholder_Introduction_15112019.pdf), [OCI FAQ](https://ociservices.gov.in/onlineOCI/onlineOCI/faq).
 
+## US birthright citizenship: January 2025 clipping
+- **20 January executive order** sought to restrict recognition for specified US-born children of non-citizen parents; State litigation immediately followed, invoking **14th Amendment** protection.
+- An executive announcement is not proof constitutional birthright citizenship was finally abolished. **Birth citizenship ≠ H-1B employment permission ≠ green-card status**; Indian citizenship rules must be assessed separately.
+
+- EO targeted specified children whose mother was unlawfully present or lawfully temporary and father neither US citizen nor lawful permanent resident, prospectively after a 30-day period; parental tests are more specific than “all foreign parents”. [20 January order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/).
+
 
 ## PDF coverage
 
-2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3
+2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1

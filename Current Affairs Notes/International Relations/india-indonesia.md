@@ -32,7 +32,13 @@
 - Constraints: tariff/market-access differences, connectivity gaps, global-power balancing and non-traditional security threats. Cooperation respects ASEAN autonomy, not an automatic anti-China military alliance.
 - January planned MoUs and promises differ from final signed outcomes; source daily mains questions are coaching practice.
 
+## Trade, cultural links and dated cooperation
+- Source **US$29.4 billion bilateral trade, FY2023–24**, and **second-largest Indian ASEAN trade partner** refer to that fiscal year; earlier **US$38 billion FY2022–23** is a different period. Imports **coal, crude palm oil, rubber**; exports **refined petroleum, telecom equipment, agricultural goods**.
+- Source Indian investment **over US$1.56 billion**, mining/textiles/infrastructure: dated investment figure, not the 2025 trade total. **Mumbai–Jakarta / Delhi–Bali** flights support contact/tourism; two Indian cultural centres **Jakarta/Bali**, **ITEC/ICCR** scholarships and education cooperation.
+- **2024 marked 75 years of diplomatic relations (1949)**; **1951 Treaty of Friendship** is not the first defence agreement. Defence arrangements **2001/2018**, **2024 defence-industry exhibition**, **IND–INDO CORPAT** and 2024 G20 leadership talks complement existing exercises/partnership.
+- Indonesia belongs to ASEAN; India participates in ASEAN-led institutions rather than being an ASEAN member. Both engage through **G20, IORA, NAM**. Cultural transmission was multidirectional over centuries, not exclusively one route for all Indonesian Islam.
+
 
 ## PDF coverage
 
-2025-01-05: pp. 25, 26, 27 · 2025-01-18: pp. 12, 13, 14, 15, 16, 17, 18, 19, 20
+2025-01-05: pp. 25, 26, 27 · 2025-01-18: pp. 12, 13, 14, 15, 16, 17, 18, 19, 20 · 2025-01-27: pp. 1, 2, 3, 4

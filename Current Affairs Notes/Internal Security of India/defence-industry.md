@@ -29,7 +29,16 @@
 - Earlier **ECWCS**, Extreme Cold Weather Clothing System, associated with **DIPAS**, three-layer protection; source's blanket claim it fails in all Siachen conditions is overstated.
 - Trials/design range are not a guarantee of zero cold injury or proof universal troop rollout; exposure, fit, activity, shelter and acclimatisation still matter.
 
+## Trajan: January 2025 export report
+- **Larsen & Toubro + France's KNDS**, **155 mm / 52-calibre towed artillery**; reported **Armenian order**, not proof every component is Indian-origin.
+- Indigenous components include auxiliary power unit, control panel and rolling gear assembly. Range **over 40 km**, ammunition-dependent; modular mobility, loading/fire-control assistance and varied-terrain deployment.
+- **Towed gun ≠ self-propelled howitzer**; barrel calibre designation differs from bore diameter. Export prospects depend on orders, delivery, spares/training and technology cooperation.
+
+## T-72 bridge-laying tanks: 21 January 2025 contract
+- **47 BLTs**, **Heavy Vehicles Factory, Armoured Vehicle Nigam Limited**, **₹1,560.52 crore** (source rounded **₹1,561 crore**), **Buy (Indian-IDDM)** procurement. [Defence Ministry](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2094857&lang=2&reg=48).
+- Mechanised formation **bridging obstacles** during offensive/defensive movement; bridge-laying support vehicle differs from a tank firing its main gun. Mobility, indigenous manufacture, jobs and reliable lifecycle support are the policy links.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20
+2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13

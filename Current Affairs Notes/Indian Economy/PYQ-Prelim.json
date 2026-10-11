@@ -7,6 +7,25 @@
       "chapter": "Credit ratings and rating agencies",
       "year": 2022,
       "answer": "(b) 2 and 3 only"
+    },
+    {
+      "question": "Which of the following gives ‘Global Gender Gap Index’ ranking to the countries of the world?\n(a) World Economic Forum\n(b) UN Human Rights Council\n(c) UN Women\n(d) World Health Organization",
+      "chapter": "World Economic Forum and global indices",
+      "year": 2017,
+      "answer": "(a) World Economic Forum"
+    },
+    {
+      "question": "Who among the following is the founder of World Economic Forum?\n(a) Klaus Schwab\n(b) John Kenneth Galbraith\n(c) Hobert Zoellick\n(d) Paul Krugman",
+      "chapter": "World Economic Forum and global indices",
+      "year": 2009,
+      "answer": "(a) Klaus Schwab",
+      "explanation": "Supplied PDF prints Hobert Zoellick in option (c); the public figure is Robert Zoellick. Founder/answer is Klaus Schwab."
+    },
+    {
+      "question": "The Global Competitiveness Report is published by the\n(a) International Monetary Fund\n(b) United Nations Conference on Trade and Development\n(c) World Economic Forum\n(d) World Bank",
+      "chapter": "World Economic Forum and global indices",
+      "year": 2019,
+      "answer": "(c) World Economic Forum"
     }
   ]
 }

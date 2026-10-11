@@ -25,7 +25,14 @@
 - **Surat** is the fourth/final Project 15B destroyer; a question stating only roughly 7,500 tonnes and stealth does not uniquely distinguish it from **Visakhapatnam**, another ship of the class.
 - The 19 January key incorrectly assigns BrahMos capability to **Vaghsheer**. Do not treat a Scorpène submarine as a BrahMos-equipped surface warship.
 
+## Project-75I: January 2025 tender reporting
+- Source reports **MDL + Germany's TKMS** cleared technical evaluation; **L&T + Spain's Navantia** bid unsuccessful. **Technical qualification ≠ signed contract, final price or commissioned fleet**.
+- **Six conventional submarines** with **air-independent propulsion (AIP)**, distinct from existing **Project-75 Scorpene/Kalvari** boats and nuclear submarine programmes.
+- Source benchmark **₹43,000 crore**, liable to revision; indigenous-content requirement **45% first → 60% sixth**. Proven AIP performance, technology transfer, delivery schedules and lifecycle support matter.
+- **Class 214 / 212CD** are referenced TKMS design families; not proof the proposed Indian derivative is already operational. Navantia's **S-81 Isaac Peral**, S-80 family, commissioned **2023**.
+- AIP permits longer submerged endurance without atmospheric air for propulsion; **not unlimited endurance or conversion into a nuclear submarine**. Cost, localisation and skilled production remain challenges.
+
 
 ## PDF coverage
 
-2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43
+2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10

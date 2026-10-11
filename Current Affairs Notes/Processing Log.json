@@ -490,37 +490,167 @@
     {
       "date": "2025-01-22",
       "pdf": "2025/01-January/2025-01-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a0e091d010eaa6d307088b44d0fa1e3918a7c7833afdf42f972d6b6164244433",
+      "pages": 18,
+      "topic_ids": [
+        "citizenship",
+        "quad",
+        "h1b",
+        "brics",
+        "indus-treaty",
+        "jnpa",
+        "stray-dog-ethics"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-23",
       "pdf": "2025/01-January/2025-01-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "cc446cbaaa73b14b03e4cad74bb25eb24fd5e944fd21a1976fc798be5b06dd4e",
+      "pages": 29,
+      "topic_ids": [
+        "defence-industry",
+        "wef",
+        "dark-oxygen",
+        "space-surveillance",
+        "goby-coringa",
+        "musi-watch",
+        "sanchar-saathi",
+        "turmeric-board",
+        "sada",
+        "cwd",
+        "bhargavastra",
+        "funnel-spider",
+        "aec",
+        "kokborok",
+        "mud-volcano",
+        "ranbhoomi",
+        "huntington",
+        "indian-wolf"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-24",
       "pdf": "2025/01-January/2025-01-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "88e7dc0d439a765235c3afc9894684985202cb0168b592c244921dfc0328bcba",
+      "pages": 20,
+      "topic_ids": [
+        "naval-platforms",
+        "mud-volcano",
+        "ranbhoomi",
+        "huntington",
+        "indian-wolf",
+        "pralay",
+        "who",
+        "tb",
+        "hydrography",
+        "rhodamine-b"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-25",
       "pdf": "2025/01-January/2025-01-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "790b86289ad48a96f0bc11c4f7aea7f63f96ca5980428a2e25623e8285c97105",
+      "pages": 16,
+      "topic_ids": [
+        "defence-industry",
+        "soapstone",
+        "naivasha",
+        "barrier-reef",
+        "midges",
+        "kalaripayattu",
+        "nbwl",
+        "nasams",
+        "oyster-amr",
+        "denali"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-26",
       "pdf": "2025/01-January/2025-01-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2c8d436fed9f41514a6da7cc8e348ca78def07a9033594dc11ab3e168cd8c340",
+      "pages": 20,
+      "topic_ids": [
+        "hazardous-waste",
+        "vice-chancellors",
+        "sc-appointments",
+        "telesurgery",
+        "snakebite",
+        "svamitva",
+        "konark",
+        "gulf-aden",
+        "lokpal",
+        "la-perouse",
+        "imec",
+        "h1b",
+        "indus-treaty",
+        "jnpa",
+        "wef",
+        "dark-oxygen",
+        "space-surveillance",
+        "goby-coringa",
+        "musi-watch",
+        "sanchar-saathi",
+        "turmeric-board",
+        "sada",
+        "cwd",
+        "bhargavastra",
+        "funnel-spider",
+        "naivasha",
+        "barrier-reef",
+        "midges",
+        "kalaripayattu",
+        "nbwl",
+        "oyster-amr",
+        "denali"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-27",
       "pdf": "2025/01-January/2025-01-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4aa725522b64969eacd34516fda24e63f3dcf6927bfc219b259a76139c422241",
+      "pages": 18,
+      "topic_ids": [
+        "india-indonesia",
+        "dhruv",
+        "cpa",
+        "sanjay",
+        "indo-pacific"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-28",
       "pdf": "2025/01-January/2025-01-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "daaf1b6a1521efb0403acd984b1db561e6e0bb8387711866a12a7723e84ddda4",
+      "pages": 24,
+      "topic_ids": [
+        "gbs",
+        "dhanauri",
+        "typhon",
+        "eurodrone",
+        "kawacham",
+        "chinar"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-01-29",
@@ -3364,7 +3494,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-01-22",
+  "next_pdf": "2025-01-29",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
