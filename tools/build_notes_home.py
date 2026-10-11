@@ -70,3 +70,7 @@ for p in files:
  if 'style id="study-home-print"' not in text:text=text.replace('</style>','</style><style id="study-home-print">@media print{#study-home{display:none}}</style>',1)
  p.write_text(text)
 print(f'Built study home: {count} chapters, {len(data["topics"])} current-affairs topics; linked {len(files)} note pages.')
+
+# Keep chapter sequences and collection endpoints correct after every rebuild.
+from notes_navigation import ensure_navigation
+ensure_navigation(ROOT)

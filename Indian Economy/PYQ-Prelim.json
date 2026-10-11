@@ -1020,6 +1020,350 @@
         "d": "The Commercial Banks will have more money to lend."
       },
       "answer": "a"
+    },
+    {
+      "id": "economy-prelims-2019-poverty-lines",
+      "year": 2019,
+      "chapter": "Poverty",
+      "question": "In a given year in India, official poverty lines are higher in some States than in others because",
+      "options": {
+        "a": "Poverty rates vary from State to State",
+        "b": "Price levels vary from State to State",
+        "c": "Gross State Product varies from State to State",
+        "d": "Quality of public distribution varies from State to State"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelims-2012-mpi",
+      "year": 2012,
+      "chapter": "Poverty",
+      "question": "The Multidimensional Poverty Index developed by Oxford Poverty and Human Development Initiative with UNDP support covers which of the following?\n1. Deprivation of education, health, assets and services at household level\n2. Purchasing power parity at national level\n3. Extent of budget deficit and GDP growth rate at national level\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelims-2022-labour-bureau",
+      "year": 2022,
+      "chapter": "Unemployment and Labour Reforms",
+      "question": "In India, which one of the following compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers?",
+      "options": {
+        "a": "Central Statistics Office",
+        "b": "Department for Promotion of Industry and Internal Trade",
+        "c": "Labour Bureau",
+        "d": "National Technical Manpower Information System"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelims-2021-casual-workers",
+      "year": 2021,
+      "chapter": "Unemployment and Labour Reforms",
+      "question": "With reference to the casual workers employed in India, consider the following statements:\n1. All casual workers are entitled for Employees Provident Fund coverage.\n2. All casual workers are entitled for regular working hours and overtime payment.\n3. The government can by a notification specify that an establishment or industry shall pay wages only through its bank account.\nWhich of the above statements are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelims-2013-disguised-unemployment",
+      "year": 2013,
+      "chapter": "Unemployment and Labour Reforms",
+      "question": "Disguised unemployment generally means",
+      "options": {
+        "a": "large number of people remain unemployed",
+        "b": "alternative employment is not available",
+        "c": "marginal productivity of labour is zero",
+        "d": "productivity of workers is low"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelims-2022-price-stability",
+      "year": 2022,
+      "chapter": "Inflation",
+      "question": "In India, which one of the following is responsible for maintaining price stability by controlling inflation?",
+      "options": {
+        "a": "Department of Consumer Affairs",
+        "b": "Expenditure Management Commission",
+        "c": "Financial Stability and Development Council",
+        "d": "Reserve Bank of India"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelims-2022-rbi-forex-inflation",
+      "year": 2022,
+      "chapter": "Inflation",
+      "question": "With reference to the Indian economy, consider the following statements:\n1. If the inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities.\n2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market.\n3. If interest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelims-2021-demand-pull",
+      "year": 2021,
+      "chapter": "Inflation",
+      "question": "With reference to the Indian economy, demand-pull inflation can be caused/increased by which of the following?\n1. Expansionary policies\n2. Fiscal stimulus\n3. Inflation-indexing wages\n4. Higher purchasing power\n5. Rising interest rates\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 4 only",
+        "b": "3, 4 and 5 only",
+        "c": "1, 2, 3 and 5 only",
+        "d": "1, 2, 3, 4 and 5"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelims-2020-cpi-wpi",
+      "year": 2020,
+      "chapter": "Inflation",
+      "question": "Consider the following statements:\n1. The weightage of food in Consumer Price Index (CPI) is higher than that in Wholesale Price Index (WPI).\n2. The WPI does not capture changes in the prices of services, which CPI does.\n3. Reserve Bank of India has now adopted WPI as its key measure of inflation and to decide on changing the key policy rates.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a",
+      "explanation": "Statements 1 and 2 are correct in the series used in 2020. Option (c) is 3 only in the original UPSC paper; the supplied chapter misprints it as 3 and 4 only."
+    },
+    {
+      "id": "economy-prelims-2015-cpi-iw-compiler",
+      "year": 2015,
+      "chapter": "Inflation",
+      "question": "Which of the following brings out the Consumer Price Index Number for Industrial Workers?",
+      "options": {
+        "a": "The Reserve Bank of India",
+        "b": "The Department of Economic Affairs",
+        "c": "The Labour Bureau",
+        "d": "The Department of Personnel and Training"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelims-2015-money-circulation",
+      "year": 2015,
+      "chapter": "Inflation",
+      "question": "With reference to inflation in India, which of the following statements is correct?",
+      "options": {
+        "a": "Controlling the inflation in India is the responsibility of the Government of India only.",
+        "b": "The Reserve Bank of India has no role in controlling the inflation.",
+        "c": "Decreased money circulation helps in controlling the inflation.",
+        "d": "Increased money circulation helps in controlling the inflation."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelims-2013-inflation-debtors",
+      "year": 2013,
+      "chapter": "Inflation",
+      "question": "Consider the following statements:\n1. Inflation benefits the debtors.\n2. Inflation benefits the bond-holders.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelims-2013-general-price-rise",
+      "year": 2013,
+      "chapter": "Inflation",
+      "question": "A rise in general level of prices may be caused by\n1. an increase in the money supply.\n2. a decrease in the aggregate level of output.\n3. an increase in the effective demand.\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelims-2013-deficit-inflation",
+      "year": 2013,
+      "chapter": "Inflation",
+      "question": "Which one of the following is likely to be the most inflationary in its effect?",
+      "options": {
+        "a": "Repayment of public debt",
+        "b": "Borrowing from the public to finance a budget deficit",
+        "c": "Borrowing from banks to finance a budget deficit",
+        "d": "Creating new money to finance a budget deficit"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelims-2011-growth-inflation",
+      "year": 2011,
+      "chapter": "Inflation",
+      "question": "Economic growth is usually coupled with",
+      "options": {
+        "a": "Deflation",
+        "b": "Inflation",
+        "c": "Stagflation",
+        "d": "Hyperinflation"
+      },
+      "answer": "b",
+      "explanation": "This is the supplied examination key; positive growth need not inevitably produce inflation in every circumstance."
+    },
+    {
+      "id": "economy-prelims-2011-base-effect",
+      "year": 2011,
+      "chapter": "Inflation",
+      "question": "A rapid increase in the rate of inflation is sometimes attributed to the base effect. What is base effect?",
+      "options": {
+        "a": "It is the impact of drastic deficiency in supply due to failure of crops.",
+        "b": "It is the impact of the surge in demand due to rapid economic growth.",
+        "c": "It is the impact of the price levels of the previous year on the calculation of inflation rate.",
+        "d": "None of the statements given above is correct in this context."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelims-2011-food-structural",
+      "year": 2011,
+      "chapter": "Inflation",
+      "question": "India has experienced persistent and high food inflation in the recent past. What could be the reasons?\n1. Due to a gradual switchover to the cultivation of commercial crops, the area under the cultivation of food grains has steadily decreased in the last five years by about 30 per cent.\n2. As a consequence of increasing incomes, the consumption patterns of the people have undergone a significant change.\n3. The food supply chain has structural constraints.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelims-2010-wpi-frequency",
+      "year": 2010,
+      "chapter": "Inflation",
+      "question": "With reference to India, consider the following statements:\n1. The Wholesale Price Index (WPI) in India is available on a monthly basis only.\n2. As compared to Consumer Price Index for Industrial Workers [CPI(IW)], the WPI gives less weight to food articles.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b",
+      "explanation": "Answer refers to the historical WPI reporting system in 2010, not the current monthly release system."
+    },
+    {
+      "id": "economy-prelims-2010-deflation",
+      "year": 2010,
+      "chapter": "Inflation",
+      "question": "Which of the following statements is an appropriate description of deflation?",
+      "options": {
+        "a": "It is a sudden fall in the value of a currency against other currencies.",
+        "b": "It is a persistent recession in both the financial and real sectors of economy.",
+        "c": "It is a persistent fall in the general price level of goods and services.",
+        "d": "It is a fall in the rate of inflation over a period of time."
+      },
+      "answer": "c"
+    },
+    {
+      "id": "economy-prelims-2025-agricultural-income-land",
+      "year": 2025,
+      "chapter": "Indian Tax Structure",
+      "question": "Consider the following statements:\nStatement I: In India, income from allied agricultural activities like poultry farming and wool rearing in rural areas is exempted from any tax.\nStatement II: In India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax Act, 1961.\nWhich one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelims-2025-revenue-directorates",
+      "year": 2025,
+      "chapter": "Indian Tax Structure",
+      "question": "With reference to the Government of India, consider the following information:\nOrganisation — Some of its functions — It works under\n1. Directorate of Enforcement — Enforcement of the Fugitive Economic Offenders Act, 2018 — Internal Security Division-I, Ministry of Home Affairs\n2. Directorate of Revenue Intelligence — Enforces the provisions of the Customs Act, 1962 — Department of Revenue, Ministry of Finance\n3. Directorate General of Systems and Data Management — Carrying out big data analytics to assist tax officers for better policy and nabbing tax evaders — Department of Revenue, Ministry of Finance\nIn how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "economy-prelims-2018-equalisation-levy",
+      "year": 2018,
+      "chapter": "Indian Tax Structure",
+      "question": "With reference to India's decision to levy an equalisation tax of 6% on online advertisement services offered by non-resident entities, which of the following statements is/are correct?\n1. It is introduced as a part of the Income Tax Act.\n2. Non-resident entities that offer advertisement services in India can claim a tax credit in their home country under the Double Taxation Avoidance Agreements.\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "d",
+      "explanation": "Both statements are incorrect: the levy was under the Finance Act, 2016, separately from income tax, and DTAA credit was not automatically available. The supplied chapter answer key marks (a), which conflicts with the legal framework."
+    },
+    {
+      "id": "economy-prelims-2017-gst-advantages",
+      "year": 2017,
+      "chapter": "Indian Tax Structure",
+      "question": "What is/are the most likely advantages of implementing Goods and Services Tax (GST)?\n1. It will replace multiple taxes collected by multiple authorities and will thus create a single market in India.\n2. It will drastically reduce the Current Account Deficit of India and will enable it to increase its foreign exchange reserves.\n3. It will enormously increase the growth and size of economy of India and will enable it to overtake China in the near future.\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "economy-prelims-2015-tax-gdp-decrease",
+      "year": 2015,
+      "chapter": "Indian Tax Structure",
+      "question": "A decrease in tax to GDP ratio of a country indicates which of the following?\n1. Slowing economic growth rate.\n2. Less equitable distribution of national income.\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a",
+      "explanation": "The supplied key is (a). As a general analytical matter, tax/GDP alone cannot establish growth or distribution because policy and compliance can also change the ratio."
+    },
+    {
+      "id": "economy-prelims-2011-vat-feature",
+      "year": 2011,
+      "chapter": "Indian Tax Structure",
+      "question": "Which one of the following is not a feature of Value Added Tax?",
+      "options": {
+        "a": "It is a multipoint destination-based system of taxation.",
+        "b": "It is a tax levied on value addition at each stage of transaction in the production-distribution chain.",
+        "c": "It is a tax on the final consumption of goods or services and must ultimately be borne by the consumer.",
+        "d": "It is basically a subject of the Central Government and the State Governments are only a facilitator for its successful implementation."
+      },
+      "answer": "d"
+    },
+    {
+      "id": "economy-prelims-2010-excise-revenue-share",
+      "year": 2010,
+      "chapter": "Indian Tax Structure",
+      "question": "In India, the tax proceeds of which one of the following as a percentage of gross tax revenue has significantly declined in the last five years?",
+      "options": {
+        "a": "Service tax",
+        "b": "Personal income tax",
+        "c": "Excise duty",
+        "d": "Corporation tax"
+      },
+      "answer": "c",
+      "explanation": "Historical question: use revenue trends relevant to 2010, not the post-GST period."
     }
   ]
 }

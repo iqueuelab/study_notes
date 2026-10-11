@@ -95,7 +95,9 @@ for i,t in enumerate(topics):
  new_state[str(mdpath.relative_to(OUT))]=hashlib.sha256(mdpath.read_bytes()).hexdigest()
  nav='<nav><a href="../index.html">All topics</a>'
  if i:nav+='<a href="../'+link(topics[i-1])+'">← Previous</a>'
+ else:nav+='<a href="../index.html">← Back to all topics</a>'
  if i+1<len(topics):nav+='<a href="../'+link(topics[i+1])+'">Next →</a>'
+ else:nav+='<a href="../index.html">Next → All topics</a>'
  nav+='</nav>'
  body=nav+'<p class="tag">'+html.escape(t['subject'])+'</p><h1>'+html.escape(t['title'])+'</h1><div class="controls"><button onclick="window.print()">Print / Save as PDF</button><a href="'+t['id']+'.md">Editable notes</a></div><article>'+render(t['markdown'])
  if t['id'] in flows:body+='<div class="flow" aria-label="Recall flowchart">'+'<div class="arrow" aria-hidden="true">↓</div>'.join('<div class="step">'+html.escape(x)+'</div>' for x in flows[t['id']])+'</div>'

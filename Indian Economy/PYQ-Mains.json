@@ -59,6 +59,48 @@
       "question": "Pradhan Mantri Jan Dhan Yojana (PMJDY) is necessary for bringing unbanked to the institutional finance fold. Do you agree with this for financial inclusion of the poorer section of the Indian society? Give arguments to justify your opinion.",
       "chapter": "Banking Sector in India",
       "year": 2016
+    },
+    {
+      "id": "economy-mains-2023-structural-unemployment",
+      "year": 2023,
+      "chapter": "Unemployment and Labour Reforms",
+      "question": "Most of the unemployment in India is structural in nature. Examine the methodology adopted to compute unemployment in the country and suggest improvements."
+    },
+    {
+      "id": "economy-mains-2015-jobless-growth",
+      "year": 2015,
+      "chapter": "Unemployment and Labour Reforms",
+      "question": "The nature of economic growth in India in recent times is often described as jobless growth. Do you agree with this view? Give arguments in favour of your answer."
+    },
+    {
+      "id": "economy-mains-2024-persistent-food-inflation",
+      "year": 2024,
+      "chapter": "Inflation",
+      "question": "What are the causes of persistent high food inflation in India? Comment on the effectiveness of the monetary policy of the RBI to control this type of inflation."
+    },
+    {
+      "id": "economy-mains-2019-growth-low-inflation",
+      "year": 2019,
+      "chapter": "Inflation",
+      "question": "Do you agree with the view that steady GDP growth and low inflation have left the Indian economy in good shape? Give reasons in support of your arguments."
+    },
+    {
+      "id": "economy-mains-2020-gst-compensation",
+      "year": 2020,
+      "chapter": "Indian Tax Structure",
+      "question": "Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions?"
+    },
+    {
+      "id": "economy-mains-2019-gst-subsumed-revenue",
+      "year": 2019,
+      "chapter": "Indian Tax Structure",
+      "question": "Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017."
+    },
+    {
+      "id": "economy-mains-2013-gst-rationale-delay",
+      "year": 2013,
+      "chapter": "Indian Tax Structure",
+      "question": "Discuss the rationale for introducing the Goods and Services Tax (GST) in India. Bring out critically the reasons for delay in roll-out for its regime."
     }
   ]
 }
