@@ -44,7 +44,15 @@
 - **ENTICE = Energy Transitions Innovation Challenge**, first launched **2023**; **ENTICE 2.0** planned January 2025, scaling investable solutions through funding, markets and mentorship.
 - Distinguish philanthropic partnership/trust fund from a treaty-created global climate-finance mechanism; neither pledges nor digitised assets alone prove delivered energy access.
 
+## Hydrogen for Heritage and fuel-cell trains
+- Source January 2025 prototype: retrofit **DEMU** with hydrogen fuel cells, initial proposed **Jind–Sonipat, Haryana** deployment; development proposal ≠ commercial nationwide operation.
+- **Hydrogen for Heritage** plan: **35 trains**, estimated **₹80 crore/train**, **₹70 crore/route ground infrastructure**, according to **3 February 2023 Railways reply**. Source separately says ₹600 crore infrastructure without a clear scope; don't equate these denominators. [Railways proposal](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1896102&lang=2&reg=48).
+- Cited heritage/hill sections: **Matheran, Darjeeling, Kalka–Shimla, Kangra Valley, Bilimora–Waghai, Patalpani–Kalakund, Nilgiri Mountain Railway, Marwar–Goram Ghat**. Source's Budget-announcement/sanction-year assertions lack sufficiently clear references.
+- **Fuel cell generates electricity through electrochemical reaction**, hydrogen oxidation at **negative anode**, oxygen reduction at **positive cathode**, electrolyte carries ions; electrons power external circuit. **Electrolysis consumes electricity to produce hydrogen**, the opposite process; source reverses electrode signs and confuses electrolysis with generation.
+- Hydrogen + oxygen → electricity + water + heat → traction motor. Tailpipe benefits do not prove zero **lifecycle emissions**; hydrogen production, compression/transport and power source matter.
+- High initial cost, refuelling/storage safety and reliable clean supply; source's 'only Germany commercially operates' is a dated, incomplete country claim, not a current global rule.
+
 
 ## PDF coverage
 
-2025-01-05: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-01-10: pp. 2, 3, 4 · 2025-01-13: pp. 8, 9, 21, 23
+2025-01-05: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-01-10: pp. 2, 3, 4 · 2025-01-13: pp. 8, 9, 21, 23 · 2025-01-14: pp. 20, 21

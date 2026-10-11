@@ -19,6 +19,13 @@
         "d": "The Food Safety and Standard Regulations, 2011"
       },
       "answer": "c"
+    },
+    {
+      "question": "With reference to India’s Desert National Park, which of the following statements are correct?\n1. It is spread over two districts.\n2. There is no human habitation inside the Park.\n3. It is one of the natural habitats of Great Indian Bustard.\nSelect the correct answer using the code given below:\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "chapter": "Desert National Park and Great Indian Bustard",
+      "year": 2020,
+      "answer": "(c) 1 and 3 only",
+      "explanation": "The landscape spans Jaisalmer and Barmer, includes human settlements, and is a natural GIB habitat."
     }
   ]
 }

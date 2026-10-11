@@ -4,6 +4,20 @@
       "topic": "Renewable energy and grid integration",
       "question": "2013 Green Energy Corridor",
       "reason": "Printed 250 words / 15 marks not verified; omitted those fields."
+    },
+    {
+      "topic": "Pathogen and vaccine recall",
+      "issue_date": "2025-01-14",
+      "page": 7,
+      "printed_years": [
+        2021,
+        2019,
+        2017,
+        2016,
+        2005,
+        2001
+      ],
+      "reason": "Embedded graphic provides recall facts/partial stems, without complete original statements and options; recover full questions before adding PYQ JSON. Hepatitis B/C vaccine statement is reversed."
     }
   ],
   "resolved": [

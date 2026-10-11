@@ -272,7 +272,26 @@
     {
       "date": "2025-01-14",
       "pdf": "2025/01-January/2025-01-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b3eb704a85feb28b9576673d8f8b50af1d5545150ae888d720a82fb9f0e2760e",
+      "pages": 22,
+      "topic_ids": [
+        "renewable-energy",
+        "gulf-mexico",
+        "wmo",
+        "veer-gatha",
+        "pangolins",
+        "youth-festival",
+        "fmd",
+        "pathogen-recall",
+        "desert-park",
+        "crude-imports",
+        "election-records",
+        "pm-kisan"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_verification": "January 2025 WMO release, Germany FMD outbreak, youth dialogue and president-elect proposal"
     },
     {
       "date": "2025-01-15",
@@ -3186,7 +3205,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-01-14",
+  "next_pdf": "2025-01-15",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
