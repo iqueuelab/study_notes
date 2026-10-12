@@ -41,7 +41,14 @@
 - Source's **2018 25% steel/10% aluminium** rates are historical, not the March 2025 common 25% rate. Its older retaliation summary also omits withdrawal of relevant additional Indian duties in **2023**; distinguish episodes rather than combining them.
 - Negotiation, diversification, efficient inputs and lawful remedies can manage exposure; a notification does not guarantee implementation or resolution.
 
+## 1 June 2025: metals-tariff forecast
+- Embedded clipping reports US announcement to **double 25% steel/aluminium Section 232 tariffs to 50%**, scheduled **4 June**. At this issue date announcement is distinct from effective collection; later **3 June proclamation** confirms June 4 implementation with specific UK treatment. [Official proclamation, later confirmation](https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/).
+- **EEPC India** forecasts roughly **US$1 billion export impact**, not realised loss. Source FY 2025 US-bound iron/steel/aluminium total **US$4.56 bn**, including **US$587.5 m iron/steel, US$3.1 bn articles thereof, US$860 m aluminium/related articles**; rounding/category scope explain totals. Its broader~US$5 bn exposure is not another additive segment.
+- Source Indian steel price **~US$984/t**, US **~US$690**, China **~US$392**, projected US price **~US$1,180/t** after higher tariff: dated scenario quotes, not guaranteed uniform transaction prices. Auto parts, castings/fasteners/holdings and engineering users face margin/competitiveness pressures.
+- Exporters seek diversification, bilateral engagement and possible relief analogous to UK arrangements; UK treatment is specific rather than automatic Indian exemption. Proposed Indian WTO retaliation and~US$2 bn US import context are not proof enacted duties.
+- Rewritten **2018 rates 25% steel/10% aluminium** and **US$7.6 bn retaliation** repeat the older episode incorrectly; common May 14 notes already distinguish March 2025 tariffs/proposed countermeasures. Steel/aluminium production/background also repeats earlier corrections; no new general aluminium PLI or blanket power subsidy established here.
+
 
 ## PDF coverage
 
-2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20 · 2025-05-14: pp. 13, 17
+2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20 · 2025-05-14: pp. 13, 17 · 2025-06-01: pp. 15, 18, 19

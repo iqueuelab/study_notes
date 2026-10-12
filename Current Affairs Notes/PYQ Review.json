@@ -1136,6 +1136,101 @@
           "issue_date": "2025-05-27"
         }
       ]
+    },
+    {
+      "dates": [
+        "2025-05-28",
+        "2025-05-29",
+        "2025-05-30",
+        "2025-05-31",
+        "2025-06-01"
+      ],
+      "finding": "All text and page images reviewed, including all image-only tables and maps. Official questions checked against prior entries and original papers where supplied. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": [
+        {
+          "subject": "Internal Security of India",
+          "exam_stage": "Prelims",
+          "chapter": "AMCA: fifth-generation fighter development",
+          "question": "With reference to India's Advanced Medium Combat Aircraft (AMCA), consider the following statements: 1. The AMCA is being developed as a fifth-generation stealth fighter with both internal and external weapon-carrying capabilities. 2. The AMCA project is being led solely by Hindustan Aeronautics Limited (HAL). 3. The AMCA Mk-1 version is planned to be powered by an engine of foreign origin. Which of the statements given above is/are correct? (a) 1 and 2 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3",
+          "answer": "(c) 1 and 3 only",
+          "issue_date": "2025-05-28"
+        },
+        {
+          "subject": "Science and Technology",
+          "exam_stage": "Prelims",
+          "chapter": "Measles and subacute sclerosing panencephalitis",
+          "question": "Consider the following statements: 1. Measles is a waterborne viral disease. 2. Improvements in hygiene and sanitation were sufficient to reduce measles cases before the vaccine was developed. 3. Gavi, the Vaccine Alliance, was established to improve access to vaccines in low- and middle-income countries. Which of the above statements is/are correct? (a) 1 only (b) 2 only (c) 3 only (d) All three",
+          "answer": "(c) 3 only",
+          "issue_date": "2025-05-29"
+        },
+        {
+          "subject": "Science and Technology",
+          "exam_stage": "Prelims",
+          "chapter": "Measles and subacute sclerosing panencephalitis",
+          "question": "The Expanded Programme on Immunisation (EPI) was launched by: (a) Gavi (b) WHO (c) UNICEF (d) UNDP",
+          "answer": "(b) WHO",
+          "issue_date": "2025-05-29"
+        },
+        {
+          "subject": "Indian Polity",
+          "exam_stage": "Mains",
+          "chapter": "Deputy Speaker of the Lok Sabha",
+          "question": "The prolonged vacancy in the office of Deputy Speaker of the Lok Sabha reflects a constitutional and democratic deficit. Examine the constitutional provisions, significance of the office, and implications of its continued vacancy. (250 Words) (15 Marks)",
+          "issue_date": "2025-05-29"
+        },
+        {
+          "subject": "Internal Security of India",
+          "exam_stage": "Mains",
+          "chapter": "Defence manufacturing and exports",
+          "question": "“Project delays and low private sector involvement continue to affect India’s defence preparedness.” Discuss with reference to recent developments. (250 Words) (15 marks)",
+          "issue_date": "2025-05-30"
+        },
+        {
+          "question": "The myostatin gene in sheep is associated with: (a) Immunity development (b) Wool quality (c) Muscle growth limitation (d) Fertility enhancement",
+          "chapter": "Gene-edited sheep and CRISPR livestock research",
+          "answer": "(c)",
+          "issue_date": "2025-05-31"
+        },
+        {
+          "question": "With reference to CRISPR-Cas 9 technology, consider the following statements: 1. It allows the insertion of foreign DNA from other species into the genome. 2. It can be used to disable or modify specific genes within the same species. 3. The technology introduces changes to the organism’s genome at random locations. Which of the statements given above is/are correct? (A) 1 and 2 only (B) 2 only (C) 1 and 3 only (D) 2 and 3 only",
+          "chapter": "Gene-edited sheep and CRISPR livestock research",
+          "answer": "(A)",
+          "review_note": "Source gives(B), but CRISPR can insert introduced DNA; targeted editing still has off-target risks.",
+          "issue_date": "2025-05-31"
+        },
+        {
+          "question": "Which of the following correctly distinguishes between Gene Editing and Genetic Modification (GMO) in the context of biotechnology? (A) Gene editing involves mixing genes of two species, while genetic modification edits genes within the same species. (B) Gene editing always requires foreign DNA, while genetic modification does not. (C) Gene editing targets specific gene locations without introducing foreign DNA, while genetic modification usually introduces foreign genes. (D) There is no significant difference; both terms can be used interchangeably in scientific and regulatory contexts.",
+          "chapter": "Gene-edited sheep and CRISPR livestock research",
+          "review_note": "Flawed universal distinction; source answer(C) only describes a subset of edits.",
+          "issue_date": "2025-05-31"
+        },
+        {
+          "question": "A decrease in tax to GDP ratio of a country indicates which of the following? 1. Slowing economic growth rate 2. Less equitable distribution of national income (a) 1 only (b) 2 only (c) Both 1 and 2 (d) Neither 1 nor 2",
+          "chapter": "GDP: measurement, growth and potential output",
+          "answer": "(a)",
+          "review_note": "Supplied answer; year not independently confirmed here. Ratio does not logically imply either condition; retain for PYQ-year review.",
+          "issue_date": "2025-05-31"
+        },
+        {
+          "question": "Which of the following statements correctly distinguishes between Real GDP and Nominal GDP? 1. Real GDP accounts for inflation, while Nominal GDP does not. 2. Nominal GDP reflects the purchasing power of money over time. 3. Real GDP is measured at current market prices, while Nominal GDP is measured at constant prices. 4. An increase in Nominal GDP always indicates an increase in real economic output. Select the correct answer using the code below: (a) 1 only (b) 2 and 3 only (c) 1 and 4 only (d) 1, 2 and 4 only",
+          "chapter": "GDP: measurement, growth and potential output",
+          "answer": "(a)",
+          "issue_date": "2025-05-31"
+        },
+        {
+          "question": "With reference to Devi Ahilyabai Holkar, consider the following statements: 1. She renovated the Kashi Vishwanath Temple in the 18 th century. 2. She abolished the traditional law of confiscating property from childless widows. 3. She moved her capital from Pune to Maheshwar. 4. She was given the title ‘Philosopher Queen’ by a British historian. Which of the statements given above is/are correct? (a) 1 and 2 only (b) 1, 2 and 4 only (c) 2 and 3 only (d) 1, 3 and 4 only",
+          "chapter": "Ahilyabai Holkar: rule, patronage and legacy",
+          "answer": "(b)",
+          "review_note": "Source answer; epithet is descriptive, not formal conferment.",
+          "issue_date": "2025-05-31"
+        },
+        {
+          "question": "With reference to Alternative Investment Funds (AIFs) in India, consider the following statements: 1. A Venture Capital Fund that migrates to the AIF framework is classified under CategoryIII AIF. 2. The Securities and Exchange Board of India (SEBI) regulates the AIFs in India. 3. CategoryI AIFs are encouraged to invest in economically and socially desirable sectors such as SMEs and infrastructure. Which of the statements given above is/are correct? (a) 1 and 2 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3",
+          "chapter": "Alternative investment funds and venture-capital migration",
+          "answer": "(b)",
+          "issue_date": "2025-05-31"
+        }
+      ]
     }
   ]
 }

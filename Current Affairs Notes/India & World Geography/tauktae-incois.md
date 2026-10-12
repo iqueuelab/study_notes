@@ -11,7 +11,14 @@
 - Services: **Indian Tsunami Early Warning Centre; Potential Fishing Zone advisories; ocean-state forecasts; observing/data services**, including Argo and ocean-analysis inputs.
 - Indian Ocean tsunami-service-provider role operates within UNESCO-IOC arrangements. Ocean forecasts support navigation, fisheries, offshore activity and coupled climate models.
 - INCOIS ocean/tsunami services complement **IMD's cyclone-warning responsibility**; they are not interchangeable agencies.
+## INCOIS services: May 2025 revision
+- Existing institutional facts are retained: **1999**, **Hyderabad**, autonomous ESSO organisation, **now under MoES**. Do not imply MoES already existed in 1999.
+- **ITEWC:** 24-hour monitoring and tsunami decision support; Indian Ocean tsunami-service-provider role under **UNESCO-IOC** arrangements. Tsunami, storm-surge and high-wave advisories are different hazards; IMD's cyclone-warning responsibilities remain distinct.
+- **Potential Fishing Zone advisories** support locating productive waters and reducing search/fuel costs; **ocean-state forecasts**, commonly **3–7-day products** in this issue, support fishing, navigation, defence and offshore industry. Advice is not a guarantee of fish catch or safe weather for every vessel.
+- Buoys/floats and other observing systems → quality control/data archive → analysis/model assimilation → forecasts/advisories. Ocean analyses support coupled monsoon models rather than making INCOIS the sole monsoon-forecast authority.
+- Acts as **National Oceanographic Data Centre** under **IODE**, National/Regional **Argo Data Centre**; collaboration includes **IOGOOS, POGO and RIMES**. Research access, operational products and capacity-building improve marine resilience. [INCOIS mandate](https://incois.gov.in/site/aboutus.jsp).
+
 
 ## PDF coverage
 
-2025-03-23: pp. 7, 8, 9, 10, 11, 12
+2025-03-23: pp. 7, 8, 9, 10, 11, 12 · 2025-05-30: pp. 1, 2, 3

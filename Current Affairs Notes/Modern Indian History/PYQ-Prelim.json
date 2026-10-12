@@ -1,5 +1,30 @@
 {
   "subject": "Modern Indian History",
   "exam_stage": "Prelim",
-  "questions": []
+  "questions": [
+    {
+      "year": 2020,
+      "chapter": "Ahilyabai Holkar: rule, patronage and legacy",
+      "question": "The Vital-Vidhvansak, the first monthly journal to have the untouchable people as its target audience, was published by:",
+      "options": {
+        "a": "Gopal Baba Walangkar",
+        "b": "Jyotiba Phule",
+        "c": "Mohandas Karamchand Gandhi",
+        "d": "Bhimrao Ramji Ambedkar"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2021,
+      "chapter": "Ahilyabai Holkar: rule, patronage and legacy",
+      "question": "Who among the following was associated as Secretary with Hindu Female School, which later came to be known as Bethune Female School?",
+      "options": {
+        "a": "Annie Besant",
+        "b": "Debendranath Tagore",
+        "c": "Ishwar Chandra Vidyasagar",
+        "d": "Sarojini Naidu"
+      },
+      "answer": "c"
+    }
+  ]
 }

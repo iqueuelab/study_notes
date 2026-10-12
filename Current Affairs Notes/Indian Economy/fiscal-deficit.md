@@ -23,7 +23,15 @@
 - The **2008 global crisis** and later stimulus, revenue slowdown and accounting changes must be separated from security costs. COVID affected the final days of **FY2019–20** and especially **FY2020–21**; do not explain the entire earlier year's deficit solely by pandemic response.
 - Source historic **3→3.45%** and **5.3→6.1%** figures omit a reconciled official series; avoid treating them as causal estimates of the cost of war. Deficits can rise/fall for many simultaneous reasons.
 - Mains: spending need → revenue/financing options → trade-offs for welfare/capex → transparent supplementary appropriations and credible debt/deficit monitoring. Macroeconomic tailwinds help but do not eliminate fiscal risk.
+## 30 May 2025 provisional FY 2024–25 outturn
+- Embedded clipping reports fiscal deficit **₹15.77 lakh crore/4.8%GDP**, matching revised target; total non-borrowing receipts **₹30.78 lakh crore**, **97.8%RE**; total spending **₹46.55 lakh crore**, **97.8%RE**. These are provisional fiscal accounts with the then GDP denominator, not audited final accounts.
+- Corporation-tax receipts **₹9.87 lakh crore**, around **0.7% above RE**; income-tax **₹11.83 lakh crore**, around **6% below RE**. Disinvestment **₹10,131.32 crore**, non-debt capital receipts **52.1%RE**: different receipt headings must not be conflated.
+- **FY 2025–26 target 4.4%** is separate from achieved/provisional FY 25 ratio. Repeated defence **~₹50,000 crore supplementary request** remains an expectation, not parliamentary approval.
+- Repeated formula is corrected in common core: **expenditure − revenue receipts − non-debt capital receipts**; source omitted non-debt receipts. Revenue deficit/primary deficit differ.
+- Repeated article calls higher RBI transfer prospective, reflecting an earlier report, not necessarily status as at 31 May. Do not redate its historical₹2.1 lakh-crore surplus or claim every oil-price reduction translates into budget saving. Fiscal flexibility remains conditional on receipts, spending and buffer prudence.
+- Historical source again misdates **Kargil 1999** to 2000–02; macroeconomic crises/accounting changes confound security-cost comparisons. Capital investment and necessary revenue services both have value; assess opportunity costs and transparent appropriations.
+
 
 ## PDF coverage
 
-2025-05-18: pp. 15, 16, 17, 18, 19
+2025-05-18: pp. 15, 16, 17, 18, 19 · 2025-05-31: pp. 24, 25, 26, 27

@@ -27,7 +27,13 @@
 - Official Navy description: **56-foot sailing vessel**. Double-handed crew: Lt Cdr Dilna K and Lt Cdr Roopa A.
 - The achievement demonstrates endurance, navigation, repairs, teamwork, women's operational leadership and maritime outreach; it is not a direct measure of combat power. [Navy release, 1 April 2025](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2117120).
 
+## 29 May 2025: completed circumnavigation
+- **Lt Cdr Dilna K and Lt Cdr Roopa A** returned to Goa on **29 May**, completing **Navika Sagar Parikrama-II** in double-handed mode; Defence Minister flagged in **INSV Tarini**. Official account: about **25,600 nautical miles over eight months**, with port calls at **Fremantle, Lyttelton, Port Stanley and Cape Town**. [Navy/Defence Ministry completion](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2132450&lang=2&reg=48).
+- Started **2 October 2024 from Goa**. The issue's **23,000 nautical miles/240 days** was the earlier plan, and “third leg currently underway” is stale. Keep achieved totals separate from plans; **56-foot** vessel, not the summary's **40 feet** or old graphic's 55-foot label.
+- Its infographic is the **2017–18 first expedition**, six women under **Vartika Joshi**, with a projected March 2018 return—not the NSP-II crew. Do not blend the two voyages.
+- Retain existing Southern Ocean/Drake Passage/Cape Horn, severe-weather risk, repairs, navigation, teamwork and outreach notes. Success demonstrates sailing/endurance and women's leadership, not a direct measurement of combat power or consequence of Agnipath recruitment.
+
 
 ## PDF coverage
 
-2025-01-07: pp. 21, 22 · 2025-03-07: pp. 8, 9, 10 · 2025-04-02: pp. 10, 11, 12
+2025-01-07: pp. 21, 22 · 2025-03-07: pp. 8, 9, 10 · 2025-04-02: pp. 10, 11, 12 · 2025-05-30: pp. 16, 17, 18

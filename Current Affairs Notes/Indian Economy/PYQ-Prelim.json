@@ -225,6 +225,30 @@
         "d": "1 and 4"
       },
       "answer": "d"
+    },
+    {
+      "year": 2015,
+      "chapter": "GDP: measurement, growth and potential output",
+      "question": "With reference to Indian economy, consider the following statements: 1. The rate of growth of Real Gross Domestic Product has steadily increased in the last decade. 2. The Gross Domestic Product at market prices (in rupees) has steadily increased in the last decade. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2025,
+      "chapter": "Alternative investment funds and venture-capital migration",
+      "question": "With reference to investments, consider the following: I. Bonds II. Hedge Funds III. Stocks IV. Venture Capital How many of the above are treated as Alternative Investment Funds?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "answer": "b"
     }
   ]
 }

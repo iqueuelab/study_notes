@@ -144,6 +144,18 @@
         "d": "Social Service"
       },
       "answer": "c"
+    },
+    {
+      "year": 2019,
+      "chapter": "Gene-edited sheep and CRISPR livestock research",
+      "question": "What is Cas9 protein that is often mentioned in news?",
+      "options": {
+        "a": "A molecular scissors used in targeted gene editing",
+        "b": "A biosensor used in the accurate detection of pathogens in patients",
+        "c": "A gene that makes plants pest-resistant",
+        "d": "A herbicidal substance synthesized in genetically modified crops"
+      },
+      "answer": "a"
     }
   ]
 }

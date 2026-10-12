@@ -51,7 +51,15 @@
 - **Tamil Nadu/UP corridors, FDI subject to conditions, strategic partnerships, export facilitation, i DEX/R&D** matter; the alleged defence TUFS programme confuses textile policy, and a draft promotion policy is not automatically operational.
 - Improve competitive products, certification, delivery/spares, finance and end-use compliance; domestic procurement preference alone cannot create global demand.
 
+## 29 May 2025: delivery discipline and design
+- At the **CII Annual Business Summit**, Air Chief Marshal **A. P. Singh** criticised unrealistic contract commitments and project delays, urged private industry's contribution and stressed indigenous **design/development**, not assembly alone. His emphatic delay remarks are a speaker's assessment, not an audited demonstration that every Indian defence project missed its deadline.
+- **27 May:** Defence Minister approved the **AMCA Programme Execution Model**. **ADA** will execute with an Indian industry partner chosen through competition; private and public sectors receive opportunities. Approval of the model is not proof a private partner was selected, aircraft produced or fighter entered service. [Defence Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2131528&lang=1&reg=6).
+- His praise of Operation Sindoor concerns operational performance; the speech does not establish a new combat event on 29 May. Existing Operation Sindoor notes retain chronology and attribution.
+- Capability requires design/IP, prototype testing, certification, supply chains, skilled staff and predictable orders; production capacity alone is not frontier technology. Low output, uncertain returns and service-industry trust can inhibit scale.
+- Improve realistic milestones, procurement decisions, accountable delivery, prototype/R&D support and competitive partnerships. The current capital procurement framework is **Defence Acquisition Procedure 2020**; source's generic DPP reference should not be treated as the latest named instrument. Proposed incentives/PPPs are recommendations rather than accomplished reforms.
+- Practice answer: delayed delivery → preparedness gap → technology/contract/capacity constraints → credible milestones, competition, design capability and lifecycle support.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4
+2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4 · 2025-05-30: pp. 11, 12, 13
