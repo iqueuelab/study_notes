@@ -93,6 +93,42 @@
         "d": "1, 3 and 4"
       },
       "answer": "c"
+    },
+    {
+      "year": 2020,
+      "chapter": "Consumer Price Index and inflation measurement",
+      "question": "Consider the following statements:\n1) The weightage of food in Consumer Price Index (CPI) is higher than that in Wholesale Price Index (WPI).\n2) The WPI does not capture changes in the prices of services, which CPI does.\n3) Reserve Bank of India has now adopted WPI as its key measure of inflation and to decide on changing the key policy rates.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2015,
+      "chapter": "Green steel and industrial decarbonisation",
+      "question": "In India, the steel production industry requires the import of",
+      "options": {
+        "a": "saltpetre",
+        "b": "rock phosphate",
+        "c": "coking coal",
+        "d": "All of the above"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2014,
+      "chapter": "Green steel and industrial decarbonisation",
+      "question": "Which of the following are some important pollutants released by steel industry in India?\n1. Oxides of sulphur\n2. Oxides of nitrogen\n3. Carbon monoxide\n4. Carbon dioxide\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 3 and 4 only",
+        "b": "2 and 3 only",
+        "c": "1 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "d"
     }
   ]
 }

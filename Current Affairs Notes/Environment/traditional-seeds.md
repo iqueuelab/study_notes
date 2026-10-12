@@ -19,7 +19,22 @@
 
 ## Mains practice framework
 **Causes → genetic/nutritional/climate risks → community banks + on-farm/gene-bank conservation + participatory breeding + farmer rights + procurement/value chains + consumer demand.** The source's 250-word, 15-mark question is undated practice, not a verified UPSC PYQ.
+## Keonjhar Kalachampa: farmer innovation and benefit sharing
+- April 2025 case: **Jayant Kumar Jena** sought a share of commercial benefits from **Keonjhar Kalachampa**, a paddy variety developed by his father. **A claim is not an awarded payment or final legal precedent.** The case connects farmer breeding/conservation with the formal seed chain.
+- Source-reported traits: resistance to disease/pests, flexible sowing periods, non-lodging plants and yield around **7,000 kg/ha** under reported conditions; do not generalise these into guaranteed yields or resistance to every climatic stress.
+- Source chronology: formal seed-chain integration **2013**, central notification **2015**, over **87,000 quintals** of certified seed distributed **2018–2023**. **OUAT**, **Odisha State Seeds Corporation (OSSC)** and the **State Seed Testing Laboratory (SSTL)** helped evaluation/testing and scaling. These figures are the supplied report's case details, not independently verified experimental performance.
+| PPV&FR Act, 2001 provision | Relevant right |
+|---|---|
+| **Section 39(1)(i)** | Farmer who breeds/develops a variety may obtain registration and protection like a breeder |
+| **Section 39(1)(iii)** | Recognition/reward for conserving genetic resources and improving them through selection/preservation, subject to statutory conditions |
+| **Section 39(1)(iv)** | Save/use/sow/resow/exchange/share/sell farm produce including protected-variety seed; branded protected seed exception |
+| **Section 26** | Benefit-sharing claims assessed by the Authority, considering genetic-resource contribution and commercial utility/demand |
+| **Section 41** | Claims concerning community contributions to development of a variety |
+- Benefit sharing for genetic-resource contribution differs from **section 39(2) compensation for failure of a registered variety to perform as represented under stated conditions**. Do not collapse all payments into one automatic royalty. [PPV&FR Authority rights brochure](https://plantauthority.gov.in/sites/default/files/fbrochure-eng.pdf), [Act](https://plantauthority.gov.in/protection-plant-varieties-and-farmers-rights-act-2001).
+- Plant-variety protection under this **sui generis, TRIPS-related regime** is different from a patent, GI, central seed notification, certified-seed quality assurance and a conservation award; each has a separate purpose and procedure. Registration duration also varies by category, so the source image's simple 15/18-year statement should not replace category-specific law.
+- Revision chain: **farmer selection → testing/documentation → notification/seed multiplication → commercial use → evidence-based benefit-sharing claim**. Preserve farmer identity and genetic-resource records; build participatory research and transparent benefit sharing alongside seed access.
+
 
 ## PDF coverage
 
-2025-04-14: pp. 18, 19, 20, 21, 22, 23, 24
+2025-04-14: pp. 18, 19, 20, 21, 22, 23, 24 · 2025-04-20: pp. 7, 8, 9

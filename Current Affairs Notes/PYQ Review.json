@@ -271,6 +271,96 @@
           "issue_date": "2025-04-14"
         }
       ]
+    },
+    {
+      "dates": [
+        "2025-04-16",
+        "2025-04-17",
+        "2025-04-18",
+        "2025-04-19",
+        "2025-04-20",
+        "2025-04-21",
+        "2025-04-22"
+      ],
+      "finding": "All text and page images reviewed, including all image-only tables and maps. CPI (2020) verified by OCR against the local original UPSC paper; supplied steel PYQs checked separately and stored in common subject prelims files. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": [
+        {
+          "question": "Discuss the challenges and strategic initiatives required to enhance socio-economic development and integration of the Northeast region of India. Suggest innovative policy interventions in light of recent developments.",
+          "topic_id": "northeast-development",
+          "subject": "Governance in India",
+          "exam_stage": "Mains",
+          "pages": [
+            25
+          ],
+          "year_review": "Undated practice question; no official examination year supplied.",
+          "issue_date": "2025-04-17"
+        },
+        {
+          "id": "child-marriage",
+          "exam_stage": "Mains",
+          "question": "Evaluate the Steps taken by the India to to end child marriage?",
+          "word_limit": 250,
+          "pages": [
+            7
+          ],
+          "year_status": "Unknown; daily practice question, not a verified PYQ",
+          "issue_date": "2025-04-20"
+        },
+        {
+          "id": "imec",
+          "exam_stage": "Mains",
+          "question": "\"The India-Middle East-Europe Corridor (IMEC) project has the potential to reshape the economic and geopolitical landscape of Asia, the Middle East, and Europe.\" Critically examine the objectives, significance, and challenges of this project.",
+          "word_limit": 250,
+          "marks": 15,
+          "pages": [
+            14,
+            15
+          ],
+          "year_status": "Unknown; daily practice question, not a verified PYQ",
+          "issue_date": "2025-04-20"
+        },
+        {
+          "id": "small-modular-reactors",
+          "exam_stage": "Mains",
+          "question": "Discuss the significance of Small Modular Reactors (SMRs) in India's transition towards clean energy. Highlight their advantages and challenges.",
+          "marks": 10,
+          "word_limit": 150,
+          "issue_date": "2025-04-21"
+        },
+        {
+          "id": "perovskite-recycling",
+          "exam_stage": "Prelims",
+          "question": "Perovskite solar cells are considered next-generation PV technology because:",
+          "options": {
+            "a": "They are made of organic materials only",
+            "b": "They contain no toxic elements",
+            "c": "They have high efficiency and low production cost",
+            "d": "They use only silicon-based materials"
+          },
+          "answer": "c",
+          "issue_date": "2025-04-21"
+        },
+        {
+          "id": "perovskite-recycling",
+          "exam_stage": "Prelims",
+          "question": "Which of the following components is used in the water-based recycling of perovskite solar cells?\n1. Sodium acetate\n2. Sodium iodide\n3. Hypophosphorous acid\nChoose the correct answer:",
+          "options": {
+            "a": "1 only",
+            "b": "1 and 2 only",
+            "c": "1, 2 and 3",
+            "d": "2 and 3 only"
+          },
+          "answer": "c",
+          "issue_date": "2025-04-21"
+        },
+        {
+          "subject": "Indian Economy",
+          "chapter": "Green steel and industrial decarbonisation",
+          "question": "What is the exact meaning of decarbonising steel sector? What are the challenges to decarbonising the steel sector? Also discuss what steps can be taken to decarbonise the steel sector.",
+          "word_limit": 250,
+          "issue_date": "2025-04-22"
+        }
+      ]
     }
   ]
 }

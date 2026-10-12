@@ -21,7 +21,13 @@
 - Disputes: inviting a party to form government, timing floor tests, delaying Bills, partisan public comments and perceived dependence on the Union for appointment/removal.
 - Constitution-review and commission debates stress impartial appointments, consultation with the CM, secure tenure and restraint. **Punchhi Commission (2010)** proposed a State-legislature impeachment mechanism; it is a recommendation, not an enacted constitutional removal process. National Constitution Review Commission’s final report was **2002**, despite the source’s 2001 reference.
 - Mains link: parliamentary responsibility, federalism and separation of powers require constitutional offices to facilitate elected government while protecting legitimate constitutional safeguards.
+## Constitutional governance: 19 April editorial
+- The April Tamil Nadu ruling illustrates **elected legislature → responsible ministry → constitutional head**, with judicial review addressing unconstitutional delay. Articles **74 and 163** provide ministerial aid and advice; constitutionally recognised discretion has limits.
+- **Article 201** governs Presidential consideration of reserved State Bills; **Article 142** enables complete justice; **Article 145(3)** requires at least five judges for a substantial constitutional interpretation question. The editorial's larger-bench concern is a constitutional debate, not a finding that the April judgment was void.
+- Reform proposals: clearer assent procedures, impartial gubernatorial conduct and timely reasoned decisions. Balance federal autonomy and democratic accountability with separation of powers.
+- The April ruling's one-/three-month periods were **maximum limits for different situations**, not a universal minimum-one-month waiting period. Its subsequent legal position is recorded separately in this topic. [8 April judgment](https://api.sci.gov.in/supremecourt/2023/45314/45314_2023_11_1501_60770_Judgement_08-Apr-2025.pdf).
+
 
 ## PDF coverage
 
-2025-04-09: pp. 1, 2, 3
+2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4

@@ -37,7 +37,13 @@
 - Kazakhstan's significance is prospective supply diversification. Foreign investment, processing technology, infrastructure and responsible extraction remain essential; discovery does not immediately displace China's established processing role.
 - India–Kazakhstan uranium/civil-nuclear links provide a base for mineral cooperation. India's coastal monazite resources also contain rare earths; distinguish domestic resources from processing scale and usable supply.
 
+## 4 April 2025: Chinese rare-earth export controls
+- **MOFCOM/Customs Announcement No.18 of 2025**, effective 4 April, introduced licensing for specified medium/heavy rare-earth-related items: **samarium (Sm), gadolinium (Gd), terbium (Tb), dysprosium (Dy), lutetium (Lu), scandium (Sc), yttrium (Y)** and listed forms/products.
+- It was an **export-control/permit regime**, not a blanket prohibition on all 17 rare earths, nor a measure confined to shipments to India. The source's “2024” date is incorrect. [Official announcement](https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art_0dd87cbee7b045bf93fabe6ab2faceee.html).
+- Delayed authorisations and concentrated separation/magnet production expose vehicle, renewable-energy and defence supply chains even where alternative ores exist. India's strategic task includes usable separated materials and components, beyond geological resources alone.
+- Source's coastal example mixes coasts: **Kerala is on India's western coast**; Tamil Nadu and Odisha include eastern-coast monazite deposits. Avoid treating all domestic reserves as readily available heavy-rare-earth supply.
+
 
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26

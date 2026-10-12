@@ -2007,37 +2007,126 @@
     {
       "date": "2025-04-16",
       "pdf": "2025/04-April/2025-04-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "91c4e143149f877a60daee5ca8d9597caf39938c4d29a54d4be6d24e146586aa",
+      "pages": 10,
+      "topic_ids": [
+        "tardigrades",
+        "consumer-price-index",
+        "indian-monsoon"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-17",
       "pdf": "2025/04-April/2025-04-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "660bb4a4d2d9416378cb8df8bf2f3a3f14588e15cb8a7411518860411d8659f3",
+      "pages": 33,
+      "topic_ids": [
+        "tiger-conservation",
+        "vasuki-indicus",
+        "kailash-mansarovar-yatra",
+        "ranthambore",
+        "national-commission-women",
+        "northeast-development",
+        "almonds",
+        "leptobrachium-aryatium",
+        "gutti-koya-displacement"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-18",
       "pdf": "2025/04-April/2025-04-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fbafcb1fb656c54bc1f01f51bca35fa1468399464d7da03fe48faed61e2152ce",
+      "pages": 28,
+      "topic_ids": [
+        "ethanol-maize",
+        "bangladesh-transshipment",
+        "rang-mahal-gateway",
+        "ccpa",
+        "prison-electronic-monitoring",
+        "coal-crop-losses",
+        "primary-health-care",
+        "young-adult-cardiovascular-risk"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        28
+      ]
     },
     {
       "date": "2025-04-19",
       "pdf": "2025/04-April/2025-04-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3cec9a52b638d03af9661360743ff5dc4255ace20f9df7f8d024871e2b3a25db",
+      "pages": 14,
+      "topic_ids": [
+        "yemen-red-sea",
+        "axiom-4",
+        "governor-state-relations",
+        "logistics-decarbonisation",
+        "right-to-protest",
+        "k2-18b-biosignatures"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-20",
       "pdf": "2025/04-April/2025-04-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "98648130a044257bb367804ea74d2944bb686bb52cb749392e119259058e772d",
+      "pages": 15,
+      "topic_ids": [
+        "imec",
+        "child-marriage",
+        "traditional-seeds",
+        "unesco-memory-world-gita-natyashastra",
+        "keonjhar"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-21",
       "pdf": "2025/04-April/2025-04-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0f21dbfaa0622a8d63e52c8aa56d59b7a3da2d9be52cab51ff23af39af7beb79",
+      "pages": 20,
+      "topic_ids": [
+        "cheetah",
+        "small-modular-reactors",
+        "pfbr",
+        "wheat",
+        "perovskite-recycling",
+        "heatwaves"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-22",
       "pdf": "2025/04-April/2025-04-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "53812da1b24b0a3e6349ea271b60f224d3d50a01628fdaec38d76d6cca09823e",
+      "pages": 29,
+      "topic_ids": [
+        "green-steel",
+        "critical-minerals",
+        "india-us",
+        "bullseye-galaxy",
+        "bioresorbable-pacemaker",
+        "creative-economy",
+        "skull-hill-mars"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-23",
@@ -4471,7 +4560,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-04-16",
+  "next_pdf": "2025-04-23",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

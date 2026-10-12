@@ -14,7 +14,18 @@
 - Source **49.4% self-initiated marriages**, Enfold/Civic Data Lab 2024 study: sample-specific, not a national prevalence estimate.
 - Options debated: equal age **18**, clearer/equal extended annulment periods, accessible legal aid and timely courts. Suggested **3–5 years** is a reform proposal.
 - Pair protection from forced marriage with education through 18, livelihoods/social security, safe healthcare/contraception, sexuality education, counselling and survivor support. Formal equal wording must deliver real agency and access to remedies.
+## Prevalence and prevention
+- **Women aged 20–24 married before 18**: **47.4% (NFHS-3, 2005–06) → 26.8% (NFHS-4, 2015–16) → 23.3% (NFHS-5, 2019–21)**. The latest interval represents **3.5 percentage points**, not a 3.5% relative reduction. It is a retrospective age-cohort indicator, not the fraction of all marriages occurring in 2025. [Health Ministry annual report](https://www.mohfw.gov.in/sites/default/files/FinalforNetEnglishMoHFW040222_1.pdf).
+- NFHS-5 source comparisons: West Bengal, Bihar and Tripura exceed **40%**; Madhya Pradesh **23.1%**, Rajasthan **25.4%**, compared with **32.4%** and **35.4%** in NFHS-4 respectively. Date the data; a recycled global-programme committee visit is not evidence of a new April 2025 visit.
+- Poverty, gender norms, school discontinuation, insecurity and weak livelihood options reinforce early marriage. Consequences include curtailed education/employment, reduced agency, violence risk and early pregnancy; adolescent maternal and child nutrition/health require support rather than stigma.
+- **SDG target 5.3:** eliminate child, early and forced marriage and female genital mutilation by **2030**. The source's approximately **12 million girls married annually worldwide** is an annual flow, not the stock of all women married as children. [UNICEF data](https://data.unicef.org/topic/child-protection/child-marriage/).
+## Measures and limits
+- **PCMA 2006** and **POCSO 2012** provide legal protection; combine timely prevention, Child Marriage Prohibition Officers, safe reporting, legal aid and survivor support with schooling, social protection and livelihoods. The source's 2021 proposal to raise women's marriage age to 21 **did not become law**; retain the existing legal-age discussion above.
+- **Beti Bachao Beti Padhao (2015):** addresses discrimination and girls' survival, protection and education; **Sukanya Samriddhi Yojana (2015):** savings for girls' education/future needs, not an unconditional cash grant. Source-listed **Balika Samriddhi Yojana** links assistance with girls' schooling; distinguish an older scheme example from proof of current universal delivery.
+- Source image highlights safety/violence, educational loss, reproductive health, psychological burden and violation of childhood rights. Child-help services support rescue/referral; an old **1098** image should not be treated as a complete description of present emergency-response integration.
+- **Mains framework:** scale and causes → law/enforcement → education and economic agency → health/social protection → community engagement → implementation gaps and measurable outcomes. The source's 250-word question is undated practice.
+
 
 ## PDF coverage
 
-2025-01-29: pp. 16, 17, 18, 19, 20
+2025-01-29: pp. 16, 17, 18, 19, 20 · 2025-04-20: pp. 4, 5, 6, 7

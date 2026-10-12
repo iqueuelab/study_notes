@@ -10,7 +10,12 @@
 - Source **December 2024: 24 animals, 12 adults/12 cubs** is a dated snapshot, not the February/current total. Founder subspecies and historical Asiatic population differ.
 - **Cheetah Conservation Fund, 1990, Namibia**; NTCA/WII monitoring and habitat/community work support India's programme. [Action-plan overview](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1850587&lang=2&reg=48).
 - Judge success by long-term survival, breeding, genetic diversity, suitable habitat, community benefits and a self-sustaining population—not arrival ceremonies or short-term cub counts alone.
+## Gandhi Sagar development
+- **20 April 2025:** Gandhi Sagar Sanctuary, Mandsaur district, Madhya Pradesh, received the two cheetahs **Prabhas and Pavak** transferred from Kuno; it became the programme's second Indian site. This transfer is distinct from proposed additional imports from Africa. [Akashvani announcement](https://newsonair.gov.in/two-cheetahs-to-be-released-in-mps-gandhisagar-sanctuary-today/).
+- Grassland, dry deciduous forest and riverine patches offer a varied landscape. Assess prey density, enclosure/free-ranging transitions, veterinary capacity, connectivity and community impacts; listing chital, chinkara, nilgai or wild pig does not establish adequate prey quantitatively.
+- Source repeat **Schedule II** is incorrect: cheetah is in Indian **Schedule I**. December 2024 survival counts remain dated snapshots; do not use them as April 2025 totals. Imported founders/cubs and future planned animals are separate categories.
+
 
 ## PDF coverage
 
-2025-02-20: pp. 5, 6, 7 · 2025-03-28: pp. 5, 6, 7 · 2025-03-29: pp. 5, 6, 7
+2025-02-20: pp. 5, 6, 7 · 2025-03-28: pp. 5, 6, 7 · 2025-03-29: pp. 5, 6, 7 · 2025-04-21: pp. 11, 12, 13, 14
