@@ -9,7 +9,13 @@
 - Instituted **1954**; Vibhushan: exceptional/distinguished service; Bhushan: distinguished service of a high order; Shri: distinguished service. Civilian hierarchy: **Bharat Ratna → Padma Vibhushan → Padma Bhushan → Padma Shri**.
 - Diverse fields include art, social work, public affairs, science/engineering, trade/industry, medicine, literature/education, sport and civil service. Foreigners may be honoured.
 - Public nominations, including self-nominations, are scrutinised by the Padma Awards Committee constituted by the Prime Minister; recommendations receive PM/President approval. President normally confers awards at Rashtrapati Bhavan. Awards recognise service rather than confer hereditary titles.
+## 2021 PYQ: civilian honours and Article 18
+- Answer **(d), all three statements are incorrect**: Bharat Ratna/Padma are **not titles under Article 18(1)**; Padma awards were interrupted in **1978–79 and 1993–97**, not only once; the question's **five Bharat Ratnas per year** is not the normal stated limit.
+- **Balaji Raghavan v Union of India (1995)** upheld merit honours while prohibiting use as name prefixes/suffixes. Article 18's military/academic distinction exception is not a declaration that these civilian awards are titles.
+- Source calling the Bharat Ratna three-per-year limit merely a constitutional convention is imprecise: it is an executive award-framework norm, not a constitutional numerical provision; exceptional actual conferments must not rewrite historical PYQ wording.
+- Source “no Padma cap” omits the normal rule: **120 annually**, excluding posthumous and NRI/foreigner/OCI awards, with relaxation in highly deserving cases. [Official award rules](https://www.padmaawards.gov.in/About).
+
 
 ## PDF coverage
 
-2025-04-29: pp. 9, 10, 11, 12
+2025-04-29: pp. 9, 10, 11, 12 · 2025-05-22: pp. 9, 10, 11

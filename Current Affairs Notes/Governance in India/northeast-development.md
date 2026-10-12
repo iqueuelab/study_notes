@@ -24,4 +24,4 @@ Discuss the challenges and strategic initiatives required to enhance socio-econo
 
 ## PDF coverage
 
-2025-04-17: pp. 20, 21, 22, 23, 24, 25
+2025-04-17: pp. 20, 21, 22, 23, 24, 25 · 2025-05-24: pp. 1, 2, 3, 4, 5, 6

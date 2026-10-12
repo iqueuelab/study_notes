@@ -153,6 +153,78 @@
         "d": "World Trade Organization (WTO)"
       },
       "answer": "c"
+    },
+    {
+      "year": 2023,
+      "chapter": "Potato cultivation, productivity and food security",
+      "question": "Consider the following statements: 1. India has more arable area than China. 2. The proportion of irrigated area is more in India as compared to China. 3. The average productivity per hectare in Indian agriculture is higher than that in China. How many of the above statements are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2019,
+      "chapter": "Potato cultivation, productivity and food security",
+      "question": "Among the following, which one is the largest exporter of rice in the world in the last five years?",
+      "options": {
+        "a": "China",
+        "b": "India",
+        "c": "Myanmar",
+        "d": "Vietnam"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2011,
+      "chapter": "Potato cultivation, productivity and food security",
+      "question": "The lower Gangetic plain is characterised by humid climate with high temperature throughout the year. Which one among the following pairs of crops is most suitable for this region?",
+      "options": {
+        "a": "Paddy and Cotton",
+        "b": "Wheat and Jute",
+        "c": "Paddy and Jute",
+        "d": "Wheat and Cotton"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2022,
+      "chapter": "Credit ratings and rating agencies",
+      "question": "Consider the following statements: 1. In India credit rating agencies are regulated by Reserve Bank of India. 2. The rating agency popularly known as ICRA is a public limited company. 3. Brickwork Ratings is an Indian credit rating agency. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2008,
+      "chapter": "Spices Board and export quality",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:\nList-I (Board): A. Coffee Board; B. Rubber Board; C. Tea Board; D. Tobacco Board.\nList-II (Headquarters): 1. Bengaluru; 2. Guntur; 3. Kottayam; 4. Kolkata.\nCode (A B C D):",
+      "options": {
+        "a": "2 4 3 1",
+        "b": "1 3 4 2",
+        "c": "2 3 4 1",
+        "d": "1 4 3 2"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2022,
+      "chapter": "Spices Board and export quality",
+      "question": "With reference to the “Tea Board” in India, consider the following statements:\n1. The Tea Board is a statutory body.\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.\n3. The Tea Board’s Head Office is situated in Bengaluru.\n4. The Board has overseas office at Dubai and Moscow.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 3",
+        "b": "2 and 4",
+        "c": "3 and 4",
+        "d": "1 and 4"
+      },
+      "answer": "d"
     }
   ]
 }

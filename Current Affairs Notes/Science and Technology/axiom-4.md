@@ -14,7 +14,14 @@
 - **Gaganyaan:** indigenous human-spaceflight programme; uncrewed tests, escape systems and crew safety must precede crewed flight. Successful independent crewed launch would place India alongside the Soviet/Russian, US and Chinese capabilities; distinguish ambition from achievement.
 - **Bharatiya Antariksh Station by 2035** was a programme target, not an already operational station. Avoid treating an early 20-ton concept or old launch forecast as a final configuration/date.
 - Benefits: space diplomacy, commercial participation, scientific collaboration and training; constraints: cost, life support, radiation, microgravity health effects and reliable emergency recovery.
+## 21 May 2025: planned outreach and research
+- Source's **8 June 2025** launch date was a forecast subsequently revised; **Falcon 9 is the rocket, Dragon the spacecraft**. Approximately **14 days at ISS** was the initial plan; completed mission details are recorded in the existing outcome section.
+- Clipping adds planned **ISRO–NASA public downlink/student interaction**, student events across two Indian locations and amateur-radio contact, plus **five joint human-research investigations**. These are distinct from ISRO's **seven shortlisted Indian microgravity experiments**, announced **28 April 2025**; neither count is a claim that all work was completed by May. [ISRO research portfolio](https://www.isro.gov.in/Indian_microgravity_research_Axiom4_mission.html).
+- Crew included US commander **Peggy Whitson**, Indian pilot **Shubhanshu Shukla**, Polish **Sławosz Uznański-Wiśniewski** and Hungarian **Tibor Kapu**; Poland/Hungary's first ISS visits do not mean their first citizens ever in space. [Axiom May science briefing](https://www.axiomspace.com/mission-blog/ax4-science-press-conference).
+- **2008 THEMIS PYQ: (c)**, high-latitude auroral displays; Time History of Events and Macroscale Interactions during Substorms investigates magnetospheric substorms.
+- **2016 MOM PYQ: (c), statements 1 and 3**. Correct the source explanation: ISRO was the **fourth space agency**, after Soviet programme, NASA and ESA, to achieve Mars orbit, not second after the USA; India succeeded at its first attempt. [ISRO MOM](https://www.isro.gov.in/MarsOrbiterMissionSpacecraft.html).
+
 
 ## PDF coverage
 
-2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11
+2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10

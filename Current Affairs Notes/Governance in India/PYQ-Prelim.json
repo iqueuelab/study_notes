@@ -13,6 +13,18 @@
         "d": "All four pairs"
       },
       "answer": "c"
+    },
+    {
+      "year": 2021,
+      "chapter": "Padma Awards: categories and selection",
+      "question": "Consider the following statements in respect of Bharat Ratna and Padma Awards: 1. Bharat Ratna and Padma Awards are titles under the Article 18(1) of the Constitution of India. 2. Padma Awards, which were instituted in the year 1954, were suspended only once. 3. The number of Bharat Ratna Awards is restricted to a maximum of five in a particular year. Which of the above statements are not correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
     }
   ]
 }

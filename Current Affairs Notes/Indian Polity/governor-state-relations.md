@@ -55,7 +55,11 @@
 - **Cauvery reference/opinion 1991**, not a blanket 1992 permission to appeal prior judgments. A reference is not an ordinary appellate/review route.
 - Canada permits statutory references; US federal courts ordinarily reject advisory opinions because of case-or-controversy requirements. Advisory jurisdiction is not unique worldwide to India. [Court’s reference analysis](https://www.api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf).
 
+## Comparative reference jurisdiction: practice clarification
+- Canada’s federal reference power comes from **section 53 of the Supreme Court Act**, exercised by the Governor in Council; provincial references use their applicable provincial frameworks. Do not label it a directly equivalent constitutional Article or say every provincial government sends references directly to the Supreme Court. [Canadian Act](https://laws-lois.justice.gc.ca/eng/acts/S-26/section-53.html).
+- The May 25 practice sheet’s absolute “no precedential value” claim for Indian advisory opinions is misleading: Article 143 opinions have substantial constitutional authority, as the earlier discussion explains.
+
 
 ## PDF coverage
 
-2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19 · 2025-05-17: pp. 9, 10, 11, 12 · 2025-05-19: pp. 12, 13, 14, 15, 16
+2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19 · 2025-05-17: pp. 9, 10, 11, 12 · 2025-05-19: pp. 12, 13, 14, 15, 16 · 2025-05-25: pp. 4, 5

@@ -12,7 +12,12 @@
 - Source recalls a large 2019 transfer; its accounting period and fiscal-year receipt must be distinguished. Capital-release decisions and recurring annual profit transfers are different components.
 - Balance adequate buffers/central-bank credibility with legitimate fiscal accountability, transparent risk assessment and predictable transfer rules. This primarily concerns **Union–RBI institutional governance**, not inherently a Centre–State water/federal dispute.
 - Mains: explain risk provisions → surplus calculation → fiscal trade-off → safeguards for transparent, independently reasoned capital management. A lower buffer may increase distributable surplus in a given calculation, but risk capacity and future shocks matter.
+## 23 May 2025: revised framework and surplus decision
+- RBI approved the revised ECF on **15 May**, effective for **FY2024–25**. The new **CRB range is 4.5–7.5% of the balance sheet**, replacing the 2019 framework’s 5.5–6.5% band.
+- At its **23 May Board meeting**, RBI maintained CRB at **7.5%** and approved **₹2,68,590.07 crore surplus transfer for accounting year 2024–25**. The decision occurred in the Union’s FY2025–26; approval and actual receipt are distinct. [RBI’s Board release](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60514), [revised ECF highlights](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60513).
+- The repeated review article in the 24 May PDF is stale: it does not establish that review remained unfinished or that the old CRB band was still operative. Core risk-buffer and fiscal distinctions are explained above.
+
 
 ## PDF coverage
 
-2025-05-17: pp. 20, 21, 22
+2025-05-17: pp. 20, 21, 22 · 2025-05-24: pp. 19, 20, 21

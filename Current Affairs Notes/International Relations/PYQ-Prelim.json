@@ -142,6 +142,30 @@
         "d": "Sutlej"
       },
       "answer": "a"
+    },
+    {
+      "year": 2018,
+      "chapter": "Golden Dome and layered missile defence",
+      "question": "What is Terminal High Altitude Area Defense (THAAD), sometimes seen in the news?",
+      "options": {
+        "a": "An Israeli radar system",
+        "b": "India's indigenous anti-missile programme",
+        "c": "An American anti-missile system",
+        "d": "A defence collaboration between Japan and South Korea"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2008,
+      "chapter": "Golden Dome and layered missile defence",
+      "question": "From which one of the following did India buy the Barak anti-missile defence systems?",
+      "options": {
+        "a": "Israel",
+        "b": "France",
+        "c": "Russia",
+        "d": "USA"
+      },
+      "answer": "a"
     }
   ]
 }

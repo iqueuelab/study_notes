@@ -706,6 +706,436 @@
           "issue_date": "2025-05-20"
         }
       ]
+    },
+    {
+      "dates": [
+        "2025-05-21",
+        "2025-05-22",
+        "2025-05-23",
+        "2025-05-24",
+        "2025-05-25",
+        "2025-05-26",
+        "2025-05-27"
+      ],
+      "finding": "All text and page images reviewed, including all image-only tables and maps. Official questions checked against prior entries and original papers where supplied. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": [
+        {
+          "id": "northeast-development",
+          "subject": "Governance in India",
+          "exam_stage": "Mains",
+          "chapter": "Northeast India: development and integration",
+          "question": "Discuss the challenges and strategic initiatives required to enhance socio-economic development and integration of the Northeast region of India. Suggest innovative policy interventions in light of recent developments. (250 words, 15 marks)",
+          "pages": [
+            6
+          ],
+          "issue_date": "2025-05-24"
+        },
+        {
+          "question": "The 1998 Nouméa Accord is associated with which of the following? A) Granting independence to South Sudan B) Providing autonomy to New Caledonia within France C) Ending conflict in Kashmir D) Establishing ASEAN Economic Community",
+          "chapter": "New Caledonia: decolonisation and political status",
+          "subject": "International Relations",
+          "exam_stage": "Prelims",
+          "pages": [
+            1
+          ],
+          "supplied_answer": "B) Providing autonomy to New Caledonia within France",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "The indigenous people of New Caledonia who have demanded independence are known as: A) Maori B) Aborigines C) Kanak D) Sami",
+          "chapter": "New Caledonia: decolonisation and political status",
+          "subject": "International Relations",
+          "exam_stage": "Prelims",
+          "pages": [
+            1
+          ],
+          "supplied_answer": "C) Kanak",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which of the following countries or territories is located in the Pacific Ocean and is an overseas territory of a European nation? A) Vanuatu B) New Caledonia C) Papua New Guinea D) Solomon Islands",
+          "chapter": "New Caledonia: decolonisation and political status",
+          "subject": "International Relations",
+          "exam_stage": "Prelims",
+          "pages": [
+            1,
+            2
+          ],
+          "supplied_answer": "B) New Caledonia",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to e-passports recently introduced in India, consider the following statements: 1) They include a microprocessor chip that stores biometric and demographic data. 2) They are printed with residential address details for easy verification. Which of the statements given above is/are correct? A) 1 only B) 2 only C) Both 1 and 2 D) Neither 1 nor 2",
+          "chapter": "e-Passports and biometric document security",
+          "subject": "Governance in India",
+          "exam_stage": "Prelims",
+          "pages": [
+            2
+          ],
+          "supplied_answer": "A) 1 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied A depends on an unverified address-printing premise; RFID/biometric statement is sound, but do not memorise the address policy from this sheet.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Consider the following statements regarding the National Council of Science Museums (NCSM): 1) It functions under the Ministry of Education. 2) It is responsible for establishing science centres at national, regional, and district levels. 3) Its headquarters is in Hyderabad. Which of the statements given above is/are correct? A) 1 only B) 2 only C) 3 only D) All three",
+          "chapter": "National Council of Science Museums",
+          "subject": "Science and Technology",
+          "exam_stage": "Prelims",
+          "pages": [
+            2,
+            3
+          ],
+          "supplied_answer": "B) 2 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Consider the following statements regarding the Sansad Ratna Awards: 1) The Sansad Ratna Awards are conferred by the Government of India to promote transparency in parliamentary functioning. 2) The award is based on an MP’s performance, including questions asked, private member’s bills introduced, debates initiated, and attendance. 3) The awards were inspired by the vision of former President Dr. A.P.J. Abdul Kalam. Which of the statements given above is/are correct? A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3",
+          "chapter": "Sansad Ratna Awards and parliamentary performance",
+          "subject": "Indian Polity",
+          "exam_stage": "Prelims",
+          "pages": [
+            3,
+            4
+          ],
+          "supplied_answer": "C. 2 and 3 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied C: non-governmental organiser/APJ inspiration confirmed; listed attendance/MPLADS scoring criteria need organiser confirmation.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which one of the following parameters is NOT used to evaluate MPs for the Sansad Ratna Awards? A. Attendance in Parliament B. Electoral performance in the constituency C. Number of questions asked D. Number of Private Member’s Bills introduced",
+          "chapter": "Sansad Ratna Awards and parliamentary performance",
+          "subject": "Indian Polity",
+          "exam_stage": "Prelims",
+          "pages": [
+            4
+          ],
+          "supplied_answer": "B. Electoral performance in the constituency",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which of the following statements about the Presidential Reference under Article 143 of the Indian Constitution is/are correct? 1) The President can refer questions of law or fact of public importance to the Supreme Court. 2) The Supreme Court’s opinion on such references is binding on all courts. Select the correct answer using the code below: A) 1 only B) 2 only C) Both 1 and 2 D) Neither 1 nor 2",
+          "chapter": "Governor: constitutional powers and State relations",
+          "subject": "Indian Polity",
+          "exam_stage": "Prelims",
+          "pages": [
+            4,
+            5
+          ],
+          "supplied_answer": "A) 1 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied A; reject the accompanying absolute claim that advisory opinions have no precedential value.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which of the following countries has a constitutional provision similar to India’s Article 143, allowing the government to seek advisory opinions from the highest court? A) United States B) United Kingdom C) Australia d) Canada",
+          "chapter": "Governor: constitutional powers and State relations",
+          "subject": "Indian Polity",
+          "exam_stage": "Prelims",
+          "pages": [
+            5,
+            6
+          ],
+          "supplied_answer": "D) Canada",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "D Canada is the intended comparator; federal reference power is statutory (Supreme Court Act section 53), not an identical constitutional provision.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which of the following best describes the voter eligibility rule in New Caledonia under the Nouméa Accord? A) All residents, regardless of duration of stay, have the right to vote. B) Voting rights are limited to indigenous Kanak people only. C) Voting rights are restricted to long-term residents, ensuring political representation of Kanak people. D) Only French mainland citizens have voting rights.",
+          "chapter": "New Caledonia: decolonisation and political status",
+          "subject": "International Relations",
+          "exam_stage": "Prelims",
+          "pages": [
+            6
+          ],
+          "supplied_answer": "C) Voting rights are restricted to long-term residents, ensuring political representation of Kanak people.",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which of the following rivers is not a tributary of the Indus River? a) Beas b) Jhelum c) Yamuna d) Ravi",
+          "chapter": "Indus Waters Treaty and dispute settlement",
+          "subject": "International Relations",
+          "exam_stage": "Prelims",
+          "pages": [
+            6
+          ],
+          "supplied_answer": "c) Yamuna",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to the Mullaperiyar Dam, consider the following statements: The dam is located in Tamil Nadu and is constructed across the Periyar River. The dam is owned and operated by Tamil Nadu but located in the state of Kerala. The Periyar River, on which the dam is built, originates in Kerala and flows into Tamil Nadu. Which of the statements given above is/are correct? (a) 1 and 2 only (b) 2 only (c) 2 and 3 only (d) 1, 2 and 3",
+          "chapter": "Mullaperiyar Dam and interstate safety governance",
+          "subject": "India & World Geography",
+          "exam_stage": "Prelims",
+          "pages": [
+            6,
+            7
+          ],
+          "supplied_answer": "(b) 2 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "B is intended; dam is in Kerala/Tamil Nadu operates it. Reject categorical Tamil Nadu headwater attribution in explanation; river flows west through Kerala, distinct from diverted waters.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which of the following countries shares a land border with Turkey? Armenia Iran Iraq Syria Greece Select the correct answer using the code given below: (a) 1, 2 and 3 only (b) 1, 2, 3 and 4 only (c) 1, 2, 4 and 5 only (d) 1, 2, 3, 4 and 5",
+          "chapter": "Türkiye: borders, straits and river systems",
+          "subject": "India & World Geography",
+          "exam_stage": "Prelims",
+          "pages": [
+            7,
+            8
+          ],
+          "supplied_answer": "(d) 1, 2, 3, 4 and 5",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which of the following countries share a land border with mainland Azerbaijan (excluding its exclave Nakhchivan)? 1. Russia 2. Turkey 3. Georgia 4. Armenia 5. Iran Select the correct answer using the code below: (a) 1, 3, 4 and 5 only (b) 1, 2, 3 and 4 only (c) 2, 3, 4 and 5 only (d) 1, 2, 3, 4 and 5",
+          "chapter": "India, Türkiye and Azerbaijan: diplomacy and economic links",
+          "subject": "International Relations",
+          "exam_stage": "Prelims",
+          "pages": [
+            8,
+            9
+          ],
+          "supplied_answer": "(a) 1, 3, 4 and 5 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to the Axiom-4 (Ax-4) mission, consider the following statements: 1) It is the first entirely government-funded mission to the International Space Station (ISS). 2) The mission includes the first Indian astronaut to visit the ISS. 3) The spacecraft used for this mission is developed by Blue Origin. Which of the statements given above is/are correct? A. 1 only B. 2 only C. 3 only D. 1, 2 and 3",
+          "chapter": "Axiom-4, Gaganyaan and the International Space Station",
+          "subject": "Science and Technology",
+          "exam_stage": "Prelims",
+          "pages": [
+            9,
+            10
+          ],
+          "supplied_answer": "B. 2 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "B refers to the planned first Indian ISS visit in May 2025. Private organisation does not mean no government funding; SpaceX Dragon transport. Launch occurred later on 25 June.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to potato cultivation in India, consider the following statements: 1. Potato cultivation in India is mainly confined to the Kharif season due to favorable temperatures. 2. Uttar Pradesh and West Bengal together account for more than half of India's potato production. 3. Potato tuber formation stops if the temperature rises above 30°C. 4. Saline and alkaline soils are best suited for potato cultivation due to their drainage properties. Which of the statements given above is/are correct? A. 2 and 3 only B. 1 and 4 only C. 2, 3 and 4 only D. 1, 2 and 3 only",
+          "chapter": "Potato cultivation, productivity and food security",
+          "subject": "Indian Economy",
+          "exam_stage": "Prelims",
+          "pages": [
+            10,
+            11
+          ],
+          "supplied_answer": "A. 2 and 3 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied A; production share needs a year, and the 30°C tuberisation assertion is overabsolute/cultivar-dependent.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Consider the following statements about the mineral Jarosite: 1. Jarosite is composed of potassium, iron, and sulphate. 2. It forms primarily in saline and acidic environments. 3. On Mars, jarosite can be used to date geological events up to millions of years old. 4. Luminescence in jarosite is a result of exposure to natural radiation over time. Which of the statements given above are correct? A. 1, 2 and 4 only B. 1 and 3 only C. 2, 3 and 4 only D. 1, 2, 3 and 4",
+          "chapter": "Jarosite and luminescence dating on Mars",
+          "subject": "Science and Technology",
+          "exam_stage": "Prelims",
+          "pages": [
+            11,
+            12
+          ],
+          "supplied_answer": "A. 1, 2 and 4 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied A; ~25 ka is a study-derived prospective window, not a universal mineral age limit.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to the Directorate General of Foreign Trade (DGFT), consider the following statements: 1) It is an attached office under the Ministry of Commerce and Industry. 2) It is responsible for issuing the Importer Exporter Code (IEC), which is mandatory for all importers and exporters in India. Which of the statements given above is/are correct? A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2",
+          "chapter": "DGFT and foreign-trade administration",
+          "subject": "Indian Economy",
+          "exam_stage": "Prelims",
+          "pages": [
+            12,
+            13
+          ],
+          "supplied_answer": "C. 1 and 2 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied C is flawed: IEC requirement has exemptions and specified services/technology conditions; literal universal statement 2 is false, so A is defensible.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to the \"Golden Dome\" missile defence system, recently in the news, consider the following statements: 1. It is a land-based missile defense system developed by the United States to intercept short-range rockets. 2. The system includes a fleet of satellites capable of intercepting enemy missiles in space. Which of the statements given above is/are correct? A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2",
+          "chapter": "Golden Dome and layered missile defence",
+          "subject": "International Relations",
+          "exam_stage": "Prelims",
+          "pages": [
+            13,
+            14
+          ],
+          "supplied_answer": "B. 2 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied B refers to proposed space interceptors; Golden Dome was a proposed layered space/ground system, not an existing exclusively space-based fleet.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Consider the following statements regarding cardamom cultivation in India: 1) Kerala is the leading producer of small cardamom. 2) Large cardamom is primarily grown in northeastern states like Sikkim and Arunachal Pradesh. 3) The Spices Board of India regulates the production and export of cardamom. Which of the statements given above is/are correct? A) 1 and 2 only B) 2 and 3 only C) 1 and 3 only D) 1, 2 and 3",
+          "chapter": "Green cardamom: taxonomy and wild relatives",
+          "subject": "Environment",
+          "exam_stage": "Prelims",
+          "pages": [
+            14
+          ],
+          "supplied_answer": "D) 1, 2 and 3",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied D uses overly broad Board regulation language; distinguish promotion/export quality/cardamom development functions from universal production regulation.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which of the following countries is the largest producer and exporter of cardamom in the world? A) India B) Guatemala C) Sri Lanka D) Vietnam",
+          "chapter": "Green cardamom: taxonomy and wild relatives",
+          "subject": "Environment",
+          "exam_stage": "Prelims",
+          "pages": [
+            14,
+            15
+          ],
+          "supplied_answer": "B) Guatemala",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Consider the following statements regarding Gallantry Awards in India: 1) Param Vir Chakra is the highest peacetime gallantry award. 2) Ashoka Chakra is awarded for valor during peacetime and is the highest award in that category. 3) Vir Chakra is the third highest wartime gallantry award. Which of the above statements is/are correct? A. 1 and 3 only B. 1 and 2 only C. 2 and 3 only D. 1, 2 and 3",
+          "chapter": "Gallantry awards: order and eligibility",
+          "subject": "Internal Security of India",
+          "exam_stage": "Prelims",
+          "pages": [
+            15
+          ],
+          "supplied_answer": "C. 2 and 3 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Consider the following statements about Cholera: 1) Cholera is caused by the bacterium Vibrio cholerae strains O1 and O139. 2) Cholera is primarily transmitted through airborne droplets. Which of the statements given above is/are correct? (a) 1 only (b) 2 only (c) Both 1 and 2 (d) Neither 1 nor 2",
+          "chapter": "Cholera and waterborne-disease control",
+          "subject": "Science and Technology",
+          "exam_stage": "Prelims",
+          "pages": [
+            15,
+            16
+          ],
+          "supplied_answer": "(A) 1 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to the Asiatic lion (*Panthera leo persica*) in India, consider the following statements: 1. It is found both in the Gir National Park and in the Sundarbans Biosphere Reserve. 2. Its IUCN Red List status was upgraded from ‘Endangered’ to ‘Vulnerable’ after 2008. 3. The Girnar Wildlife Sanctuary functions as an extended habitat for the Asiatic lion. 4. Asiatic lions are listed under Appendix II of CITES and Schedule II of the Wildlife Protection Act, 1972. Which of the statements given above is/are correct? A. 1 and 2 only B. 2 and 3 only C. 1, 2 and 4 only D. 2, 3 and 4 only",
+          "chapter": "Asiatic lions and conservation translocation",
+          "subject": "Environment",
+          "exam_stage": "Prelims",
+          "pages": [
+            16,
+            17,
+            18
+          ],
+          "supplied_answer": "B. 2 and 3 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied B is flawed: species-wide Vulnerable must not be equated with Asiatic-lion downgrade after 2008. Statement 3 sound; no option for 3 alone. Appendix I/Schedule I correction sound.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Which of the following statements about Project Kusha is/are correct? 1) It is an indigenous long-range surface-to-air missile system being developed by DRDO in collaboration with Bharat Electronics Limited (BEL). 2) It is designed to replace the Akash missile system as India's primary air defence system. 3) The system under Project Kusha is aimed to have capabilities similar to Russia’s S-400 air defence system. Select the correct answer using the code below: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2, 3",
+          "chapter": "Project Kusha and indigenous air-defence development",
+          "subject": "Science and Technology",
+          "exam_stage": "Prelims",
+          "pages": [
+            18,
+            19
+          ],
+          "supplied_answer": "C. 1 and 3 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "C describes development aims, not operational equivalence/induction. Extraneous explanation statement 4 is not part of the actual question.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to the Integrated Theatre Commands (ITC) in India, consider the following statements: 1. Integrated Theatre Commands aim to unify the operational control of the Army, Navy, and Air Force under one commander in a specific geographical area. 2. The Chief of Defence Staff (CDS) is responsible for the operational control of all theatre commands. 3. India currently has three fully functional integrated theatre commands. Which of the statements given above is/are correct? (a) 1 only (b) 1 and 2 only (c) 2 and 3 only (d) 1, 2 and 3",
+          "chapter": "Integrated theatre commands and jointness",
+          "subject": "Internal Security of India",
+          "exam_stage": "Prelims",
+          "pages": [
+            19,
+            20
+          ],
+          "supplied_answer": "(a) 1 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "A intended; May theatre proposals were not three completed commands. Do not infer final headquarters/structure simply from press proposals.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to medical oxygen access, consider the following statements: 1) PSA plants operate independently and do not require trained biomedical personnel. 2) Solar-powered oxygen delivery systems have been successfully deployed in countries like Nigeria and Ethiopia. Which of the statements given above is/are correct? A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2",
+          "chapter": "Medical oxygen access and health-system resilience",
+          "subject": "Social Problems In India",
+          "exam_stage": "Prelims",
+          "pages": [
+            20
+          ],
+          "supplied_answer": "B",
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "With reference to the Financial Action Task Force (FATF), consider the following statements: 1) It is a specialized agency of the United Nations. 2) FATF places countries under a \"Grey List\" if they are found supporting terror financing and money laundering. Which of the statements given above is/are correct? A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2",
+          "chapter": "Financial Action Task Force and compliance lists",
+          "subject": "International Relations",
+          "exam_stage": "Prelims",
+          "pages": [
+            20,
+            21
+          ],
+          "supplied_answer": "B. 2 only",
+          "note": "Undated practice question; no official exam year supplied.",
+          "review": "Supplied B oversimplifies strategic AML/CFT deficiencies as deliberate government support; increased monitoring is not a finding every listed State sponsors terrorism. Extraneous explanation statement 3 is not in the question.",
+          "issue_date": "2025-05-25"
+        },
+        {
+          "question": "Explain the significance of the “Coastline Paradox” in the context of India’s coastal measurement. How does it influence maritime policy and disaster preparedness? (250 words)",
+          "chapter": "Coastline measurement and the coastline paradox",
+          "exam_stage": "Mains",
+          "subject": "India & World Geography",
+          "pages": [
+            4
+          ],
+          "note": "Undated practice question; no official exam year supplied.",
+          "issue_date": "2025-05-26"
+        },
+        {
+          "subject": "Science and Technology",
+          "exam_stage": "Mains",
+          "chapter": "Anaemia and AnemiaPhone",
+          "question": "“Anaemia is more than a nutritional issue; it is a public health crisis that begins before pregnancy.” Discuss with reference to maternal health strategies in India. (250 Words) (15 Marks)",
+          "issue_date": "2025-05-27"
+        },
+        {
+          "subject": "International Relations",
+          "exam_stage": "Prelims",
+          "chapter": "Arms transfers: diversification and supplier dependence",
+          "question": "With reference to India’s arms imports in the recent decade, consider the following statements:\n1. The share of Russian arms in India’s total defence imports has remained above 90% since the 1990s.\n2. France, Israel, and the United States have emerged as significant arms suppliers to India in the 2020s.\n3. India has imported a majority of its air-power related weapon systems from Russia in the 2020s.\nWhich of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+          "answer": "Source supplies (b) 2 only; category/period of statement 3 needs clarification.",
+          "issue_date": "2025-05-27"
+        },
+        {
+          "subject": "Science and Technology",
+          "exam_stage": "Prelims",
+          "chapter": "Electric freight locomotives and Dahod manufacturing",
+          "question": "With reference to India’s freight locomotive development, consider the following statements:\n1. The D9-9000 HP electric locomotive is the most powerful freight engine developed indigenously in India.\n2. Siemens India has imported all major components from Germany for this locomotive.\n3. The locomotive was manufactured at the Dahod facility in Gujarat.\nWhich of the statements is/are correct?\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) All three",
+          "answer": "Source supplies (a), but statement 1 is incorrect: 12,000 HP locomotives predate D9. Only 3 is supported; no valid supplied option.",
+          "issue_date": "2025-05-27"
+        }
+      ]
     }
   ]
 }

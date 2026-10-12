@@ -13,7 +13,14 @@
 - Link **NEP 2020** holistic/experiential learning, **Ayushman Bharat School Health and Wellness Programme**, and **PM-POSHAN** meals/gardens. Food supply and education are complementary; a meal entitlement alone does not prove food literacy.
 - Barriers: curriculum load, teacher capability, kitchens/garden space, funding and fragmented delivery. Develop an integrated framework, support teachers and measure suitable dietary/learning outcomes without inappropriate indicator transfer or stigma.
 - **Better nutrition → stronger learning → healthier human capital**, with potentially lower future health costs. Agency, care for others and cultural continuity are ethical aims; benefits still depend on implementation and equitable access.
+## May 2025: sugar boards
+- **CBSE Acad-26/2025,14 May 2025**, requests sugar boards and awareness workshops; schools asked to submit brief report/photos by **15 July 2025**. Boards display sugar content, intake guidance, health risks and alternatives; NCPCR advocacy supports broader school awareness. Source reports 24,000+ affiliated schools, not proof installation completed everywhere. [CBSE circular](https://cbseacademic.nic.in/web_material/Circulars/2025/26_Circular_2025.pdf).
+- Visual comparisons—e.g., **300 mL soda ~8 teaspoons**—are product-dependent label examples. Excess free sugar contributes to dental disease and unhealthy energy intake/obesity/metabolic risk; type 2 diabetes is multifactorial. Avoid claiming sugar alone directly determines grades.
+- **WHO free sugars<10% energy**, with further reduction **below 5%** for additional benefit. **25 g/day** is an approximate 5% example at 2,000 kcal, not a universal maximum for every child; whole-fruit intrinsic sugars differ from free sugars. Circular cites 13%(ages 4–10)/15%(11–18) without underlying study details; do not automatically call these Indian national survey estimates.
+- Source's childhood diabetes **India 397/China 734 per lakh** lacks age/year and confuses prevalence/incidence; hold exact comparison for review.
+- Policy: healthier canteens, parent engagement/PTMs, nutrition curriculum, data and medical workshops, clear labels/food standards. **FSSAI school-food regulations 2020** already restrict sale/marketing of specified HFSS foods in/around schools; source's “no national framework” is too broad. Proposed detailed thresholds/front-of-pack health-star labels are distinct from established school restrictions. [FSSAI regulations](https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php).
+
 
 ## PDF coverage
 
-2025-04-26: pp. 8, 9, 10, 11, 12
+2025-04-26: pp. 8, 9, 10, 11, 12 · 2025-05-27: pp. 18, 19, 20

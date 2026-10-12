@@ -11,7 +11,13 @@
 - Source India “world's largest producer/exporter” claim is wrong: **Guatemala leads global cardamom production**, India is an important producer with strong domestic demand. [National Horticulture Board](https://nhb.gov.in/NHBDPR/Cardamom_DPR.pdf).
 - **Malabar/Mysore** are recognised cultivar types; source labels them GI tags without registration evidence. Do not equate a cultivar name with GI status; ₹1,000 crore/100-country export figures lack specified period.
 - Spices Board promotes sector/exports; **ICAR–IISR** research. Protect habitats, conserve germplasm, support sustainable shade cultivation/quality branding; SDGs **8,12,15**.
+## Cultivation and trade recap: May 2025
+- **Small cardamom, Elettaria cardamomum**: mainly **Kerala, Karnataka and Tamil Nadu**. **Large/black cardamom, Amomum subulatum**: eastern Himalayan/Northeast landscapes including **Sikkim, Arunachal Pradesh and Nagaland**. Requires suitable humid shaded hill conditions; crops/types have distinct climate needs.
+- High-value domestic/export demand supports smallholders; Gulf destinations such as UAE/Saudi Arabia and other markets in Europe, US and Japan feature in the issue. Guatemala leads small-cardamom production/export; **Nepal is a major large-cardamom producer**, omitted by the source's simplistic top-three list.
+- Source global shares **50–60% Guatemala /20–25% India /10% Sri Lanka**, annual **25,000–28,000 tonnes**, Kerala **70%**, export **₹500–600 crore** lack consistent year/type/denominator and should not be memorised as comparable verified statistics.
+- Risks: rainfall/temperature variability, viral **cardamom mosaic (katte)** and other diseases, price volatility and processing/storage quality. Sustainable shade cultivation, replanting, research, grading/drying and traceability strengthen returns; SPICED assistance is described in the common Spices Board topic.
+
 
 ## PDF coverage
 
-2025-02-03: pp. 9, 10, 11, 12, 13
+2025-02-03: pp. 9, 10, 11, 12, 13 · 2025-05-23: pp. 5, 6, 7 · 2025-05-25: pp. 14, 15

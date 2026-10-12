@@ -2640,37 +2640,152 @@
     {
       "date": "2025-05-21",
       "pdf": "2025/05-May/2025-05-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6b5a0047a4afce4b40ba176cc040cbf4ec5c968a036011bf69cbdb61c91a6ddf",
+      "pages": 22,
+      "topic_ids": [
+        "critical-minerals",
+        "olive-ridley",
+        "axiom-4",
+        "jarosite",
+        "potato-cultivation",
+        "dgft"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-05-22",
       "pdf": "2025/05-May/2025-05-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "c5708ab2281bcc9f663d73b5e814255cfcaf909140a0413f9c8702163edc6f4d",
+      "pages": 29,
+      "topic_ids": [
+        "credit-rating",
+        "balochistan",
+        "padma-awards",
+        "bhakra-dam",
+        "brahmos",
+        "trachoma",
+        "neglected-tropical-diseases",
+        "international-booker-prize",
+        "bhatnagar-prize",
+        "asiatic-lion",
+        "cholera"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-23",
       "pdf": "2025/05-May/2025-05-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3a4fd5a50881341617e9aefefcf8fe416aa57b34d20a19272beef666ccfff21a",
+      "pages": 20,
+      "topic_ids": [
+        "oyster-amr",
+        "cardamom",
+        "spices-board",
+        "mountain-peaks",
+        "amrit-bharat-stations",
+        "golden-dome",
+        "gallantry-awards"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-24",
       "pdf": "2025/05-May/2025-05-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ce5cdb5f189b8f0314f6aac988237dabc2174debf0d2f1f10690bcedb83601c3",
+      "pages": 24,
+      "topic_ids": [
+        "northeast-development",
+        "rbi-economic-capital",
+        "fatf",
+        "bsf",
+        "medical-oxygen",
+        "integrated-theatre-commands",
+        "project-kusha"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-25",
       "pdf": "2025/05-May/2025-05-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a01a949093e7e2ff868e0e545dac793cb11beffeb18bc603d410ad2e3cbd3aff",
+      "pages": 21,
+      "topic_ids": [
+        "indus-treaty",
+        "cardamom",
+        "turkiye",
+        "axiom-4",
+        "governor-state-relations",
+        "e-passports",
+        "sansad-ratna",
+        "ncsm",
+        "new-caledonia",
+        "mullaperiyar-dam",
+        "india-turkiye-azerbaijan",
+        "jarosite",
+        "potato-cultivation",
+        "dgft",
+        "asiatic-lion",
+        "cholera",
+        "golden-dome",
+        "gallantry-awards",
+        "fatf",
+        "medical-oxygen",
+        "integrated-theatre-commands",
+        "project-kusha"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-26",
       "pdf": "2025/05-May/2025-05-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e22ffbefb5afbf9c281a241e9f8221e1fcc8163148b29904c2ab906e401cf5bb",
+      "pages": 25,
+      "topic_ids": [
+        "coastline-measurement",
+        "elephants",
+        "schistura-densiclava",
+        "bharat-forecast-system",
+        "mosura-fentoni",
+        "tamil-nadu-space-policy",
+        "india-africa-digital"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-27",
       "pdf": "2025/05-May/2025-05-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2bdf07301c8f281488624f12bcfd1c56a5df7c7a53e48fc16ac734fb6037198c",
+      "pages": 23,
+      "topic_ids": [
+        "anaemia",
+        "school-food-literacy",
+        "bharat-forecast-system",
+        "ongc-discoveries",
+        "marine-oil-spills",
+        "arms-trade",
+        "electric-freight-locomotives"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-05-28",
@@ -4934,7 +5049,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-05-21",
+  "next_pdf": "2025-05-28",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

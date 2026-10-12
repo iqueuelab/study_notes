@@ -34,7 +34,15 @@
 - Use international examples to compare measured stewardship, surveillance and access, not assert success merely because a country has a plan.
 - **250-word practice answer:** definition/burden → India-specific drivers → government response → remaining gaps → funded One Health implementation, diagnostic-led stewardship, infection prevention, R&D and accountable monitoring. The supplied daily question is practice, not a dated UPSC PYQ.
 
+## May 2025: antibiotic innovation and access
+- The issue revisits **Nafithromycin**, Wockhardt/BIRAC-supported indigenous oral antibacterial for **community-acquired bacterial pneumonia (CABP)**, marketed as **Miqnaf**. Public scientific launch **20 November 2024** differs from regulatory clearance and later commercial rollout; company reports commercial launch **27 May 2025**, after this issue. [PIB research announcement](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2075174&lang=1&reg=3), [company rollout statement](https://www.wockhardt.com/wp-content/uploads/2025/11/press-release-q2-fy26.pdf).
+- Proposed/labelled course **once daily for three days** and reported **97% clinical cure** concern studied CABP patients, not every resistant infection or guaranteed individual cure. PIB describes **14 years** of development (source rounds to 15). “First of its class in three decades” must not be expanded into “no new antibiotic class anywhere for 30 years”.
+- **2050 projections**: **1.91 million annual deaths attributable to bacterial AMR**, **8.22 million associated**; model forecasts with uncertainty, not present mortality. **2019 global 1.27 million** is attributable, not the full associated burden. Source India **297,000** is an attributable estimate rather than every infection-associated death. [Original forecast study](https://doi.org/10.1016/S0140-6736(24)01867-1).
+- Source's **70% antibiotic use in animals/agriculture** has no clear geography/measure; it is not a verified universal Indian consumption share. India's **2019 colistin prohibition** covers its use in food-producing animals, poultry, aquaculture and animal feed supplements, not simply poultry growth promotion.
+- Delayed/poor-quality susceptibility testing, understaffing, high caseloads, self-medication and indiscriminate new-agent use undermine stewardship. Existing ceftazidime–avibactam resistance reinforces culture-guided use, infection prevention and review/de-escalation, not reflexively broader treatment.
+- New-drug research needs rigorous trials/regulatory evidence, affordable access and sustainable supply alongside restrictions on misuse. One Health implementation links human/veterinary/agricultural/environmental surveillance, public education and accountable dispensing; AMR is microbes resisting treatment, not humans becoming resistant.
+
 
 ## PDF coverage
 
-2025-01-25: pp. 10, 11, 15, 16 · 2025-01-26: pp. 19 · 2025-04-25: pp. 12, 13, 14, 15, 16, 17
+2025-01-25: pp. 10, 11, 15, 16 · 2025-01-26: pp. 19 · 2025-04-25: pp. 12, 13, 14, 15, 16, 17 · 2025-05-23: pp. 14, 15, 16

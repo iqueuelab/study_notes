@@ -96,6 +96,54 @@
       },
       "answer": "c",
       "explanation": "Space weather can disrupt navigation/radio, induce grid currents, cause auroras and increase atmospheric drag affecting satellite orbits; tsunamis and planet-wide forest fires are not direct expected effects."
+    },
+    {
+      "year": 2008,
+      "chapter": "Axiom-4, Gaganyaan and the International Space Station",
+      "question": "What is the purpose of the US Space Agency’s Themis Mission, which was recently in the news?",
+      "options": {
+        "a": "To study the possibility of life on Mars",
+        "b": "To study the satellites of Saturn",
+        "c": "To study the colourful display of high-latitude skies",
+        "d": "To build a space laboratory to study the stellar explosions"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2014,
+      "chapter": "Trachoma elimination and avoidable blindness",
+      "question": "Consider the following diseases: 1. Diphtheria 2. Chickenpox 3. Smallpox Which of the above diseases has/have been eradicated in India?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "1, 2 and 3",
+        "d": "None"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2001,
+      "chapter": "Trachoma elimination and avoidable blindness",
+      "question": "“Athlete’s Foot” is a disease caused by:",
+      "options": {
+        "a": "Bacteria",
+        "b": "Fungus",
+        "c": "Protozoan",
+        "d": "Nematode"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2009,
+      "chapter": "Shanti Swarup Bhatnagar Prize",
+      "question": "For outstanding contribution to which one of the following fields is Shanti Swarup Bhatnagar Prize given?",
+      "options": {
+        "a": "Literature",
+        "b": "Performing Arts",
+        "c": "Science",
+        "d": "Social Service"
+      },
+      "answer": "c"
     }
   ]
 }
