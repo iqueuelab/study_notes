@@ -29,7 +29,12 @@
 ## World distribution
 - Major regions: Western Australia; Brazil; China's Manchuria/Chang Jiang areas and Hainan; USA/Canada's Great Lakes region; Russia's Kursk and Urals; Sweden; historic Lorraine/Normandy/Pyrenees regions of France and the Rhine region; Liberia, South Africa and Algeria.
 - **Kerch Peninsula is in Crimea, Ukraine, under Russian administration**; the source's placement simply under Russia obscures the territorial qualification. Reserve rankings depend on year, ore versus contained iron and reserve/resource definitions. [IBM mineral statistics](https://ibm.gov.in/IBMPortal/pages/Indian_Minerals_Yearbook).
+## June 3 revision and missing current detail
+- Generic mineral types, belts, world locations, reserves/resources and the **500-block auction target** repeat existing corrected notes. Contents advertises record iron-ore output/sales but supplies no company/period/values in the reproduced body; do not invent record figures from the heading.
+- **2018 PYQ: (d), Rajasthan iron-ore statement 3 only**. State governments have non-coal auction powers under relevant law; legal exceptions/central critical-mineral auction powers must be assessed by period. Statement that Andhra Pradesh and Jharkhand have no gold mines is incorrect; do not use absence of a large current operating mine as absence of deposits/historic mining.
+- **2023 mineral PYQ: (d), titanium from ilmenite/rutile**, not iron merely because ilmenite contains it. Other beach heavy minerals include leucoxene, zircon, sillimanite, garnet and monazite; resources are not automatically permitted extraction.
+
 
 ## PDF coverage
 
-2025-04-12: pp. 10, 11, 12, 13, 14
+2025-04-12: pp. 10, 11, 12, 13, 14 · 2025-06-03: pp. 29, 30, 31, 32, 33, 34, 35

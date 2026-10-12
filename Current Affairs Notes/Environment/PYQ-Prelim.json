@@ -207,6 +207,30 @@
         "d": "Both"
       },
       "answer": "a"
+    },
+    {
+      "year": 2012,
+      "chapter": "Phytoplankton, iron deposition and ocean nutrient cycles",
+      "question": "What would happen if phytoplankton of an ocean is completely destroyed for some reason?\n1. The ocean as a carbon sink would be adversely affected.\n2. The food chains in the ocean would be adversely affected.\n3. The density of ocean water would drastically decrease.\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2021,
+      "chapter": "Phytoplankton, iron deposition and ocean nutrient cycles",
+      "question": "Consider the following kinds of organisms:\n1. Copepods\n2. Cyanobacteria\n3. Diatoms\n4. Foraminifera\nWhich of the above are primary producers in the food chains of oceans?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "3 and 4 only",
+        "d": "1 and 4 only"
+      },
+      "answer": "b"
     }
   ]
 }

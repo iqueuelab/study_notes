@@ -49,7 +49,11 @@
 - **28 May 2025 quick estimate:** industrial production grew **2.7% year on year in April**, against the **3.0% March quick estimate**. It is a slowing growth rate, not a 2.7% fall in output. [MoSPI release](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/may/doc2025528559501.pdf).
 - The issue's remaining IIP definition, sector coverage, volume-index method and **2011–12 base** repeat existing notes. Compiler is **NSO, MoSPI**, not an independent current CSO; index **116** means 16% above the base, not automatically 16% annual growth. IIP is not a price index or a full GDP measure.
 
+## May 2025 manufacturing survey
+- Contemporary June 2 release reports **HSBC India Manufacturing PMI 57.6 in May, versus 58.2 in April**: softer expansion, not contraction. Contents refers to the May low, but the reproduced generic body does not print the figure. **57.6 is an index reading, not 57.6% output growth**. [Contemporary release record](https://www.cmegroup.com/education/events/econoday/636975).
+- HSBC is the India-series sponsor in this period; S&P Global compiles the survey. Existing definitions, components and IIP comparison cover the repeated text.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12 · 2025-02-13: pp. 26, 27, 28, 29 · 2025-03-04: pp. 29, 30 · 2025-03-13: pp. 18, 19, 20, 21 · 2025-03-29: pp. 46, 47, 48 · 2025-04-03: pp. 6, 7, 8 · 2025-04-12: pp. 1, 2, 3, 4 · 2025-04-24: pp. 12, 13, 14 · 2025-04-29: pp. 14, 15, 16, 17 · 2025-05-29: pp. 2, 3, 4
+2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12 · 2025-02-13: pp. 26, 27, 28, 29 · 2025-03-04: pp. 29, 30 · 2025-03-13: pp. 18, 19, 20, 21 · 2025-03-29: pp. 46, 47, 48 · 2025-04-03: pp. 6, 7, 8 · 2025-04-12: pp. 1, 2, 3, 4 · 2025-04-24: pp. 12, 13, 14 · 2025-04-29: pp. 14, 15, 16, 17 · 2025-05-29: pp. 2, 3, 4 · 2025-06-03: pp. 39, 40, 41

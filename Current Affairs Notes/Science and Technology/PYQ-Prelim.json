@@ -156,6 +156,90 @@
         "d": "A herbicidal substance synthesized in genetically modified crops"
       },
       "answer": "a"
+    },
+    {
+      "year": 2008,
+      "chapter": "EAST, nuclear fusion and the path to usable energy",
+      "question": "In which one of the following locations is the International Thermonuclear Experimental Reactor (ITER) project to be built?",
+      "options": {
+        "a": "Northern Spain",
+        "b": "Southern France",
+        "c": "Eastern Germany",
+        "d": "Southern Italy"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2025,
+      "chapter": "S-400 Triumf and layered air defence",
+      "question": "With reference to India’s defence, consider the following pairs:\nAircraft type — Description\nI. Dornier-228 — Maritime patrol aircraft\nII. IL-76 — Supersonic combat aircraft\nIII. C-17 Globemaster III — Military transport aircraft\nHow many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2024,
+      "chapter": "S-400 Triumf and layered air defence",
+      "question": "Consider the following aircraft:\n1. Rafale\n2. MiG-29\n3. Tejas MK-1\nHow many of the above are considered fifth generation fighter aircraft?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2018,
+      "chapter": "S-400 Triumf and layered air defence",
+      "question": "What is Terminal High Altitude Area Defense (THAAD), sometimes seen in the news?",
+      "options": {
+        "a": "An Israeli radar system",
+        "b": "India’s indigenous anti-missile programme",
+        "c": "An American anti-missile system",
+        "d": "A defence collaboration between Japan and South Korea"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2008,
+      "chapter": "S-400 Triumf and layered air defence",
+      "question": "From which one of the following did India buy the Barak anti-missile defence systems?",
+      "options": {
+        "a": "Israel",
+        "b": "France",
+        "c": "Russia",
+        "d": "USA"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2016,
+      "chapter": "S-400 Triumf and layered air defence",
+      "question": "Which one of the following is the best description of ‘INS Astradharini’, that was in the news recently?",
+      "options": {
+        "a": "Amphibious warfare ship",
+        "b": "Nuclear-powered submarine",
+        "c": "Torpedo launch and recovery vessel",
+        "d": "Nuclear-powered aircraft carrier"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2008,
+      "chapter": "S-400 Triumf and layered air defence",
+      "question": "In the context of the Indian defence, what is ‘Dhruv’?",
+      "options": {
+        "a": "Aircraft-carrying warship",
+        "b": "Missile-carrying submarine",
+        "c": "Advanced light helicopter",
+        "d": "Intercontinental ballistic missile"
+      },
+      "answer": "c"
     }
   ]
 }

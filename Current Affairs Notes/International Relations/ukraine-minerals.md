@@ -14,7 +14,10 @@
 - Deposits span contested eastern/southern areas, including Donetsk/occupied territories near the Black Sea; war damages access, surveying, infrastructure and investment confidence. Geological resources, commercially extractable **reserves**, production and export supply are different measures.
 - Source estimates **5% global critical raw materials, 19 Mt graphite, one-third European lithium, 7% European titanium**, and **$350-billion occupied resources/63% coal mines/50% other deposits** combine older estimates and different measures. They are not verified May 2025 inventories; its **75% China rare-earth supply** likewise conflates mining/refining/processing shares.
 - Strategic objectives: reconstruction finance/revenue, diversified supply chains and reduced concentration. Extraction requires security, updated exploration, capital, environmental safeguards and processing capacity; mineral wealth does not guarantee rapid commercial output or resolution of war. US/Ukraine partnership is not proof Western ownership of every deposit.
+## Ukraine border recall
+- **2023 map PYQ: (a), only two—Hungary and Romania** among the six listed. **Bulgaria, Czech Republic, Latvia and Lithuania do not share a land border with Ukraine**. Other neighbours are **Belarus, Russia, Poland, Slovakia and Moldova**; international boundary recognition differs from wartime control.
+
 
 ## PDF coverage
 
-2025-05-02: pp. 29, 30, 31
+2025-05-02: pp. 29, 30, 31 · 2025-06-03: pp. 17, 18

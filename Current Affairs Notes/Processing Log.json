@@ -2891,12 +2891,45 @@
     {
       "date": "2025-06-02",
       "pdf": "2025/06-June/2025-06-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8ecd012067e8785c1018025f3617a8e63ab1a8cfac39250f76bbe5227ae3bc97",
+      "pages": 27,
+      "topic_ids": [
+        "india-eu",
+        "fusion",
+        "aviation-fuels",
+        "gdp",
+        "cii",
+        "perito-moreno"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-06-03",
       "pdf": "2025/06-June/2025-06-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "01764f7940812ee120ffaa35c64faf36dcd7d9520748337d2a40b6039a4aae7e",
+      "pages": 42,
+      "topic_ids": [
+        "industrial-indicators",
+        "india-afghanistan",
+        "presidents-rule",
+        "iron-ore",
+        "ukraine-minerals",
+        "s400",
+        "paraguay-mercosur",
+        "phytoplankton-iron",
+        "subsea-cables"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-06-04",
@@ -5125,7 +5158,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-06-02",
+  "next_pdf": "2025-06-04",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

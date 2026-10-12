@@ -21,7 +21,13 @@
 - **ESA and EU are different institutions**; PROBA-3 launched by ISRODecember 2024 was an ESA mission. EIB financing pledges are not necessarily disbursed investments.
 - FTA market access, CBAM, standards, intellectual property and mobility require negotiation; EU coordination does not mean every member has identical bilateral priorities.
 
+## 1–3 June 2025: planned joint naval exercise
+- Official schedule **1–3 June, Indian Ocean**, involving Indian Navy assets and EUNAVFOR **Italian Antonio Marceglia /Spanish Reina Sofia** with air assets. Focus: counter-piracy, tactical manoeuvres, communication and interoperability; maritime operations centres coordinate. At the June2 issue date, do not describe every scheduled activity as completed. [EEAS announcement](https://www.eeas.europa.eu/eeas/eu-and-india-carry-out-joint-naval-exercise-indian-ocean-reinforce-maritime-security-cooperation_en).
+- Ships' **Mumbai visit 26 May–1 June** supported harbour engagement; source highlights visit under EU banner rather than separate national flags. Meetings: Rear Adm **Davide Da Pozzo** and Rear Adm **Vidyadhar Harke**, Western Naval Command. [Indian Navy release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2133148&lang=2&reg=48).
+- **Operation Atalanta**, launched **2008**, EU CSDP mission, HQ **Rota, Spain**; Gulf of Aden/western Indian Ocean anti-piracy protection, with broader illicit-traffic/IUU-fishing mandate. **EU operation ≠ NATO operation**.
+- Cooperation supports lawful commerce and rules-based maritime order; an exercise is not a mutual-defence treaty. Practice answer **(a), statement1 only**; PDF's explanation misnumbers statements and mentions a nonexistent statement3.
+
 
 ## PDF coverage
 
-2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8
+2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21

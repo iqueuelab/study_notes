@@ -14,7 +14,12 @@
 - **Rameshwar Prasad, 2006:** Bihar Assembly dissolution held unconstitutional. Political apprehensions are not a substitute for relevant constitutional evidence.
 - **Sarkaria 1988:** last resort, warning/remedial options where feasible. **Punchhi 2010:** proposed localised responses; district-level Article 356 is **not existing constitutional law**.
 - Assess federalism, democratic mandate and prompt return to representative government. Source counts of impositions are dated, not a current total.
+## June 3 clipping: Manipur Assembly and restoration
+- Embedded explainer describes **10 MLAs seeking a viable Manipur government** after President's Rule imposed **February 2025**. Assembly term runs to **March 2027**, with Assembly in **suspended animation**, not automatically dissolved.
+- Article 356 history includes inconsistent Governor responses to dissolution advice and political misuse; majority should ordinarily be tested on the floor. Existing notes cover approval, duration, Bommai judicial review and federal safeguards.
+- **Restoring a viable majority-supported government need not always await fresh elections**. The clipping's usual-election sequence is not a universal constitutional condition for revocation; suspended Assembly permits constitutionally valid alternatives. **Bihar 2005 events/Rameshwar Prasad 2006**, and **Uttarakhand/Arunachal 2016** illustrate judicial intervention; dates of events and judgments differ.
+
 
 ## PDF coverage
 
-2025-02-14: pp. 1, 2, 3, 4, 5
+2025-02-14: pp. 1, 2, 3, 4, 5 · 2025-06-03: pp. 42

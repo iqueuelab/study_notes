@@ -10,7 +10,10 @@
 - Prevent terrorist safe havens; humanitarian goodwill and people-to-people links; avoid abandoning Afghan citizens amid political change.
 - Constraints: Taliban governance/rights and security concerns, Pakistan transit/security factor and growing Chinese engagement.
 - Practical response: conditional project delivery, aid with accountability, diplomatic channels and connectivity, without conflating contact with endorsement of domestic practices.
+## Map PYQ revision
+- **2022 Afghanistan borders: (c), Tajikistan, Turkmenistan and Uzbekistan** among the five listed countries. Afghanistan also borders **Pakistan, Iran and China**; **Azerbaijan and Kyrgyzstan do not border Afghanistan**. River segments include the Amu Darya system; do not assume every boundary segment is one river.
+
 
 ## PDF coverage
 
-2025-01-10: pp. 1, 2, 23, 24, 26, 27
+2025-01-10: pp. 1, 2, 23, 24, 26, 27 · 2025-06-03: pp. 15, 16, 17

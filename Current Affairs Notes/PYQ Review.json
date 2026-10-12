@@ -1231,6 +1231,94 @@
           "issue_date": "2025-05-31"
         }
       ]
+    },
+    {
+      "dates": [
+        "2025-06-02",
+        "2025-06-03"
+      ],
+      "finding": "All text and page images reviewed, including all image-only tables and maps. Official questions checked against prior entries and original papers where supplied. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": [
+        {
+          "subject": "Science and Technology",
+          "exam_stage": "Prelim",
+          "chapter": "EAST, nuclear fusion and the path to usable energy",
+          "question": "With reference to the International Thermonuclear Experimental Reactor (ITER), consider the following statements:\n1. ITER aims to replicate the nuclear fission process that occurs in the Sun.\n2. The central solenoid, a superconducting magnet, is critical for initiating and sustaining the plasma inside the tokamak.\n3. India is a full partner in the ITER project and is contributing major components like the cryostat.\nWhich of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+          "answer": "(b) 2 and 3 only",
+          "issue_date": "2025-06-02"
+        },
+        {
+          "subject": "Indian Economy",
+          "exam_stage": "Prelim",
+          "chapter": "GDP: measurement, growth and potential output",
+          "question": "Which of the following factors have significantly contributed to India becoming the world’s 4th largest economy in 2025?\n1. Rapid expansion of digital financial infrastructure\n2. Structural shift from agriculture to manufacturing\n3. Strong performance of the services sector\n4. Implementation of large-scale government incentive schemes\nSelect the correct answer using the code below:\n(a) 1 and 2 only\n(b) 1, 2 and 3 only\n(c) 1, 3 and 4 only\n(d) 1, 2, 3 and 4",
+          "answer": "(c) 1, 3 and 4 only",
+          "issue_date": "2025-06-02"
+        },
+        {
+          "subject": "Indian Economy",
+          "exam_stage": "Prelim",
+          "chapter": "GDP: measurement, growth and potential output",
+          "question": "Which of the following statements regarding India’s economic challenges in 2025 is/are correct?\n1. Despite high GDP growth, youth unemployment remains a concern.\n2. India’s net FDI inflow has increased steadily since 2020.\n3. Per capita income in India remains significantly lower than that of developed economies.\nSelect the correct answer using the code below:\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+          "answer": "(b) 1 and 3 only",
+          "issue_date": "2025-06-02"
+        },
+        {
+          "subject": "Indian Economy",
+          "exam_stage": "Mains",
+          "chapter": "GDP: measurement, growth and potential output",
+          "question": "“India has emerged as the world’s fourth-largest economy in nominal GDP terms, yet continues to face deep structural and socio-economic challenges.” Critically examine the factors that have driven India’s economic rise, and analyze the key obstacles that threaten the inclusiveness and sustainability of this growth. (Answer in 250 words)",
+          "issue_date": "2025-06-02"
+        },
+        {
+          "subject": "Indian Economy",
+          "exam_stage": "Prelim",
+          "chapter": "Confederation of Indian Industry",
+          "question": "With reference to the Confederation of Indian Industry (CII), consider the following statements:\n1. It is a statutory body under the Ministry of Commerce and Industry.\n2. It actively engages in policy advocacy, skill development, and international trade promotion.\nWhich of the statements given above is/are correct?\n(a) 1 only\n(b) 2 only\n(c) Both 1 and 2\n(d) Neither 1 nor 2",
+          "answer": "(b) 2 only",
+          "issue_date": "2025-06-02"
+        },
+        {
+          "subject": "International Relations",
+          "exam_stage": "Prelim",
+          "chapter": "India–EU: trade, technology and strategic cooperation",
+          "question": "With reference to the EUNAVFOR–India joint naval exercise, consider the following statements:\n1. The exercise focuses on combating non-traditional security threats in the Indian Ocean Region.\n2. EUNAVFOR operates under the North Atlantic Treaty Organization (NATO).\nWhich of the statements is/are correct?\n(a) 1 only\n(b) 2 only\n(c) Both 1 and 2\n(d) Neither 1 nor 2",
+          "answer": "(a) 1 only",
+          "issue_date": "2025-06-02"
+        },
+        {
+          "subject": "Indian Economy",
+          "exam_stage": "Prelim",
+          "chapter": "ATF and sustainable aviation fuel",
+          "question": "Which of the following can be used as a feedstock for Sustainable Aviation Fuel (SAF)?\n1. Used cooking oil\n2. Forestry residues\n3. Wastewater sludge\n4. Coal\n(a) 1 and 2 only\n(b) 1, 2 and 3 only\n(c) 2, 3 and 4 only\n(d) 1, 3 and 4 only",
+          "answer": "(b) 1, 2 and 3 only",
+          "issue_date": "2025-06-02"
+        },
+        {
+          "subject": "Science and Technology",
+          "exam_stage": "Prelim",
+          "chapter": "S-400 Triumf and layered air defence",
+          "question": "The S-400 Triumf missile system, often in the news, is considered strategically important for India’s defence. Why?\n1. It significantly enhances India’s air defence capabilities against both aircraft and missiles.\n2. Its purchase has geopolitical implications, including the threat of U.S. sanctions under CAATSA.\n3. It is entirely manufactured and assembled in India under the Make in India initiative.\nWhich of the above statements is/are correct?\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+          "answer": "(a) 1 and 2 only",
+          "issue_date": "2025-06-03"
+        },
+        {
+          "subject": "International Relations",
+          "exam_stage": "Prelim",
+          "chapter": "Paraguay, MERCOSUR and India’s Latin American engagement",
+          "question": "Consider the following statements regarding Paraguay and its geopolitical relevance:\n1. Paraguay is a landlocked country that shares its borders with Brazil, Argentina, and Chile.\n2. The Paraguay River flows through the country and serves as a major inland waterway.\n3. Paraguay is a founding member of MERCOSUR, the Southern Common Market.\n4. India has signed a Free Trade Agreement (FTA) with MERCOSUR.\nWhich of the statements given above is/are correct?\n(a) 2 and 3 only\n(b) 1 and 4 only\n(c) 2, 3 and 4 only\n(d) 1, 2 and 3 only",
+          "answer": "(a) 2 and 3 only",
+          "issue_date": "2025-06-03"
+        },
+        {
+          "subject": "Environment",
+          "exam_stage": "Prelim",
+          "chapter": "Phytoplankton, iron deposition and ocean nutrient cycles",
+          "question": "With reference to Phytoplankton blooms in the Indian Ocean, consider the following statements:\n1. Phytoplankton blooms are always harmful and result in hypoxic zones.\n2. Desert dust from southern Africa can act as a nutrient source for oceanic phytoplankton.\n3. Phytoplankton are responsible for producing more than half of Earth’s atmospheric oxygen.\nWhich of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+          "answer": "Source gives (b); statement 3 should refer to annual oxygen production, not accumulated atmospheric oxygen stock.",
+          "issue_date": "2025-06-03"
+        }
+      ]
     }
   ]
 }

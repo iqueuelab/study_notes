@@ -27,6 +27,66 @@
       },
       "answer": "b",
       "explanation": "Jordan opens to the Gulf of Aqaba in the Red Sea, not the Mediterranean."
+    },
+    {
+      "year": 2022,
+      "chapter": "India–Afghanistan engagement",
+      "question": "Consider the following countries:\n1. Azerbaijan\n2. Kyrgyzstan\n3. Tajikistan\n4. Turkmenistan\n5. Uzbekistan\nWhich of the above have borders with Afghanistan?",
+      "options": {
+        "a": "1, 2 and 5 only",
+        "b": "1, 2, 3 and 4 only",
+        "c": "3, 4 and 5 only",
+        "d": "1, 2, 3, 4 and 5"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2023,
+      "chapter": "Ukraine minerals and reconstruction investment",
+      "question": "Consider the following countries:\n1. Bulgaria\n2. Czech Republic\n3. Hungary\n4. Latvia\n5. Lithuania\n6. Romania\nHow many of the above-mentioned countries share a land border with Ukraine?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "Only five"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2025,
+      "chapter": "Paraguay, MERCOSUR and India’s Latin American engagement",
+      "question": "Consider the following countries:\nI. Bolivia\nII. Brazil\nIII. Colombia\nIV. Ecuador\nV. Paraguay\nVI. Venezuela\nAndes mountains pass through how many of the above countries?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "Only five"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2018,
+      "chapter": "Iron ore: types and distribution",
+      "question": "Consider the following statements:\n1. In India, State Governments do not have the power to auction non-coal mines.\n2. Andhra Pradesh and Jharkhand do not have gold mines.\n3. Rajasthan has iron ore mines.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "3 only"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2023,
+      "chapter": "Iron ore: types and distribution",
+      "question": "Ilmenite and rutile, abundantly available in certain coastal tracts of India, are rich sources of which one of the following?",
+      "options": {
+        "a": "Aluminium",
+        "b": "Copper",
+        "c": "Iron",
+        "d": "Titanium"
+      },
+      "answer": "d"
     }
   ]
 }
