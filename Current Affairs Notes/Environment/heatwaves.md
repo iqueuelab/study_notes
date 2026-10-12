@@ -16,7 +16,18 @@
 - Plans should integrate humidity, hot nights and neighbourhood vulnerability; assign responsibilities, finance implementation and track outcomes. Link health preparedness with NPCCHH and disaster-management institutions.
 - Air conditioning protects users but can increase electricity demand, emissions and outdoor waste heat; passive cooling, efficient appliances and cleaner electricity reduce this adaptation trade-off.
 - The source's **20 days earlier**, workforce/GDP/work-hours figures and **23 states/140 cities** counts lack a consistent cited denominator/time series here; do not memorise them as verified national totals. Prioritise exposure, feasible protection and accountable local implementation.
+## May 2025: informal workers and heat governance
+- Source reports Delhi temperatures above **41°C in April**; construction workers, vendors, gig workers and other informal workers face exposure and lost earnings while lacking reliable employer protections. A single reading is not by itself a complete attribution study or official heatwave declaration.
+- **Heat Action Plans** often lack secure funding, occupation-specific protocols, wage/health protection and coordination between labour, urban, environment and health agencies. “No guidelines/protection anywhere” is too absolute; the issue argues that practical coverage and enforcement remain inadequate.
+- Editorial cites **4.5% GDP loss** attributed to RBI 2024 without a clear scenario/time horizon; treat as projection requiring verification, not measured 2024 loss. It advocates worker participation and bottom-up assessment.
+## Worker-centred recommendations
+- Revise national guidance to explicitly cover informal/outdoor occupations; involve unions/collectives; establish safe drinking-water, gender-sensitive shade/rest/cooling at markets, transport hubs, labour chowks and construction sites; adjust working hours and rest schedules.
+- Finance through city budgets/CSR/community contributions with accountable maintenance; examine insurance and wage-loss protection. Embed cool roofs, shaded walkways, passive ventilation, trees/blue infrastructure and workspace retrofits in master plans, building by-laws and infrastructure standards.
+- Proposed **inter-ministerial Climate and Work Task Force** (Labour, Urban Affairs, Environment, Health, NDMA) and dedicated **city/district Heat Officers** are recommendations, not offices proved established by this article.
+- Comparators: California/Oregon heat-safety rules; France working-hour/cooling measures; Qatar outdoor-work restrictions; Australian heat-risk controls vary by jurisdiction, so avoid a blanket national ban. Indian examples include Ahmedabad work/rest adaptations and Odisha peak-hour restrictions; check local scope and dates before operational application.
+- Monitor illness, exposure and income losses alongside implementation; heat adaptation must protect livelihoods as well as announce alerts.
+
 
 ## PDF coverage
 
-2025-04-21: pp. 17, 18, 19, 20
+2025-04-21: pp. 17, 18, 19, 20 · 2025-05-10: pp. 4, 5, 6, 7

@@ -10,7 +10,12 @@
 - Reports/products: **World Development Report**, **Human Capital Index**; **Doing Business** was discontinued. IMF focuses on macroeconomic/monetary stability; World Bank on longer-term development, finance and poverty reduction.
 - US is the largest IBRD shareholder; source percentages (US 16.41%, Japan 7.87%, etc.) omit reference date and mix shares/voting power, so do not memorise them as April 2025 figures.
 - PYQ recall (2016): **Global Financial Stability Report → IMF; Ease of Doing Business ranking → World Bank**.
+## Additional IMF revision points
+- Headquartered **Washington, DC**; financial operations began **1947**. Existing note records 1944/1945 origins and corrects source's outdated 190 members to **191** in May 2025.
+- **Fiscal Monitor** complements WEO/GFSR with fiscal-policy analysis. Surveillance, policy advice, technical assistance/capacity development and balance-of-payments financing are distinct activities; crisis assistance commonly carries programme conditions.
+- India borrowed during the **1991 balance-of-payments crisis** and later participated as a creditor/contributor; quota determines financial commitments and strongly influences voting power, but quota share is not identical to voting percentage. Sri Lanka/Pakistan illustrate programmes, not unconditional grants or automatic debt cancellation.
+
 
 ## PDF coverage
 
-2025-04-24: pp. 9, 10, 11, 12
+2025-04-24: pp. 9, 10, 11, 12 · 2025-05-10: pp. 10, 11

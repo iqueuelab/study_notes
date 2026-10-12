@@ -26,7 +26,15 @@
 - **Krishnapatnam Industrial Area / KRIS City**, **Chennai–Bengaluru Industrial Corridor**; source **₹10,500 crore**, potential **~1 lakh jobs**; greenfield smart industrial development under **National Industrial Corridor Development Programme**.
 - Evaluate land/clearance, water/power, logistics, skills, local benefits and ecological compliance; expected jobs are projections.
 
+## May 2025 editorial: innovation-led manufacturing reset
+- D. N. Gupta argues technical education, **core engineering/R&D** and production ecosystems matter alongside industrial incentives and shifting US tariffs. Liberalisation **1991**, **National Manufacturing Competitiveness Programme 2005**, Make in India 2014 are milestones; India's manufacturing efforts predate 1991.
+- Source 2023 comparisons: manufacturing value added **India US$461bn, China US$4,658bn, US US$2,497bn**; per-capita **India ~US$320/world ~US$2,000**, productivity **India ~US$8,900/world ~US$32,000**. These are dated article indicators with methodology/price bases not fully given; per-worker productivity, per-capita value added and aggregate size differ, and they are not 2025 results.
+- Reform entrance assessments/curricula towards concepts, creativity, problem-solving, collaboration and applied research; grades are useful but insufficient. Proposed **50% practical work** requires labs, tool rooms, workshops, assembly facilities and trained mentors—an editorial recommendation, not a mandatory national rule.
+- Build **civil/mechanical/electrical/chemical/textile/biotech** capacity alongside AI/IT and electronics; equipment/machinery/process design underpin physical production. Avoid assuming service-startup growth supplies every manufacturing capability.
+- State-specific parks with plug-and-play infrastructure, common prototyping/testing/certification/design, links to institutions/labs and supplier/startup finance. Lessons from Silicon Valley concern skills, research and networks, not a promise one copied park creates equivalent outcomes.
+- Proposed **R&D 0.65%→2% GDP** and **additional 1% GDP industrial infrastructure** are spending recommendations; reference-year/scope of the 0.65% baseline must be specified. Combine educational capability, affordable finance, scale/quality, market access and dynamic evidence-based policy; check productivity/jobs and domestic technological depth.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 21, 22 · 2025-01-02: pp. 23, 24, 25 · 2025-01-09: pp. 7, 8, 21, 23 · 2025-01-10: pp. 2, 3, 4, 24, 27
+2025-01-01: pp. 21, 22 · 2025-01-02: pp. 23, 24, 25 · 2025-01-09: pp. 7, 8, 21, 23 · 2025-01-10: pp. 2, 3, 4, 24, 27 · 2025-05-12: pp. 13, 14, 15, 16, 17

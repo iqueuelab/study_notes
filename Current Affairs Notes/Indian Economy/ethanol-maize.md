@@ -20,7 +20,13 @@
 - Require effluent treatment, air-pollution controls, water monitoring and meaningful applicable public consultation; allegations near a plant need investigation.
 - Residue logistics, stubble management and DDGS feed recovery can help. Tailpipe CO reductions in trials do not prove identical lifecycle GHG savings everywhere.
 
+## May 2025: Andhra Pradesh environmental concerns
+- The issue revisits local opposition to ethanol plants over water depletion and pollution in the Krishna-region agricultural economy. Claims of effluent contamination, ineffective Pollution Control Board action and Lokayukta findings are **source-reported allegations/observations**, not proof every distillery breaches its consent conditions.
+- NITI-linked vehicle-test figures of **30% lower CO for four-wheelers /50% for two-wheelers** are not equivalent to lifecycle CO₂ reductions. Aldehyde emissions require pollutant-specific assessment; the source incorrectly treats acetaldehyde, formaldehyde and acrolein as interchangeable carcinogens.
+- Ethanol-only project clearance relaxations/exemptions have defined conditions; a bypassed public hearing does not abolish effluent, emissions or water-consent obligations. Evaluate applicable project rules instead of assuming every clearance omits pollution limits.
+- Pages4–6 repeat earlier maize figures and a stale “E20 within two months” forecast: installed capacity, intended annual supply and realised blending remain distinct. Do not re-date February-era estimates as May achievements. Pilot projects preceded the **2003 programme rollout**; **CCEA advanced the target on 21 December 2020**, followed by the **June 2021 roadmap/public announcement** and **2022 National Biofuels Policy amendment to 2025–26**. Distinguish these steps. [NITI roadmap](https://www.niti.gov.in/sites/default/files/2025-07/Roadmap-For-Ethanol-Blending-In-India-2020-25.pdf).
+
 
 ## PDF coverage
 
-2025-02-04: pp. 7, 8, 9 · 2025-02-27: pp. 14, 15, 16, 17, 18, 19, 20 · 2025-04-18: pp. 12, 13, 14, 15, 16, 17
+2025-02-04: pp. 7, 8, 9 · 2025-02-27: pp. 14, 15, 16, 17, 18, 19, 20 · 2025-04-18: pp. 12, 13, 14, 15, 16, 17 · 2025-05-08: pp. 1, 2, 3, 4, 5, 6

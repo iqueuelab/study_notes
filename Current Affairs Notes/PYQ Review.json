@@ -492,6 +492,17 @@
           "issue_date": "2025-05-04"
         }
       ]
+    },
+    {
+      "dates": [
+        "2025-05-08",
+        "2025-05-09",
+        "2025-05-10",
+        "2025-05-11",
+        "2025-05-12"
+      ],
+      "finding": "All text and page images reviewed, including all image-only tables and maps. Official questions checked against prior entries and original papers where supplied. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": []
     }
   ]
 }

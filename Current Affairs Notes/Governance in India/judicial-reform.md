@@ -20,7 +20,16 @@
 - Changing higher-court appointment rules involves Articles 124/217 and constitutional requirements; a proposal does not prove all those Articles must be amended simply to create district-level AIJS.
 - Common recruitment/training may widen access and consistency; concerns include federal judicial administration, local language, diversity and independence. Competitive exams alone do not eliminate corruption or guarantee executive insulation.
 
+## May 2025: accountability and constitutional supremacy
+- Editorial responds to Vice-President **Jagdeep Dhankhar's** criticism of assent-related judicial directions and the “super Parliament” label. **Constitutional supremacy**, rather than unqualified supremacy of any organ, frames the debate; political remarks are not constitutional rulings.
+- **L. Chandra Kumar (1997)** affirms constitutional judicial review and its basic-structure status. Independence is compatible with reasoned decisions, appellate/review remedies, fair criticism and accountability; judicial office does not confer blanket exemption from law.
+- **Article 124(4)**: Supreme Court judge removal for proved **misbehaviour or incapacity**, by Presidential order after an address of each House supported by a majority of its total membership and at least two-thirds of members present and voting in the same session. Article **217** links High Court judge removal to the corresponding constitutional process. “Impeachment” is common shorthand; ordinary disagreement with a judgment is not proved misbehaviour.
+- Parliament can cure a judgment's legal basis through constitutionally valid legislation; it cannot simply declare a binding judgment wrong or evade fundamental rights/basic structure. Review of a decision differs from disciplinary accountability of its author.
+- **Article142** permits complete justice in pending causes, within constitutional limits; it is not unrestricted legislative authority. **Article50** specifically calls for separation of judiciary from executive in State public services, rather than comprehensively codifying all branches' separation.
+- Bill-assent delay raises democratic accountability and institutional-boundary questions; the April Tamil Nadu judgment and later clarification belong in the common **Governor** topic. This editorial's defence of intervention should not erase those legal developments.
+- Mains balance: independent review prevents arbitrary executive/legislative conduct; transparent reasons, restraint, predictable procedure and respectful institutional dialogue sustain legitimacy. Sweeping assertions that every intervention is constitutional, or that courts have no limits, obscure case-specific legal scrutiny.
+
 
 ## PDF coverage
 
-2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19 · 2025-03-31: pp. 14, 15, 16
+2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19 · 2025-03-31: pp. 14, 15, 16 · 2025-05-08: pp. 8, 9, 10, 11

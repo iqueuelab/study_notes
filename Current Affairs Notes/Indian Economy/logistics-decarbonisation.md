@@ -19,7 +19,15 @@
 - Rail use in China/US illustrates modal choice; the source's China 50% share needs a comparable metric before adoption.
 - Constraints: capital costs, charging/fuel networks, reliability, technology maturity and inter-ministry coordination. Use PPPs, targeted incentives, green finance and R&D, while tracking actual emissions per tonne-kilometre and total emissions.
 - **Efficient logistics → less empty running and energy use → lower costs and emissions**, provided growing freight demand does not outweigh efficiency gains.
+## 10 May 2025: hydrogen truck in mining logistics
+- Adani Enterprises announced a hydrogen fuel-cell truck flagged off in **Raipur, Chhattisgarh**, by Chief Minister **Vishnu Deo Sai**, for coal movement from **Gare Pelma III** to the State's power plant. The company's “India's first” label is an attributed claim; this launch is not evidence of a completed nationwide fleet conversion. [Company announcement](https://www.adani.com/newsroom/media-releases/adani-group-deploys-india-first-hydrogen-powered-truck-for-mining-logistics).
+- Announced configuration: **three hydrogen tanks**, up to **40-tonne cargo**, about **200-km range**. **Adani Natural Resources (ANR)** and **Adani New Industries (ANIL)** cooperate; ANR sources hydrogen cells from ANIL. The mine is State-owned, with Adani as mine developer/operator.
+- Fuel cell pathway: **H₂ + O₂ → electricity + water + heat**, powering an electric drivetrain without combustion of the hydrogen. Low exhaust pollution/noise differs from proven zero life-cycle emissions: hydrogen production, compression, transport and electricity source determine climate performance; tyre/road particulates remain.
+- Decarbonising coal transport does not decarbonise coal combustion. The announcement does not itself establish that every kilogram of supplied hydrogen is green.
+- Barriers: truck/fuel-cell cost, hydrogen availability, refuelling/storage networks, flammability/pressure safety and operational reliability. Compare cost and emissions per tonne-km with battery-electric freight, rail and other feasible options.
+- Green-hydrogen supply, domestic equipment, freight refuelling corridors, PPPs and suitable incentives are proposed scaling levers. Source suggestions about FAME/PLI inclusion are recommendations, not verified eligibility or newly sanctioned benefits; retain India's **net-zero 2070** goal as a target.
+
 
 ## PDF coverage
 
-2025-04-19: pp. 4, 5, 6
+2025-04-19: pp. 4, 5, 6 · 2025-05-11: pp. 5, 6, 7, 8

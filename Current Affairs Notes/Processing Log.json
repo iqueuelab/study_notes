@@ -2375,27 +2375,91 @@
     {
       "date": "2025-05-08",
       "pdf": "2025/05-May/2025-05-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b5adf5dd027071a8e880347b1cc8589d72a36cacbfa2ed4b73508794940f2183",
+      "pages": 27,
+      "topic_ids": [
+        "ethanol-maize",
+        "judicial-reform",
+        "national-archives",
+        "operation-sindoor",
+        "kartarpur-corridor",
+        "cloud-seeding",
+        "human-development-report",
+        "regulatory-reform"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-09",
       "pdf": "2025/05-May/2025-05-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "69ba413ad81554b2606abecca7dc6607f2e7011875c9685c5f535d5d6e07bd29",
+      "pages": 15,
+      "topic_ids": [
+        "citizenship",
+        "s400",
+        "maternal-mortality",
+        "unhcr",
+        "nipah",
+        "chikungunya",
+        "public-health-workforce"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-10",
       "pdf": "2025/05-May/2025-05-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "defef529b6f438acda8e979271ccc36c24c79e7ad6cf1c19c2a61053e412a3b8",
+      "pages": 17,
+      "topic_ids": [
+        "heatwaves",
+        "imf-world-bank",
+        "press-freedom-misinformation",
+        "up-agrees",
+        "ai-pragya",
+        "food-systems-nutrition",
+        "notam",
+        "arnala"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-11",
       "pdf": "2025/05-May/2025-05-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d4b3026d030836e7d7c60686d733097f8feb7a92830e51194c06d043f84652b5",
+      "pages": 11,
+      "topic_ids": [
+        "digital-content",
+        "stubble-burning",
+        "logistics-decarbonisation",
+        "tapti-recharge"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-12",
       "pdf": "2025/05-May/2025-05-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "5a0d251f417d2d6bb1015f220c066fb9dbd2b18374f936999b8609ba4a99d5f1",
+      "pages": 21,
+      "topic_ids": [
+        "manufacturing",
+        "delimitation-demography",
+        "asteroid-yr4",
+        "space-debris",
+        "brahmos",
+        "women-land-governance",
+        "kerala-waste-management"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-13",
@@ -4734,7 +4798,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-05-08",
+  "next_pdf": "2025-05-13",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -4766,6 +4830,10 @@
     {
       "date": "2025-02-08",
       "status": "No PDF in current download queue; not reviewed. Verify Telegram issue availability."
+    },
+    {
+      "date": "2025-05-07",
+      "status": "No PDF in local source collection after filename/date-variant audit; not reviewed. Verify Telegram issue availability."
     }
   ]
 }
