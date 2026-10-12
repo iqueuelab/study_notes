@@ -1238,37 +1238,122 @@
     {
       "date": "2025-03-05",
       "pdf": "2025/03-March/2025-03-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d0aaec65e960d129e3d9245c16a892bf89448887c26b0e0f734aafbc9bb3590c",
+      "pages": 14,
+      "topic_ids": [
+        "delimitation-demography",
+        "h1b",
+        "critical-minerals",
+        "india-belgium",
+        "health-financing"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-06",
       "pdf": "2025/03-March/2025-03-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "67c3bb46462b78e5b50ce0679db46d6e76856371357b5f455d7aa3c4bf0f97e7",
+      "pages": 14,
+      "topic_ids": [
+        "defence-industry",
+        "astra-gandiva",
+        "emrs",
+        "deocha-pachami",
+        "pilgrimage-ropeways",
+        "livestock-health",
+        "space-debris"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-07",
       "pdf": "2025/03-March/2025-03-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e2d3c1ed35881805cbd3b6a2e4eaed0233c6565a3143a29e6957bbbd6bb15938",
+      "pages": 15,
+      "topic_ids": [
+        "navika-sagar",
+        "science-budget",
+        "ai-education",
+        "ai-kosha",
+        "wetland-birds",
+        "india-sri-lanka",
+        "bangus"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-08",
       "pdf": "2025/03-March/2025-03-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6c0daca5a9d4b9e5effadb1e75f50cffd16f1ffc408ca0a0828271a6eb550001",
+      "pages": 17,
+      "topic_ids": [
+        "preventive-health",
+        "spices-board",
+        "women-public-spaces",
+        "women-stem"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-09",
       "pdf": "2025/03-March/2025-03-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d40490886ea80f073929b085d61d31a40940de0dba45cc2d8e415206783f145b",
+      "pages": 14,
+      "topic_ids": [
+        "vshorad",
+        "gold-smuggling",
+        "ganges-dolphin",
+        "energy-us"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        14
+      ]
     },
     {
       "date": "2025-03-10",
       "pdf": "2025/03-March/2025-03-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "acc0617bca6e22509caa676a88a187c83ebf0017052e8a39173139a5aa3fec97",
+      "pages": 32,
+      "topic_ids": [
+        "tiger-conservation",
+        "ad-hoc-judges",
+        "fighter-aircraft",
+        "shakti-semiconductors",
+        "three-language",
+        "india-mauritius",
+        "security-ink"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-11",
       "pdf": "2025/03-March/2025-03-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7f94a7155b9ae3b88975db760d8cc7d21fb5d8fac9ed4e98f1256ee9aaadccc4",
+      "pages": 34,
+      "topic_ids": [
+        "vice-chancellors",
+        "tb",
+        "shingles",
+        "fipic",
+        "arms-transfers",
+        "bta-wto"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-12",
@@ -3912,7 +3997,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-03-05",
+  "next_pdf": "2025-03-12",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

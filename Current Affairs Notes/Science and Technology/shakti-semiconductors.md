@@ -17,7 +17,15 @@
 - Benefits: supply resilience, strategic autonomy, skilled employment and domestic value addition. Constraints: capital, yields, reliable power/water, chemicals, waste control, talent and vendor ecosystems.
 - Efficient cooling, renewable electricity, water reuse and hazardous-waste treatment matter. Source claim **31% of global greenhouse emissions from semiconductors** is unsupported; do not memorise it.
 - Policy test: competitive sustained output and locally retained skills/IP, rather than subsidies or an “indigenous” label alone.
+## Imports and ecosystem gaps
+- Source FY2024 monolithic ICimports~₹1.05 lakhcrore and FY2025 April–November 2.09%total-import share are different periods; customs classifications/base effects complicate 2000–4800%growth claims.
+- Semicon India 2021 supports fabrication/display/assembly-test-packaging ecosystem; Tata Dholerafab/Tata Morigaonassembly projects have different technology stages.
+- Imports still cover EDAtools, core IP, wafers, manufacturingequipment and components. Indian chip-design talent does not imply all toolchains/materials are domestic.
+- Source“first Indianchip 2024”is an outdated forecast and ignores earlier domestic chips; commercialfab milestones must be precisely labelled.
+- Source actual spending/BE/RE mixes ₹681.11 crore and ₹1, 503.36 crore for FY2024; reconcile series before asserting utilisation. Bigcaps, long gestation, power/water, skills and supply chains require coordinated investment.
+- USCHIPSAct is USlegislation, not an international alliance India joins; Quad semiconductor cooperation is a separate mechanism.
+
 
 ## PDF coverage
 
-2025-02-12: pp. 4, 5, 6, 7, 8, 9, 10
+2025-02-12: pp. 4, 5, 6, 7, 8, 9, 10 · 2025-03-10: pp. 15, 16, 17, 18, 19

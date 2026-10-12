@@ -26,14 +26,20 @@
 - Russian assurances cannot determine whether US **CAATSA** sanctions or waivers apply. Technology-transfer promises need contractual scope and independent performance assessment.
 
 ## 2024 PYQ recall
-- **Rafael (official printed spelling, referring to Rafale), MiG-29, Tejas MK-1:** none is a fifth-generation fighter; answer **(d) None**. Capability upgrades do not automatically change the platform generation.
+- **Rafael (official printed spelling, referring to Rafale), Mi G-29, Tejas MK-1:** none is a fifth-generation fighter; answer **(d) None**. Capability upgrades do not automatically change the platform generation.
 
 ## Squadron capacity debate
 - Source compares~31 squadrons with a sanctioned 42; delivery forecasts and retirements are not completed fleet changes.
 - Aircraft numbers need engines/components, trained personnel, maintenance, sensors, AEW/refuelling and timely production. Private/DPSU collaboration cannot eliminate every supply constraint.
 - LCA Mk 2/AMCA are development programmes; reported foreign purchase interest is not equivalent to aircraft delivered. Draft industrial policies must be labelled as drafts.
 
+## Private rear-fuselage delivery
+- **Alpha Tocol** handed a privately produced LCAMk 1 Arear fuselage to HAL; module production supports capacity while HALassembles final aircraft/ADAprovides design role.
+- Otherpartners include L&T, Tata Advanced Systems, VEMand LMW; component handover is not delivery of an entirefighter or proof every 83 aircraft-contractdeadline will be met.
+- rear fuselage supports aft structure/engine/tail; advancedradar, EWandavionics distinguish Mk 1 A. DPEPP2020 was a draft.
+- IAMaerospace medicine work includes centrifuge/spatial-disorientationtraining and research forpilot safety; occupationalhuman factors complement manufacturing.
+
 
 ## PDF coverage
 
-2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19
+2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26

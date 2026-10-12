@@ -20,10 +20,10 @@
 - **Ilmenite / rutile → titanium**; **monazite → rare earths + thorium**, not present in all Indian coastal sand. **2023 titanium (d)**; **2022 monazite statements 1, 2, 4 (b)**.
 - Monazite's radioactivity invokes special controls; question's legal position is tied to exam year. Source's lithium question labelled 2023 has no confirmed paper match and is held for review.
 ## Ukraine mineral negotiations
-- February 2025 US–Ukraine minerals arrangement was under negotiation; agreement was signed later, 30April 2025. A resource deal does not automatically provide a defence guarantee.
+- February 2025 US–Ukraine minerals arrangement was under negotiation; agreement was signed later, 30 April 2025. A resource deal does not automatically provide a defence guarantee.
 - Distinguish geological resources from economically recoverable reserves, and mining shares from refining shares. Occupied-resource valuations in the source are dated estimates.
 
 
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7

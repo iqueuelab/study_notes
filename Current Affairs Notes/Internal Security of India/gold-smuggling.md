@@ -13,7 +13,15 @@
 - Proportionate duty design, risk-based inspection, legal trade traceability, anti-corruption controls and financial investigation; international information sharing improves network detection.
 - **Gold Monetisation Scheme / Sovereign Gold Bonds** were policy alternatives to idle/physical gold demand; dated discussion is not proof every scheme/tranche remains open now. SGBs are securities, not the same product as unregulated “digital gold”.
 - Evaluate legitimate demand, enforcement cost and revenue before recommending further tax cuts; technology cannot replace sound intelligence and due process.
+## Correcting source-era claims
+- July 2024 Budget reduced standard gold/silver customs duty from 15%to 6%; **GST is separate**, so 15%“including GST”is incorrect for March 2025.
+- Imports, recycling and limited mining supply demand; **Kolar Gold Fields closed 2001**, not an operating example of current output. Hutti is the useful operating Karnataka example.
+- Gold imports affect goods trade/forex demand; jewellery manufacturing provides economic output, so“gold creates no output”is too broad. Source 7.5%GDP and import-volume figures need matching scope/year.
+- Customs/DRI, financial intelligence, ED and GSTauthorities have distinct powers; PMLA is not simply a blanket ban on high-value cash transactions.
+- Duty incentives, corruption, hawala and cross-border networks can facilitate smuggling; not every gold transaction finances terrorism. Traceability, cooperation and proportionate enforcement support legal trade.
+- GMS/SGB reduce demand for idle/physical gold through different mechanisms; regulated bonds are not equivalent to every commercial “digital gold”product.
+
 
 ## PDF coverage
 
-2025-02-10: pp. 5, 6, 7, 8, 9, 10
+2025-02-10: pp. 5, 6, 7, 8, 9, 10 · 2025-03-09: pp. 1, 2, 3, 4, 5

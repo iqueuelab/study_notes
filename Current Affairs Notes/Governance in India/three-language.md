@@ -8,7 +8,13 @@
 - Source ASER claim about Class 3 inability to read a Class 2 passage concerns a specific rural reading benchmark, not absence of every literacy skill among all Indian children.
 - Foundational literacy/numeracy, teacher vacancies, materials and training need attention alongside language policy; salary spending shares do not alone measure teaching quality.
 - Flexible sequencing and local consultation can reduce overload. AI translation is a useful aid, not a substitute for language learning or reliable classroom teaching.
+## Medium versus language subjects
+- NEP recommends home/mother/local/regional medium **wherever possible until Grade 5, preferably Grade 8 andbeyond**; choice of medium differs from learning three language subjects.
+- NCERT2024 languages initiative included primers in 104 languages/dialects, not necessarily full translated science/maths curricula in 104 languages.
+- Teacher/material shortages, parental Englishpreferences and State linguistic choices affect implementation. Older AISES2002–09 percentages cannot establish a current 2025 trend.
+- Classical-language learning and foreign-language options differ from formalgovernmentclassicalstatus; Sanskrit/Tamil/Telugu/Kannada/Malayalam/Odia/Pali/Prakrit and Persian references must not imply identical notified status.
+
 
 ## PDF coverage
 
-2025-03-03: pp. 5, 6, 7, 8
+2025-03-03: pp. 5, 6, 7, 8 · 2025-03-10: pp. 19, 20, 21, 22
