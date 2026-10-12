@@ -30,14 +30,22 @@ When creating or updating chapter notes from supplied images or documents:
 
 ## Current affairs notes and Git checkpoints
 
-- Review downloaded daily PDFs chronologically, including their page images. Maintain one editable Markdown file and responsive HTML page per topic; merge repeated facts and add dated developments without duplicating whole sections.
+- Review downloaded daily PDFs chronologically, including their page images. Maintain topic entries in `Topics.json`, editable Markdown, and one shared responsive HTML viewer; merge repeated facts and add dated developments without duplicating whole sections.
 - Keep the main index compact: collapsed subject groups, year/month/day browsing, search and subject filters. Preserve Previous/Next navigation and Print / Save as PDF. Print all relevant collapsed content by expanding it for printing and restoring the browsing state afterward.
 - Current source collection is the external-drive `Current Affairs` folder reached through the local symlink. Build with `tools/build_current_affairs_notes.py`; override `CA_SOURCE_ROOT` if the collection moves.
 - User authorises committing and pushing current-affairs notes/code to `origin` after each seven-day batch. Use weekly boundaries in issue-date order (1–7 January, 8–14 January, etc.); report gaps rather than silently treating absent PDFs as reviewed.
-- Run `tools/publish_current_affairs_notes.py` to publish authored notes/HTML/PYQ JSON and review metadata into `Current Affairs Notes` in the checkout. The external Notes folder is the working master; the tracked folder is its portable snapshot. Never stage the `Current Affairs` symlink, downloaded source PDFs/images, original attachments, caches, AppleDouble files or blank directories.
+- Run `tools/publish_current_affairs_notes.py` to publish authored notes/shared viewer/PYQ JSON and review metadata into `Current Affairs Notes` in the checkout. The external Notes folder is the working master; the tracked folder is its portable snapshot. Never stage the `Current Affairs` symlink, downloaded source PDFs/images, original attachments, caches, AppleDouble files or blank directories.
 - Validate JSON and staged paths before each commit. Push only completed material, retain progress metadata, and record the successful commit and next seven-day boundary in the external Operations checkpoint file.
 
 ## Shared notes home
 
 - The root `index.html` is the offline entry point for subject chapters, common summaries and current-affairs topics. Rebuild it with `python3 tools/build_notes_home.py` after adding chapters or changing common summaries. The current-affairs publisher runs this builder automatically.
 - Keep subjects and history units collapsible, search/filter both collections, and preserve the Study home return link on generated pages. Only completed notes belong in the hub; exclude source downloads and empty folders.
+
+## JSON-backed chapter and topic viewers
+
+- Current affairs uses `Topics.json` and `Current Affairs Notes/index.html#topic=<id>`. Do not generate separate topic HTML files.
+- Subject chapters use one `Chapters.json` per subject and `Subject Notes/index.html#topic=<id>`, with the shared `tools/notes_viewer.js` routing/navigation logic. Keep unit/chapter order, mobile diagrams, print controls, editable Markdown, PDFs and common subject-level PYQs.
+- Preserve chapter document styles/diagrams during migration. New chapter content belongs in the subject JSON; `tools/build_subject_notes.py` can also import a newly authored temporary chapter HTML and then remove the superseded page after preserving its content.
+- Build subject viewers with `python3 tools/build_subject_notes.py`, then rebuild the home page. Common Article/Amendment/Chronology summaries retain their own pages.
+- Verify topic/chapter routes, Back/Next/history, home links, diagram assets and printing after viewer changes.

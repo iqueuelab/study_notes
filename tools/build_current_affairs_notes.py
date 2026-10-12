@@ -111,8 +111,9 @@ flows.update({
  'solid-waste':['Segregate at source','Keep streams separate during collection','Recover recyclables and treat suitable organics','Control emissions and dispose of residues safely','Audit service quality and worker protection'],
 })
 flows.update({'sma':['SMN1 defect','Reduced SMN protein','Motor-neuron loss','Muscle weakness','Disease-modifying treatment + supportive care'],'time-use-care':['Recognise unpaid care','Reduce avoidable time burdens','Redistribute responsibilities','Represent and fairly reward care workers'],'black-plastic':['Electronic plastic waste','Unsafe mixing into recycling streams','Possible chemical migration','Exposure assessment','Segregation + traceability + food-contact standards']})
-def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
-for i,t in enumerate(topics):
+def link(t):return '#topic='+quote(t['id'])
+viewer_topics=[]
+for t in topics:
  folder=OUT/t['subject'];folder.mkdir(exist_ok=True)
  for stage in ['Prelim','Mains']:
   p=folder/f'PYQ-{stage}.json'
@@ -121,18 +122,12 @@ for i,t in enumerate(topics):
  md='# '+t['title']+'\n\n'+t['markdown']+'\n\n## PDF coverage\n\n'+coverage+'\n'
  mdpath=folder/(t['id']+'.md');mdpath.write_text(md)
  new_state[str(mdpath.relative_to(OUT))]=hashlib.sha256(mdpath.read_bytes()).hexdigest()
- nav='<nav><a href="../index.html">All topics</a>'
- if i:nav+='<a href="../'+link(topics[i-1])+'">← Previous</a>'
- else:nav+='<a href="../index.html">← Back to all topics</a>'
- if i+1<len(topics):nav+='<a href="../'+link(topics[i+1])+'">Next →</a>'
- else:nav+='<a href="../index.html">Next → All topics</a>'
- nav+='</nav>'
- body=nav+'<p class="tag">'+html.escape(t['subject'])+'</p><h1>'+html.escape(t['title'])+'</h1><div class="controls"><button onclick="window.print()">Print / Save as PDF</button><a href="'+t['id']+'.md">Editable notes</a></div><article>'+render(t['markdown'])
- if t['id'] in flows:body+='<div class="flow" aria-label="Recall flowchart">'+'<div class="arrow" aria-hidden="true">↓</div>'.join('<div class="step">'+html.escape(x)+'</div>' for x in flows[t['id']])+'</div>'
- body+='<h2>PDF coverage</h2><p class="coverage">'+html.escape(coverage)+'</p></article>'+nav
- (folder/(t['id']+'.html')).write_text(shell(t['title'],body))
+ content=render(t['markdown'])
+ if t['id'] in flows:content+='<div class="flow" aria-label="Recall flowchart">'+'<div class="arrow" aria-hidden="true">↓</div>'.join('<div class="step">'+html.escape(x)+'</div>' for x in flows[t['id']])+'</div>'
+ content+='<h2>PDF coverage</h2><p class="coverage">'+html.escape(coverage)+'</p>'
+ viewer_topics.append({'id':t['id'],'title':t['title'],'subject':t['subject'],'content':content,'editable':quote(t['subject'])+'/'+t['id']+'.md'})
 queue=json.loads((OUT/'Processing Log.json').read_text());done=[x for x in queue['files'] if x['status']=='reviewed']
-body='<header><h1>Current Affairs</h1><button onclick="window.print()">Print / Save as PDF</button></header><p>'+str(len(done))+' of '+str(len(queue['files']))+' PDFs reviewed · '+str(len(topics))+' consolidated topics</p><div class="controls"><input id="search" placeholder="Search topics or facts" aria-label="Search notes"><select id="subject" aria-label="Subject"><option value="">All subjects</option>'+''.join('<option>'+html.escape(s)+'</option>' for s in sorted({t['subject'] for t in topics}))+'</select></div>'
+body='<div id="browse"><header><h1>Current Affairs</h1><button onclick="window.print()">Print / Save as PDF</button></header><p>'+str(len(done))+' of '+str(len(queue['files']))+' PDFs reviewed · '+str(len(topics))+' consolidated topics</p><div class="controls"><input id="search" placeholder="Search topics or facts" aria-label="Search notes"><select id="subject" aria-label="Subject"><option value="">All subjects</option>'+''.join('<option>'+html.escape(s)+'</option>' for s in sorted({t['subject'] for t in topics}))+'</select></div>'
 gaps=queue.get('review_gaps',[])
 if gaps:
  body+='<details class="group"><summary>Review progress and missing issues<span class="count">'+str(len(gaps))+' gaps</span></summary><div class="group-content"><p>Next available PDF: '+html.escape(queue.get('next_pdf',''))+'</p><ul>'+''.join('<li>'+html.escape(g['date'])+' — '+html.escape(g['status'])+'</li>' for g in gaps)+'</ul></div></details>'
@@ -158,7 +153,14 @@ for year in sorted({f['date'][:4] for f in done}):
  body+='</div></details>'
 body+='</section><p id="no-results" class="empty" hidden>No matching topics. Try another word or subject.</p>'
 body+="""<script>const q=document.querySelector('#search'),s=document.querySelector('#subject');let wasFiltering=false;function filter(){const active=!!q.value.trim()||!!s.value;let shown=0;document.querySelectorAll('.subject-group').forEach(g=>{let matches=0;g.querySelectorAll('[data-search]').forEach(c=>{c.hidden=!(c.dataset.search.toLowerCase().includes(q.value.trim().toLowerCase())&&(!s.value||c.dataset.subject===s.value));if(!c.hidden)matches++});g.hidden=!matches;g.querySelector('.count').textContent=matches+(matches===1?' topic':' topics');if(active)g.open=matches>0;else if(wasFiltering)g.open=false;shown+=matches});document.querySelector('#by-date').hidden=active;document.querySelector('#no-results').hidden=shown>0;wasFiltering=active}q.addEventListener('input',filter);s.addEventListener('change',filter);document.querySelector('#expand').addEventListener('click',()=>document.querySelectorAll('.subject-group:not([hidden]),.year-group,.month-group').forEach(d=>d.open=true));document.querySelector('#collapse').addEventListener('click',()=>document.querySelectorAll('details').forEach(d=>d.open=false));let printState=[];addEventListener('beforeprint',()=>{printState=[...document.querySelectorAll('details')].map(d=>d.open);document.querySelectorAll('details').forEach(d=>d.open=true)});addEventListener('afterprint',()=>document.querySelectorAll('details').forEach((d,i)=>d.open=printState[i]));</script>"""
+body+='</div><section id="topic-view" hidden aria-live="polite"><nav id="topic-nav-top"></nav><p id="topic-subject" class="tag"></p><h1 id="topic-title" tabindex="-1"></h1><div class="controls"><button type="button" onclick="window.print()">Print / Save as PDF</button><a id="topic-editable">Editable notes</a></div><article id="topic-content"></article><nav id="topic-nav-bottom"></nav></section>'
+body+='<script id="topic-data" type="application/json">'+json.dumps(viewer_topics,ensure_ascii=False).replace('<','\\u003c')+'</script>'
+body+=(Path(__file__).with_name('notes_viewer.js')).read_text()
 (OUT/'index.html').write_text(shell('Current Affairs',body))
 (OUT/'index.md').write_text('# Current Affairs\n\n'+''.join(f"- [{t['title']}]({t['subject']}/{t['id']}.md)\n" for t in topics))
 state_path.write_text(json.dumps(new_state,indent=2))
-print('Built',len(topics),'topic pairs and index')
+# Remove only obsolete generated topic pages after all content is available in the viewer.
+for t in topics:
+ legacy=OUT/t['subject']/(t['id']+'.html')
+ if legacy.exists():legacy.unlink()
+print('Built one JSON-backed viewer for',len(topics),'topics')

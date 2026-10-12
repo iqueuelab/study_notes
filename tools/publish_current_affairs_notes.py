@@ -16,7 +16,7 @@ ids=[t['id'] for t in data['topics']]
 assert len(ids)==len(set(ids)), 'Duplicate topic IDs'
 paths={Path(x) for x in ['index.html','index.md','Topics.json','Processing Log.json','PYQ Review.json']}
 for t in data['topics']:
- for suffix in ['.md','.html']:paths.add(Path(t['subject'])/(t['id']+suffix))
+ for suffix in ['.md']:paths.add(Path(t['subject'])/(t['id']+suffix))
  for stage in ['Prelim','Mains']:paths.add(Path(t['subject'])/f'PYQ-{stage}.json')
 for path in paths:
  assert path.suffix in {'.md','.html','.json'} and not path.is_absolute() and '..' not in path.parts
@@ -32,6 +32,11 @@ for path in sorted(paths):
  content=(source/path).read_bytes();out=target/path;out.parent.mkdir(parents=True,exist_ok=True);out.write_bytes(content)
  assert hashlib.sha256(out.read_bytes()).digest()==hashlib.sha256(content).digest()
 print(f'Published {len(paths)} notes/metadata files; {len(data["topics"])} topics; {sum(f["status"]=="reviewed" for f in queue["files"])} reviewed daily PDFs. No downloaded files copied.')
+
+# Prune only superseded generated topic pages; authored data/Markdown remain.
+for t in data['topics']:
+ legacy=target/t['subject']/(t['id']+'.html')
+ if legacy.exists():legacy.unlink()
 
 # Refresh the shared entry point and return links after copying the snapshot.
 subprocess.run([sys.executable,str(repo/"tools"/"build_notes_home.py")],check=True)
