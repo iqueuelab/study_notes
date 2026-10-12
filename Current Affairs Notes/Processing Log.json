@@ -760,32 +760,107 @@
     {
       "date": "2025-02-05",
       "pdf": "2025/02-February/2025-02-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8809d2e9b03dca0c46ece3ef359c51bcdc942b5ae965204ea47d418e319d5a35",
+      "pages": 14,
+      "topic_ids": [
+        "citizenship",
+        "india-indonesia",
+        "preventive-health",
+        "tariff-trade",
+        "ambergris"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        14
+      ]
     },
     {
       "date": "2025-02-06",
       "pdf": "2025/02-February/2025-02-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6f5fc1db8ba692a88df2955fa7f8b1e91549e524150c4eaeeb1b376ea60d79e6",
+      "pages": 23,
+      "topic_ids": [
+        "imec",
+        "ongole",
+        "stryker-javelin",
+        "aiims-workforce",
+        "sacred-groves",
+        "western-ghats",
+        "upi"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-07",
       "pdf": "2025/02-February/2025-02-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b4989e490ec8ff9af2cad73c94076783e7cbdddc3712d939496fd53b551e973e",
+      "pages": 15,
+      "topic_ids": [
+        "pinaka",
+        "elt",
+        "thermal-emissions"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-09",
       "pdf": "2025/02-February/2025-02-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "1fc245dae2fb1a0b29e1feec4f484a1da6c526f22cdf96c71a8b2b79563976c8",
+      "pages": 13,
+      "topic_ids": [
+        "delhi-governance",
+        "heart-failure",
+        "welfare-fiscal",
+        "chabahar"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-10",
       "pdf": "2025/02-February/2025-02-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "046443a9fb2a8c548363a4d548f252bf2cd89800c67e724a74715ca3acd37647",
+      "pages": 24,
+      "topic_ids": [
+        "defence-industry",
+        "tiger-conservation",
+        "ashtamudi",
+        "pm-shri",
+        "nuclear-liability",
+        "gold-smuggling",
+        "special-state-provisions",
+        "railway-budget",
+        "urban-budget"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-11",
       "pdf": "2025/02-February/2025-02-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0fd70a23087415266eae68dd1cc25588c56dcc051dc30fa3ade885ffda311fba",
+      "pages": 26,
+      "topic_ids": [
+        "defence-industry",
+        "railway-budget",
+        "urban-budget",
+        "fighter-aircraft",
+        "india-uk-defence",
+        "bombay-blood",
+        "science-budget",
+        "lumpy-skin"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-12",
@@ -3569,7 +3644,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-02-05",
+  "next_pdf": "2025-02-12",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -3596,6 +3671,10 @@
     },
     {
       "date": "2025-02-02",
+      "status": "No PDF in current download queue; not reviewed. Verify Telegram issue availability."
+    },
+    {
+      "date": "2025-02-08",
       "status": "No PDF in current download queue; not reviewed. Verify Telegram issue availability."
     }
   ]

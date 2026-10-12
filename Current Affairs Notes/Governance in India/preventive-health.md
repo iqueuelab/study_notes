@@ -22,7 +22,12 @@
 - Public primary-care investment + affordable partnership delivery + community awareness; prioritise equity and cost-effective evidence-based prevention.
 - Track disease control, avoidable complications, out-of-pocket spending and rural coverage alongside screening volume.
 - PDF 'daily Mains' and practice questions are coaching exercises, not UPSC PYQs.
+## Cancer recall
+- **Hodgkin lymphoma:** lymphocyte malignancy with characteristic Reed–Sternberg cells; described by Thomas Hodgkin in **1832**. **Metastasis:** spread of malignant cells to distant sites.
+- **Mesothelioma:** malignancy of mesothelial lining, commonly pleura; asbestos exposure is a major risk. US **National Cancer Act, 1971**, associated with Nixon's “war on cancer”.
+- Tobacco, alcohol, unhealthy diet, inactivity and obesity are preventable risk factors. Source **22% tobacco-related cancer deaths / another 10% other lifestyle causes** are uncited estimates with overlapping risks; do not add them as universal present-day shares.
+
 
 ## PDF coverage
 
-2025-01-06: pp. 9, 10, 11, 12
+2025-01-06: pp. 9, 10, 11, 12 · 2025-02-05: pp. 6

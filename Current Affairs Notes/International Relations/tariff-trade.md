@@ -17,7 +17,14 @@
 - Strengthen manufacturing, standards, ports and diversified sourcing; evaluate PLI outcomes, not subsidy announcements alone.
 - Bilateral dialogue and lawful WTO-consistent trade remedies; anti-dumping requires evidence/investigation, not merely rising imports.
 - India's US **GSP benefits removed 2019**; restoration was a negotiating suggestion in source, not an accomplished February reform.
+## Tariff mechanics and February source traps
+- Example: imported car **$100**, domestic **$120**; **50% tariff** can raise import's landed price to **$150** if fully passed through. The importer pays customs; incidence is shared among exporters, importers and consumers according to market conditions.
+- Motives: protection, fiscal revenue, bargaining and encouraging local investment. Costs: dearer inputs/consumption, inefficient protection, retaliation, disrupted supply chains and uncertainty. Revenue can fall if imports collapse.
+- Cutting export price is **not automatically dumping**; dumping tests compare export price with normal value and require the applicable investigation. Simple repackaging does **not** lawfully change origin; circumvention/rules-of-origin enforcement matter.
+- Tariff-jumping FDI and exchange-rate adjustment are possible responses, not guaranteed compensation. Trade balances also reflect saving/investment and exchange rates, not tariffs alone.
+- **25% EU / 100% BRICS** in this PDF are threats/proposals, not the same implemented measures as the dated Canada/Mexico/China announcements. “Limited impact on India” is a forecast requiring sector exposure and indirect-channel analysis, not a settled result.
+
 
 ## PDF coverage
 
-2025-02-03: pp. 6, 7, 8, 9
+2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5

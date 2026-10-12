@@ -26,7 +26,11 @@
 - **M-STrIPES** supports patrol/ecological monitoring; conflict prevention, corridors, prey recovery, livelihood support and locally applicable compensation matter. Source “TOES” scheme name and uniform ₹5 lakh compensation are unverified.
 - **Global Tiger Initiative 2008**, **TX2** doubling ambition adopted 2010 for 2022; distinguish targets and census methods. WWF **73% decline** refers to average monitored vertebrate-population size **1970–2020**, not 73% of species becoming extinct.
 
+## NTCA institutional recall
+- Statutory **2006 wildlife-law amendment**, **MoEFCC**; Union Environment Minister chair, Minister of State vice-chair, **three MPs**, Ministry Secretary and other specified members.
+- Project Tiger oversight, Centre–State accountability/MoUs, parliamentary oversight and livelihood interests around reserves; NTCA is distinct from NBWL and State field administrations.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 25, 26, 27 · 2025-02-01: pp. 4, 5, 6, 7, 8, 9
+2025-01-01: pp. 25, 26, 27 · 2025-02-01: pp. 4, 5, 6, 7, 8, 9 · 2025-02-10: pp. 12, 13

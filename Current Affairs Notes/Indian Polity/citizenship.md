@@ -26,7 +26,13 @@
 
 - EO targeted specified children whose mother was unlawfully present or lawfully temporary and father neither US citizen nor lawful permanent resident, prospectively after a 30-day period; parental tests are more specific than “all foreign parents”. [20 January order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/).
 
+## US deportations: February 2025
+- **5 February 2025:** US military flight brought **104 Indians to Amritsar**, correcting the PDF's preliminary “around 200”. Nationality verification and acceptance of own citizens differ from endorsing detention/transport conditions. [Contemporaneous report](https://apnews.com/article/eb43d6fb6ba1f78febdd78b77bd36196).
+- Source **18,000** refers to a reported removal/enforcement population; not a census of all undocumented Indians in the US. Legal students/workers are not automatically undocumented migrants.
+- Balance sovereign immigration enforcement with due process, dignity, humane treatment, consular assistance and protection against trafficking; reintegration needs counselling, skills/jobs and action against fraudulent agents.
+- **Trump**, not Biden, was US President for this February 2025 sequence; Modi's impending visit was a diplomatic context, not proof of a settled deportation agreement.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1
+2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1 · 2025-02-05: pp. 1, 2, 3

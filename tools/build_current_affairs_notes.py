@@ -83,6 +83,16 @@ flows.update({
  'arunachal-glaciers':['Glacier retreat under changing climate','Some sites develop expanding lakes','Assess lake / moraine instability','Outburst can threaten downstream people and assets','Monitoring + warning + safe planning'],
  'mental-health-work':['Identify psychosocial risks with workers','Improve workload and working conditions','Offer confidential accessible care','Support treatment and return to work','Evaluate equity and outcomes'],
 })
+flows.update({
+ 'upi':['Authenticate payment request','NPCI routes between participating institutions','Account debit + beneficiary credit','Confirmation and transaction record','Resolve failures and fraud through accountable support'],
+ 'thermal-emissions':['Coal combustion emits SO2','FGD treats flue gas','Verify equipment operation and emissions','Disclose compliance and enforce standards','Protect health alongside cleaner generation'],
+ 'heart-failure':['Prevent risk and treat precursor disease','Recognise symptoms and refer','Confirm diagnosis and assess cause','Affordable evidence-based care + follow-up','Monitor outcomes and remove access barriers'],
+ 'nuclear-liability':['Nuclear incident causes covered damage','Operator compensates under applicable law','Specified right of recourse may apply','Assess supplier accountability and insurance','Independent safety oversight + victim protection'],
+ 'bombay-blood':['Identify Bombay phenotype and antibodies','Assess transfusion versus organ compatibility','Specialist desensitisation where appropriate','Monitor transplant and immunosuppression','Long-term follow-up + donor and recipient welfare'],
+ 'gold-smuggling':['Price / tax arbitrage and illicit funds','Cross-border criminal networks','Customs intelligence + lawful financial investigation','Trace assets and enforce accountability','Review incentives while supporting legitimate trade'],
+ 'railway-budget':['Allocate capital and maintenance resources','Deliver track, signalling and rolling stock','Verify safety and reliable capacity','Improve passenger and freight outcomes','Audit costs, utilisation and delivery'],
+ 'urban-budget':['Identify inclusive city service needs','Prepare viable projects and clear funding','Coordinate local capacity + State / Union support','Deliver mobility, housing and basic services','Audit access, costs and resilience'],
+})
 def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
 for i,t in enumerate(topics):
  folder=OUT/t['subject'];folder.mkdir(exist_ok=True)
@@ -105,6 +115,9 @@ for i,t in enumerate(topics):
  (folder/(t['id']+'.html')).write_text(shell(t['title'],body))
 queue=json.loads((OUT/'Processing Log.json').read_text());done=[x for x in queue['files'] if x['status']=='reviewed']
 body='<header><h1>Current Affairs</h1><button onclick="window.print()">Print / Save as PDF</button></header><p>'+str(len(done))+' of '+str(len(queue['files']))+' PDFs reviewed · '+str(len(topics))+' consolidated topics</p><div class="controls"><input id="search" placeholder="Search topics or facts" aria-label="Search notes"><select id="subject" aria-label="Subject"><option value="">All subjects</option>'+''.join('<option>'+html.escape(s)+'</option>' for s in sorted({t['subject'] for t in topics}))+'</select></div>'
+gaps=queue.get('review_gaps',[])
+if gaps:
+ body+='<details class="group"><summary>Review progress and missing issues<span class="count">'+str(len(gaps))+' gaps</span></summary><div class="group-content"><p>Next available PDF: '+html.escape(queue.get('next_pdf',''))+'</p><ul>'+''.join('<li>'+html.escape(g['date'])+' — '+html.escape(g['status'])+'</li>' for g in gaps)+'</ul></div></details>'
 body+='<nav class="compact-nav"><a href="#topics">Browse subjects</a><a href="#by-date">Browse dates</a><button id="expand" type="button">Expand sections</button><button id="collapse" type="button">Collapse all</button></nav><section id="topics"><h2>Topics by subject</h2><div class="subject-grid">'
 for subject in sorted({t['subject'] for t in topics}):
  members=[t for t in topics if t['subject']==subject]

@@ -38,7 +38,13 @@
 - **47 BLTs**, **Heavy Vehicles Factory, Armoured Vehicle Nigam Limited**, **₹1,560.52 crore** (source rounded **₹1,561 crore**), **Buy (Indian-IDDM)** procurement. [Defence Ministry](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2094857&lang=2&reg=48).
 - Mechanised formation **bridging obstacles** during offensive/defensive movement; bridge-laying support vehicle differs from a tank firing its main gun. Mobility, indigenous manufacture, jobs and reliable lifecycle support are the policy links.
 
+## Aero India 2025
+- **15th edition, 10–14 February, Yelahanka, Bengaluru**; source **931 exhibitors / 150 foreign companies / around 90 participating countries** are event figures, not continuing industry totals.
+- Su-57 and F-35 display, LCA/AMCA projects, **BRIDGE Defence Ministers' Conclave**, CEO roundtable and **iDEX** promote defence diplomacy, start-ups/MSMEs, supply chains and investment.
+- Source **₹1.27 lakh crore production / ~₹21,000 crore exports** refer to earlier reported annual performance; **₹1.60 lakh crore / ₹30,000 crore** figures are projections, not then-achieved FY2025–26 outcomes.
+- Jet-engine dependence, procurement delays, skills and IP/technology transfer remain constraints. Exhibition participation is not a procurement commitment; “Tejas production stabilised” should not erase delivery/engine bottlenecks.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13
+2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11
