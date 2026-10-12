@@ -14,7 +14,12 @@
 - Raw-material availability/cost, quality-control orders, logistics, skills and preferential trade access affect competitiveness; QCOs need quality benefits balanced with input availability.
 - Traceability, cleaner processing, renewable power, water efficiency and recycling help respond to buyer sustainability requirements. PMMITRA infrastructure and production incentives require implementation/results assessment.
 -2030 global fibre-demand figures and projected market values are forecasts, not achieved production.
+## Circular fashion
+- Source examples: **Panipat** textile recycling, **Bengaluru** waste-management innovations and **Tiruppur** cleaner production/wastewater work.
+- Repair → reuse/rental → upcycling → fibre recycling, where feasible; match each route to material quality and demand.
+- Mixed fibres, sorting, dyes, water/energy and transport affect actual benefits. Recycled textiles are not automatically impact-free; support worker safety, viable markets and responsible collection.
+
 
 ## PDF coverage
 
-2025-02-28: pp. 8, 9, 10, 11, 12
+2025-02-28: pp. 8, 9, 10, 11, 12 · 2025-03-31: pp. 2, 3

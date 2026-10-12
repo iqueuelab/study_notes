@@ -11,7 +11,11 @@
 - Tariff threats and an “External Revenue Service” proposal are not proof a new statutory agency or all levies had taken effect in February.
 - India's **2025 Budget was already presented on 1 February**; the PDF's “upcoming Budget” is stale. Market/currency predictions remain forecasts.
 - Mains approach: expand reciprocal, transparent cooperation while preserving strategic autonomy, data/technology safeguards and diversified partnerships.
+## Defence technology and autonomy
+- Engine delays and export/licensing constraints illustrate dependence on critical foreign subsystems; assess co-production, IP access, spares, supply-chain diversification and lifecycle support.
+- Partnership does not require abandoning independent decisions on other partners. SIPRI import-volume shares cannot be interpreted as shares of India's entire defence budget.
+
 
 ## PDF coverage
 
-2025-02-15: pp. 1, 2, 3, 4
+2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34

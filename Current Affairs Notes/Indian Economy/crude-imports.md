@@ -16,7 +16,12 @@
 - Source India **over 85% import dependence**, third-largest oil consumer; distinguish crude-import dependence from all-energy dependence.
 - Oil prices/import bill → current account, rupee, inflation, fiscal/subsidy pressures and transport/industrial costs. Diversification, strategic reserves, efficiency and cleaner alternatives strengthen energy security.
 - Source predicts weak Russian supplies early 2025 and possible **March–April 2025** rebound during refinery maintenance; forecasts, not verified subsequent outcomes.
+## Ballia: exploration is not a proven oilfield
+- March 2025 reporting concerned ONGC exploratory work near Sagarpali, **Ballia, Uttar Pradesh**. ONGC lists environmental clearance for **two exploratory wells** in the district's OALP-VI block. [ONGC clearance register](https://ongcindia.com/en/web/eng/sustainability/environment/environment-clearance).
+- An exploration lease/drilling plan, a geological indication, a resource estimate and a commercially recoverable reserve are separate stages. Do not label the location a confirmed “massive” producing field from the news alone.
+- Exploration may help supply diversification but economics, reservoir assessment and environmental/community safeguards determine feasibility. Import-dependence percentages require a specified reporting year and denominator.
+
 
 ## PDF coverage
 
-2025-01-14: pp. 10, 11, 12, 14, 17
+2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3

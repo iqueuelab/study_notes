@@ -46,7 +46,11 @@
 - Poshan/Anganwadi services and primary-care centres contribute to maternal/child nutrition and life-course screening; eligibility differs between programmes.
 - Combine diverse local diets, counselling, screening, treatment and follow-up. Fortification supports specific deficiencies but does not replace a balanced diet; evaluate outcomes rather than activity counts alone.
 
+## Yoga theme, 2025
+- International Day of Yoga 2025 theme: **Yoga for One Earth, One Health**; connects personal well-being with broader environmental awareness.
+- Yoga can support preventive well-being; the theme does not establish that it cures every disease or replaces clinical treatment. The technical **One Health** framework integrates human, animal and ecosystem health.
+
 
 ## PDF coverage
 
-2025-01-06: pp. 9, 10, 11, 12 · 2025-02-05: pp. 6 · 2025-02-27: pp. 23, 24, 25, 26, 27, 28, 29 · 2025-03-02: pp. 3, 4, 5, 6, 7 · 2025-03-08: pp. 6, 7, 8, 9 · 2025-03-17: pp. 20, 21, 22, 23, 36 · 2025-03-18: pp. 34, 35
+2025-01-06: pp. 9, 10, 11, 12 · 2025-02-05: pp. 6 · 2025-02-27: pp. 23, 24, 25, 26, 27, 28, 29 · 2025-03-02: pp. 3, 4, 5, 6, 7 · 2025-03-08: pp. 6, 7, 8, 9 · 2025-03-17: pp. 20, 21, 22, 23, 36 · 2025-03-18: pp. 34, 35 · 2025-03-31: pp. 3

@@ -1627,37 +1627,148 @@
     {
       "date": "2025-03-26",
       "pdf": "2025/03-March/2025-03-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ac23d8c19534ce380009b43ecfc9472da8e2bf882b386971c39281b644842051",
+      "pages": 9,
+      "topic_ids": [
+        "consular-death-row",
+        "anti-defection",
+        "bhadra"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-03-27",
       "pdf": "2025/03-March/2025-03-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a0cfa2b5c5c1eb0666770e76d128630f17b9f2990981c86ff5c7873fb2db6d9c",
+      "pages": 24,
+      "topic_ids": [
+        "fighter-aircraft",
+        "pac",
+        "pocso",
+        "parliamentary-committees",
+        "high-courts",
+        "pamban-crs"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-28",
       "pdf": "2025/03-March/2025-03-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b26664674ff5a3aab538e292a931dad5d7b0096ba78ad9997e93674f0c3e1fa2",
+      "pages": 34,
+      "topic_ids": [
+        "hazardous-waste",
+        "nag-mk2",
+        "india-us",
+        "cheetah",
+        "india-sri-lanka",
+        "small-modular-reactors",
+        "martian-dust",
+        "india-russia",
+        "hiv",
+        "prachand-prahaar",
+        "mountain-peaks",
+        "aviation-fuels",
+        "pm-aasha"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-29",
       "pdf": "2025/03-March/2025-03-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "56bd5da4d82b9de2a138285bffa9a83d39bbf9020a2ff52fc10b3b8d2f081423",
+      "pages": 63,
+      "topic_ids": [
+        "industrial-indicators",
+        "hazardous-waste",
+        "earthquakes",
+        "nag-mk2",
+        "fighter-aircraft",
+        "india-us",
+        "cheetah",
+        "india-sri-lanka",
+        "small-modular-reactors",
+        "martian-dust",
+        "india-russia",
+        "hiv",
+        "prachand-prahaar",
+        "mountain-peaks",
+        "aviation-fuels",
+        "pm-aasha",
+        "contempt",
+        "lch",
+        "drones-uav",
+        "rrb",
+        "financial-bills",
+        "vikramshila",
+        "turkiye"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-30",
       "pdf": "2025/03-March/2025-03-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "995e2567d087123b3d594af36110c94488bad25579fb893df4d1fa8eeac25a67",
+      "pages": 15,
+      "topic_ids": [
+        "crude-imports",
+        "digital-content",
+        "sspe",
+        "rocket-propulsion",
+        "xenotransplantation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-31",
       "pdf": "2025/03-March/2025-03-31.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "42be2b66b120f92db1e2134aeb620e4c6b8962051bebd0aa5990a172e8d2254b",
+      "pages": 24,
+      "topic_ids": [
+        "groundwater",
+        "preventive-health",
+        "textile-industry",
+        "judicial-reform",
+        "parker-solar",
+        "uranium-enrichment",
+        "nep-governance",
+        "pcm",
+        "superconductors"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-01",
       "pdf": "2025/04-April/2025-04-01.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b334401e3cf7023400aff2f8c42002aa8a06ef97166de66d57540037766a07ce",
+      "pages": 21,
+      "topic_ids": [
+        "osteoporosis",
+        "western-ghats",
+        "women-public-spaces",
+        "waqf",
+        "tiger-triumph",
+        "tourism",
+        "bipolar"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-02",
@@ -4196,7 +4307,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-03-26",
+  "next_pdf": "2025-04-02",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

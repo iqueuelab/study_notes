@@ -15,7 +15,12 @@
 - Malimath Committee **2003** concerned criminal-justice reform; recommendations are not automatically law. *Vineet Narain* focuses on independence/accountability of investigation, not a generic judicial-performance ranking.
 - Combine quality, rights, timeliness and access in evaluation; mandatory disposal quotas can harm fair hearings.
 
+## All-India judicial service: proposal versus existing law
+- Article **312 already authorises an all-India judicial service**, subject to its conditions; it cannot include posts below district judge. This is different from creating a UPSC selection system for SC/HC judges.
+- Changing higher-court appointment rules involves Articles 124/217 and constitutional requirements; a proposal does not prove all those Articles must be amended simply to create district-level AIJS.
+- Common recruitment/training may widen access and consistency; concerns include federal judicial administration, local language, diversity and independence. Competitive exams alone do not eliminate corruption or guarantee executive insulation.
+
 
 ## PDF coverage
 
-2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19
+2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19 · 2025-03-31: pp. 14, 15, 16

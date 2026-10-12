@@ -30,7 +30,12 @@
 - Redundant lifelines, NDRF/local readiness, drills, shelters, trained medical response and accessible alerts. Improve affordable insurance/risk finance without assuming no existing earthquake cover is available.
 - Mains: **hazard cannot be prevented →reduce exposure/vulnerability →prepare response and recovery**; the supplied 150-word prompt is coaching practice.
 
+## Seismic recall
+- Focus/hypocentre is the underground origin; epicentre lies above it on the surface. **P waves** travel through solids/liquids; **S waves** through solids; Love/Rayleigh surface waves often cause damaging motion.
+- Magnitude describes event size and is logarithmic; intensity describes local effects and varies by location. Depth, buildings, soils and distance shape damage.
+- India's seismic zones are **II, III, IV and V** in the standard map, with V highest hazard; the current scheme has no zone I. Intraplate earthquakes also occur, not only boundary events.
+
 
 ## PDF coverage
 
-2025-01-08: pp. 25 · 2025-02-19: pp. 17, 18, 19, 20
+2025-01-08: pp. 25 · 2025-02-19: pp. 17, 18, 19, 20 · 2025-03-29: pp. 34, 35

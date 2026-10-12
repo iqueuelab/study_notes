@@ -13,6 +13,19 @@
         "d": "3 only"
       },
       "answer": "d"
+    },
+    {
+      "year": 2022,
+      "chapter": "Contempt of court",
+      "question": "Consider the following statements:\n1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed.\n2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves.\n3. The Constitution of India defines Civil Contempt and Criminal Contempt.\n4. In India, the Parliament is vested with the powers to make laws on Contempt of Court.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1, 2 and 4",
+        "c": "3 and 4 only",
+        "d": "3 only"
+      },
+      "answer": "b",
+      "explanation": "The Act, not the Constitution, defines civil and criminal contempt. Constitutional contempt powers and Parliamentary legislative competence make statements 1, 2 and 4 correct."
     }
   ]
 }

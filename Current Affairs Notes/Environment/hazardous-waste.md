@@ -31,7 +31,12 @@
 - Transparent trial-emission results, independent water/health monitoring, ash characterisation, protected landfill and public communication; liners require long-term maintenance. Incineration destroys suitable organics but leaves **ash/residues**, not zero waste.
 - Court dates, six-week allowance and **18 February hearing** are January procedural context, not proof disposal completed within that period.
 
+## Bhopal waste recall
+- The Union Carbide plant made **pesticides**, not fertiliser. Pithampur waste disposal involves transport, controlled trial incineration, emissions monitoring and safe residue disposal.
+- Distinguish an incinerator's **kg/hour feed rate** from total batch mass; inconsistent totals and stale future dates in the source should not be memorised.
+- Independent air/water/dioxin testing, lined ash disposal, transparent public reporting and community engagement are needed; moving waste alone neither proves safety nor resolves historical contamination.
+
 
 ## PDF coverage
 
-2025-01-08: pp. 8, 9, 10, 11, 12, 13 · 2025-01-20: pp. 5, 6, 7 · 2025-01-26: pp. 2 · 2025-02-14: pp. 6, 7, 8, 9
+2025-01-08: pp. 8, 9, 10, 11, 12, 13 · 2025-01-20: pp. 5, 6, 7 · 2025-01-26: pp. 2 · 2025-02-14: pp. 6, 7, 8, 9 · 2025-03-28: pp. 16, 17, 18 · 2025-03-29: pp. 16, 17, 18

@@ -25,7 +25,13 @@
 - Monitor hotspots and disclose water quality → reduce fertiliser losses and repair sanitation → enforce industrial waste controls → provide safe alternative drinking water → recharge with quality safeguards.
 - Combine metering/water budgets, efficient irrigation, community participation and demand management; recharge alone cannot offset unlimited extraction.
 - Benefits: health protection, reliable food production, lower treatment costs and reduced ecological damage. Avoid recharge structures that inject contaminated runoff.
+## Water conservation and community action
+- March 30, 2025 Mann Ki Baat reporting cited **over 11 billion cubic metres saved in seven–eight years**; this is a reported cumulative figure, not direct proof every aquifer recovered by that amount.
+- Rainwater harvesting, wastewater reuse, demand management, watershed restoration and traditional **johads (Rajasthan)** can improve local water security. Maharashtra's **Jalyukt Shivar** is a water-conservation initiative.
+- Jal Shakti Abhiyan/Catch the Rain, Atal Bhujal Yojana groundwater management and Namami Gange water-quality work have different scopes; do not equate recharge, storage and pollution reduction.
+- Monitor water balance and quality, maintain recharge structures, consult communities and adapt crops/industrial demand; capture alone cannot offset unlimited extraction.
+
 
 ## PDF coverage
 
-2025-01-05: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-01-19: pp. 3, 20, 21
+2025-01-05: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-01-19: pp. 3, 20, 21 · 2025-03-31: pp. 1, 2, 3

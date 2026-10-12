@@ -181,6 +181,18 @@
         "2025-03-25"
       ],
       "finding": "Six supplied PYQs stored in common subject prelims files. Mediterranean (2017), Jordan/Golan (2015), two-state (2018) and Tea Board (2022) checked against original local UPSC papers using OCR; Yom Kippur (2008) retained from the dated source question. Two-state source year corrected. Undated daily coaching prompts are not assigned exam years; wrong TB campaign practice answer corrected in notes."
+    },
+    {
+      "dates": [
+        "2025-03-26",
+        "2025-03-27",
+        "2025-03-28",
+        "2025-03-29",
+        "2025-03-30",
+        "2025-03-31",
+        "2025-04-01"
+      ],
+      "finding": "Undated daily practice and essay prompts reviewed; no invented UPSC years. March 29 reprint merged with March 28 topics. Two 2022 prelims questions (contempt and solar storm) checked against original paper."
     }
   ]
 }

@@ -24,7 +24,15 @@
 ## Governance
 - Plantations, mining, roads, dams and unmanaged tourism can combine with intense rain to increase fragmentation, landslide/flood risk and displacement.
 - FRA **2006**, meaningful Gram Sabha involvement, land-use alternatives, cumulative impact assessment, native habitat restoration and community-benefiting tourism link ecological resilience with cultural rights.
+## Geography and committee recall
+- Sahyadri/Western Ghats traverse **Gujarat, Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu**, broadly from the Tapi region towards Kanyakumari; do not extend the main range to Satpura indiscriminately.
+- **Western Ghats–Sri Lanka** is one global biodiversity hotspot. UNESCO **2012** listing comprises **39 serial sites**, not blanket designation of the entire range. Wayanad is a **wildlife sanctuary**, not a combined “Wayanad–Mudumalai National Park”.
+- **Gadgil/WGEEP (2011)** favoured graded ecological sensitivity across the Ghats with community participation; **Kasturirangan (2013)** distinguished natural/cultural landscapes and identified roughly 37% as ecologically sensitive. Recommendations, draft ESA notifications and final operative restrictions are different.
+- Eastward basin anchors: **Godavari, Krishna, Kaveri**; Tunga/Bhadra are tributaries. Westward: **Periyar, Bharathapuzha, Netravati, Sharavathi, Mandovi**.
+- Passes: **Thal/Kasara, Bhor, Palakkad, Amba, Amboli**. Shola–grassland mosaics support endemic biodiversity and catchments.
+- Mining, forest conversion, plantations and habitat fragmentation affect hydrology/conflict; governance must account for indigenous livelihoods, consultation and site-specific risk. Geological age is not the age of individual trees.
+
 
 ## PDF coverage
 
-2025-02-06: pp. 14, 15, 16, 17, 18
+2025-02-06: pp. 14, 15, 16, 17, 18 · 2025-04-01: pp. 9, 10, 11, 12, 13

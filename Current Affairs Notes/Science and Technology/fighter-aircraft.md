@@ -46,7 +46,13 @@
 - India's sanctioned fighter strength is 42 squadrons; MRFA 114-aircraft proposals are not completed procurement. LCA Mk1A production and Mk2 development are distinct.
 - Readiness also depends on engines, spares, weapons, training, airborne warning, logistics and delivery capacity—not aircraft counts alone.
 
+## Tejas variants: avoid mixing specifications
+- Programme launched in 1983; ADA established in 1984; Tejas achieved final operational clearance in 2019. **HF-24 Marut preceded it** as an indigenous fighter.
+- Mk1/Mk1A use the **GE F404 family**; **Mk2 plans use F414**. Mk1A improvements do not mean it has already switched to F414.
+- Ferry range differs from combat radius and depends on configuration. Naval LCA is a technology demonstrator, not an inducted carrier fighter fleet; TEDBF is a separate development programme.
+- Engine supply, domestic subsystems, certification, production capacity and maintenance determine operational readiness, beyond an order announcement.
+
 
 ## PDF coverage
 
-2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26 · 2025-03-18: pp. 1, 2, 3, 4, 5, 6, 7
+2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26 · 2025-03-18: pp. 1, 2, 3, 4, 5, 6, 7 · 2025-03-27: pp. 6, 7, 8, 9 · 2025-03-29: pp. 38, 39
