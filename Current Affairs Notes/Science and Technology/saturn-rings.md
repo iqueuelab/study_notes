@@ -19,7 +19,13 @@
 - **Pioneer 11 1979; Voyager 1 1980 /2 1981; Cassini 2004–2017**, Huygens Titan landing **2005**. Europa is **Jupiter's** moon; Clipper launched **October 2024**.
 - Source **Dragonfly 2027** timetable is outdated: NASA plans **2028 launch**; distinguish launch from Titan arrival. [NASA Dragonfly](https://science.nasa.gov/mission/dragonfly/).
 - Practice: Saturn has no solid surface; Enceladus's ocean/plumes distinguish it from Titan and Saturn's atmospheric hexagon.
+## March 2025 moon census
+- Recognition of **128 additional moons** brought Saturn's confirmed total to **274 in March 2025**. Moon counts change with discoveries; this is a dated census. [NASA](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html).
+- Edward Ashton's team used Canada–France–Hawaii Telescope observations and image stacking to detect faint objects; multi-epoch tracking establishes orbits.
+- The new moons are small irregular satellites, often in distant inclined/retrograde orbits, unlike large regular satellites such as Titan and Rhea.
+- Orbital groups and fragments help reconstruct capture and collision histories. Proposed explanations for Saturn–Jupiter count differences are hypotheses, not a rule that all Jupiter moons are rocky.
+
 
 ## PDF coverage
 
-2025-02-19: pp. 11, 12, 13, 14, 15, 16, 17
+2025-02-19: pp. 11, 12, 13, 14, 15, 16, 17 · 2025-03-19: pp. 1, 2, 3

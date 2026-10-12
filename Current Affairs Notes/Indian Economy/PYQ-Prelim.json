@@ -56,6 +56,19 @@
         "Monazite occurs naturally in the entire Indian coastal sands in India.",
         "In India, Government bodies only can process or export monazite."
       ]
+    },
+    {
+      "year": 2022,
+      "chapter": "National Turmeric Board and commodity boards",
+      "question": "With reference to the \"Tea Board\" in India, consider the following statements:\n1. The Tea Board is a statutory body.\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.\n3. The Tea Board's Head Office is situated in Bengaluru.\n4. The Board has overseas offices at Dubai and Moscow.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 3",
+        "b": "2 and 4",
+        "c": "3 and 4",
+        "d": "1 and 4"
+      },
+      "answer": "d",
+      "explanation": "Tea Board is statutory under the Tea Act 1953, under Commerce and Industry, headquartered in Kolkata; statement 4 refers to the exam-year offices."
     }
   ]
 }

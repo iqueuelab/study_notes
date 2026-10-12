@@ -15,7 +15,14 @@
 - Source's techno-patrimonialism/DBT-electoral-loyalty link is a political interpretation, not established proof every transfer purchases loyalty.
 - International examples have different scopes: MPA ratings are not universal US statutory OTT censorship; EU on-demand obligations are not identical to every broadcasting rule.
 - Improve grievance handling, media literacy and child safeguards while preserving lawful dissent and consistent, proportionate enforcement.
+## X petition and Sahyog: March 2025
+- IT Act **section 69A** concerns blocking public access with specified grounds and rules; **section 79** concerns conditional intermediary immunity/safe harbour.
+- *Shreya Singhal* (2015) upheld 69A with safeguards and read section 79 actual knowledge narrowly around court orders or appropriate government notification, linked to Article 19(2).
+- X alleged section 79 notices/Sahyog bypassed 69A safeguards; government characterised them as liability notices and coordination. These were **litigating positions**, not a final March 2025 judgment.
+- A portal does not create unlimited powers for every police officer. Assess statutory authority, reasons, notice/hearing, review, transparency and remedy against unlawful removal.
+- Prompt lawful action on illegal content and protection from arbitrary censorship require clear procedures; blocking, takedown and immunity loss are different legal effects.
+
 
 ## PDF coverage
 
-2025-02-19: pp. 27, 28, 29, 30 · 2025-02-20: pp. 21, 22, 23 · 2025-02-21: pp. 9, 10, 11, 12, 13, 14, 20, 21, 22, 23 · 2025-02-24: pp. 19, 20, 21, 22 · 2025-02-26: pp. 8, 9, 10, 11 · 2025-03-04: pp. 23, 24, 25, 26
+2025-02-19: pp. 27, 28, 29, 30 · 2025-02-20: pp. 21, 22, 23 · 2025-02-21: pp. 9, 10, 11, 12, 13, 14, 20, 21, 22, 23 · 2025-02-24: pp. 19, 20, 21, 22 · 2025-02-26: pp. 8, 9, 10, 11 · 2025-03-04: pp. 23, 24, 25, 26 · 2025-03-21: pp. 17, 18, 19

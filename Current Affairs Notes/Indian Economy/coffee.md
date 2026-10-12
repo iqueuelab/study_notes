@@ -21,7 +21,15 @@
 - **Coffee Act 1942; Coffee Board, Bengaluru**, 33 members. Chairperson and executive/Secretary roles should not be conflated.
 - Source 65–70% export share is dated; contradictory production-rank lists should not be memorised. Quality, price volatility, pests, labour and climate resilience influence growers.
 
+## Export update and production geography
+- Source April–February **2024–25 export receipts: US$1.54 billion**, about 40% higher year on year. Revenue growth can reflect higher prices as well as quantities; it is not automatically a 40% production rise.
+- Karnataka supplies roughly 70% of India's coffee; Kerala and Tamil Nadu are other major producers, with non-traditional areas including the Eastern Ghats.
+- Shade cultivation, well-drained soils, rainfall and elevation matter; **Arabica and Robusta have different climatic tolerances**. Coffee rust is a fungal disease, not an insect pest.
+- Source says more than two-thirds exported; destination shares/rankings require the same period. Brazil/Vietnam weather-related supply pressure can benefit receipts while global-price volatility remains a farmer risk.
+- Coffee Board dates to **Coffee Act 1942**, Commerce Ministry. Do not infer a dedicated coffee PLI from a general manufacturing incentive, or an already operative India–EU FTA in March 2025.
+- Value addition, speciality quality, resilient varieties, responsible shade management, market access and domestic demand support incomes; foreign-exchange earnings do not alone fix the current account.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 3, 4 · 2025-01-03: pp. 8, 9, 10, 11 · 2025-03-02: pp. 8, 9, 10, 11, 12, 13, 14
+2025-01-01: pp. 3, 4 · 2025-01-03: pp. 8, 9, 10, 11 · 2025-03-02: pp. 8, 9, 10, 11, 12, 13, 14 · 2025-03-22: pp. 1, 2, 3, 4

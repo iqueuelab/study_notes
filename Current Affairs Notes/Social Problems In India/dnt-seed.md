@@ -32,7 +32,15 @@
 - Repeat coverage highlights certificate denial, poorly classified communities, outreach delays, overlapping-benefit checks and limited representation. Source's **“29 states”** and absence of a full-time board chair are dated claims, not verified universal present conditions.
 - Prioritise mobile documentation camps, State-specific classification, community participation and transparent SEED uptake; distinguish catalogue estimates from census totals.
 
+## Habitual-offender laws and inherited stigma
+- Criminal Tribes Act **1871**, expanded/reworked in 1924, imposed collective colonial criminalisation; repeal in **1952** denotified communities. Criminality cannot be inherited from community identity.
+- State habitual-offender laws generally use repeated conduct/convictions, but discriminatory definitions, prison manuals and enforcement can reproduce earlier stigma. Wording and safeguards differ by State.
+- *Sukanya Shantha v. Union of India*, **3 October 2024**, rejected caste-based prison discrimination and addressed misuse of habitual-offender categorisation—not October 2023. [Supreme Court judgment](https://api.sci.gov.in/supremecourt/2023/51059/51059_2023_1_1502_56228_Judgement_03-Oct-2024.pdf).
+- Budhan Sabar's **1998** custodial death became a mobilisation anchor; reform advocacy involved Mahasweta Devi/G. N. Devy, NHRC, CERD and commissions including Renke (2008) and Xaxa (2014).
+- Source NCRB 2022 classification rates describe recorded convicted prisoners, not the proportion of an entire community committing crime. No recent cases under a law does not mean formal repeal.
+- Review discriminatory statutes/manuals; require individual evidence, due process and oversight; combine legal aid, documentation and non-stigmatising inclusion rather than community-based surveillance.
+
 
 ## PDF coverage
 
-2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42 · 2025-01-29: pp. 20, 21, 22, 23
+2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42 · 2025-01-29: pp. 20, 21, 22, 23 · 2025-03-21: pp. 25, 26, 27, 28

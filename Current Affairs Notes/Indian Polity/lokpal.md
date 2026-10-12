@@ -26,7 +26,16 @@
 
 - [Supreme Court20 February2025 order](https://api.sci.gov.in/supremecourt/2025/9527/9527_2025_2_301_59727_Order_20-Feb-2025.pdf): stay of the disputed Lokpal order; preserve distinction between interim relief and final ruling.
 
+## High Court judges: jurisdiction dispute
+- Lokpal's January 2025 order claimed jurisdiction over High Court judges through section 14(1)(f); the Supreme Court stayed that order in February. **A stayed interpretation is not settled law**.
+- The argument that older High Courts originated in colonial statutes was contested; constitutional High Court status cannot be reduced to their historical origins.
+- Being a public servant under anti-corruption law does not automatically establish jurisdiction under every investigatory statute. Judicial independence does not give immunity from corruption investigation.
+- *K. Veeraswami* (1991) recognised anti-corruption accountability with safeguards involving consultation with the CJI; it should not be simplified to unrestricted executive investigation.
+- Removal is a separate constitutional process: Presidential order after each House's special-majority address on proved misbehaviour/incapacity; Article 124(4), with Article 217/218 for High Courts. An inquiry or transfer is not removal.
+- Lokpal consists of a chairperson and **up to eight** members, at least half judicial; statutory social-representation requirements apply. PM-related exclusions and full-bench two-thirds approval safeguards remain important.
+- Its CBI supervision relates to referred cases, not blanket command over all CBI work; attachment/confiscation and prosecution involve statutory procedures, not arbitrary seizure.
+
 
 ## PDF coverage
 
-2025-01-20: pp. 18, 19, 20, 23, 25 · 2025-01-26: pp. 4, 5 · 2025-02-21: pp. 1, 2, 3, 4, 5, 26, 27, 28
+2025-01-20: pp. 18, 19, 20, 23, 25 · 2025-01-26: pp. 4, 5 · 2025-02-21: pp. 1, 2, 3, 4, 5, 26, 27, 28 · 2025-03-19: pp. 6, 7, 8, 9, 10, 11, 12, 13

@@ -13,7 +13,18 @@
 - January 17 source describes pending Israeli Cabinet approval. **Ceasefire began 19 January 2025**; phase one lasted to **1 March**. This does not establish all later phases implemented. [UN response review](https://www.ochaopt.org/content/report-humanitarian-response-un-and-humanitarian-partners-during-phase-one-ceasefire).
 - Obstacles: sequencing, verification, prisoner/hostage categories, security conditions, domestic coalition pressures, access and reconstruction finance. Source's claim that war strengthened one politician is commentary, not a settled causal fact.
 - Mains: protect civilians, lawful humanitarian access, credible monitoring, return/reconstruction and negotiated durable political settlement.
+## Gaza geography and historical anchors
+- Coastal enclave of roughly 365 sq km: Mediterranean to the west, Israel to north/east and Egypt to south-west; densely populated and dependent on external supplies.
+- Egyptian administration followed the 1948 war; Israel captured Gaza in 1967. Oslo arrangements (1993–95) envisaged Palestinian self-government; Israel withdrew settlements in 2005; Hamas took control in 2007.
+- Withdrawal of settlements does not itself settle Gaza's international-law occupation status. Border control and humanitarian access vary during conflict; Rafah has Egyptian and Gaza sides, not one permanently unchanged controller.
+- Erez and Kerem Shalom are Israel-side crossings; Rafah is the Egypt-border crossing. Blockade, warfare and damaged water/health infrastructure affect civilians and livelihoods.
+- India supports a negotiated **two-state solution**, maintains ties with Israel and Palestine, and assists Palestinian civilians, including through UNRWA.
+## PYQ map recall
+- Yom Kippur War, 1973: Israel versus Arab forces led by Egypt and Syria.
+- Lebanon and Syria border the Mediterranean; Jordan and Iraq do not. Golan Heights belong to the Middle East context.
+- The supplied “two-state solution” question is from **2018**, not the printed 2008 label.
+
 
 ## PDF coverage
 
-2025-01-17: pp. 14, 15, 16
+2025-01-17: pp. 14, 15, 16 · 2025-03-19: pp. 13, 14, 15, 16, 17, 18

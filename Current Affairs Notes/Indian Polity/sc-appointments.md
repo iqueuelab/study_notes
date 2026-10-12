@@ -30,7 +30,13 @@
 - Source cites USA/Poland/Spain as comparisons; jurisdictions have different ordinary/constitutional court pathways, so they are not identical Indian models.
 - Fill vacancies promptly while preserving independence; workload/process reform and support staff matter alongside appointments. Adding academics alone cannot erase the backlog.
 
+## Transfers and in-house accountability
+- High Court transfers are governed by **Article 222**, with President acting after constitutionally required consultation, informed by the collegium jurisprudence. Articles 124/217 alone are not the transfer provision.
+- Collegium consultation with relevant judges/Chief Justices is distinct from an in-house inquiry into allegations. Transfer is neither conviction nor a substitute for accountability.
+- The Supreme Court's March 2025 account distinguished the proposed Yashwant Varma transfer from the inquiry. On **22 March**, a three-member inquiry committee was announced; allegations require a fair opportunity to respond. [Supreme Court release](https://www.sci.gov.in/press-release-dated-march-22-2025/).
+- For an HC judge, the in-house committee ordinarily includes two HC Chief Justices and one HC judge. Natural justice, confidentiality where justified, transparent institutional action and constitutional removal procedures are complementary safeguards.
+
 
 ## PDF coverage
 
-2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7
+2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7 · 2025-03-22: pp. 5, 6, 7

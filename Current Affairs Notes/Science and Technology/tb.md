@@ -21,7 +21,25 @@
 - **Nikshay Poshan support ₹1, 000/month from November 2024**, not stale ₹500. [2024 Healthreview](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/dec/doc20241228477601.pdf).
 - Screening→confirm diagnosis→appropriate treatment→nutrition/adherence→follow-up; addressdrug resistance, stigma andhouseholdbarriers. Global 2030 reductiontargets are not literalcomplete world eradication.
 
+## Gender-sensitive TB services
+- Higher male notifications reflect exposure and detection patterns; they do not prove women face no burden. Stigma, financial dependence, unpaid care and fear of rejection can delay women's diagnosis/treatment.
+- COVID disruption, weak outreach and benefit delays compound barriers. Disaggregate notifications and treatment outcomes while recognising under-detection.
+- Strengthen confidential counselling, accessible screening/referral, nutrition, mental-health support, workplace protection and timely entitlements; SHGs can support adherence without exposing private diagnoses.
+- Nikshay Poshan assistance was **₹1,000/month** in this source period. Proposed extra incentives or microcredit are recommendations, not universally available scheme benefits.
+
+## Repeated campaign sheet: corrections
+- The 100-day campaign began **7 December 2024**, not 2023; source-era Nikshay Poshan support was **₹1,000**, not ₹500.
+- The practice sheet's answer including a 2023 launch is therefore wrong: with its printed statements, **3 and 4 only** is the correct combination.
+- Case finding demonstrates improved detection, not completed elimination; district counts need consistent launch/expanded-coverage definitions.
+
+## Genomic surveillance
+- **Dare2eraD TB**, launched in 2022: DBT-supported work with CSIR/ICMR laboratories. Source milestone: 10,000 bacterial genome samples sequenced toward a **32,500** target through the Indian TB Genomic Surveillance consortium.
+- Sequencing identifies *M. tuberculosis* diversity/resistance-associated mutations and informs diagnostics/transmission analysis; this is not sequencing 10,000 human genomes.
+- Reported 7% resistance in the sequenced sample is not automatically national prevalence. Sampling and representativeness matter; AI-assisted diagnostic-time improvements require validation against appropriate tests.
+- **Latent TB infection does not transmit TB**; progression to active infectious disease creates future risk. Subclinical active TB is a separate category. [CDC](https://www.cdc.gov/tb/about/inactive-tuberculosis.html).
+- Elimination threshold (<1 case per million per year), India's 2025 ambition and WHO End TB percentage-reduction targets are distinct; the source's incidence comparison is not proof elimination was reached.
+
 
 ## PDF coverage
 
-2025-01-24: pp. 5, 6, 7, 8 · 2025-03-11: pp. 21, 22, 23, 24, 26, 27, 32, 33
+2025-01-24: pp. 5, 6, 7, 8 · 2025-03-11: pp. 21, 22, 23, 24, 26, 27, 32, 33 · 2025-03-21: pp. 20, 21, 22, 23 · 2025-03-24: pp. 9, 10, 11, 20, 21 · 2025-03-25: pp. 14, 15, 16, 17, 18

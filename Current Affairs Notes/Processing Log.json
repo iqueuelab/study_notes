@@ -1490,37 +1490,139 @@
     {
       "date": "2025-03-19",
       "pdf": "2025/03-March/2025-03-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "cb69ab406a93931f55c7db6f43db865713dcfe4e9388631713c6a7767b788f9c",
+      "pages": 27,
+      "topic_ids": [
+        "gaza-ceasefire",
+        "lokpal",
+        "saturn-rings",
+        "india-new-zealand",
+        "satellite-broadband",
+        "india-china",
+        "free-speech-survey",
+        "gig-work"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-20",
       "pdf": "2025/03-March/2025-03-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "10d6049435e0677300bbd5c7f0a66b7496e57fcbd5cab56ccf7c8cbc2b0294ca",
+      "pages": 54,
+      "topic_ids": [
+        "women-public-spaces",
+        "iucn-green-list",
+        "cag",
+        "pm-internship",
+        "oams",
+        "bodo-accord",
+        "bis",
+        "caracal",
+        "meteorites",
+        "biodiversity-plans",
+        "hku1",
+        "sspe",
+        "bar-council",
+        "kanger-valley",
+        "mount-fuji",
+        "geological-hydrogen"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-21",
       "pdf": "2025/03-March/2025-03-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e76ccc5c841e4aa4933f024284839b7c5cf2950ce948b46524f21fb17797d07a",
+      "pages": 28,
+      "topic_ids": [
+        "left-wing-extremism",
+        "dnt-seed",
+        "turmeric-board",
+        "tb",
+        "digital-content",
+        "atags",
+        "multilateralism",
+        "immigrant-protest",
+        "digital-competition"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-22",
       "pdf": "2025/03-March/2025-03-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "aed4af5f079ce5e1598d23274578fb9fede41b70c07d2e7ae03af684613797e3",
+      "pages": 15,
+      "topic_ids": [
+        "coffee",
+        "sc-appointments",
+        "admm-counterterror",
+        "gm-crops",
+        "byadagi-chilli"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-23",
       "pdf": "2025/03-March/2025-03-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6483cb01930227ac10b6be2ba934d9bde011b1e34bed82ccec2f3c56a5be6c01",
+      "pages": 21,
+      "topic_ids": [
+        "fertiliser-subsidy",
+        "high-income-2047",
+        "judicial-reform",
+        "rushikonda-idol",
+        "tauktae-incois",
+        "tavasya",
+        "jackfruit"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-24",
       "pdf": "2025/03-March/2025-03-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "822d47b222f092a5c9e269d4ccdcf8a879dcd2a276b909fc37228e654e548652",
+      "pages": 22,
+      "topic_ids": [
+        "tb",
+        "judicial-reform",
+        "trade-remedies",
+        "lapis-lazuli",
+        "carnatic-awards"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-25",
       "pdf": "2025/03-March/2025-03-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a4a1c9992b92a0beccd216ff207a97247eb21468728a746f66e45f7fb9d643d8",
+      "pages": 23,
+      "topic_ids": [
+        "notto",
+        "tb",
+        "tulip-garden",
+        "gold-deposits",
+        "africa-maritime",
+        "permafrost",
+        "glacier-loss"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-03-26",
@@ -4094,7 +4196,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-03-19",
+  "next_pdf": "2025-03-26",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

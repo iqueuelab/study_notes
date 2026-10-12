@@ -43,6 +43,45 @@
         "Lebanon — Severe and prolonged economic depression",
         "Tunisia — Suspension of Parliament by President"
       ]
+    },
+    {
+      "year": 2008,
+      "chapter": "Gaza and the Israel–Palestine conflict",
+      "question": "Yom Kippur War was fought between which sides/countries?",
+      "options": {
+        "a": "Turkey and Greece",
+        "b": "Serbs and Croats",
+        "c": "Israel, and Arab countries led by Egypt and Syria",
+        "d": "Iran and Iraq"
+      },
+      "answer": "c",
+      "explanation": "The 1973 war involved Israel and Arab forces led by Egypt and Syria."
+    },
+    {
+      "year": 2015,
+      "chapter": "Gaza and the Israel–Palestine conflict",
+      "question": "The area known as 'Golan Heights' sometimes appears in the news in the context of the events related to",
+      "options": {
+        "a": "Central Asia",
+        "b": "Middle East",
+        "c": "South-East Asia",
+        "d": "Central Africa"
+      },
+      "answer": "b",
+      "explanation": "Golan Heights lie in the Middle East, in the Israel–Syria context."
+    },
+    {
+      "year": 2018,
+      "chapter": "Gaza and the Israel–Palestine conflict",
+      "question": "The term \"two-state solution\" is sometimes mentioned in the news in the context of the affairs of",
+      "options": {
+        "a": "China",
+        "b": "Israel",
+        "c": "Iraq",
+        "d": "Yemen"
+      },
+      "answer": "b",
+      "explanation": "It refers to Israel and an independent Palestinian State. The supplied 2008 label was incorrect."
     }
   ]
 }

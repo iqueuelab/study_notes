@@ -1,5 +1,32 @@
 {
   "subject": "India & World Geography",
   "exam_stage": "Prelim",
-  "questions": []
+  "questions": [
+    {
+      "year": 2017,
+      "chapter": "Gaza and Mediterranean geography",
+      "question": "Mediterranean Sea is a border of which of the following countries?\n1. Jordan\n2. Iraq\n3. Lebanon\n4. Syria\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 3 only",
+        "b": "2 and 3 only",
+        "c": "3 and 4 only",
+        "d": "1, 3 and 4 only"
+      },
+      "answer": "c",
+      "explanation": "Lebanon and Syria have Mediterranean coastlines; Jordan and Iraq do not."
+    },
+    {
+      "year": 2015,
+      "chapter": "Gaza and Mediterranean geography",
+      "question": "Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea?",
+      "options": {
+        "a": "Syria",
+        "b": "Jordan",
+        "c": "Lebanon",
+        "d": "Israel"
+      },
+      "answer": "b",
+      "explanation": "Jordan opens to the Gulf of Aqaba in the Red Sea, not the Mediterranean."
+    }
+  ]
 }

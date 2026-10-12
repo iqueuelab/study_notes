@@ -24,7 +24,14 @@
 - Land/forest rights, accountable services, education/jobs, local recruitment, democratic representation and credible surrender/rehabilitation routes build trust.
 - Source **2021 Peace March**, 'Bastar maange hinsa se azadi', illustrates community demand for freedom from violence.
 - Evaluate outcomes through sustainable safety and access to justice/services, not only encounters or area-clearing claims.
+## Development and democratic legitimacy
+- Naxalbari uprising, West Bengal, **1967** is the Indian movement's historical anchor; violent extremist organisations differ from lawful left-wing politics.
+- Land/forest rights, displacement, weak services and representation can create grievances; poverty or tribal identity does not mechanically cause insurgency.
+- **SAMADHAN (2017)**: Smart leadership; Aggressive strategy; Motivation/training; Actionable intelligence; Dashboard-based KPIs/KRAs; Harnessing technology; Action plan for each theatre; No access to financing.
+- Security operations must coexist with lawful policing, Centre–State coordination, local recruitment, PESA/FRA implementation, public services and credible rehabilitation.
+- Reported encounter totals are attributed official/news counts, not by themselves proof every death was lawful or that extremism has ended. Accountability and trust affect durable outcomes.
+
 
 ## PDF coverage
 
-2025-01-07: pp. 38, 39, 40
+2025-01-07: pp. 38, 39, 40 · 2025-03-21: pp. 14, 15, 16, 17
