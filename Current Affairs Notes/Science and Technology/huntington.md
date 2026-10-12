@@ -1,7 +1,6 @@
 # Huntington disease and inherited neurodegeneration
 
 ## Genetic mechanism
-
 - **HTT gene CAG-repeat expansion** → abnormal **huntingtin** protein → progressive neuronal dysfunction/loss, particularly **basal ganglia and cortex**.
 - **Autosomal dominant**; affected heterozygous parent gives each child a **50% inheritance risk**. Not contagious and not a prion infection.
 - **Chorea**, abnormal posture/movements, cognitive decline and behavioural/emotional changes; unusual eye movements/tremors may occur.

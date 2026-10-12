@@ -1,7 +1,6 @@
 # White-naped tit and dry scrub habitat
 
 ## Identification
-
 - **Machlolophus nuchalis**, family **Paridae**, passerine; endemic to India, source IUCN **Vulnerable**.
 - Disjunct northwestern (**Gujarat/Rajasthan and source Haryana**) and southern (**AP/Karnataka/Tamil Nadu**) distribution; **dry thorn scrub** habitat.
 - Black upperparts, white nape/upper-mantle patch, white cheeks/underparts with central black band, white wing patch; pairs/small groups, identifiable calls.

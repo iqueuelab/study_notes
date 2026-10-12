@@ -1,7 +1,6 @@
 # AI in education and critical thinking
 
 ## Learning design
-
 - AI can support feedback, coding and exploration; uncritical reliance can weaken independent reasoning. Effects depend on task, student and how learning is assessed.
 - Match permitted use to learning objectives: independent fundamentals, then assisted exploration, verification and explanation of choices.
 - Train teachers/students to check errors, bias and sources; require appropriate disclosure and protect personal data/intellectual property.

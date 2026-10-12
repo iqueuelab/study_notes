@@ -1,7 +1,6 @@
 # Bharat Ranbhoomi Darshan and border tourism
 
 ## Army Day initiative
-
 - **15 January 2025** launch: Army/Defence Ministry with Tourism Ministry and civil authorities; app/website with historical accounts, virtual visits and **permit/travel information**, linked to **Incredible India**.
 - Source gives **75 sites** and elsewhere “75 other sites”; treat as reported coverage, not an exact reconciled inventory. **Galwan, Ladakh; Nathu La/Cho La, Sikkim; Longewala, Thar Desert**, and other border locations.
 - **Doklam** is a disputed Bhutan–China plateau near the India–Bhutan–China junction; do not treat it as an undisputed Indian battlefield with unrestricted entry.

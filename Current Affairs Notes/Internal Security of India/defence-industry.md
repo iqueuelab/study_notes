@@ -1,29 +1,20 @@
 # Defence manufacturing and exports
 
 ## Dated figures and targets
-
 - FY2023-24 exports: **Rs 21, 083 crore**, source reports **32.5% annual growth**, private sector 60% / DPSUs 40%.
 - FY2024-25 defence allocation reported: **Rs 6.22 lakh crore**. Source production figures: Rs 74, 054 crore (2016-17) to Rs 108, 684 crore (2022-23), with 21.96% private share in the latter year.
 - Export ambition: **Rs 50, 000 crore by 2028-29/2029**. Keep a target separate from an achieved outcome.
 - Care Edge forecast cited: sector growth 20% CAGR and exports 19% CAGR over FY24-FY29; these are projections, not observed growth.
-
 ## Drivers and constraints
-
 - Indigenisation, procurement demand, export facilitation, technology transfer and startups; benefits include strategic autonomy, employment and technology spillovers.
 - Constraints: critical subsystem/design gaps, R&D and finance, coordination, certification, long procurement cycles and dependence on imported technologies.
-
 ## Policy and strategy
-
 - FDI: source cites 74% automatic route and up to 100% government route subject to applicable conditions; defence corridors in **UP and Tamil Nadu**; Strategic Partnership Model and export-promotion support.
 - Do not memorise the source's defence **TUFS** claim without verification: TUFS is associated with textiles. The alleged 60% import share/startup count also lacks a clear baseline.
 - Modern warfare requires cyber/AI/space skills, joint-service training and multi-domain readiness; defence attachés support military diplomacy. **Army War College: Mhow.**
-
 ## Mains answer plan
-
 - Security need → domestic capability and exports → technology/finance gaps → predictable procurement, R&D, supplier development and jointness.
-
 ## Aero-engines: January 2025 development debate
-
 - DRDO chief **Samir V. Kamat** called for foreign co-development of advanced engines; source describes demonstrated fourth-generation engine technologies and a future **sixth-generation ambition**, not an operational Indian sixth-generation engine.
 - Desired **thrust-to-weight ratio above 10**, high-temperature **single-crystal turbine blades**, **powder-metallurgy discs**, **ceramic-matrix composites**; lighter, heat-resistant components improve efficiency/performance.
 - Engine 'generation' terminology is not a universal substitute for fighter-aircraft generation; materials demonstrated are not proof a complete certified engine is ready.
@@ -33,37 +24,33 @@
 - Benefits: autonomy, potential exports/jobs and spillovers to civil aviation, space and materials. Risks: IP/technology-transfer restrictions, dependence, delays and cost. Evaluate actual design access, domestic capability and certification milestones.
 
 ## Him Kavach: cold-weather protection, January 2025
-
 - DRDO **modular multi-layer clothing system**, reported to have cleared user trials; designed temperature range **+20°C to −60°C**, rugged/all-weather operation.
 - Add/remove insulating layers; breathability and moisture management maintain comfort. Passive insulation **retains body heat**, not proof the clothing actively generates warmth.
 - Earlier **ECWCS**, Extreme Cold Weather Clothing System, associated with **DIPAS**, three-layer protection; source's blanket claim it fails in all Siachen conditions is overstated.
 - Trials/design range are not a guarantee of zero cold injury or proof universal troop rollout; exposure, fit, activity, shelter and acclimatisation still matter.
 
 ## Trajan: January 2025 export report
-
 - **Larsen & Toubro + France's KNDS**, **155 mm / 52-calibre towed artillery**; reported **Armenian order**, not proof every component is Indian-origin.
 - Indigenous components include auxiliary power unit, control panel and rolling gear assembly. Range **over 40 km**, ammunition-dependent; modular mobility, loading/fire-control assistance and varied-terrain deployment.
 - **Towed gun ≠ self-propelled howitzer**; barrel calibre designation differs from bore diameter. Export prospects depend on orders, delivery, spares/training and technology cooperation.
 
 ## T-72 bridge-laying tanks: 21 January 2025 contract
-
 - **47 BLTs**, **Heavy Vehicles Factory, Armoured Vehicle Nigam Limited**, **₹1, 560.52 crore** (source rounded **₹1, 561 crore**), **Buy (Indian-IDDM)** procurement. [Defence Ministry](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2094857&lang=2&reg=48).
 - Mechanised formation **bridging obstacles** during offensive/defensive movement; bridge-laying support vehicle differs from a tank firing its main gun. Mobility, indigenous manufacture, jobs and reliable lifecycle support are the policy links.
 
 ## Aero India 2025
-
 - **15 th edition, 10–14 February, Yelahanka, Bengaluru**; source **931 exhibitors / 150 foreign companies / around 90 participating countries** are event figures, not continuing industry totals.
 - Su-57 and F-35 display, LCA/AMCA projects, **BRIDGE Defence Ministers' Conclave**, CEO roundtable and **i DEX** promote defence diplomacy, start-ups/MSMEs, supply chains and investment.
 - Source **₹1.27 lakh crore production / ~₹21, 000 crore exports** refer to earlier reported annual performance; **₹1.60 lakh crore / ₹30, 000 crore** figures are projections, not then-achieved FY2025–26 outcomes.
 - Jet-engine dependence, procurement delays, skills and IP/technology transfer remain constraints. Exhibition participation is not a procurement commitment; “Tejas production stabilised” should not erase delivery/engine bottlenecks.
 
 ## Export figures: denominator traps
-
 - February repeat cites **28% historical export CAGR /19% forecast to FY29**; different periods and projections must remain separate.
 - **Myanmar 31% /Sri Lanka 19%** are not a verified current breakdown of every defence-export item; recipient shares vary with year, data and equipment coverage.
 - Source says defence budget both **1.9–2.8%** and **3%GDP /60% imports** without matching scope; don't memorise them as one consistent series.
 - **Tamil Nadu/UP corridors, FDI subject to conditions, strategic partnerships, export facilitation, i DEX/R&D** matter; the alleged defence TUFS programme confuses textile policy, and a draft promotion policy is not automatically operational.
 - Improve competitive products, certification, delivery/spares, finance and end-use compliance; domestic procurement preference alone cannot create global demand.
+
 
 ## PDF coverage
 

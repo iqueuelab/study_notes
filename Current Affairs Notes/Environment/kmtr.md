@@ -1,7 +1,6 @@
 # Kalakkad–Mundanthurai Tiger Reserve
 
 ## Map and biodiversity
-
 - Southern Western Ghats, **Tamil Nadu**, across the Tirunelveli–Tenkasi–Kanyakumari landscape near Kerala; not a reserve divided equally between the two States.
 - Tiger reserve 1988, combining Kalakkad/Mundanthurai landscapes; part of Agasthyamalai region, headwaters important to the **Tamirabarani** basin.
 - Evergreen/semi-evergreen forest, moist/dry deciduous forest, thorn habitats and grasslands; plantations are not equivalent to natural forest.

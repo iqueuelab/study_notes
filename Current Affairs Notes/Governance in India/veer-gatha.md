@@ -1,7 +1,6 @@
 # Project Veer Gatha
 
 ## Education and civic values
-
 - Launched **2021**, associated with **Azadi Ka Amrit Mahotsav**; joint **Ministry of Defence + Ministry of Education** initiative.
 - Students learn gallantry awardees' bravery and life stories; essays/paragraphs about role models link **courage, public service, responsibility and patriotism**.
 - **Fourth edition, Veer Gatha 4.0**, January 2025 Republic Day context; wider participation than earlier editions, no exact total supplied here.

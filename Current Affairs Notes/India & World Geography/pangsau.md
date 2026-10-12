@@ -1,7 +1,6 @@
 # Pangsau Pass, Stilwell Road and border culture
 
 ## Location and heritage
-
 - **Patkai Hills, India–Myanmar border**, near **Nampong, Changlang district, Arunachal Pradesh**; source altitude about **1,136 m / 3,727 ft**. Named after nearby Myanmar village Pangsau.
 - Route connects Assam plains toward Myanmar; **Lake of No Return** lies on Myanmar side. Difficult terrain gave nicknames **Hell Pass / Hell Gate**.
 - Associated with the reputed route of **13th-century Ahom migration into Assam**, not an independently proved modern border route for every historical account.

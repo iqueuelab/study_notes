@@ -1,7 +1,6 @@
 # Ashtamudi: estuarine wetland and Kollam trade heritage
 
 ## Map recall
-
 - **Kollam, Kerala**, eight-branched estuarine/backwater system; **Kallada River** main freshwater inflow; connection to Arabian Sea through **Neendakara**.
 - **Ramsar site 1204**, designated **2002**; brackish-water habitats, mangroves, fish/shellfish and livelihoods. Kerala's second-largest lake is a common extent description; wetland boundaries and open-water area are different metrics. [Ramsar information sheet](https://rsis.ramsar.org/RISapp/files/RISrep/IN1204RIS.pdf).
 - Historic **Quilon/Kollam** maritime trade, including Ibn Battuta's fourteenth-century account; lake origin cannot be dated merely from that trade reference.

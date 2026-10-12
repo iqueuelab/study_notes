@@ -1,9 +1,7 @@
 # Fiscal Health Index and State finances
 
 ## Index structure
-
 - **NITI Aayog, inaugural FHI 2025**, released **24 January 2025** by 16th Finance Commission chair; covers **18 major States**, using **FY 2022–23** and CAG data, not every State/UT or the current fiscal year. [Release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2095974&lang=2&reg=48).
-
 | Pillar | Recall indicators |
 | --- | --- |
 | Quality of expenditure | Development/capital spending; social/economic services |
@@ -11,9 +9,7 @@
 | Fiscal prudence | Fiscal/revenue deficit patterns |
 | Debt index | Debt burden and interest commitments |
 | Debt sustainability | Growth–interest relation and debt trajectory |
-
 ## FY 2022–23 ranking in 2025 report
-
 - **Achievers**: Odisha **67.8**, Chhattisgarh **55.2**, Goa **53.6**, Jharkhand **51.6**, Gujarat **50.5**.
 - **Front-runners**: Maharashtra, Uttar Pradesh, Telangana, Madhya Pradesh, Karnataka.
 - **Performers**: Tamil Nadu, Bihar, Rajasthan, Haryana.

@@ -1,18 +1,13 @@
 # Coffee cultivation, heritage and exports
 
 ## Idukki plantation history
-
 - Pallikkunnu CSI Church near Kuttikkanam, Kerala, preserves an old coffee tree associated with colonial plantation history.
 - Source account: British expansion in the early 19th century; coffee initially dominant around **Peerumade, Kuttikkanam and Thengakal**; leaf disease in **1875** encouraged a shift towards tea.
 - The source reports a roughly 150-year-old tree and historical Thengakal yields of 2 tonnes/acre; these are local heritage claims requiring independent corroboration.
-
 ## Mains links
-
 - Plantation economies show how disease, crop suitability and profitability reshape land use and livelihoods.
 - Preserve agricultural heritage through cultural tourism; diversify crops and strengthen pest/climate resilience.
-
 ## Exports: January 2025 report
-
 - **Karnataka, Kerala and Tamil Nadu** are major growing states; Karnataka leads. Europe is a key market: Italy, Belgium and Germany; other destinations include US, Russia and UAE.
 - Higher Robusta prices and supply disruptions in Brazil/Vietnam can lift export value; distinguish price-driven receipts from volume growth. The source links pre-EUDR stockpiling to demand.
 - Source's 'first ever $1 billion' claim and mixed April-November/FY labels are unreliable: official data show **$1.29 billion in FY2023-24**. [PIB coffee brief](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/jan/doc 2025120487201.pdf).
@@ -20,12 +15,12 @@
 - Mains: value-added exports, farmer incomes, diversification, climate/pest resilience, sustainable sourcing and trade compliance.
 
 ## Cultivation and Coffee Board
-
 - Arabica/Robusta differ in environmental needs and product characteristics; Indian shade-grown coffee links production to tree cover but plantations do not automatically equal intact natural forest.
 - Well-drained humus-rich soils, suitable rainfall/temperature and slope management matter; generic climate ranges are not universal specifications for both species.
 - Baba Budan's introduction story is a historical tradition; source exact year should not be treated as conclusively established.
 - **Coffee Act 1942; Coffee Board, Bengaluru**, 33 members. Chairperson and executive/Secretary roles should not be conflated.
 - Source 65–70% export share is dated; contradictory production-rank lists should not be memorised. Quality, price volatility, pests, labour and climate resilience influence growers.
+
 
 ## PDF coverage
 

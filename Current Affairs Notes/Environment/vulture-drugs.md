@@ -1,7 +1,6 @@
 # Vultures and toxic veterinary drugs
 
 ## Nimesulide: correct regulatory scope
-
 - **NSAID**, pain/inflammation medicine. Veterinary exposure can damage vulture kidneys; **visceral gout** indicates uric-acid deposition associated with renal failure.
 - **Medicated livestock → contaminated carcass → scavenging vulture → kidney injury → gout/death**; highlights indirect ecological effects of pharmaceuticals.
 - **S.O. 5633(E), 30 December 2024**, section **26A, Drugs and Cosmetics Act, 1940**: **nimesulide/formulations for animal use** prohibition. **20 February 2025** CDSCO circular sought enforcement. [CDSCO record](https://www.cdsco.gov.in/opencms/opencms/en/Notifications/Gazette-Notifications/), [enforcement circular](https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/Nimesulide%20and%20its%20formulatin.pdf).

@@ -1,7 +1,6 @@
 # Slender-billed gull and Pallikaranai
 
 ## Species and habitat
-
 - **Chroicocephalus genei**, slender-billed gull; IUCN Least Concern. Mediterranean and north-western Indian Ocean coastal wetlands/lagoons; migratory movements extend to India and North Africa.
 - Pale body, long slender reddish bill/legs, pale yellow iris and black wing tips; length~37–40cm, wingspan~90–102cm. Eats fish and invertebrates; proportions vary with habitat.
 - Chennai sighting is a distribution/observation record, not discovery of a new species.

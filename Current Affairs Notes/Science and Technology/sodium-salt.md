@@ -1,14 +1,11 @@
 # Sodium reduction and potassium-enriched salt substitutes
 
 ## WHO guidance and mechanism
-
 - **27 January 2025 WHO guideline**: adults should consume **less than 2 g sodium/day ≈ 5 g salt**, from all dietary sources; sodium mass ≠ salt mass.
 - If using table salt, conditional recommendation to replace regular salt with **lower-sodium substitutes containing potassium**, within an overall reduction strategy. Not encouragement to increase salt intake. [Guideline](https://www.who.int/publications/i/item/9789240105591).
 - Intended for general adult population; **excludes pregnant women, children and people with kidney impairment/other impaired potassium excretion**. Not simply “safe for everyone except known kidney disease”.
 - Excess sodium raises blood pressure and cardiovascular risk; substituting potassium may lower pressure. Source's direct sodium → fatty-plaque claim oversimplifies atherosclerosis; reduced salt is not a proven cure for diabetes.
-
 ## India and implementation
-
 - Source estimates **10.4 g salt/day** in India and cites **1.9 million global deaths** associated with excess sodium; dated estimates, not identical to each person's intake/risk.
 - Food added at table/cooking and processed snacks all matter. **Hyperkalaemia** risk requires appropriate clinical assessment, especially kidney disease and relevant medicines; screening/clear labels and public-health counselling.
 - Affordable products, industry sodium reduction, accurate nutrient claims, education through health workers/SHGs and monitoring of intake/outcomes; price subsidy/display mandates are source proposals, not enacted requirements.

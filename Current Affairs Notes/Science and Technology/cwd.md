@@ -1,7 +1,6 @@
 # Chronic wasting disease and prions
 
 ## Cervid disease
-
 - **CWD**, fatal neurodegenerative disease of **deer, elk, moose and related cervids**; caused by **prions, misfolded infectious proteins**, not bacteria/viruses.
 - Abnormal protein promotes further misfolding → brain damage/spongiform changes. Spread through secretions/excretions and contaminated environments; prions may persist in soil/water.
 - Long incubation, source **18–24 months**; weight loss, abnormal behaviour/movement, salivation and excessive thirst/urination. Visible signs may lag infection.

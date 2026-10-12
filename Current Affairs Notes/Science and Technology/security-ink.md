@@ -1,7 +1,6 @@
 # Dual-luminescent security ink
 
 ## Material and mechanism
-
 - INSTMohali/BARC research: **Sr₂Bi F₇, strontiumbismuthfluoride nanoparticles, dopedwitherbium/ytterbium**; coprecipitation, mixed into PVCink, screenprinted.
 - Reported emissions:365 nm UV→blue; 395 nm→magenta; 980 nmnear IR→orange-red. UV/downconversion and IR/upconversion give different authentication cues.
 - Potential banknotes, passports, identity documents, packaging; multilayersecurity includes visible, tactile andmachine-detectable features.

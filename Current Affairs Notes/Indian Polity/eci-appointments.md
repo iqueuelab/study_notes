@@ -1,21 +1,16 @@
 # Election Commission appointments and institutional independence
 
 ## Constitutional institution
-
 - **ECI established 25 January 1950; Article 324 /Part XV**. Supervises elections to Parliament, State legislatures, President and Vice-President; **State Election Commissions** handle local-body elections.
 - Currently **CEC +two ECs**; Constitution does not permanently fix three. Brief multi-member phase **1989**, reverted 1990, then multi-member again **1993**.
-
 ## 2023 appointment law
-
 - **Anoop Baranwal, 2023:** interim PM–Opposition leader–CJI committee **until Parliament enacted a law**; do not present it as the committee under the later statute.
 - **2023 Act, effective 2 February 2024**: President appoints on recommendation of **PM +PM-nominated Union Cabinet Minister +Lok Sabha Leader of Opposition**; largest Opposition party's leader acts where no recognised LoP. [Official Act](https://www.indiacode.nic.in/bitstream/123456789/19721/1/a2023-49.pdf).
 - Search committee: **Law Minister +two Secretary-rank-or-above members**; prepares **five names**. Selection committee may consider persons outside the panel.
 - Eligibility: current/former Secretary-equivalent officers with integrity and election-management experience/knowledge. Senior-most EC's promotion to CEC is **not legally automatic**.
 - **Six years or age 65, whichever earlier; no reappointment**; combined EC/CEC tenure limits apply. Final Act provides Supreme Court judge-equivalent pay, not the earlier bill's Cabinet Secretary formulation.
 - **CEC removal:** like Supreme Court judge; other ECs removable only on CEC recommendation. Removal protections and selection rules are different safeguards.
-
 ## Independence debate and recall
-
 - Executive majority/CJI exclusion raises perceived-partisanship concerns; constitutional accountability needs fair selection, transparent criteria, secure tenure and reasoned decisions. February litigation remained pending; do not invent its outcome.
 - **2017 PYQ: only statement 3 correct**—ECI resolves recognised-party split/merger disputes. ECI is not five-member; Home Ministry does not decide general/by-election schedules.
 

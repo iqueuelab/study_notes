@@ -1,22 +1,17 @@
 # India–France defence and strategic partnership
 
 ## Milestones and exercises
-
 - Diplomatic relations **1948**; strategic partnership **1998**. Cooperation spans defence, space, counterterrorism and the Indian Ocean/Indo-Pacific.
 - **Shakti — Army; Varuna — Navy; Garuda — Air Force**.
 - **2016** agreement for **36 Rafale** aircraft for the IAF; distinguish it from the later Navy acquisition.
 - Scorpene/Kalvari-class conventional submarines: **Mazagon Dock, India + Naval Group, France**. They are not nuclear submarines.
-
 ## January 2025 proposals and verified later milestones
-
 - Source anticipated **26 naval Rafale** and **three additional Scorpene submarines**, with a combined reported value above **$10 billion**, subject to approval/contracting; a proposal is not a completed acquisition.
 - **Rafale agreement signed 28 April 2025**: **22 single-seat + four twin-seat aircraft**, training, support and weapons; do not describe all 26 as identical carrier-capable variants. [Defence Ministry release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2124851&lang=2&reg=48).
 - **INS Vaghsheer commissioned 15 January 2025**, not January 2024 as printed; see the common naval-platforms topic.
 - Paris **AI Action Summit: 10–11 February 2025**, not 2024. [French Foreign Ministry](https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/sommet-pour-l-action-sur-l-intelligence-artificielle).
 - Source graphic oversimplifies the return of French settlements: distinguish **1954 de facto transfer** and **1962 de jure transfer** rather than repeat 'all five returned in 1962'.
-
 ## Strategic significance and evaluation
-
 - Carrier aviation, underwater capability, maritime interoperability and France's regional presence, including **Réunion**.
 - Technology transfer, domestic manufacture and maintenance support can build capacity; judge actual local content/skills rather than assume imports equal self-reliance.
 - Evaluate cost, delivery schedules, support dependence, interoperability and indigenous alternatives; maintain a multipolar approach and strategic autonomy.
