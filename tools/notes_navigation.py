@@ -52,8 +52,18 @@ def ensure_navigation(root):
     ca=root/'Current Affairs Notes';data_path=ca/'Topics.json'
     if data_path.exists():
         data=json.loads(data_path.read_text());topics=sorted(data['topics'],key=lambda t:(t['subject'],t['title']))
-        # Current affairs uses hash routes within one shared viewer.
-        # Its own viewer controls provide topic Back/Next navigation.
+        pages=[ca/t['subject']/(t['id']+'.html') for t in topics]
+        if pages:
+            index=ca/'index.html'
+            connect(index,home,pages[0],home);count+=1
+            # Existing topic chains are generated in subject/title order.
+            for page,label in [(pages[0],'← Back to all topics'),(pages[-1],'Next → All topics')]:
+                text=page.read_text()
+                if label not in text:
+                    anchor=f'<a href="../index.html">{label}</a>'
+                    text=re.sub(r'(<nav>)(.*?)(</nav>)',lambda m:m[1]+m[2]+anchor+m[3],text,flags=re.S)
+                    page.write_text(text)
+                count+=1
     return count
 
 if __name__=='__main__':

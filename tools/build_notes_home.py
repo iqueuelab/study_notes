@@ -4,22 +4,16 @@ from urllib.parse import quote
 import html,json,re
 
 ROOT=Path(__file__).resolve().parents[1]
-chapter_lookup={}
-for jp in ROOT.glob('*/Chapters.json'):
- for c in json.loads(jp.read_text())['chapters']:chapter_lookup[str(ROOT/c['path'])]=c
 def esc(s):return html.escape(str(s),quote=True)
-def href(p):
- if str(p) in chapter_lookup:return 'Subject%20Notes/index.html#topic='+quote(chapter_lookup[str(p)]['id'],safe='')
- return quote(p.relative_to(ROOT).as_posix())
+def href(p):return quote(p.relative_to(ROOT).as_posix())
 def title(p):
- if str(p) in chapter_lookup:return chapter_lookup[str(p)]['title']
  m=re.search(r'<h1[^>]*>(.*?)</h1>',p.read_text(),re.S)
  return html.unescape(re.sub('<[^>]+>','',m[1])).strip() if m else p.stem
 
 subjects=[]
 for folder in sorted(ROOT.iterdir()):
  if not folder.is_dir() or folder.is_symlink() or folder.name.startswith('.') or folder.name in {'tools','Current Affairs Notes','UPSC-PYQ'}:continue
- chapters=sorted([Path(p) for p in chapter_lookup if Path(p).is_relative_to(folder)]) if (folder/'Chapters.json').exists() else sorted(folder.rglob('Quick Revision Notes.html'))
+ chapters=sorted(folder.rglob('Quick Revision Notes.html'))
  if not chapters:continue
  groups={}
  for p in chapters:
@@ -53,8 +47,8 @@ for subject in sorted({t['subject'] for t in data['topics']}):
  noun='topic' if len(topics)==1 else 'topics'
  body+=f'<details class="group" data-kind="current" data-subject="{esc(subject)}"><summary>{esc(subject)}<span class="count" data-label="topics" data-default="{len(topics)} {noun}">{len(topics)} {noun}</span></summary><div class="content">'
  for t in topics:
-  dates=', '.join(sorted(t['coverage']));p=ca/'index.html'
-  body+=f'<div class="row" data-search="{esc(subject+" "+t["title"]+" "+dates)}"><a href="{href(p)}#topic={quote(t["id"])}">{esc(t["title"])}</a><small>{esc(dates)}</small></div>'
+  dates=', '.join(sorted(t['coverage']));p=ca/subject/(t['id']+'.html')
+  body+=f'<div class="row" data-search="{esc(subject+" "+t["title"]+" "+dates)}"><a href="{href(p)}">{esc(t["title"])}</a><small>{esc(dates)}</small></div>'
  body+='</div></details>'
 body+='</div></section></details><p id="empty" class="empty" role="status" hidden>No matching notes. Try another title or clear the filters.</p><p class="status">Current affairs coverage grows as daily files are reviewed.</p>'
 body+=r'''<script>
@@ -66,7 +60,7 @@ search.addEventListener('input',filter);kind.addEventListener('change',filter);s
 </script>'''
 (ROOT/'index.html').write_text('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Study Notes</title><style>'+CSS+'</style></head><body><main>'+body+'</main></body></html>')
 # Add reversible home navigation without rewriting any note content or print styles.
-files=[p for _,_,resources,chapters in subjects for p in resources+chapters if p.exists()]+list(ca.rglob('*.html'))
+files=[p for _,_,resources,chapters in subjects for p in resources+chapters]+list(ca.rglob('*.html'))
 for p in files:
  text=p.read_text();relative='../'*len(p.relative_to(ROOT).parts[:-1])+'index.html'
  nav=f'<nav id="study-home" aria-label="Study home" style="max-width:1040px;margin:14px auto;padding:0 16px;font:15px system-ui"><a href="{relative}" style="color:#14685c">← Study home</a></nav>'
