@@ -1,7 +1,7 @@
 # Human Development Report 2025: India and AI
 
 ## Index and 2025 report
-- **UNDP Human Development Report 2025**, released **6May 2025**: *A matter of choice: People and possibilities in the age of AI*. Human development focuses on capabilities/choices beyond GDP.
+- **UNDP Human Development Report 2025**, released **6 May 2025**: *A matter of choice: People and possibilities in the age of AI*. Human development focuses on capabilities/choices beyond GDP.
 - **HDI** combines health (**life expectancy at birth**), education (**expected and mean years of schooling**) and living standards (**GNI per capita, PPP**). Mean years measure attainment, not directly learning quality. HDI is the geometric mean of normalised dimension indices.
 - Latest table refers to **2023 data**, not outcomes measured in 2025. **India 130/193, 0.685** vs recalculated **2022 rank 133/value 0.676**; medium category, high threshold **0.700**. India improved by over 53% since 1990. **Iceland 0.972** leads, followed by Norway/Switzerland; **South Sudan 0.388**, rank 193, last. [UNDP HDR](https://www.undp.org/india/publications/human-development-report-2025).
 ## Correct comparable Indian indicators

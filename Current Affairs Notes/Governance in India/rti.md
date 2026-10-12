@@ -16,7 +16,7 @@
 - Source-era parliamentary-information proviso matters, but does not justify skipping all other statutory/contextual analysis.
 ## Amendments: specify status
 - **2019 amendment** changed service-condition control for Information Commissioners; institutional-independence concerns differ from content exemptions.
-- **DPDP Act2023 section44(3)** legislated replacement of8(1)(j)'s personal-information wording; **not operative in February2025 merely because enacted**. Distinguish that historical discussion from later commencement/notifications.
+- **DPDP Act2023 section44(3)** legislated replacement of8(1)(j)'s personal-information wording; **not operative in February 2025 merely because enacted**. Distinguish that historical discussion from later commencement/notifications.
 - Reforms proposed in the editorial—reverse amendments, strengthen penalties/new protection laws—are proposals, not existing provisions.
 ## Improve access
 - Timely transparent appointments, diverse expertise, digitised records and accessible tracking; publish reasons, enforce existing non-compliance penalties and protect applicants.

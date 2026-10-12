@@ -24,7 +24,7 @@
 - Removal following parliamentary address differs from criminal investigation/prosecution. **NJAC judgment 2015** concerns judicial appointments/independence, not automatic resolution of Lokpal jurisdiction.
 - Mains: independent investigations, due process, judicial autonomy and public accountability require a constitutionally valid procedure; do not assume either blanket impunity or unrestricted ordinary executive control.
 
-- [Supreme Court20 February2025 order](https://api.sci.gov.in/supremecourt/2025/9527/9527_2025_2_301_59727_Order_20-Feb-2025.pdf): stay of the disputed Lokpal order; preserve distinction between interim relief and final ruling.
+- [Supreme Court20 February 2025 order](https://api.sci.gov.in/supremecourt/2025/9527/9527_2025_2_301_59727_Order_20-Feb-2025.pdf): stay of the disputed Lokpal order; preserve distinction between interim relief and final ruling.
 
 ## High Court judges: jurisdiction dispute
 - Lokpal's January 2025 order claimed jurisdiction over High Court judges through section 14(1)(f); the Supreme Court stayed that order in February. **A stayed interpretation is not settled law**.

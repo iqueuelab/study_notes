@@ -1,7 +1,7 @@
 # Aditya-L1 and Lagrange points
 
 ## Mission
-- ISRO solar observatory: **PSLV-C57 launch 2September 2023; halo-orbit insertion 6January 2024**, near Sun–EarthL1~1.5 millionkm from Earth. It does not travel to the Sun's surface.
+- ISRO solar observatory: **PSLV-C57 launch 2 September 2023; halo-orbit insertion 6 January 2024**, near Sun–EarthL1~1.5 millionkm from Earth. It does not travel to the Sun's surface.
 - Seven payloads: **VELC, SUIT, SoLEXS, HEL1OS** remote solar observations; **ASPEX, PAPA, magnetometer** in-situ particles/fields.
 - Study corona, heating, flares, solar wind and space weather; complements other observatories rather than duplicating every instrument.
 ## Lagrange points

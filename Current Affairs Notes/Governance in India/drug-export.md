@@ -2,7 +2,7 @@
 
 ## Action and correction
 - **Tapentadol:** opioid analgesic; **carisoprodol:** centrally acting muscle relaxant. Individually approved products do **not** make their fixed-dose combination approved.
-- February2025 action followed reports of Aveo exports to West Africa: stop activities, withdraw export NOCs and act on unauthorised manufacturing permissions. **Joint audit21–22 February2025**, not PDF's2024. [Health Ministry23 February release](https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=267822).
+- February 2025 action followed reports of Aveo exports to West Africa: stop activities, withdraw export NOCs and act on unauthorised manufacturing permissions. **Joint audit21–22 February 2025**, not PDF's2024. [Health Ministry23 February release](https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=267822).
 - Official source reports **~1.3 crore tablets/capsules /26 API batches** and wider inspections **905 units /694 actions**; separate seizure from concluded criminal guilt and inspection from permanent closure.
 - Addiction/misuse and combined CNS effects are public-health concerns; whether a drug is listed under NDPS is different from whether it is regulated under drug law.
 ## Institutions and ethics

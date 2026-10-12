@@ -5,7 +5,7 @@
 - Causes: vacancies/staff/infrastructure, scheduling/adjournments, process complexity and avoidable government litigation. Source government **50% /21 judges per million** need denominator/year; court use is not inherently frivolous.
 - **Mediation:** neutral facilitator helps parties reach a voluntary settlement; mediator does not impose a binding adjudicated award as an arbitrator/judge does.
 ## Law and safeguards
-- **Mediation Act 2023**, already an Act, **not a pending “Mediation Bill2023”**. Commencement is provision-specific; enacted text does not mean all institutions/procedures were operational in February2025. [Official Act](https://www.indiacode.nic.in/indiacode/handle/123456789/19637?col=123456789%2F1362&view_type=search).
+- **Mediation Act 2023**, already an Act, **not a pending “Mediation Bill2023”**. Commencement is provision-specific; enacted text does not mean all institutions/procedures were operational in February 2025. [Official Act](https://www.indiacode.nic.in/indiacode/handle/123456789/19637?col=123456789%2F1362&view_type=search).
 - Final Act's general pre-litigation model is **voluntary**, not universal mandatory mediation. Some commercial disputes have separate pre-institution requirements; not every crime/public-law issue is suitable for settlement.
 - Confidentiality, trained impartial mediators, informed consent and protection against coercion/unequal bargaining; a settlement can have specified legal effect, but not every failed mediation removes access to court.
 ## Delivery reforms

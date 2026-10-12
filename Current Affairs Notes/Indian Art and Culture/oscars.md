@@ -1,7 +1,7 @@
 # Academy Awards and Indian cinema
 
 ## Awards recall
-- **97th Oscars, 2March 2025**, Dolby Theatre, Los Angeles; Anora won five awards, Sean Baker four.
+- **97th Oscars, 2 March 2025**, Dolby Theatre, Los Angeles; Anora won five awards, Sean Baker four.
 - Academy of Motion Picture Arts and Sciences founded 1927; first awards 1929. Cedric Gibbons design/George Stanley sculpture; statue's five spokes represent original branches.
 | Indian recognition | Year |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 ## Basics and announcement
 - **Qubit:** quantum information unit; superposition and entanglement enable suitable quantum algorithms. Entanglement does **not transmit messages instantly**, and quantum computers are not faster for every task.
-- **19 February2025 Microsoft Majorana1:** claimed **eight topological qubits**, correcting PDF's four; million-qubit scale a design ambition, not a working million-qubit machine. [Microsoft announcement](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/).
+- **19 February 2025 Microsoft Majorana1:** claimed **eight topological qubits**, correcting PDF's four; million-qubit scale a design ambition, not a working million-qubit machine. [Microsoft announcement](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/).
 - **1937 Ettore Majorana:** theoretical self-antiparticle fermion concept; condensed-matter **Majorana zero modes** are quasiparticle excitations, distinct from proof of a new fundamental particle.
 - **Indium arsenide/aluminium** hybrid structures seek topological superconductivity; superconductors show zero resistance under suitable conditions. Intended topological protection does not guarantee no errors under all disturbances.
 ## Evidence and policy

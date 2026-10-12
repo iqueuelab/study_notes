@@ -7,7 +7,8 @@ OUT=ROOT/'Notes'
 def inline(s):
  s=html.escape(s)
  s=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',lambda m:f'<a href="{html.escape(html.unescape(m[2]),quote=True)}">{m[1]}</a>',s)
- return re.sub(r'\*\*(.*?)\*\*',r'<strong>\1</strong>',s)
+ s=re.sub(r'\*\*(.*?)\*\*',r'<strong>\1</strong>',s)
+ return re.sub(r'(?<!\*)\*([^*\n]+)\*(?!\*)',r'<em>\1</em>',s)
 def render(s):
  lines=s.splitlines();result=[];i=0
  while i<len(lines):

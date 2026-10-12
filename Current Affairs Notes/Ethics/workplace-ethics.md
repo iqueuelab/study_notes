@@ -14,7 +14,7 @@
 - Employees: communicate constraints, record concerns, seek support and use safe reporting channels; individual resilience cannot replace organisational duty.
 - Evaluate actual workload, grievance resolution, turnover and wellbeing rather than counting wellness events. Voluntary overtime/pay does not remove the need for safe conditions.
 - Mains conclusion: success includes health and dignity; reconcile performance with sustainable work and accountable leadership.
-## Industrial labour and innovation, February2025
+## Industrial labour and innovation, February 2025
 - Ludhiana source reports **11–12-hour days** and precarious work; extending hours is not the same as raising output per hour.
 - Source PLFS2023–24 **21.7% regular salaried** share; many regular jobs still lack written contracts, leave/social security. Regular status is not guaranteed decent work.
 - Outsourcing to small/informal enterprises can shift risk down supply chains; delayed MSME payments restrict investment. Formal factory contract workers and informal-enterprise workers are distinct categories.

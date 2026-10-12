@@ -48,8 +48,8 @@
 - Three additional Scorpenes and source conventional-fleet counts are dated proposals/snapshots. Indigenous percentage ambitions must be tested against design access and delivered critical systems.
 
 ## INS Tamal
-- Russian-built Talwar-class follow-on frigate, Project 1135.6; 2016 arrangement covered two Russian-built and two Goa-built ships. INS Tushil commissioned 9December 2024.
-- February issue's June delivery was a forecast: **Tamal actually commissioned 1July 2025 at Yantar, Kaliningrad**. [Navy release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2141361&lang=2&reg=48).
+- Russian-built Talwar-class follow-on frigate, Project 1135.6; 2016 arrangement covered two Russian-built and two Goa-built ships. INS Tushil commissioned 9 December 2024.
+- February issue's June delivery was a forecast: **Tamal actually commissioned 1 July 2025 at Yantar, Kaliningrad**. [Navy release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2141361&lang=2&reg=48).
 - Transition towards indigenous construction does not imply every component is Indian or prohibit every future import.
 
 ## Arabian Sea readiness: 28 April 2025
