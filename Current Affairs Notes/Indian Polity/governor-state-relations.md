@@ -35,7 +35,12 @@
 - **Correction:** the source groups CAA with measures upheld by the Supreme Court; it supplies no final CAA merits judgment establishing that proposition. Do not confuse pending challenges or interim decisions with final constitutional validation.
 - Constitutional democracy protects rights, minorities and federalism alongside electoral mandates. Fair criticism, reasoned judgments, judicial restraint and visible impartiality support public trust; unelected judges’ role requires constitutional justification and accountability.
 
+## 4 May 2025: West Bengal report
+- The clipping reports Governor **C. V. Ananda Bose’s** recommendations after April Murshidabad communal violence: inquiry under the **Commissions of Inquiry Act 1952**, stronger Union intervention where State machinery fails, and BSF outposts in vulnerable areas. These are proposals, not proof they were enacted.
+- He mentioned **Article 356** without presenting a formal recommendation for President’s Rule. A Governor’s report does not itself impose President’s Rule: constitutional conditions, Presidential action, parliamentary approval and judicial review apply. Ordinary law-and-order difficulty alone does not automatically establish constitutional breakdown.
+- Source reports his **18–19 April visits** and public demands including a permanent BSF presence; distinguish citizens’ requests from operational deployment decisions.
+
 
 ## PDF coverage
 
-2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9
+2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19

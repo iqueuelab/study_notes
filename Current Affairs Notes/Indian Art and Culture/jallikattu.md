@@ -16,7 +16,19 @@
 ## Breed trap
 - **Gir is indigenous to India (Gujarat)**. A breed being outside the typical Tamil Nadu Jallikattu breed list does not make it foreign to India.
 
+## May 2025 cultural additions and comparison
+- Also **Eruthazhuvuthal**; variants **Vadi manjuvirattu, Veli virattu, Vatam manjuvirattu**. Popular districts: Madurai, Tiruchirappalli, Theni, Pudukkottai and Dindigul; **Pulikulam**, associated with Sivagangai, is an important native breed. Participant prize and owner prestige are cultural features, not a universal competition rule.
+- Ancient Tamil bull-embracing traditions have literary associations; the source's purported **Mohenjo-daro seal chronology/continuous Jallikattu lineage** and unqualified **“Silappadikaram is Sangam-era”** claim should not be treated as established dating. Artefact interpretation does not prove uninterrupted modern practice.
+- **Concurrent List entry 17: prevention of cruelty to animals**. The **2023 Constitution Bench** upheld regulated statutory amendments but did not itself certify Jallikattu as an “essential cultural practice” or give animals all human Article 21 rights. [Supreme Court judgment](https://api.sci.gov.in/supremecourt/2016/1216/1216_2016_3_1501_44624_Judgement_18-May-2023.pdf).
+| Comparison | Recall |
+|---|---|
+| Kambala | Coastal Karnataka buffalo racing in wet paddy tracks |
+| Bullock-cart racing | Maharashtra and other States; Maharashtra amendment included in 2023 judgment |
+| Cockfighting | Associated with Sankranti in Andhra Pradesh; cruelty/betting concerns; tradition is no blanket legal exemption |
+| Camel racing | Rajasthan fairs including Pushkar; permission/safety depend on applicable rules |
+| Dhirio | Goa bull fights, distinct from bull-embracing Jallikattu; legality cannot be inferred from Tamil Nadu's amendment |
+
 
 ## PDF coverage
 
-2025-01-17: pp. 1, 2, 3 · 2025-01-19: pp. 14, 43
+2025-01-17: pp. 1, 2, 3 · 2025-01-19: pp. 14, 43 · 2025-05-02: pp. 17, 18, 19, 20

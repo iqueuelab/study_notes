@@ -36,7 +36,12 @@
 - CCTV must feed timely decisions; reliable announcements, trained staff and usable exits matter more than equipment alone.
 - The 2017 Elphinstone Road event was a **crowd crush**, not a bridge collapse. Source passenger-per-coach arithmetic lacks a consistent train/coach/time denominator.
 
+## 4 May 2025: Goa temple tragedy
+- Embedded clipping reports a crowd disaster during **Lairai Devi Jatra, Shirgao, Goa, 3 May 2025**. Its early headline says seven killed/80 injured; treat these as provisional source counts rather than settled totals. The Goa Governor’s official condolence confirms the incident. [Goa Government](https://dip.goa.gov.in/governor-expresses-grief-over-shirgao-jatra-stampede/).
+- The accompanying material repeats the prevention framework above: capacity/flow planning, clear exits, police-organiser coordination, medical response and monitoring. Sensor/RFID/drone/lighting proposals are aids requiring reliable operation, not proof they were deployed or would automatically prevent a crush.
+- Historical comparison graphic also recalls **1954 Allahabad Kumbh, 1989 Hillsborough stadium, 1993 Lan Kwai Fong and 2010 Cambodia bridge festival**. These illustrate bottlenecks, crowd compression and failed crowd management; quoted tolls are not harmonised final totals. Avoid attributing every incident simply to panic.
+
 
 ## PDF coverage
 
-2025-01-09: pp. 14, 15, 16, 17 · 2025-02-27: pp. 10, 11, 12, 13, 14
+2025-01-09: pp. 14, 15, 16, 17 · 2025-02-27: pp. 10, 11, 12, 13, 14 · 2025-05-04: pp. 5, 6, 7, 8, 9, 10

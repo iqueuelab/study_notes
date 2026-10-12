@@ -27,7 +27,16 @@
 - Effects: longer aviation routes and costs; disrupted family/pilgrim contacts; fewer diplomatic channels; water-security rhetoric and escalation risks; further strain on SAARC/regional integration. The clipping's approximate **$2-billion trade** figure lacks a year and trade definition and should not be used as an established annual baseline.
 - Mains approach: counter-terrorism and national security → proportionate diplomatic/economic measures → transboundary-water law and humanitarian interests → crisis communication and verifiable de-escalation. Treaty allocation and permitted Indian uses remain distinct from the parties' April legal positions.
 
+## 2 May 2025: abeyance and international-law debate
+- India's **23 April** announcement used “held in abeyance”; distinguish the announced position from a mutually agreed treaty termination. **Article XII(3)** modification and **XII(4)** termination envisage a duly ratified treaty agreed by both governments; political terminology alone does not settle legality.
+- **1969 Vienna Convention on the Law of Treaties (VCLT): Article 60** material breach; **Article 62** fundamental change of circumstances. India is not a party; Pakistan signed but did not ratify. Relevant customary-law principles may apply independently of membership; the Convention cannot simply be assumed directly binding in its entirety.
+- Article 62 requires an unforeseen change affecting an essential basis of consent and radically transforming outstanding obligations, with exceptions. The **1997 Gabčíkovo–Nagymaros (Hungary/Slovakia)** judgment rejected the claimed changes as grounds for treaty termination; treaty stability demands a high threshold. It was about Danube dam obligations, not a ruling on the 2025 India–Pakistan dispute. [ICJ case](https://www.icj-cij.org/case/92).
+- A terrorism allegation does not automatically prove a material breach of this water treaty. Suspension temporarily interrupts obligations; termination ends them. Legal arguments over India's measure remain contested, without a final judgment established by this source.
+- Western rivers are allocated to Pakistan **subject to permitted Indian uses**, including specified domestic/agricultural, non-consumptive, hydroelectric and storage uses. They are not Pakistan's exclusive territorial property.
+- Infrastructure limits prevent instant diversion of all western-river water. Timing uncertainty, altered operations and abrupt releases could affect irrigation/hydropower/flood risk; source **80% agriculture/one-third electricity** figures are approximate dependency claims with differing denominators, not measured losses already caused.
+- Treaty-specific commission/expert/arbitration processes are distinct from an ICJ case; **ICJ contentious jurisdiction requires a valid consent basis**, so Pakistan cannot automatically obtain it merely by filing. Evaluate security, treaty obligations, engineering capability and downstream humanitarian effects together.
+
 
 ## PDF coverage
 
-2025-01-22: pp. 6, 7, 8, 9 · 2025-01-26: pp. 8, 9 · 2025-04-25: pp. 1, 2, 3, 4
+2025-01-22: pp. 6, 7, 8, 9 · 2025-01-26: pp. 8, 9 · 2025-04-25: pp. 1, 2, 3, 4 · 2025-05-02: pp. 13, 14, 15, 16

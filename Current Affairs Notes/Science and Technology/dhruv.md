@@ -23,7 +23,13 @@
 - Source's foreign operator list includes **Bolivia/Myanmar/Israel** without clear contract/service dates; do not present it as a verified current fleet inventory. Export reputation depends on safety and lifecycle support.
 - Ethical frame: crew safety, independent evidence, accountable certification, timely corrective action and transparent audits; strengthen overhaul/spares and apply lessons to future **Indian Multi Role Helicopter** programmes.
 
+## 1–2 May 2025: Army/Air Force clearance
+- Embedded clipping reports **HAL cleared Army and Air Force Dhruv versions** for operations on Defect Investigation Committee recommendations after the January grounding; a time-bound resumption plan was worked out with users. It does **not establish universal clearance of naval, Coast Guard or civil versions**. Civil operators were advised to remain grounded until the crash cause was identified in this report.
+- Fleet grounding followed the **5 January Coast Guard Mk-III crash at Porbandar**, killing three crew. Operational availability had been constrained, with Army craft reportedly used after Pahalgam; clearance and safe long-term corrective implementation are separate questions.
+- Development began **1984** with German **MBB** technical assistance; first flight **1992**, service introduction **2002**. Military certification **CEMILAC**, civil certification **DGCA**, production assurance **DGAQA** have different responsibilities.
+- Source **73-helicopter 2017 orders** cover Army/Navy/Coast Guard variants; retain as dated procurement context. Crashworthy airframe, composites, glass cockpit and high-altitude capability do not remove all risks. Helmet pointing, countermeasures and inert-gas systems are variant/mission-specific rather than identical on every Dhruv.
+
 
 ## PDF coverage
 
-2025-01-18: pp. 42, 43, 44 · 2025-01-27: pp. 4, 5, 6, 7, 8, 9
+2025-01-18: pp. 42, 43, 44 · 2025-01-27: pp. 4, 5, 6, 7, 8, 9 · 2025-05-02: pp. 24, 25, 26

@@ -450,6 +450,48 @@
           "issue_date": "2025-04-29"
         }
       ]
+    },
+    {
+      "dates": [
+        "2025-04-30",
+        "2025-05-01",
+        "2025-05-02",
+        "2025-05-03",
+        "2025-05-04",
+        "2025-05-05",
+        "2025-05-06"
+      ],
+      "finding": "All text and page images reviewed, including all image-only tables and maps. Official questions checked against prior entries and original papers where supplied. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": [
+        {
+          "subject": "Indian Polity",
+          "exam_stage": "Mains",
+          "chapter": "Parliamentary committees: scrutiny beyond the floor",
+          "question": "“While India aspires for Maximum Governance, it must equally pursue Maximum Accountability. Critically examine the effectiveness of Parliamentary oversight in India and suggest reforms to strengthen it.” (250 words)",
+          "issue_date": "2025-05-03"
+        },
+        {
+          "subject": "Science and Technology",
+          "exam_stage": "Mains",
+          "chapter": "Brain–computer interfaces: assistive technology and neuroethics",
+          "question": "“Brain-Computer Interfaces (BCI) have the potential to revolutionize medical and assistive technologies, but they also raise significant ethical concerns. Critically analyze the potential applications and ethical implications of BCI technology.” (250 words)",
+          "issue_date": "2025-05-03"
+        },
+        {
+          "question": "“Mediation: The Future of Dispute Resolution in India” (150 Words) (10 Marks)",
+          "chapter": "Judicial backlog and mediation",
+          "subject": "Governance in India",
+          "exam_stage": "Mains",
+          "issue_date": "2025-05-04"
+        },
+        {
+          "question": "Analyse the effectiveness of disaster risk reduction initiatives by the Indian government in the context of stampede prevention. What improvements can be made?",
+          "chapter": "Crowd crush and stampede prevention",
+          "subject": "Governance in India",
+          "exam_stage": "Mains",
+          "issue_date": "2025-05-04"
+        }
+      ]
     }
   ]
 }

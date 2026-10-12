@@ -2249,37 +2249,128 @@
     {
       "date": "2025-04-30",
       "pdf": "2025/04-April/2025-04-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "76bf58a79cf25adc0004805db5e57318ff8be6874be8ded7f1b5787c5bcc5a60",
+      "pages": 21,
+      "topic_ids": [
+        "stray-dog-ethics",
+        "pegasus",
+        "chief-justice-india",
+        "deep-tech",
+        "desert-locust",
+        "greater-one-horned-rhino",
+        "mango-cultivation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-01",
       "pdf": "2025/05-May/2025-05-01.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ee358209e91a421b599b7928d092fbd7c210041a45724247059c739ddcd30067",
+      "pages": 32,
+      "topic_ids": [
+        "geological-hydrogen",
+        "pahalgam-terror-attack",
+        "caste-census",
+        "digital-access",
+        "national-security-council",
+        "scientific-workforce",
+        "bonded-labour"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-02",
       "pdf": "2025/05-May/2025-05-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "477731e8fd1294a5597b8e58a216e29ea5579580866393cf28f24e4863738741",
+      "pages": 31,
+      "topic_ids": [
+        "quad",
+        "jallikattu",
+        "dhruv",
+        "indus-treaty",
+        "creative-economy",
+        "pahalgam-terror-attack",
+        "private-members-bills",
+        "maritime-domain-awareness",
+        "ukraine-minerals"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-03",
       "pdf": "2025/05-May/2025-05-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "20d6778ad27ec093f004d5c8abe0d1a33b399e2aa012ec723e76ff045e8237b0",
+      "pages": 17,
+      "topic_ids": [
+        "parliamentary-committees",
+        "vizhinjam-port",
+        "brain-computer-interface"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-04",
       "pdf": "2025/05-May/2025-05-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "45df3730f282959589c57dd2fcd7f501f776f752a5e502fd98fb41dcd508f8a2",
+      "pages": 19,
+      "topic_ids": [
+        "great-nicobar",
+        "crowd-safety",
+        "mediation",
+        "india-australia",
+        "governor-state-relations",
+        "pahalgam-terror-attack",
+        "immunisation-vpd"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-05",
       "pdf": "2025/05-May/2025-05-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2c68c34723ce96b2735b9332ff72ea16f322df21d76e227bb7c1c97139977ac3",
+      "pages": 24,
+      "topic_ids": [
+        "pangolins",
+        "khelo-india",
+        "bhakra-dam",
+        "depot-darpan",
+        "makalu",
+        "kendu-fra",
+        "igla-s",
+        "enforcement-directorate",
+        "pm-kusum",
+        "arctic-policy"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-06",
       "pdf": "2025/05-May/2025-05-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "045bd6057fc67a3a30332efdf104608f38998cc26b4a9b281b19ea9cc1cd8708",
+      "pages": 22,
+      "topic_ids": [
+        "citizenship",
+        "stray-dog-ethics",
+        "india-russia",
+        "pahalgam-terror-attack",
+        "ai-energy-footprint",
+        "states-reorganisation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-08",
@@ -4643,7 +4734,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-04-30",
+  "next_pdf": "2025-05-08",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

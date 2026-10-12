@@ -46,7 +46,18 @@
 - Articles 14 and 21 protect persons; Article 19 rights are for citizens. National security and public health controls must coexist with due process, proportionality and constitutional judicial review.
 - Assess compliance costs, privacy, clear procedures and business/student mobility alongside security objectives.
 
+## May 2025: detention and the rule of law
+- Assam's final **2019 NRC excluded roughly 19 lakh people**; the PDF wrongly equates exclusion with citizenship being stripped. **Non-inclusion alone does not declare someone a foreigner**; tribunal/legal process is distinct. [MHA clarification](https://www.mha.gov.in/sites/default/files/PressRelease_NRC_20082019.pdf).
+- Assam citizenship verification involved the **24 March 1971 midnight cutoff** and proof/ancestry questions; floods, missing records and spelling differences can impede fair adjudication. Avoid treating every excluded person as detained or stateless.
+- Source cites **Foreigners Act 1946** detention/deportation powers and **NSA 1980** preventive detention. These are different legal grounds, not interchangeable authority to hold all non-citizens indefinitely. Assent to the Immigration and Foreigners Act 2025 did not alone commence its replacement framework.
+- **Article 21 protects persons**. Article 22's arrest/preventive-detention provisions have exceptions and safeguards; all clauses do not apply identically to every detention category. Courts can review legality, purpose, fairness and proportionality.
+## Editorial critique and comparative judgment
+- Source invokes **Rajubala Das v Union of India**, identified with a 2020 proceeding; do not treat that year as a verified final judgment or assume all requested relief was granted.
+- **NZYQ (Australia, 2023)**: continued immigration detention lacked constitutional justification where no real prospect of removal becoming practicable in the reasonably foreseeable future existed. This concerns Australia's constitutional separation of powers, not an automatically binding Indian rule. [High Court summary](https://www.hcourt.gov.au/sites/default/files/assets/publications/judgment-summaries/2023/hca-37-2023-11-28.pdf).
+- Source's **26 deported (2017–2023)/over 1.5 lakh declared foreigners** is an editorial dataset claim with unclear matching cohorts; it does not establish the status of every detainee. Feasibility of receiving-country acceptance and nationality verification matters.
+- Policy argument: detention needs a lawful purpose, individual assessment, periodic review, fair hearings/legal aid and humane conditions; evaluate alternatives when removal is unrealistic. The editorial's blanket unlawfulness claim should not replace case-specific legal findings.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1 · 2025-02-05: pp. 1, 2, 3 · 2025-02-16: pp. 2, 3, 4 · 2025-03-01: pp. 1, 2, 3, 4 · 2025-03-12: pp. 5, 6, 7, 8, 20, 21, 25, 26 · 2025-03-17: pp. 14, 15, 33, 34 · 2025-03-18: pp. 32, 33
+2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1 · 2025-02-05: pp. 1, 2, 3 · 2025-02-16: pp. 2, 3, 4 · 2025-03-01: pp. 1, 2, 3, 4 · 2025-03-12: pp. 5, 6, 7, 8, 20, 21, 25, 26 · 2025-03-17: pp. 14, 15, 33, 34 · 2025-03-18: pp. 32, 33 · 2025-05-06: pp. 14, 15, 16, 17

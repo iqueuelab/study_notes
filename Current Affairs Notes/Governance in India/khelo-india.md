@@ -10,7 +10,11 @@
 - Khelo India mobile app (2019) supports fitness assessment and sports information; digital engagement complements coaching/facilities.
 - Bihar hosting can broaden access and regional sporting infrastructure, tourism and employment. Durable gains require maintenance, qualified coaches, safe participation, gender/disability inclusion and athlete pathways beyond the tournament.
 - Mains: distinguish **participation → talent identification → sustained development → elite outcomes**; hosting and medal counts alone do not demonstrate universal fitness or lasting local benefits.
+## Bihar Youth Games: 4 May 2025 opening
+- The **7th Khelo India Youth Games inaugurated on 4 May 2025**, with competition scheduled through **15 May**; source's “will be held” preview can now be updated to the opening milestone. The existing notes retain Bihar host cities, Delhi specialised venues, evolution and corrected **under-18** eligibility. [Official inaugural account](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2126850&lang=2&reg=48).
+- An opening ceremony is not proof every planned competition/infrastructure benefit has been completed. Existing talent-support qualifications continue to apply; the PDF's under-17/under-21 and universal ₹5-lakh-for-eight-years table should not replace them.
+
 
 ## PDF coverage
 
-2025-04-15: pp. 15, 16
+2025-04-15: pp. 15, 16 · 2025-05-05: pp. 23, 24
