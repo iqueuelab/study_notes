@@ -22,7 +22,14 @@
 - Proposed additional Scorpene submarines involve Mazagon Dock and Naval Group; Project 75 is distinct from Project 75I.
 - TEDBF is a development programme, not an inducted naval fighter. CCS approval and estimated combined values do not establish every component's final contract terms.
 
+## Naval acquisitions: April 2025 issue
+- The issue discusses **26 naval Rafale aircraft** and **three additional Scorpene submarines**, with a source-reported combined estimate of **$11 billion**. The page-one newspaper clipping reports CCS approval for Rafale, whereas the accompanying prose still says approval is awaited: the source mixes procurement stages.
+- **CCS:** Prime Minister chairs; Defence, Home, Finance and External Affairs Ministers are members. Approval → agreement → production → delivery → induction are distinct stages.
+- Additional submarines would expand the conventional Project-75 fleet through **Mazagon Dock, Mumbai, and Naval Group**. Do not apply the Rafale delivery estimate automatically to submarine construction.
+- Cost, annual budget availability, delivery delays and dependence on imported high-end technology remain evaluation points. Carrier aviation complements indigenous TEDBF development; an interim import does not establish TEDBF's operational readiness.
+- **Verified later clarification, 28 April 2025:** the signed Rafale agreement specified delivery completion **by 2030**; the issue's possible 2029 start was a forecast, not this contract milestone. [Ministry of Defence](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2124851&lang=2&reg=48).
+
 
 ## PDF coverage
 
-2025-01-06: pp. 16, 17, 18, 19, 20 · 2025-02-14: pp. 9, 10, 11 · 2025-03-16: pp. 8, 9, 10, 16, 17
+2025-01-06: pp. 16, 17, 18, 19, 20 · 2025-02-14: pp. 9, 10, 11 · 2025-03-16: pp. 8, 9, 10, 16, 17 · 2025-04-10: pp. 1, 2, 3

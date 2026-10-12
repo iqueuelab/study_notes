@@ -1891,37 +1891,118 @@
     {
       "date": "2025-04-09",
       "pdf": "2025/04-April/2025-04-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "9999167b5a4b280b0acc2505d8fc10795031b1c418fa3a594619573be15786e4",
+      "pages": 12,
+      "topic_ids": [
+        "genome-india",
+        "governor-state-relations",
+        "india-uae-relations",
+        "pmmy",
+        "de-extinction-dire-wolf"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-10",
       "pdf": "2025/04-April/2025-04-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0f093e8d30ffadca200d4f8ce192256081447accdec93dbfe7affa1edd30ffb8",
+      "pages": 10,
+      "topic_ids": [
+        "india-france",
+        "nilgiri-tahr",
+        "pmksy",
+        "monetary-policy",
+        "bangladesh-transshipment"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-11",
       "pdf": "2025/04-April/2025-04-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "72344d1db6131352c464a5f9155e40c7384648301e81ca8955b083b6130e637a",
+      "pages": 17,
+      "topic_ids": [
+        "rti",
+        "diabetes",
+        "mumbai-counterterror",
+        "edible-packaging",
+        "pm-poshan",
+        "salt-pans"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-12",
       "pdf": "2025/04-April/2025-04-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b8cb692721d4415297257d681ef6f7a4c7f9e5292d6110697a9820a4e9148ba8",
+      "pages": 15,
+      "topic_ids": [
+        "industrial-indicators",
+        "vitamin-d",
+        "nia",
+        "iron-ore",
+        "gaurav"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-13",
       "pdf": "2025/04-April/2025-04-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8a42872f1cd0403b8edc6b58b15d4bcf081b8e2347b7d4d159fdf4f071e63ed8",
+      "pages": 9,
+      "topic_ids": [
+        "snakebite",
+        "saras",
+        "shipping-emissions"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-14",
       "pdf": "2025/04-April/2025-04-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "40667a6ee8c735191530a2e7542f4d582e649f64d25ac47db67ec51e417ebb7c",
+      "pages": 24,
+      "topic_ids": [
+        "africa-maritime",
+        "waqf",
+        "laser-dew",
+        "traditional-seeds"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-04-15",
       "pdf": "2025/04-April/2025-04-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "31431ea6b6f1b1affe5848bd0ade2832314f9ef544cb0ed10270adcd28704c45",
+      "pages": 20,
+      "topic_ids": [
+        "tariff-trade",
+        "titanium",
+        "extradition",
+        "sc-subclassification",
+        "dwarka",
+        "asi",
+        "khelo-india",
+        "stubble-burning"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-16",
@@ -4390,7 +4471,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-04-09",
+  "next_pdf": "2025-04-16",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

@@ -220,6 +220,57 @@
           "reason": "Undated coaching practice; not authenticated UPSC PYQ"
         }
       ]
+    },
+    {
+      "dates": [
+        "2025-04-09",
+        "2025-04-10",
+        "2025-04-11",
+        "2025-04-12",
+        "2025-04-13",
+        "2025-04-14",
+        "2025-04-15"
+      ],
+      "finding": "All text and page images reviewed, including April 14 image-only content. PMMY (2016) and monetary policy (2015) questions verified by OCR against local original UPSC papers and stored in common Indian Economy prelims file. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": [
+        {
+          "chapter": "De-extinction and the dire wolf",
+          "question": "Should We Play God? The Moral Limits of Scientific Innovation",
+          "word_limit": 150,
+          "marks": 15,
+          "issue_date": "2025-04-09"
+        },
+        {
+          "question": "Discuss the objectives and significance of the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) in transforming Indian agriculture.",
+          "topic_id": "pmksy",
+          "exam_stage": "Mains",
+          "word_limit": 250,
+          "printed_marks": 150,
+          "year": null,
+          "review": "Undated daily practice; not an official PYQ. Printed 150 marks appears erroneous; preserve and flag rather than invent corrected marks or year.",
+          "issue_date": "2025-04-10"
+        },
+        {
+          "id": "laser-dew",
+          "exam_stage": "Prelim",
+          "question": "Which of the following statements is/are correct regarding Directed Energy Weapons (DEW)?\n(1) They emit focused energy such as laser or microwave.\n(2) They are capable of neutralizing aerial threats at the speed of sound.\n(3) DEWs are generally more cost-effective than conventional missile systems.",
+          "answer": "(1) and (3), as supplied; comparative cost depends on system and operating conditions.",
+          "issue_date": "2025-04-14"
+        },
+        {
+          "id": "laser-dew",
+          "exam_stage": "Prelim",
+          "question": "The CHESS (Centre for High Energy Systems and Sciences) is a lab under which Indian organization?\n(A) ISRO\n(B) BARC\n(C) DRDO\n(D) BEL",
+          "answer": "(C) DRDO",
+          "issue_date": "2025-04-14"
+        },
+        {
+          "id": "traditional-seeds",
+          "exam_stage": "Mains",
+          "question": "“The erosion of traditional seed varieties threatens both agricultural biodiversity and food security in India.” Discuss the causes and suggest a way forward. (250 Words) (15 Marks)",
+          "issue_date": "2025-04-14"
+        }
+      ]
     }
   ]
 }

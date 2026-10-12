@@ -69,6 +69,30 @@
       },
       "answer": "d",
       "explanation": "Tea Board is statutory under the Tea Act 1953, under Commerce and Industry, headquartered in Kolkata; statement 4 refers to the exam-year offices."
+    },
+    {
+      "year": 2016,
+      "chapter": "Pradhan Mantri MUDRA Yojana",
+      "question": "Pradhan Mantri MUDRA Yojana is aimed at",
+      "options": {
+        "a": "bringing the small entrepreneurs into formal financial system",
+        "b": "providing loans to poor farmers for cultivating particular crops",
+        "c": "providing pensions to old and destitute persons",
+        "d": "funding the voluntary organizations involved in the promotion of skill development and employment generation"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2015,
+      "chapter": "Monetary Policy Committee and policy instruments",
+      "question": "With reference to Indian economy, consider the following:\n1. Bank rate\n2. Open market operations\n3. Public debt\n4. Public revenue\nWhich of the above is/are component/components of Monetary Policy?",
+      "options": {
+        "a": "1 only",
+        "b": "2, 3 and 4",
+        "c": "1 and 2",
+        "d": "1, 3 and 4"
+      },
+      "answer": "c"
     }
   ]
 }
