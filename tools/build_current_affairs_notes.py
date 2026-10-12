@@ -147,7 +147,7 @@ for subject in sorted({t['subject'] for t in topics}):
  body+='<details class="group subject-group"><summary>'+html.escape(subject)+'<span class="count" data-total="'+str(len(members))+'">'+str(len(members))+(' topic' if len(members)==1 else ' topics')+'</span></summary><div class="group-content">'
  for t in members:
   dates=', '.join(sorted(t['coverage']))
-  body+='<div class="topic-row" data-subject="'+html.escape(t['subject'])+'" data-search="'+html.escape(t['title']+' '+t['subject']+' '+dates+' '+t['markdown'],quote=True)+'"><a href="'+link(t)+'">'+html.escape(t['title'])+'</a><small>'+dates+'</small></div>'
+  body+='<div class="topic-row" data-subject="'+html.escape(t['subject'])+'" data-search="'+html.escape(' '.join((t['title']+' '+t['subject']+' '+dates+' '+t['markdown']).split()),quote=True)+'"><a href="'+link(t)+'">'+html.escape(t['title'])+'</a><small>'+dates+'</small></div>'
  body+='</div></details>'
 body+='</div></section><section id="by-date"><h2>By year and month</h2>'
 for year in sorted({f['date'][:4] for f in done}):
