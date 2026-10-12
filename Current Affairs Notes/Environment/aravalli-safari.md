@@ -13,7 +13,15 @@
 - **ESZ extent is site-specific** and can vary; protection extends to sensitive corridors where notified. Conservation/restoration priority needs environmental assessment and legal compliance.
 - Compare low-impact community tourism with large built attractions; assess water budgets, cumulative impacts, native restoration, wildlife welfare and transparent local consultation.
 - Employment benefits do not automatically outweigh ecological damage. Track actual forest condition, hydrology and livelihoods rather than an attraction's advertised scale.
+## Aravalli geography and drainage additions
+- NE–SW residual ancient fold belt across **Delhi, Haryana, Rajasthan, Gujarat**, source length roughly **670 km**; **Guru Shikhar, Mount Abu, Rajasthan, 1,722 m**. Source divides Sambhar–Sirohi and Sambhar–Khetri belts; discontinuous weathered ridges reflect long erosion.
+- Aravalli–Delhi orogenic belt belongs to the Indian Shield; formation spans multiple Precambrian episodes. **“Over 2.5 billion years” is not one precise age for every exposed mountain/ridge**. Old geology does not mean zero present earthquake risk.
+- **Banas → Chambal → Yamuna → Ganga**, correcting the source’s direct Yamuna-tributary label. Sahibi historically drains toward Yamuna; modern modified channels differ. **Luni → Rann of Kachchh**, an inland/saline terminal drainage context, not a simple open-mouth river into the Arabian Sea.
+- Copper, lead, zinc and marble support mining but increase habitat/water pressure. Dry deciduous habitats, groundwater recharge and buffering against desertification matter; forests/ridges are not an impermeable wall against every dust event.
+- Fold mountains arise through compressive deformation; Himalaya is a younger active orogen. Avoid simplistic exact age rankings of “Western Ghats 150 million years” versus every Aravalli rock: landform formation and underlying rock age differ.
+- Practice answer **B** is the source’s watershed interpretation; retain drainage qualifications rather than equating an endorheic basin with direct seaward flow.
+
 
 ## PDF coverage
 
-2025-02-18: pp. 12, 13, 14, 15
+2025-02-18: pp. 12, 13, 14, 15 · 2025-06-04: pp. 6, 7, 8, 9

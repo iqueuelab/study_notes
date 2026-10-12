@@ -87,6 +87,18 @@
         "d": "Titanium"
       },
       "answer": "d"
+    },
+    {
+      "year": 2008,
+      "chapter": "Aluminium industry: production, energy and recycling",
+      "question": "Which of the following minerals are found in a natural way in the State of Chhattisgarh?\n1. Bauxite\n2. Dolomite\n3. Iron ore\n4. Tin\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 3 only",
+        "b": "1 and 3 only",
+        "c": "2 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "d"
     }
   ]
 }

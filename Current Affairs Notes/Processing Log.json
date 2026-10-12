@@ -2934,37 +2934,139 @@
     {
       "date": "2025-06-04",
       "pdf": "2025/06-June/2025-06-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e5a6ab0feac7678ebd7bf5ba6b2b5c460311debf13adce73161fd278696b58f2",
+      "pages": 28,
+      "topic_ids": [
+        "aravalli-safari",
+        "vizhinjam-port",
+        "ladakh-regulations",
+        "almatti-krishna",
+        "nanozyme-thrombosis",
+        "ecinet",
+        "polio-surveillance"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-05",
       "pdf": "2025/06-June/2025-06-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ba30e9733977645686b0f5f8adf7a91a1e0b5f815a85cd18ca30953ff08ab1f2",
+      "pages": 33,
+      "topic_ids": [
+        "crowd-safety",
+        "caste-census",
+        "ecinet",
+        "polio-surveillance",
+        "biohappiness",
+        "battery-energy-storage",
+        "senior-citizens-policy",
+        "adb",
+        "iias-presidency"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-06-06",
       "pdf": "2025/06-June/2025-06-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "650e23d81e7aa1a95248c682e3c69697246fbdee7f1ec553d4bd8256691b5da8",
+      "pages": 19,
+      "topic_ids": [
+        "coffee",
+        "anji-bridge",
+        "nuclear-liability",
+        "us-travel-restrictions",
+        "greater-one-horned-rhino",
+        "aluminium-industry",
+        "india-central-asia"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-07",
       "pdf": "2025/06-June/2025-06-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7a65cbb53050d2f19c31d4a1e4f8d1021ce168a32dcf2f28d235c60c9e36ed27",
+      "pages": 22,
+      "topic_ids": [
+        "defence-industry",
+        "satellite-broadband",
+        "food-safety",
+        "monetary-policy",
+        "arnala",
+        "darvaza",
+        "free-living-amoebae"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        22
+      ]
     },
     {
       "date": "2025-06-08",
       "pdf": "2025/06-June/2025-06-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "1d0da3abfd267d6362ff2c9a889eb1344a250a4ecdba97d917ab32085fafb8c9",
+      "pages": 20,
+      "topic_ids": [
+        "delimitation-demography",
+        "textile-industry",
+        "pmjay-fraud",
+        "axiom-4",
+        "tunnel-boring-machines"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-09",
       "pdf": "2025/06-June/2025-06-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2558cc4b5748dbda1713ffd979105604a587495f903eea458d8b4f3c867064ff",
+      "pages": 16,
+      "topic_ids": [
+        "india-france",
+        "india-belgium",
+        "masld",
+        "elephants",
+        "russia-ukraine-war",
+        "india-mongolia"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-10",
       "pdf": "2025/06-June/2025-06-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "df1ddf4eb6dc527acc124b67e1b8cd93aea9ca51f252697feaaaf5e67395183c",
+      "pages": 40,
+      "topic_ids": [
+        "e-waste",
+        "turmeric-board",
+        "drones-uav",
+        "cloud-seeding",
+        "donkey-skin-trade",
+        "indian-wild-ass",
+        "rainforest-regeneration",
+        "manipur-conflict",
+        "farm-ponds",
+        "nickel-hydrogen-plasma",
+        "asafoetida",
+        "portuguese-crop-introductions",
+        "solar-geoengineering"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-11",
@@ -5158,7 +5260,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-06-04",
+  "next_pdf": "2025-06-11",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

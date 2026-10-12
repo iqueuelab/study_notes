@@ -41,7 +41,12 @@
 - The accompanying material repeats the prevention framework above: capacity/flow planning, clear exits, police-organiser coordination, medical response and monitoring. Sensor/RFID/drone/lighting proposals are aids requiring reliable operation, not proof they were deployed or would automatically prevent a crush.
 - Historical comparison graphic also recalls **1954 Allahabad Kumbh, 1989 Hillsborough stadium, 1993 Lan Kwai Fong and 2010 Cambodia bridge festival**. These illustrate bottlenecks, crowd compression and failed crowd management; quoted tolls are not harmonised final totals. Avoid attributing every incident simply to panic.
 
+## 5 June 2025: Bengaluru celebration tragedy
+- **4 June, M. Chinnaswamy Stadium, Bengaluru:** crowd crush during **RCB’s IPL victory celebration** killed **11**, with reported injuries; official enquiry announced. These are dated incident reports, not a completed finding assigning every organiser’s liability. [Official broadcaster report](https://newsonair.gov.in/bengaluru-at-least-6-killed-in-stampede-during-rcb-victory-celebrations/).
+- Sudden popular celebrations require capacity limits, reliable entry information, separate ingress/egress, police–organiser command, crowd-pressure monitoring and immediate medical access. Dense compression can kill without a crowd irrationally running.
+- Goa clipping and historical disaster graphics repeat earlier examples; source’s new lighting/AI/RFID proposals are not NDMA mandates. A monitoring device must trigger timely action; it cannot replace usable exits or safe capacity planning.
+
 
 ## PDF coverage
 
-2025-01-09: pp. 14, 15, 16, 17 · 2025-02-27: pp. 10, 11, 12, 13, 14 · 2025-05-04: pp. 5, 6, 7, 8, 9, 10
+2025-01-09: pp. 14, 15, 16, 17 · 2025-02-27: pp. 10, 11, 12, 13, 14 · 2025-05-04: pp. 5, 6, 7, 8, 9, 10 · 2025-06-05: pp. 2, 3, 4, 5, 6

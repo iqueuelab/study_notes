@@ -1,5 +1,42 @@
 {
   "subject": "Internal Security of India",
   "exam_stage": "Prelim",
-  "questions": []
+  "questions": [
+    {
+      "year": 2018,
+      "chapter": "Manipur conflict, hill governance and reconciliation",
+      "question": "Consider the following pairs: Tradition — State 1. Chapchar Kut festival — Mizoram 2. Khongjom Parba ballad — Manipur 3. Thang-Ta dance — Sikkim Which of the pairs given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "3 only",
+        "d": "2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2009,
+      "chapter": "Manipur conflict, hill governance and reconciliation",
+      "question": "In which one of the following places is the Shompen tribe found?",
+      "options": {
+        "a": "Nilgiri Hills",
+        "b": "Nicobar Islands",
+        "c": "Spiti Valley",
+        "d": "Lakshadweep Islands"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2004,
+      "chapter": "Manipur conflict, hill governance and reconciliation",
+      "question": "In which one of the following Union Territories do the people of the Onge Tribe live?",
+      "options": {
+        "a": "Andaman and Nicobar Islands",
+        "b": "Dadra and Nagar Haveli",
+        "c": "Daman and Diu",
+        "d": "Lakshadweep"
+      },
+      "answer": "a"
+    }
+  ]
 }

@@ -1319,6 +1319,130 @@
           "issue_date": "2025-06-03"
         }
       ]
+    },
+    {
+      "dates": [
+        "2025-06-04",
+        "2025-06-05",
+        "2025-06-06",
+        "2025-06-07",
+        "2025-06-08",
+        "2025-06-09",
+        "2025-06-10"
+      ],
+      "finding": "All text and page images reviewed, including all image-only tables and maps. Official questions checked against prior entries and original papers where supplied. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": [
+        {
+          "question": "With reference to the recent regulations notified by the Central Government for the Union Territory of Ladakh in 2025, consider the following statements: 1. The domicile-based recruitment policy requires a person to have resided in Ladakh for at least 20 years to be eligible for government jobs. 2. Bhoti and Purgi have been granted the status of official languages of Ladakh. 3. The Ladakh Autonomous Hill Development Councils (LAHDCs) have been granted legislative powers under the new regulations. 4. Reservation in admissions to professional institutions like engineering and medical colleges in Ladakh has been capped at 85%. Which of the statements given above are correct? a) 2 and 3 only b) 2 and 4 only c) 1, 2 and 4 only d) 1 and 3 only",
+          "chapter": "Ladakh: domicile, reservation and local governance",
+          "exam_stage": "Prelims",
+          "answer": "b (85% cap excludes EWS)",
+          "issue_date": "2025-06-04"
+        },
+        {
+          "question": "With reference to the Aravalli Range in India, consider the following statements: 1. The Aravalli Range is younger than the Himalayas but older than the Western Ghats. 2. It acts as a major watershed for rivers flowing both towards the Bay of Bengal and the Arabian Sea. 3. Guru Shikhar, the highest peak of the Aravallis, is located in Gujarat. Which of the statements given above is/are correct? \n\n\n \n \nA. 1 and 2 only B. 2 only C. 2 and 3 only D. None of the above",
+          "chapter": "Aravalli safari proposal and ecosystem protection",
+          "exam_stage": "Prelims",
+          "answer": "B, subject to drainage qualifications",
+          "issue_date": "2025-06-04"
+        },
+        {
+          "question": "Consider the following statements regarding the Almatti Dam project: 1. Almatti Dam is located on the Tungabhadra River in Karnataka. 2. The primary interstate dispute related to Almatti Dam is between Karnataka and Andhra Pradesh. 3. The dispute mainly concerns the dam’s height and storage capacity affecting downstream water availability. Which of the statements given above is/are correct? A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. All of the above",
+          "chapter": "Almatti dam and Krishna water sharing",
+          "exam_stage": "Prelims",
+          "answer": "B",
+          "issue_date": "2025-06-04"
+        },
+        {
+          "question": "Consider the following statements regarding MSC Irina and Vizhinjam International Seaport: 1. MSC Irina is one of the world’s largest Ultra Large Container Vessels (ULCVs) operated by Mediterranean Shipping Company (MSC). 2. MSC Irina recently called at Vizhinjam port, marking the first time this vessel has visited any South Asian port. 3. Vizhinjam International Seaport is located on the west coast of India in the state of Kerala. 4. MSC Irina has a container capacity of over 30,000 TEUs. Which of the statements given above is/are correct? A. 1, 2 and 3 only B. 2 and 4 only C. 1 and 4 only D. All of the above",
+          "chapter": "Vizhinjam port and port-led development",
+          "exam_stage": "Prelims",
+          "answer": "A",
+          "issue_date": "2025-06-04"
+        },
+        {
+          "question": "With reference to recent developments in nanomedicine, consider the following statements: 1. Vanadium pentoxide (V₂O₅) nanozymes developed by Indian researchers mimic the activity of natural antioxidant enzymes. 2. These nanozymes help reduce thrombosis by directly dissolving blood clots. 3. Reactive Oxygen Species (ROS) play a key role in triggering excess platelet activation in certain diseases. Which of the statements given above is/are correct? a) 1 and 2 only b) 2 and 3 only c) 1 and 3 only d) 1, 2 and 3",
+          "chapter": "Nanozymes and experimental thrombosis prevention",
+          "exam_stage": "Prelims",
+          "answer": "c",
+          "issue_date": "2025-06-04"
+        },
+        {
+          "question": "What is the primary objective of the ECINET platform developed by the Election Commission of India? A) To conduct exit polls during elections B) To merge multiple electoral services into a unified platform C) To monitor party funding and donations D) To issue identity cards to voters directly",
+          "chapter": "ECINET: integrated electoral digital services",
+          "exam_stage": "Prelims",
+          "answer": "B",
+          "issue_date": "2025-06-04"
+        },
+        {
+          "question": "Consider the following statements with reference to Polio: 1. Polio is a highly infectious disease caused by a single-stranded RNA virus. 2. Polio cannot be transmitted from one person to another person. 3. Vaccine-derived polio occurs when the inactivated strain of poliovirus regains the ability to cause paralysis. Which of the statements given above is/are correct? (a) 1 and 2 only (b) 1 only (c) 1 and 3 only (d) 2 and 3 only",
+          "chapter": "Polio vaccines and surveillance transition",
+          "exam_stage": "Prelims",
+          "answer": "b",
+          "issue_date": "2025-06-04"
+        },
+        {
+          "question": "Analyse the effectiveness of disaster risk reduction initiatives by the Indian government in the context of stampede prevention. What improvements can be made?",
+          "chapter": "Crowd crush and stampede prevention",
+          "subject": "Governance in India",
+          "exam_stage": "Mains",
+          "issue_date": "2025-06-05"
+        },
+        {
+          "question": "What is the primary objective of the ECINET platform developed by the Election Commission of India? A) To conduct exit polls during elections B) To merge multiple electoral services into a unified platform C) To monitor party funding and donations D) To issue identity cards to voters directly",
+          "chapter": "ECINET: integrated electoral digital services",
+          "exam_stage": "Prelims",
+          "answer": "B",
+          "issue_date": "2025-06-05"
+        },
+        {
+          "question": "Consider the following statements with reference to Polio: 1. Polio is a highly infectious disease caused by a single-stranded RNA virus. 2. Polio cannot be transmitted from one person to another person. 3. Vaccine-derived polio occurs when the inactivated strain of poliovirus regains the ability to cause paralysis. Which of the statements given above is/are correct? (a) 1 and 2 only (b) 1 only (c) 1 and 3 only (d) 2 and 3 only",
+          "chapter": "Polio vaccines and surveillance transition",
+          "exam_stage": "Prelims",
+          "answer": "b",
+          "issue_date": "2025-06-05"
+        },
+        {
+          "subject": "Environment",
+          "exam_stage": "Prelim",
+          "chapter": "Darvaza gas crater and methane emissions",
+          "question": "Consider the following statements regarding the Darvaza Gas Crater, often referred to as the “Gateway to Hell”:\n1. It is a natural volcanic crater located in Kazakhstan.\n2. It has been continuously burning due to methane gas since the 1970s.\n3. Turkmenistan, where it is located, is among the largest emitters of methane through gas leaks.\nWhich of the statements given above is/are correct? (a) 1 and 2 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3",
+          "answer": "Source (b); statement 2 follows the conventional but uncertain ignition chronology.",
+          "issue_date": "2025-06-07"
+        },
+        {
+          "subject": "Science and Technology",
+          "exam_stage": "Prelim",
+          "chapter": "Satellite broadband, licensing and digital inclusion",
+          "question": "Which of the following companies have received licences to provide satellite internet services in India?\n1. Starlink\n2. Amazon Kuiper\n3. OneWeb\n4. Jio Satellite Communications\nSelect the correct answer: (a) 1 and 2 (b) 1, 3 and 4 (c) 1, 2, 3 and 4 (d) 2, 3 and 4",
+          "answer": "(b), at the June 7, 2025 snapshot",
+          "issue_date": "2025-06-07"
+        },
+        {
+          "chapter": "Donkey-skin trade, welfare and rural livelihoods",
+          "subject": "Environment",
+          "question": "“Ejiao”, recently in news, refers to: (a) A Chinese textile (b) An endangered sea plant (c) A gelatin derived from donkey skin (d) A ritual observed in Buddhist monasteries",
+          "answer": "(c)",
+          "review_note": "Undated practice question.",
+          "issue_date": "2025-06-10"
+        },
+        {
+          "chapter": "Asafoetida cultivation and import substitution",
+          "subject": "Indian Economy",
+          "question": "Asafoetida is obtained from: (a) Exudation from the stem (b) Extraction from roots (c) Extraction from fruits (d) Extraction from leaves",
+          "answer": "(b)",
+          "review_note": "Source labels UPPSC RO/ARO previous question but gives no year; held for review.",
+          "issue_date": "2025-06-10"
+        },
+        {
+          "chapter": "Asafoetida cultivation and import substitution",
+          "subject": "Indian Economy",
+          "question": "In a first, India started the cultivation of Asafoetida in: (a) Cold Deserts of Ladakh (b) Cold Deserts of Uttarakhand (c) Cold Deserts of Himachal Pradesh (d) None of the above",
+          "answer": "(c)",
+          "review_note": "Source labels HSSC Female Police Constable previous question but gives no year; held for review.",
+          "issue_date": "2025-06-10"
+        }
+      ]
     }
   ]
 }

@@ -15,7 +15,13 @@
 - Port-led manufacturing/shipbuilding supports Make in India and resilient maritime trade. Centre–state cooperation and private participation illustrate cooperative federalism and infrastructure financing; commercial success requires ease of business, competitive tariffs and service reliability.
 - Source's “two ports among top 30” needs a named ranking/year; port operational rankings differ from national **Logistics Performance Index**. India's 12 major ports do not imply absence of every deep-water facility; major-port legal classification differs from depth and container-transshipment capability.
 - Challenges: disasters/weather, construction and administrative delays, protests and coastal-community concerns. Address fisher livelihoods, shoreline/ecological monitoring, transparent concession oversight, connectivity and long-term maintenance.
+## 4 June 2025: MSC Irina call
+- Source reports **MSC Irina’s first South Asian port call at Vizhinjam**; one of the largest ULCVs, operated by Swiss-headquartered **Mediterranean Shipping Company**. Capacity approximately **24,346 TEU**, length **399.99 m**, beam **61.3 m**; source says stacking up to 22 levels. TEU is a capacity unit, not proof all spaces contain one 20-foot box.
+- Irina-class calls previously included **MSC Türkiye and MSC Michel Cappellini**. Source expected roughly **4,000 container movements** during this call: expectation differs from completed handling, and movements differ from TEU.
+- Source cumulative throughput **7.2 lakh TEU since trials**, **2.20 lakh in current FY** are dated reporting snapshots, not design capacity or all-time final totals.
+- Deep draught, cranes/berths and efficient services enable megaship calls; feeder/hinterland connectivity determines durable hub gains. Source’s automatic **INSTC linkage** is overstated: Vizhinjam’s main locational advantage is near east–west Indian Ocean lanes, not proof it is a designated principal INSTC node.
+
 
 ## PDF coverage
 
-2025-05-03: pp. 1, 2, 3, 4, 5, 6, 7
+2025-05-03: pp. 1, 2, 3, 4, 5, 6, 7 · 2025-06-04: pp. 13, 14, 15, 16

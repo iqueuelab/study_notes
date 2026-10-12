@@ -62,8 +62,8 @@
     },
     {
       "year": 2024,
-      "chapter": "Fighter aircraft generations",
-      "question": "Consider the following aircraft:\n1. Rafael\n2. MiG-29\n3. Tejas MK-1\nHow many of the above are considered fifth generation fighter aircraft?",
+      "chapter": "Fighter aircraft generations; S-400 Triumf and layered air defence",
+      "question": "Consider the following aircraft:\n1. Rafale\n2. MiG-29\n3. Tejas MK-1\nHow many of the above are considered fifth generation fighter aircraft?",
       "options": {
         "a": "Only one",
         "b": "Only two",
@@ -182,18 +182,6 @@
       "answer": "b"
     },
     {
-      "year": 2024,
-      "chapter": "S-400 Triumf and layered air defence",
-      "question": "Consider the following aircraft:\n1. Rafale\n2. MiG-29\n3. Tejas MK-1\nHow many of the above are considered fifth generation fighter aircraft?",
-      "options": {
-        "a": "Only one",
-        "b": "Only two",
-        "c": "All three",
-        "d": "None"
-      },
-      "answer": "d"
-    },
-    {
       "year": 2018,
       "chapter": "S-400 Triumf and layered air defence",
       "question": "What is Terminal High Altitude Area Defense (THAAD), sometimes seen in the news?",
@@ -240,6 +228,78 @@
         "d": "Intercontinental ballistic missile"
       },
       "answer": "c"
+    },
+    {
+      "year": 2020,
+      "chapter": "Drones and Indian UAV programmes",
+      "question": "Consider the following activities: 1. Spraying pesticides on a crop field 2. Inspecting the craters of active volcanoes 3. Collecting breath samples from spouting whales for DNA analysis At the present level of technology, which of the above activities can be successfully carried out by using drones?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2025,
+      "chapter": "Drones and Indian UAV programmes",
+      "question": "With reference to Unmanned Aerial Vehicles (UAVs), consider the following statements: I. All types of UAVs can do vertical landing. II. All types of UAVs can do automated hovering. III. All types of UAVs can use battery only as a source of power supply. How many of the statements given above are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2025,
+      "chapter": "Nickel ores and hydrogen-plasma extraction",
+      "question": "Consider the following pairs: Country — Resource-rich in I. Botswana — Diamond II. Chile — Lithium III. Indonesia — Nickel In how many of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2010,
+      "chapter": "Nickel ores and hydrogen-plasma extraction",
+      "question": "With reference to the mineral resources of India, consider the following pairs: Mineral — 90% Natural sources in 1. Copper — Jharkhand 2. Nickel — Orissa 3. Tungsten — Kerala Which of the pairs given above is/are correctly matched?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2025,
+      "chapter": "Nickel ores and hydrogen-plasma extraction",
+      "question": "In the context of electric vehicle batteries, consider the following elements: I. Cobalt II. Graphite III. Lithium IV. Nickel How many of the above usually make up battery cathodes?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2025,
+      "chapter": "Cloud seeding: mechanisms and evidence limits",
+      "question": "Artificial way of causing rainfall to reduce air pollution makes use of",
+      "options": {
+        "a": "silver iodide and potassium iodide",
+        "b": "silver nitrate and potassium iodide",
+        "c": "silver iodide and potassium nitrate",
+        "d": "silver nitrate and potassium chloride"
+      },
+      "answer": "a"
     }
   ]
 }

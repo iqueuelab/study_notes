@@ -29,7 +29,15 @@
 - Coffee Board dates to **Coffee Act 1942**, Commerce Ministry. Do not infer a dedicated coffee PLI from a general manufacturing incentive, or an already operative India–EU FTA in March 2025.
 - Value addition, speciality quality, resilient varieties, responsible shade management, market access and domestic demand support incomes; foreign-exchange earnings do not alone fix the current account.
 
+## Araku Valley and tribal coffee
+- **Eastern Ghats, Andhra Pradesh**, Araku landscape with **Anantagiri/Sunkarimetta forests**, hills including **Galikonda, Raktakonda, Sunkarimetta and Chitamogondi**. Source elevation **600–900 m** is a local range, not every surrounding hill's summit height; cooler highland conditions do not make the whole region a temperate climatic zone.
+- **Araku Valley Arabica Coffee GI registered 2019**, official product name; GI protects qualifying geographic origin/reputation and use conditions, not a guarantee every bag is organic or sold by one commercial company. [GI Registry](https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/607).
+- Tribal farmers' coffee, forest produce and agriculture connect biodiversity, livelihoods and culture. “Araku tribes” is a geographical umbrella, not one named notified tribe; communities have distinct identities/knowledge.
+- Cooperatives/social enterprises, suitable shade cultivation, processing and premium markets can improve incomes; measure farmer returns, control and certification rather than assume universal empowerment from branding.
+- Bauxite **deposits/mining proposals and ecological conflict** must be separated from proof the whole valley is an operating mine. Forest/water protection, recognised land/community rights and meaningful consultation matter.
+- Tourism nickname **“Ooty of Andhra Pradesh”** reflects scenic appeal, not scientific geography. Ecotourism/agro-tourism require carrying-capacity, waste/water management and community benefit sharing; scenic promotion alone is not sustainable development.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 3, 4 · 2025-01-03: pp. 8, 9, 10, 11 · 2025-03-02: pp. 8, 9, 10, 11, 12, 13, 14 · 2025-03-22: pp. 1, 2, 3, 4
+2025-01-01: pp. 3, 4 · 2025-01-03: pp. 8, 9, 10, 11 · 2025-03-02: pp. 8, 9, 10, 11, 12, 13, 14 · 2025-03-22: pp. 1, 2, 3, 4 · 2025-06-06: pp. 15, 16

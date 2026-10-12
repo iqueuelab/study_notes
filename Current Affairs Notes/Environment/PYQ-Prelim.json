@@ -231,6 +231,54 @@
         "d": "1 and 4 only"
       },
       "answer": "b"
+    },
+    {
+      "year": 2017,
+      "chapter": "Indian wild ass and protected-species conservation",
+      "question": "According to the Wildlife (Protection) Act, 1972, which of the following animals cannot be hunted by any person except under some provisions provided by law? 1. Gharial 2. Indian wild ass 3. Wild buffalo Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2012,
+      "chapter": "Indian wild ass and protected-species conservation",
+      "question": "Which one of the following groups of animals belongs to the category of endangered species?",
+      "options": {
+        "a": "Great Indian Bustard, Musk Deer, Red Panda and Asiatic Wild Ass",
+        "b": "Kashmir Stag, Cheetal, Blue Bull and Great Indian Bustard",
+        "c": "Snow Leopard, Swamp Deer, Rhesus Monkey and Sarus (Crane)",
+        "d": "Lion-tailed Macaque, Blue Bull, Hanuman Langur and Cheetal"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2011,
+      "chapter": "Rainforest nutrient cycles and regeneration",
+      "question": "If a tropical rainforest is removed, it does not regenerate quickly as compared to a tropical deciduous forest. This is because",
+      "options": {
+        "a": "the soil of rainforest is deficient in nutrients",
+        "b": "propagules of the trees in a rainforest have poor viability",
+        "c": "the rainforest species are slow-growing",
+        "d": "exotic species invade the fertile soil of rainforest"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2019,
+      "chapter": "Solar geoengineering and stratospheric aerosol injection",
+      "question": "In the context of which of the following do some scientists suggest the use of cirrus cloud thinning technique and the injection of sulphate aerosol into the stratosphere?",
+      "options": {
+        "a": "Creating the artificial rains in some regions",
+        "b": "Reducing the frequency and intensity of tropical cyclones",
+        "c": "Reducing the adverse effects of solar wind on the Earth",
+        "d": "Reducing the global warming"
+      },
+      "answer": "d"
     }
   ]
 }

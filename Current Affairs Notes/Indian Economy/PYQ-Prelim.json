@@ -3,10 +3,16 @@
   "exam_stage": "Prelim",
   "questions": [
     {
-      "question": "Consider the following statements:\n1. In India credit rating agencies are regulated by the Reserve Bank of India.\n2. The rating agency popularly known as ICRA is a public limited company.\n3. Brickwork Ratings is an Indian credit rating agency.\nWhich of the statements given above are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "question": "Consider the following statements:\n1. In India credit rating agencies are regulated by the Reserve Bank of India.\n2. The rating agency popularly known as ICRA is a public limited company.\n3. Brickwork Ratings is an Indian credit rating agency.\nWhich of the statements given above are correct?",
       "chapter": "Credit ratings and rating agencies",
       "year": 2022,
-      "answer": "(b) 2 and 3 only"
+      "answer": "b",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      }
     },
     {
       "question": "Which of the following gives ‘Global Gender Gap Index’ ranking to the countries of the world?\n(a) World Economic Forum\n(b) UN Human Rights Council\n(c) UN Women\n(d) World Health Organization",
@@ -59,7 +65,7 @@
     },
     {
       "year": 2022,
-      "chapter": "National Turmeric Board and commodity boards",
+      "chapter": "National Turmeric Board and commodity boards; Spices Board and export quality",
       "question": "With reference to the \"Tea Board\" in India, consider the following statements:\n1. The Tea Board is a statutory body.\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.\n3. The Tea Board's Head Office is situated in Bengaluru.\n4. The Board has overseas offices at Dubai and Moscow.\nWhich of the statements given above are correct?",
       "options": {
         "a": "1 and 3",
@@ -191,18 +197,6 @@
       "answer": "c"
     },
     {
-      "year": 2022,
-      "chapter": "Credit ratings and rating agencies",
-      "question": "Consider the following statements: 1. In India credit rating agencies are regulated by Reserve Bank of India. 2. The rating agency popularly known as ICRA is a public limited company. 3. Brickwork Ratings is an Indian credit rating agency. Which of the statements given above are correct?",
-      "options": {
-        "a": "1 and 2 only",
-        "b": "2 and 3 only",
-        "c": "1 and 3 only",
-        "d": "1, 2 and 3"
-      },
-      "answer": "b"
-    },
-    {
       "year": 2008,
       "chapter": "Spices Board and export quality",
       "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:\nList-I (Board): A. Coffee Board; B. Rubber Board; C. Tea Board; D. Tobacco Board.\nList-II (Headquarters): 1. Bengaluru; 2. Guntur; 3. Kottayam; 4. Kolkata.\nCode (A B C D):",
@@ -213,18 +207,6 @@
         "d": "1 4 3 2"
       },
       "answer": "b"
-    },
-    {
-      "year": 2022,
-      "chapter": "Spices Board and export quality",
-      "question": "With reference to the “Tea Board” in India, consider the following statements:\n1. The Tea Board is a statutory body.\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.\n3. The Tea Board’s Head Office is situated in Bengaluru.\n4. The Board has overseas office at Dubai and Moscow.\nWhich of the statements given above are correct?",
-      "options": {
-        "a": "1 and 3",
-        "b": "2 and 4",
-        "c": "3 and 4",
-        "d": "1 and 4"
-      },
-      "answer": "d"
     },
     {
       "year": 2015,
@@ -261,6 +243,54 @@
         "d": "1, 3 and 4 only"
       },
       "answer": "c"
+    },
+    {
+      "year": 2010,
+      "chapter": "Monetary Policy Committee and policy instruments",
+      "question": "When the Reserve Bank of India announces an increase of the Cash Reserve Ratio, what does it mean?",
+      "options": {
+        "a": "The commercial banks will have less money to lend",
+        "b": "The Reserve Bank of India will have less money to lend",
+        "c": "The Union Government will have less money to lend",
+        "d": "The commercial banks will have more money to lend"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2010,
+      "chapter": "Monetary Policy Committee and policy instruments",
+      "question": "Which of the following terms indicates a mechanism used by commercial banks for providing credit to the government?",
+      "options": {
+        "a": "Cash Credit Ratio",
+        "b": "Debt Service Obligation",
+        "c": "Liquidity Adjustment Facility",
+        "d": "Statutory Liquidity Ratio"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2025,
+      "chapter": "Farm ponds and decentralised water harvesting",
+      "question": "The irrigation device called “Araghatta” was",
+      "options": {
+        "a": "a water bag made of leather pulled over a pulley",
+        "b": "a large wheel with earthen pots tied to the outer ends of its spokes",
+        "c": "a larger earthen pot driven by bullocks",
+        "d": "a large water bucket pulled up by rope directly by hand"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2025,
+      "chapter": "National Turmeric Board and value chains",
+      "question": "Consider the following statements about turmeric during the year 2022–23: I. India is the largest producer and exporter of turmeric in the world. II. More than 30 varieties of turmeric are grown in India. III. Maharashtra, Telangana, Karnataka and Tamil Nadu are major turmeric producing States in India. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "answer": "d"
     }
   ]
 }

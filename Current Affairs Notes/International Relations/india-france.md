@@ -29,7 +29,14 @@
 - Cost, annual budget availability, delivery delays and dependence on imported high-end technology remain evaluation points. Carrier aviation complements indigenous TEDBF development; an interim import does not establish TEDBF's operational readiness.
 - **Verified later clarification, 28 April 2025:** the signed Rafale agreement specified delivery completion **by 2030**; the issue's possible 2029 start was a forecast, not this contract milestone. [Ministry of Defence](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2124851&lang=2&reg=48).
 
+## June 2025: complementary bilateral background
+- France supports India's **UNSC permanent-seat aspiration and NSG entry**; **International Solar Alliance launched jointly in 2015**. Paris Agreement is a multilateral treaty, not a bilateral agreement solely supporting France.
+- PDF's **FY2022–23 trade US$13.4 billion/Indian exports over US$7 billion**, **US$10.49 billion cumulative FDI April 2000–December 2022/11 th investor**, and **second arms supplier 2017–2021** are dated snapshots, not June 2025 rankings. France's comparatively accommodating response to 1998 tests should not be equated with an unrestricted endorsement of every nuclear policy.
+- Embedded infographic adds **Horizon 2047 roadmap**, blue-economy/ocean governance, Indo-Pacific cooperation and **Jaitapur nuclear-project discussions**. Roadmaps/proposals are not completed reactors; technical, financial and liability issues remain.
+- Space links: **CNES–ISRO; TRISHNA** planned thermal-infrared Earth observation; existing radar/observation cooperation differs from proving every proposed satellite has launched. **Migration and Mobility Partnership/young-professional exchanges** support skills/people links subject to implementation rules. [MEA bilateral brief](https://www.mea.gov.in/Portal/ForeignRelation/India-France_Bilateral_Brief_for_MEA_Website.pdf).
+- EU trade negotiations operate at **India–EU** level; no standalone India–France FTA should be assumed. Technology transfer/IP, trade barriers and occasional geopolitical divergence require issue-based cooperation; an infographic's “differences over BRI” is not a verified account of French endorsement of all Chinese projects.
+
 
 ## PDF coverage
 
-2025-01-06: pp. 16, 17, 18, 19, 20 · 2025-02-14: pp. 9, 10, 11 · 2025-03-16: pp. 8, 9, 10, 16, 17 · 2025-04-10: pp. 1, 2, 3 · 2025-04-26: pp. 1, 2, 3
+2025-01-06: pp. 16, 17, 18, 19, 20 · 2025-02-14: pp. 9, 10, 11 · 2025-03-16: pp. 8, 9, 10, 16, 17 · 2025-04-10: pp. 1, 2, 3 · 2025-04-26: pp. 1, 2, 3 · 2025-06-09: pp. 1, 2

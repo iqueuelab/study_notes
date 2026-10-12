@@ -25,6 +25,18 @@
         "d": "Sarojini Naidu"
       },
       "answer": "c"
+    },
+    {
+      "year": 2025,
+      "chapter": "Portuguese crop introductions in India",
+      "question": "Consider the following fruits: I. Papaya II. Pineapple III. Guava How many of the above were introduced in India by the Portuguese in the sixteenth and seventeenth centuries?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "answer": "c"
     }
   ]
 }

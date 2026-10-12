@@ -19,7 +19,16 @@
 - Habitat conversion and roads/rail/mining fragment corridors; crop attraction and blocked movement drive dangerous encounters, losses and retaliatory killing. Source “over 500 human deaths annually” is a dated broad burden claim, not an exact fixed annual total.
 - Protect connected habitat, retrofit crossings/rail operations, early warnings, rapid response, compensation and community participation; control ivory/body-part trade and monitor disease.
 - **2020 PYQ: (a) 1 and 2 only**—female herd leadership and gestation up to 22 months; 40-year-only calving cutoff false; Karnataka, not Kerala, led the relevant population estimate.
+## June 2025: Kumki management and corridor correction
+- **Kumki** means trained **captive Asian elephants**, working with mahouts in professionally managed capture/rescue, conflict response, veterinary support/patrol and training. They are not a separate species or a genetically domesticated elephant lineage.
+- Source recalls **2024 Andhra Pradesh–Karnataka MoU** for deployment, expert teams, mahout training, veterinary SOPs, nutrition/health and knowledge exchange; Karnataka's **62 transfers** is a source-reported cumulative count, not proof all were newly deployed to AP or that conflict was solved.
+- Embedded capture illustration depicts multiple elephants assisting veterinary-controlled restraint/transport, with named example **Khaleem** and **Madukkarai Maharaj**; its **7–8-year training** is illustrative, not a universal age/duration. Capture/relocation require animal welfare, trained staff, veterinary judgment and continued habitat/community measures.
+- Correct repeated population **2017: 29,964**, not PDF **27,312**. Corridor count: **150 across 15 range States**, ground-validated in 2023 report, not source 138. [MoEFCC corridor report](https://moef.gov.in/uploads/2023/11/PE-Elephant-Corridor-of-India-2023.pdf).
+- Graphic's “four main species” conflates Asian subspecies with species: **Indian/Sumatran are Asian elephant populations/subspecies; African savanna/forest are separate species**. Existing topic lists conservation statuses/gestation/ecology; no new completed national census is established here.
+- Infographic recall: **Gaj Sochna app 2022, Gaj Yatra 2017, Haathi Mere Saathi 2011**, source **National Elephant Corridor project 2005**; names/years are source background, not proof statutory protection or nationwide success. **MIKE** timing correction already recorded.
+- **IUCN**, membership union headquartered **Gland, Switzerland**; RedList threatened categories **Vulnerable, Endangered, Critically Endangered**. Old pink/green page conventions are not contemporary legal protection schedules.
+
 
 ## PDF coverage
 
-2025-05-26: pp. 8, 9, 10, 11, 12
+2025-05-26: pp. 8, 9, 10, 11, 12 · 2025-06-09: pp. 8, 9

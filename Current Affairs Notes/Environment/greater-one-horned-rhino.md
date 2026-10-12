@@ -10,7 +10,15 @@
 - Risks: horn poaching, habitat fragmentation/encroachment, conflict, flood mortality, invasive plants (including Mimosa), and concentration in few populations. Floods also sustain floodplain ecosystems; protection requires high-ground access/corridors, not treating every flood as ecologically harmful.
 - **Indian Rhino Vision 2020 (launched 2005): target 3,000 Assam rhinos across seven protected areas by 2020**; Assam Forest Department, WWF-India, IRF and Bodoland partners. A target is not automatic achievement. Translocation from Kaziranga/Pobitora to Manas rebuilds/disperses populations; source's suggestion of transfer *to* Pobitora should not be generalised.
 - Habitat management, anti-poaching camps/intelligence, surveillance, community partnership, genetic diversity and safe translocations complement protection. Inset cites **National Rhino Conservation Strategy** and **2019 New Delhi Declaration on Asian Rhinos** (India, Bhutan, Nepal, Indonesia, Malaysia); declarations should be distinguished from completed measures. “Project Rhino” is a loose source label, not proof of a distinct verified national scheme.
+## Kaziranga expansion: June 2025 clipping
+- **Assam**, Brahmaputra floodplain south of the river and north of **Karbi/Mikir hills**; wetlands, tall grasslands and forest support rhino, tiger, elephant, wild water buffalo and swamp deer. Source “Big Four” omits deer; a popular species grouping is not a statutory classification.
+- **UNESCO World Heritage inscription 1985**, national park/tiger-reserve and important bird habitat. Bird movement involves multiple flyway systems; avoid an unqualified “Australasia–Indo-Asian flyway junction” designation without an authoritative flyway map.
+- Clipping reports Cabinet approval of a **sixth addition, 47,306.33 ha**, with **10 villages excluded**; states the Cabinet decided on **21 May**. Initial park/tiger-reserve extent cited **1,302 km²** refers to a particular landscape boundary, not automatically the original national-park core.
+- Excluded villages in clipping: **Baligaon, Biswanath Ghat, Gakhirkhaite, Gonaitapu, Gopal Jarani, Hatimura, Jobre, Silghat, Thute Chapori and Umatamoni**. Cabinet approval, final legal notification and effective boundary implementation are distinct; do not imply all land was already notified merely from the headline.
+- Source cites **32.64 tigers/100 km²** as a survey density; it is not the tiger count, nor a guarantee density remains constant after expansion. Existing notes retain corrected **2022 rhino census 2,613** and conservation status.
+- Expansion aims at biodiversity protection/sustainable tourism; maintain safe wildlife passage to high ground, wetland/grassland processes and community rights. Floods sustain the ecosystem while extreme inundation creates mortality and evacuation risks.
+
 
 ## PDF coverage
 
-2025-04-30: pp. 16, 17, 18, 19
+2025-04-30: pp. 16, 17, 18, 19 · 2025-06-06: pp. 7, 8

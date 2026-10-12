@@ -10,7 +10,13 @@
 - Telecommunications Act 2023 provides administrative allocation for listed satellite services. The 2012 natural-resources advisory opinion did not make auction the sole constitutional method for every resource.
 - Safeguard lawful interception, privacy, secure gateways, fair competition and emergency resilience; commercial coverage is not automatically a secure military network.
 - Orbital debris, collision avoidance and sustainable spectrum/orbit use accompany digital-inclusion benefits.
+## Starlink licence: 6 June 2025
+- **DoT granted Unified Licence** authorisations for **GMPCS, Commercial VSAT CUG and ISP Category A** to **Starlink Satellite Communications Private Limited on 6 June**. This advances approval beyond the March distribution announcements; separate spectrum, relevant space authorisation, security/testing and commercial rollout stages still matter. [Official parliamentary confirmation](https://sansad.in/getFile/annex/268/AU3216_S4YKT2.pdf?source=pqars).
+- Source describes Starlink as **third after OneWeb/Jio Satellite**; **Amazon Kuiper awaiting approval** in this dated snapshot. June 7 practice answer **(b),1,3,4** concerns licensing status at that time, not universal current service availability.
+- Proposed **trial spectrum within 15–20 days** was an expectation, not a confirmed allocation/delivery deadline; security obligations include lawful interception.
+- Diagram compares **LEO/MEO/GEO**: lower altitude generally reduces propagation delay but needs constellation/handover support; **Starlink uses LEO**. Existing notes retain affordability, gateway/power/coverage and debris qualifications.
+
 
 ## PDF coverage
 
-2025-03-17: pp. 23, 24, 25, 26, 37 · 2025-03-18: pp. 24, 25, 26, 27, 35 · 2025-03-19: pp. 18, 19, 20, 21, 22
+2025-03-17: pp. 23, 24, 25, 26, 37 · 2025-03-18: pp. 24, 25, 26, 27, 35 · 2025-03-19: pp. 18, 19, 20, 21, 22 · 2025-06-07: pp. 9, 10

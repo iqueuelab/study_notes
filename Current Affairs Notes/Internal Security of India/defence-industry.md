@@ -59,7 +59,15 @@
 - Improve realistic milestones, procurement decisions, accountable delivery, prototype/R&D support and competitive partnerships. The current capital procurement framework is **Defence Acquisition Procedure 2020**; source's generic DPP reference should not be treated as the latest named instrument. Proposed incentives/PPPs are recommendations rather than accomplished reforms.
 - Practice answer: delayed delivery → preparedness gap → technology/contract/capacity constraints → credible milestones, competition, design capability and lifecycle support.
 
+## June 2025 speech and source corrections
+- Clipping repeats **Defence Minister Rajnath Singh's ₹50,000-crore exports by 2029 goal** at **IIT Mandi's 16th Foundation Day**; it is a speech report, not exports already achieved or necessarily a newly announced June target. Its **~88% ammunition self-sufficiency** is a speaker/source figure requiring category/year, not all defence equipment self-sufficiency.
+- Official FY2024–25 exports **₹23,622 crore** is distinct from prose's recycled FY2023–24 figures and forecasts. **CareEdge 20% production /19% export CAGR through FY2029** remain forecasts; source's 28% historical CAGR needs its stated period. [Defence export brief](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202543531401.pdf).
+- Existing notes retain the denominator cautions for Myanmar/Sri Lanka recipient shares, private/DPSU shares, budget/GDP and import spending, and correct the misattributed defence **TUFS**.
+- June prose also mislabels administration as “Ministry of Industrial Promotion” and presents an “India Defence Mart” export-licensing portal/universal defence EPC without verified legal identity. Use actual **MoD/DDP export-authorisation mechanisms, Defence Exports Promotion Scheme**, industrial corridors and applicable investment/procurement policies; do not invent a newly operational agency from generic names.
+- Proposed Green Channel expansion and advanced-system/startup support are suggestions; **194 startups** is an undated source snapshot, not India's complete current ecosystem. Private share of exports does not equal private share of all production/procurement.
+- Mains: predictable procurement and finance, design/R&D, export certification, reliable delivery/spares, partnerships and end-use compliance; targets and exhibition participation do not establish actual sales or complete technology autonomy.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4 · 2025-05-30: pp. 11, 12, 13
+2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4 · 2025-05-30: pp. 11, 12, 13 · 2025-06-07: pp. 16, 17, 18, 19

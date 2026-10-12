@@ -9,7 +9,12 @@
 - Natural rainfall variability makes attribution difficult; use control areas/randomised trials where feasible, cloud/radar observations, uncertainty estimates and transparent cost-benefit evaluation. Results cannot simply be transferred across different clouds/regions.
 - **WMO** reports no established ability to eliminate severe weather or control floods/tropical cyclones. The source's claims that over-seeding causes floods or long-term climatic imbalance are not established facts. Published operations using usual seeding-agent quantities have not shown significant health/environmental effects; increased quantities/new agents still require assessment. [WMO scientific statement](https://public.wmo.int/content/wmo-statement-weather-modification).
 - Constraints: suitable-cloud availability, aircraft/personnel cost, uncertain response and possible downwind impacts needing investigation. Local/inter-state and international cooperation, environmental monitoring, consent/transparency and clear legal responsibilities matter; cloud seeding complements water conservation rather than guarantees drought relief.
+## 2025 PYQ mechanism recall
+- Artificial rainfall agents asked: **silver iodide and potassium iodide (a)**. Seeding needs existing suitable clouds; it cannot reliably manufacture clouds/moisture from clear sky.
+- **AgI is an ice-nucleating agent** in supercooled clouds, rather than every seeding agent functioning identically as a condensation nucleus. Hygroscopic salts encourage droplet growth; dry ice promotes freezing. Intended pollution washout depends on actual rain and does not remove emission sources.
+- Distinguish weather modification from **SAI solar intervention/cirrus radiative thinning**; atmospheric layer, objective and evidence differ.
+
 
 ## PDF coverage
 
-2025-05-08: pp. 17, 18, 19
+2025-05-08: pp. 17, 18, 19 · 2025-06-10: pp. 38, 39

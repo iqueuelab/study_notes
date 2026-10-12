@@ -11,7 +11,17 @@
 - **Jaitapur, Maharashtra—EDF**; **Kovvada, Andhra Pradesh—Westinghouse**. Liability is one obstacle alongside cost, financing, technology, approvals and local concerns; amendment alone does not guarantee completion.
 - SMRs may offer modular construction/flexible deployment; safety, waste, fuel security and commercial costs still require assessment.
 - Balance reliable low-carbon power and investment with enforceable compensation, supplier quality, independent safety oversight, emergency readiness and parliamentary/public scrutiny.
+## June 2025 debate: legal reform and investment
+- Discussion of **Atomic Energy Act 1962 /Civil Liability for Nuclear Damage Act 2010** amendments remained a **reform proposal**, not permission already granted to every private/foreign operator. Correct the source's plural “Damages” to the Act's title **Damage**; **100 GW by 2047** remains a target and the source's **~8 GW** a rounded baseline.
+- **Ashley Tellis's position:** legal predictability/liability and commercial incentives affect foreign supply and technology transfer. **D. Raghunandan's counterview:** financing, returns, construction costs and investor appetite can constrain expansion even after legal changes. These are competing assessments, not a demonstrated single cause of all stalled projects.
+- Source refers to Russian contractual arrangements before the 2010 Act and later NPCIL specification/waiver disputes. Do not treat the interview's “violates parliamentary intent” as a final court ruling or assume every historical arrangement was governed identically by the later Act.
+- Existing notes distinguish **operator's primary no-fault victim liability** from **section 17 recourse against suppliers** after compensation. Contract terms cannot automatically be assumed to override applicable statute; the precise agreement, law and judicial interpretation matter. [Official Act](https://www.indiacode.nic.in/bitstream/123456789/2084/5/A2010-38.pdf).
+- **CSC**: India **ratified in 2016**, not merely a current signatory; compensation framework combines national arrangements and supplementary funding. Describe statutory/financial arrangements accurately instead of a universal “pre-accident cash fund”; permitted recourse grounds differ from direct primary supplier liability.
+- **SMRs** promise modular/scalable deployment, but safety, waste, fuel, regulation and cost require design-specific evidence; no universal guarantee they are safer/cheaper. Technology transfer requires commercial incentive, legal permission, IP access and domestic absorptive capacity.
+- **Westinghouse bankruptcy 2017** is historical, not proof it remained insolvent in June 2025. Source's sweeping claim US/France/UK were not expanding nuclear power obscures differing projects/policies; evaluate actual commitments rather than assume no foreign investment possible.
+- Capacity expansion requires financing/offtake certainty, domestic components and skilled workers, regulatory capability, realistic delivery, independent safety and effective victim compensation; reform can facilitate investment but cannot replace these requirements.
+
 
 ## PDF coverage
 
-2025-02-10: pp. 3, 4, 5
+2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19

@@ -34,7 +34,15 @@
 - Demographic transition varies across States: education, nutrition, voluntary family planning and women's autonomy in higher-fertility areas; childcare, secure work, migration, geriatric care/pensions/accessible infrastructure as ageing grows. Invest in skills/jobs to realise the dividend.
 - Last completed Census then **2011**; delayed next Census matters for local planning. SRS, NFHS and projections have different methods; a national demographic-transition “stage” does not capture all States.
 
+## June 2025: delimitation framework and assurance
+- Delimitation fixes **territorial constituency boundaries**, distinct from allocating total seats among States and from local-body delimitation. Aim: broadly equal population representation and fair boundaries; SC/ST reservation under **Articles 330/332** is related but separate from total State entitlement.
+- Initial **1950–51** exercise preceded commissions **1952, 1963, 1973, 2002**, under Acts **1952, 1962, 1972, 2002**. Last general change in State-wise Lok Sabha allocation followed **1971 Census**, completed **1976**. [ECI history](https://www.eci.gov.in/delimitation-2002).
+- **42nd Amendment 1976** freeze; **84th Amendment 2001** extended seat-allocation freeze to the first census after 2026 while permitting boundary rationalisation with 1991 data; **87th Amendment 2003** substituted 2001 data. The PDF graphic's “84th Amendment 2002” is incorrect. Boundary readjustment did not itself raise each State's seat total.
+- **Articles 82/170** govern census-linked readjustment, subject to constitutional freezes; no automatic redistribution on 1 January 2027. Under **section 3, Delimitation Act 2002**, **Central Government constitutes the Commission**: serving/former Supreme Court judge as chair, CEC or nominated Election Commissioner, relevant State Election Commissioner. The PDF's universal President-appointment formulation is imprecise. Majority decisions and published orders have statutory force; constitutional restrictions on questioning delimitation do not make every related government act immune from judicial review. [Act](https://www.indiacode.nic.in/bitstream/123456789/2004/1/A2002-33.pdf).
+- Embedded June report: **Amit Shah** said southern States' rightful share would not be reduced and seats would increase pro rata; **A. Raja/DMK** asked whether this meant existing-seat or population proportions. These are political assurances/questions, **not a final enacted allocation formula**.
+- Southern demographic achievements create concerns about relative influence; source **35% GDP/18% population** lacks specified States/year. **Finance Commission tax devolution ≠ Lok Sabha seat allocation**: population, income distance, demographic performance and other criteria differ; using 2011 population does not alone determine all transfers.
+
 
 ## PDF coverage
 
-2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24 · 2025-02-27: pp. 31, 32, 33, 34 · 2025-02-28: pp. 17, 18, 19, 20, 21 · 2025-03-05: pp. 7, 8, 9, 10 · 2025-05-12: pp. 2, 3, 4
+2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24 · 2025-02-27: pp. 31, 32, 33, 34 · 2025-02-28: pp. 17, 18, 19, 20, 21 · 2025-03-05: pp. 7, 8, 9, 10 · 2025-05-12: pp. 2, 3, 4 · 2025-06-08: pp. 1, 2, 3, 4
