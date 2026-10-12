@@ -30,6 +30,30 @@
       "title": "British Expansion in South India: Conquest of Mysore and the Marathas (1767–1818)",
       "notes": "02. British Expansion and Consolidation in India (1767-1857)/01. British Expansion in South India(Conquest of Mysore and the Marathas, 1767-1818)/Quick Revision Notes.html",
       "short_label": "U2 · C1"
+    },
+    "6": {
+      "label": "Unit 2 · Chapter 2",
+      "short_label": "U2 · C2",
+      "title": "British Expansion Beyond Indian Frontiers (Nepal, Burma and Afghanistan, 1814-42)",
+      "notes": "02. British Expansion and Consolidation in India (1767-1857)/02. British Expansion Beyond Indian Frontiers (Nepal, Burma and Afghanistan, 1814-42)/Quick Revision Notes.html"
+    },
+    "7": {
+      "label": "Unit 2 · Chapter 3",
+      "short_label": "U2 · C3",
+      "title": "British Expansion in North India (Conquest of Sindh, Punjab and Awadh, 1843-57)",
+      "notes": "02. British Expansion and Consolidation in India (1767-1857)/03. British Expansion in North India (Conquest of Sindh, Punjab and Awadh, 1843-57)/Quick Revision Notes.html"
+    },
+    "8": {
+      "label": "Unit 3 · Chapter 1",
+      "short_label": "U3 · C1",
+      "title": "Changes and Impact: Indian Economy",
+      "notes": "03. Changes and Impact (Mid-18th to Mid-19th Century)/01. Changes and Impact - Indian Economy/Quick Revision Notes.html"
+    },
+    "9": {
+      "label": "Unit 3 · Chapter 2",
+      "short_label": "U3 · C2",
+      "title": "Changes and Impact: Indian Polity (Constitutional Development Part 1, 1757-1858)",
+      "notes": "03. Changes and Impact (Mid-18th to Mid-19th Century)/02. Changes and Impact - Indian Polity (Constitutional Development Part 1, 1757-1858)/Quick Revision Notes.html"
     }
   },
   "events": [
@@ -349,7 +373,8 @@
       "summary": "Early printing and missionary/vernacular publishing.",
       "category": "Society & culture",
       "chapters": [
-        "3"
+        "3",
+        "8"
       ],
       "date_precision": "year"
     },
@@ -407,12 +432,26 @@
       "start_year": 1600,
       "date_label": "1600",
       "title": "English East India Company charter",
-      "summary": "Elizabeth I granted the company a trading monopoly.",
+      "summary": "Elizabeth I granted the company a trading monopoly. Elizabeth I’s royal charter, not an Act of Parliament.",
       "category": "Trade & settlements",
       "chapters": [
-        "3"
+        "3",
+        "8"
       ],
       "date_precision": "year"
+    },
+    {
+      "id": "e6d84dddd9a9",
+      "start_year": 1600,
+      "date_label": "1600–1757",
+      "title": "Pre-territorial Company commerce",
+      "summary": "Bullion and goods financed Indian manufactures; political control later changed procurement.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1757
     },
     {
       "id": "64090a2add07",
@@ -1952,6 +1991,18 @@
       "date_precision": "year"
     },
     {
+      "id": "bef3b06b9606",
+      "start_year": 1753,
+      "date_label": "1753",
+      "title": "Gomastha procurement in the supplied account",
+      "summary": "Company paid agents replaced intermediaries; coercive power expanded after Plassey.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "de6e96e56141",
       "start_year": 1754,
       "date_label": "1754",
@@ -2119,6 +2170,31 @@
       "date_precision": "day"
     },
     {
+      "id": "83be591c7364",
+      "start_year": 1757,
+      "date_label": "1757",
+      "title": "Company obtains zamindari of 24 Parganas",
+      "summary": "Revenue rights expanded after Plassey, preceding Diwani.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7a9563248cfc",
+      "start_year": 1757,
+      "date_label": "1757–1813",
+      "title": "Mercantilist phase of colonial economy",
+      "summary": "Interpretive phase: monopoly, tribute and revenue-financed export purchases.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1813
+    },
+    {
       "id": "34dfb89cbece",
       "start_year": 1757,
       "date_label": "1757–60",
@@ -2176,12 +2252,13 @@
       "start_year": 1757,
       "date_label": "23 June 1757",
       "title": "Battle of Plassey",
-      "summary": "Clive defeated Siraj amid Mir Jafar/Rai Durlabh's non-cooperation; Company becomes kingmaker.",
+      "summary": "Clive defeated Siraj amid Mir Jafar/Rai Durlabh's non-cooperation; Company becomes kingmaker. Indian revenue and political power increasingly financed trade purchases.",
       "category": "Battles & wars",
       "chapters": [
         "1",
         "2",
-        "4"
+        "4",
+        "8"
       ],
       "month": 6,
       "day": 23,
@@ -2310,10 +2387,11 @@
       "start_year": 1760,
       "date_label": "c.1760–1840",
       "title": "British Industrial Revolution",
-      "summary": "Mechanised textile/iron production and steam alter colonial trading interests.",
+      "summary": "Mechanised textile/iron production and steam alter colonial trading interests. Machine-made competition and British demand changed Indian trade.",
       "category": "World context",
       "chapters": [
-        "3"
+        "3",
+        "8"
       ],
       "end_year": 1840,
       "date_precision": "period"
@@ -2349,10 +2427,11 @@
       "start_year": 1760,
       "date_label": "October 1760–1763",
       "title": "Mir Qasim becomes Nawab",
-      "summary": "Cedes Burdwan, Midnapore and Chittagong; reorganises revenue and army, shifts capital to Munger.",
+      "summary": "Cedes Burdwan, Midnapore and Chittagong; reorganises revenue and army, shifts capital to Munger. Company acquired Burdwan, Midnapore and Chittagong revenue rights.",
       "category": "Rulers & States",
       "chapters": [
-        "4"
+        "4",
+        "8"
       ],
       "month": 10,
       "date_precision": "period",
@@ -2426,6 +2505,19 @@
       ],
       "month": 6,
       "date_precision": "month"
+    },
+    {
+      "id": "f74bba209225",
+      "start_year": 1762,
+      "date_label": "1762–1764",
+      "title": "British occupation of Manila",
+      "summary": "Brief occupation; not permanent annexation of the Philippines.",
+      "category": "World context",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "period",
+      "end_year": 1764
     },
     {
       "id": "3e804dd2e852",
@@ -2523,7 +2615,8 @@
       "chapters": [
         "1",
         "2",
-        "4"
+        "4",
+        "7"
       ],
       "month": 10,
       "day": 22,
@@ -2547,11 +2640,13 @@
       "start_year": 1765,
       "date_label": "1765–72",
       "title": "Dual government in Bengal",
-      "summary": "Company power and revenue control; nominal Nawab/intermediary administration; weak accountability.",
+      "summary": "Company power and revenue control; nominal Nawab/intermediary administration; weak accountability. Company Diwani and nominal Nawabi Nizamat separated power from responsibility.",
       "category": "Administration & economy",
       "chapters": [
         "4",
-        "5"
+        "5",
+        "8",
+        "9"
       ],
       "end_year": 1772,
       "date_precision": "period"
@@ -2574,13 +2669,15 @@
       "start_year": 1765,
       "date_label": "12 August 1765",
       "title": "Imperial diwani grant",
-      "summary": "Shah Alam II grants Bengal, Bihar and Orissa revenue rights; ₹26 lakh annual imperial payment.",
+      "summary": "Shah Alam II grants Bengal, Bihar and Orissa revenue rights; ₹26 lakh annual imperial payment. Diwani financed export purchases and established Company revenue control.",
       "category": "Treaties & grants",
       "chapters": [
         "1",
         "2",
         "3",
-        "4"
+        "4",
+        "8",
+        "9"
       ],
       "month": 8,
       "day": 12,
@@ -2595,7 +2692,8 @@
       "category": "Treaties & grants",
       "chapters": [
         "2",
-        "4"
+        "4",
+        "7"
       ],
       "month": 8,
       "day": 16,
@@ -2652,6 +2750,30 @@
       "date_precision": "period"
     },
     {
+      "id": "601708c28ddc",
+      "start_year": 1767,
+      "date_label": "1767",
+      "title": "Parliament claims annual Company payment",
+      "summary": "£400,000 annual contribution; comprehensive regulation came later.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e4dbfb24bbc2",
+      "start_year": 1768,
+      "date_label": "1768",
+      "title": "Gorkha conquest of Kathmandu",
+      "summary": "Unification and further expansion brought Nepal toward Company frontiers.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "c7edbf36a40a",
       "start_year": 1768,
       "date_label": "1768–94",
@@ -2675,6 +2797,21 @@
         "3"
       ],
       "date_precision": "year"
+    },
+    {
+      "id": "77bc2bfdc683",
+      "start_year": 1769,
+      "date_label": "1769–70",
+      "title": "Bengal famine",
+      "summary": "Drought/crop failure compounded by extraction and administrative failures. Harvest crisis, exactions and weak relief aggravated Bengal famine; mortality estimates uncertain.",
+      "category": "Society & culture",
+      "chapters": [
+        "4",
+        "8",
+        "9"
+      ],
+      "date_precision": "period",
+      "end_year": 1770
     },
     {
       "id": "cb648450b59b",
@@ -2713,18 +2850,6 @@
       ],
       "month": 4,
       "date_precision": "month"
-    },
-    {
-      "id": "77bc2bfdc683",
-      "start_year": 1770,
-      "date_label": "1770",
-      "title": "Bengal famine",
-      "summary": "Drought/crop failure compounded by extraction and administrative failures.",
-      "category": "Society & culture",
-      "chapters": [
-        "4"
-      ],
-      "date_precision": "year"
     },
     {
       "id": "df7577a1b7e4",
@@ -2766,15 +2891,29 @@
       "date_precision": "period"
     },
     {
+      "id": "e984fb45d47b",
+      "start_year": 1772,
+      "date_label": "1772",
+      "title": "Company seeks state assistance",
+      "summary": "Financial crisis led to parliamentary inquiry and the 1773 loan/regulation.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "12b8e0e03f0a",
       "start_year": 1772,
       "date_label": "1772",
       "title": "Dual government abolished",
-      "summary": "Deputy diwan arrangement ended; treasury shifted towards Calcutta.",
+      "summary": "Deputy diwan arrangement ended; treasury shifted towards Calcutta. Company assumed direct revenue management and shifted the treasury to Calcutta.",
       "category": "Administration & economy",
       "chapters": [
         "4",
-        "5"
+        "5",
+        "8",
+        "9"
       ],
       "date_precision": "year"
     },
@@ -2783,10 +2922,11 @@
       "start_year": 1772,
       "date_label": "1772",
       "title": "Five-year revenue farming introduced",
-      "summary": "Highest-bidder quinquennial settlement increases extraction/speculation.",
+      "summary": "Highest-bidder quinquennial settlement increases extraction/speculation. Five-year farming auctions encouraged extraction and unstable collection.",
       "category": "Administration & economy",
       "chapters": [
-        "5"
+        "5",
+        "8"
       ],
       "date_precision": "year"
     },
@@ -2870,22 +3010,50 @@
       "start_year": 1773,
       "date_label": "1773",
       "title": "Regulating Act",
-      "summary": "Creates Governor-General of Bengal framework and Calcutta Supreme Court provisions.",
+      "summary": "Creates Governor-General of Bengal framework and Calcutta Supreme Court provisions. Governor-General of Bengal with four-member Council; parliamentary supervision.",
       "category": "Administration & economy",
       "chapters": [
-        "5"
+        "5",
+        "9"
       ],
       "date_precision": "year"
+    },
+    {
+      "id": "22846d435876",
+      "start_year": 1773,
+      "date_label": "18 May 1773",
+      "title": "Lord North introduces regulating bill",
+      "summary": "Parliamentary response to Company crisis and governance failures.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "day",
+      "month": 5,
+      "day": 18
     },
     {
       "id": "4b80283ab64b",
       "start_year": 1774,
       "date_label": "1774",
       "title": "Hastings becomes Governor-General of Bengal",
-      "summary": "Distinct from his Bengal governorship beginning in 1772.",
+      "summary": "Distinct from his Bengal governorship beginning in 1772. Hastings became Governor-General of Bengal, not the formal Governor-General of India.",
       "category": "Rulers & States",
       "chapters": [
-        "5"
+        "5",
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "eaf03376e598",
+      "start_year": 1774,
+      "date_label": "1774",
+      "title": "Rohilkhand campaign with Company aid",
+      "summary": "Shuja-ud-Daula expanded Awadh's control.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
       ],
       "date_precision": "year"
     },
@@ -2908,10 +3076,11 @@
       "start_year": 1774,
       "date_label": "1774",
       "title": "Supreme Court opens at Calcutta",
-      "summary": "Separate English-law court overlaps Company judicial institutions.",
+      "summary": "Separate English-law court overlaps Company judicial institutions. Chief Justice Elijah Impey and three puisne judges; jurisdiction later clarified in 1781.",
       "category": "Administration & economy",
       "chapters": [
-        "5"
+        "5",
+        "9"
       ],
       "date_precision": "year"
     },
@@ -2933,10 +3102,11 @@
       "start_year": 1775,
       "date_label": "1775–97",
       "title": "Asaf-ud-Daulah in Awadh",
-      "summary": "Moves capital to Lucknow and promotes cultural patronage.",
+      "summary": "Moves capital to Lucknow and promotes cultural patronage. Company influence deepened after Shuja-ud-Daula.",
       "category": "Rulers & States",
       "chapters": [
-        "2"
+        "2",
+        "7"
       ],
       "end_year": 1797,
       "date_precision": "period"
@@ -2998,10 +3168,11 @@
       "start_year": 1776,
       "date_label": "1776",
       "title": "Adam Smith's Wealth of Nations",
-      "summary": "Criticism of monopoly contributes to arguments for open markets.",
+      "summary": "Criticism of monopoly contributes to arguments for open markets. Free-trade arguments challenged monopoly.",
       "category": "World context",
       "chapters": [
-        "3"
+        "3",
+        "8"
       ],
       "date_precision": "year"
     },
@@ -3036,10 +3207,11 @@
       "start_year": 1777,
       "date_label": "1777",
       "title": "Annual revenue settlements resumed",
-      "summary": "Hastings replaces failed five-year farming with annual settlements.",
+      "summary": "Hastings replaces failed five-year farming with annual settlements. Annual revenue farming replaced five-year contracts.",
       "category": "Administration & economy",
       "chapters": [
-        "5"
+        "5",
+        "8"
       ],
       "date_precision": "year"
     },
@@ -3129,6 +3301,18 @@
       "date_precision": "year"
     },
     {
+      "id": "aa295a86d97e",
+      "start_year": 1780,
+      "date_label": "1780",
+      "title": "Hicky's Bengal Gazette",
+      "summary": "First printed newspaper in India.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "54dcd81af55e",
       "start_year": 1780,
       "date_label": "1780",
@@ -3153,6 +3337,31 @@
       ],
       "end_year": 1784,
       "date_precision": "period"
+    },
+    {
+      "id": "1b74be3bc4ce",
+      "start_year": 1780,
+      "date_label": "1780–1789",
+      "title": "Talpura power established in Sindh",
+      "summary": "Approximate decade: Mir Fateh Ali Khan's ruling house and shared Amir authority.",
+      "category": "Political change",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "period",
+      "end_year": 1789
+    },
+    {
+      "id": "f7e64b48bc80",
+      "start_year": 1781,
+      "date_label": "1781",
+      "title": "Amending or Settlement Act",
+      "summary": "Clarified Supreme Court jurisdiction, executive exemptions and personal-law safeguards.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
     },
     {
       "id": "c8080a64d052",
@@ -3231,6 +3440,18 @@
       "date_precision": "year"
     },
     {
+      "id": "e32ccc368ce2",
+      "start_year": 1783,
+      "date_label": "1783",
+      "title": "Fox-North India Bill defeated",
+      "summary": "Proposed stronger supervision; defeat contributed to ministry's fall.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "c6e179f5cff7",
       "start_year": 1784,
       "date_label": "1784",
@@ -3241,6 +3462,32 @@
         "2"
       ],
       "date_precision": "year"
+    },
+    {
+      "id": "48a8729e3687",
+      "start_year": 1784,
+      "date_label": "1784",
+      "title": "Pitt's India Act",
+      "summary": "Board of Control and Directors created British dual control over Company government.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8",
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e27e4ab3d325",
+      "start_year": 1784,
+      "date_label": "1784–1786",
+      "title": "Pressure for stable land settlement",
+      "summary": "London pressed for durable arrangements; Cornwallis arrived in 1786.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1786
     },
     {
       "id": "084983a3c9d2",
@@ -3284,13 +3531,39 @@
       "start_year": 1786,
       "date_label": "1786–93",
       "title": "Cornwallis's first governorship",
-      "summary": "Third Mysore War, Permanent Settlement and Cornwallis Code.",
+      "summary": "Third Mysore War, Permanent Settlement and Cornwallis Code. Cornwallis arrived amid pressure for a stable revenue settlement.",
       "category": "Rulers & States",
       "chapters": [
-        "5"
+        "5",
+        "8",
+        "9"
       ],
       "end_year": 1793,
       "date_precision": "period"
+    },
+    {
+      "id": "f964803040e6",
+      "start_year": 1786,
+      "date_label": "1786",
+      "title": "Governor-General override Act",
+      "summary": "Cornwallis could override Council in special cases and combine military command.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "cd8a4970b982",
+      "start_year": 1786,
+      "date_label": "1786",
+      "title": "Penang settlement",
+      "summary": "British foothold preceded formation of the Straits Settlements.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
     },
     {
       "id": "2fd6bd98047a",
@@ -3329,6 +3602,32 @@
       "date_precision": "year"
     },
     {
+      "id": "074f4e619ccd",
+      "start_year": 1789,
+      "date_label": "1789",
+      "title": "Company direct agency and weaver contracts",
+      "summary": "Bypassing intermediaries and penalised advance contracts reduced producer freedom.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "10f2fbc548ff",
+      "start_year": 1789,
+      "date_label": "1789–90",
+      "title": "Decennial revenue settlement",
+      "summary": "Cornwallis recognises zamindar proprietorship; made permanent in 1793. Decennial arrangements in Bengal and other provinces preceded permanent fixing in 1793.",
+      "category": "Administration & economy",
+      "chapters": [
+        "5",
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1790
+    },
+    {
       "id": "800dea0ac172",
       "start_year": 1789,
       "date_label": "Late 1789",
@@ -3339,18 +3638,6 @@
         "5"
       ],
       "date_precision": "approximate"
-    },
-    {
-      "id": "10f2fbc548ff",
-      "start_year": 1790,
-      "date_label": "1790",
-      "title": "Decennial revenue settlement",
-      "summary": "Cornwallis recognises zamindar proprietorship; made permanent in 1793.",
-      "category": "Administration & economy",
-      "chapters": [
-        "5"
-      ],
-      "date_precision": "year"
     },
     {
       "id": "5fb8f0c20dbe",
@@ -3379,6 +3666,18 @@
       "date_precision": "year"
     },
     {
+      "id": "9140876e9202",
+      "start_year": 1792,
+      "date_label": "1792",
+      "title": "Read's Baramahal settlement experiments",
+      "summary": "Read and Munro associated with origins of Ryotwari.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "a9daf148b64b",
       "start_year": 1792,
       "date_label": "March 1792",
@@ -3390,6 +3689,18 @@
       ],
       "month": 3,
       "date_precision": "month"
+    },
+    {
+      "id": "b1e0bf71c773",
+      "start_year": 1793,
+      "date_label": "1793",
+      "title": "Charter Act renews Company privileges",
+      "summary": "Twenty-year renewal, stronger supervision and Indian revenue-funded Board expenses.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
     },
     {
       "id": "042358734c83",
@@ -3409,11 +3720,13 @@
       "start_year": 1793,
       "date_label": "1793",
       "title": "Permanent Settlement and Cornwallis Code",
-      "summary": "Fixed State revenue demand; revenue/judicial separation and court reforms.",
+      "summary": "Fixed State revenue demand; revenue/judicial separation and court reforms. Demand fixed permanently; tenant rents were not frozen. Cornwallis Code is distinct from the Charter Act.",
       "category": "Administration & economy",
       "chapters": [
         "2",
-        "5"
+        "5",
+        "8",
+        "9"
       ],
       "date_precision": "year"
     },
@@ -3555,6 +3868,18 @@
       "date_precision": "year"
     },
     {
+      "id": "1a7475265ea4",
+      "start_year": 1799,
+      "date_label": "1799",
+      "title": "Landlord rent-enforcement rules",
+      "summary": "Alongside 1793 rules, strengthened collection powers and tenant insecurity.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "80ba1b24f307",
       "start_year": 1799,
       "date_label": "1799",
@@ -3635,10 +3960,23 @@
       "start_year": 1801,
       "date_label": "1801",
       "title": "Awadh subsidiary alliance",
-      "summary": "Fiscal/territorial concessions reinforce British control.",
+      "summary": "Fiscal/territorial concessions reinforce British control. About half of Awadh territory ceded for Company support and reform obligations.",
       "category": "Treaties & grants",
       "chapters": [
-        "5"
+        "5",
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5e03104961d7",
+      "start_year": 1801,
+      "date_label": "1801",
+      "title": "British representative arrangement with Nepal",
+      "summary": "Wellesley sought diplomatic representation; Nepal was not annexed.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
       ],
       "date_precision": "year"
     },
@@ -3653,6 +3991,19 @@
         "5"
       ],
       "date_precision": "year"
+    },
+    {
+      "id": "6987ee46c888",
+      "start_year": 1801,
+      "date_label": "1801–1806",
+      "title": "Formation of the Ceded and Conquered Provinces",
+      "summary": "Company acquisitions in present Uttar Pradesh preceded North-Western Provinces organisation in 1836.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "period",
+      "end_year": 1806
     },
     {
       "id": "dbaa992ac649",
@@ -3731,6 +4082,18 @@
       "month": 12,
       "day": 31,
       "date_precision": "day"
+    },
+    {
+      "id": "391a82074278",
+      "start_year": 1803,
+      "date_label": "1803",
+      "title": "British representative withdraws from Kathmandu",
+      "summary": "Hostility frustrated the early diplomatic arrangement.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
     },
     {
       "id": "05017eba6505",
@@ -3903,6 +4266,31 @@
       "date_precision": "period"
     },
     {
+      "id": "2409985afb6b",
+      "start_year": 1807,
+      "date_label": "1807–1809",
+      "title": "Minto's western diplomatic missions",
+      "summary": "Malcolm, Elphinstone, Metcalfe and Seton countered French/Napoleonic influence.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "period",
+      "end_year": 1809
+    },
+    {
+      "id": "d4e92d063623",
+      "start_year": 1809,
+      "date_label": "1809",
+      "title": "Sindh friendship treaty",
+      "summary": "Amirs agreed to exclude French settlement.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "e9f9dcb41855",
       "start_year": 1809,
       "date_label": "1809",
@@ -3911,6 +4299,18 @@
       "category": "Treaties & grants",
       "chapters": [
         "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "4bb834b19dc3",
+      "start_year": 1811,
+      "date_label": "1811",
+      "title": "Officials question permanent settlement",
+      "summary": "High burdens and limited improvement undermined expected welfare gains.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
       ],
       "date_precision": "year"
     },
@@ -3931,12 +4331,27 @@
       "start_year": 1813,
       "date_label": "1813",
       "title": "Charter Act ends Indian trade monopoly",
-      "summary": "Tea and China trade remain exceptions until 1833.",
+      "summary": "Tea and China trade remain exceptions until 1833. Tea/China exceptions remained; Crown sovereignty asserted; ₹1-lakh education allocation.",
       "category": "Administration & economy",
       "chapters": [
-        "3"
+        "3",
+        "8",
+        "9"
       ],
       "date_precision": "year"
+    },
+    {
+      "id": "c9d3b696a576",
+      "start_year": 1813,
+      "date_label": "1813–1858",
+      "title": "Industrial or free-trade phase",
+      "summary": "Interpretive phase: market for British manufactures and raw-material supplier.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1858
     },
     {
       "id": "700cd3240ae6",
@@ -3956,13 +4371,53 @@
       "start_year": 1814,
       "date_label": "1814–16",
       "title": "Anglo-Nepal War",
-      "summary": "One of Lord Hastings's expansion campaigns.",
+      "summary": "One of Lord Hastings's expansion campaigns. Ochterlony’s campaigns forced Nepalese concessions, but Nepal was not annexed.",
       "category": "Battles & wars",
       "chapters": [
-        "5"
+        "5",
+        "6"
       ],
       "end_year": 1816,
       "date_precision": "period"
+    },
+    {
+      "id": "b25daa730edb",
+      "start_year": 1814,
+      "date_label": "May 1814",
+      "title": "Butwal frontier clash",
+      "summary": "Attack on Company police posts sharpened Anglo-Nepal conflict.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "month",
+      "month": 5
+    },
+    {
+      "id": "c933d46e6087",
+      "start_year": 1814,
+      "date_label": "October 1814",
+      "title": "British campaign against Nepal begins",
+      "summary": "Lord Hastings launched the war; difficult hill fighting followed.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "month",
+      "month": 10
+    },
+    {
+      "id": "e33c3e728cfd",
+      "start_year": 1815,
+      "date_label": "1815–1832",
+      "title": "Declining Indian cotton-cloth exports to Britain",
+      "summary": "Textile exports fell while British machine-made imports expanded; not disappearance of total export surplus.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1832
     },
     {
       "id": "57b880348229",
@@ -3973,6 +4428,44 @@
       "category": "Rulers & States",
       "chapters": [
         "5"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "1486141e84b1",
+      "start_year": 1815,
+      "date_label": "1815",
+      "title": "Gurkha recruitment begins",
+      "summary": "Recruitment during the Anglo-Nepal War included Himalayan hill groups.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "eea2b8727101",
+      "start_year": 1815,
+      "date_label": "2 December 1815",
+      "title": "Treaty of Sugauli agreed",
+      "summary": "Nepal conceded extensive territorial claims and accepted British representation.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "day",
+      "month": 12,
+      "day": 2
+    },
+    {
+      "id": "56b18fa00216",
+      "start_year": 1816,
+      "date_label": "1816",
+      "title": "Bundelkhand cotton expansion",
+      "summary": "Export-oriented cultivation followed by price decline and heavy taxation.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
       ],
       "date_precision": "year"
     },
@@ -3999,6 +4492,20 @@
         "5"
       ],
       "date_precision": "year"
+    },
+    {
+      "id": "ee247ec77253",
+      "start_year": 1816,
+      "date_label": "4 March 1816",
+      "title": "Sugauli ratification exchanged",
+      "summary": "Kumaon and Garhwal among British acquisitions; Nepal survived as a buffer.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "day",
+      "month": 3,
+      "day": 4
     },
     {
       "id": "5497f7d3ac62",
@@ -4124,6 +4631,18 @@
       "date_precision": "year"
     },
     {
+      "id": "96fbc4c8e82d",
+      "start_year": 1818,
+      "date_label": "1818",
+      "title": "Early cotton mill near Calcutta",
+      "summary": "Early experiment preceded successful Bombay milling.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "5298b48eafbc",
       "start_year": 1818,
       "date_label": "1 January 1818",
@@ -4180,14 +4699,51 @@
       "date_precision": "month"
     },
     {
+      "id": "1531ed36d095",
+      "start_year": 1819,
+      "date_label": "1819",
+      "title": "Holt Mackenzie's revenue minute",
+      "summary": "Village-based settlement and rights recording proposed.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6ff16b0ffbc6",
+      "start_year": 1819,
+      "date_label": "1819",
+      "title": "Singapore settlement founded",
+      "summary": "Commercial and strategic outpost in Southeast Asia.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
       "id": "79bdb093914f",
       "start_year": 1820,
       "date_label": "1820",
       "title": "Munro becomes Madras governor",
-      "summary": "Extends Ryotwari direct settlements, building on earlier work with Read.",
+      "summary": "Extends Ryotwari direct settlements, building on earlier work with Read. Munro extended Ryotwari settlement in Madras.",
       "category": "Administration & economy",
       "chapters": [
-        "5"
+        "5",
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5e0aeb0bb78a",
+      "start_year": 1820,
+      "date_label": "1820",
+      "title": "Sindh treaty restrictions renewed",
+      "summary": "Restrictions extended to other European and American settlement.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "7"
       ],
       "date_precision": "year"
     },
@@ -4196,10 +4752,162 @@
       "start_year": 1822,
       "date_label": "1822",
       "title": "Regulation VII and Mahalwari framework",
-      "summary": "Holt Mackenzie's village/mahal-based revenue arrangements.",
+      "summary": "Holt Mackenzie's village/mahal-based revenue arrangements. Holt Mackenzie: village/estate settlement, rights records and surveys.",
       "category": "Administration & economy",
       "chapters": [
-        "5"
+        "5",
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "aecb6fbfc602",
+      "start_year": 1823,
+      "date_label": "1823–1824",
+      "title": "Burmese frontier expansion",
+      "summary": "Assam, Manipur and Chittagong frontier interests brought confrontation.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "period",
+      "end_year": 1824
+    },
+    {
+      "id": "567307a6ac49",
+      "start_year": 1824,
+      "date_label": "1824",
+      "title": "Anglo-Dutch settlement over Malacca",
+      "summary": "Malacca permanently transferred to British control.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5bcd838b82e4",
+      "start_year": 1824,
+      "date_label": "1824–1826",
+      "title": "First Anglo-Burmese War",
+      "summary": "Amherst; Rangoon campaign and Burmese resistance under Maha Bandula.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "period",
+      "end_year": 1826
+    },
+    {
+      "id": "7003e25bb6a8",
+      "start_year": 1824,
+      "date_label": "1824",
+      "title": "Protective duties on Indian textiles in Britain",
+      "summary": "Textbook examples: calico 67.5%, muslin 37.5%; tariff asymmetry hurt crafts.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "04a918665ff8",
+      "start_year": 1825,
+      "date_label": "1825",
+      "title": "Bombay Ryotwari extension in the supplied account",
+      "summary": "Wider adoption occurred over the 1820s; regional practice varied.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "bf9b5fceb1a2",
+      "start_year": 1825,
+      "date_label": "1825–1917",
+      "title": "Dadabhai Naoroji's lifetime",
+      "summary": "Nationalist economic critic and drain theorist; Grand Old Man of India.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1917
+    },
+    {
+      "id": "dcc179906bde",
+      "start_year": 1826,
+      "date_label": "1826",
+      "title": "Straits Settlements constituted",
+      "summary": "Penang, Singapore and Malacca grouped together.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "3fb081b00028",
+      "start_year": 1826,
+      "date_label": "24 February 1826",
+      "title": "Treaty of Yandabo",
+      "summary": "Arakan and Tenasserim ceded; claims to Assam renounced, Manipur independence recognised; £1 million indemnity.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "day",
+      "month": 2,
+      "day": 24
+    },
+    {
+      "id": "32a1615b29f7",
+      "start_year": 1830,
+      "date_label": "1830–1839",
+      "title": "Bundelkhand cotton-price distress",
+      "summary": "Approximate decade: export prices fell while tax remained burdensome.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1839
+    },
+    {
+      "id": "15c2a99997dd",
+      "start_year": 1830,
+      "date_label": "1830",
+      "title": "Whig government in Britain",
+      "summary": "Reform context for the 1833 Charter Act.",
+      "category": "World context",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "ca905e40678f",
+      "start_year": 1832,
+      "date_label": "1832",
+      "title": "Indus commercial treaty",
+      "summary": "Henry Pottinger's negotiations opened Sindh commerce to British merchants.",
+      "category": "Trade & settlements",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "914ec2d19d1b",
+      "start_year": 1832,
+      "date_label": "1832",
+      "title": "Reform Act in Britain",
+      "summary": "Broadened representation and franchise without universal democracy.",
+      "category": "World context",
+      "chapters": [
+        "6",
+        "9"
       ],
       "date_precision": "year"
     },
@@ -4207,11 +4915,73 @@
       "id": "cd8cc1f3845c",
       "start_year": 1833,
       "date_label": "1833",
-      "title": "Company's remaining commercial activities end",
-      "summary": "Tea/China monopoly ends; governing role continues until 1858.",
+      "title": "Charter Act of 1833 ends Company commerce",
+      "summary": "Tea/China monopoly ends; governing role continues until 1858. Company became a governing agency; Bentinck first Governor-General of India; legislative centralisation.",
       "category": "Administration & economy",
       "chapters": [
-        "3"
+        "3",
+        "8",
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "ad9d27b7baba",
+      "start_year": 1833,
+      "date_label": "1833",
+      "title": "Mahalwari revision under Bentinck",
+      "summary": "Lower rental-value assessment, longer settlements and improved records; Bird supervised work.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a66bbf4fa840",
+      "start_year": 1833,
+      "date_label": "1833",
+      "title": "Slavery Abolition Act",
+      "summary": "Empire legislation had exceptions, including Company territories; not immediate universal abolition in India.",
+      "category": "World context",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d06b0316aa14",
+      "start_year": 1834,
+      "date_label": "1834",
+      "title": "Directors' lapse-policy position",
+      "summary": "Earlier policy preceded Dalhousie's systematic use of lapse.",
+      "category": "Political change",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b85a45306192",
+      "start_year": 1834,
+      "date_label": "1834",
+      "title": "First Law Commission established",
+      "summary": "Macaulay chaired the commission under the 1833 Charter framework.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "607e4a37a556",
+      "start_year": 1835,
+      "date_label": "1835",
+      "title": "Agra presidency arrangements modified",
+      "summary": "North-Western Provinces organisation followed in 1836.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
       ],
       "date_precision": "year"
     },
@@ -4224,6 +4994,20 @@
       "category": "Administration & economy",
       "chapters": [
         "1"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "102885cf317b",
+      "start_year": 1836,
+      "date_label": "1836",
+      "title": "North-Western Provinces organised",
+      "summary": "Agra presidency arrangements modified; do not project later United Provinces name backward.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7",
+        "8",
+        "9"
       ],
       "date_precision": "year"
     },
@@ -4241,14 +5025,128 @@
       "date_precision": "period"
     },
     {
+      "id": "2e56cfe88806",
+      "start_year": 1837,
+      "date_label": "1837",
+      "title": "Indian Penal Code draft",
+      "summary": "Codification project preceded enactment in 1860 and commencement in 1862.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c5f7ae2f3da7",
+      "start_year": 1837,
+      "date_label": "1837",
+      "title": "Palmerston's frontier fears",
+      "summary": "Russian influence encouraged the forward-policy argument.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "6b2c7982c8e1",
+      "start_year": 1837,
+      "date_label": "September 1837",
+      "title": "Burnes mission to Kabul",
+      "summary": "Dost Mohammad sought assistance over Peshawar; commercial mission carried political aims.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "month",
+      "month": 9
+    },
+    {
+      "id": "88687c3dd0b2",
+      "start_year": 1838,
+      "date_label": "April 1838",
+      "title": "Burnes withdraws from Kabul",
+      "summary": "Negotiations failed; British suspicion of Russian influence intensified.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "month",
+      "month": 4
+    },
+    {
       "id": "628a47f6b87a",
       "start_year": 1838,
-      "date_label": "1838",
+      "date_label": "26 June 1838",
       "title": "Tripartite Treaty",
-      "summary": "Ranjit Singh, Company and Shah Shuja; Afghan restoration plans.",
+      "summary": "Ranjit Singh, Company and Shah Shuja; Afghan restoration plans. British, Shah Shuja and Ranjit Singh agreement preceded Afghan intervention.",
       "category": "Treaties & grants",
       "chapters": [
-        "2"
+        "2",
+        "6"
+      ],
+      "date_precision": "day",
+      "month": 6,
+      "day": 26
+    },
+    {
+      "id": "53d1c3f9c324",
+      "start_year": 1839,
+      "date_label": "1839",
+      "title": "Assam Company established",
+      "summary": "Tea plantations developed under colonial capital and labour arrangements.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "55b90ffee5b5",
+      "start_year": 1839,
+      "date_label": "1839",
+      "title": "British Resident withdraws from Burma",
+      "summary": "Commercial and diplomatic tensions continued.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7ccbaa090a3c",
+      "start_year": 1839,
+      "date_label": "1839–1842",
+      "title": "First Anglo-Afghan War",
+      "summary": "Occupation installed Shah Shuja, but resistance and logistical weakness caused failure.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "period",
+      "end_year": 1842
+    },
+    {
+      "id": "3aec16ff2dc8",
+      "start_year": 1839,
+      "date_label": "1839",
+      "title": "Grand Trunk Road improvements begin",
+      "summary": "British reconstruction continued in the 1850s on an older route.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "48d7adecb794",
+      "start_year": 1839,
+      "date_label": "1839",
+      "title": "Mandvi lapse case",
+      "summary": "Earlier small-state precedent; not Dalhousie's invention.",
+      "category": "Political change",
+      "chapters": [
+        "7"
       ],
       "date_precision": "year"
     },
@@ -4257,10 +5155,59 @@
       "start_year": 1839,
       "date_label": "1839",
       "title": "Ranjit Singh dies",
-      "summary": "Succession conflict weakens the Punjab kingdom.",
+      "summary": "Succession conflict weakens the Punjab kingdom. Succession struggles and army-court tensions weakened Punjab.",
       "category": "Rulers & States",
       "chapters": [
-        "2"
+        "2",
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e39c30a3a878",
+      "start_year": 1839,
+      "date_label": "1839",
+      "title": "Shah Shuja installed in Kabul",
+      "summary": "British forces captured Kandahar and Ghazni before occupation of Kabul.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "41a09746dfe0",
+      "start_year": 1839,
+      "date_label": "1839",
+      "title": "Subsidiary arrangements in Sindh",
+      "summary": "Afghan expedition increased British occupation, subsidy and diplomatic pressure.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e26b5d878c6c",
+      "start_year": 1840,
+      "date_label": "1840",
+      "title": "Dost Mohammad surrenders",
+      "summary": "Renewed resistance ended in surrender and exile in India.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "d605c7c099ed",
+      "start_year": 1840,
+      "date_label": "1840",
+      "title": "Jalaun lapse case",
+      "summary": "Earlier precedent in dependent-state political succession.",
+      "category": "Political change",
+      "chapters": [
+        "7"
       ],
       "date_precision": "year"
     },
@@ -4273,6 +5220,167 @@
       "category": "Rulers & States",
       "chapters": [
         "2"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "3a888bb45510",
+      "start_year": 1841,
+      "date_label": "1841",
+      "title": "Kabul uprising and envoy killings",
+      "summary": "Burnes and Macnaghten killed; Akbar Khan prominent in resistance.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a75d88978077",
+      "start_year": 1842,
+      "date_label": "1842",
+      "title": "Bundela rebellion",
+      "summary": "Rural distress and revenue pressures contributed to resistance.",
+      "category": "Wars & battles",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "9b200aa54d7f",
+      "start_year": 1842,
+      "date_label": "1842",
+      "title": "Ellenborough replaces Auckland",
+      "summary": "British response combined reprisals, prisoner rescue and withdrawal.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "6",
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "de57177da650",
+      "start_year": 1842,
+      "date_label": "1842",
+      "title": "Napier sent to Sindh",
+      "summary": "Ellenborough's policy escalated treaty pressure toward conquest.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "c33e263e39e7",
+      "start_year": 1842,
+      "date_label": "January 1842",
+      "title": "Retreat from Kabul",
+      "summary": "Elphinstone's troops and followers suffered catastrophic losses; captives and other survivors remained.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "month",
+      "month": 1
+    },
+    {
+      "id": "ece6edde97fc",
+      "start_year": 1842,
+      "date_label": "April 1842",
+      "title": "Shah Shuja killed",
+      "summary": "The imposed ruler's weak legitimacy helped undermine occupation.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "month",
+      "month": 4
+    },
+    {
+      "id": "de3bc9111189",
+      "start_year": 1842,
+      "date_label": "September 1842",
+      "title": "Temporary British reoccupation of Kabul",
+      "summary": "Pollock and Nott's forces returned, destroyed the bazaar and withdrew.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "month",
+      "month": 9
+    },
+    {
+      "id": "098911710303",
+      "start_year": 1843,
+      "date_label": "1843",
+      "title": "Battles of Miani and Dabo; Sindh annexed",
+      "summary": "Charles Napier defeated the Amirs; Indus trade and frontier strategy strengthened British interest.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "dafefe5a063a",
+      "start_year": 1843,
+      "date_label": "1843",
+      "title": "Dost Mohammad restored",
+      "summary": "British occupation did not achieve permanent control of Afghanistan.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "10598c4a2d8d",
+      "start_year": 1843,
+      "date_label": "1843",
+      "title": "Duleep Singh installed with Jindan as regent",
+      "summary": "Minor ruler followed Punjab succession struggles; Khalsa and court tensions grew.",
+      "category": "Political change",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7886c5749e3d",
+      "start_year": 1843,
+      "date_label": "1843",
+      "title": "Indian Act V on slavery",
+      "summary": "Removed legal recognition/enforcement of slavery in Company territories.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "9ba16b021e0b",
+      "start_year": 1843,
+      "date_label": "1843–1853",
+      "title": "James Thomason's Lieutenant-Governorship",
+      "summary": "Carried forward settlement administration in the North-Western Provinces.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1853
+    },
+    {
+      "id": "b8a927e75790",
+      "start_year": 1844,
+      "date_label": "1844",
+      "title": "Hardinge becomes Governor-General",
+      "summary": "British frontier preparations intensified suspicion in Punjab.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
       ],
       "date_precision": "year"
     },
@@ -4293,47 +5401,252 @@
       "start_year": 1845,
       "date_label": "1845–46",
       "title": "First Anglo-Sikh War",
-      "summary": "Weakening court/army coordination precedes further conflict.",
+      "summary": "Weakening court/army coordination precedes further conflict. Hardinge and Gough; Mudki, Ferozeshah, Baddowal, Aliwal and Sobraon.",
       "category": "Battles & wars",
       "chapters": [
-        "2"
+        "2",
+        "7"
       ],
       "end_year": 1846,
       "date_precision": "period"
+    },
+    {
+      "id": "7c0f3879a037",
+      "start_year": 1845,
+      "date_label": "13 December 1845",
+      "title": "Hardinge declares war on the Sikhs",
+      "summary": "Sikh crossing of the Sutlej and British preparations preceded the first war.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 12,
+      "day": 13
+    },
+    {
+      "id": "9669a9f402af",
+      "start_year": 1845,
+      "date_label": "18 December 1845",
+      "title": "Battle of Mudki",
+      "summary": "Opening major encounter in the First Anglo-Sikh War.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 12,
+      "day": 18
+    },
+    {
+      "id": "f9bfb0dcef3f",
+      "start_year": 1845,
+      "date_label": "21 December 1845",
+      "title": "Battle of Ferozeshah begins",
+      "summary": "Fought on 21–22 December; costly British success.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 12,
+      "day": 21
+    },
+    {
+      "id": "4a4a8a1d2e92",
+      "start_year": 1846,
+      "date_label": "January 1846",
+      "title": "Battle of Baddowal",
+      "summary": "Sikh success against British movement.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "month",
+      "month": 1
+    },
+    {
+      "id": "2ab64f66c2e0",
+      "start_year": 1846,
+      "date_label": "28 January 1846",
+      "title": "Battle of Aliwal",
+      "summary": "Harry Smith's British victory.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 1,
+      "day": 28
+    },
+    {
+      "id": "41fc02aaf2f9",
+      "start_year": 1846,
+      "date_label": "10 February 1846",
+      "title": "Battle of Sobraon",
+      "summary": "Decisive British victory in the first war.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 2,
+      "day": 10
+    },
+    {
+      "id": "6f35373ba9b5",
+      "start_year": 1846,
+      "date_label": "9 March 1846",
+      "title": "Treaty of Lahore",
+      "summary": "Territorial cessions, army reduction and ₹1.5-crore indemnity; Henry Lawrence became Resident.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 3,
+      "day": 9
+    },
+    {
+      "id": "14d7fc09d4c8",
+      "start_year": 1846,
+      "date_label": "16 March 1846",
+      "title": "Treaty of Amritsar with Gulab Singh",
+      "summary": "Specified hill territories including Kashmir transferred for ₹75 lakh Nanakshahi.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 3,
+      "day": 16
+    },
+    {
+      "id": "fe92e4e6cb1d",
+      "start_year": 1846,
+      "date_label": "16 December 1846",
+      "title": "Treaty of Bhairowal",
+      "summary": "Eight-chief regency under British Resident; Jindan excluded from government; indirect control deepened.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 12,
+      "day": 16
+    },
+    {
+      "id": "535231adc46d",
+      "start_year": 1847,
+      "date_label": "1847",
+      "title": "Sindh incorporated into Bombay Presidency",
+      "summary": "Conquered territory administratively integrated.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7862e9ba818a",
+      "start_year": 1848,
+      "date_label": "1848–1856",
+      "title": "Dalhousie's Governor-Generalship",
+      "summary": "Aggressive annexations accompanied rail, post, telegraph and administrative reforms.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "period",
+      "end_year": 1856
+    },
+    {
+      "id": "cc6f2e7c2074",
+      "start_year": 1848,
+      "date_label": "1848–1909",
+      "title": "Romesh Chunder Dutt's lifetime",
+      "summary": "ICS officer, writer and nationalist economic historian.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1909
     },
     {
       "id": "76043cd4beb9",
       "start_year": 1848,
       "date_label": "1848",
       "title": "Satara annexed",
-      "summary": "Doctrine-of-lapse chronology in supplied PYQ explanation.",
+      "summary": "Doctrine-of-lapse chronology in supplied PYQ explanation. Dalhousie applied lapse to political succession, not all private adoption rights.",
       "category": "Rulers & States",
       "chapters": [
-        "5"
+        "5",
+        "7"
       ],
       "date_precision": "year"
     },
     {
-      "id": "5384d6df1849",
-      "start_year": 1849,
-      "date_label": "1849",
-      "title": "Battle of Chillianwala",
-      "summary": "Company versus Sikhs; not Dalhousie versus Marathas.",
-      "category": "Battles & wars",
+      "id": "c99106af8b2d",
+      "start_year": 1848,
+      "date_label": "1848–1849",
+      "title": "Second Anglo-Sikh War",
+      "summary": "Sher Singh's resistance and British intervention culminated in annexation.",
+      "category": "Wars & battles",
       "chapters": [
-        "4"
+        "7"
+      ],
+      "date_precision": "period",
+      "end_year": 1849
+    },
+    {
+      "id": "06761c5755d0",
+      "start_year": 1848,
+      "date_label": "1848",
+      "title": "Sleeman appointed Resident in Awadh",
+      "summary": "Reports favoured reform without outright annexation.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
       ],
       "date_precision": "year"
     },
     {
-      "id": "6fc1d0dba258",
+      "id": "977ea2d631f2",
+      "start_year": 1848,
+      "date_label": "April 1848",
+      "title": "Multan killings and uprising",
+      "summary": "Vans Agnew and Anderson killed during replacement of Mulraj; wider rebellion followed.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "month",
+      "month": 4
+    },
+    {
+      "id": "a74ced8a73a3",
+      "start_year": 1848,
+      "date_label": "22 November 1848",
+      "title": "Battle of Ramnagar",
+      "summary": "Costly encounter without a decisive settlement.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 11,
+      "day": 22
+    },
+    {
+      "id": "1cb0c01ade05",
       "start_year": 1849,
       "date_label": "1849",
-      "title": "Punjab annexed after Second Anglo-Sikh War",
-      "summary": "Sikh kingdom absorbed into British rule.",
-      "category": "Battles & wars",
+      "title": "Jaitpur annexed by lapse",
+      "summary": "Distinguish Jaitpur from Jaipur.",
+      "category": "Political change",
       "chapters": [
-        "2"
+        "7"
       ],
       "date_precision": "year"
     },
@@ -4342,10 +5655,167 @@
       "start_year": 1849,
       "date_label": "1849",
       "title": "Sambalpur annexed",
-      "summary": "After Satara, before Jhansi in the PYQ sequence.",
+      "summary": "After Satara, before Jhansi in the PYQ sequence. Sambalpur was annexed under lapse.",
       "category": "Rulers & States",
       "chapters": [
-        "5"
+        "5",
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5384d6df1849",
+      "start_year": 1849,
+      "date_label": "13 January 1849",
+      "title": "Battle of Chillianwala",
+      "summary": "Company versus Sikhs; not Dalhousie versus Marathas. Battle on 13 January caused heavy British losses without decisive settlement.",
+      "category": "Battles & wars",
+      "chapters": [
+        "4",
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 1,
+      "day": 13
+    },
+    {
+      "id": "6ef764b1b33c",
+      "start_year": 1849,
+      "date_label": "21 February 1849",
+      "title": "Battle of Gujrat",
+      "summary": "Decisive victory under Hugh Gough, not Charles Napier.",
+      "category": "Wars & battles",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 2,
+      "day": 21
+    },
+    {
+      "id": "6fc1d0dba258",
+      "start_year": 1849,
+      "date_label": "29 March 1849",
+      "title": "Punjab annexed after Second Anglo-Sikh War",
+      "summary": "Sikh kingdom absorbed into British rule. Annexed 29 March; Koh-i-Noor surrendered; Henry Lawrence, John Lawrence and Mansel formed Board of Administration.",
+      "category": "Battles & wars",
+      "chapters": [
+        "2",
+        "7"
+      ],
+      "date_precision": "day",
+      "month": 3,
+      "day": 29
+    },
+    {
+      "id": "6172a3fdd312",
+      "start_year": 1850,
+      "date_label": "1850",
+      "title": "Baghat lapse case",
+      "summary": "Minor-state annexation later reversed.",
+      "category": "Political change",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "0761ca0c3e88",
+      "start_year": 1850,
+      "date_label": "1850–1851",
+      "title": "Calcutta-Diamond Harbour experimental telegraph",
+      "summary": "O'Shaughnessy associated with early electric telegraph development.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7",
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1851
+    },
+    {
+      "id": "919d9ede0d83",
+      "start_year": 1852,
+      "date_label": "1852",
+      "title": "Central Indian Udaipur lapse case",
+      "summary": "Not Mewar in Rajasthan.",
+      "category": "Political change",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a0b1d9005ba9",
+      "start_year": 1852,
+      "date_label": "1852",
+      "title": "Pegu annexed",
+      "summary": "Annexation of Lower Burma gave Britain the full coast; consolidation followed in 1853.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "821979ae8cd7",
+      "start_year": 1852,
+      "date_label": "1852",
+      "title": "Scinde Dawk postage stamp",
+      "summary": "Bartle Frere's Sindh issue preceded all-India stamps.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b2d0b1646672",
+      "start_year": 1852,
+      "date_label": "1852–1853",
+      "title": "Second Anglo-Burmese War",
+      "summary": "Dalhousie's intervention over commercial complaints led to Lower Burma conquest.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "period",
+      "end_year": 1853
+    },
+    {
+      "id": "f17ca5cf5e0e",
+      "start_year": 1853,
+      "date_label": "1853",
+      "title": "Berar assigned to the British",
+      "summary": "Hyderabad territory assigned for contingent expenses; not a lapse annexation.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "21ebb373e664",
+      "start_year": 1853,
+      "date_label": "1853",
+      "title": "Charter Act separates legislative business",
+      "summary": "Enlarged legislative sitting and competitive recruitment; no fixed twenty-year renewal.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b19c5d43a9ab",
+      "start_year": 1853,
+      "date_label": "1853",
+      "title": "Dalhousie's Railway Minute",
+      "summary": "Imperial commercial and military aims underpinned railway expansion.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7",
+        "8"
       ],
       "date_precision": "year"
     },
@@ -4354,24 +5824,279 @@
       "start_year": 1853,
       "date_label": "1853–54",
       "title": "Jhansi annexation decision/implementation",
-      "summary": "Date convention varies; chronological position follows Satara and Sambalpur.",
+      "summary": "Date convention varies; chronological position follows Satara and Sambalpur. Jhansi ruler died in 1853; annexation followed in 1854.",
       "category": "Rulers & States",
       "chapters": [
-        "5"
+        "5",
+        "7"
       ],
       "end_year": 1854,
       "date_precision": "period"
+    },
+    {
+      "id": "af9093ada042",
+      "start_year": 1853,
+      "date_label": "1853",
+      "title": "Mindon becomes Burmese king",
+      "summary": "Monarchy continued in Upper Burma after the second war.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "3a00eef5490c",
+      "start_year": 1853,
+      "date_label": "1853–1854",
+      "title": "Nagpur succession and annexation",
+      "summary": "Ruler died in 1853; British annexation followed in 1854.",
+      "category": "Political change",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "period",
+      "end_year": 1854
+    },
+    {
+      "id": "31b1b5da4eb0",
+      "start_year": 1853,
+      "date_label": "1853–1854",
+      "title": "Telegraph network and services expand",
+      "summary": "Communication served colonial administration and military movement.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7",
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1854
+    },
+    {
+      "id": "08a753636e50",
+      "start_year": 1853,
+      "date_label": "16 April 1853",
+      "title": "Bombay-Thane passenger railway",
+      "summary": "First commercial passenger service; GIPR; earlier industrial lines existed.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7",
+        "8"
+      ],
+      "date_precision": "day",
+      "month": 4,
+      "day": 16
+    },
+    {
+      "id": "429c4530995a",
+      "start_year": 1854,
+      "date_label": "1854",
+      "title": "All-India postage and postal reform",
+      "summary": "Dalhousie's reforms expanded communication.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7",
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b029ddea2fa0",
+      "start_year": 1854,
+      "date_label": "1854",
+      "title": "Davar's Bombay cotton mill established",
+      "summary": "Cowasji Nanabhoy Davar promoted the successful Bombay Spinning and Weaving Company.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "93f18a11c229",
+      "start_year": 1854,
+      "date_label": "1854",
+      "title": "Macaulay civil-service committee",
+      "summary": "Developed competitive recruitment rules after the 1853 Act.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7f9a3fb6ad7d",
+      "start_year": 1854,
+      "date_label": "1854",
+      "title": "Madras Torture Commission appointed",
+      "summary": "Investigated coercive revenue collection.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "03dc5cdffe7f",
+      "start_year": 1854,
+      "date_label": "1854",
+      "title": "Outram succeeds Sleeman in Awadh",
+      "summary": "Report supplied the basis for the misgovernment pretext.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "3764c8101d5a",
+      "start_year": 1854,
+      "date_label": "1854",
+      "title": "Public Works Department reorganised",
+      "summary": "Separate department strengthened colonial infrastructure works.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "0793f01fd306",
+      "start_year": 1854,
+      "date_label": "July 1854",
+      "title": "Wood's Despatch",
+      "summary": "Educational departments, grants, training and university framework.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "month",
+      "month": 7
+    },
+    {
+      "id": "be45e1f874b1",
+      "start_year": 1854,
+      "date_label": "15 August 1854",
+      "title": "Howrah-Hooghly passenger railway opens",
+      "summary": "Eastern passenger line preceded full extension to Raniganj.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "day",
+      "month": 8,
+      "day": 15
+    },
+    {
+      "id": "515b6fd70c26",
+      "start_year": 1855,
+      "date_label": "1855",
+      "title": "Carnatic and Tanjore titles or residual sovereignty removed",
+      "summary": "Distinguish titles/pensions from territorial lapse cases.",
+      "category": "Political change",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "7768232ccddb",
+      "start_year": 1855,
+      "date_label": "1855",
+      "title": "First competitive civil-service examination",
+      "summary": "Held in London; practical barriers limited Indian participation.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "eb9c197caa34",
+      "start_year": 1855,
+      "date_label": "1855",
+      "title": "Madras Torture Commission report",
+      "summary": "Documented abuse under revenue administration.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "3778db6e99d2",
+      "start_year": 1855,
+      "date_label": "1855",
+      "title": "Rishra jute mill established",
+      "summary": "George Acland's mill near Calcutta; British capital prominent.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "ea75a200237d",
+      "start_year": 1855,
+      "date_label": "1855",
+      "title": "Saharanpur Rules",
+      "summary": "Revenue benchmark reduced to about half net rental assets; implementation varied.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "bc452fcdfce2",
+      "start_year": 1855,
+      "date_label": "3 February 1855",
+      "title": "Eastern railway reaches Raniganj",
+      "summary": "Do not date the full service to 1854.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "day",
+      "month": 2,
+      "day": 3
     },
     {
       "id": "8154eb6e31e3",
       "start_year": 1856,
       "date_label": "1856",
       "title": "Awadh annexed",
-      "summary": "Long dependence ends in direct annexation.",
+      "summary": "Long dependence ends in direct annexation. Outram report supplied misgovernment pretext; Awadh was not a lapse annexation; Wajid Ali Shah removed.",
       "category": "Rulers & States",
       "chapters": [
         "2",
-        "5"
+        "5",
+        "7",
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "58205a89b4ae",
+      "start_year": 1857,
+      "date_label": "1857",
+      "title": "Calcutta, Bombay and Madras universities founded",
+      "summary": "Followed the educational framework of Wood's Despatch.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "1e952a5e116b",
+      "start_year": 1857,
+      "date_label": "1857",
+      "title": "Mandalay founded as capital",
+      "summary": "Mindon's capital foundation was later than his 1853 accession.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "6"
       ],
       "date_precision": "year"
     },
@@ -4380,12 +6105,54 @@
       "start_year": 1857,
       "date_label": "1857",
       "title": "Revolt; Zafar becomes symbolic sovereign",
-      "summary": "Company retakes Delhi and captures the emperor.",
+      "summary": "Company retakes Delhi and captures the emperor. Annexation and agrarian grievances contributed; crisis led to Crown transfer. Jang Bahadur’s Nepalese forces assisted the British; Nepal did not remain simply neutral.",
       "category": "Battles & wars",
       "chapters": [
-        "1"
+        "1",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "date_precision": "year"
+    },
+    {
+      "id": "65d07691d43c",
+      "start_year": 1857,
+      "date_label": "1857–1858",
+      "title": "Rural mobilisation in northern India",
+      "summary": "Debt, dispossession and revenue grievances contributed to revolt.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1858
+    },
+    {
+      "id": "b0eefc4372f5",
+      "start_year": 1858,
+      "date_label": "1858",
+      "title": "Allahabad provincial seat after the revolt",
+      "summary": "Important provincial administrative centre and venue of the royal proclamation; not established as India’s capital for one day.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e5b65e310ce9",
+      "start_year": 1858,
+      "date_label": "1858–1947",
+      "title": "Finance-capital phase",
+      "summary": "Interpretive phase: investment and remitted returns in railways, plantations and mining.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1947
     },
     {
       "id": "1cd2fb7aafb6",
@@ -4400,19 +6167,84 @@
       "date_precision": "year"
     },
     {
+      "id": "cc630c6436a4",
+      "start_year": 1858,
+      "date_label": "2 August 1858",
+      "title": "Government of India Act receives assent",
+      "summary": "Crown takes Company government; Secretary of State and fifteen-member Council; Stanley first Secretary.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "day",
+      "month": 8,
+      "day": 2
+    },
+    {
       "id": "94318915f64f",
       "start_year": 1858,
       "date_label": "1 November 1858",
       "title": "Queen Victoria's Proclamation",
-      "summary": "Crown takeover from Company; not the beginning of Mughal decline.",
+      "summary": "Crown takeover from Company; not the beginning of Mughal decline. 1 November Allahabad; treaties, non-annexation, religion and fair employment promises; no responsible government.",
       "category": "Administration & economy",
       "chapters": [
         "1",
-        "3"
+        "3",
+        "9"
       ],
       "month": 11,
       "day": 1,
       "date_precision": "day"
+    },
+    {
+      "id": "fccf3a1ee0b0",
+      "start_year": 1859,
+      "date_label": "1859",
+      "title": "Bengal Rent Act",
+      "summary": "Limited protection for occupancy tenants; did not abolish Permanent Settlement.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "5d6906534759",
+      "start_year": 1859,
+      "date_label": "1859",
+      "title": "Punjab Lieutenant-Governorship",
+      "summary": "Crown-era administrative arrangement followed earlier Board administration.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "8f47913193e4",
+      "start_year": 1860,
+      "date_label": "1860",
+      "title": "Indian Penal Code enacted",
+      "summary": "Enactment is distinct from its later operational commencement.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "2d88a08d5901",
+      "start_year": 1862,
+      "date_label": "1 January 1862",
+      "title": "Indian Penal Code commences",
+      "summary": "Correct commencement date; distinguish the 2005 PYQ wording.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "day",
+      "month": 1,
+      "day": 1
     },
     {
       "id": "ba92a40156c7",
@@ -4426,6 +6258,380 @@
       ],
       "month": 11,
       "date_precision": "month"
+    },
+    {
+      "id": "176edec7c46f",
+      "start_year": 1867,
+      "date_label": "2 May 1867",
+      "title": "Naoroji presents England's Debt to India",
+      "summary": "East India Association address developed the drain argument.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "day",
+      "month": 5,
+      "day": 2
+    },
+    {
+      "id": "529e7f7b9e91",
+      "start_year": 1869,
+      "date_label": "1869",
+      "title": "State railway construction expands",
+      "summary": "Policy shifted after early private guaranteed companies.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "50b5d21e1d62",
+      "start_year": 1874,
+      "date_label": "1874",
+      "title": "East India Company dissolved",
+      "summary": "Legal corporate existence outlasted its government's abolition in 1858.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "9"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "120b174dc133",
+      "start_year": 1874,
+      "date_label": "1874",
+      "title": "Tata's Central India textile company",
+      "summary": "Jamsetji Tata's industrial enterprise preceded Empress Mills opening.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "56867d2558e9",
+      "start_year": 1876,
+      "date_label": "1876–1878",
+      "title": "Great Famine",
+      "summary": "Revenue pressure, poverty, drought and relief/distribution failures increased mortality.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1878
+    },
+    {
+      "id": "ebcd2777ac24",
+      "start_year": 1877,
+      "date_label": "1877",
+      "title": "North-Western Provinces and Oudh administratively associated",
+      "summary": "Association occurred after Awadh's 1856 annexation.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7",
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "1dfcbee2f564",
+      "start_year": 1877,
+      "date_label": "1 January 1877",
+      "title": "Empress Mills opens in Nagpur",
+      "summary": "Tata textile enterprise strengthened Indian modern industry.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "day",
+      "month": 1,
+      "day": 1
+    },
+    {
+      "id": "fc0ce62e43e1",
+      "start_year": 1878,
+      "date_label": "1878–1880",
+      "title": "Second Anglo-Afghan War",
+      "summary": "Lytton renewed forward intervention; 1879 agreement did not end all fighting.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "period",
+      "end_year": 1880
+    },
+    {
+      "id": "a1d305013a67",
+      "start_year": 1879,
+      "date_label": "1879",
+      "title": "Treaty of Gandamak",
+      "summary": "Yakub Khan accepted British external-policy influence and a resident; later uprising reopened conflict.",
+      "category": "Treaties & diplomacy",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b353342e2804",
+      "start_year": 1880,
+      "date_label": "1880",
+      "title": "Abdur Rahman becomes Amir",
+      "summary": "British external influence continued without permanent annexation.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "27939ec588c3",
+      "start_year": 1880,
+      "date_label": "1880–1889",
+      "title": "Renewed private railway participation",
+      "summary": "Approximate decade; arrangements differed from the earliest guarantees.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1889
+    },
+    {
+      "id": "7a94ca738f9d",
+      "start_year": 1885,
+      "date_label": "1885",
+      "title": "Third Anglo-Burmese War",
+      "summary": "Dufferin; commercial conflict and Thibaw's foreign connections supplied justification.",
+      "category": "Wars & battles",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "623526f7a588",
+      "start_year": 1886,
+      "date_label": "1886",
+      "title": "Upper Burma annexed",
+      "summary": "Thibaw removed; formal annexation followed the 1885 war.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "81f8d1103c50",
+      "start_year": 1899,
+      "date_label": "1899",
+      "title": "R.C. Dutt presides over Congress",
+      "summary": "Economic critique linked to nationalist politics.",
+      "category": "Political change",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "30c9704e7ace",
+      "start_year": 1900,
+      "date_label": "1900",
+      "title": "Dutt's Open Letters to Curzon",
+      "summary": "Criticised famine and land-assessment policy.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a377644f26e5",
+      "start_year": 1901,
+      "date_label": "1901",
+      "title": "Poverty and Un-British Rule in India published",
+      "summary": "Naoroji consolidated an economic critique developed earlier.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "a016d4d2a059",
+      "start_year": 1902,
+      "date_label": "1902",
+      "title": "Dutt's Economic History first volume",
+      "summary": "Historical analysis of colonial economic policy; second volume followed in 1904.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "dd4a92410194",
+      "start_year": 1902,
+      "date_label": "1902",
+      "title": "United Provinces name adopted",
+      "summary": "Later name of the North-Western Provinces and Oudh.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "7",
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "e0df4c9e1393",
+      "start_year": 1904,
+      "date_label": "1904",
+      "title": "Dutt's Economic History second volume",
+      "summary": "Continued his account of colonial economic change.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "864f9c6dfd43",
+      "start_year": 1904,
+      "date_label": "1904",
+      "title": "Jamsetji Tata dies",
+      "summary": "Dorabji Tata and associates carried the steel project forward.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "bbc320f9b4bf",
+      "start_year": 1905,
+      "date_label": "1905",
+      "title": "Railway network reaches roughly 45,000 km",
+      "summary": "Rounded textbook network comparison; expansion served commerce and troop movement as well as wider market integration.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "b6441c1ca24f",
+      "start_year": 1905,
+      "date_label": "1905",
+      "title": "Swadeshi strengthens indigenous enterprise",
+      "summary": "Indian modern industry predated the movement.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "903a48b9e576",
+      "start_year": 1906,
+      "date_label": "1906",
+      "title": "Naoroji's swaraj demand at Calcutta Congress",
+      "summary": "Economic criticism fed the political demand for self-government.",
+      "category": "Political change",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "487d9d955526",
+      "start_year": 1907,
+      "date_label": "26 August 1907",
+      "title": "TISCO incorporated",
+      "summary": "Jamsetji Tata's vision carried forward by Dorabji and associates.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "day",
+      "month": 8,
+      "day": 26
+    },
+    {
+      "id": "984c4c36d41f",
+      "start_year": 1911,
+      "date_label": "1911",
+      "title": "TISCO begins pig iron production",
+      "summary": "Preceded first steel production.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "357c62e72c43",
+      "start_year": 1912,
+      "date_label": "16 February 1912",
+      "title": "TISCO first steel production",
+      "summary": "Correct date is 1912, not 1913.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "day",
+      "month": 2,
+      "day": 16
+    },
+    {
+      "id": "48c84acca01c",
+      "start_year": 1919,
+      "date_label": "1919",
+      "title": "Birla enters jute industry",
+      "summary": "Indian industrial enterprise expanded in a British-dominated sector.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "2f0cda851418",
+      "start_year": 1937,
+      "date_label": "1937",
+      "title": "Burma separated from British India",
+      "summary": "Became a distinct British colony.",
+      "category": "Administration & institutions",
+      "chapters": [
+        "6"
+      ],
+      "date_precision": "year"
+    },
+    {
+      "id": "aca0686f5845",
+      "start_year": 1940,
+      "date_label": "1940–1949",
+      "title": "Birla jute expansion",
+      "summary": "Approximate decade; later development extends beyond the chapter's principal period.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "period",
+      "end_year": 1949
+    },
+    {
+      "id": "bd54c487aacd",
+      "start_year": 1948,
+      "date_label": "1948",
+      "title": "Ashok Leyland founded",
+      "summary": "Post-independence enterprise; not evidence of a pre-1947 colonial company.",
+      "category": "Economy & society",
+      "chapters": [
+        "8"
+      ],
+      "date_precision": "year"
     },
     {
       "id": "ef4c0cb58826",

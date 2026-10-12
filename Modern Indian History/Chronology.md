@@ -160,7 +160,7 @@ Bahadur Shah of Gujarat permitted Portuguese fortification under Mughal pressure
 
 Early printing and missionary/vernacular publishing.
 
-*Society & culture · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html)
+*Society & culture · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1565 · Battle of Talikota
 
@@ -190,9 +190,15 @@ Enterprise preceded the East India Company charter.
 
 ### 1600 · English East India Company charter
 
-Elizabeth I granted the company a trading monopoly.
+Elizabeth I granted the company a trading monopoly. Elizabeth I’s royal charter, not an Act of Parliament.
 
-*Trade & settlements · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html)
+*Trade & settlements · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1600–1757 · Pre-territorial Company commerce
+
+Bullion and goods financed Indian manufactures; political control later changed procurement.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1602 · Dutch VOC founded
 
@@ -936,6 +942,12 @@ Mustafanagar, Ellore, Rajahmundry, Chicacole support French finances.
 
 *Treaties & grants · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html)
 
+### 1753 · Gomastha procurement in the supplied account
+
+Company paid agents replaced intermediaries; coercive power expanded after Plassey.
+
+*Trade & settlements · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
 ### 1754 · Ahmad Shah Bahadur deposed/blinded
 
 Imad-ul-Mulk's kingmaking raises Alamgir II.
@@ -1014,6 +1026,18 @@ Calcutta renamed Alinagar; Holwell's Black Hole account has disputed numbers/res
 
 *Battles & wars · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html)
 
+### 1757 · Company obtains zamindari of 24 Parganas
+
+Revenue rights expanded after Plassey, preceding Diwani.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1757–1813 · Mercantilist phase of colonial economy
+
+Interpretive phase: monopoly, tribute and revenue-financed export purchases.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
 ### 1757–60 · Mir Jafar's first Nawabship
 
 24-Parganas, payments and dependence; Dutch intervention fails.
@@ -1040,9 +1064,9 @@ French Bengal base weakened before Plassey.
 
 ### 23 June 1757 · Battle of Plassey
 
-Clive defeated Siraj amid Mir Jafar/Rai Durlabh's non-cooperation; Company becomes kingmaker.
+Clive defeated Siraj amid Mir Jafar/Rai Durlabh's non-cooperation; Company becomes kingmaker. Indian revenue and political power increasingly financed trade purchases.
 
-*Battles & wars · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html) / [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html)
+*Battles & wars · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html) / [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1758–60 · Clive's first Bengal governorship
 
@@ -1100,9 +1124,9 @@ Company defeats Dutch Bengal intervention; does not instantly end every Dutch se
 
 ### c.1760–1840 · British Industrial Revolution
 
-Mechanised textile/iron production and steam alter colonial trading interests.
+Mechanised textile/iron production and steam alter colonial trading interests. Machine-made competition and British demand changed Indian trade.
 
-*World context · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html)
+*World context · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1760 · Vansittart succeeds Clive
 
@@ -1118,9 +1142,9 @@ Eyre Coote defeated Lally; Bussy captured; decisive English–French turning poi
 
 ### October 1760–1763 · Mir Qasim becomes Nawab
 
-Cedes Burdwan, Midnapore and Chittagong; reorganises revenue and army, shifts capital to Munger.
+Cedes Burdwan, Midnapore and Chittagong; reorganises revenue and army, shifts capital to Munger. Company acquired Burdwan, Midnapore and Chittagong revenue rights.
 
-*Rulers & States · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html)
+*Rulers & States · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1761 · Hyder Ali takes effective power in Mysore
 
@@ -1151,6 +1175,12 @@ British siege ends Lally's resistance; French commercial settlements later resto
 After Panipat; Madhav Rao I begins the period of Maratha recovery.
 
 *Rulers & States · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
+
+### 1762–1764 · British occupation of Manila
+
+Brief occupation; not permanent annexation of the Philippines.
+
+*World context · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
 
 ### 1762 · Vansittart–Mir Qasim compromise
 
@@ -1198,7 +1228,7 @@ Hargreaves's invention; distinct from Arkwright's later water frame.
 
 Hector Munro defeats allied Awadh/imperial forces; Mir Qasim part of the wider coalition.
 
-*Battles & wars · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html) / [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html)
+*Battles & wars · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html) / [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ### 1765–67 · Clive's second governorship
 
@@ -1208,9 +1238,9 @@ Settlements with Awadh, emperor and Bengal consolidate Company power.
 
 ### 1765–72 · Dual government in Bengal
 
-Company power and revenue control; nominal Nawab/intermediary administration; weak accountability.
+Company power and revenue control; nominal Nawab/intermediary administration; weak accountability. Company Diwani and nominal Nawabi Nizamat separated power from responsibility.
 
-*Administration & economy · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Administration & economy · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### February 1765 · Najm-ud-Daulah becomes Bengal Nawab
 
@@ -1220,15 +1250,15 @@ Military/foreign affairs and key appointments fall under Company control.
 
 ### 12 August 1765 · Imperial diwani grant
 
-Shah Alam II grants Bengal, Bihar and Orissa revenue rights; ₹26 lakh annual imperial payment.
+Shah Alam II grants Bengal, Bihar and Orissa revenue rights; ₹26 lakh annual imperial payment. Diwani financed export purchases and established Company revenue control.
 
-*Treaties & grants · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html) / [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html) / [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html)
+*Treaties & grants · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html) / [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html) / [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### 16 August 1765 · Awadh settlement at Allahabad
 
 Shuja pays ₹50 lakh; Kora/Allahabad ceded; Awadh restored as a buffer.
 
-*Treaties & grants · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html)
+*Treaties & grants · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ## 1766–1818 · Expansion and subsidiary dependence
 
@@ -1256,6 +1286,18 @@ Hyder breaks the initial opposing coalition and reaches the vicinity of Madras.
 
 *Battles & wars · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
 
+### 1767 · Parliament claims annual Company payment
+
+£400,000 annual contribution; comprehensive regulation came later.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1768 · Gorkha conquest of Kathmandu
+
+Unification and further expansion brought Nepal toward Company frontiers.
+
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
 ### 1768–94 · Mahadji Scindia's ascendancy
 
 Northern reconstruction, Delhi influence and European-trained brigades.
@@ -1267,6 +1309,12 @@ Northern reconstruction, Delhi influence and European-trained brigades.
 Mechanised water-powered spinning supports factory production.
 
 *Administration & economy · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html)
+
+### 1769–70 · Bengal famine
+
+Drought/crop failure compounded by extraction and administrative failures. Harvest crisis, exactions and weak relief aggravated Bengal famine; mortality estimates uncertain.
+
+*Society & culture · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### 1769 · Company favours raw over woven silk
 
@@ -1286,12 +1334,6 @@ Mutual restitution and assistance against third-party attack; favourable peace f
 
 *Treaties & grants · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
 
-### 1770 · Bengal famine
-
-Drought/crop failure compounded by extraction and administrative failures.
-
-*Society & culture · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html)
-
 ### 1771 · Company fails to aid Hyder against Marathas
 
 Breach of expected assistance deepens Mysore's distrust.
@@ -1310,17 +1352,23 @@ Shah Alam's return and Maratha protection reshape Delhi politics.
 
 *Battles & wars · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html)
 
+### 1772 · Company seeks state assistance
+
+Financial crisis led to parliamentary inquiry and the 1773 loan/regulation.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
 ### 1772 · Dual government abolished
 
-Deputy diwan arrangement ended; treasury shifted towards Calcutta.
+Deputy diwan arrangement ended; treasury shifted towards Calcutta. Company assumed direct revenue management and shifted the treasury to Calcutta.
 
-*Administration & economy · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Administration & economy · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### 1772 · Five-year revenue farming introduced
 
-Highest-bidder quinquennial settlement increases extraction/speculation.
+Highest-bidder quinquennial settlement increases extraction/speculation. Five-year farming auctions encouraged extraction and unstable collection.
 
-*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1772 · Hastings becomes Bengal governor
 
@@ -1360,15 +1408,27 @@ Displaced by Barbhai; seeks Company support.
 
 ### 1773 · Regulating Act
 
-Creates Governor-General of Bengal framework and Calcutta Supreme Court provisions.
+Creates Governor-General of Bengal framework and Calcutta Supreme Court provisions. Governor-General of Bengal with four-member Council; parliamentary supervision.
 
-*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 18 May 1773 · Lord North introduces regulating bill
+
+Parliamentary response to Company crisis and governance failures.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### 1774 · Hastings becomes Governor-General of Bengal
 
-Distinct from his Bengal governorship beginning in 1772.
+Distinct from his Bengal governorship beginning in 1772. Hastings became Governor-General of Bengal, not the formal Governor-General of India.
 
-*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1774 · Rohilkhand campaign with Company aid
+
+Shuja-ud-Daula expanded Awadh's control.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ### 1774–95 · Sawai Madhav Rao II as Peshwa
 
@@ -1378,9 +1438,9 @@ Infant installed under Barbhai regency; Nana Phadnavis influential.
 
 ### 1774 · Supreme Court opens at Calcutta
 
-Separate English-law court overlaps Company judicial institutions.
+Separate English-law court overlaps Company judicial institutions. Chief Justice Elijah Impey and three puisne judges; jurisdiction later clarified in 1781.
 
-*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### 1775–83 · American War of Independence
 
@@ -1390,9 +1450,9 @@ French participation affects Company security calculations in India.
 
 ### 1775–97 · Asaf-ud-Daulah in Awadh
 
-Moves capital to Lucknow and promotes cultural patronage.
+Moves capital to Lucknow and promotes cultural patronage. Company influence deepened after Shuja-ud-Daula.
 
-*Rulers & States · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
+*Rulers & States · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ### 1775 · Awadh capital shifts to Lucknow
 
@@ -1420,9 +1480,9 @@ Keating's campaign follows the Surat agreement.
 
 ### 1776 · Adam Smith's Wealth of Nations
 
-Criticism of monopoly contributes to arguments for open markets.
+Criticism of monopoly contributes to arguments for open markets. Free-trade arguments challenged monopoly.
 
-*World context · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html)
+*World context · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1776 · Code of Gentoo Laws published
 
@@ -1438,9 +1498,9 @@ Upton–Poona agreement annuls Surat arrangement and pensions Raghoba.
 
 ### 1777 · Annual revenue settlements resumed
 
-Hastings replaces failed five-year farming with annual settlements.
+Hastings replaces failed five-year farming with annual settlements. Annual revenue farming replaced five-year contracts.
 
-*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1777 · Danish Crown assumes possessions
 
@@ -1484,6 +1544,12 @@ Company recovers ground in First Maratha War.
 
 *Battles & wars · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
 
+### 1780 · Hicky's Bengal Gazette
+
+First printed newspaper in India.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
 ### 1780 · Popham captures Gwalior
 
 Correct year is 1780, not the chapter's 1781.
@@ -1495,6 +1561,18 @@ Correct year is 1780, not the chapter's 1781.
 Hyder, then Tipu, face Company; ends by mutual restoration, not decisive British conquest.
 
 *Battles & wars · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+
+### 1780–1789 · Talpura power established in Sindh
+
+Approximate decade: Mir Fateh Ali Khan's ruling house and shared Amir authority.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1781 · Amending or Settlement Act
+
+Clarified Supreme Court jurisdiction, executive exemptions and personal-law safeguards.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### 1781 · Camac's Sipri campaign
 
@@ -1532,11 +1610,29 @@ European settlement reduces French support and encourages Mysore–Company peace
 
 *World context · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
 
+### 1783 · Fox-North India Bill defeated
+
+Proposed stronger supervision; defeat contributed to ministry's fall.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
 ### 1784 · Bara Imambara built
 
 Asaf-ud-Daulah's Lucknow patronage.
 
 *Society & culture · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
+
+### 1784 · Pitt's India Act
+
+Board of Control and Directors created British dual control over Company government.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1784–1786 · Pressure for stable land settlement
+
+London pressed for durable arrangements; Cornwallis arrived in 1786.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### March 1784 · Treaty of Mangalore
 
@@ -1558,9 +1654,21 @@ Commercial control challenges English interests on Malabar Coast.
 
 ### 1786–93 · Cornwallis's first governorship
 
-Third Mysore War, Permanent Settlement and Cornwallis Code.
+Third Mysore War, Permanent Settlement and Cornwallis Code. Cornwallis arrived amid pressure for a stable revenue settlement.
 
-*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1786 · Governor-General override Act
+
+Cornwallis could override Council in special cases and combine military command.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1786 · Penang settlement
+
+British foothold preceded formation of the Straits Settlements.
+
+*Trade & settlements · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
 
 ### 1787 · Tipu asserts Padshah status
 
@@ -1580,17 +1688,23 @@ Commerce and sovereignty disputes intensify.
 
 *Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
 
+### 1789 · Company direct agency and weaver contracts
+
+Bypassing intermediaries and penalised advance contracts reduced producer freedom.
+
+*Trade & settlements · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1789–90 · Decennial revenue settlement
+
+Cornwallis recognises zamindar proprietorship; made permanent in 1793. Decennial arrangements in Bengal and other provinces preceded permanent fixing in 1793.
+
+*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
 ### Late 1789 · Tipu attacks Travancore's defences
 
 Nedumkotta assault, renewed in 1790, triggers Third Mysore War.
 
 *Battles & wars · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
-
-### 1790 · Decennial revenue settlement
-
-Cornwallis recognises zamindar proprietorship; made permanent in 1793.
-
-*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
 
 ### 1790–92 · Third Anglo-Mysore War
 
@@ -1604,11 +1718,23 @@ Beginning of his consolidation before Lahore and Maharaja title.
 
 *Rulers & States · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
 
+### 1792 · Read's Baramahal settlement experiments
+
+Read and Munro associated with origins of Ryotwari.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
 ### March 1792 · Treaty of Seringapatam
 
 Half territory ceded; ₹3.3 crore indemnity; two sons held as hostages.
 
 *Treaties & grants · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+
+### 1793 · Charter Act renews Company privileges
+
+Twenty-year renewal, stronger supervision and Indian revenue-funded Board expenses.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### 1793–98 · John Shore's governorship
 
@@ -1618,9 +1744,9 @@ Non-intervention orientation; not John Lawrence's later Afghan policy.
 
 ### 1793 · Permanent Settlement and Cornwallis Code
 
-Fixed State revenue demand; revenue/judicial separation and court reforms.
+Fixed State revenue demand; revenue/judicial separation and court reforms. Demand fixed permanently; tenant rents were not frozen. Cornwallis Code is distinct from the Charter Act.
 
-*Administration & economy · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Administration & economy · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### 1794 · Mahadji Scindia dies
 
@@ -1688,6 +1814,12 @@ Company armies under Harris advance on Tipu's capital.
 
 *Battles & wars · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
 
+### 1799 · Landlord rent-enforcement rules
+
+Alongside 1793 rules, strengthened collection powers and tenant insecurity.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
 ### 1799 · Ranjit Singh takes Lahore
 
 Important step towards a consolidated Punjab kingdom.
@@ -1726,15 +1858,27 @@ Poona's factional instability deepens.
 
 ### 1801 · Awadh subsidiary alliance
 
-Fiscal/territorial concessions reinforce British control.
+Fiscal/territorial concessions reinforce British control. About half of Awadh territory ceded for Company support and reform obligations.
 
-*Treaties & grants · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Treaties & grants · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1801 · British representative arrangement with Nepal
+
+Wellesley sought diplomatic representation; Nepal was not annexed.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
 
 ### 1801 · Company assumes Carnatic administration
 
 Distinct from earlier Nawabship and Carnatic Wars.
 
 *Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+
+### 1801–1806 · Formation of the Ceded and Conquered Provinces
+
+Company acquisitions in present Uttar Pradesh preceded North-Western Provinces organisation in 1836.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ### 1801 · Napoleon–Russia India scheme
 
@@ -1771,6 +1915,12 @@ Baji Rao II flees and seeks Company protection.
 Peshwa accepts subsidiary alliance; triggers resistance from Scindia/Bhonsle.
 
 *Treaties & grants · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+
+### 1803 · British representative withdraws from Kathmandu
+
+Hostility frustrated the early diplomatic arrangement.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
 
 ### 1803 · Company captures Aligarh, Delhi and Agra
 
@@ -1850,11 +2000,29 @@ Ram Mohan Roy sent to Britain; imperial name removed from Company coinage in 183
 
 *Rulers & States · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html)
 
+### 1807–1809 · Minto's western diplomatic missions
+
+Malcolm, Elphinstone, Metcalfe and Seton countered French/Napoleonic influence.
+
+*Treaties & diplomacy · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1809 · Sindh friendship treaty
+
+Amirs agreed to exclude French settlement.
+
+*Treaties & diplomacy · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
 ### 1809 · Treaty of Amritsar
 
 Ranjit constrained south of Sutlej; cis-Sutlej chiefs under British protection.
 
 *Treaties & grants · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
+
+### 1811 · Officials question permanent settlement
+
+High burdens and limited improvement undermined expected welfare gains.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1812 · Pindari raids in Mirzapur/Shahabad
 
@@ -1864,9 +2032,15 @@ Part of growing raids on Company territories.
 
 ### 1813 · Charter Act ends Indian trade monopoly
 
-Tea and China trade remain exceptions until 1833.
+Tea and China trade remain exceptions until 1833. Tea/China exceptions remained; Crown sovereignty asserted; ₹1-lakh education allocation.
 
-*Administration & economy · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html)
+*Administration & economy · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1813–1858 · Industrial or free-trade phase
+
+Interpretive phase: market for British manufactures and raw-material supplier.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1813–23 · Lord Hastings's governorship
 
@@ -1876,15 +2050,51 @@ Nepal, Pindaris and Third Maratha War consolidate paramountcy.
 
 ### 1814–16 · Anglo-Nepal War
 
-One of Lord Hastings's expansion campaigns.
+One of Lord Hastings's expansion campaigns. Ochterlony’s campaigns forced Nepalese concessions, but Nepal was not annexed.
 
-*Battles & wars · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Battles & wars · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### May 1814 · Butwal frontier clash
+
+Attack on Company police posts sharpened Anglo-Nepal conflict.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### October 1814 · British campaign against Nepal begins
+
+Lord Hastings launched the war; difficult hill fighting followed.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1815–1832 · Declining Indian cotton-cloth exports to Britain
+
+Textile exports fell while British machine-made imports expanded; not disappearance of total export surplus.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1815 · Gangadhar Shastri murdered at Pandharpur
 
 Gaekwad envoy's death and Trimbakji case intensify Peshwa–Company conflict.
 
 *Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+
+### 1815 · Gurkha recruitment begins
+
+Recruitment during the Anglo-Nepal War included Himalayan hill groups.
+
+*Administration & institutions · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 2 December 1815 · Treaty of Sugauli agreed
+
+Nepal conceded extensive territorial claims and accepted British representation.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1816 · Bundelkhand cotton expansion
+
+Export-oriented cultivation followed by price decline and heavy taxation.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1816 · Pindaris raid Northern Circars
 
@@ -1897,6 +2107,12 @@ Provides justification for a major Company campaign.
 Parsoji/Appa Sahib dispute facilitates Resident Jenkins's intervention.
 
 *Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+
+### 4 March 1816 · Sugauli ratification exchanged
+
+Kumaon and Garhwal among British acquisitions; Nepal survived as a buffer.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
 
 ### 27 May 1816 · Treaty of Nagpur
 
@@ -1952,6 +2168,12 @@ Pratap Singh, Shivaji's descendant, installed in a remnant kingdom.
 
 *Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
 
+### 1818 · Early cotton mill near Calcutta
+
+Early experiment preceded successful Bombay milling.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
 ### 1 January 1818 · Battle of Koregaon
 
 Company detachment resists larger Peshwa force; not his final surrender.
@@ -1978,23 +2200,143 @@ Peshwaship abolished; pension at Bithoor; territories enlarge Bombay Presidency.
 
 ## 1819 onwards · Later developments referenced in the chapters
 
+### 1819 · Holt Mackenzie's revenue minute
+
+Village-based settlement and rights recording proposed.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1819 · Singapore settlement founded
+
+Commercial and strategic outpost in Southeast Asia.
+
+*Trade & settlements · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
 ### 1820 · Munro becomes Madras governor
 
-Extends Ryotwari direct settlements, building on earlier work with Read.
+Extends Ryotwari direct settlements, building on earlier work with Read. Munro extended Ryotwari settlement in Madras.
 
-*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1820 · Sindh treaty restrictions renewed
+
+Restrictions extended to other European and American settlement.
+
+*Treaties & diplomacy · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ### 1822 · Regulation VII and Mahalwari framework
 
-Holt Mackenzie's village/mahal-based revenue arrangements.
+Holt Mackenzie's village/mahal-based revenue arrangements. Holt Mackenzie: village/estate settlement, rights records and surveys.
 
-*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Administration & economy · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
-### 1833 · Company's remaining commercial activities end
+### 1823–1824 · Burmese frontier expansion
 
-Tea/China monopoly ends; governing role continues until 1858.
+Assam, Manipur and Chittagong frontier interests brought confrontation.
 
-*Administration & economy · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html)
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1824 · Anglo-Dutch settlement over Malacca
+
+Malacca permanently transferred to British control.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1824–1826 · First Anglo-Burmese War
+
+Amherst; Rangoon campaign and Burmese resistance under Maha Bandula.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1824 · Protective duties on Indian textiles in Britain
+
+Textbook examples: calico 67.5%, muslin 37.5%; tariff asymmetry hurt crafts.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1825 · Bombay Ryotwari extension in the supplied account
+
+Wider adoption occurred over the 1820s; regional practice varied.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1825–1917 · Dadabhai Naoroji's lifetime
+
+Nationalist economic critic and drain theorist; Grand Old Man of India.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1826 · Straits Settlements constituted
+
+Penang, Singapore and Malacca grouped together.
+
+*Administration & institutions · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 24 February 1826 · Treaty of Yandabo
+
+Arakan and Tenasserim ceded; claims to Assam renounced, Manipur independence recognised; £1 million indemnity.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1830–1839 · Bundelkhand cotton-price distress
+
+Approximate decade: export prices fell while tax remained burdensome.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1830 · Whig government in Britain
+
+Reform context for the 1833 Charter Act.
+
+*World context · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1832 · Indus commercial treaty
+
+Henry Pottinger's negotiations opened Sindh commerce to British merchants.
+
+*Trade & settlements · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1832 · Reform Act in Britain
+
+Broadened representation and franchise without universal democracy.
+
+*World context · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1833 · Charter Act of 1833 ends Company commerce
+
+Tea/China monopoly ends; governing role continues until 1858. Company became a governing agency; Bentinck first Governor-General of India; legislative centralisation.
+
+*Administration & economy · [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1833 · Mahalwari revision under Bentinck
+
+Lower rental-value assessment, longer settlements and improved records; Bird supervised work.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1833 · Slavery Abolition Act
+
+Empire legislation had exceptions, including Company territories; not immediate universal abolition in India.
+
+*World context · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1834 · Directors' lapse-policy position
+
+Earlier policy preceded Dalhousie's systematic use of lapse.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1834 · First Law Commission established
+
+Macaulay chaired the commission under the 1833 Charter framework.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1835 · Agra presidency arrangements modified
+
+North-Western Provinces organisation followed in 1836.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### 1835 · Company coinage drops Mughal emperor's name
 
@@ -2002,29 +2344,191 @@ Shows erosion of symbolic imperial authority under Akbar II.
 
 *Administration & economy · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html)
 
+### 1836 · North-Western Provinces organised
+
+Agra presidency arrangements modified; do not project later United Provinces name backward.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
 ### 1837–57 · Bahadur Shah II/Zafar's reign
 
 Poet-emperor becomes symbolic sovereign for 1857 rebels.
 
 *Rulers & States · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html)
 
-### 1838 · Tripartite Treaty
+### 1837 · Indian Penal Code draft
 
-Ranjit Singh, Company and Shah Shuja; Afghan restoration plans.
+Codification project preceded enactment in 1860 and commencement in 1862.
 
-*Treaties & grants · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1837 · Palmerston's frontier fears
+
+Russian influence encouraged the forward-policy argument.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### September 1837 · Burnes mission to Kabul
+
+Dost Mohammad sought assistance over Peshawar; commercial mission carried political aims.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### April 1838 · Burnes withdraws from Kabul
+
+Negotiations failed; British suspicion of Russian influence intensified.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 26 June 1838 · Tripartite Treaty
+
+Ranjit Singh, Company and Shah Shuja; Afghan restoration plans. British, Shah Shuja and Ranjit Singh agreement preceded Afghan intervention.
+
+*Treaties & grants · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1839 · Assam Company established
+
+Tea plantations developed under colonial capital and labour arrangements.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1839 · British Resident withdraws from Burma
+
+Commercial and diplomatic tensions continued.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1839–1842 · First Anglo-Afghan War
+
+Occupation installed Shah Shuja, but resistance and logistical weakness caused failure.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1839 · Grand Trunk Road improvements begin
+
+British reconstruction continued in the 1850s on an older route.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1839 · Mandvi lapse case
+
+Earlier small-state precedent; not Dalhousie's invention.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ### 1839 · Ranjit Singh dies
 
-Succession conflict weakens the Punjab kingdom.
+Succession conflict weakens the Punjab kingdom. Succession struggles and army-court tensions weakened Punjab.
 
-*Rulers & States · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
+*Rulers & States · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1839 · Shah Shuja installed in Kabul
+
+British forces captured Kandahar and Ghazni before occupation of Kabul.
+
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1839 · Subsidiary arrangements in Sindh
+
+Afghan expedition increased British occupation, subsidy and diplomatic pressure.
+
+*Treaties & diplomacy · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1840 · Dost Mohammad surrenders
+
+Renewed resistance ended in surrender and exile in India.
+
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1840 · Jalaun lapse case
+
+Earlier precedent in dependent-state political succession.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ### 1840 · Kharak Singh and Nau Nihal Singh die
 
 Date is 1840, not 1839; deepens succession instability.
 
 *Rulers & States · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
+
+### 1841 · Kabul uprising and envoy killings
+
+Burnes and Macnaghten killed; Akbar Khan prominent in resistance.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1842 · Bundela rebellion
+
+Rural distress and revenue pressures contributed to resistance.
+
+*Wars & battles · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1842 · Ellenborough replaces Auckland
+
+British response combined reprisals, prisoner rescue and withdrawal.
+
+*Administration & institutions · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1842 · Napier sent to Sindh
+
+Ellenborough's policy escalated treaty pressure toward conquest.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### January 1842 · Retreat from Kabul
+
+Elphinstone's troops and followers suffered catastrophic losses; captives and other survivors remained.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### April 1842 · Shah Shuja killed
+
+The imposed ruler's weak legitimacy helped undermine occupation.
+
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### September 1842 · Temporary British reoccupation of Kabul
+
+Pollock and Nott's forces returned, destroyed the bazaar and withdrew.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1843 · Battles of Miani and Dabo; Sindh annexed
+
+Charles Napier defeated the Amirs; Indus trade and frontier strategy strengthened British interest.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1843 · Dost Mohammad restored
+
+British occupation did not achieve permanent control of Afghanistan.
+
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1843 · Duleep Singh installed with Jindan as regent
+
+Minor ruler followed Punjab succession struggles; Khalsa and court tensions grew.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1843 · Indian Act V on slavery
+
+Removed legal recognition/enforcement of slavery in Company territories.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1843–1853 · James Thomason's Lieutenant-Governorship
+
+Carried forward settlement administration in the North-Western Provinces.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1844 · Hardinge becomes Governor-General
+
+British frontier preparations intensified suspicion in Punjab.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ### 1845 · Danish possessions sold to British
 
@@ -2034,51 +2538,351 @@ Tranquebar and Serampore transferred.
 
 ### 1845–46 · First Anglo-Sikh War
 
-Weakening court/army coordination precedes further conflict.
+Weakening court/army coordination precedes further conflict. Hardinge and Gough; Mudki, Ferozeshah, Baddowal, Aliwal and Sobraon.
 
-*Battles & wars · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
+*Battles & wars · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 13 December 1845 · Hardinge declares war on the Sikhs
+
+Sikh crossing of the Sutlej and British preparations preceded the first war.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 18 December 1845 · Battle of Mudki
+
+Opening major encounter in the First Anglo-Sikh War.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 21 December 1845 · Battle of Ferozeshah begins
+
+Fought on 21–22 December; costly British success.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### January 1846 · Battle of Baddowal
+
+Sikh success against British movement.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 28 January 1846 · Battle of Aliwal
+
+Harry Smith's British victory.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 10 February 1846 · Battle of Sobraon
+
+Decisive British victory in the first war.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 9 March 1846 · Treaty of Lahore
+
+Territorial cessions, army reduction and ₹1.5-crore indemnity; Henry Lawrence became Resident.
+
+*Treaties & diplomacy · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 16 March 1846 · Treaty of Amritsar with Gulab Singh
+
+Specified hill territories including Kashmir transferred for ₹75 lakh Nanakshahi.
+
+*Treaties & diplomacy · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 16 December 1846 · Treaty of Bhairowal
+
+Eight-chief regency under British Resident; Jindan excluded from government; indirect control deepened.
+
+*Treaties & diplomacy · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1847 · Sindh incorporated into Bombay Presidency
+
+Conquered territory administratively integrated.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1848–1856 · Dalhousie's Governor-Generalship
+
+Aggressive annexations accompanied rail, post, telegraph and administrative reforms.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1848–1909 · Romesh Chunder Dutt's lifetime
+
+ICS officer, writer and nationalist economic historian.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1848 · Satara annexed
 
-Doctrine-of-lapse chronology in supplied PYQ explanation.
+Doctrine-of-lapse chronology in supplied PYQ explanation. Dalhousie applied lapse to political succession, not all private adoption rights.
 
-*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
-### 1849 · Battle of Chillianwala
+### 1848–1849 · Second Anglo-Sikh War
 
-Company versus Sikhs; not Dalhousie versus Marathas.
+Sher Singh's resistance and British intervention culminated in annexation.
 
-*Battles & wars · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html)
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
-### 1849 · Punjab annexed after Second Anglo-Sikh War
+### 1848 · Sleeman appointed Resident in Awadh
 
-Sikh kingdom absorbed into British rule.
+Reports favoured reform without outright annexation.
 
-*Battles & wars · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html)
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### April 1848 · Multan killings and uprising
+
+Vans Agnew and Anderson killed during replacement of Mulraj; wider rebellion followed.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 22 November 1848 · Battle of Ramnagar
+
+Costly encounter without a decisive settlement.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1849 · Jaitpur annexed by lapse
+
+Distinguish Jaitpur from Jaipur.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
 
 ### 1849 · Sambalpur annexed
 
-After Satara, before Jhansi in the PYQ sequence.
+After Satara, before Jhansi in the PYQ sequence. Sambalpur was annexed under lapse.
 
-*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 13 January 1849 · Battle of Chillianwala
+
+Company versus Sikhs; not Dalhousie versus Marathas. Battle on 13 January caused heavy British losses without decisive settlement.
+
+*Battles & wars · [U1 · C4](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/04.%20Rise%20of%20British%20Supremacy%20-%20Carnatic%2C%20Plassey%20and%20Buxar/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 21 February 1849 · Battle of Gujrat
+
+Decisive victory under Hugh Gough, not Charles Napier.
+
+*Wars & battles · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 29 March 1849 · Punjab annexed after Second Anglo-Sikh War
+
+Sikh kingdom absorbed into British rule. Annexed 29 March; Koh-i-Noor surrendered; Henry Lawrence, John Lawrence and Mansel formed Board of Administration.
+
+*Battles & wars · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1850 · Baghat lapse case
+
+Minor-state annexation later reversed.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1850–1851 · Calcutta-Diamond Harbour experimental telegraph
+
+O'Shaughnessy associated with early electric telegraph development.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1852 · Central Indian Udaipur lapse case
+
+Not Mewar in Rajasthan.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1852 · Pegu annexed
+
+Annexation of Lower Burma gave Britain the full coast; consolidation followed in 1853.
+
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1852 · Scinde Dawk postage stamp
+
+Bartle Frere's Sindh issue preceded all-India stamps.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1852–1853 · Second Anglo-Burmese War
+
+Dalhousie's intervention over commercial complaints led to Lower Burma conquest.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1853 · Berar assigned to the British
+
+Hyderabad territory assigned for contingent expenses; not a lapse annexation.
+
+*Treaties & diplomacy · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1853 · Charter Act separates legislative business
+
+Enlarged legislative sitting and competitive recruitment; no fixed twenty-year renewal.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1853 · Dalhousie's Railway Minute
+
+Imperial commercial and military aims underpinned railway expansion.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1853–54 · Jhansi annexation decision/implementation
 
-Date convention varies; chronological position follows Satara and Sambalpur.
+Date convention varies; chronological position follows Satara and Sambalpur. Jhansi ruler died in 1853; annexation followed in 1854.
 
-*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Rulers & States · [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1853 · Mindon becomes Burmese king
+
+Monarchy continued in Upper Burma after the second war.
+
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1853–1854 · Nagpur succession and annexation
+
+Ruler died in 1853; British annexation followed in 1854.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1853–1854 · Telegraph network and services expand
+
+Communication served colonial administration and military movement.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 16 April 1853 · Bombay-Thane passenger railway
+
+First commercial passenger service; GIPR; earlier industrial lines existed.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1854 · All-India postage and postal reform
+
+Dalhousie's reforms expanded communication.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1854 · Davar's Bombay cotton mill established
+
+Cowasji Nanabhoy Davar promoted the successful Bombay Spinning and Weaving Company.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1854 · Macaulay civil-service committee
+
+Developed competitive recruitment rules after the 1853 Act.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1854 · Madras Torture Commission appointed
+
+Investigated coercive revenue collection.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1854 · Outram succeeds Sleeman in Awadh
+
+Report supplied the basis for the misgovernment pretext.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1854 · Public Works Department reorganised
+
+Separate department strengthened colonial infrastructure works.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### July 1854 · Wood's Despatch
+
+Educational departments, grants, training and university framework.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 15 August 1854 · Howrah-Hooghly passenger railway opens
+
+Eastern passenger line preceded full extension to Raniganj.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1855 · Carnatic and Tanjore titles or residual sovereignty removed
+
+Distinguish titles/pensions from territorial lapse cases.
+
+*Political change · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1855 · First competitive civil-service examination
+
+Held in London; practical barriers limited Indian participation.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1855 · Madras Torture Commission report
+
+Documented abuse under revenue administration.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1855 · Rishra jute mill established
+
+George Acland's mill near Calcutta; British capital prominent.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1855 · Saharanpur Rules
+
+Revenue benchmark reduced to about half net rental assets; implementation varied.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 3 February 1855 · Eastern railway reaches Raniganj
+
+Do not date the full service to 1854.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1856 · Awadh annexed
 
-Long dependence ends in direct annexation.
+Long dependence ends in direct annexation. Outram report supplied misgovernment pretext; Awadh was not a lapse annexation; Wajid Ali Shah removed.
 
-*Rulers & States · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html)
+*Rulers & States · [U1 · C2](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/02.%20Rise%20of%20Autonomous%20States/Quick%20Revision%20Notes.html) / [U2 · C1](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/01.%20British%20Expansion%20in%20South%20India%28Conquest%20of%20Mysore%20and%20the%20Marathas%2C%201767-1818%29/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1857 · Calcutta, Bombay and Madras universities founded
+
+Followed the educational framework of Wood's Despatch.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1857 · Mandalay founded as capital
+
+Mindon's capital foundation was later than his 1853 accession.
+
+*Administration & institutions · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
 
 ### 1857 · Revolt; Zafar becomes symbolic sovereign
 
-Company retakes Delhi and captures the emperor.
+Company retakes Delhi and captures the emperor. Annexation and agrarian grievances contributed; crisis led to Crown transfer. Jang Bahadur’s Nepalese forces assisted the British; Nepal did not remain simply neutral.
 
-*Battles & wars · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html)
+*Battles & wars · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html) / [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html) / [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1857–1858 · Rural mobilisation in northern India
+
+Debt, dispossession and revenue grievances contributed to revolt.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1858 · Allahabad provincial seat after the revolt
+
+Important provincial administrative centre and venue of the royal proclamation; not established as India’s capital for one day.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html)
+
+### 1858–1947 · Finance-capital phase
+
+Interpretive phase: investment and remitted returns in railways, plantations and mining.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1858 · Zafar tried and deported to Rangoon
 
@@ -2086,17 +2890,227 @@ Mughal dynasty's political removal distinct from his death in 1862.
 
 *Rulers & States · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html)
 
+### 2 August 1858 · Government of India Act receives assent
+
+Crown takes Company government; Secretary of State and fifteen-member Council; Stanley first Secretary.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
 ### 1 November 1858 · Queen Victoria's Proclamation
 
-Crown takeover from Company; not the beginning of Mughal decline.
+Crown takeover from Company; not the beginning of Mughal decline. 1 November Allahabad; treaties, non-annexation, religion and fair employment promises; no responsible government.
 
-*Administration & economy · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html) / [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html)
+*Administration & economy · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html) / [U1 · C3](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/03.%20Rise%20of%20British%20Supremacy%20-%20A%20Backgrounder/Quick%20Revision%20Notes.html) / [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1859 · Bengal Rent Act
+
+Limited protection for occupancy tenants; did not abolish Permanent Settlement.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1859 · Punjab Lieutenant-Governorship
+
+Crown-era administrative arrangement followed earlier Board administration.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1860 · Indian Penal Code enacted
+
+Enactment is distinct from its later operational commencement.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1 January 1862 · Indian Penal Code commences
+
+Correct commencement date; distinguish the 2005 PYQ wording.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
 
 ### November 1862 · Bahadur Shah Zafar dies
 
 Death in exile after the dynasty's removal.
 
 *Rulers & States · [U1 · C1](01.%20Mid-Eighteenth%20Century%20India%20%28India%20on%20the%20Eve%20of%20British%20Conquest%29/01.%20Decline%20of%20Mughal%20Empire/Quick%20Revision%20Notes.html)
+
+### 2 May 1867 · Naoroji presents England's Debt to India
+
+East India Association address developed the drain argument.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1869 · State railway construction expands
+
+Policy shifted after early private guaranteed companies.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1874 · East India Company dissolved
+
+Legal corporate existence outlasted its government's abolition in 1858.
+
+*Administration & institutions · [U3 · C2](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/02.%20Changes%20and%20Impact%20-%20Indian%20Polity%20%28Constitutional%20Development%20Part%201%2C%201757-1858%29/Quick%20Revision%20Notes.html)
+
+### 1874 · Tata's Central India textile company
+
+Jamsetji Tata's industrial enterprise preceded Empress Mills opening.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1876–1878 · Great Famine
+
+Revenue pressure, poverty, drought and relief/distribution failures increased mortality.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1877 · North-Western Provinces and Oudh administratively associated
+
+Association occurred after Awadh's 1856 annexation.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1 January 1877 · Empress Mills opens in Nagpur
+
+Tata textile enterprise strengthened Indian modern industry.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1878–1880 · Second Anglo-Afghan War
+
+Lytton renewed forward intervention; 1879 agreement did not end all fighting.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1879 · Treaty of Gandamak
+
+Yakub Khan accepted British external-policy influence and a resident; later uprising reopened conflict.
+
+*Treaties & diplomacy · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1880 · Abdur Rahman becomes Amir
+
+British external influence continued without permanent annexation.
+
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1880–1889 · Renewed private railway participation
+
+Approximate decade; arrangements differed from the earliest guarantees.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1885 · Third Anglo-Burmese War
+
+Dufferin; commercial conflict and Thibaw's foreign connections supplied justification.
+
+*Wars & battles · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1886 · Upper Burma annexed
+
+Thibaw removed; formal annexation followed the 1885 war.
+
+*Political change · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1899 · R.C. Dutt presides over Congress
+
+Economic critique linked to nationalist politics.
+
+*Political change · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1900 · Dutt's Open Letters to Curzon
+
+Criticised famine and land-assessment policy.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1901 · Poverty and Un-British Rule in India published
+
+Naoroji consolidated an economic critique developed earlier.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1902 · Dutt's Economic History first volume
+
+Historical analysis of colonial economic policy; second volume followed in 1904.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1902 · United Provinces name adopted
+
+Later name of the North-Western Provinces and Oudh.
+
+*Administration & institutions · [U2 · C3](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/03.%20British%20Expansion%20in%20North%20India%20%28Conquest%20of%20Sindh%2C%20Punjab%20and%20Awadh%2C%201843-57%29/Quick%20Revision%20Notes.html) / [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1904 · Dutt's Economic History second volume
+
+Continued his account of colonial economic change.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1904 · Jamsetji Tata dies
+
+Dorabji Tata and associates carried the steel project forward.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1905 · Railway network reaches roughly 45,000 km
+
+Rounded textbook network comparison; expansion served commerce and troop movement as well as wider market integration.
+
+*Administration & institutions · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1905 · Swadeshi strengthens indigenous enterprise
+
+Indian modern industry predated the movement.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1906 · Naoroji's swaraj demand at Calcutta Congress
+
+Economic criticism fed the political demand for self-government.
+
+*Political change · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 26 August 1907 · TISCO incorporated
+
+Jamsetji Tata's vision carried forward by Dorabji and associates.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1911 · TISCO begins pig iron production
+
+Preceded first steel production.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 16 February 1912 · TISCO first steel production
+
+Correct date is 1912, not 1913.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1919 · Birla enters jute industry
+
+Indian industrial enterprise expanded in a British-dominated sector.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1937 · Burma separated from British India
+
+Became a distinct British colony.
+
+*Administration & institutions · [U2 · C2](02.%20British%20Expansion%20and%20Consolidation%20in%20India%20%281767-1857%29/02.%20British%20Expansion%20Beyond%20Indian%20Frontiers%20%28Nepal%2C%20Burma%20and%20Afghanistan%2C%201814-42%29/Quick%20Revision%20Notes.html)
+
+### 1940–1949 · Birla jute expansion
+
+Approximate decade; later development extends beyond the chapter's principal period.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
+
+### 1948 · Ashok Leyland founded
+
+Post-independence enterprise; not evidence of a pre-1947 colonial company.
+
+*Economy & society · [U3 · C1](03.%20Changes%20and%20Impact%20%28Mid-18th%20to%20Mid-19th%20Century%29/01.%20Changes%20and%20Impact%20-%20Indian%20Economy/Quick%20Revision%20Notes.html)
 
 ### 1954 · French enclaves transfer de facto to India
 
