@@ -5,9 +5,9 @@
 - **Citizenship Act, 1955** governs birth, descent, registration, naturalisation and incorporation of territory; loss through renunciation, termination or deprivation.
 - Citizenship is a Union subject; **CAA 2019** provides a special route for specified Hindu, Sikh, Buddhist, Jain, Parsi and Christian migrants from Afghanistan, Bangladesh and Pakistan entering by **31 December 2014**, subject to statutory conditions/exemptions. It is not automatic citizenship for every such entrant.
 ## MHA annual report 2023-24: source figures
-- FRRO deportations **2,331**: Nigeria 1,470; Bangladesh 411; Uganda 78; reasons include visa violations/overstay.
-- **1,112** long-term visas to Pakistani minority-community members; LTV is not citizenship.
-- Citizenship certificates **1,699**: registration **1,278** + naturalisation **421**; this source table excludes CAA figures.
+- FRRO deportations **2, 331**: Nigeria 1, 470; Bangladesh 411; Uganda 78; reasons include visa violations/overstay.
+- **1, 112** long-term visas to Pakistani minority-community members; LTV is not citizenship.
+- Citizenship certificates **1, 699**: registration **1, 278** + naturalisation **421**; this source table excludes CAA figures.
 - Foreign visitors **98 lakh**: Bangladesh 21.1 lakh, US 17.4 lakh, UK 9.9 lakh.
 - Source lists Amendment Act years 1986, 1992, 2003, 2005, 2015, 2019; avoid turning this source list into an assertion that no other changes exist.
 ## NRI, PIO and OCI: diaspora distinction
@@ -27,12 +27,18 @@
 - EO targeted specified children whose mother was unlawfully present or lawfully temporary and father neither US citizen nor lawful permanent resident, prospectively after a 30-day period; parental tests are more specific than “all foreign parents”. [20 January order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/).
 
 ## US deportations: February 2025
-- **5 February 2025:** US military flight brought **104 Indians to Amritsar**, correcting the PDF's preliminary “around 200”. Nationality verification and acceptance of own citizens differ from endorsing detention/transport conditions. [Contemporaneous report](https://apnews.com/article/eb43d6fb6ba1f78febdd78b77bd36196).
-- Source **18,000** refers to a reported removal/enforcement population; not a census of all undocumented Indians in the US. Legal students/workers are not automatically undocumented migrants.
+- **5 February 2025:** US military flight brought **104 Indians to Amritsar**, correcting the PDF's preliminary “around 200”. Nationality verification and acceptance of own citizens differ from endorsing detention/transport conditions. [Contemporaneous report](https://apnews.com/article/eb 43d 6fb 6ba 1f 78febdd 78b 77bd 36196).
+- Source **18, 000** refers to a reported removal/enforcement population; not a census of all undocumented Indians in the US. Legal students/workers are not automatically undocumented migrants.
 - Balance sovereign immigration enforcement with due process, dignity, humane treatment, consular assistance and protection against trafficking; reintegration needs counselling, skills/jobs and action against fraudulent agents.
 - **Trump**, not Biden, was US President for this February 2025 sequence; Modi's impending visit was a diplomatic context, not proof of a settled deportation agreement.
+
+## Irregular migration and rights
+- Irregular entry/overstay, refugee protection, smuggling and trafficking are different categories; trafficking centres on exploitation and need not involve crossing a border.
+- Article 21 protects persons, including non-citizens; immigration enforcement must respect applicable law and due process. CAA exceptions have specified conditions, not a general exemption for all migrants.
+- Drivers include work, persecution, disasters and family networks. Recruitment regulation/eMigrate, safe-migration training, consular support and border management need coordination.
+- Migration agreements do not eliminate domestic unemployment or guarantee every applicant an overseas job; source agent counts are dated.
 
 
 ## PDF coverage
 
-2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1 · 2025-02-05: pp. 1, 2, 3 · 2025-02-16: pp. 2, 3, 4
+2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1 · 2025-02-05: pp. 1, 2, 3 · 2025-02-16: pp. 2, 3, 4 · 2025-03-01: pp. 1, 2, 3, 4

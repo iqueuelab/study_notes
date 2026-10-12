@@ -1112,37 +1112,128 @@
     {
       "date": "2025-02-26",
       "pdf": "2025/02-February/2025-02-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a2254f623522d71e09c2e199e5a30196371dc4b1d21dfa733bb1b9de769adca7",
+      "pages": 11,
+      "topic_ids": [
+        "naval-platforms",
+        "death-penalty",
+        "digital-content"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-27",
       "pdf": "2025/02-February/2025-02-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3d58e29cc59039df45f0e777efcdab63a9cf2e2b4d4c03a03fa12dd082b6515e",
+      "pages": 34,
+      "topic_ids": [
+        "delimitation-demography",
+        "preventive-health",
+        "crowd-safety",
+        "critical-minerals",
+        "ethanol-maize",
+        "thermal-emissions",
+        "punch",
+        "maternity-entitlements",
+        "prohibitory-orders-begging"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-28",
       "pdf": "2025/02-February/2025-02-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "f15ac56dadbf9f6bbd73393566c04227e1b0ea730b8f4b55e6861d5b5d40d0de",
+      "pages": 21,
+      "topic_ids": [
+        "delimitation-demography",
+        "rs24-yars",
+        "slender-billed-gull",
+        "spices-board",
+        "selenium",
+        "black-plastic",
+        "sma",
+        "textile-industry",
+        "kmtr",
+        "honduras",
+        "time-use-care"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-01",
       "pdf": "2025/03-March/2025-03-01.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a6288962e3e400ca87908e3f003ec92b5390cf17409a389ad76ebe9faf70da3c",
+      "pages": 20,
+      "topic_ids": [
+        "citizenship",
+        "uapa",
+        "india-eu",
+        "avalanches",
+        "high-income-2047",
+        "aditya-l1"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-02",
       "pdf": "2025/03-March/2025-03-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "db5cb813327abd8f531ec1e1b6eafc0fae9df9463932271c92be6d2c4431e34c",
+      "pages": 15,
+      "topic_ids": [
+        "coffee",
+        "trinidad-tobago",
+        "preventive-health",
+        "selenium",
+        "nasm-sr",
+        "bro"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-03",
       "pdf": "2025/03-March/2025-03-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d9a2421afc150e888818c7cee209b8a4d38077bc624fee97aa9c05a99a5a59a3",
+      "pages": 14,
+      "topic_ids": [
+        "time-use-care",
+        "lpg-pipeline",
+        "three-language",
+        "fisheries"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-04",
       "pdf": "2025/03-March/2025-03-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "835136cb3bf2051e816e7ff25aaddc731523f66e072bba15c2dd45d554ce9e6f",
+      "pages": 30,
+      "topic_ids": [
+        "industrial-indicators",
+        "fighter-aircraft",
+        "digital-content",
+        "blue-ghost",
+        "oscars",
+        "mob-lynching",
+        "ganges-dolphin",
+        "c3",
+        "spherex",
+        "parandur-airport"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-05",
@@ -3821,7 +3912,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-02-26",
+  "next_pdf": "2025-03-05",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

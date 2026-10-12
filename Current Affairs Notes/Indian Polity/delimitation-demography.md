@@ -21,7 +21,11 @@
 
 - Fertility comparison: [Statistics Korea](https://www.kostat.go.kr/boardDownload.es?bid=11748&list_no=437488&seq=1).
 
+## Delimitation trigger
+- Articles 82/170 link readjustment to census-based processes; seat freeze concerns the first census **after 2026**, not automatic redistribution in 2026.
+- Delimitation Commission includes a serving/former Supreme Court judge, CEC or nominated Election Commissioner and relevant State Election Commissioners. Population, demographic performance and fiscal transfers involve different legal mechanisms.
+
 
 ## PDF coverage
 
-2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24
+2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24 · 2025-02-27: pp. 31, 32, 33, 34 · 2025-02-28: pp. 17, 18, 19, 20, 21

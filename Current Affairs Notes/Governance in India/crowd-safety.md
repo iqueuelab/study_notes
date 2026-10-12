@@ -31,7 +31,12 @@
 | July 2024 | Hathras, Uttar Pradesh |
 - Graphic tolls range from **12 to 340**, including an early **116** for Hathras; provisional and sometimes inconsistent counts are not settled final totals. Useful for comparing crowd/structure failures without memorising disputed precision.
 - Supplied 'Daily Mains Question' is coaching practice, not a year-identified UPSC PYQ.
+## Railway crowd management
+- February 15, 2025 New Delhi station tragedy: anticipate pilgrimage demand; coordinate entry holding areas, platforms, train information and emergency routes with RPF/local services.
+- CCTV must feed timely decisions; reliable announcements, trained staff and usable exits matter more than equipment alone.
+- The 2017 Elphinstone Road event was a **crowd crush**, not a bridge collapse. Source passenger-per-coach arithmetic lacks a consistent train/coach/time denominator.
+
 
 ## PDF coverage
 
-2025-01-09: pp. 14, 15, 16, 17
+2025-01-09: pp. 14, 15, 16, 17 · 2025-02-27: pp. 10, 11, 12, 13, 14

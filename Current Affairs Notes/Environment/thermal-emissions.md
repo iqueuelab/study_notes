@@ -15,7 +15,12 @@
 - Source statements about IIT/NEERI studies and blanket absence of data need study/scope verification; FGD energy use does not by itself make every pollution-control installation incompatible with climate goals.
 ## Practice recall
 - 2015 standards true; high-sulphur Indian-coal generalisation and claim of uniform CEA support false. Questions supplied here are undated practice, not PYQs.
+## Crop damage and pollutant-specific controls
+- Stanford-linked modelling estimated coal-plant NO₂ impacts on nearby rice/wheat yields, potentially up to 10%; counterfactual output gains valued aroundUS$420 million rice/US$400 million wheat are estimates, not realised revenue. [Study summary](https://news.stanford.edu/stories/2025/02/coal-emissions-cost-india-millions-crop-damages).
+- **ESP→particulates; FGD→SO₂; low-NOx burners/SCR/SNCR→NOx.** An ESP does not remove NO₂ by itself.
+- Calibrated continuous monitoring, independent checks and published data support health/crop protection. Budget growth does not directly measure generation or pollution growth.
+
 
 ## PDF coverage
 
-2025-02-07: pp. 4, 5, 6, 7, 8, 12, 13, 14
+2025-02-07: pp. 4, 5, 6, 7, 8, 12, 13, 14 · 2025-02-27: pp. 20, 21, 22, 23

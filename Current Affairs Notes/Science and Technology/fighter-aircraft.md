@@ -3,7 +3,7 @@
 ## Indian programmes
 | Programme | February 2025 source account |
 | --- | --- |
-| LCA Mk2 | Larger multirole Tejas development, GE-F414 engine; **11 weapon stations**; projected prototype end-2025, flight 2026, induction 2028–29 |
+| LCA Mk 2 | Larger multirole Tejas development, GE-F414 engine; **11 weapon stations**; projected prototype end-2025, flight 2026, induction 2028–29 |
 | AMCA | Fifth-generation stealth development; five planned prototypes, reported **~1.5-tonne internal weapons bay**; projected rollout 2026–27, flight 2028, certification 2032, induction 2034 |
 - Source initial **four AMCA aircraft/year** is a production-plan claim, not then-achieved output.
 - **These dates were reported development targets, not confirmed completed milestones or current schedules.** Source April-2024 sanction timing needs confirmation against official approval history; do not universalise it.
@@ -28,7 +28,12 @@
 ## 2024 PYQ recall
 - **Rafael (official printed spelling, referring to Rafale), MiG-29, Tejas MK-1:** none is a fifth-generation fighter; answer **(d) None**. Capability upgrades do not automatically change the platform generation.
 
+## Squadron capacity debate
+- Source compares~31 squadrons with a sanctioned 42; delivery forecasts and retirements are not completed fleet changes.
+- Aircraft numbers need engines/components, trained personnel, maintenance, sensors, AEW/refuelling and timely production. Private/DPSU collaboration cannot eliminate every supply constraint.
+- LCA Mk 2/AMCA are development programmes; reported foreign purchase interest is not equivalent to aircraft delivered. Draft industrial policies must be labelled as drafts.
+
 
 ## PDF coverage
 
-2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11
+2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19
