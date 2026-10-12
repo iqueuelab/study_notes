@@ -14,7 +14,12 @@
 - Intended aims: disrupt terrorist infrastructure, deter repeat attacks, use intelligence/precision to limit unintended harm and manage escalation. Stand-off weapons reduce crew exposure but do not eliminate risk, casualties or escalation.
 - The issue's “objectives achieved without military escalation” is **premature**; India–Pakistan exchanges subsequently continued. Precision/minimal collateral harm are claims requiring evidence, not automatic proof of compliance with international law.
 - “Pre-emptive self-defence” is not a universally sufficient legal justification: assess applicable UN Charter rules, necessity/proportionality and humanitarian protection. Diplomatic communication, verified battle-damage assessment, joint coordination and indigenous capabilities complement foreign-origin munitions.
+## 10–13 May 2025: escalation and evidence boundaries
+- The source discusses later strikes on Pakistani military airbases, including **Nur Khan near Rawalpindi**, following the initial May 7 terrorist-infrastructure operation. Do not apply the initial “no military facilities targeted” description to every subsequent exchange.
+- The source's Egypt-flight/nuclear-site narratives, alleged National Command Authority meeting and US warning accounts are **claims, not verified proof of nuclear damage or the cause of cessation**. Suspected sites near Sargodha/Kirana Hills should not be labelled confirmed damaged warhead stores on social-media evidence.
+- India's **12 May briefing denied targeting Kirana Hills**. Keep the denial and evidentiary limits alongside any discussion of escalation. [Official Operation Sindoor briefing collection](https://www.pib.gov.in/EventDetail.aspx?ID=1206&lang=1&reg=3).
+
 
 ## PDF coverage
 
-2025-05-08: pp. 11, 12, 13, 14
+2025-05-08: pp. 11, 12, 13, 14 · 2025-05-13: pp. 1, 2, 3

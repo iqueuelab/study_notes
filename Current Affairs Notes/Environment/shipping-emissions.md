@@ -24,7 +24,17 @@
 
 ## Later development — 17 October 2025
 **Adoption talks were adjourned for one year**, superseding April's planned October adoption. The PDF's 2028 implementation expectation therefore remains a former target, not an operative deadline. The framework was not made binding by the April approval. [IMO October statement](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-net-zero-shipping-talks-to-resume-in-2026.aspx).
+## May 13 additions: maritime strategy and draft status
+- **2023 IMO strategy:** at least **40% carbon-intensity reduction by 2030** versus 2008; total annual GHG reductions by **2040: at least 70%, striving for 80%**. The PDF confuses the 2040 total-emission checkpoint with an intensity target. EEDI, SEEMP and mandatory fuel-use reporting complement **EEXI/CII** measures.
+- Draft amendment adoption requires the applicable MARPOL parties' process, not a simple vote of every IMO member. **Tacit acceptance** has objection thresholds: at least one-third of parties **or** parties representing at least 50% of merchant-fleet gross tonnage; these are alternatives, not a combined threshold. [IMO MEPC83 summary](https://www.imo.org/en/mediacentre/meetingsummaries/pages/mepc-83rd-session.aspx).
+- Source describes Indian bridging/Singapore hybrid proposals linking underperformance charges with zero/near-zero-fuel rewards; ICS/EU favoured levy variants, China favoured flexible trading/technology approaches. Negotiating positions are source accounts, not final binding national obligations.
+- Source's **19 gCO2e/MJ until 2034, 14 from 2035** refers to proposed zero/near-zero-fuel qualification, not automatic certification of every Indian hydrogen shipment. **Lifecycle** production/transport/use emissions must be assessed.
+- India could supply lower-emission marine fuels and bunkering infrastructure, supported by National **Green** Hydrogen Mission; opportunity depends on verified emissions, competitive cost, infrastructure and contracts.
+- The source's **236 Indian ships >5,000 GT /135 international**, projected trade-cost increases **5–8% by 2030 /33–35% by 2050**, and old **50–250% emissions growth** scenario are dated scope/model estimates, not achieved effects. Its 90% global-trade share is boundary-dependent; UNCTAD commonly uses **over 80% by volume**.
+- **CBDR-RC** informs climate-equity debate, while IMO's ship rules also seek consistent application. SIDS seek finance/ambition; developing fleets face technology/cost gaps. Avoid assuming national interest establishes all oil-exporting states' identical position.
+- The US announced Paris withdrawal in January 2025; it had **not completed** the one-year withdrawal process by April/May. Aviation comparison should distinguish ICAO's aspirational long-term goal from enforceable aviation measures such as CORSIA, rather than calling the whole sector unregulated.
+
 
 ## PDF coverage
 
-2025-04-13: pp. 3, 4, 5
+2025-04-13: pp. 3, 4, 5 · 2025-05-13: pp. 16, 17, 18, 19, 20, 21

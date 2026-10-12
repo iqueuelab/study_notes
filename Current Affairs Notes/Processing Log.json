@@ -2464,7 +2464,22 @@
     {
       "date": "2025-05-13",
       "pdf": "2025/05-May/2025-05-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "876c72390ebaa0bf1a84933d8c7c93d4fd6be80d2906839d027e0a05dd8afe7a",
+      "pages": 32,
+      "topic_ids": [
+        "e-waste",
+        "critical-minerals",
+        "shipping-emissions",
+        "national-commission-women",
+        "operation-sindoor",
+        "boron-nuclear-safety",
+        "dgmo",
+        "lactase-persistence",
+        "himalayan-plastic-waste"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-14",
@@ -4798,7 +4813,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-05-13",
+  "next_pdf": "2025-05-14",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

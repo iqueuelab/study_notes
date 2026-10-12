@@ -49,7 +49,18 @@
 - Source's **2,270-tonne 2023–24 imports** and **6% reserve share** need defined commodity/year denominators; do not equate mineral/compound import weight with separated elemental supply or economic reserves with total resources.
 - Japan's response to the **2010 supply shock** offers a diversification lesson: alternative sourcing, recycling/substitution and stockpiles; source's exact “months-long” buffer is not a universal adequacy rule.
 
+## May 2025: germanium supply and export-control chronology
+- Indian Embassy in Beijing told the source it was engaging China through communications/meetings on **germanium** restrictions; the RTI response identified that particular industry concern. It does not establish successful supply restoration or absence of every rare-earth risk.
+- **Germanium (Ge), atomic number 32:** metalloid; **gallium (Ga), 31:** soft post-transition metal, melting near room temperature. Neither is one of the 17 rare earths. Discovery recall: **Ge—Clemens Winkler, 1886; Ga—Paul-Émile Lecoq de Boisbaudran, 1875**.
+- Ge/GeO2: optical-fibre glass preforms, infrared optics/night vision, specialised semiconductors and space-grade solar cells. GaAs/GaN: RF/power electronics, LEDs, radar/communications; gallium also enters CIGS photovoltaics. Do not infer every ordinary solar module or every green-hydrogen plant requires these materials.
+- Generally recovered as by-products: **Ge from zinc-processing and some coal-related sources; Ga from bauxite/alumina processing and some zinc routes**. Supply hinges on recovery/refining, not only standalone mines; China's concentration creates vulnerability. Source's crustal abundance/production shares mix definitions/years and should not be memorised as current refining totals.
+- **3 July 2023 announcement, effective 1 August 2023:** China introduced licensing for listed Ga/Ge-related exports—not 2022. [MOFCOM](https://english.mofcom.gov.cn/News/PressConference/art/2023/art_36fb2d80e4b4453891bb8fc83e2b3c4e.html).
+- **3 December 2024, Announcement 46:** tightened listed dual-use exports to **US**, including in-principle nonpermission for Ga/Ge/antimony/superhard-material exports and stricter graphite review. This is not a late-2023 worldwide ban applying identically to India. [Official notice](https://www.mofcom.gov.cn/zwgk/zcfb/art/2024/art_3d5e990b43424e60828030f58a547b60.html).
+- Source reports Indian import reliance/UAE sourcing and higher costs; transshipment country is not necessarily country of primary production. Its blanket “no domestic production” needs commodity-specific confirmation. Foxconn personnel/equipment delays do not establish officially confirmed retaliation.
+- Diversify suppliers and contracts, assess domestic by-product recovery/recycling, strategic buffers and substitution, and deepen processing skills/technology partnerships. Listed potential supplier countries do not prove immediately available export capacity or signed deals.
+- Existing **NCMM approved January 2025** supersedes the source's “critical-minerals strategy merely proposed” wording. Do not retrospectively label a future **Quad Critical Minerals Initiative** as already launched in May; general Quad/iCET cooperation is separate.
+
 
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27
