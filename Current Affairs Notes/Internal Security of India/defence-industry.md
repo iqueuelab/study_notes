@@ -44,7 +44,14 @@
 - Source **₹1.27 lakh crore production / ~₹21,000 crore exports** refer to earlier reported annual performance; **₹1.60 lakh crore / ₹30,000 crore** figures are projections, not then-achieved FY2025–26 outcomes.
 - Jet-engine dependence, procurement delays, skills and IP/technology transfer remain constraints. Exhibition participation is not a procurement commitment; “Tejas production stabilised” should not erase delivery/engine bottlenecks.
 
+## Export figures: denominator traps
+- February repeat cites **28% historical export CAGR /19% forecast toFY29**; different periods and projections must remain separate.
+- **Myanmar31% /Sri Lanka19%** are not a verified current breakdown of every defence-export item; recipient shares vary with year, data and equipment coverage.
+- Source says defence budget both **1.9–2.8%** and **3%GDP /60% imports** without matching scope; don't memorise them as one consistent series.
+- **Tamil Nadu/UP corridors, FDI subject to conditions, strategic partnerships, export facilitation, iDEX/R&D** matter; the alleged defence TUFS programme confuses textile policy, and a draft promotion policy is not automatically operational.
+- Improve competitive products, certification, delivery/spares, finance and end-use compliance; domestic procurement preference alone cannot create global demand.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11
+2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5

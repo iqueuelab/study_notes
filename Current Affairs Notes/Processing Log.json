@@ -993,37 +993,121 @@
     {
       "date": "2025-02-19",
       "pdf": "2025/02-February/2025-02-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "f5ed47fd7fb02471d8702cf09d940791fa996e2e712753d169d86a5f13b5506d",
+      "pages": 30,
+      "topic_ids": [
+        "udise",
+        "earthquakes",
+        "india-qatar",
+        "employment-plfs",
+        "india-ghg",
+        "saturn-rings",
+        "death-penalty",
+        "digital-content"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-20",
       "pdf": "2025/02-February/2025-02-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "019cdc6cb522cc92a8abcc069bbf518343a3fecf0f44ca055c756702c74e67f6",
+      "pages": 24,
+      "topic_ids": [
+        "udise",
+        "cdri",
+        "death-penalty",
+        "digital-content",
+        "deep-sea-station",
+        "cheetah",
+        "moonlight-navigation",
+        "telecom-resilience"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        24
+      ]
     },
     {
       "date": "2025-02-21",
       "pdf": "2025/02-February/2025-02-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "05b5c52d13f6da8d17705c0c3bdb4257fb69b5df10f5645a9b85dfc0a331fce9",
+      "pages": 28,
+      "topic_ids": [
+        "lokpal",
+        "asteroid-yr4",
+        "death-penalty",
+        "digital-content",
+        "defence-sdr",
+        "cancer-family"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-22",
       "pdf": "2025/02-February/2025-02-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "109450cf095c82b6e881636e9024199dcac4cb8f7356bf1f7db764ed04ba53e0",
+      "pages": 13,
+      "topic_ids": [
+        "oarfish",
+        "qrsam",
+        "olive-ridley",
+        "mediation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-23",
       "pdf": "2025/02-February/2025-02-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7812e7c9d77d122f16128d82159e70f6df6f6515d38f569594b4a558463324f0",
+      "pages": 15,
+      "topic_ids": [
+        "naval-platforms",
+        "hku5",
+        "quantum-majorana"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-24",
       "pdf": "2025/02-February/2025-02-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a974fe24bef5202231d01911276d5a5ac752c30a14f207d1687c7d4e110cb51e",
+      "pages": 22,
+      "topic_ids": [
+        "workplace-ethics",
+        "usaid",
+        "death-penalty",
+        "digital-content",
+        "skilled-mobility",
+        "drug-export"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-25",
       "pdf": "2025/02-February/2025-02-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "893ccc40021a790dc285b1390c85c73575ce813a7b2ba4356e07d88f4c58cfcf",
+      "pages": 20,
+      "topic_ids": [
+        "defence-industry",
+        "solid-waste",
+        "social-protection",
+        "rti"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-26",
@@ -3737,7 +3821,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-02-19",
+  "next_pdf": "2025-02-26",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

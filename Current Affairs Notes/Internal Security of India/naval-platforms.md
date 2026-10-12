@@ -32,7 +32,22 @@
 - **Class 214 / 212CD** are referenced TKMS design families; not proof the proposed Indian derivative is already operational. Navantia's **S-81 Isaac Peral**, S-80 family, commissioned **2023**.
 - AIP permits longer submerged endurance without atmospheric air for propulsion; **not unlimited endurance or conversion into a nuclear submarine**. Cost, localisation and skilled production remain challenges.
 
+## Project76 and P75I: February2025 plans
+| Programme | Distinction |
+| --- | --- |
+| P75 | Six French-design Scorpene/Kalvari boats built at MDL; sixth **Vaghsheer commissioned15 January2025** |
+| P75I | Proposed six advanced conventional submarines with AIP, foreign partnership/Strategic Partnership framework |
+| P76 | Proposed indigenous conventional-submarine design; source goal **90–95% local content**, ~3,000 tonnes |
+| SSBN /SSN | Nuclear ballistic-missile deterrent submarine /nuclear-powered attack submarine; propulsion and weapons roles differ |
+- Source P76 **CCS approval in two months /2–3-year design /five-year build** and P75I **₹70,000 crore /future delivery** are estimates, not confirmed completed contracts/schedules.
+- **MDL–TKMS** reported bidder/evaluation progress does not itself constitute a signed six-boat contract; source's assertion all other candidates simply “dropped out” oversimplifies the process.
+- **AIP** improves submerged endurance for conventional submarines, not unlimited endurance or nuclear propulsion. Retrofit in existing Scorpenes differs from the planned P75I requirement.
+- Source “five commissioned /Vaghsheer to commission” is stale; spell **Khanderi**, not Kandheri. P75 signing/construction history differs from the broader 30-year submarine plan.
+- Land-attack cruise-missile development and conventional sea denial do **not automatically confer nuclear second-strike capability**; nuclear deterrence relies on the appropriate weapons/platform system.
+- Costs, engine/AIP reliability, acoustic stealth, electronics/IP, skilled workers/crews, trials and spares are constraints; **INS Satavahana** supports submarine training.
+- Three additional Scorpenes and source conventional-fleet counts are dated proposals/snapshots. Indigenous percentage ambitions must be tested against design access and delivered critical systems.
+
 
 ## PDF coverage
 
-2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11
+2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10

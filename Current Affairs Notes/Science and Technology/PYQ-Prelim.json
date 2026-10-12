@@ -71,6 +71,18 @@
         "d": "None"
       },
       "answer": "d"
+    },
+    {
+      "year": 2022,
+      "chapter": "Majorana1, qubits and evidence for quantum progress",
+      "question": "Which one of the following is the context in which the term \"qubit\" is mentioned?",
+      "options": {
+        "a": "Cloud Services",
+        "b": "Quantum Computing",
+        "c": "Visible Light Communication Technologies",
+        "d": "Wireless Communication Technologies"
+      },
+      "answer": "b"
     }
   ]
 }

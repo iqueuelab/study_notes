@@ -26,6 +26,54 @@
       "year": 2020,
       "answer": "(c) 1 and 3 only",
       "explanation": "The landscape spans Jaisalmer and Barmer, includes human settlements, and is a natural GIB habitat."
+    },
+    {
+      "year": 2016,
+      "chapter": "India’s greenhouse-gas inventory and climate commitments",
+      "question": "What is 'Greenhouse Gas Protocol'?",
+      "options": {
+        "a": "It is an international accounting tool for government and business leaders to understand, quantify and manage greenhouse gas emissions",
+        "b": "It is an initiative of the United Nations to offer financial incentives to developing countries to reduce greenhouse gas emissions and to adopt eco-friendly technologies",
+        "c": "It is an inter-governmental agreement ratified by all the member countries of the United Nations to reduce greenhouse gas emissions to specified levels by the year 2022",
+        "d": "It is one of the multilateral REDD+ initiatives hosted by the World Bank"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2015,
+      "chapter": "Olive ridley turtles and coastal conservation",
+      "question": "Which one of the following is the national aquatic animal of India?",
+      "options": {
+        "a": "Saltwater crocodile",
+        "b": "Olive ridley turtle",
+        "c": "Gangetic dolphin",
+        "d": "Gharial"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2019,
+      "chapter": "Olive ridley turtles and coastal conservation",
+      "question": "Consider the following statements:\n1. Some species of turtles are herbivores.\n2. Some species of fish are herbivores.\n3. Some species of marine mammals are herbivores.\n4. Some species of snakes are viviparous.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2, 3 and 4 only",
+        "c": "2 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2016,
+      "chapter": "India’s greenhouse-gas inventory and climate commitments",
+      "question": "The term 'Intended Nationally Determined Contributions' is sometimes seen in the news in the context of",
+      "options": {
+        "a": "pledges made by the European countries to rehabilitate refugees from the war-affected Middle East",
+        "b": "plan of action outlined by the countries of the world to combat climate change",
+        "c": "capital contributed by the member countries in the establishment of Asian Infrastructure Investment Bank",
+        "d": "plan of action outlined by the countries of the world regarding Sustainable Development Goals"
+      },
+      "answer": "b"
     }
   ]
 }

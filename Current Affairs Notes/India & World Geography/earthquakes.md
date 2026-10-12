@@ -21,7 +21,16 @@
 - These are the **January 2025 source-era classifications**, not a claim that later standards cannot change.
 - **Crust + uppermost mantle = lithosphere** over weaker asthenosphere; mantle extends to about **2,900 km**; **liquid outer core**, **solid inner core**.
 - Risk reduction: enforce appropriate building codes, retrofit critical facilities, map local soils, plan drills/emergency response and protect lifelines; hazard maps do not predict exact earthquake dates.
+## February 2025 preparedness discussion
+- **17 February Delhi/Bihar tremors** renewed concerns; impact depends on depth, local soils, building quality and exposure, not magnitude alone.
+- India–Eurasia convergence drives Himalayan seismic hazard. Source-era zoning **II, III, IV, V**; “15 major plates” is not a universally fixed geological classification.
+- Source Türkiye–Syria **17,000+** deaths was an early count; Tibet **126–400** mixes reports/definitions. Do not present these as reconciled final tolls.
+- **Prediction ≠early warning**: exact time/place/magnitude prediction remains unavailable; early warning detects an earthquake already beginning and may provide seconds before strong shaking.
+- Enforce applicable building codes, retrofit vulnerable buildings, use microzonation and risk-sensitive land/infrastructure assessment; dams/tunnels can pose site-specific risks, not proof all infrastructure weakens Earth's crust.
+- Redundant lifelines, NDRF/local readiness, drills, shelters, trained medical response and accessible alerts. Improve affordable insurance/risk finance without assuming no existing earthquake cover is available.
+- Mains: **hazard cannot be prevented →reduce exposure/vulnerability →prepare response and recovery**; the supplied 150-word prompt is coaching practice.
+
 
 ## PDF coverage
 
-2025-01-08: pp. 25
+2025-01-08: pp. 25 · 2025-02-19: pp. 17, 18, 19, 20

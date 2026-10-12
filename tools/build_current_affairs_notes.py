@@ -102,6 +102,14 @@ flows.update({
  'mrna-cancer':['Profile tumour and candidate antigens','Design personalised mRNA','Stimulate antigen-specific immunity','Assess safety and clinical benefit in trials','Regulatory evaluation + equitable access'],
  'fusion':['Heat fuel and confine plasma','Sustain stable fusion conditions','Manage heat + neutrons + tritium','Demonstrate net electricity and reliability','Assess costs before commercial deployment'],
 })
+flows.update({
+ 'employment-plfs':['Identify the reference period and population','Classify employed / unemployed / outside labour force','Compute UR using labour force denominator','Compare LFPR, WPR, earnings and job quality','Assess employment policy with consistent data'],
+ 'moonlight-navigation':['Moonlight scatters through atmosphere','Sky acquires a polarisation pattern','Ant detects e-vector orientation','Filter rotation shifts the available compass cue','Heading change supports directional use'],
+ 'telecom-resilience':['Map hazard and network dependencies','Protect towers, power and cable routes','Provide diverse backup and response access','Coordinate operators and disaster agencies','Restore services + assess resilience'],
+ 'mediation':['Identify a suitable dispute','Obtain informed voluntary participation','Neutral mediator facilitates negotiation','Parties agree to a lawful settlement or return to court','Track fair, durable outcomes'],
+ 'hku5':['Observe laboratory receptor compatibility','Test entry in relevant experimental systems','Assess evidence for actual infections','Monitor transmission and clinical outcomes if observed','Communicate risk without assuming a pandemic'],
+ 'solid-waste':['Segregate at source','Keep streams separate during collection','Recover recyclables and treat suitable organics','Control emissions and dispose of residues safely','Audit service quality and worker protection'],
+})
 def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
 for i,t in enumerate(topics):
  folder=OUT/t['subject'];folder.mkdir(exist_ok=True)
