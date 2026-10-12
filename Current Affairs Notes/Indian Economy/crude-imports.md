@@ -21,7 +21,19 @@
 - An exploration lease/drilling plan, a geological indication, a resource estimate and a commercially recoverable reserve are separate stages. Do not label the location a confirmed “massive” producing field from the news alone.
 - Exploration may help supply diversification but economics, reservoir assessment and environmental/community safeguards determine feasibility. Import-dependence percentages require a specified reporting year and denominator.
 
+## Brent and WTI: benchmark revision
+| Feature | Brent | West Texas Intermediate |
+|---|---|---|
+| Origin/reference | North Sea-derived international benchmark | US crude; Cushing, Oklahoma delivery reference |
+| Quality | Light/sweet; indicative source sulphur about 0.37% | Generally lighter/sweeter; indicative source sulphur about 0.24% |
+| Uses | International price reference | Major US/global traded benchmark |
+- **Higher API gravity means lighter crude**; sweet means relatively low sulphur, **not sulphur-free**. Grade specifications can vary; a single sulphur percentage is not universal for every blend. [EIA quality explanation](https://www.eia.gov/TodayinEnergy/detail.php?id=33012).
+- Freight, pipeline/storage bottlenecks, refinery compatibility, supply/demand and contracts shape differentials. “WTI always costs more to ship” or “Brent always determines every OPEC sale” are oversimplifications; many Asian sour grades use **Dubai/Oman** references.
+- **India's crude basket blends Brent Dated with Dubai/Oman sour grades**; it is not purely Brent. WTI can matter through US supply and interconnected markets. [Government methodology](https://www.data.gov.in/resource/month-wise-details-average-international-crude-oil-prices-indian-basket-2017-18-2022-23).
+- **One petroleum barrel = 42 US gallons ≈158.99 litres ≈159 litres**; volume does not specify mass without density.
+- Supplied Brent question is labelled **2011**; answer **1 and 2 only**, since sulphur is present. Barrel question **2008** answer **159 litres**. Retain all statements/options when authenticated rather than using the PDF's answers as automatic official verification.
+
 
 ## PDF coverage
 
-2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3
+2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3 · 2025-05-20: pp. 20, 21, 22, 23

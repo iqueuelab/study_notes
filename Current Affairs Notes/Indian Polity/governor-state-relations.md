@@ -40,7 +40,22 @@
 - He mentioned **Article 356** without presenting a formal recommendation for President’s Rule. A Governor’s report does not itself impose President’s Rule: constitutional conditions, Presidential action, parliamentary approval and judicial review apply. Ordinary law-and-order difficulty alone does not automatically establish constitutional breakdown.
 - Source reports his **18–19 April visits** and public demands including a permanent BSF presence; distinguish citizens’ requests from operational deployment decisions.
 
+## Presidential Reference: May 2025 snapshot
+- **13 May 2025:** President Droupadi Murmu referred **14 questions under Article 143(1)** concerning Governor/President assent under **Articles 200–201**, discretion, judicial timelines/review, Article 142 remedies, bench composition and Centre–State jurisdiction. The April ruling and separately recorded **20 November 2025 opinion** must remain distinct chronological stages.
+- **Article 143(1):** President may refer a question of law/fact which has arisen or is likely to arise and is sufficiently publicly important; Supreme Court may report an advisory opinion after hearing. **Article 143(2)** concerns disputes of the kind excluded by the proviso to Article 131, including specified pre-Constitution agreements; its text uses **shall** for the Court's report. Do not transfer the discretionary subsection-(1) wording indiscriminately to subsection (2).
+- Advisory reference is not an ordinary appeal/review petition or automatic stay of an existing judgment. Opinions carry substantial constitutional authority; “non-binding” should not be read as permission to disregard authoritative constitutional interpretation.
+- Source's questions **12–14** concern **Article 145(3)** Constitution Bench requirements, limits of **Article 142**, and **Article 131** original jurisdiction. Not every case mentioning the Constitution automatically requires a larger Bench; the test concerns substantial constitutional interpretation.
+- The April three-month Presidential period was a **judicial direction**, not text newly inserted into Article 201. Judicial review of inaction, directions to constitutional institutions and **Article 361** personal immunity need separate analysis; “mandamus against the President personally” overstates the position.
+- Examples: **Berubari reference (1960)** on territorial cession; **Keshav Singh privilege reference (1964)**, correcting PDF 1965; **Special Courts Bill (1978)**. Court declined to answer the Ayodhya historical reference (**1993 reference, 1994 opinion**) and returned the **1982 J&K resettlement reference in 2001** without an opinion. The source's simple “sub judice” explanations are not exhaustive accounts of these decisions.
+- Mains: prevent legislative paralysis while respecting ministerial responsibility, separation of powers, federalism and proper judicial procedure; potential reforms/larger-Bench proceedings were possibilities at the issue date, not completed outcomes. [Primary Court record containing the reference and later analysis](https://www.api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf).
+
+## Advisory jurisdiction: additional reference examples
+- Reference proceeds on ministerial advice; **Article 145(3)** requires at least five judges for Article 143 reference hearings. The (1)/(2) wording and May 2025 reference are explained above.
+- Additional examples: **Delhi Laws 1951** (delegated legislation); **Kerala Education Bill 1958** (rights/education); **Presidential election 1974**; **Third Judges 1998** (appointments).
+- **Cauvery reference/opinion 1991**, not a blanket 1992 permission to appeal prior judgments. A reference is not an ordinary appellate/review route.
+- Canada permits statutory references; US federal courts ordinarily reject advisory opinions because of case-or-controversy requirements. Advisory jurisdiction is not unique worldwide to India. [Court’s reference analysis](https://www.api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf).
+
 
 ## PDF coverage
 
-2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19
+2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19 · 2025-05-17: pp. 9, 10, 11, 12 · 2025-05-19: pp. 12, 13, 14, 15, 16

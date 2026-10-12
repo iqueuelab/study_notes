@@ -26,7 +26,11 @@ The initial committee oversaw Aligarh, Banaras and Delhi universities. Maulana A
 **NEP 2020 proposal:** Higher Education Commission of India with **NHERC** (regulation), **NAC** (accreditation), **HEGC** (grants), and **GEC** (academic standards/framework). A policy proposal is not proof that UGC has already been abolished.
 
 Digital tools: **SWAYAM** online courses; **National Academic Depository** digital academic awards; **Academic Bank of Credits** credit accumulation/transfer. These support mobility while requiring authentic records, quality standards and institutional interoperability.
+## May 2025 editorial critique
+- The article argues UGC's grant-making and regulatory roles may conflict and calls for abolition; this is **a reform argument**, not proof of abolition or universally established institutional failure.
+- Separate regulator, accreditation, funding and academic-standard functions with clear accountability if pursuing NEP's proposed HECI structure; institutional change requires the applicable law and implementation, not rhetoric alone.
+
 
 ## PDF coverage
 
-2025-04-08: pp. 17, 18, 19, 20
+2025-04-08: pp. 17, 18, 19, 20 · 2025-05-14: pp. 7, 8

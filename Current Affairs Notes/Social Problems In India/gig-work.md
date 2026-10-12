@@ -8,7 +8,12 @@
 - International rulings vary by jurisdiction and category: UK's “worker” status is not identical to full employee status; do not generalise one rule to all platforms.
 - Reform priorities: clear earnings/fees, safety and insurance, portable welfare, access to relevant personal work data, fair deactivation appeals, representation and collective bargaining.
 - Protect privacy when increasing algorithmic transparency; assess net earnings and coverage rather than registrations alone.
+## 16 May 2025 : workers’ roundtable
+- **15 May Delhi meeting**, organised by **Janpahal/Gig Workers Association**, sought **minimum earnings, social security and legal protection**, plus State/Central tripartite welfare boards including workers, platforms and government. Recommendations were to be forwarded to policymakers; these are demands, not newly enacted rights.
+- Workers described blocked IDs/deactivation without notice/remedy, payment/per-task reductions, platform surcharges, poor support and resistance to organising. Testimonies illustrate alleged practices rather than adjudicated findings against every platform.
+- They also sought an explicit Central policy; evaluate effective earnings after costs/unpaid waiting, worker representation, transparent deductions and accessible appeal systems.
+
 
 ## PDF coverage
 
-2025-03-19: pp. 22, 23, 24, 25
+2025-03-19: pp. 22, 23, 24, 25 · 2025-05-16: pp. 26

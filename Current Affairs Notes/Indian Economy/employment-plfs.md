@@ -20,7 +20,12 @@
 - **MGNREGA** rural work guarantee, **PMKVY /PM-DAKSH** skills, **SMILE** targeted rehabilitation/livelihood support, Startup India; programme coverage and quality need assessment.
 - Improve labour-intensive growth, apprenticeships, portable benefits, women's safe access/childcare, market-linked training and credible placement outcomes.
 - Falling UR alone can reflect lower participation; assess job quality, earnings and underemployment alongside the headline rate.
+## 15 May 2025 : survey redesign
+- From **January 2025**, PLFS rotational-panel design covers **rural and urban** areas, with monthly CWS indicators and rural/urban quarterly coverage; **first monthly bulletin covers April 2025**. Source body repeats the older urban-only quarterly objective and misses this key clipping development. Annual usual-status/CWS estimates continue with the revised design. [Mo SPI redesign](https://www.mospi.gov.in/sites/default/files/publication_reports/PLFS_Changes-in-2025_rev.pdf).
+- NSO/Mo SPI survey measures employment, participation, unemployment and work intensity; hours worked aid underemployment analysis. A survey redesign does not establish that hours had never been asked in any earlier employment survey.
+- Assess sampling/reference-period changes before comparisons; more frequent estimates do not automatically mean every month-to-month change is statistically meaningful.
+
 
 ## PDF coverage
 
-2025-02-19: pp. 4, 5, 6, 7
+2025-02-19: pp. 4, 5, 6, 7 · 2025-05-15: pp. 24, 25

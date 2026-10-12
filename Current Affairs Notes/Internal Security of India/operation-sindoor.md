@@ -19,7 +19,16 @@
 - The source's Egypt-flight/nuclear-site narratives, alleged National Command Authority meeting and US warning accounts are **claims, not verified proof of nuclear damage or the cause of cessation**. Suspected sites near Sargodha/Kirana Hills should not be labelled confirmed damaged warhead stores on social-media evidence.
 - India's **12 May briefing denied targeting Kirana Hills**. Keep the denial and evidentiary limits alongside any discussion of escalation. [Official Operation Sindoor briefing collection](https://www.pib.gov.in/EventDetail.aspx?ID=1206&lang=1&reg=3).
 
+## 15 May: indigenous systems and official claims
+- The government described indigenous sensors, guided munitions, electronic warfare and networked air defence as effective during **7–10 May exchanges**. **Akash missiles** intercept threats; **Akashteer (BEL)** automates Army air-defence command/control; **IACCS** integrates Air Force air operations. These are different system roles. [14 May official account](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&lang=2&reg=48).
+- Source reports a **2023 roughly ₹2,000-crore Akashteer contract** and rapid implementation; a signed contract, initial delivery and full field coverage are distinct milestones.
+- Source’s “23 minutes”, hundreds of drone interceptions and superiority over Chinese/Turkish systems are official/source claims requiring battlefield verification. The **initial 7 May strike targeted terrorist infrastructure**; later military-target engagements must not be backdated to every initial strike.
+- Recovered **PL-15 missile parts** and Turkish-origin UAV debris indicate weapons involved, not a controlled comparison proving every foreign system ineffective. Its Lahore **HQ-15** designation is not sufficiently corroborated; avoid treating it as established.
+- “Without loss of Indian assets” cannot be generalised to the whole operation; this issue does not provide a complete independently verified loss inventory. Border calm/no scheduled DGMO meeting are **13–14 May snapshots**.
+- Embedded air-defence graphic compares Iron Dome (short-range rockets), Patriot (aircraft/missile threats) and S-400 (long-range multilayer engagement); displayed ranges/costs vary by missile/configuration and should not be memorised as one universal specification.
+- Indigenous integration and reliable maintenance can support strategic autonomy and exports, while battlefield marketing claims remain distinct from sustained capability evaluation.
+
 
 ## PDF coverage
 
-2025-05-08: pp. 11, 12, 13, 14 · 2025-05-13: pp. 1, 2, 3
+2025-05-08: pp. 11, 12, 13, 14 · 2025-05-13: pp. 1, 2, 3 · 2025-05-15: pp. 8, 9, 10

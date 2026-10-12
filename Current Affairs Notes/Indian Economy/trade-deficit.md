@@ -29,7 +29,12 @@
 - Improve competitiveness, logistics, skills, quality standards and market diversification. Higher import tariffs can also raise exporters' input costs; assess value chains and sector effects.
 - Export duties are not generally India's main fiscal-revenue source; avoid confusing trade balance with government budget balance.
 
+## 16 May: April 2025 release
+- **April 2025 goods+services estimates:** exports **US$73.80 billion**, imports **US$82.45 billion**, deficit **US$8.65 billion**. The clipping’s 84.9 bn headline needs reconciliation with official exports; do not mix total imports with goods exports. **Merchandise:** exports **US$38.49 billion**, imports **US$64.91 billion**, deficit **US$26.42 billion**. [15 May Commerce release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128909&lang=2&reg=48).
+- Services figures are provisional/estimated pending RBI release. Source explanatory December chart is recycled earlier data already recorded above, not April 2025.
+- Energy/API/electronics inputs, benefits/risks and policy responses are covered above. Export-duty fiscal losses and automatic foreign-borrowing/reserve-depletion claims remain misleading; assessment must distinguish productive imports, financing stability and overall current account.
+
 
 ## PDF coverage
 
-2025-01-16: pp. 1, 2, 3, 4 · 2025-03-18: pp. 7, 8, 9, 10
+2025-01-16: pp. 1, 2, 3, 4 · 2025-03-18: pp. 7, 8, 9, 10 · 2025-05-16: pp. 23, 24, 25, 26

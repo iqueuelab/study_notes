@@ -25,7 +25,12 @@
 - Source actual spending/BE/RE mixes ₹681.11 crore and ₹1, 503.36 crore for FY2024; reconcile series before asserting utilisation. Bigcaps, long gestation, power/water, skills and supply chains require coordinated investment.
 - USCHIPSAct is USlegislation, not an international alliance India joins; Quad semiconductor cooperation is a separate mechanism.
 
+## 14 May 2025 : Jewar unit approved
+- Cabinet approved **HCL–Foxconn joint venture near Jewar airport, YEIDA, Uttar Pradesh**, about **₹3700 crore**, for display-driver chips used in phones/laptops/PCs/vehicles. Sixth unit approved under the mission; approval is not commissioned production. [Cabinet decision](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128604&lang=2&reg=3).
+- Planned capacity **20000 wafers/month,36 millionchips/month** concerns different production-stage units. Source’s “first UP chip plant” is a State/project-specific claim, not India’s first-ever domestic chip.
+- The clipping quotes a claim of meeting~40% domestic demand once operational; forecast depends on product mix/yields/demand. Possible later display-panel investment is an expectation, not part of an already operating panel fab.
+
 
 ## PDF coverage
 
-2025-02-12: pp. 4, 5, 6, 7, 8, 9, 10 · 2025-03-10: pp. 15, 16, 17, 18, 19
+2025-02-12: pp. 4, 5, 6, 7, 8, 9, 10 · 2025-03-10: pp. 15, 16, 17, 18, 19 · 2025-05-15: pp. 25

@@ -2484,37 +2484,158 @@
     {
       "date": "2025-05-14",
       "pdf": "2025/05-May/2025-05-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2d29b9e8abf040175462e444aadc245cfe27744bb9c6e7987fa10932ce446219",
+      "pages": 23,
+      "topic_ids": [
+        "green-steel",
+        "tariff-trade",
+        "nep-governance",
+        "ugc",
+        "s400",
+        "ecology-economy",
+        "right-to-repair",
+        "aluminium-industry",
+        "jute-jci",
+        "nuclear-transmutation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-15",
       "pdf": "2025/05-May/2025-05-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "270504306863b9c324b66d12dc6bd0b7e352f9cf1d7d196df105ef29d25fa3cd",
+      "pages": 33,
+      "topic_ids": [
+        "road-trauma-care",
+        "bhargavastra",
+        "shakti-semiconductors",
+        "employment-plfs",
+        "turkiye",
+        "defence-exports",
+        "heatwaves",
+        "chief-justice-india",
+        "operation-sindoor",
+        "genome-edited-rice",
+        "world-food-prize",
+        "colombia-bri"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-05-16",
       "pdf": "2025/05-May/2025-05-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "78e89b0023cbac368809a4c3174741addb7d048b17fb7cbc3338e5463a0a556d",
+      "pages": 26,
+      "topic_ids": [
+        "trade-deficit",
+        "chandrayaan5",
+        "gig-work",
+        "brahmos",
+        "cough-cold-fdc",
+        "childhood-hypertension",
+        "nota",
+        "iaea-safeguards",
+        "mahadayi-dispute",
+        "syria-transition",
+        "nursing-reform",
+        "eos09"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-05-17",
       "pdf": "2025/05-May/2025-05-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3e34e7d4c399f0114b1ab980e7352f7a21e63c6dcc11b84a4b7b72db5f4fa8a4",
+      "pages": 29,
+      "topic_ids": [
+        "governor-state-relations",
+        "imf-world-bank",
+        "food-systems-nutrition",
+        "brahmos",
+        "nota",
+        "iaea-safeguards",
+        "mahadayi-dispute",
+        "syria-transition",
+        "al-ayyala",
+        "methanol-poisoning",
+        "multi-agency-centre",
+        "rajon-ki-baoli",
+        "rbi-economic-capital",
+        "neeraj-javelin"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        29
+      ]
     },
     {
       "date": "2025-05-18",
       "pdf": "2025/05-May/2025-05-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3e1e516dc2529440117fa7c3ed297e09144b0209a0a9980437156c7c8c4ecb36",
+      "pages": 19,
+      "topic_ids": [
+        "gyan-bharatam",
+        "un-peacekeeping",
+        "kandha",
+        "amrit-bharat-stations",
+        "fiscal-deficit"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-19",
       "pdf": "2025/05-May/2025-05-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "83d0898cfbc3eaf5a1927695de9807953b40ccb3cccf98e2770cd3b0a7e793ba",
+      "pages": 22,
+      "topic_ids": [
+        "space-surveillance",
+        "governor-state-relations",
+        "e-passports",
+        "sansad-ratna",
+        "ncsm",
+        "new-caledonia",
+        "urban-fire-safety"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        1
+      ]
     },
     {
       "date": "2025-05-20",
       "pdf": "2025/05-May/2025-05-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "10e3eeab412175e17a71a4fe068c69b83e781b49f2d9ae70a8fa2ea97c71a17f",
+      "pages": 23,
+      "topic_ids": [
+        "dam-safety",
+        "crude-imports",
+        "indus-treaty",
+        "olive-ridley",
+        "harappan-civilisation",
+        "mullaperiyar-dam",
+        "india-turkiye-azerbaijan"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-05-21",
@@ -4813,7 +4934,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-05-14",
+  "next_pdf": "2025-05-21",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

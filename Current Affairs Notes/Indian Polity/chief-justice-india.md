@@ -14,7 +14,11 @@
 - **Article 124(4):** President removes only after each House's address, in the same session, supported by majority of its total membership and at least **two-thirds present and voting**, for **proved misbehaviour or incapacity**. Judges (Inquiry) Act 1968 supplies investigation procedure. “Impeachment” is common shorthand; constitutional terminology is removal.
 - **V. Ramaswami, 1993:** removal motion failed in Lok Sabha. The source's “only one motion ever introduced” is incorrect; subsequent proceedings included HC judge Soumitra Sen (Rajya Sabha adopted a motion in 2011; resignation followed).
 - **13 November 2019, CPIO, SC v Subhash Chandra Agarwal:** CJI office falls within RTI/public-authority framework; disclosure remains subject to statutory privacy, confidentiality, third-party procedure and public-interest balancing, not blanket publication of every collegium record. [SC judgment](https://api.sci.gov.in/supremecourt/2009/36624/36624_2009_1_1502_18247_Judgement_13-Nov-2019.pdf).
+## 15 May 2025 : 52 nd Chief Justice
+- **Justice Bhushan Ramkrishna Gavai** took oath as **52 nd CJI on 14 May 2025**, following Sanjiv Khanna; President Droupadi Murmu administered the oath. The appointment was notified on 30 April, effective 14 May. Separate notification from assumption of office. [President’s ceremony](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128561&lang=2&reg=48).
+- Source describes a roughly six-month tenure; this is a dated transition, not the identity of the current CJI indefinitely. Appointment/removal/roster/RTI principles and source errors are covered above.
+
 
 ## PDF coverage
 
-2025-04-30: pp. 6, 7, 8, 9, 10
+2025-04-30: pp. 6, 7, 8, 9, 10 · 2025-05-15: pp. 3, 4, 5, 6, 7, 8, 31, 32

@@ -11,7 +11,17 @@
 - Diversify PDS and **PM-POSHAN (mid-day meals)** appropriately; strengthen safety nets and healthy-diet behaviour campaigns. Private sector: understandable labels, responsibly fortified foods, suitable plant alternatives and digital/QR education; innovation needs nutrition/equity safeguards.
 - Climate-smart, gender-inclusive farming and rural opportunities; nutrition literacy via interactive tools (source example **MyPlate Blast Off**) and radio for remote areas.
 - Source's **TERI–FOLU Himalayan model:** region-specific micronutrient-rich crops, local food networks and decentralised processing; assess measured outcomes rather than asserting universal success. Integrate nutrition/health expertise with planning; links **SDG 2, 3, 12**. [FAO dietary guidance](https://www.fao.org/nutrition/education/dietary-guidelines/regions/india/en/).
+## Gender justice and nutrition: May 2025
+- **NFHS-5, 2019–21:** anaemia affects **57% of women 15–49**, versus about **25% of men 15–49**; roughly **18.7% of women** have low BMI. Women's anaemia rose from **53% in NFHS-4 (2015–16)**. These are different indicators; anaemia is not identical to calorie undernutrition and can have multiple causes. [Official health statistics](https://www.mohfw.gov.in/sites/default/files/Publication%20Health%20and%20Family%20Welfare%20Statistics%20in%20India%202023.pdf).
+- Unequal intra-household food allocation, women eating last, unpaid care, weak income control, poverty and low bargaining power can limit adequate diets despite food availability. Employment alone does not ensure safe work, fair wages or control over earnings.
+- **POSHAN Abhiyaan (2018)** sought phased reductions in stunting/undernutrition and anaemia, not literal elimination of every form of malnutrition by 2022. **Saksham Anganwadi/POSHAN 2.0** integrates relevant services; before/after survey comparisons alone cannot isolate programme causality. [Official objectives](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1602195&lang=2&reg=48).
+- Source **69% fund utilisation in 2022–23**, **49% lacking control over own income** and **53% self-employed earnings gap** lack complete denominator/accounting/method details. Do not present them as universal statistics for every Indian woman; distinguish access to personal money from sole/joint decisions over cash earnings.
+- **PLFS female LFPR, usual status, age 15+: 23.3% in 2017–18 →32.8% in 2021–22**. Rounded source 23→33 is consistent, but LFPR includes those seeking/available for work and is not the employment rate; unpaid family work/informal employment requires job-quality analysis. [Official PLFS series](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2004075&lang=2&reg=48).
+- **Proposals:** link nutrition with **NRLM, MGNREGS, SHGs, skills, credit/financial literacy** and maternal healthcare; make Anganwadis accessible hubs for nutrition, literacy and livelihood referrals without overburdening workers.
+- Measure dietary/health outcomes alongside income control, job security/pay equity and service use; coordinate health, WCD and rural-livelihood departments. **Jan Andolan** awareness complements actual food/health access; neither awareness nor larger allocation alone guarantees consumption/outcomes.
+- Mains: nutrition problem → gendered resource/power structures → programme gaps → accountable services plus social/economic empowerment. The source's 250-word question is practice, not a PYQ.
+
 
 ## PDF coverage
 
-2025-05-10: pp. 7, 8, 9
+2025-05-10: pp. 7, 8, 9 · 2025-05-17: pp. 12, 13, 14, 15

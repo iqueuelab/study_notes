@@ -36,7 +36,14 @@
 - Infrastructure limits prevent instant diversion of all western-river water. Timing uncertainty, altered operations and abrupt releases could affect irrigation/hydropower/flood risk; source **80% agriculture/one-third electricity** figures are approximate dependency claims with differing denominators, not measured losses already caused.
 - Treaty-specific commission/expert/arbitration processes are distinct from an ICJ case; **ICJ contentious jurisdiction requires a valid consent basis**, so Pakistan cannot automatically obtain it merely by filing. Evaluate security, treaty obligations, engineering capability and downstream humanitarian effects together.
 
+## May 2025 river geography and farmer assurances
+- Indus originates in the Tibetan highlands near the Mansarovar region, crosses **Ladakh**, then Pakistan, reaching the **Arabian Sea near Karachi**. Source length **2,880 km**, Indian course **800.75 km**, basin **11,65,500 km²** and India drainage **3,21,289 km² (about 9.8% of India’s geographical area, not 9.8% of the whole Indus basin)** are reported geographic estimates with varying definitions; do not treat origin height **5,182 m** as uniquely established.
+- Basin setting: **Karakoram/Haramosh north, Himalayas east, Sulaiman/Kirthar west**. Irrigation/hydropower and shared-water dependence make engineering and diplomacy interdependent. [CWC basin account](https://cwc.gov.in/en/ibo/about-basins).
+- The PDF wrongly calls **all five Punjab rivers “western tributaries joining in Pakistan”**: treaty **western = Indus/Jhelum/Chenab; eastern = Ravi/Beas/Sutlej**. Beas joins Sutlej **in India**; Jhelum/Ravi/Sutlej waters ultimately reach Chenab/Panjnad before Indus. **2021 PYQ answer (a) Chenab**, not supplied (d) Sutlej. [Official paper](https://www.upsc.gov.in/examinations/previous-question-papers/archives).
+- **19 May clipping:** Agriculture Minister **Shivraj Singh Chouhan** assured farmer organisations of greater water availability following treaty-abeyance policy; farmers sought abrogation and supplies for Punjab/Haryana/Rajasthan/J&K. These are political assurances/demands, not completed diversion or adjudicated rights.
+- Graphic's **135 MAF/year western-river flow** and comparisons with **11–16 million hectares rice, 23 Bhakra-sized reservoirs, 88 Delhi-sized cities, 8% national freshwater** are illustrative source calculations, not available Indian storage or measured new irrigation. **MAF = million acre-feet**, a volume unit. Treaty allocation does not transfer sovereignty over a whole river.
+
 
 ## PDF coverage
 
-2025-01-22: pp. 6, 7, 8, 9 · 2025-01-26: pp. 8, 9 · 2025-04-25: pp. 1, 2, 3, 4 · 2025-05-02: pp. 13, 14, 15, 16
+2025-01-22: pp. 6, 7, 8, 9 · 2025-01-26: pp. 8, 9 · 2025-04-25: pp. 1, 2, 3, 4 · 2025-05-02: pp. 13, 14, 15, 16 · 2025-05-20: pp. 3, 4, 5, 9

@@ -7,3 +7,6 @@
 /Current Affairs Originals/
 /Current Affairs Notes/**/*.pdf
 /Current Affairs Notes/Build State.json
+
+# Generated Python cache
+/tools/__pycache__/

@@ -510,6 +510,202 @@
       ],
       "finding": "All text and page images reviewed, including all image-only tables and maps. Official questions checked against prior entries and original papers where supplied. Undated coaching practice retained for review without invented exam years.",
       "undated_practice": []
+    },
+    {
+      "dates": [
+        "2025-05-14",
+        "2025-05-15",
+        "2025-05-16",
+        "2025-05-17",
+        "2025-05-18",
+        "2025-05-19",
+        "2025-05-20"
+      ],
+      "finding": "All text and page images reviewed, including all image-only tables and maps. Official questions checked against prior entries and original papers where supplied. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": [
+        {
+          "question": "With reference to genome editing in agriculture, consider the following statements: 1. SDN-1 and SDN-2 techniques involve insertion of foreign genes into the plant genome. 2. Genome-edited crops developed using SDN-1 and SDN-2 are not classified as Genetically Modified (GM) crops in India. 3. India has recently developed the world’s first genome-edited wheat variety using SDN-3 technology. Which of the above statements is/are correct? A. 1 and 3 only B. 2 only C. 2 and 3 only D. 1, 2 and 3",
+          "chapter": "Genome-edited rice: varieties, regulation and farmers’ rights",
+          "exam_stage": "Prelims",
+          "answer": "B",
+          "issue_date": "2025-05-15"
+        },
+        {
+          "question": "Which of the following factors contribute to the high summer temperatures and heatwave conditions in Andhra Pradesh and Telangana? 1. Location near the Tropic of Cancer resulting in high solar insolation during summer. 2. Presence of large water bodies moderating temperature extremes. 3. Rocky terrain and black soil that absorb and retain heat. 4. Extensive forest cover increasing evaporative cooling. \n\n\n Select the correct answer using the code below: a) 1 and 3 only b) 1, 2 and 3 only c) 2 and 4 only d) 1, 3 and 4 only",
+          "chapter": "Heatwaves, inequality and heat action plans",
+          "exam_stage": "Prelims",
+          "answer": "Source A disputed: latitude premise misleading",
+          "issue_date": "2025-05-15"
+        },
+        {
+          "question": "Which of the following statements about the World Food Prize are correct? 1. It is awarded annually around 16th October, coinciding with UN World Food Day. 2. It recognizes contributions exclusively in agricultural biotechnology. 3. The Prize was conceived by Dr. M.S. Swaminathan, known as the Father of Green Revolution. 4. It is often referred to as the “Nobel Prize for Food and Agriculture.” Select the correct answer using the code below: A) 1 and 2 only B) 1 and 4 only C) 2 and 3 only D) 3 and 4 only",
+          "chapter": "World Food Prize and sustainable soil microbiology",
+          "exam_stage": "Prelims",
+          "answer": "B",
+          "issue_date": "2025-05-15"
+        },
+        {
+          "question": "Which of the following statements about Colombia is/are correct? 1. Colombia shares its borders with both the Pacific Ocean and the Atlantic Ocean. 2. Colombia is the only South American country to have a coastline on both the Caribbean Sea and the Pacific Ocean. 3. Colombia shares land borders with Mexico and Panama. Select the correct answer using the code below: A) 1 and 2 only B) 2 only C) 1, 2 and 3 D) 1 and 3 only",
+          "chapter": "Colombia: geography and Belt and Road cooperation",
+          "exam_stage": "Prelims",
+          "answer": "A",
+          "issue_date": "2025-05-15"
+        },
+        {
+          "question": "Which of the following statements about the Chief Justice of India (CJI) is/are correct? 1. The CJI is appointed by the President of India as per Article 124(2) of the Constitution. 2. The senior-most judge of the Supreme Court is always appointed as the CJI by a constitutional mandate. 3. The CJI plays a key role in the Collegium system for appointment of judges to the Supreme Court and High Courts. 4. The CJI can be removed only through impeachment by the Parliament under Article 124(4). Options: (a) 1 and 3 only (b) 2 and 4 only (c)  1, 3 and 4 only (d) All of the above",
+          "chapter": "Chief Justice of India: appointment and functions",
+          "exam_stage": "Prelims",
+          "answer": "C (removal terminology qualification)",
+          "issue_date": "2025-05-15"
+        },
+        {
+          "question": "With reference to Turkey (Türkiye), consider the following statements: 1. Turkey is a landlocked country situated entirely in Asia. 2. The Bosporus and Dardanelles straits connect the Black Sea with the Mediterranean Sea. 3. Ankara is the capital, while Istanbul is the largest city of Turkey. Which of the statements given above is/are correct? A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3",
+          "chapter": "Türkiye: borders, straits and river systems",
+          "exam_stage": "Prelims",
+          "answer": "B",
+          "issue_date": "2025-05-15"
+        },
+        {
+          "question": "“Heatwaves are emerging as silent disasters in India’s interior States.” Discuss the factors responsible for rising temperatures in States like Andhra Pradesh and Telangana and suggest an action-oriented mitigation strategy. (250 words)",
+          "chapter": "Heatwaves, inequality and heat action plans",
+          "exam_stage": "Mains",
+          "issue_date": "2025-05-15"
+        },
+        {
+          "question": "“India has been running a persistent trade deficit for several years. Discuss the reasons behind this deficit and critically examine its impact on the Indian economy.”",
+          "chapter": "Trade deficit and external-sector resilience",
+          "exam_stage": "Mains",
+          "subject": "Indian Economy",
+          "issue_date": "2025-05-16"
+        },
+        {
+          "question": "Q1. Consider the following statements about Syria:  1) Syria borders both Israel and Iraq.  2) Euphrates and Orontes rivers ﬂow through Syria.  3) Mount Hermon is located in the Anti-Lebanon mountains.  4) Syria shares a border with Iran.  Which of the statements are correct? A. 1, 2, and 3 only  B. 1, 2, and 4 only C. 2 and 3 only D. 1, 2, 3, and 4",
+          "chapter": "Syria: borders, rivers and mountain recall",
+          "subject": "India & World Geography",
+          "exam_stage": "Prelim",
+          "answer": "(a)",
+          "issue_date": "2025-05-17"
+        },
+        {
+          "question": "Q2. Consider the following statements about the BrahMos Missile System:  1) It is a subsonic cruise missile developed by DRDO and Israel Aerospace Industries.  2) The missile is capable of launch from land, air, and sea platforms.  3) The standard range of BrahMos is limited to 290 km due to MTCR restrictions.  Which of the statements is/are correct?  A. 2 only \n\n\n \n \nB. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3",
+          "chapter": "BrahMos: supersonic cruise missile",
+          "subject": "Science and Technology",
+          "exam_stage": "Prelim",
+          "answer": "Review: source (b); (a) if statement 3 asserts a continuing universal range cap",
+          "issue_date": "2025-05-17"
+        },
+        {
+          "question": "Q3. The Mahadayi River, recently in news, passes through which of the following states?  1) Karnataka 2) Maharashtra 3) Goa 4) Kerala  Select the correct answer using the code below:  A) 1 and 2 only B) 1, 2 and 3 only C) 1, 3 and 4 only D) All four",
+          "chapter": "Mahadayi–Mandovi: river and basin",
+          "subject": "India & World Geography",
+          "exam_stage": "Prelim",
+          "answer": "Review: source (b) describes basin States; no correct main-stem option as worded",
+          "issue_date": "2025-05-17"
+        },
+        {
+          "question": "Q4. With reference to the International Atomic Energy Agency (IAEA), consider the following statements: \n\n\n \n \n 1) It is a specialized agency of the United Nations.  2) It can report directly to the United Nations Security Council.  3) It was awarded the Nobel Peace Prize in 2005.  Which of the statements given above is/are correct? A) 1 and 2 only B) 1 and 3 only C) 2 and 3 only D) 1, 2 and 3",
+          "chapter": "IAEA: safeguards, nuclear cooperation and India",
+          "subject": "International Relations",
+          "exam_stage": "Prelim",
+          "answer": "(c)",
+          "issue_date": "2025-05-17"
+        },
+        {
+          "question": "Q5. Consider the following statements regarding the 'None of the Above' (NOTA) option in Indian elections:  1) NOTA was introduced in Indian elections through an amendment to the Representation of the People Act, 1951.  2) A candidate can be disqualiﬁed if NOTA gets the highest number of votes in an election.  3) The Supreme Court upheld the right to NOTA as a part of the fundamental right to freedom of expression.  4) NOTA is currently applicable only in Lok Sabha and State Assembly elections, not in Rajya Sabha elections.  Which of the above statements is/are correct?  \n\n\n \n \nA) 1 and 2 only B) 3 and 4 only C) 2 and 3 only D) 1, 3, and 4 only",
+          "chapter": "NOTA and uncontested elections",
+          "subject": "Indian Polity",
+          "exam_stage": "Prelim",
+          "answer": "Review: source (b); statement 4 overstates exclusivity",
+          "issue_date": "2025-05-17"
+        },
+        {
+          "question": "Malnutrition in India is not merely a public health problem but a question of gender justice. Discuss in light of the performance of POSHAN Abhiyaan and socio-economic realities of women. (250 words)",
+          "chapter": "Food systems: nutrition, access and sustainability",
+          "subject": "Social Problems In India",
+          "exam_stage": "Mains",
+          "issue_date": "2025-05-17"
+        },
+        {
+          "question": "Discuss the role of the Multi Agency Centre (MAC) in strengthening India’s counter-terrorism capabilities. How does inter-agency coordination contribute to national security?",
+          "chapter": "Multi Agency Centre and intelligence coordination",
+          "subject": "Internal Security of India",
+          "exam_stage": "Mains",
+          "issue_date": "2025-05-17"
+        },
+        {
+          "question": "Despite having comprehensive codes and guidelines, fire accidents continue to claim thousands of lives every year in India. Critically examine the reasons for poor fire safety compliance and suggest a multi-pronged strategy to enhance fire safety and preparedness in Indian cities. (250 Words) (15 Marks)",
+          "chapter": "Urban fire safety and building-code enforcement",
+          "subject": "Governance in India",
+          "exam_stage": "Mains",
+          "issue_date": "2025-05-19"
+        },
+        {
+          "question": "Which of the following pairs is/are correctly matched?  | Dam               | River      | | ----------------- | ---------- | | 1. Tehri Dam      | Bhagirathi | | 2. Sardar Sarovar | Narmada    | | 3. Bhakra Nangal  | Sutlej     |  Options: (a) 1 and 2 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3",
+          "chapter": "Dam safety: institutions, engineering and risks",
+          "subject": "Governance in India",
+          "exam_stage": "Prelims",
+          "review_note": "Source labels this 2019; official question/year not authenticated. Held for review, not an official PYQ.",
+          "issue_date": "2025-05-20"
+        },
+        {
+          "question": "Which of the following is/are the potential threat(s) to the safety of large dams?  1. Urbanisation near dam sites 2. Flash ﬂoods in catchment area 3. Seismic activities in surrounding area  Options: (a) 1 only (b) 1 and 3 only (c) 2 and 3 only (d) 1, 2 and 3",
+          "chapter": "Dam safety: institutions, engineering and risks",
+          "subject": "Governance in India",
+          "exam_stage": "Prelims",
+          "review_note": "Source labels this 2017; official question/year not authenticated. Held for review, not an official PYQ.",
+          "issue_date": "2025-05-20"
+        },
+        {
+          "question": "Which of the following dams is located on the Krishna River?  Options: (a) Mettur Dam (b) Nagarjuna Sagar Dam (c) Sardar Sarovar Dam (d) Tehri Dam",
+          "chapter": "Dam safety: institutions, engineering and risks",
+          "subject": "Governance in India",
+          "exam_stage": "Prelims",
+          "review_note": "Source labels this 2014; official question/year not authenticated. Held for review, not an official PYQ.",
+          "issue_date": "2025-05-20"
+        },
+        {
+          "question": "Discuss the environmental and social impacts of large dam projects in India. Suggest measures to mitigate these impacts. (200 words)",
+          "chapter": "Dam safety: institutions, engineering and risks",
+          "subject": "Governance in India",
+          "exam_stage": "Mains",
+          "review_note": "Source labels this 2015; official question/year not authenticated. Held for review, not an official PYQ.",
+          "issue_date": "2025-05-20"
+        },
+        {
+          "question": "What are the advantages and disadvantages of interlinking of rivers in India? (200 words)",
+          "chapter": "Dam safety: institutions, engineering and risks",
+          "subject": "Governance in India",
+          "exam_stage": "Mains",
+          "review_note": "Source labels this 2012; official question/year not authenticated. Held for review, not an official PYQ.",
+          "issue_date": "2025-05-20"
+        },
+        {
+          "question": "Explain the signiﬁcance of the Tehri Dam project. What are the concerns associated with it? (150 words)",
+          "chapter": "Dam safety: institutions, engineering and risks",
+          "subject": "Governance in India",
+          "exam_stage": "Mains",
+          "review_note": "Source labels this 2009; official question/year not authenticated. Held for review, not an official PYQ.",
+          "issue_date": "2025-05-20"
+        },
+        {
+          "question": "In the context of global oil prices, “Brent crude oil” is frequently referred to in the news. What does this term imply?\n1. It is a major classification of crude oil.\n2. It is sourced from the North Sea.\n3. It does not contain sulphur.\n(a) 2 only\n(b) 1 and 2 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+          "chapter": "Crude oil imports and energy security",
+          "subject": "Indian Economy",
+          "exam_stage": "Prelims",
+          "answer": "(b) 1 and 2 only",
+          "review_note": "Source labelled 2011; corroborated as 2011 by reproduced paper, but original official scan unavailable. Original wording includes major source classification and selection line; held pending official authentication.",
+          "issue_date": "2025-05-20"
+        },
+        {
+          "question": "How much is one barrel of oil approximately equal to?\n(a) 131 litres\n(b) 159 litres\n(c) 257 litres\n(d) 321 litres",
+          "chapter": "Crude oil imports and energy security",
+          "subject": "Indian Economy",
+          "exam_stage": "Prelims",
+          "answer": "(b) 159 litres",
+          "review_note": "Source labelled 2008 and independently indexed as 2008, but original official scan unavailable; held pending official authentication.",
+          "issue_date": "2025-05-20"
+        }
+      ]
     }
   ]
 }

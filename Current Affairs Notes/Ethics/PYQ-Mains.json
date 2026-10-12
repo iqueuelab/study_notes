@@ -1,5 +1,11 @@
 {
   "subject": "Ethics",
   "exam_stage": "Mains",
-  "questions": []
+  "questions": [
+    {
+      "year": 2018,
+      "chapter": "Dam safety: institutions, engineering and risks",
+      "question": "(a) Suppose the Government of India is thinking of constructing a dam in a mountain valley bound by forests and inhabited by ethnic communities. What rational policy should it resort to in dealing with unforeseen contingencies? (150 words) (10 marks)"
+    }
+  ]
 }

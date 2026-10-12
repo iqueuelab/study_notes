@@ -1,5 +1,11 @@
 {
   "subject": "Governance in India",
   "exam_stage": "Mains",
-  "questions": []
+  "questions": [
+    {
+      "year": 2023,
+      "chapter": "Dam safety: institutions, engineering and risks",
+      "question": "Dam failures are always catastrophic, especially on the downstream side, resulting in a colossal loss of life and property. Analyze the various causes of dam failures. Give two examples of large dam failures. (Answer in 150 words) (10 marks)"
+    }
+  ]
 }

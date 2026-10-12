@@ -34,7 +34,14 @@
 - Temporary relief can release inventories and improve orders/farm incomes, but uncertainty, freight, food-safety compliance and market concentration persist.
 - Priorities: diversify destinations, strengthen traceability/testing and cold chains, develop value-added products and maintain predictable trade diplomacy. A unilateral pause does not establish a permanent bilateral trade settlement.
 
+## May 2025: proposed steel/aluminium retaliation
+- Embedded May 14 clipping reports India's WTO communication dated **9 May 2025** reserving suspension of concessions on selected US goods after US **25% steel/aluminium tariffs effective 12 March 2025**. This is a **proposed response**, not proof retaliatory tariffs were already imposed.
+- Reported exposure: **US$7.6bn Indian exports affected /US$1.91bn US duty collection**; proposed suspension sought equivalent duty impact. Do not reinterpret $7.6bn as already imposed Indian duties or US goods already taxed.
+- India characterises the measures as safeguards; the US invokes national security and disputes that characterisation. **Agreement on Safeguards Articles 8.2/12.3** procedures and GATT rules matter; disputed legal classification is not a final adjudication. [WTO's contemporary committee account](https://www.wto.org/english/news_e/news25_e/safe_28apr25_e.htm).
+- Source's **2018 25% steel/10% aluminium** rates are historical, not the March 2025 common 25% rate. Its older retaliation summary also omits withdrawal of relevant additional Indian duties in **2023**; distinguish episodes rather than combining them.
+- Negotiation, diversification, efficient inputs and lawful remedies can manage exposure; a notification does not guarantee implementation or resolution.
+
 
 ## PDF coverage
 
-2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20
+2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20 · 2025-05-14: pp. 13, 17

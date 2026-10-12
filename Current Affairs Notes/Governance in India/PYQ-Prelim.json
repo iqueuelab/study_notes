@@ -1,5 +1,18 @@
 {
   "subject": "Governance in India",
   "exam_stage": "Prelim",
-  "questions": []
+  "questions": [
+    {
+      "year": 2022,
+      "chapter": "Dam safety: institutions, engineering and risks",
+      "question": "Consider the following pairs:\nReservoirs — States\n1. Ghataprabha — Telangana\n2. Gandhi Sagar — Madhya Pradesh\n3. Indira Sagar — Andhra Pradesh\n4. Maithon — Chhattisgarh\nHow many pairs given above are not correctly matched?",
+      "options": {
+        "a": "Only one pair",
+        "b": "Only two pairs",
+        "c": "Only three pairs",
+        "d": "All four pairs"
+      },
+      "answer": "c"
+    }
+  ]
 }

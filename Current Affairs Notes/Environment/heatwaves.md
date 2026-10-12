@@ -27,7 +27,14 @@
 - Comparators: California/Oregon heat-safety rules; France working-hour/cooling measures; Qatar outdoor-work restrictions; Australian heat-risk controls vary by jurisdiction, so avoid a blanket national ban. Indian examples include Ahmedabad work/rest adaptations and Odisha peak-hour restrictions; check local scope and dates before operational application.
 - Monitor illness, exposure and income losses alongside implementation; heat adaptation must protect livelihoods as well as announce alerts.
 
+## 15 May: Andhra Pradesh and Telangana
+- Source reports May 12 temperatures above **41 °C in 17 AP districts** and April readings above 40 °C across Telangana’s 33 districts, while labelling the section 2024 ; this is an internally ambiguous year context. Do not silently assign all readings to 2025 or infer an official heatwave from temperature alone.
+- Both States lie **south of**, rather than on/especially close to, the Tropic of Cancer. Strong pre-monsoon insolation, dry soil, sparse clouds and limited evapotranspiration contribute to heat; Telangana’s inland plateau differs from humid coastal AP.
+- Rock/soil properties, vegetation, irrigation and built surfaces influence local energy balance; black soil alone is not a universal explanation. Blanket claims that both States have little irrigation or no large water bodies are misleading.
+- Dry heat and humid heat pose different risks; coastal humidity limits sweat evaporation, while inland dryness/low soil moisture can intensify daytime heating. Monsoon onset varies year-to-year: “after June 10 ” is not an invariant rule.
+- Priorities: local forecasts and hourly/accessible warnings where feasible, district heat-risk maps, funded action plans, shade/water/rest and health surveillance; water-efficient agriculture, micro-irrigation, rainwater harvesting and appropriate urban greening. Expansion of summer cropping must respect water scarcity, rather than assume irrigation always provides a sustainable heat solution.
+
 
 ## PDF coverage
 
-2025-04-21: pp. 17, 18, 19, 20 · 2025-05-10: pp. 4, 5, 6, 7
+2025-04-21: pp. 17, 18, 19, 20 · 2025-05-10: pp. 4, 5, 6, 7 · 2025-05-15: pp. 15, 16, 17, 18, 28, 29

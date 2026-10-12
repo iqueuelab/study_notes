@@ -35,7 +35,13 @@
 - Likewise quoted green/grey hydrogen prices and **₹3.2 lakh per tonne** plant-cost figures are dated assumptions (the latter lacks a clear capacity denominator); compare full system costs, financing, ore quality, electricity and carbon-price conditions.
 - Its steel-emissions figures mix **2018 direct sector emissions (~270 MtCO2e)** with other years/boundaries; do not add its 9%, 10% and 11% shares. Purchased-electricity emissions, national greenhouse gases and energy-related CO2 have different denominators.
 
+## May 14 additions: product categories and data correction
+- **Flat steel:** plates/sheets; **long steel:** bars/rods/sections; specialty grades meet particular performance needs. Tata Steel, **SAIL** and JSW illustrate major producers; company capacity rankings require current geographic/consolidation scope.
+- Correct the source's **2023 “120 Mt crude steel”**: World Steel Association gives **140.8 Mt in calendar 2023**. FY, calendar-year, finished/crude output and installed capacity differ; the source's company capacities and >150-Mt national capacity are dated snapshots. [World Steel in Figures 2024](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2024/).
+- India imports substantial suitable **coking coal** but has large domestic iron-ore production; avoid equating iron-ore and metallurgical-coal import dependence. Global competition, energy costs and decarbonisation affect export competitiveness.
+- Housing/infrastructure and manufacturing can expand demand, but future plant expansions and policy targets are not realised output. Generic references to Steel Development Fund/export incentives need scheme/date verification, not assumed universal subsidies.
+
 
 ## PDF coverage
 
-2025-01-02: pp. 1, 2, 3, 4 · 2025-04-22: pp. 8, 9, 10, 11, 12, 13, 14, 15 · 2025-04-23: pp. 13, 14, 15, 16, 17, 18, 19, 20
+2025-01-02: pp. 1, 2, 3, 4 · 2025-04-22: pp. 8, 9, 10, 11, 12, 13, 14, 15 · 2025-04-23: pp. 13, 14, 15, 16, 17, 18, 19, 20 · 2025-05-14: pp. 13, 14, 15, 16, 17, 18

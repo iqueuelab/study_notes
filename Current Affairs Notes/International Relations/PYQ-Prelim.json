@@ -106,6 +106,42 @@
         "d": "Israel"
       },
       "answer": "b"
+    },
+    {
+      "year": 2020,
+      "chapter": "IAEA: safeguards, nuclear cooperation and India",
+      "question": "In India, why are some nuclear reactors kept under “IAEA Safeguards” while others are not?",
+      "options": {
+        "a": "Some use uranium and others use thorium",
+        "b": "Some use imported uranium and others use domestic supplies",
+        "c": "Some are operated by foreign enterprises and others are operated by domestic enterprises",
+        "d": "Some are State-owned and others are privately owned"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2018,
+      "chapter": "IAEA: safeguards, nuclear cooperation and India",
+      "question": "In the Indian context, what is the implication of ratifying the ‘Additional Protocol’ with the ‘International Atomic Energy Agency (IAEA)’?",
+      "options": {
+        "a": "The civilian nuclear reactors come under IAEA safeguards.",
+        "b": "The military nuclear installations come under the inspection of IAEA.",
+        "c": "The country will have the privilege to buy uranium from the Nuclear Suppliers Group (NSG).",
+        "d": "The country automatically becomes a member of the NSG."
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2021,
+      "chapter": "Indus Waters Treaty and transboundary water governance",
+      "question": "With reference to the Indus river system, of the following four rivers, three of them pour into one of them which joins the Indus direct. Among the following, which one is such river that joins the Indus direct?",
+      "options": {
+        "a": "Chenab",
+        "b": "Jhelum",
+        "c": "Ravi",
+        "d": "Sutlej"
+      },
+      "answer": "a"
     }
   ]
 }
