@@ -1,6 +1,7 @@
 # Epicoccum indicum and plant-pathogenic fungi
 
 ## Discovery and plant disease
+
 - Source reports **Epicoccum indicum**, **Ascomycota, Didymellaceae**, associated with emerging **leaf spot of vetiver, Chrysopogon zizanioides**, studied by **Banaras Hindu University** researchers; name refers to India.
 - **Phytopathogenic fungi** cause plant disease/economic loss; roots, stems, leaves, flowers and fruits can be affected. Fungal enzymes can break cell-wall carbohydrate polymers.
 - **Necrotroph** kills tissue and feeds on it; **biotroph** feeds on living tissue. Many plant-pathogenic fungi lie in Ascomycota/Basidiomycota; not all fungi are pathogenic.

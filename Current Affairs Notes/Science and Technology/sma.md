@@ -1,6 +1,7 @@
 # Spinal muscular atrophy and prenatal research
 
 ## Mechanism and care
+
 - Common 5qSMA: **autosomal recessive SMN1 defect on chromosome 5**→low survival motor neuron protein→motor-neuron loss→progressive weakness, often proximal, with respiratory/nutritional complications.
 - SMN2 copy number can modify severity; types 0–4 reflect age/severity patterns rather than completely separate diseases.
 - Disease-modifying treatments include nusinersen, risdiplam and onasemnogene abeparvovec; physiotherapy is not the only treatment. Respiratory, nutritional and orthopaedic support remain important.

@@ -1,19 +1,24 @@
 # Crowd crush and stampede prevention
 
 ## How crowd disasters develop
+
 - Dense crowds + bottleneck/opposing flows/sudden stopping/barrier failure → pressure waves, falls or pile-ups → injury and **compressive/traumatic asphyxia**.
 - Source types: **unidirectional** (same flow suddenly obstructed) and **turbulent/multidirectional** (flows converge/disordered pressure). A crush need not require irrational panic or running.
 - Chest/upper-abdominal compression impairs breathing; head/neck/internal-organ injury and cardiac events also possible. Source **3–4 persons/m²** warning is not one universal safe/unsafe threshold; venue geometry and flow matter.
 - Hazards: inadequate lighting/exits, stalls/parking narrowing paths, counterflows, weak structures, fire/electrical/LPG risks, poor communication and rumours.
 - Impacts: deaths/disability, PTSD, income loss, medical/legal/compensation costs, infrastructure damage and loss of public trust.
+
 ## Prevention: capacity → flow → monitoring → response
+
 - Assess venue carrying capacity, arrival/departure peaks and vulnerable groups; timed/ticketed entry where appropriate, separate ingress/egress and keep emergency access clear.
 - Coordinated police/organiser command; route maps, multilingual public-address/signage, suitable barricades, CCTV and staff trained to relieve pressure early.
 - Ambulances, medical teams, hospital links, evacuation drills; safe electrical wiring, LPG and fireworks controls. [NDMA safety guidance via PIB](https://www.pib.gov.in/newsite/printrelease.aspx?lang=2&reg=48&relid=151549).
 - **NDMA**, chaired by **Prime Minister**, statutory under **Disaster Management Act 2005**: policy/plans/guidelines; connect preparedness to **Sendai Framework**.
 - Density sensors/LiDAR, RFID and drones may aid monitoring where lawful and reliable; privacy, accessibility, power/network backup and actionable thresholds matter. PDF's bioluminescent pavement/automatic colour-changing schemes are suggestions, not established NDMA mandates.
 - Source's 'upcoming Asian Ministerial Conference with UNISDR' is recycled older material, not a January 2025 event announcement.
+
 ## Indian examples in the embedded graphic
+
 | Date | Event / place |
 | --- | --- |
 | 27 August 2003 | Nashik Kumbh, Maharashtra |
@@ -29,13 +34,15 @@
 | 1 January 2022 | Vaishno Devi, Jammu and Kashmir |
 | March 2023 | Indore temple stepwell-cover collapse; structural disaster, not simply crowd panic |
 | July 2024 | Hathras, Uttar Pradesh |
+
 - Graphic tolls range from **12 to 340**, including an early **116** for Hathras; provisional and sometimes inconsistent counts are not settled final totals. Useful for comparing crowd/structure failures without memorising disputed precision.
 - Supplied 'Daily Mains Question' is coaching practice, not a year-identified UPSC PYQ.
+
 ## Railway crowd management
+
 - February 15, 2025 New Delhi station tragedy: anticipate pilgrimage demand; coordinate entry holding areas, platforms, train information and emergency routes with RPF/local services.
 - CCTV must feed timely decisions; reliable announcements, trained staff and usable exits matter more than equipment alone.
 - The 2017 Elphinstone Road event was a **crowd crush**, not a bridge collapse. Source passenger-per-coach arithmetic lacks a consistent train/coach/time denominator.
-
 
 ## PDF coverage
 

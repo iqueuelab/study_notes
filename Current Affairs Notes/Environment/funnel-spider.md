@@ -1,6 +1,7 @@
 # Funnel-web spiders: taxonomic revision
 
 ## January 2025 revision
+
 - Former Sydney funnel-web grouping resolved into **Atrax robustus**, **A. montanus** and newly named **A. christenseni**—**Newcastle funnel-web, “Big Boy”**, named for **Kane Christensen**.
 - Newcastle region, eastern Australia; notably large males/fangs/venom glands. Source **9 cm** figure is not established as body length; size does not alone prove universally greater venom potency.
 - Dark, burrowing spiders in moist/shaded forest and suburban habitats; funnel-shaped webs and prominent spinnerets.

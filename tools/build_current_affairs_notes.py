@@ -2,38 +2,17 @@
 import json,re,html,hashlib,os,calendar
 from pathlib import Path
 from urllib.parse import quote
+from notes_content import parse,markdown
 ROOT=Path(os.environ.get('CA_SOURCE_ROOT',str(Path(__file__).resolve().parents[1]/'Current Affairs'))).resolve()
 OUT=ROOT/'Notes'
-def inline(s):
- s=html.escape(s)
- s=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',lambda m:f'<a href="{html.escape(html.unescape(m[2]),quote=True)}">{m[1]}</a>',s)
- return re.sub(r'\*\*(.*?)\*\*',r'<strong>\1</strong>',s)
-def render(s):
- lines=s.splitlines();result=[];i=0
- while i<len(lines):
-  l=lines[i]
-  if not l.strip():i+=1;continue
-  if l.startswith('#'):
-   level=len(l)-len(l.lstrip('#'));result.append(f'<h{level}>{inline(l[level:].strip())}</h{level}>');i+=1
-  elif l.startswith('- '):
-   items=[]
-   while i<len(lines) and lines[i].startswith('- '):items.append('<li>'+inline(lines[i][2:])+'</li>');i+=1
-   result.append('<ul>'+''.join(items)+'</ul>')
-  elif l.startswith('|'):
-   rows=[]
-   while i<len(lines) and lines[i].startswith('|'):
-    cells=[c.strip() for c in lines[i].strip('|').split('|')];i+=1
-    if all(re.fullmatch(r':?-+:?',c) for c in cells):continue
-    tag='th' if not rows else 'td';rows.append('<tr>'+''.join(f'<{tag}>{inline(c)}</{tag}>' for c in cells)+'</tr>')
-   result.append('<div class="table"><table>'+''.join(rows)+'</table></div>')
-  else:result.append('<p>'+inline(l)+'</p>');i+=1
- return '\n'.join(result)
 CSS='''*{box-sizing:border-box}body{overflow-wrap:anywhere;margin:0;background:#f3f5f1;color:#182d2a;font:17px/1.65 system-ui,sans-serif}main{max-width:850px;margin:auto;padding:24px}h1{font-size:clamp(27px,5vw,40px);line-height:1.15}h2{font-size:23px;border-bottom:2px solid #c7d8cb;padding-bottom:5px}a{color:#146c62;overflow-wrap:anywhere}header,nav,.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center}button,input,select{font:inherit;padding:10px;border:1px solid #c1cec9;border-radius:8px;background:white}input{width:100%}.card,article{background:white;border:1px solid #dbe3dd;border-radius:14px;padding:22px;margin:18px 0}li{margin:9px 0}small,.muted{color:#526961}table{border-collapse:collapse;width:100%;font-size:15px}th,td{text-align:left;padding:9px;border-bottom:1px solid #ddd}.table{overflow-x:auto}.flow{display:grid;gap:6px;text-align:center;margin:20px auto;max-width:440px}.step{padding:12px;border:1px solid #8db3a4;background:#edf6ef;border-radius:9px}.arrow{font-size:23px;line-height:1}.tag{font-size:13px;text-transform:uppercase;letter-spacing:.1em;color:#426452}.coverage{font-size:14px}nav a{padding:8px 14px;background:#e3eee7;border-radius:8px;text-decoration:none}@media(max-width:480px){main{padding:14px}article,.card{padding:16px}table{font-size:13px}th,td{padding:6px}}@page{size:A4;margin:16mm}@media print{body{background:white;font-size:11pt;line-height:1.4}main{padding:0;max-width:none}nav,.controls,input,select{display:none}article,.card{padding:0;border:none}h2{break-after:avoid}li,.step,tr{break-inside:avoid}a{color:inherit;text-decoration:none}.flow{max-width:90mm}h1{font-size:25pt}}'''
 CSS+='''.subject-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.subject-grid>details.group{margin:0}.subject-grid>details[open]{grid-column:1/-1}@media(max-width:600px){.subject-grid{grid-template-columns:1fr}}details.group{background:white;border:1px solid #dbe3dd;border-radius:12px;margin:10px 0}summary{cursor:pointer;padding:13px 16px;font-weight:650;line-height:1.4}summary:hover{background:#edf6ef;border-radius:12px}summary:focus-visible{outline:3px solid #146c62;outline-offset:2px}.count{font-weight:400;color:#526961;font-size:14px;margin-left:8px}.group-content{padding:0 16px 12px}.topic-row{padding:11px 0;border-top:1px solid #e3e9e5;line-height:1.4}.topic-row a{font-weight:600}.topic-row small{display:block;margin-top:4px}.day{border-top:1px solid #e3e9e5}.day summary{padding-left:0}.day ul{margin-top:0}.compact-nav{margin:18px 0}.empty{padding:20px}#topics h2,#by-date h2{margin-top:25px}.group-content .group{margin-left:4px}[hidden]{display:none!important}@media print{summary{padding:6px 0}.group-content{padding:0}.group{border:none!important}.compact-nav{display:none}}'''
 
 def shell(title,body,prefix=''):
  return '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>'+html.escape(title)+'</title><style>'+CSS+'</style><main>'+body+'</main></html>'
 data=json.loads((OUT/'Topics.json').read_text())
+for t in data['topics']:
+ if 'markdown' not in t:t['markdown']=markdown(t['blocks'])
 # Preserve edits made directly to the editable Markdown files.
 state_path=OUT/'Build State.json'
 prior=json.loads(state_path.read_text()) if state_path.exists() else {}
@@ -42,7 +21,7 @@ for t in data['topics']:
  if path.exists() and key in prior and hashlib.sha256(path.read_bytes()).hexdigest()!=prior[key]:
   edited=path.read_text().split('\n## PDF coverage\n',1)[0].strip()
   t['markdown']=edited.split('\n',1)[1].strip() if edited.startswith('# ') else edited
-(OUT/'Topics.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+
 new_state={}
 topics=sorted(data['topics'],key=lambda t:(t['subject'],t['title']))
 flows={'groundwater':['Pollutant source / geogenic chemistry','Groundwater contamination','Exposure through drinking / food','Health and livelihood harm','Source control + safe water + monitoring'],'renewable-energy':['Renewable generation','Transmission + storage + flexibility','Reliable grid integration','Affordable cleaner electricity'],'preventive-health':['Reduce population risk','Appropriate screening','Confirm diagnosis + referral','Affordable treatment + follow-up','Track disease control and equity'],'great-nicobar':['Compare project alternatives','Assess cumulative ecological and social impacts','Protect tribal rights + consult communities','Set transparent safeguards and security rules','Monitor compliance and outcomes'],'europa':['Tidal heating + water-rock chemistry','Subsurface liquid ocean','Potential usable chemical energy','Evaluate habitability','Habitability does not prove life'],'earthquakes':['Stress builds along a fault','Sudden slip releases stored energy','Body + surface waves propagate','Shaking interacts with local soils and buildings','Preparedness + resilient construction reduce losses'],'lead-pollution':['Lead source','Dust / food / water / workplace exposure','Lead accumulates in body','Neurodevelopmental and systemic harm','Prevent exposure + screen + remediate'],'sea-level-rise':['Warming','Ocean expansion + melting land ice','Rising relative sea level','Flooding + salinity + erosion','Adaptation + emissions reduction'],'space-sector':['PSLV launches primary payloads','Spent PS4 becomes POEM platform','Hosted in-orbit experiments','Space qualification for future missions'],'operation-greens':['Production clusters / FPOs','Storage + transport + processing','Stronger market links','Less loss + better producer returns'],'sea-otters':['Sea otters prey on sea urchins','Reduced grazing pressure','Healthier kelp forests','More habitat and biodiversity'],'green-steel':['Efficiency + scrap + clean power / hydrogen','Lower production emissions','Standards + green procurement','Demand and investment for cleaner steel']}
@@ -122,10 +101,9 @@ for t in topics:
  md='# '+t['title']+'\n\n'+t['markdown']+'\n\n## PDF coverage\n\n'+coverage+'\n'
  mdpath=folder/(t['id']+'.md');mdpath.write_text(md)
  new_state[str(mdpath.relative_to(OUT))]=hashlib.sha256(mdpath.read_bytes()).hexdigest()
- content=render(t['markdown'])
- if t['id'] in flows:content+='<div class="flow" aria-label="Recall flowchart">'+'<div class="arrow" aria-hidden="true">↓</div>'.join('<div class="step">'+html.escape(x)+'</div>' for x in flows[t['id']])+'</div>'
- content+='<h2>PDF coverage</h2><p class="coverage">'+html.escape(coverage)+'</p>'
- viewer_topics.append({'id':t['id'],'title':t['title'],'subject':t['subject'],'content':content,'editable':quote(t['subject'])+'/'+t['id']+'.md'})
+ t['blocks']=parse(t['markdown'])
+ if t['id'] in flows:t.setdefault('flow',flows[t['id']])
+ viewer_topics.append({'id':t['id'],'title':t['title'],'subject':t['subject'],'collection':'current','blocks':t['blocks'],'flow':t.get('flow',[]),'coverage':t['coverage'],'editable':quote(t['subject'])+'/'+t['id']+'.md'})
 queue=json.loads((OUT/'Processing Log.json').read_text());done=[x for x in queue['files'] if x['status']=='reviewed']
 body='<div id="browse"><header><h1>Current Affairs</h1><button onclick="window.print()">Print / Save as PDF</button></header><p>'+str(len(done))+' of '+str(len(queue['files']))+' PDFs reviewed · '+str(len(topics))+' consolidated topics</p><div class="controls"><input id="search" placeholder="Search topics or facts" aria-label="Search notes"><select id="subject" aria-label="Subject"><option value="">All subjects</option>'+''.join('<option>'+html.escape(s)+'</option>' for s in sorted({t['subject'] for t in topics}))+'</select></div>'
 gaps=queue.get('review_gaps',[])
@@ -164,3 +142,7 @@ for t in topics:
  legacy=OUT/t['subject']/(t['id']+'.html')
  if legacy.exists():legacy.unlink()
 print('Built one JSON-backed viewer for',len(topics),'topics')
+
+for t in data['topics']:t.pop('markdown',None)
+data['schema_version']=2
+(OUT/'Topics.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')

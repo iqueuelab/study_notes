@@ -46,6 +46,7 @@ When creating or updating chapter notes from supplied images or documents:
 
 - Current affairs uses `Topics.json` and `Current Affairs Notes/index.html#topic=<id>`. Do not generate separate topic HTML files.
 - Subject chapters use one `Chapters.json` per subject and `Subject Notes/index.html#topic=<id>`, with the shared `tools/notes_viewer.js` routing/navigation logic. Keep unit/chapter order, mobile diagrams, print controls, editable Markdown, PDFs and common subject-level PYQs.
-- Preserve chapter document styles/diagrams during migration. New chapter content belongs in the subject JSON; `tools/build_subject_notes.py` can also import a newly authored temporary chapter HTML and then remove the superseded page after preserving its content.
+- Store note content as structured JSON `blocks`: headings/paragraphs use typed text spans, lists use items, tables use headers/rows, diagrams use asset paths/captions, and flowcharts use step arrays. Never store HTML documents, HTML fragments or Markdown blobs as chapter/topic content in JSON. `tools/notes_viewer.js` creates DOM elements from these values.
+- New chapter/topic content belongs in these structured entries. Markdown files remain editable companions; builders detect companion edits and convert them to blocks. Preserve diagram assets and all factual content during conversions.
 - Build subject viewers with `python3 tools/build_subject_notes.py`, then rebuild the home page. Common Article/Amendment/Chronology summaries retain their own pages.
 - Verify topic/chapter routes, Back/Next/history, home links, diagram assets and printing after viewer changes.

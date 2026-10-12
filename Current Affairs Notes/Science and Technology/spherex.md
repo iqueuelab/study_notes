@@ -1,6 +1,7 @@
 # SPHEREx: infrared all-sky survey
 
 ## Mission
+
 - NASA **Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer**; infrared all-sky survey across 102 spectral bands.
 - Study galaxy distribution/cosmic inflation, the history of collective cosmic light, and interstellar water/organic ices relevant to planet formation.
 - Survey targets include hundreds of millions of galaxies and~100 million stars; planned repeated maps are mission goals, not all completed observations at launch.

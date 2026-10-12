@@ -1,20 +1,25 @@
 # Vaghsheer, Surat and Nilgiri
 
 ## Match the platform
+
 | Platform | Project/class | Type |
 | --- | --- | --- |
 | INS Vaghsheer | Project 75 / Kalvari (Scorpene) | Sixth/final diesel-electric submarine |
 | INS Surat | Project 15B | Fourth/final stealth destroyer |
 | INS Nilgiri | Project 17A | Lead stealth frigate |
+
 - Built at **Mazagon Dock, Mumbai**; Scorpene construction involves France's **Naval Group**.
 - January 2 source anticipated commissioning on January 15. **All three were commissioned 15 January 2025**. [Official commissioning](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2092999&lang=2&reg=48).
+
 ## Capabilities and distinctions
+
 - Vaghsheer: acoustic stealth, torpedoes, anti-ship missiles, sonar; anti-surface/submarine warfare, intelligence and surveillance. It is **conventionally powered**, not a nuclear ballistic-missile deterrent submarine.
 - Surat strengthens surface/air defence; Nilgiri adds multipurpose stealth and anti-submarine capability.
 - Significance: Indian Ocean security, fleet modernisation, indigenous shipbuilding, technology transfer and domestic supplier skills. Do not assume all design/IP is indigenous merely because construction occurs in India.
 - The 6 January source again mentions Vaghsheer, but misprints its commissioning year as 2024; the verified date remains **15 January 2025**.
 
 ## Corrected January 16 recap
+
 - **Nilgiri, Surat and Vaghsheer commissioned together on 15 January 2025, Naval Dockyard, Mumbai**; source's repeated **28 December 2022** dates are wrong. All three built by **MDL**, not Nilgiri by GRSE; GRSE builds other Project 17A ships.
 - Nilgiri roughly **6, 670 tonnes**, Surat roughly **7, 500 tonnes** in source; surface ships feature missile/air-defence/ASW suites. Source's Nilgiri **over 70% indigenous-content** statement is approximate, not proof every component indigenous.
 - Vaghsheer: conventional diesel-electric Scorpene, torpedoes/anti-ship missiles. Source incorrectly claims **AIP already fitted** and **BrahMos firing**; AIP integration is a separate retrofit programme, not commissioning configuration. [Naval Group AIP integration agreement](https://www.naval-group.com/en/drdos-fuel-cell-based-air-independent-propulsion-system-soon-be-fitted-onboard-ins-kalvari).
@@ -22,10 +27,12 @@
 - Source's **39 of 40 recent platforms made in India** is a dated political statement; **5, 000+ listed items for indigenisation** does not mean every listed item is already manufactured domestically.
 
 ## Practice-test traps
+
 - **Surat** is the fourth/final Project 15B destroyer; a question stating only roughly 7, 500 tonnes and stealth does not uniquely distinguish it from **Visakhapatnam**, another ship of the class.
 - The 19 January key incorrectly assigns BrahMos capability to **Vaghsheer**. Do not treat a Scorpène submarine as a BrahMos-equipped surface warship.
 
 ## Project-75I: January 2025 tender reporting
+
 - Source reports **MDL + Germany's TKMS** cleared technical evaluation; **L&T + Spain's Navantia** bid unsuccessful. **Technical qualification ≠ signed contract, final price or commissioned fleet**.
 - **Six conventional submarines** with **air-independent propulsion (AIP)**, distinct from existing **Project-75 Scorpene/Kalvari** boats and nuclear submarine programmes.
 - Source benchmark **₹43, 000 crore**, liable to revision; indigenous-content requirement **45% first → 60% sixth**. Proven AIP performance, technology transfer, delivery schedules and lifecycle support matter.
@@ -33,12 +40,14 @@
 - AIP permits longer submerged endurance without atmospheric air for propulsion; **not unlimited endurance or conversion into a nuclear submarine**. Cost, localisation and skilled production remain challenges.
 
 ## Project 76 and P75I: February 2025 plans
+
 | Programme | Distinction |
 | --- | --- |
 | P75 | Six French-design Scorpene/Kalvari boats built at MDL; sixth **Vaghsheer commissioned 15 January 2025** |
 | P75I | Proposed six advanced conventional submarines with AIP, foreign partnership/Strategic Partnership framework |
 | P76 | Proposed indigenous conventional-submarine design; source goal **90–95% local content**, ~3, 000 tonnes |
 | SSBN /SSN | Nuclear ballistic-missile deterrent submarine /nuclear-powered attack submarine; propulsion and weapons roles differ |
+
 - Source P76 **CCS approval in two months /2–3-year design /five-year build** and P75I **₹70, 000 crore /future delivery** are estimates, not confirmed completed contracts/schedules.
 - **MDL–TKMS** reported bidder/evaluation progress does not itself constitute a signed six-boat contract; source's assertion all other candidates simply “dropped out” oversimplifies the process.
 - **AIP** improves submerged endurance for conventional submarines, not unlimited endurance or nuclear propulsion. Retrofit in existing Scorpenes differs from the planned P75I requirement.
@@ -48,10 +57,10 @@
 - Three additional Scorpenes and source conventional-fleet counts are dated proposals/snapshots. Indigenous percentage ambitions must be tested against design access and delivered critical systems.
 
 ## INS Tamal
+
 - Russian-built Talwar-class follow-on frigate, Project 1135.6; 2016 arrangement covered two Russian-built and two Goa-built ships. INS Tushil commissioned 9December 2024.
 - February issue's June delivery was a forecast: **Tamal actually commissioned 1July 2025 at Yantar, Kaliningrad**. [Navy release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2141361&lang=2&reg=48).
 - Transition towards indigenous construction does not imply every component is Indian or prohibit every future import.
-
 
 ## PDF coverage
 

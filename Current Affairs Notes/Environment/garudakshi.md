@@ -1,6 +1,7 @@
 # Garudakshi: digital forest-crime management
 
 ## Karnataka pilot: January 2025
+
 - Forest Department online forest-offence/FIR system, developed with **Wildlife Trust of India**; encroachment, illegal felling, poaching and unauthorised entry.
 - Pilot divisions: **Bengaluru Urban, Bhadravathi, Sirsi and Male Mahadeshwara Wildlife Sanctuary**; not nationwide implementation.
 - Modules: **legacy case registration → online offence registration → investigation → reporting/analytics**; generates report/complaint formats, public complaints via mobile/email.

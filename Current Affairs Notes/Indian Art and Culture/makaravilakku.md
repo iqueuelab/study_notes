@@ -1,6 +1,7 @@
 # Makaravilakku at Sabarimala
 
 ## Ritual recall
+
 - Annual **Sabarimala, Kerala**, **Lord Ayyappa**, **Makara Sankranti**, culmination of main pilgrimage season.
 - **Thiruvabharanam**, sacred royal ornaments, brought from **Pandalam Palace**; source roughly **5,000 police** deployment in January 2025 is event-specific.
 - **Ponnambalamedu** hill: ceremonial camphor flame/aarti, seen three times; source connects earlier practice to **Malayaraya** community and later management to **Travancore Devaswom Board**.
