@@ -24,7 +24,13 @@
 - Inputs include output, new orders, employment, delivery times and inventories; PMI gives an early signal before official output/GDP releases.
 - **PMI vs IIP:** survey-based change in business conditions vs measured industrial output; services PMI is outside industrial-output coverage. Neither single reading mechanically determines RBI interest rates.
 
+## Index of Industrial Production
+- **IIP:** measured industrial output in **mining, manufacturing and electricity**; monthly **NSO, MoSPI** release. Source-series base **2011–12**; formerly associated with CSO, now part of NSO.
+- Weighted volume index using a fixed-base/Laspeyres approach; compare the same relevant period for growth.
+- **Index 116 =16% above base output**, not automatically 16% year-on-year growth. Positive index value ≠positive growth; falling positive values can indicate contraction.
+- Eight core industries contribute about **40.27%** of that IIP series, not 40.27% of all GDP. IIP excludes most services and differs from value-added GDP and survey-based PMI.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12
+2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12 · 2025-02-13: pp. 26, 27, 28, 29

@@ -93,6 +93,15 @@ flows.update({
  'railway-budget':['Allocate capital and maintenance resources','Deliver track, signalling and rolling stock','Verify safety and reliable capacity','Improve passenger and freight outcomes','Audit costs, utilisation and delivery'],
  'urban-budget':['Identify inclusive city service needs','Prepare viable projects and clear funding','Coordinate local capacity + State / Union support','Deliver mobility, housing and basic services','Audit access, costs and resilience'],
 })
+flows.update({
+ 'shakti-semiconductors':['ISRO IISU defines application needs','IIT Madras designs SHAKTI-based IRIS','SCL fabricates the processor','Packaging + board manufacture + assembly','Software validation + application qualification'],
+ 'ai-drug-testing':['Define regulatory question and context of use','Assess model risk and credibility requirements','Validate representative data and performance','Document limitations + obtain regulatory review','Monitor changes and clinical outcomes'],
+ 'malaria':['Anopheles injects sporozoites','Liver infection → merozoites','Red-cell cycle; some form gametocytes','Mosquito ingests gametocytes','Parasite development → new sporozoites'],
+ 'panchayat-devolution':['State law delegates functions','Match funds + staff to responsibilities','Gram Sabha and GPDP guide local priorities','Deliver services + disclose expenditure','Social audit + elections + corrective action'],
+ 'faecal-coliform':['Sewage / animal waste enters water','Sample with documented methods','Interpret indicators + other quality parameters','Control pollution sources and maintain treatment','Repeat monitoring + communicate results'],
+ 'mrna-cancer':['Profile tumour and candidate antigens','Design personalised mRNA','Stimulate antigen-specific immunity','Assess safety and clinical benefit in trials','Regulatory evaluation + equitable access'],
+ 'fusion':['Heat fuel and confine plasma','Sustain stable fusion conditions','Manage heat + neutrons + tritium','Demonstrate net electricity and reliability','Assess costs before commercial deployment'],
+})
 def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
 for i,t in enumerate(topics):
  folder=OUT/t['subject'];folder.mkdir(exist_ok=True)

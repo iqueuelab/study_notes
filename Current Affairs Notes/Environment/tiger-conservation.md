@@ -30,7 +30,20 @@
 - Statutory **2006 wildlife-law amendment**, **MoEFCC**; Union Environment Minister chair, Minister of State vice-chair, **three MPs**, Ministry Secretary and other specified members.
 - Project Tiger oversight, Centre–State accountability/MoUs, parliamentary oversight and livelihood interests around reserves; NTCA is distinct from NBWL and State field administrations.
 
+## TrailGuard AI in Similipal, February 2025
+- Compact cameras perform **edge inference**, classify humans/animals/vehicles and send alerts using **cellular communication**; source reports **30–40 seconds**, low-power operation and **six months–one year** battery life.
+- Field-response chain: image classification →control room →patrol communication via VHF/other channels →investigation. Satellite transmission is not the source's described normal link.
+- Source reports **96 arrests /86 guns in ten months**, units around **₹50,000–53,000**, deployment in **five States /over 14 sites**; dated operational claims. Predicted **80% poaching reduction** is a forecast, not a measured causal result.
+- Reduce false positives, protect sensitive location data and distinguish poaching from lawful livelihood activity. Community consultation, access arrangements and forest-rights safeguards build trust.
+## Similipal recall
+- **Barehipani /Joranda waterfalls**; Budhabalanga, Khairi and Salandi rivers; mixed deciduous/semi-evergreen habitats, elephants and pseudo-melanistic tigers.
+- Communities include **Santhal, Kol, Bhumij, Mankidia**; Mankidia are a **PVTG**. Traditional cultural practice does not automatically exempt prohibited wildlife hunting.
+- Biosphere designation **2009**; boundaries/status of biosphere, sanctuary, tiger reserve and national park differ. Source's **“National Park 1979”** is not a reliable gazette date; do not memorise it.
+- Practice: edge inference true; “continuous high power /satellite transmission” false. **Dudhsagar—Goa /Athirappilly—Kerala** are outside Similipal. Practice questions have no official exam year.
+
+- **Later status clarification: 24 April 2025**, Odisha formally notified **845.70 km² Similipal National Park**; distinguish this from the much larger tiger/biosphere landscape. [Odisha notification announcement](https://inpr.odisha.gov.in/sites/default/files/2025-04/News-Forest_24042025EEEE.pdf).
+
 
 ## PDF coverage
 
-2025-01-01: pp. 25, 26, 27 · 2025-02-01: pp. 4, 5, 6, 7, 8, 9 · 2025-02-10: pp. 12, 13
+2025-01-01: pp. 25, 26, 27 · 2025-02-01: pp. 4, 5, 6, 7, 8, 9 · 2025-02-10: pp. 12, 13 · 2025-02-17: pp. 5, 6, 7, 8, 9, 10, 19, 20

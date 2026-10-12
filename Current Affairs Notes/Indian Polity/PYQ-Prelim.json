@@ -1,5 +1,18 @@
 {
   "subject": "Indian Polity",
   "exam_stage": "Prelim",
-  "questions": []
+  "questions": [
+    {
+      "year": 2017,
+      "chapter": "Election Commission appointments and institutional independence",
+      "question": "Consider the following statements:\n1. The Election Commission of India is a five-member body.\n2. Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections.\n3. Election Commission resolves the disputes relating to splits/mergers of recognised political parties.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "2 and 3 only",
+        "d": "3 only"
+      },
+      "answer": "d"
+    }
+  ]
 }

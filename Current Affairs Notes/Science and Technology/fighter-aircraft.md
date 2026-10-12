@@ -20,7 +20,15 @@
 ## Industrial constraints
 - Engines/materials, stealth shaping, sensors/software, test/certification, funding and production capacity; local manufacture does not establish complete imported-component independence.
 - Stage-gated development, reliable supplier/IP arrangements, private capability and realistic delivery plans balance near-term readiness with long-term autonomy.
+## Su-57 offer, February 2025
+- Russia offered cooperation/local manufacture of **Su-57**, with proposed radar, engine and software access; this was an **offer**, not a signed Indian procurement contract or confirmed 2025 production start.
+- Evaluate stealth/sensor integration, sortie availability, engine maturity, cost, Indian manufacturing/IP access and interoperability. India's earlier FGFA withdrawal does not automatically settle a fresh offer.
+- Russian assurances cannot determine whether US **CAATSA** sanctions or waivers apply. Technology-transfer promises need contractual scope and independent performance assessment.
+
+## 2024 PYQ recall
+- **Rafael (official printed spelling, referring to Rafale), MiG-29, Tejas MK-1:** none is a fifth-generation fighter; answer **(d) None**. Capability upgrades do not automatically change the platform generation.
+
 
 ## PDF coverage
 
-2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11
+2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11

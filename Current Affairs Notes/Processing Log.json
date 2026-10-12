@@ -865,37 +865,130 @@
     {
       "date": "2025-02-12",
       "pdf": "2025/02-February/2025-02-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "37b19d7f87e38f9b532b6af788d10d4123198d4e1514d61201e50333e8543479",
+      "pages": 31,
+      "topic_ids": [
+        "wildfires",
+        "railway-budget",
+        "urban-budget",
+        "fighter-aircraft",
+        "science-budget",
+        "lumpy-skin",
+        "shakti-semiconductors",
+        "usaid",
+        "r37m"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-13",
       "pdf": "2025/02-February/2025-02-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "dd5031eed80d435480c077e2ac4721f1c84bcc02d23403320bf23b53fe3ff8ea",
+      "pages": 29,
+      "topic_ids": [
+        "industrial-indicators",
+        "pinaka",
+        "criminalisation-politics",
+        "ai-drug-testing",
+        "avian-flu",
+        "pac",
+        "p8i",
+        "hammer",
+        "trai",
+        "easterine-kire"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-14",
       "pdf": "2025/02-February/2025-02-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0c8774451e407a5a47e84dea7e44c49b9fa23b9d944fdf02f29f7bc78bb3dd57",
+      "pages": 25,
+      "topic_ids": [
+        "naval-platforms",
+        "india-france",
+        "hazardous-waste",
+        "ad-hoc-judges",
+        "fighter-aircraft",
+        "presidents-rule",
+        "cdri",
+        "myanmar-fmr",
+        "malaria",
+        "sidbi-afd"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-15",
       "pdf": "2025/02-February/2025-02-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d5a7ecc5e2b8a89ae27251da3552170a3b292df6e7392f0ca806fe5cfa6548c4",
+      "pages": 9,
+      "topic_ids": [
+        "stryker-javelin",
+        "india-us",
+        "asteroid-yr4"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-16",
       "pdf": "2025/02-February/2025-02-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e091813508e730156ec9a56f5788e0f3328fbd0707c3db86be61c3b7bea64d30",
+      "pages": 15,
+      "topic_ids": [
+        "citizenship",
+        "black-seadevil",
+        "uda",
+        "panchayat-devolution",
+        "typhoid",
+        "mrna-cancer"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-17",
       "pdf": "2025/02-February/2025-02-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0e99d1c460f417eee7e0f30ce30ea1cceefe4c42dddb50e141f877643cffc3e1",
+      "pages": 20,
+      "topic_ids": [
+        "tiger-conservation",
+        "matrimonial-law",
+        "rat-hole-mining",
+        "panchayat-devolution"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-02-18",
       "pdf": "2025/02-February/2025-02-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8cb5be5103ba20c836204f884939b3e83f136fdf02e3bccafb81c11340180775",
+      "pages": 20,
+      "topic_ids": [
+        "faecal-coliform",
+        "eci-appointments",
+        "fusion",
+        "aravalli-safari",
+        "constitutional-morality",
+        "ddos"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        20
+      ]
     },
     {
       "date": "2025-02-19",
@@ -3644,7 +3737,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-02-12",
+  "next_pdf": "2025-02-19",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

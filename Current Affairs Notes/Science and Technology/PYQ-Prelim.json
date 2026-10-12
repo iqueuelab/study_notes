@@ -59,6 +59,18 @@
         "IRNSS covers entire India and about 5500 sq. km beyond its borders.",
         "India will have its own satellite navigation system with full global coverage by the middle of 2019."
       ]
+    },
+    {
+      "year": 2024,
+      "chapter": "Fighter aircraft generations",
+      "question": "Consider the following aircraft:\n1. Rafael\n2. MiG-29\n3. Tejas MK-1\nHow many of the above are considered fifth generation fighter aircraft?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "d"
     }
   ]
 }
