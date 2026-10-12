@@ -193,6 +193,33 @@
         "2025-04-01"
       ],
       "finding": "Undated daily practice and essay prompts reviewed; no invented UPSC years. March 29 reprint merged with March 28 topics. Two 2022 prelims questions (contempt and solar storm) checked against original paper."
+    },
+    {
+      "dates": [
+        "2025-04-02",
+        "2025-04-03",
+        "2025-04-04",
+        "2025-04-05",
+        "2025-04-06",
+        "2025-04-07",
+        "2025-04-08"
+      ],
+      "finding": "All daily PDFs and page images reviewed; repeated subjects merged. No verified official PYQs appeared. Undated April 2 disinformation essay (250 words/15 marks) and April 3 betavoltaic practice MCQ retained as coaching practice, not assigned invented UPSC years.",
+      "undated_practice": [
+        {
+          "question": "Betavoltaic batteries recently seen in the news use which of the following as their working principle?",
+          "options": {
+            "A": "Conversion of heat energy",
+            "B": "Conversion of beta particle emission",
+            "C": "Conversion of solar energy",
+            "D": "Chemical reaction"
+          },
+          "answer": "B",
+          "topic": "nuclear-battery",
+          "year": null,
+          "reason": "Undated coaching practice; not authenticated UPSC PYQ"
+        }
+      ]
     }
   ]
 }

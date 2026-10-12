@@ -1773,37 +1773,120 @@
     {
       "date": "2025-04-02",
       "pdf": "2025/04-April/2025-04-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8409973c50b934e46fcd0c0f4afecdba88e69ab034d2c74dd9dd186dbba3728d",
+      "pages": 20,
+      "topic_ids": [
+        "navika-sagar",
+        "left-wing-extremism",
+        "bipolar",
+        "ai-image-privacy",
+        "disinformation",
+        "defence-exports",
+        "chile"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-03",
       "pdf": "2025/04-April/2025-04-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "658a158f57d5234d9b3bfc8091876befc5a1cdec4079aec8d70a4137369a1288",
+      "pages": 24,
+      "topic_ids": [
+        "industrial-indicators",
+        "avian-flu",
+        "india-sri-lanka",
+        "lunar-ice",
+        "anti-defection",
+        "nuclear-battery",
+        "jacaranda",
+        "damselflies",
+        "bimstec"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-04",
       "pdf": "2025/04-April/2025-04-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "5fb75170849cb37ffd53b915a5e600361eb59cfeb8532f9385f9cdd23d489ac2",
+      "pages": 9,
+      "topic_ids": [
+        "axiom-4",
+        "gi-tags",
+        "nato"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-05",
       "pdf": "2025/04-April/2025-04-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "96d769771f6664ea3970702ec0dfcfd0f546cc7ec938997145a7432046129723",
+      "pages": 13,
+      "topic_ids": [
+        "hiv",
+        "bimstec",
+        "food-safety",
+        "coconut",
+        "agasthyamala",
+        "hansa"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-06",
       "pdf": "2025/04-April/2025-04-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "900f2c54a7a989c15d71b2fb5220bf83e51eb444d43f0a407167b7b683a8d9fe",
+      "pages": 12,
+      "topic_ids": [
+        "critical-minerals",
+        "india-sri-lanka",
+        "ottawa-mine-treaty",
+        "rapid-crispr"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-07",
       "pdf": "2025/04-April/2025-04-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a2cfe87b7025ab2f513993f5310fbdbc785b1beddaf45729951bb49f2b0849d4",
+      "pages": 14,
+      "topic_ids": [
+        "pamban-crs",
+        "kancha-gachibowli",
+        "healthy-diets",
+        "semaglutide",
+        "diabetes"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-08",
       "pdf": "2025/04-April/2025-04-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "c5bea3f529589e5cbbe8addc74623c6f042850d9c7b8435bb0d660b6ff19ba5a",
+      "pages": 20,
+      "topic_ids": [
+        "preventive-health",
+        "corleo",
+        "pmuy",
+        "lpg-pricing",
+        "ecocide",
+        "masld",
+        "ugc"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-09",
@@ -4307,7 +4390,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-04-02",
+  "next_pdf": "2025-04-09",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

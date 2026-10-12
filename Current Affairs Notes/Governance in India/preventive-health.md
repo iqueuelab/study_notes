@@ -50,7 +50,20 @@
 - International Day of Yoga 2025 theme: **Yoga for One Earth, One Health**; connects personal well-being with broader environmental awareness.
 - Yoga can support preventive well-being; the theme does not establish that it cures every disease or replaces clinical treatment. The technical **One Health** framework integrates human, animal and ecosystem health.
 
+## NCD programmes and the correct SDG denominator
+
+- Four major NCD groups: **cardiovascular disease, cancer, chronic respiratory disease and diabetes**. Genetic, metabolic, behavioural and environmental factors interact; these diseases are not simply individual lifestyle failures.
+- **NP-NCD:** began in 2010 as NPCDCS; health promotion, early detection, treatment/referral and health-system capacity under the National Health Mission.
+- **National Tobacco Control Programme:** launched in **2007–08**, combining tobacco-control enforcement, public education and cessation support, with protection of children and young people.
+- **Indian Hypertension Control Initiative:** standard treatment protocols, reliable medicines, team-based care and patient tracking; historical 2025 reduction targets are targets, not proof of achievement.
+- **SDG 3.4:** reduce premature NCD mortality by **one-third by 2030 against the 2015 baseline**, alongside mental health and well-being. Indicator 3.4.1 measures the probability of dying between exact ages **30 and 70** from the four major NCDs. A reported **22% risk** is not the share of all deaths occurring before age 70. [WHO mortality indicator](https://www.who.int/data/gho/data/themes/topics/noncommunicable-diseases-mortality), [WHO baseline explanation](https://apps.who.int/gb/ebwha/pdf_files/EB150/B150_7-en.pdf)
+- Source estimates such as **41 million deaths/71% of global deaths** reflect an older statistical vintage; do not mix them with newer estimates or present them as current counts.
+
+**Response chain:** risk reduction → primary-care screening → confirmed diagnosis → affordable long-term care → adherence and outcome monitoring.
+
+Priorities: tobacco/alcohol fiscal measures, healthy food and activity environments, clean air, accessible primary care, essential medicines, trained staff and surveillance. Chronic out-of-pocket costs, social disadvantage and the simultaneous burden of infections undermine control. [WHO NCD overview](https://www.who.int/en/news-room/fact-sheets/detail/noncommunicable-diseases)
+
 
 ## PDF coverage
 
-2025-01-06: pp. 9, 10, 11, 12 · 2025-02-05: pp. 6 · 2025-02-27: pp. 23, 24, 25, 26, 27, 28, 29 · 2025-03-02: pp. 3, 4, 5, 6, 7 · 2025-03-08: pp. 6, 7, 8, 9 · 2025-03-17: pp. 20, 21, 22, 23, 36 · 2025-03-18: pp. 34, 35 · 2025-03-31: pp. 3
+2025-01-06: pp. 9, 10, 11, 12 · 2025-02-05: pp. 6 · 2025-02-27: pp. 23, 24, 25, 26, 27, 28, 29 · 2025-03-02: pp. 3, 4, 5, 6, 7 · 2025-03-08: pp. 6, 7, 8, 9 · 2025-03-17: pp. 20, 21, 22, 23, 36 · 2025-03-18: pp. 34, 35 · 2025-03-31: pp. 3 · 2025-04-08: pp. 11, 12, 13, 14

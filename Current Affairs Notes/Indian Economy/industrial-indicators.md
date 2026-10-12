@@ -18,11 +18,21 @@
 - Measure sector output relative to the base period; weights represent the constituent sectors within the index, not each sector's share of the entire economy.
 - Infrastructure and manufacturing are linked through steel/cement, fuel and power; changes have downstream effects on construction, transport and finance.
 - Published near month-end for the previous month's output, before that month's IIP release; distinguish growth rate from index level.
-## Purchasing Managers' Index (PMI)
-- Monthly business survey compiled by **S&P Global**, with manufacturing, services and composite measures. It is a **diffusion index**, not a GDP growth percentage.
-- **Above 50 = expansion; 50 = no change; below 50 = contraction**, relative to the previous month. A fall from 56 to 53 means slower expansion, **not contraction** as the source incorrectly states. [S&P Global explanation](https://www.spglobal.com/market-intelligence/en/solutions/products/pmi).
-- Inputs include output, new orders, employment, delivery times and inventories; PMI gives an early signal before official output/GDP releases.
-- **PMI vs IIP:** survey-based change in business conditions vs measured industrial output; services PMI is outside industrial-output coverage. Neither single reading mechanically determines RBI interest rates.
+## Read the index
+- Monthly business survey comparing conditions with the **previous month**; a timely indicator of manufacturing/services activity, not a direct measurement of GDP growth.
+| Reading | Meaning |
+|---|---|
+| Above 50 | Expansion compared with previous month |
+| 50 | No change |
+| Below 50 | Contraction |
+- **58 → 54:** slower expansion, not contraction. **46 → 49:** slower contraction, not expansion. Distinguish level from direction of change.
+- A diffusion index uses respondents reporting improvement plus half those reporting no change, with relevant weighting/seasonal adjustment.
+## Components and comparison
+- S&P Global manufacturing headline: **new orders 30%, output 25%, employment 20%, suppliers’ delivery times 15% (inverted), stocks of purchases 10%**. [S&P methodology](https://www.spglobal.com/market-intelligence/en/news-insights/research/sp-global-pmi-and-ism-survey-comparisons).
+- Services business-activity and composite-output measures differ from simply averaging every manufacturing headline component.
+- Longer delivery times can reflect demand pressure **or supply disruption**; a headline alone can mislead. [S&P interpretation](https://www.spglobal.com/market-intelligence/en/news-insights/research/understanding-headline-pmi-vs-subindices-how-signals-can-be-lost-by-focusing-exclusively-on-the-headline-pmi).
+- **PMI:** survey signals on orders/output/jobs and other conditions, usually released early. **IIP:** official measured industrial production, covering mining, manufacturing and electricity with a later publication lag.
+- Useful to policymakers, firms and investors alongside inflation, credit, jobs and official output data; it does not mechanically determine RBI rates or guarantee stock-market gains. Indian PMI is compiled by **S&P Global**; IHS Markit is the predecessor name, not a separate current compiler.
 
 ## Index of Industrial Production
 - **IIP:** measured industrial output in **mining, manufacturing and electricity**; monthly **NSO, MoSPI** release. Source-series base **2011–12**; formerly associated with CSO, now part of NSO.
@@ -38,4 +48,4 @@
 
 ## PDF coverage
 
-2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12 · 2025-02-13: pp. 26, 27, 28, 29 · 2025-03-04: pp. 29, 30 · 2025-03-13: pp. 18, 19, 20, 21 · 2025-03-29: pp. 46, 47, 48
+2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12 · 2025-02-13: pp. 26, 27, 28, 29 · 2025-03-04: pp. 29, 30 · 2025-03-13: pp. 18, 19, 20, 21 · 2025-03-29: pp. 46, 47, 48 · 2025-04-03: pp. 6, 7, 8

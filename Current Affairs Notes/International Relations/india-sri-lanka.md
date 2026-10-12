@@ -15,7 +15,14 @@
 - Combine bilateral Joint Working Group/ministers' dialogue, humane treatment/release processes, enforceable sustainable fishing and economically viable alternatives.
 - Deep-sea transition needs vessel finance, training, fuel/logistics and market access; it is not automatically affordable or ecologically sustainable.
 
+## Katchatheevu: geography and rights
+- Small, uninhabited island in the **Palk Strait**, between Tamil Nadu and northern Sri Lanka; St Anthony's shrine sustains shared pilgrimage/fisher-community ties. Avoid the unsupported claim that it was formed by volcanic activity.
+- **1974 maritime delimitation** placed Katchatheevu on the Sri Lankan side; **1976 agreements** further defined boundaries and cross-border fishing restrictions.
+- India's official position treats sovereignty/boundary as settled. Political/legal challenges to the agreements are distinct from that executive position; do not describe every constitutional question as already finally adjudicated.
+- Government statements distinguish traditional access for **resting, drying nets and pilgrimage** from a right to fish in Sri Lankan waters. Access to the island is not an unrestricted fishing licence. [Official parliamentary answer](https://rsdebate.nic.in/bitstream/123456789/235467/1/PQ_162_23031992_U3277_p84_p85.pdf), [MEA account](https://meacms.mea.gov.in/Images/pdf/India-foreign-relation-2011.pdf).
+- Solutions require sustainable fishing and protection of livelihoods on both shores: bilateral dialogue, humane handling of detainees, viable vessel/skill support and alternatives to destructive bottom trawling. Proposed joint-fishing arrangements require agreement; they are not existing blanket permission.
+
 
 ## PDF coverage
 
-2025-03-07: pp. 10, 11, 12 · 2025-03-28: pp. 11, 12, 13 · 2025-03-29: pp. 11, 12, 13
+2025-03-07: pp. 10, 11, 12 · 2025-03-28: pp. 11, 12, 13 · 2025-03-29: pp. 11, 12, 13 · 2025-04-03: pp. 11, 12, 13, 14 · 2025-04-06: pp. 9, 10, 11, 12

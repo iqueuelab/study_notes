@@ -8,7 +8,7 @@
 ## Map and operational lessons
 - **Southern Ocean; Drake Passage; Cape Horn at South America's southern end**; powerful storms and difficult seas test navigation, repairs, emergency response and teamwork.
 - Source cites potential **60-knot winds / 12-metre waves** for the leg; these are reported conditions/risks, not a guaranteed description of every day.
-- Vessel: ocean-going sailing yacht with navigation, communications and safety systems. The PDF calls it **40 feet**, while its old graphic gives **55 feet**; do not learn the conflicting 40-foot specification.
+- Vessel: ocean-going sailing yacht with navigation, communications and safety systems. Official Navy description: **56 feet**; do not learn the source’s conflicting 40-/55-foot specifications.
 - The inserted graphic describes the earlier **2017–18 six-woman voyage**, led by Vartika Joshi, not this two-officer expedition. Keep its crew and projected March 2018 return out of NSP-II facts.
 ## Mains / Ethics
 - Women's operational leadership, endurance, training, mutual trust and public inspiration; port interactions support maritime outreach.
@@ -16,13 +16,18 @@
 ## Expedition geography
 - Navika Sagar Parikrama II left Goa 2 October 2024; Lt Cdr Dilna K/Lt Cdr Roopa A, double-handed INSVTarini voyage.
 - Planned~23, 000 nautical miles/~240 days; third leg Lyttelton, New Zealand→Falklands via Southern Ocean/Cape Horn; Drake Passage separates South America/Antarctica.
-- **Tarini is 55 feet**, not the article's 40 feet; the accompanying infographic gives the correct length.
+- **Tarini is 56 feet**, not the article's 40 feet; the accompanying infographic gives the correct length.
 - Navigation, maintenance, weather judgment and teamwork show women's operational leadership; a sailing expedition is not a combat demonstration or direct result of Agnipath recruitment.
 
 ## Dated voyage update
 - Third leg had already finished at Port Stanley 18 February 2025; source's March 7“currentlyunderway”text is stale. [Navy](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2104466&lang=2&reg=48).
 
+## 1 April 2025: Cape Town arrival
+- INSV Tarini completed the **fourth leg** of Navika Sagar Parikrama-II on arriving at **Cape Town, South Africa**. The article's description of the third Lyttelton–Falklands leg as still underway is stale.
+- Official Navy description: **56-foot sailing vessel**. Double-handed crew: Lt Cdr Dilna K and Lt Cdr Roopa A.
+- The achievement demonstrates endurance, navigation, repairs, teamwork, women's operational leadership and maritime outreach; it is not a direct measure of combat power. [Navy release, 1 April 2025](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2117120).
+
 
 ## PDF coverage
 
-2025-01-07: pp. 21, 22 · 2025-03-07: pp. 8, 9, 10
+2025-01-07: pp. 21, 22 · 2025-03-07: pp. 8, 9, 10 · 2025-04-02: pp. 10, 11, 12

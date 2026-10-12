@@ -31,7 +31,14 @@
 - Security operations must coexist with lawful policing, Centre–State coordination, local recruitment, PESA/FRA implementation, public services and credible rehabilitation.
 - Reported encounter totals are attributed official/news counts, not by themselves proof every death was lawful or that extremism has ended. Accountability and trust affect durable outcomes.
 
+## Source infographic: past attacks, not April 2025 incidents
+- **11 March 2017:** reported Sukma attack killed 12 CRPF personnel; **24 April 2017:** 25 CRPF personnel killed at Burkapal, Sukma.
+- **27 October 2018:** reported Bijapur IED attack killed four CRPF personnel; **9 May 2020:** a police sub-inspector killed in a Bijapur encounter.
+- **22 March 2020:** reported Sukma/Minpa attack killed 17 state-police personnel; **23 March 2021:** five DRG personnel killed in a Narayanpur bus IED attack.
+- These dated examples illustrate ambush/IED and movement-security risks. Incident casualty figures are the infographic's reported counts; they do not establish today's violence levels or justify collective blame of tribal communities.
+- **SAMADHAN (2017)** remains a combined leadership, training, intelligence, technology, theatre-planning and financing-denial doctrine. Sustainable safety requires lawful operations alongside land/forest rights, local services, democratic participation and rehabilitation. [MHA doctrine announcement](https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=161635).
+
 
 ## PDF coverage
 
-2025-01-07: pp. 38, 39, 40 · 2025-03-21: pp. 14, 15, 16, 17
+2025-01-07: pp. 38, 39, 40 · 2025-03-21: pp. 14, 15, 16, 17 · 2025-04-02: pp. 14, 15, 16, 17

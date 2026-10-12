@@ -29,7 +29,15 @@
 - Licence areas may extend up to 1,000 sq km under the framework. **Exploration permission is not automatic permission to mine**; subsequent leases, environmental approvals and applicable land/forest requirements remain separate.
 - Auctions and revenue-sharing incentives can mobilise risk capital; transparent information, competition, local interests and ecological safeguards determine outcomes.
 
+## April 2025: Kazakhstan rare-earth exploration
+- **Kuirektykol, Karaganda region, Kazakhstan:** reported exploration estimates of roughly **one million tonnes** of rare-earth metals; the wider Zhana Kazakhstan area's potential was projected at about **20 million tonnes**. These are reported resource/potential estimates, **not certified economically recoverable reserves** or proof of the world's largest operating deposit.
+- Identified elements include **cerium, lanthanum, neodymium and yttrium**. The reported average concentration was about **700 g/tonne**; richer zones reached approximately **0.25%**. Grade, recovery, costs and environmental constraints determine commercial viability. [Karaganda regional government](https://www.gov.kz/memleket/entities/karaganda/press/news/details/967871?lang=ru).
+- **Rare earths = 15 lanthanides + scandium + yttrium (17)**. They need difficult separation/refining; geological occurrence alone does not create a reliable supply chain.
+- Uses include electronics, catalysts, defence systems and permanent magnets in some EV motors/wind turbines. **Lithium is not a rare earth; not every battery or renewable technology uses rare earths.**
+- Kazakhstan's significance is prospective supply diversification. Foreign investment, processing technology, infrastructure and responsible extraction remain essential; discovery does not immediately displace China's established processing role.
+- India–Kazakhstan uranium/civil-nuclear links provide a base for mineral cooperation. India's coastal monazite resources also contain rare earths; distinguish domestic resources from processing scale and usable supply.
+
 
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9
