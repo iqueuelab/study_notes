@@ -2131,37 +2131,120 @@
     {
       "date": "2025-04-23",
       "pdf": "2025/04-April/2025-04-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "456817e6aa1dc9616b243416633cc8d9dda8ed5da6bb039f41055d9da6f1d526",
+      "pages": 20,
+      "topic_ids": [
+        "green-steel",
+        "critical-minerals",
+        "creative-economy",
+        "jwaneng-diamonds",
+        "botswana-geography",
+        "neeri"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-24",
       "pdf": "2025/04-April/2025-04-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2141dbb2d8815633f06b1f331ddeb7bf648aa8b75a23653f6234b0576f042663",
+      "pages": 19,
+      "topic_ids": [
+        "industrial-indicators",
+        "barrier-reef",
+        "governor-state-relations",
+        "pahalgam-terror-attack",
+        "air-pollution-sources",
+        "imf-world-bank"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-25",
       "pdf": "2025/04-April/2025-04-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e95a2acceff2a94a0f282a16985c8fc43c0cb64db706afdb895606a6b49ebd23",
+      "pages": 20,
+      "topic_ids": [
+        "gaza-ceasefire",
+        "indus-treaty",
+        "oyster-amr",
+        "bta-wto",
+        "pocso"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-26",
       "pdf": "2025/04-April/2025-04-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "195d6b3c04e5d803a5e1ffc8cba4eb3b9636d240db4e2d2d047aed3a74e12412",
+      "pages": 13,
+      "topic_ids": [
+        "india-france",
+        "kasturirangan",
+        "hpv-cervical-cancer",
+        "cancer-burden-india",
+        "school-food-literacy"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "non_content_pages": [
+        13
+      ]
     },
     {
       "date": "2025-04-27",
       "pdf": "2025/04-April/2025-04-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "407049334e59bd8e4bfe3d5dcdd802cd5aa89effaff085e95b4ec16c4cf55eb6",
+      "pages": 8,
+      "topic_ids": [
+        "strawberry-cultivation",
+        "smile-scheme",
+        "dgca"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-28",
       "pdf": "2025/04-April/2025-04-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3a2e1ab835ff79efc70801e0b92626879150f6bf5a884e6ed3ae75af8bbedac7",
+      "pages": 23,
+      "topic_ids": [
+        "naval-platforms",
+        "ai-kosha",
+        "manual-scavenging",
+        "i4c",
+        "rheumatoid-arthritis",
+        "arbitration",
+        "greenland"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-29",
       "pdf": "2025/04-April/2025-04-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "45c32ccd4a54dc5efe72121d7fc66ba38434026cf5d29b3232a38a62afc4151d",
+      "pages": 17,
+      "topic_ids": [
+        "tiger-conservation",
+        "industrial-indicators",
+        "military-indices",
+        "digital-content",
+        "padma-awards",
+        "press-freedom-misinformation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-04-30",
@@ -4560,7 +4643,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-04-23",
+  "next_pdf": "2025-04-30",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

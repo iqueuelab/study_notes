@@ -361,6 +361,95 @@
           "issue_date": "2025-04-22"
         }
       ]
+    },
+    {
+      "dates": [
+        "2025-04-23",
+        "2025-04-24",
+        "2025-04-25",
+        "2025-04-26",
+        "2025-04-27",
+        "2025-04-28",
+        "2025-04-29"
+      ],
+      "finding": "All text and page images reviewed, including all image-only tables and maps. Official questions checked against prior entries and original papers where supplied. Undated coaching practice retained for review without invented exam years.",
+      "undated_practice": [
+        {
+          "subject": "India & World Geography",
+          "exam_stage": "Prelim",
+          "chapter": "Jwaneng mine and the diamond value chain",
+          "question": "The Jwaneng Diamond Mine, known as the richest diamond mine in the world, is located in:\n(a) South Africa\n(b) Botswana\n(c) Russia\n(d) Namibia",
+          "answer": "(b) Botswana",
+          "issue_date": "2025-04-23"
+        },
+        {
+          "subject": "India & World Geography",
+          "exam_stage": "Prelim",
+          "chapter": "Jwaneng mine and the diamond value chain",
+          "question": "The Kimberlite pipes are associated with which of the following minerals?\n(a) Gold\n(b) Copper\n(c) Diamonds\n(d) Uranium",
+          "answer": "(c) Diamonds",
+          "issue_date": "2025-04-23"
+        },
+        {
+          "subject": "Indian Economy",
+          "exam_stage": "Mains",
+          "chapter": "Green steel and industrial decarbonisation",
+          "question": "What is the exact meaning of decarbonising steel sector? and What are the Challenges to Decarbonising the Steel Sector? Also discuss what Steps can be Taken to Decarbonise the Steel Sector? (250 Words)",
+          "issue_date": "2025-04-23"
+        },
+        {
+          "question": "Which pollutant is a major contributor to acid rain?",
+          "answer": "Sulphur dioxide (SO₂); nitrogen oxides also contribute.",
+          "chapter": "Air pollution: sources and targeted controls",
+          "issue_date": "2025-04-24"
+        },
+        {
+          "question": "Which sector is the largest source of methane in India?",
+          "answer": "Agriculture (source practice answer; ranking requires inventory baseline).",
+          "chapter": "Air pollution: sources and targeted controls",
+          "issue_date": "2025-04-24"
+        },
+        {
+          "question": "Antimicrobial Resistance (AMR) threatens public health in India. Examine AMR concerns, government efforts, and suggest more actions to combat it. (250 Words)",
+          "chapter": "Antimicrobial resistance: containment and research",
+          "subject": "Science and Technology",
+          "exam_stage": "Mains",
+          "issue_date": "2025-04-25"
+        },
+        {
+          "id": "manual-scavenging",
+          "subject": "Social Problems In India",
+          "exam_stage": "Mains",
+          "chapter": "Manual scavenging and sanitation-worker dignity",
+          "question": "Despite constitutional safeguards and several legislative measures, manual scavenging persists in India. Critically examine. (GS Paper 2, 250 words)",
+          "pages": [
+            8
+          ],
+          "issue_date": "2025-04-28"
+        },
+        {
+          "id": "manual-scavenging",
+          "subject": "Social Problems In India",
+          "exam_stage": "Mains",
+          "chapter": "Manual scavenging and sanitation-worker dignity",
+          "question": "Discuss the socio-economic and legal challenges in eradicating manual scavenging in India. Suggest innovative solutions. (GS Paper 1/2, 250 words)",
+          "pages": [
+            8
+          ],
+          "issue_date": "2025-04-28"
+        },
+        {
+          "question": "“Freedom of expression must coexist with societal decency and morality.” In light of recent SC observations, examine the need for OTT content regulation in India.",
+          "chapter": "Digital content: free speech, obscenity and OTT regulation",
+          "exam_stage": "Mains",
+          "subject": "Governance in India",
+          "pages": [
+            9
+          ],
+          "note": "Undated source practice question; not an official PYQ.",
+          "issue_date": "2025-04-29"
+        }
+      ]
     }
   ]
 }

@@ -52,7 +52,15 @@
 - February issue's June delivery was a forecast: **Tamal actually commissioned 1July 2025 at Yantar, Kaliningrad**. [Navy release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2141361&lang=2&reg=48).
 - Transition towards indigenous construction does not imply every component is Indian or prohibit every future import.
 
+## Arabian Sea readiness: 28 April 2025
+- After the **22 April Pahalgam attack killed 26 civilians**, the issue reports long-range precision anti-ship firings and maritime deployments; this demonstrates readiness, not proof that war or a specific retaliatory operation had begun.
+- Distinguish **INS Surat's MRSAM air-defence interception** from anti-ship strikes: MRSAM attacks aerial threats, including sea-skimming targets; DRDO–Israel Aerospace Industries cooperation underpins the system. The source names Kolkata-class destroyers, Project 17A/Nilgiri frigates, Russian-origin Talwar/Krivak frigates, **INS Vikrant**, **P-8I** reconnaissance aircraft and fleet tankers. Tankers extend deployment endurance; aircraft add surveillance and targeting support.
+- **Sea control** enables one's use of a specified maritime area; **sea denial** prevents an adversary's use without necessarily controlling it. Credible strike capability, surveillance and replenishment support deterrence and protection of trade/energy routes connected to **Hormuz and Bab-el-Mandeb**.
+- Strategic interpretation: Pakistan crisis signalling and China's growing IOR presence/Gwadar interests make readiness relevant; claims that allies were reassured or that particular Chinese reactions followed remain analysis, not demonstrated outcomes.
+- Legal precision: Article **51(c)** urges respect for international law; Article **73** concerns Union executive power and treaty/agreement rights, not a blanket licence to act anywhere at sea. India's 1976 maritime-zones legislation distinguishes sovereign territorial waters from EEZ resource rights. Navigational warnings protect shipping; the source's assertion that Pakistan issued the notice for Indian firings is unverified and should not be memorised as a legal requirement.
+- Readiness does not itself establish a settled doctrine of “pre-emptive self-defence” or prove a future use of force lawful. Assess necessity/proportionality under the applicable law and civilian protection in hostilities; avoid the source's unattributed naval quotations. [UNCLOS overview](https://www.un.org/Depts/los/convention_agreements/convention_overview_convention.htm).
+
 
 ## PDF coverage
 
-2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5
+2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5 · 2025-04-28: pp. 1, 2, 3, 4

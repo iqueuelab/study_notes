@@ -82,6 +82,30 @@
       },
       "answer": "b",
       "explanation": "It refers to Israel and an independent Palestinian State. The supplied 2008 label was incorrect."
+    },
+    {
+      "year": 2017,
+      "chapter": "Gaza ceasefire: January 2025 agreement",
+      "question": "Mediterranean Sea is a border of which of the following countries?\n1. Jordan\n2. Iraq\n3. Lebanon\n4. Syria\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 3 only",
+        "b": "2 and 3 only",
+        "c": "3 and 4 only",
+        "d": "1, 3 and 4 only"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2015,
+      "chapter": "Gaza ceasefire: January 2025 agreement",
+      "question": "Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea?",
+      "options": {
+        "a": "Syria",
+        "b": "Jordan",
+        "c": "Lebanon",
+        "d": "Israel"
+      },
+      "answer": "b"
     }
   ]
 }

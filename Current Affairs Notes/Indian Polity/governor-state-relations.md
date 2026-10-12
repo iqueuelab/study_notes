@@ -27,7 +27,15 @@
 - Reform proposals: clearer assent procedures, impartial gubernatorial conduct and timely reasoned decisions. Balance federal autonomy and democratic accountability with separation of powers.
 - The April ruling's one-/three-month periods were **maximum limits for different situations**, not a universal minimum-one-month waiting period. Its subsequent legal position is recorded separately in this topic. [8 April judgment](https://api.sci.gov.in/supremecourt/2023/45314/45314_2023_11_1501_60770_Judgement_08-Apr-2025.pdf).
 
+## 24 April: judicial activism and constitutional democracy
+- The editorial rejects the label “judicial despotism”; this is an argument, not a judicial finding. **Activism** uses interpretation/remedies to protect rights or address governance gaps; **overreach** takes over policy choices beyond constitutional authority.
+- **Articles 13, 32 and 226** underpin rights protection/judicial review; judicial review is part of the basic structure. **Article 142** empowers the Supreme Court to do complete justice in pending causes, subject to constitutional limits; it is not a general power to legislate.
+- The Tamil Nadu assent judgment illustrates the tension between preventing constitutional paralysis and respecting institutional boundaries; its April directions and later clarification are recorded above.
+- Examples of independence cited: electoral-bonds invalidation, NJAC invalidation and reversal of President’s Rule in Arunachal Pradesh. Judicial approval in other cases and criticism of bail/civil-liberties handling do not establish a single uniform institutional stance.
+- **Correction:** the source groups CAA with measures upheld by the Supreme Court; it supplies no final CAA merits judgment establishing that proposition. Do not confuse pending challenges or interim decisions with final constitutional validation.
+- Constitutional democracy protects rights, minorities and federalism alongside electoral mandates. Fair criticism, reasoned judgments, judicial restraint and visible impartiality support public trust; unelected judges’ role requires constitutional justification and accountability.
+
 
 ## PDF coverage
 
-2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4
+2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9

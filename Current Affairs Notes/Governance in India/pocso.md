@@ -16,7 +16,14 @@
 - Section 29 presumptions concern specified offences; section 30 concerns culpable mental state. These do not dispense with foundational facts and fair trial safeguards.
 - **Section 35**: child's evidence within **30 days of cognizance**, recording reasons for delay; trial **as far as possible within one year**. The source's six-month trial deadline is incorrect. [Statute](https://www.indiacode.nic.in/bitstream/123456789/9318/1/sexualoffencea2012-32.pdf).
 - Implementation: trained investigators, counsellors, forensic capacity, compensation/support and judicial sensitivity; a stayed lower-court interpretation is not settled law.
+## Implementation priorities: April 2025 revision
+- Underreporting, stigma, victim blaming, intimidation and family pressure can undermine complaints and testimony. Witnesses turning hostile may reflect vulnerability; acquittal alone does not establish a fabricated complaint.
+- Weak evidence collection, forensic delays, overloaded courts and insensitive questioning obstruct timely justice. Strengthen trained police/prosecutors, forensic support, accessible counsellors and support persons, disability-sensitive communication, confidentiality and compensation.
+- Criminalisation of adolescent relationships is a policy concern because the Act treats persons below **18** as children; no general close-in-age or consent exception should be invented. Differentiate coercion/exploitation from relationship context while following the statute and safeguarding the child.
+- Source corrections: mandatory reporting already existed in **2012**, not first created in 2019; minimum imprisonment for using a child for pornographic purposes is **5 years**, and **7 years on subsequent conviction**, not a universal fixed 5–7-year ceiling. Aggravated assault and ordinary assault have different punishments.
+- **Section 35** remains **30 days for child evidence after cognizance**, with reasons for delay, and trial **as far as possible within one year**; the PDF's six-month trial deadline is wrong. Investigation deadlines under criminal-procedure law must be identified separately. Sections **29–30** create specified presumptions, not an unconditional presumption in every conceivable POCSO case. [Official statute](https://www.indiacode.nic.in/bitstream/123456789/9318/1/sexualoffencea2012-32.pdf).
+
 
 ## PDF coverage
 
-2025-03-27: pp. 1, 2, 3, 4
+2025-03-27: pp. 1, 2, 3, 4 · 2025-04-25: pp. 9, 10, 11, 12

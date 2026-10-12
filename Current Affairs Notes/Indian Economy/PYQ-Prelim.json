@@ -129,6 +129,30 @@
         "d": "1, 2, 3 and 4"
       },
       "answer": "d"
+    },
+    {
+      "year": 2016,
+      "chapter": "IMF and World Bank: institutions and reports",
+      "question": "'Global Financial Stability Report' is prepared by the",
+      "options": {
+        "a": "European Central Bank",
+        "b": "International Monetary Fund",
+        "c": "International Bank for Reconstruction and Development",
+        "d": "Organisation for Economic Cooperation and Development"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2016,
+      "chapter": "IMF and World Bank: institutions and reports",
+      "question": "India’s ranking in the ‘Ease of Doing Business Index’ is sometimes seen in the news. Which of the following has declared that ranking?",
+      "options": {
+        "a": "Organization for Economic Cooperation and Development (OECD)",
+        "b": "World Economic Forum",
+        "c": "World Bank",
+        "d": "World Trade Organization (WTO)"
+      },
+      "answer": "c"
     }
   ]
 }

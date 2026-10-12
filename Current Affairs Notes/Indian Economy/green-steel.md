@@ -27,7 +27,15 @@
 - **2015, coking coal (c):** India imports suitable metallurgical coal for coke-based steelmaking; saltpetre and rock phosphate are not the answer.
 - **2014, pollutants (d):** steelmaking can emit all four listed gases—sulphur oxides, nitrogen oxides, carbon monoxide and carbon dioxide. Air-pollution controls, wastewater treatment and waste management complement carbon reduction.
 
+## April 23 additions: steel governance and scenario reading
+- **National Metallurgist Award**, Ministry of Steel: recognises metallurgical contributions. Source describes **25 minimum safety guidelines**, informed by ILO iron/steel safety practice and World Steel Association principles; occupational safety accompanies emission reduction.
+- Source's **FY2022–23** output snapshots (**125.32 Mt crude; 121.29 Mt finished**) and **FY2021–22 ~2% GDP** are dated figures, not April 2025 production totals. Major producing belts include Odisha, Jharkhand, Chhattisgarh, Karnataka, Maharashtra, Gujarat and West Bengal; rankings need a stated production measure/year.
+- National Solar Mission began **January 2010**; renewable electricity can lower steelmaking emissions. **Kalyani FeRRESTA** is a company green-steel brand, not a government steelmaking programme or proof that all production is fossil-free.
+- Model claims in the source—**435 Mt output in 2050**, **$500 billion cumulative coking-coal forex savings**, **58% EU export loss without decarbonisation**, hydrogen break-even at **$1/kg**, or competitiveness at **$2/kg with a $50/tCO2 carbon price**—are conditional projections, not policy targets or guaranteed outcomes.
+- Likewise quoted green/grey hydrogen prices and **₹3.2 lakh per tonne** plant-cost figures are dated assumptions (the latter lacks a clear capacity denominator); compare full system costs, financing, ore quality, electricity and carbon-price conditions.
+- Its steel-emissions figures mix **2018 direct sector emissions (~270 MtCO2e)** with other years/boundaries; do not add its 9%, 10% and 11% shares. Purchased-electricity emissions, national greenhouse gases and energy-related CO2 have different denominators.
+
 
 ## PDF coverage
 
-2025-01-02: pp. 1, 2, 3, 4 · 2025-04-22: pp. 8, 9, 10, 11, 12, 13, 14, 15
+2025-01-02: pp. 1, 2, 3, 4 · 2025-04-22: pp. 8, 9, 10, 11, 12, 13, 14, 15 · 2025-04-23: pp. 13, 14, 15, 16, 17, 18, 19, 20

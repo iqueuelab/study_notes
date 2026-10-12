@@ -17,7 +17,17 @@
 - Source's **90-day modification notice / 62-year wording** refers to **January 2023**, not a newly issued January 2025 notice. **Article XII(3)** modification requires a **duly ratified treaty agreed by both governments**; notice alone does not amend it.
 - January 2025 news: Neutral Expert decision **7 January**, public release **20 January**, on **competence** over technical issues; jurisdiction decision differs from final merits ruling. [PCA release](https://pca-cpa.org/en/news/pca-press-release-pca-case-no-2023-14-neutral-expert-issues-decision-on-certain-issues-pertaining-to-the-competence-of-the-neutral-expert/).
 - Keep this January treaty account separate from subsequent diplomatic/legal developments.
+## Pahalgam and bilateral escalation: 23–24 April 2025
+- **22 April:** Pahalgam terrorist attack killed **26 people**; the clipping attributes the attackers to Pakistan-linked Lashkar-e-Taiba militants. Attribution is an allegation in this dated report, not a completed judicial finding.
+- **23 April:** India announced that the **Indus Waters Treaty would be held in abeyance**, linking restoration to Pakistan credibly and irrevocably abandoning support for cross-border terrorism. The clipping's generic “maximising use” account misses this announced change; abeyance does not mean engineering works instantly stop all western-river flows. [Government account](https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2025/Aug/2nd/English/files/basic-html/page10.html).
+- **24 April, Pakistan's announced response:** closure of its airspace to Indian-owned/operated airlines; suspension of trade, including third-country transit; Wagah border closure with a limited return window; cancellation of SAARC Visa Exemption Scheme privileges for Indians, excluding Sikh religious pilgrims; expulsion of Indian defence/naval/air advisers by **30 April**; mission strength reduced to **30** from **30 April** (source previous strength 55).
+- Pakistan asserted a right to hold bilateral agreements, including **Simla Agreement**, in abeyance and labelled stopping/diverting treaty waters an “act of war”. These are Pakistan's stated positions, not an adjudication of treaty law. [Pakistan statement transmitted to the UN](https://documents.un.org/doc/undoc/gen/n25/106/44/pdf/n2510644.pdf).
+- Source reports the **Kartarpur pilgrimage corridor remained open** at this snapshot. Ordinary border transit, SAARC visa privileges and a dedicated religious corridor are separate arrangements. Cross-LoC trade had already been suspended by India in **2019**; avoid describing every trade restriction as newly introduced in April.
+- **Simla Agreement, 1972**, followed the 1971 war and commits to peaceful bilateral settlement; **Attari–Wagah** is a major land gateway. Avoid treating its closure as proof no other historic transit route ever existed.
+- Effects: longer aviation routes and costs; disrupted family/pilgrim contacts; fewer diplomatic channels; water-security rhetoric and escalation risks; further strain on SAARC/regional integration. The clipping's approximate **$2-billion trade** figure lacks a year and trade definition and should not be used as an established annual baseline.
+- Mains approach: counter-terrorism and national security → proportionate diplomatic/economic measures → transboundary-water law and humanitarian interests → crisis communication and verifiable de-escalation. Treaty allocation and permitted Indian uses remain distinct from the parties' April legal positions.
+
 
 ## PDF coverage
 
-2025-01-22: pp. 6, 7, 8, 9 · 2025-01-26: pp. 8, 9
+2025-01-22: pp. 6, 7, 8, 9 · 2025-01-26: pp. 8, 9 · 2025-04-25: pp. 1, 2, 3, 4

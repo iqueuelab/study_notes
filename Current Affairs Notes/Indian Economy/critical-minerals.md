@@ -43,7 +43,13 @@
 - Delayed authorisations and concentrated separation/magnet production expose vehicle, renewable-energy and defence supply chains even where alternative ores exist. India's strategic task includes usable separated materials and components, beyond geological resources alone.
 - Source's coastal example mixes coasts: **Kerala is on India's western coast**; Tamil Nadu and Odisha include eastern-coast monazite deposits. Avoid treating all domestic reserves as readily available heavy-rare-earth supply.
 
+## April 23 revision additions: implementation and applications
+- GSI's **1,200 critical-mineral exploration projects for 2024–25 to 2030–31** are a mission target, not completed discoveries or producing mines. [PIB, 9 April 2025](https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=154178&lang=1&reg=3).
+- Rare-earth uses also include catalysts, specialist alloys and medical technologies: **gadolinium** in some MRI contrast agents and particular isotopes of **yttrium/lutetium** in treatment. Application is element-, isotope- and technology-specific; “all REEs used in all semiconductors/solar panels” is too broad.
+- Source's **2,270-tonne 2023–24 imports** and **6% reserve share** need defined commodity/year denominators; do not equate mineral/compound import weight with separated elemental supply or economic reserves with total resources.
+- Japan's response to the **2010 supply shock** offers a diversification lesson: alternative sourcing, recycling/substitution and stockpiles; source's exact “months-long” buffer is not a universal adequacy rule.
+
 
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13

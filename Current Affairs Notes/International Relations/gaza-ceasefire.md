@@ -24,7 +24,14 @@
 - Lebanon and Syria border the Mediterranean; Jordan and Iraq do not. Golan Heights belong to the Middle East context.
 - The supplied “two-state solution” question is from **2018**, not the printed 2008 label.
 
+## Gaza revision: April 2025 complementary points
+- Gaza's **Mediterranean climate**, scarce freshwater, import/aid dependence and restricted fishing access compound the damage to health, power, sanitation and livelihoods. The source's unemployment “over 40%”, aid-dependence “over half” and hours-of-electricity figures are undated background, not reliable April wartime measurements.
+- Armed-group rocket attacks, tunnels and Israeli security concerns coexist with obligations to protect civilians and permit humanitarian relief. Earlier conflict episodes include **2008–09, 2012, 2014 and 2021**; they do not replace the continuing post-October-2023 war context.
+- Responses vary: UN and humanitarian agencies emphasise aid access/civilian protection; Arab League/OIC support Palestinian rights; Western support for Israeli security coexists with calls for humanitarian access. Avoid implying every state within a group takes an identical position.
+- Sustainable settlement requires ceasefire monitoring, hostage release, humanitarian access, reconstruction, functioning health/education services and political negotiations; opening trade and employment can reduce dependence, but these are policy aims rather than achieved outcomes.
+- **Map/PYQ recall:** Jordan is landlocked and Iraq has a Persian Gulf coast; neither borders the Mediterranean. Lebanon and Syria do. Golan Heights is a **Middle East** location; **Yom Kippur War (1973)** involved Israel and Arab forces led by Egypt/Syria; the **two-state solution** concerns Israel–Palestine. The supplied two-state PYQ is **2018**, correcting the printed 2008 label already flagged in these notes.
+
 
 ## PDF coverage
 
-2025-01-17: pp. 14, 15, 16 · 2025-03-19: pp. 13, 14, 15, 16, 17, 18
+2025-01-17: pp. 14, 15, 16 · 2025-03-19: pp. 13, 14, 15, 16, 17, 18 · 2025-04-25: pp. 4, 5, 6, 7, 8, 9

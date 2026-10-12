@@ -22,7 +22,16 @@
 - A portal does not create unlimited powers for every police officer. Assess statutory authority, reasons, notice/hearing, review, transparency and remedy against unlawful removal.
 - Prompt lawful action on illegal content and protection from arbitrary censorship require clear procedures; blocking, takedown and immunity loss are different legal effects.
 
+## April 2025 petition on OTT obscenity
+- April 29 reporting describes Supreme Court notice to the Union on a plea concerning sexually explicit/obscene content and children's access. Notice and expressed concern are **procedural developments**, not a final censorship order or finding that all challenged material is unlawful.
+- Government said existing measures were in place and further action was being considered; court indicated executive/legislative responsibility while keeping the matter pending.
+- OTT delivers content through the internet, bypassing conventional broadcast distribution; inexpensive data, smartphones and pandemic viewing accelerated adoption.
+- Balance Article **19(1)(a)** with proportionate **19(2)** restrictions for decency/morality; criminal obscenity, adult-rated expression and mere vulgarity have different thresholds.
+- Existing three-tier complaints, age ratings, parental locks and adult-age checks should be strengthened through clear reasons, appeals, effective child safeguards and digital literacy. Independent public accountability is a policy recommendation, not an authority created by this petition.
+- The source's platform/user/industry totals are undated estimates; its claim that IT Rules are the **only** applicable legal instrument is incorrect given IT Act, POCSO and other applicable statutes.
+- Practice answer: constitutional test → existing regulation → child access/enforcement gaps → proportionate safeguards and remedies.
+
 
 ## PDF coverage
 
-2025-02-19: pp. 27, 28, 29, 30 · 2025-02-20: pp. 21, 22, 23 · 2025-02-21: pp. 9, 10, 11, 12, 13, 14, 20, 21, 22, 23 · 2025-02-24: pp. 19, 20, 21, 22 · 2025-02-26: pp. 8, 9, 10, 11 · 2025-03-04: pp. 23, 24, 25, 26 · 2025-03-21: pp. 17, 18, 19 · 2025-03-30: pp. 3, 4, 5
+2025-02-19: pp. 27, 28, 29, 30 · 2025-02-20: pp. 21, 22, 23 · 2025-02-21: pp. 9, 10, 11, 12, 13, 14, 20, 21, 22, 23 · 2025-02-24: pp. 19, 20, 21, 22 · 2025-02-26: pp. 8, 9, 10, 11 · 2025-03-04: pp. 23, 24, 25, 26 · 2025-03-21: pp. 17, 18, 19 · 2025-03-30: pp. 3, 4, 5 · 2025-04-29: pp. 6, 7, 8, 9

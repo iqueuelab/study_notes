@@ -79,7 +79,14 @@
 - GTI2008/Global Tiger Forum/TX2 doubling goal are different initiatives; India did not alone create/lead every global mechanism.
 - WWF's 73%Living Planet Index decline concerns average monitored vertebrate population abundance, not 73%of every species or all individual wild animals disappearing.
 
+## National-park notification: April 2025
+- **24 April 2025:** Odisha notified **845.70 km²** as Similipal National Park; the April 29 issue reports it as India's **107th** and Odisha's second/largest, after Bhitarkanika. National-park area differs from the roughly **2,750 km² tiger-reserve landscape**. [Odisha announcement](https://inpr.odisha.gov.in/sites/default/files/2025-04/News-Forest_24042025EEEE.pdf).
+- Sanctuary status dates to **1979**, Project Tiger inclusion **1973**, UNESCO biosphere-network inclusion **2009**; overlapping designations have different boundaries and functions. Additional river recall: Palpala, Bandan and Salandi alongside Budhabalanga, Khairi and Deo.
+- **Wild Life (Protection) Act, 1972, section 35:** State notification; boundary alteration requires NBWL recommendation. Grazing is prohibited; habitat destruction/removal and wildlife use face statutory restrictions/exceptions. Do not infer that every type of protected area shares identical legal protection.
+- FRA rights recognition and lawful critical-wildlife-habitat procedures matter; national-park notification alone does not automatically extinguish forest rights or authorise displacement.
+- Stronger habitat enforcement must accompany corridors, conflict response, trained staff, community consultation and regulated tourism. Climate risks remain; Aichi targets are the earlier framework, not a new 2025 target cycle.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 25, 26, 27 · 2025-02-01: pp. 4, 5, 6, 7, 8, 9 · 2025-02-10: pp. 12, 13 · 2025-02-17: pp. 5, 6, 7, 8, 9, 10, 19, 20 · 2025-03-10: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 · 2025-04-17: pp. 8, 9, 10, 11, 12, 13, 14, 15, 16
+2025-01-01: pp. 25, 26, 27 · 2025-02-01: pp. 4, 5, 6, 7, 8, 9 · 2025-02-10: pp. 12, 13 · 2025-02-17: pp. 5, 6, 7, 8, 9, 10, 19, 20 · 2025-03-10: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 · 2025-04-17: pp. 8, 9, 10, 11, 12, 13, 14, 15, 16 · 2025-04-29: pp. 1, 2, 3
