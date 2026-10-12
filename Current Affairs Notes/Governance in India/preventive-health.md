@@ -39,7 +39,14 @@
 - India faces undernutrition alongside excess weight/NCD risk; ICMR diabetes estimate~101 million does not establish India has the world's highest total.
 - Improve affordable nutritious diets, school food, food labelling and safe active spaces.2030 prevalence projections are forecasts, not current counts.
 
+## Life-course nutrition
+- NFHS-5 figures: child stunting 35.5%; anaemia among women aged 15–49 about 57%; overweight/obesity around 24% of women and 22.9% of men.
+- Adequate diet among young children is a defined age/feeding indicator, not a statement about every child. High blood-glucose-or-medication prevalence is not equivalent to “everyone counted takes diabetes medicine”.
+- Undernutrition, micronutrient deficiencies and obesity can coexist. Adolescents, men, older adults and urban populations also need nutrition support.
+- Poshan/Anganwadi services and primary-care centres contribute to maternal/child nutrition and life-course screening; eligibility differs between programmes.
+- Combine diverse local diets, counselling, screening, treatment and follow-up. Fortification supports specific deficiencies but does not replace a balanced diet; evaluate outcomes rather than activity counts alone.
+
 
 ## PDF coverage
 
-2025-01-06: pp. 9, 10, 11, 12 · 2025-02-05: pp. 6 · 2025-02-27: pp. 23, 24, 25, 26, 27, 28, 29 · 2025-03-02: pp. 3, 4, 5, 6, 7 · 2025-03-08: pp. 6, 7, 8, 9
+2025-01-06: pp. 9, 10, 11, 12 · 2025-02-05: pp. 6 · 2025-02-27: pp. 23, 24, 25, 26, 27, 28, 29 · 2025-03-02: pp. 3, 4, 5, 6, 7 · 2025-03-08: pp. 6, 7, 8, 9 · 2025-03-17: pp. 20, 21, 22, 23, 36 · 2025-03-18: pp. 34, 35

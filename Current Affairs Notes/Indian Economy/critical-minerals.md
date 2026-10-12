@@ -23,7 +23,13 @@
 - February 2025 US–Ukraine minerals arrangement was under negotiation; agreement was signed later, 30 April 2025. A resource deal does not automatically provide a defence guarantee.
 - Distinguish geological resources from economically recoverable reserves, and mining shares from refining shares. Occupied-resource valuations in the source are dated estimates.
 
+## Exploration licences: March 2025
+- Auction launch covered 13 exploration blocks; the exploration-licence framework arose from the 2023 amendment to MMDR Act 1957.
+- It covers specified deep-seated minerals, including copper, zinc, platinum-group minerals and diamonds; it is not limited to rare earths.
+- Licence areas may extend up to 1,000 sq km under the framework. **Exploration permission is not automatic permission to mine**; subsequent leases, environmental approvals and applicable land/forest requirements remain separate.
+- Auctions and revenue-sharing incentives can mobilise risk capital; transparent information, competition, local interests and ecological safeguards determine outcomes.
+
 
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6

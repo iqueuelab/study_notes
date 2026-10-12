@@ -12,7 +12,13 @@
 - Restrictions affect kinship, medical access, local trade and livelihoods; consultation with border States and communities is essential.
 - Improve lawful monitored crossings, verifiable documentation, intelligence cooperation, humanitarian safeguards and livelihood alternatives; fencing alone cannot address every security driver.
 - **Act East /Kaladan /India–Myanmar–Thailand highway** connect regional strategy to border management; a proposed corridor is not automatically a functioning infrastructure network.
+## Border management update
+- The approximately 1,643 km India–Myanmar border touches Arunachal Pradesh, Nagaland, Manipur and Mizoram—not Tripura.
+- Fencing and road announcements are plans; expenditure, sanctioned length and completed infrastructure are different measures.
+- Earlier FMR arrangements allowed specified movement within 16 km; late-2024 revised pass arrangements used 10 km. Withdrawal announcements and implementation differed across locations; do not describe an unconditional permanent visa-free entitlement.
+- Terrain, forests, drainage and cross-border Naga/Kuki-Zo ties complicate fencing. Combine lawful controls with community consultation, livelihood access and humanitarian safeguards; displacement does not itself establish criminality.
+
 
 ## PDF coverage
 
-2025-02-14: pp. 11, 12, 13, 14, 15
+2025-02-14: pp. 11, 12, 13, 14, 15 · 2025-03-16: pp. 1, 2, 3, 13, 14

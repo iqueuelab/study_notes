@@ -1358,37 +1358,134 @@
     {
       "date": "2025-03-12",
       "pdf": "2025/03-March/2025-03-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "04f0cb62af1ae717ef114ddf57b40e8130714f51ae7438d108465dba16f7bb44",
+      "pages": 31,
+      "topic_ids": [
+        "citizenship",
+        "balochistan",
+        "tulip-garden",
+        "urine-fertiliser",
+        "disease-naming",
+        "consumer-credit",
+        "dubai-fdi"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-13",
       "pdf": "2025/03-March/2025-03-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ff2887ce66554ae58a2924c9e31291591966b807beaa65e5aad70a49ce0ca661",
+      "pages": 32,
+      "topic_ids": [
+        "industrial-indicators",
+        "chagos",
+        "india-mauritius",
+        "phased-array-radar",
+        "apaar",
+        "amrit-sarovar",
+        "small-modular-reactors"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-14",
       "pdf": "2025/03-March/2025-03-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3926032e8e7a41098c698ede4cc873c8af1d14528523eab8ba7acbf671dac6ef",
+      "pages": 17,
+      "topic_ids": [
+        "space-sector",
+        "critical-minerals",
+        "rupee-tamil-logo",
+        "pmjay-fraud",
+        "hantavirus"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-15",
       "pdf": "2025/03-March/2025-03-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "73c688143c0833173f857d34226ca2d4785b2252db2c44919a74edfc89e9e2af",
+      "pages": 17,
+      "topic_ids": [
+        "h1n1",
+        "north-sea",
+        "sarus-crane",
+        "khanjar",
+        "lunar-ice",
+        "jalantheeswarar",
+        "bar-headed-goose",
+        "t72"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-16",
       "pdf": "2025/03-March/2025-03-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2db0bc58fca2554ed7011673ee5c8d9d0e825cacddf2e71b6a4c4e5c9fa1490e",
+      "pages": 18,
+      "topic_ids": [
+        "india-france",
+        "myanmar-fmr",
+        "us-travel-restrictions",
+        "uniyala",
+        "melioidosis"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-17",
       "pdf": "2025/03-March/2025-03-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a7cb889ae7bae128f07a221676efc88347f0e96df05ed2f8dc66e2fb55401961",
+      "pages": 37,
+      "topic_ids": [
+        "citizenship",
+        "renewable-energy",
+        "preventive-health",
+        "vulture-drugs",
+        "chandrayaan5",
+        "yemen-red-sea",
+        "mangroves",
+        "india-new-zealand",
+        "satellite-broadband"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-18",
       "pdf": "2025/03-March/2025-03-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "de1968c3ab086a848ba8d40e16d222a369864a52a7bb3a60f3a82f54a1a9492d",
+      "pages": 35,
+      "topic_ids": [
+        "citizenship",
+        "renewable-energy",
+        "preventive-health",
+        "vulture-drugs",
+        "trade-deficit",
+        "fighter-aircraft",
+        "chandrayaan5",
+        "yemen-red-sea",
+        "mangroves",
+        "india-new-zealand",
+        "satellite-broadband",
+        "india-china",
+        "india-australia",
+        "construction-workers"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-03-19",
@@ -3997,7 +4094,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-03-12",
+  "next_pdf": "2025-03-19",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

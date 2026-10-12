@@ -16,7 +16,13 @@
 - Technology transfer, domestic manufacture and maintenance support can build capacity; judge actual local content/skills rather than assume imports equal self-reliance.
 - Evaluate cost, delivery schedules, support dependence, interoperability and indigenous alternatives; maintain a multipolar approach and strategic autonomy.
 - Do not memorise the PDF's generic 'Towed Artillery System' claim as a verified named bilateral procurement deal.
+## Naval procurement: March 2025 status
+- Proposed 26 Rafale aircraft comprised 22 carrier-capable single-seaters and four land-based trainers; not all 26 were carrier-compatible.
+- Approval, signature, production and delivery are distinct. The source's pending deal should not be described as a completed March 2025 delivery.
+- Proposed additional Scorpene submarines involve Mazagon Dock and Naval Group; Project 75 is distinct from Project 75I.
+- TEDBF is a development programme, not an inducted naval fighter. CCS approval and estimated combined values do not establish every component's final contract terms.
+
 
 ## PDF coverage
 
-2025-01-06: pp. 16, 17, 18, 19, 20 · 2025-02-14: pp. 9, 10, 11
+2025-01-06: pp. 16, 17, 18, 19, 20 · 2025-02-14: pp. 9, 10, 11 · 2025-03-16: pp. 8, 9, 10, 16, 17

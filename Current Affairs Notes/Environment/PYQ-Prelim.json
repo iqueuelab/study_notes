@@ -74,6 +74,19 @@
         "d": "plan of action outlined by the countries of the world regarding Sustainable Development Goals"
       },
       "answer": "b"
+    },
+    {
+      "question": "Which one of the following regions of India has a combination of mangrove forest, evergreen forest and deciduous forest?",
+      "chapter": "Mangrove ecosystems and restoration",
+      "year": 2015,
+      "options": {
+        "a": "North Coastal Andhra Pradesh",
+        "b": "South-West Bengal",
+        "c": "Southern Saurashtra",
+        "d": "Andaman and Nicobar Islands"
+      },
+      "answer": "d",
+      "explanation": "Andaman and Nicobar Islands have mangrove, evergreen and deciduous forests."
     }
   ]
 }

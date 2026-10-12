@@ -52,7 +52,14 @@
 - Hydrogen + oxygen → electricity + water + heat → traction motor. Tailpipe benefits do not prove zero **lifecycle emissions**; hydrogen production, compression/transport and power source matter.
 - High initial cost, refuelling/storage safety and reliable clean supply; source's 'only Germany commercially operates' is a dated, incomplete country claim, not a current global rule.
 
+## Air pollution and solar output
+- Aerosols scatter/absorb sunlight; cloud and water-vapour changes alter radiation. Dust soiling and temperature-related panel losses are related but distinct mechanisms.
+- The cited climate-model study projects changes for 2041–50, including reduced solar output/capacity factors in parts of India. It does not show that every panel's physical efficiency will uniformly fall by 2.3%.
+- Regionally improved cloud conditions are scenario results, not guaranteed outcomes. Historical climate inputs should not all be described as direct CERES observations predating that satellite record.
+- India's updated NDC concerns **50% cumulative installed electric-power capacity from non-fossil sources**, not 50% actual generation. The 500 GW goal is non-fossil capacity, not solar alone.
+- Cleaner air and climate mitigation can support solar performance; siting, forecasting, cleaning, grid flexibility and diversified generation also matter.
+
 
 ## PDF coverage
 
-2025-01-05: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-01-10: pp. 2, 3, 4 · 2025-01-13: pp. 8, 9, 21, 23 · 2025-01-14: pp. 20, 21
+2025-01-05: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-01-10: pp. 2, 3, 4 · 2025-01-13: pp. 8, 9, 21, 23 · 2025-01-14: pp. 20, 21 · 2025-03-17: pp. 18, 19, 20, 35, 36 · 2025-03-18: pp. 34

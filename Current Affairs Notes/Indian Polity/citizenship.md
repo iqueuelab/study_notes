@@ -38,7 +38,15 @@
 - Drivers include work, persecution, disasters and family networks. Recruitment regulation/eMigrate, safe-migration training, consular support and border management need coordination.
 - Migration agreements do not eliminate domestic unemployment or guarantee every applicant an overseas job; source agent counts are dated.
 
+## Immigration and Foreigners Bill: March 2025
+- Introduced on 11 March 2025; introduction is distinct from passage, assent and commencement.
+- Proposed consolidation of **Passport (Entry into India) Act 1920; Registration of Foreigners Act 1939; Foreigners Act 1946; Immigration (Carriers' Liability) Act 2000**. It did not repeal the Citizenship Act 1955 or Passports Act 1967. [Official account](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2115972&lang=2&reg=48).
+- Covers entry, exit, stay, travel documents, carrier information and reporting by institutions accommodating foreigners. Registration depends on visa/category conditions, not a universal rule for every visitor.
+- Proposed undocumented-entry penalty: up to five years and ₹5 lakh; forged documents: two to seven years and ₹1–10 lakh. These are Bill provisions in this dated update.
+- Articles 14 and 21 protect persons; Article 19 rights are for citizens. National security and public health controls must coexist with due process, proportionality and constitutional judicial review.
+- Assess compliance costs, privacy, clear procedures and business/student mobility alongside security objectives.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1 · 2025-02-05: pp. 1, 2, 3 · 2025-02-16: pp. 2, 3, 4 · 2025-03-01: pp. 1, 2, 3, 4
+2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1 · 2025-02-05: pp. 1, 2, 3 · 2025-02-16: pp. 2, 3, 4 · 2025-03-01: pp. 1, 2, 3, 4 · 2025-03-12: pp. 5, 6, 7, 8, 20, 21, 25, 26 · 2025-03-17: pp. 14, 15, 33, 34 · 2025-03-18: pp. 32, 33

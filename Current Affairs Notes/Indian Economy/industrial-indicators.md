@@ -30,7 +30,12 @@
 - **Index 116 =16% above base output**, not automatically 16% year-on-year growth. Positive index value ≠positive growth; falling positive values can indicate contraction.
 - Eight core industries contribute about **40.27%** of that IIP series, not 40.27% of all GDP. IIP excludes most services and differs from value-added GDP and survey-based PMI.
 
+## IIP revision
+- IIP measures weighted changes in industrial production volumes: mining, manufacturing and electricity; excludes agriculture and most services. NSO publishes it.
+- The base in the March 2025 source period was 2011–12. Index 116 means 16% above the base level, **not 16% year-on-year growth**.
+- A positive index value does not prove production rose that month; compare the appropriate periods. IIP is an output indicator, not a direct inflation measure.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12 · 2025-02-13: pp. 26, 27, 28, 29 · 2025-03-04: pp. 29, 30
+2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12 · 2025-02-13: pp. 26, 27, 28, 29 · 2025-03-04: pp. 29, 30 · 2025-03-13: pp. 18, 19, 20, 21

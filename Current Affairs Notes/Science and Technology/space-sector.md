@@ -26,7 +26,13 @@
 - **First Launch Pad** serves **PSLV/SSLV**, source about 30 years old; **Second** serves **GSLV/LVM3** and PSLV backup, about 20 years. Ages are January 2025 approximations.
 - The repeated SpaDeX section adds no separate docking event; consolidated milestone remains **16 January 2025**.
 
+## SpaDeX milestones
+- PSLV-C60 launched SDX-01 and SDX-02 on 30 December 2024; each approximately 220 kg, targeting a roughly 460 km orbit.
+- First docking: **16 January 2025**. Successful undocking: **13 March 2025, about 09:20 IST**. [ISRO](https://www.isro.gov.in/spadex_undocking_successful.html).
+- Later milestone: second docking on 20 April and power transfer on **21 April 2025**. Power transfer had not already been demonstrated on 13 March. [ISRO milestone record](https://www.isro.gov.in/Spadex_Successful_demonstration_of_Second_Docking_and_Power_Transfer.html).
+- Rendezvous, docking and power-sharing support future stations, sample return and servicing. They do not mean every planned mission or refuelling capability is already operational.
+
 
 ## PDF coverage
 
-2025-01-01: pp. 27, 28 · 2025-01-07: pp. 18, 19, 20 · 2025-01-17: pp. 24, 25, 26 · 2025-01-18: pp. 24, 25, 26, 34, 35, 36 · 2025-01-19: pp. 15, 46
+2025-01-01: pp. 27, 28 · 2025-01-07: pp. 18, 19, 20 · 2025-01-17: pp. 24, 25, 26 · 2025-01-18: pp. 24, 25, 26, 34, 35, 36 · 2025-01-19: pp. 15, 46 · 2025-03-14: pp. 6, 7, 8, 9, 10

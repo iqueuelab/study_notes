@@ -9,7 +9,12 @@
 - Large EEZ, coastal radars, Agaléga infrastructure, hydrographic surveys and IFC-IORinformation links support capacity and maritime awareness.
 - Colombo Security Conclave includes India, Sri Lanka, Maldives, Mauritius, Bangladesh at sourcecheckpoint; it is not simply a military alliance directed at one country.
 - Respect Mauritiansovereignty, transparent projects and blue-economy/climate needs; competition with China is one dimension of a wider relationship.
+## March 2025 visit
+- The 11–12 March visit expanded training, policing, financial-crime cooperation, local-currency trade and development partnerships.
+- The cited development allocation is **500 million Mauritian rupees**, not ₹500 million Indian rupees. Announced police-academy, information-sharing and cultural projects are not all completed facilities.
+- Cooperation supports Indian Ocean maritime security, capacity building and diaspora ties; sovereignty and local priorities remain central.
+
 
 ## PDF coverage
 
-2025-03-10: pp. 12, 13, 14, 15
+2025-03-10: pp. 12, 13, 14, 15 · 2025-03-13: pp. 6, 7, 8, 22, 26, 27

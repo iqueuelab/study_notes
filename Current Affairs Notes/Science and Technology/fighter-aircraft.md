@@ -39,7 +39,14 @@
 - rear fuselage supports aft structure/engine/tail; advancedradar, EWandavionics distinguish Mk 1 A. DPEPP2020 was a draft.
 - IAMaerospace medicine work includes centrifuge/spatial-disorientationtraining and research forpilot safety; occupationalhuman factors complement manufacturing.
 
+## AMCA and readiness: March 2025
+- CCS approved AMCA development in **March 2024**, not 2023; five prototypes and a roughly ₹15,000 crore programme are development plans, not an operational fleet.
+- Initial F414-powered designs and a proposed higher-thrust future engine are different stages. Stealth and supercruise are design objectives until demonstrated.
+- Proposed Pakistani J-35/KAAN acquisitions must not be recorded as completed deliveries. Hotan is in Xinjiang, not Tibet.
+- India's sanctioned fighter strength is 42 squadrons; MRFA 114-aircraft proposals are not completed procurement. LCA Mk1A production and Mk2 development are distinct.
+- Readiness also depends on engines, spares, weapons, training, airborne warning, logistics and delivery capacity—not aircraft counts alone.
+
 
 ## PDF coverage
 
-2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26
+2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26 · 2025-03-18: pp. 1, 2, 3, 4, 5, 6, 7

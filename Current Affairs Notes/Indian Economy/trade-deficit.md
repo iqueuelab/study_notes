@@ -21,7 +21,15 @@
 - Public procurement and carefully targeted import substitution can help; blanket high tariffs can raise input costs, harm exports and invite retaliation. FTA benefits depend on rules of origin/utilisation, not automatic bilateral balance.
 - Answer sequence: define correct balance → explain composition/drivers → weigh productive imports against vulnerability → address competitiveness, energy diversification and stable financing.
 - The source's daily mains prompt is **coaching practice**, not a dated UPSC PYQ.
+## Accounting distinctions
+- Merchandise trade deficit: goods imports exceed goods exports. Goods-plus-services balance differs; the current account additionally includes primary and secondary income such as remittances.
+- A bilateral deficit is not automatically India's overall current-account deficit. Importing capital goods or intermediate inputs can support future production and exports.
+- Financing can involve FDI, portfolio/debt flows and reserves. A deficit does not inevitably mean immediate reserve collapse or borrowing of the same amount.
+- Risks depend on composition, persistence, exchange rates and financing stability. Rupee depreciation can raise import costs, but export responses depend on imported inputs and demand.
+- Improve competitiveness, logistics, skills, quality standards and market diversification. Higher import tariffs can also raise exporters' input costs; assess value chains and sector effects.
+- Export duties are not generally India's main fiscal-revenue source; avoid confusing trade balance with government budget balance.
+
 
 ## PDF coverage
 
-2025-01-16: pp. 1, 2, 3, 4
+2025-01-16: pp. 1, 2, 3, 4 · 2025-03-18: pp. 7, 8, 9, 10
