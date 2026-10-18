@@ -35,6 +35,13 @@
 - Source cites **Tirupati Balaji Developers (2004)** and **Mayavaram Financial Corporation (1991)** on autonomy/allocation. Correcting legal error through appeal/review differs from controlling a judge's future administrative roster; institutional discipline needs reasons, proportionality and respect for constitutional allocation of authority.
 - Practice **C (1 and 3)**; option A's printed “1 only 2” is malformed, and Article 227 statement is false.
 
+## October 2025: women’s representation and AIJS debate
+- Editorial contrasts roughly **14% women in High Courts** and **38% in subordinate judiciary**, discussing the India Justice Report 2025. Its Supreme Court claim “**one of 34 =3.1%**” is arithmetically inconsistent (one of 34≈2.9%) and mixes a dated working-strength snapshot with sanctioned strength; do not memorise it as a verified report table.
+- Barriers include opaque networks, unequal career opportunities, care responsibilities, lack of mentorship, hostile workplaces and inadequate court amenities. A more representative bench can improve trust and bring wider experience; no recruitment route automatically guarantees merit, independence or equality.
+- The editorial proposes UPSC-style national recruitment, reservations, common training and judicial supervision. **Article 312 AIJS is at district-judge level and above within the judicial service, excludes inferior posts, and is not a new exam route replacing SC/HC appointment provisions.** It requires the special Rajya Sabha resolution (at least two-thirds present and voting) and Parliamentary law; an editorial proposal does not establish an operational service. [Department of Justice clarification](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1910435&lang=2&reg=48).
+- Evaluate federal/local-language needs, judicial control, transparent eligibility and progression, social inclusion and executive influence. Combine fair recruitment/elevation criteria with childcare, separate facilities, safety, mentoring and gender-sensitivity training. Source's UPSC candidate/IPS figures illustrate the argument but do not prove a causal effect of exams on judicial diversity.
+- **Practice answer:** assess AIJS's possible transparency/inclusion gains against constitutional scope, federalism, language and independence; the printed 150-word/10-mark question has no PYQ year.
+
 ## PDF coverage
 
-2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19 · 2025-03-31: pp. 14, 15, 16 · 2025-05-08: pp. 8, 9, 10, 11 · 2025-08-10: pp. 4, 5, 6
+2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19 · 2025-03-31: pp. 14, 15, 16 · 2025-05-08: pp. 8, 9, 10, 11 · 2025-08-10: pp. 4, 5, 6 · 2025-10-16: pp. 1, 2, 3, 4

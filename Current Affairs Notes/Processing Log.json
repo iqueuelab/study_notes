@@ -5194,32 +5194,95 @@
     {
       "date": "2025-10-15",
       "pdf": "2025/10-October/2025-10-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "436f422c3482686566a6638c76bc1a45a12c0745eb3ef94f147c2dc1c08195ce",
+      "pages": 17,
+      "topic_ids": [
+        "goa-microplastics",
+        "india-australia",
+        "india-mongolia",
+        "maitri-ii",
+        "un-peacekeeping"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-16",
       "pdf": "2025/10-October/2025-10-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "270aa9822f06033d3c1defb4c27774c7dcfc6ef5004da32ef8139c61bb9db14d",
+      "pages": 14,
+      "topic_ids": [
+        "imec",
+        "judicial-reform",
+        "municipal-finance",
+        "saime"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-17",
       "pdf": "2025/10-October/2025-10-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "64ab26b60327fdcd03e4da1383ff65f39af18c915708f17fd84203963b52610d",
+      "pages": 14,
+      "topic_ids": [
+        "amca",
+        "carbon-market-safeguards",
+        "cell2sentence-cancer",
+        "defence-exports",
+        "extradition"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-18",
       "pdf": "2025/10-October/2025-10-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "55a384559cef365537d8fad7d1d937db01c97440f2d0e1e65bc270c0c4bb21cc",
+      "pages": 17,
+      "topic_ids": [
+        "c390-millennium",
+        "carbon-market-safeguards",
+        "fighter-aircraft",
+        "rotavirus-vaccine",
+        "saime"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-20",
       "pdf": "2025/10-October/2025-10-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "58ab13548bf11e303eae2a28d78673cd9092b99dd07a95b687774d0100c22532",
+      "pages": 9,
+      "topic_ids": [
+        "chace2-lunar-exosphere",
+        "green-crackers",
+        "mullaperiyar-dam"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-21",
       "pdf": "2025/10-October/2025-10-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ee2d79aaaefb488b94e6dfcce1720c01d9b0bcb8b258150732f1490c56fe90c3",
+      "pages": 14,
+      "topic_ids": [
+        "architectural-immunity",
+        "elephants",
+        "kurinji",
+        "rice-arsenic-microbes",
+        "shipping-emissions"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-22",
@@ -6798,7 +6861,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-10-15",
+  "next_pdf": "2025-10-22",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -6873,12 +6936,12 @@
     },
     {
       "date": "2025-09-14",
-      "status": "missing_source",
+      "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-09-14.pdf in source inventory. All 27 pages of physical 2025-09-15.pdf inspected: first-page banner reads 15th Sept. 2025, no combined 14/15 September label. September 14 inauguration/news is covered under physical September 15 issue; it does not establish a separate September 14 issue."
     },
     {
       "date": "2025-09-21",
-      "status": "missing_source",
+      "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-09-21.pdf is listed in the September collection. Page 1 image of the adjacent 2025-09-22.pdf explicitly labels “22th Sept. 2025”; it has no combined 21–22 September label. Page 1 of 2025-09-23.pdf labels 23th Sept. 2025. Physical file-date coverage retained; no 21 September notes invented."
     },
     {
@@ -6888,8 +6951,13 @@
     },
     {
       "date": "2025-10-12",
-      "status": "missing_source",
+      "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-10-12.pdf in the source collection. Physically reviewed all 19 pages of 2025/10-October/2025-10-13.pdf: its first-page banner reads 13 Oct. 2025, with no 12–13 combined date banner or separately identified 12 October section. The following physical file is explicitly bannered 14 Oct. 2025. Older clippings embedded in these files do not establish a replacement daily issue for 12 October."
+    },
+    {
+      "date": "2025-10-19",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone 2025-10-19.pdf in supplied collection/jobs. Visually inspected first-page banner of 2025-10-20.pdf: it states only “20 Oct. 2025”, with no 19–20 combined-date claim. October 19 remains an unresolved source gap; no invented notes or inferred review."
     }
   ]
 }

@@ -23,6 +23,12 @@
 - Invest in R&D, predictable procurement, start-up/MSME finance, quality assurance, competitive supply chains and lifecycle maintenance; improve coordination between defence and industrial-policy institutions.
 - Judge success by indigenous technology depth, reliability and sustainable customer support, alongside export value; published forecasts and start-up counts need dates and definitions.
 
+## October 2025: 2029 production and export ambition
+- Rajnath Singh reiterated targets of **₹3 lakh crore annual defence production and ₹50,000 crore defence exports by 2029** in Pune. Production is distinct from exports; targets are not achieved sales. Source cites around **₹1.5 lakh crore output and ₹33,000 crore private-sector contribution**; these are rounded FY2024–25 production figures, not FY2023–24 production/export equivalents.
+- Its **₹21,083 crore exports/32.5% growth/1,507 authorisations** panel describes **FY2023–24**, and must not displace the already recorded **FY2024–25 ₹23,622 crore** export figure. The fixed 60:40 private/DPSU split is not a universal current share. Export figures depend on period and product coverage.
+- **Operation Sindoor** was the May 2025 military response to the Pahalgam attack, **not an evacuation mission**, as the prose incorrectly states. The minister used it to illustrate indigenous capability; political claims about earlier “lack of will” are interpretations rather than proof India lacked all earlier defence industrial policy.
+- **DPEPP 2020 was a draft**; indigenisation lists, iDEX, DRDO technology transfer, conditional FDI liberalisation, seven corporatised ordnance entities and the UP/Tamil Nadu corridors are separate policy tools. Offsets are procurement-specific, not a requirement in every foreign contract. Pune's Army Southern Command, ARDE/DRDO and industrial/education ecosystem illustrate the importance of clusters.
+
 ## PDF coverage
 
-2025-04-02: pp. 6, 7, 8, 9, 10 · 2025-05-15: pp. 9
+2025-04-02: pp. 6, 7, 8, 9, 10 · 2025-05-15: pp. 9 · 2025-10-17: pp. 3, 4, 5

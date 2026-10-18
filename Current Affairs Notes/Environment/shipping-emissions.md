@@ -34,7 +34,11 @@
 - **CBDR-RC** informs climate-equity debate, while IMO's ship rules also seek consistent application. SIDS seek finance/ambition; developing fleets face technology/cost gaps. Avoid assuming national interest establishes all oil-exporting states' identical position.
 - The US announced Paris withdrawal in January 2025; it had **not completed** the one-year withdrawal process by April/May. Aviation comparison should distinguish ICAO's aspirational long-term goal from enforceable aviation measures such as CORSIA, rather than calling the whole sector unregulated.
 
+## October 2025: adoption session adjourned
+- The issue reports a **57–49 vote**, with **21 abstentions/non-votes** in its account, to postpone the adoption process for one year; it reports US diplomatic pressure and strong criticism from climate-vulnerable island states. India's October vote is not established by this source.
+- IMO confirms the **14–17 October 2025 extraordinary MEPC session** was adjourned for twelve months, with implementation-guideline work continuing. Existing notes already record this outcome. The PDF's **April 2024/October 2024** dates are errors: draft approval was **April 2025**; neither its planned 2027 start nor adoption was an operative requirement after adjournment. [IMO session record](https://www.imo.org/en/mediacentre/meetingsummaries/pages/mepc-es-2.aspx).
+- Delay increases uncertainty for investment in low-emission fuels and ships and intensifies debate over freight costs, sovereign policy space and support for vulnerable trading states. The repeated 2040 target must remain a **total-GHG** reduction checkpoint, not a carbon-intensity target.
 
 ## PDF coverage
 
-2025-04-13: pp. 3, 4, 5 · 2025-05-13: pp. 16, 17, 18, 19, 20, 21
+2025-04-13: pp. 3, 4, 5 · 2025-05-13: pp. 16, 17, 18, 19, 20, 21 · 2025-10-21: pp. 3, 4, 5

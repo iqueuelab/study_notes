@@ -13,6 +13,13 @@
 - Mallya/Nirav Modi cases show prolonged judicial/diplomatic procedures. The source's Choksi-in-Antigua account was outdated: April 2025 reporting placed him under arrest in Belgium; do not treat arrest as completed extradition.
 - Priorities: complete admissible evidence, treaty-specific requests, reliable human-rights assurances, translation/case tracking and diplomatic cooperation. Avoid unsupported treaty-network counts or claims that a proposed statutory revision is already law.
 
+## October 2025: prison standards and stronger case preparation
+- At the **CBI's 16 October conference, “Extradition of Fugitives: Challenges and Strategies”**, Amit Shah urged States to establish **special prisons meeting international standards** and **expert special cells** for extradition case preparation. These are directions/proposals for capacity and assurances, not proof every State has already built a facility. [MHA speech](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179886&lang=2&noshow=1&reg=48).
+- Better CBI–IB–MEA–State police/immigration/passport coordination, financial-footprint tracing, a fugitive database and international police cooperation can improve location and admissible evidence. The issue describes a proposed joint CBI–IB task force under MAC and a campaign moving suitable Blue Notice cases towards Red Notices; legal prerequisites must be satisfied rather than notices converting automatically.
+- **Blue Notices** seek additional identity/location/activity information; **Red Notices** request location and provisional arrest pending extradition/similar legal action, and remain **not international arrest warrants**. Passport cancellation needs competent action under applicable law; issuance of a notice does not itself automatically cancel a passport.
+- Humane detention, sanitation, medical care and fair trial are substantive obligations, not merely “excuses” to dismiss. **Nelson Mandela Rules** provide minimum prisoner-treatment standards; credible assurances support foreign judicial review but do not guarantee surrender. Source's **47 treaties/10 arrangements** is a dated, unverified network count, and its Choksi-in-Antigua reference is outdated against the existing Belgium correction.
+- **BHARATPOL** links Indian agencies with INTERPOL channels; its newspaper explainer is background, not a new October launch. Extradition, deportation, evidence assistance and asset confiscation under the **Fugitive Economic Offenders Act, 2018** remain distinct legal processes.
+
 ## PDF coverage
 
-2025-04-15: pp. 5, 6, 7, 8
+2025-04-15: pp. 5, 6, 7, 8 · 2025-10-17: pp. 6, 7, 8

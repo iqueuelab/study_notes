@@ -14,6 +14,16 @@
 - Origin **US–Mongolia bilateral 2003**, multinational since **2006**. Trains multinational interoperability/readiness for UN peace support, including checkpoints, cordon/search, patrols, civilian evacuation, counter-IED and combat first aid. This is separate from **Nomadic Elephant**. [Defence Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2135593).
 - Peacekeeping training is not itself deployment authorisation. Mongolia's defence engagement supports India’s wider Asian partnerships; Mongolia is normally located in **East Asia**, despite broader Central Asian strategic linkages.
 
+## October 2025: border-force training and Buddhist diplomacy
+- During President Khurelsukh Ukhnaa's India visit, PM Modi announced a forthcoming **capacity-building programme for Mongolia's border security forces**; India had appointed a defence attaché at its embassy. These complement military training and Nomadic Elephant, rather than establish an alliance or a completed deployment.
+- **1955 diplomatic ties; 2015 Strategic Partnership**: the October visit marks 70 and 10 years respectively. Free e-visas for Mongolian citizens and dispatch of **Sariputra and Maudgalyayana relics in 2026** were announced; ten signed MoUs covered immigration, humanitarian aid, geology/minerals, yoga and governance. The PM's statement confirms the training, attaché, visas and relic plans. [PM statement, 14 October](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178879&lang=2&reg=48).
+- “Third neighbour” means diversification beyond Russia and China. Buddhist heritage, mineral/development cooperation and people-to-people links support India's Asian diplomacy. Reject the PDF's reversed claim that Mongolia was India's first non-socialist diplomatic partner, its unsupported **3rd-century-BCE Buddhism-via-Tibet** chronology and its **2024** label for this presidential visit.
+## Mongolia: additional map and livelihood recall
+- Southern **Gobi** is a cold desert; temperate steppe and extreme continental climate support pastoralism. **Dzud** combines severe winter conditions with grazing/feed stress, threatening livestock; desertification and mineral-price exposure add livelihood risks. Mongolia is the second-largest landlocked country after Kazakhstan.
+- **Ulaanbaatar on the Tuul River** faces winter coal-heating pollution. Mongolian language uses Cyrillic alongside revived traditional script; **ger/yurt** is the portable pastoral dwelling. Tibetan Buddhism and shamanic traditions shape culture. **Oyu Tolgoi** is a major copper-gold mine; livestock, wool/cashmere and mining matter economically.
+- Historical recall: Genghis Khan's 13th-century empire; Kublai Khan's Yuan rule in China; later Qing rule; independence declared in **1911**, revolution in **1921**, democratic transition **1990** and Constitution **1992**. These stages should not be collapsed into one independence date.
+- **2013 Prelims: (b), Central Asian Steppe**—continental extremes, scanty rainfall and historic nomadic herding. Chernozem is associated with temperate grasslands but is not every Mongolian soil. The tundra distractor is not disproved by claiming herding never occurs there; reindeer pastoralism exists.
+
 ## PDF coverage
 
-2025-06-09: pp. 10, 11, 12 · 2025-06-12: pp. 21, 22
+2025-06-09: pp. 10, 11, 12 · 2025-06-12: pp. 21, 22 · 2025-10-15: pp. 1, 2, 3, 4, 5, 6

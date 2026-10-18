@@ -1,0 +1,18 @@
+# Carbon markets: environmental integrity and community safeguards
+
+## October 2025: carbon-market integrity and community rights
+- A carbon credit ordinarily represents **one tonne CO₂-equivalent** of verified reduction/removal/avoidance against the applicable baseline, not necessarily one tonne of CO₂ physically removed. Credits need eligible methodologies, additionality, credible measurement and issuance; saving 10,000 tonnes does not automatically create 10,000 saleable credits. Retirement means cancelling units for a claim/use, not merely issuing or trading them.
+- **CCTS notified June 2023**, with **mandatory emission-intensity compliance** for designated obligated entities and a **voluntary project-based offset mechanism** for non-obligated entities. BEE administers procedures; targets/sector transition and trading must follow notifications, not generic descriptions of all steel, cement or power plants already covered. [July 2024 parliamentary reply](https://powermin.gov.in/sites/default/files/uploads/LS_25072024_Eng.pdf).
+- Source discusses draft biomass-co-firing, compressed-biogas and low-emission-rice methodologies. Its **175–180 million annual global retirements** and **64 listed Indian agriculture projects/4 registered/none issued** are source-era snapshots with registry/category limits; they are not all-market totals for all years or proof of inevitable future issuance.
+## Kenya: distinguish review from final adjudication
+- Northern Kenya's rangeland project, begun **2012**, covers a source-reported **1.9 million hectares** and claims potential **50 million tonnes over 30 years**—a projection. Concerns include customary land/grazing rights, free prior informed consent, benefit distribution and soil-carbon accounting. **Verra's 13 May 2025 review letter** followed the **24 January court ruling** and suspended further issuance while review continued; this was not proof every allegation or every credit had been finally invalidated. [Verra review notification](https://www.nature.org/content/dam/tnc/nature/en/documents/1/4/1468_New_Review_Notification_Letter_13MAY2025_Updated.pdf).
+- Lake Turkana wind development is another land-rights example in the editorial, not the same project or necessarily a soil-carbon credit scheme. Its asserted **1.5 lakh acres fenced** lacks a reliable defined land-use measure here and should not be treated as verified physical exclusion of that whole area.
+## Safeguards for Indian land-based projects
+- Village commons, forest fringes and customary tribal lands support grazing, fuelwood and forest produce. Projects can restrict access or concentrate gains in intermediaries unless rights and informed participation are protected; this is a risk assessment, not proof every carbon project is extractive.
+- Proposals: transparent contracts and carbon-revenue shares, community consent, recognition of customary rights, women/smallholder inclusion, independent monitoring, accessible grievances, local registries and Panchayat/farmer-group training. A mandatory minimum revenue share is the author's recommendation, not a newly enacted universal CCTS provision.
+- Test **additionality, leakage, permanence/reversal, double counting and independently verified outcomes** alongside distributional fairness. Simple procedures with enforceable transparency can support investment and trust; markets supplement direct emission cuts and cannot guarantee absolute decoupling of growth from environmental harm.
+- Undated 250-word/15-mark practice asks how markets can combine environmental sustainability and social justice; use credible carbon accounting plus consent, land rights and fair benefits.
+
+## PDF coverage
+
+2025-10-17: pp. 11, 12, 13, 14 · 2025-10-18: pp. 10, 11, 12, 13, 14

@@ -13,6 +13,12 @@
 - Challenges: engine maturity, stealth integration, testing/certification, funding, transparent procurement and public/private production capability. Stage-gated milestones, realistic timelines, sustained R&D and carefully structured technology collaboration matter.
 - **Undated practice:** statements 1 and 3 supported; statement 2 wrong because ADA leads, with competitive industry partnership—answer **(c) 1 and 3 only**.
 
+## October 2025: Russia’s support and Su-57 offer
+- The issue reports Russian readiness to support **AMCA** and offer **local production of Su-57**, alongside anti-drone systems, radar and precision-strike cooperation. These are statements/offers, not an Indian purchase decision, signed technology-transfer contract or completed domestic production line.
+- **ADA leads AMCA**, with the May-approved competitive industry-partnership execution model already recorded; the PDF's blanket “DRDO+HAL+IAF” formula must not imply HAL has automatically been selected. Internal bays, stealth/sensor fusion and advanced engines are design/technology goals; a speculative “sixth-generation Mk2” graphic is not official operational classification.
+- Technology access, IP rights, indigenous integration, testing, affordability, supply reliability and sanctions exposure determine value. Russia's assurances on alternative payments/energy supply and US political claims on oil purchases are competing source-era positions; neither proves India had ceased Russian imports or secured sanctions immunity.
+- Graphic altitude/range/radar/cost figures are variant-dependent marketing/design estimates and do not establish proven like-for-like superiority. **2024 Prelims: none (d)** of Rafale, MiG-29 and Tejas Mk1 is fifth-generation; the full question already exists in the Science and Technology bank.
+
 ## PDF coverage
 
-2025-05-28: pp. 2, 3, 4, 5, 6 · 2025-08-27: pp. 13, 14, 15 · 2025-09-26: pp. 14, 15, 16
+2025-05-28: pp. 2, 3, 4, 5, 6 · 2025-08-27: pp. 13, 14, 15 · 2025-09-26: pp. 14, 15, 16 · 2025-10-17: pp. 1, 2, 3

@@ -19,6 +19,12 @@
 - Gaza/Ukraine deployment proposals face mandate, Council politics, consent and feasibility barriers; no existing peacekeeping force there can be assumed merely from the UN's general peace role.
 - Mains: achievable mandates, political settlements, trained/equipped contingents, women’s participation, civilian protection, accountability and clear exit strategies; military deployment alone cannot solve political conflict.
 
+## October 2025: troop-contributing countries and reformed multilateralism
+- India hosted the **UNTCC Chiefs’ Conclave, 14–16 October, Manekshaw Centre, New Delhi**. At its opening Rajnath Singh advocated **Consultation, Cooperation, Coordination and Capacity Building**—the **4Cs**—for safer and more effective missions. Greater troop-contributor input, specialised training, logistics and adequate resources should accompany realistic mandates. [MoD opening address](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2178839&lang=2&reg=3).
+- Secure communications, surveillance and unmanned platforms can improve protection against asymmetric threats and misinformation; technology needs trained personnel and accountable use. Reformed multilateralism seeks institutions representative of contemporary realities and developing-country voices, while upholding international rules.
+- The source's **over 2.9 lakh cumulative Indian personnel across 50+ missions** is a historical contribution measure, distinct from current deployed strength. Its **179 fatalities** is inadequately dated and should not be taken as the definitive October total. India's all-women formed police unit served in **Liberia from 2007**.
+- G4 reform advocacy links India, Brazil, Germany and Japan; a demand for permanent membership does not itself change Security Council composition. The PDF's inference naming particular states as the targets of the minister's criticism is commentary, not an official identification.
+
 ## PDF coverage
 
-2025-05-18: pp. 5, 6, 7, 8
+2025-05-18: pp. 5, 6, 7, 8 · 2025-10-15: pp. 9, 10, 11

@@ -1,0 +1,12 @@
+# Green crackers: emissions, regulation and public health
+
+## October 2025: temporary Delhi-NCR relaxation
+- The Supreme Court's **15 October 2025 order** allowed a strictly controlled temporary use/sale regime for certified green crackers during Diwali, rather than establishing unrestricted permission. Distinguish the October experiment from the **2018** nationwide restrictions: 2018 was not a blanket permanent ban on all crackers everywhere. Article **21** health/clean-air protection and Article **25**, subject to health and other constitutional limits, frame the public-interest debate. [Supreme Court order](https://api.sci.gov.in/supremecourt/1985/63998/63998_1985_1_1501_65037_FinalOrder_15-Oct-2025.pdf).
+- **CSIR–NEERI** developed reduced-emission formulations; **SWAS = Safe Water Releaser, SAFAL = Safe Minimal Aluminium, STAR = Safe Thermite Cracker**. Certification/green logo/QR identification help distinguish authorised products. Lower emissions do not make crackers pollution-free or safe for unlimited use. [CSIR/PIB explanation](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1551171&lang=2&reg=48).
+- Official descriptions commonly report around **30% or greater particulate reduction**, varying with formulation/test. The PDF's blanket **30–70%** reduction, **160–200 dB conventional versus below 125 dB green** comparison and “Swasth Vedi” expansion lack suitable test/measurement qualifiers; do not memorise them as universal standards. Barium-containing banned crackers are not legitimised by a green label.
+- Delhi's winter air pollution combines vehicles, road/construction dust, industry, biomass/residue burning and fireworks with low winds/temperature inversions. Fireworks can intensify short-term fine-particle exposure, affecting respiratory/cardiovascular health, particularly children/older people. The source's sector percentages overlap periods/denominators and are not a verified additive source inventory; its **3–5-times PM spike** is not a universal forecast.
+- Policy: credible certification and enforcement, continuous monitoring/source apportionment, CAQM/GRAP coordination, clean transport/energy and dust/open-burning controls; community alternatives and worker transition can address Sivakasi livelihoods alongside health. **EPCA is defunct**, not a parallel current regulator. Weather-driven improvement after rain/wind cannot by itself demonstrate policy success; source livelihood estimates need a dated coverage definition.
+
+## PDF coverage
+
+2025-10-20: pp. 6, 7, 8

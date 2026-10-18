@@ -28,7 +28,13 @@
 - Infographic recall: **Gaj Sochna app 2022, Gaj Yatra 2017, Haathi Mere Saathi 2011**, source **National Elephant Corridor project 2005**; names/years are source background, not proof statutory protection or nationwide success. **MIKE** timing correction already recorded.
 - **IUCN**, membership union headquartered **Gland, Switzerland**; RedList threatened categories **Vulnerable, Endangered, Critically Endangered**. Old pink/green page conventions are not contemporary legal protection schedules.
 
+## October 2025: DNA-based national baseline
+- **SAIEE 2021–25 (Synchronous All-India Elephant Estimation)** reports **22,446 wild elephants**. DNA from dung identifies individuals and helps account for repeat samples; spatial sampling/habitat assessment complements genetic work. A modelled estimate is not a literal genetic identification of every elephant.
+- The new design differs from the **2017 estimate of 29,964**; subtraction alone cannot establish a measured population decline. The PDF's “2024 report” label must not erase the estimation exercise's **2021–25** scope. [WII elephant programme](https://wii.gov.in/index.php/elephant-cell).
+- Source-reported field effort: **6.67 lakh km walked, 1.88 lakh transects and over 21,000 dung samples**. These are survey-effort measures, not separate elephant totals. The Western Ghats form the largest reported population landscape; Karnataka leads the source's State figures, with Assam another major stronghold.
+- **Data caution:** the PDF's four landscape counts (11,934; 4,990; 2,061; 1,890) sum to **20,875**, not its national 22,446; its landscape percentages likewise do not cover 100%. Do not use this table as a reconciled national breakdown without checking the full report. The source's old **101-corridor** figure is superseded by the **2023 report's 150** already explained above.
+- New-baseline monitoring should track fragmentation, plantations/invasive species, fires, electrocution/rail mortality and conflict. Connect habitats across reserve boundaries, retrofit safe crossings, restore native food/water resources and combine early warnings/rapid response with fair compensation. Source Nilgiris–Coimbatore death figures lack a clear time period and are not retained as an annual rate.
 
 ## PDF coverage
 
-2025-05-26: pp. 8, 9, 10, 11, 12 · 2025-06-09: pp. 8, 9
+2025-05-26: pp. 8, 9, 10, 11, 12 · 2025-06-09: pp. 8, 9 · 2025-10-21: pp. 6, 7, 8, 9
