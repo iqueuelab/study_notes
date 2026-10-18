@@ -15866,6 +15866,11 @@
           13,
           14,
           15
+        ],
+        "2025-10-08": [
+          19,
+          20,
+          21
         ]
       },
       "markdown": "## England and Wales: position on June 21, 2025\n- Commons passed the **Terminally Ill Adults (End of Life) Bill** at third reading on **20 June 2025, 314–291**. It still required further parliamentary passage; assisted dying was **not already legalised**. [Parliament record](https://hansard.parliament.uk/commons/2025-06-20/debates/525F3344-9DEB-4821-8F8D-01BE7B5E80B0/TerminallyIllAdults%28EndOfLife%29Bill).\n- Proposed eligibility: adult 18+, decision-making capacity, terminal illness with six months or less expected life, England/Wales residence for at least 12 months; disability/mental disorder alone does not qualify. Proposed assistance requires a voluntary, informed request and patient self-administration.\n- Medical assessments by two doctors and reflection periods are safeguards. **June version used Assisted Dying Review Panels, replacing the original mandatory High Court approval**; PDF mixes the original and amended versions. Panels include legal, psychiatry and social-work expertise. [Commons Library bill history](https://commonslibrary.parliament.uk/research-briefings/cbp-10256/).\n- Suicide Act 1961 criminalises assistance in England and Wales, with up to 14 years' imprisonment; Northern Ireland has separate legislation. Do not assign that Act identically to the whole UK.\n## India and ethical distinctions\n| Term | Meaning / June 2025 Indian position |\n| --- | --- |\n| Active euthanasia | Direct intentional lethal intervention; not authorised |\n| Assisted suicide | Another facilitates patient's lethal self-administration; not authorised |\n| Withholding/withdrawing life-sustaining treatment | Permissible under judicial safeguards in appropriate terminal/irreversible circumstances |\n| Advance medical directive / living will | Adult records future treatment wishes for incapacity; implementation requires safeguards and medical assessment |\n- **Aruna Shanbaug (2011)** recognised a framework for withdrawal; **Common Cause (2018)** recognised dying with dignity within **Article 21** and advance directives; **2023** order simplified procedures. This is not an unrestricted general right to suicide.\n- Compare autonomy/dignity and relief of suffering with coercion, prognostic uncertainty, disability discrimination, unequal care and the duty to protect vulnerable people. Strengthen palliative care and meaningful informed consent.\n- Netherlands/Belgium/Luxembourg, Switzerland and some US jurisdictions have differing assisted-death rules; no single international model. **France's National Assembly passed a proposal at first reading on May 27, 2025; it was not operative assisted-dying law in June.** [French legislative record](https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e).\n\n## October 2025: making withdrawal safeguards workable\n- Editorial recommends a digital advance-directive registry with identity verification, easy revision/revocation, trained hospital ethics committees including palliative care and independent members, transparent decentralised review and public/medical education. Registry/Aadhaar linkage, a committee's 48-hour decision and seven-day cooling-off period are the author's proposals, not newly enacted universal Indian requirements.\n- Existing notes distinguish active euthanasia, assisted suicide and lawful withdrawal/withholding under safeguards, and record 2011/2018/2023 judgments. The 2023 simplification did not abolish all medical review: primary and secondary boards remain, with decisions preferably within 48 hours; do not describe it as unqualified single hospital approval. Advance-directive attestation changed to notary/gazetted officer rather than mandatory magistrate countersignature.\n- Source-era England/Wales proposal had passed Commons and remained before Parliament; it had not made assisted dying lawful across the UK. [Parliament Bill record](https://bills.parliament.uk/bills/03774). Preserve autonomy, informed consent, coercion/disability safeguards, palliative care and access concerns; withdrawal of futile treatment is not an unrestricted right to be killed.\n- The Supreme Court’s later judgment reproduces the 2023-modified directive/board framework; this citation verifies that historical rule without importing a 2026 development into the October issue. [Judgment reproducing 2023 procedure](https://api.sci.gov.in/supremecourt/2025/60980/60980_2025_7_1501_69246_Judgement_11-Mar-2026.pdf)."
@@ -20433,6 +20438,11 @@
           16,
           17,
           18
+        ],
+        "2025-10-08": [
+          16,
+          17,
+          18
         ]
       },
       "markdown": "## October 2025: life beyond familiar chemistry\n- Xenobiology investigates possible biological systems differing from conventional DNA/RNA/protein chemistry; synthetic biology engineers such alternatives, while astrobiology studies life in its cosmic context. It does not establish that extraterrestrial life has been found.\n- Research includes additional synthetic DNA bases beyond A/T/C/G, alternative nucleic-acid backbones, non-standard amino acids and artificial cells/metabolic systems. Expanded-alphabet experiments are real research; complete self-sustaining silicon-based organisms or ammonia/methane-based ecosystems remain hypotheses, not demonstrated products.\n- Titan's methane/ethane lakes motivate solvent questions; Europa/Enceladus have subsurface-ocean interest. Do not describe every icy moon as a demonstrated non-water-life habitat or replace all planetary water with methane.\n- Possible applications: novel drugs/proteins, specialised bioremediation, origin-of-life tests, biosignatures and biological containment. Dependence on non-natural building blocks can help containment but cannot guarantee engineered organisms never escape, evolve or affect ecosystems.\n- Research requires case-specific biosafety, ecological assessment, misuse controls and ethical oversight. The source's institution list is illustrative context, not verified evidence every named Indian institute has a dedicated xenobiology programme."
@@ -20446,9 +20456,58 @@
           10,
           11,
           12
+        ],
+        "2025-10-08": [
+          5,
+          6,
+          7
         ]
       },
       "markdown": "## October 2025: peripheral immune tolerance\n- Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi received the 2025 Medicine Nobel for discoveries concerning peripheral immune tolerance. Central tolerance removes many self-reactive developing T cells in the thymus; regulatory T cells suppress harmful responses outside it.\n- Sakaguchi identified regulatory T cells in 1995. Brunkow/Ramsdell identified Foxp3 mutations in scurfy mice in 2001; human FOXP3 mutations cause IPEX. In 2003 Sakaguchi linked Foxp3 to regulatory-T-cell development/function. Thus the source's “around the same time” should not collapse these stages into 1995.\n- Tregs balance immune defence with restraint. Expanding/stabilising them may help autoimmunity or transplant tolerance; reducing tumour-associated suppression may support cancer treatment. These are research/clinical-development directions, not universal cures; unwanted suppression or autoimmunity, cost and equitable access remain challenges. [Nobel announcement](https://www.nobelprize.org/prizes/medicine/2025/press-release/)."
+    },
+    {
+      "id": "nobel-physics-2025",
+      "title": "Nobel Physics 2025: macroscopic quantum tunnelling",
+      "subject": "Science and Technology",
+      "coverage": {
+        "2025-10-08": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "markdown": "## October 2025: quantum behaviour of a circuit\n- John Clarke, Michel H. Devoret and John M. Martinis received the Physics Nobel for macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit. Their 1980s experiments demonstrated collective quantum behaviour in superconducting circuits. [Nobel announcement](https://www.nobelprize.org/prizes/physics/2025/press-release/).\n- A Josephson junction couples superconductors across a thin barrier; Cooper-pair tunnelling permits supercurrent. The prize experiment concerns the circuit's collective electrical variable escaping a metastable state by quantum tunnelling and exhibiting discrete energy levels, not merely the original discovery of current across a junction.\n- Quantisation means allowed circuit energies are discrete; tunnelling allows escape across an energy barrier without classical activation over it. A macroscopic circuit can have quantum behaviour without implying a cricket ball tunnels through the ground in everyday conditions.\n- Foundations support superconducting qubits, precision measurement and quantum sensors. Cryogenic operation, materials loss, noise and decoherence limit control; basic research can yield technologies decades later. The practice MCQ's insulating-barrier version gives statements 1/2 correct; it is unyearred practice, not a CSE PYQ."
+    },
+    {
+      "id": "sri-lanka-swell-shield",
+      "title": "Sri Lanka and Southern Ocean swell shielding",
+      "subject": "India & World Geography",
+      "coverage": {
+        "2025-10-08": [
+          7,
+          8,
+          9
+        ]
+      },
+      "markdown": "## October 2025: INCOIS wave study\n- Sri Lanka's landmass blocks/redistributes long-period Southern Ocean swell energy approaching parts of India's southeast coast. Swells originate in distant storms and can travel thousands of kilometres, unlike locally generated wind waves; they can produce coastal inundation/erosion without a local storm.\n- INCOIS comparison used **2019** waverider-buoy data off Kollam and Puducherry: about **96% of long-period-swell events observed at Kollam did not reach Puducherry**. This is an event-comparison result for those records, not 96% of all Indian Ocean waves or all coastlines. WAVEWATCH III 6.07 experiments removing Sri Lanka supported the shielding mechanism. [INCOIS research abstract](https://figa2025.incois.gov.in/iiosc2025/report_details.jsp?reg_id=ABS-05-0128).\n- Puducherry is a Union Territory location; do not label it simply a Tamil Nadu buoy site. Protection is direction/period/geography dependent and does not remove cyclone, tsunami or all swell hazards. The hypothetical removal experiment does not establish imminent disappearance of Sri Lanka under sea-level rise.\n- Coastal hazard mapping, swell alerts, ports, fisheries and tourism planning should incorporate landmass shielding, bathymetry and exposure alongside changing climate/sea level. Practice statements 2/3 are correct; local-wind/short-distance definition is false."
+    },
+    {
+      "id": "gold-monetisation",
+      "title": "Gold monetisation and domestic savings",
+      "subject": "Indian Economy",
+      "coverage": {
+        "2025-10-08": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "markdown": "## October 2025: mobilising household gold\n- Editorial proposes financial self-reliance through voluntary gold mobilisation: transparent assaying, reliable collection/refining logistics, bank-led flows and digital gold-account records. Tax/scrutiny relaxation, “no-questions-asked” deposits and 4.5–6.5% funding costs are proposals/estimates, not enacted exemptions or guaranteed investment returns. Digital account records here are not automatically the same as commercial unregulated digital gold.\n- Source estimates private holdings at 25,000 tonnes/$2.4 trillion and about 55% of FY26 GDP; valuation depends on price/date, while FY26 GDP is prospective in this issue. Its import dependence, 8% import-bill share and 2010–13 trade-deficit comparison use different periods. Do not combine them into a current audited balance sheet or assume gold value instantly becomes bank credit.\n## Scheme and March 2025 change\n- GMS launched November 2015 to mobilise idle household/institutional gold for productive use and reduce imports. Deposit → purity testing/refining → gold-denominated account/claim → permitted use by banks; original jewellery is melted, so emotional attachment and trusted valuation affect participation.\n- **26 March 2025:** new medium/long-term government deposits, including renewals, discontinued; existing deposits continue under their terms. Short-term bank deposits remain at individual banks' discretion. Terms: short 1–3 years; medium 5–7; long **12–15**, rejecting the source table's 7–12. Short-term maturity redemption may be gold or rupee equivalent according to option/terms; government-deposit interest/redemption rules differ. [RBI updated directions](https://rbi.org.in/scripts/NotificationUser.aspx?Id=10084).\n- The source's SLR practice explanation is wrong: eligible gold stock on a bank's books can count toward general SLR requirements; lending use does not logically exclude SLR eligibility. [Official launch explanation](https://www.pib.gov.in/newsite/printrelease.aspx?lang=2&reg=48&relid=130202).\n- Benefits depend on uptake: reduce imported physical demand, formalise savings, improve liquidity and external balance. Constraints: collection costs, assaying/refining reach, low awareness/returns, trust and attachment. Source treats SGBs as discontinued; lack of new issuance should not be read as cancellation of existing bonds and their obligations.\n- Its 2019 question asks objectives: monetise holdings/reduce import bill, not export promotion/fiscal-deficit targets; printed label is **UPSC ESE 2019 Paper 1**, so excluded from CSE banks. Unyearred practice MCQs remain revision material only."
     }
   ]
 }

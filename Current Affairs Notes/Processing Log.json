@@ -5091,7 +5091,19 @@
     {
       "date": "2025-10-08",
       "pdf": "2025/10-October/2025-10-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3a44810988d0ad15b50184e7a21a104035a2219e12737eaea441f2642840d4c1",
+      "pages": 22,
+      "topic_ids": [
+        "assisted-dying",
+        "gold-monetisation",
+        "nobel-medicine-2025",
+        "nobel-physics-2025",
+        "sri-lanka-swell-shield",
+        "xenobiology"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-09",
@@ -6725,7 +6737,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-10-08",
+  "next_pdf": "2025-10-09",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
