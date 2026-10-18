@@ -30,7 +30,11 @@
 - FY2020→FY2024 source exports: **apparel US$15.5→14.5 billion; cotton/home textiles US$10.2→12.3 billion**; total **33.4→34.1** already recorded. US/EU major markets; brand examples **JCPenney/Gap/Decathlon**, home-textile firms **Welspun/Trident**. Claimed **Vietnam US$40 billion apparel (2023)** may conflate apparel with wider textiles.
 - Sustainability: traceability, clean power, recycling and responsible sourcing; source **16 EU rules in 2021–24** needs instrument-level verification. Recycling-market **India US$400 million/global US$7.5 billion**, **148 million tonnes waste by 2030** and **under 25% recycled** are projections/undefined-scope estimates, not guaranteed outcomes. Assist MSMEs with standards/finance while measuring actual environmental performance.
 
+## September GST reform and man-made fibre inputs
+- **Inverted duty structure:** higher tax on inputs than outputs leaves accumulated input credit and can strain working capital, especially MSMEs. Clipping highlights **PTA, MEG and PET scrap**, recycling into polyester/MMF and slow refunds; estimated **1.25 lakh tonnes/month** PET-recycling capacity is a source industry estimate, not verified actual monthly output.
+- The PDF's generic **18% inputs/5% finished textiles** simplifies product-specific HSN rates. It predates implementation of the September reform; **56th GST Council, 3 September 2025**, recommended **MMF 18%→5%, MMF yarn 12%→5%**, effective with relevant notifications from **22 September**. At this issue date, these changes were announced/prospective. [Textiles Ministry response](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163905&lang=1&reg=1), [September 17 backgrounder](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc2025917639401.pdf).
+- Lower fibre/yarn rates reduce one inversion; they do not prove every upstream chemical/recycled-feedstock mismatch or refund delay disappears. Distinguish fibre, yarn, fabric and chemical inputs before assessing tax neutrality, competitiveness and circular-economy effects.
 
 ## PDF coverage
 
-2025-02-28: pp. 8, 9, 10, 11, 12 · 2025-03-31: pp. 2, 3 · 2025-06-08: pp. 11, 12, 13, 14, 15, 16, 17, 18
+2025-02-28: pp. 8, 9, 10, 11, 12 · 2025-03-31: pp. 2, 3 · 2025-06-08: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-09-17: pp. 5, 6

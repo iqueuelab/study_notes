@@ -28,7 +28,11 @@
 - Pay at least the higher of actual comparable-worker wage and prevailing wage. [US Department of Labor](https://www.dol.gov/agencies/whd/immigration/h1b).
 - Green-card sponsorship is possible, not guaranteed; country backlogs matter. Indian skills/remittances/network benefits coexist with mobility, bargaining-power and domestic skill-retention concerns.
 
+## September 2025: new-petition payment controversy
+- The embedded clipping distinguishes a **one-time US$100,000 payment for new applications** from an annual payment or a charge on every existing visa holder. The **19 September proclamation**, effective **21 September 2025**, imposed a time-limited entry/petition restriction with exceptions; official clarification excluded prior petitions and current valid visa holders. This records the September policy, not present immigration advice. [Proclamation](https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/), [official clarification](https://www.whitehouse.gov/releases/2025/09/h-1b-faq/).
+- Existing notes cover caps, qualifying exemptions, relevant degree, LCA/wages and ordinary three-/six-year periods. **Not every H-1B employer must conduct a blanket labour-market shortage test** as the coaching text claims; special employer obligations differ. Permanent residence remains separately conditional.
+- Implications: higher deployment costs and uncertainty for Indian IT firms/skilled workers, talent circulation, remittances and bilateral confidence; firm responses and actual job displacement require evidence.
 
 ## PDF coverage
 
-2025-01-22: pp. 1, 2, 3, 4, 5, 17, 18 · 2025-01-26: pp. 7, 8 · 2025-01-29: pp. 1, 2, 3, 4, 5, 6 · 2025-03-05: pp. 1, 2, 3, 4, 5
+2025-01-22: pp. 1, 2, 3, 4, 5, 17, 18 · 2025-01-26: pp. 7, 8 · 2025-01-29: pp. 1, 2, 3, 4, 5, 6 · 2025-03-05: pp. 1, 2, 3, 4, 5 · 2025-09-22: pp. 12, 13

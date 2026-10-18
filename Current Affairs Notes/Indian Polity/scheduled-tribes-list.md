@@ -7,6 +7,11 @@
 - **Fifth Schedule /Article 244(1)**: Scheduled Areas and ST administration outside **Assam, Meghalaya, Tripura and Mizoram**; “except Northeast” is too broad. **Sixth Schedule /244(2)**: specified tribal areas in those four States, with autonomous district/regional councils. Governor/TAC safeguards and local autonomy are not State boundary-making powers.
 - **2015 PYQ: (a)**—Fifth/Sixth Schedules protect ST interests. **2024 PYQ: (b), statement 2 only**—Governor does not declare a community ST; recognition is State-specific. Criteria reform and competing inclusion demands require evidence, fair consultation and protection of existing communities.
 
+## Kurmi mobilisation: September 2025
+- The issue reports **rail blockades in Jharkhand** demanding **Scheduled Tribe status** and inclusion of **Kurmali in the Eighth Schedule**, despite prohibitory orders. Earlier mobilisation across Jharkhand, West Bengal, Odisha and Bihar supplies context; demands are not completed legal recognition.
+- Kurmis are associated with agrarian livelihoods; Kurmali is an **Indo-Aryan language** spoken particularly in Jharkhand and adjoining eastern regions. Regional Kurmi/Kudmi/Kunbi names and State-specific reservation categories must not be collapsed into one uniform all-India legal identity.
+- The source's Kshatriya descent/etymology accounts are community traditions, not established proof of ST eligibility; its sweeping gender-equity and work-ethic characterisations should not stereotype an entire community. General Article 342 procedure and Lokur/Panda debates are already covered in the 16 September notes.
+
 ## PDF coverage
 
-2025-09-16: pp. 10, 11, 12, 13
+2025-09-16: pp. 10, 11, 12, 13 · 2025-09-22: pp. 4, 5, 6, 7, 8

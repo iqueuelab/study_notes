@@ -7,6 +7,10 @@
 - Source conservation status: **IUCN Vulnerable; Schedule I, Wild Life (Protection) Act**. Local conflict does not establish a growing population across the species' range.
 - **PYQ 2023 revision:** lion-tailed macaque is diurnal; Malabar civet is nocturnal; sambar often crepuscular/nocturnal. Answer **only two** active mainly after sunset.
 
+## Kerala poisoning concern
+- Embedded clipping reports **nine bonnet macaques found dead in the Kerala capital**, raising suspicion of poisoning. Suspicion is not a confirmed toxicology finding or identified perpetrator.
+- Existing notes cover species ecology, IUCN Vulnerable/Schedule I status and the proposed sterilisation response. Local nuisance reports do not prove growth across the species' declining range; waste/feeding management, veterinary permissions and welfare monitoring remain relevant.
+
 ## PDF coverage
 
-2025-07-01: pp. 1, 2, 3
+2025-07-01: pp. 1, 2, 3 · 2025-09-23: pp. 3, 4

@@ -12,6 +12,13 @@
 - Interests: resilient routes, Afghan assistance, Central Asian access and autonomous diplomacy; constraints: US sanctions exposure, banking/insurance, regional conflict, security, financing and incomplete links.
 - Seek clear transaction-specific compliance/waiver arrangements, phased commercial viability, diversified corridors and regional consultation. Describe Chabahar–Gwadar competition without reducing every economic partnership to an anti-China alliance.
 
+## September 2025: withdrawal of sanctions exception
+- **16 September 2025:** US State Department announced revocation of the **2018 IFCA exception** for Afghanistan reconstruction/economic development, **effective 29 September 2025**. The announcement and future effective date must remain distinct. [Indian parliamentary confirmation](https://sansad.in/getFile/annex/270/AU723_MQYlMP.pdf?source=pqars).
+- Raises sanctions, banking, insurance and investment risks for India's Shahid Beheshti terminal operations and Afghanistan/Central Asian connectivity. It does not establish an immediate physical closure or a worldwide legal prohibition on every port transaction.
+- The issue reports **₹200 crore invested of ₹400 crore planned** and a **43% vessel-traffic rise in 2023–24**: dated measures, not the complete lifetime financial commitment or present throughput. The ten-year 2024 operating agreement is already covered; it should not be mislabelled sovereignty over the port.
+- Responses discussed: negotiate clear relief, protect humanitarian connectivity, phase investment and diversify corridors. China–Iran cooperation and India–US tensions are context; the source's $400-billion China–Iran claim is a prospective framework figure, not verified disbursed investment.
+- PYQ recall: **2017 Chabahar—(c), access to Afghanistan/Central Asia without Pakistan; 2016 BRI—(d), China**. Silk Road Economic Belt is the land component; Maritime Silk Road the sea component.
+
 ## PDF coverage
 
-2025-02-09: pp. 9, 10, 11, 12, 13
+2025-02-09: pp. 9, 10, 11, 12, 13 · 2025-09-19: pp. 9, 10, 11

@@ -152,6 +152,18 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "b"
+    },
+    {
+      "year": 2012,
+      "chapter": "CAG: independence, appointment and public audit",
+      "question": "In India, other than ensuring that public funds are used efficiently and for intended purpose, what is the importance of the office of the Comptroller and Auditor General (CAG)?\n1. CAG exercises exchequer control on behalf of the Parliament when the President of India declares national emergency / financial emergency.\n2. CAG reports on the execution of projects or programmes by the ministries are discussed by the Public Accounts Committee.\n3. Information from CAG reports can be used by investigating agencies to press charges against those who have violated the law while managing public finances.\n4. While dealing with the audit and accounting of government companies, CAG has certain judicial powers for prosecuting those who violate the law.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1, 3 and 4 only",
+        "b": "2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "c"
     }
   ]
 }

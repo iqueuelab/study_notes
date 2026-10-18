@@ -20,6 +20,11 @@
 - **Flowering Man** best non-feature; **God Vulture and Human** documentary; **Giddh The Scavenger** short film. 2025 announcement differs from 2023 film/award reference year. [Official announcement](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2151537&lang=2&reg=48).
 - Practice key wrongly accepts “instituted 1953”; distinguish film year and award establishment.
 
+## Mohanlal: Dadasaheb Phalke Award for 2023
+- Government announced **Mohanlal** on **20 September 2025** for the **2023 award**, with presentation scheduled at the 71st National Film Awards on 23 September. Announcement, award reference year and presentation year differ. [I&B announcement](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2169029&lang=2&reg=48).
+- India's highest cinema honour recognises lifetime contribution; instituted **1969**, first recipient **Devika Rani**. Dadasaheb Phalke, born **30 April 1870 at Trimbak**, directed **Raja Harishchandra (1913)**, India's first full-length feature film. 1969 preceded the centenary year 1970; do not imply 1969 was the literal 100th birth anniversary.
+- **Swarna Kamal, shawl and ₹15 lakh**, correcting the issue's stale ₹10 lakh. [Official National Film Awards regulations](https://mib.gov.in/sites/default/files/2025-03/70th_nfa_regulation-english-1.pdf).
+
 ## PDF coverage
 
-2025-08-02: pp. 1, 2, 93, 94
+2025-08-02: pp. 1, 2, 93, 94 · 2025-09-22: pp. 1, 2

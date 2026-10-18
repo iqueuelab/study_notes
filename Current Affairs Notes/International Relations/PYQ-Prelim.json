@@ -311,6 +311,30 @@
         "d": "WTO"
       },
       "answer": "b"
+    },
+    {
+      "year": 2017,
+      "chapter": "Chabahar: connectivity, sanctions and strategic autonomy",
+      "question": "What is the importance of developing Chabahar Port by India?",
+      "options": {
+        "a": "India’s trade with African countries will enormously increase.",
+        "b": "India’s relations with oil-producing Arab countries will be strengthened.",
+        "c": "India will not depend on Pakistan for access to Afghanistan and Central Asia.",
+        "d": "India will protect the installation of a gas pipeline between Iraq and India."
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2016,
+      "chapter": "Chabahar: connectivity, sanctions and strategic autonomy",
+      "question": "‘Belt and Road Initiative’ is sometimes mentioned in the news in the context of the affairs of:",
+      "options": {
+        "a": "African Union",
+        "b": "Brazil",
+        "c": "European Union",
+        "d": "China"
+      },
+      "answer": "d"
     }
   ]
 }

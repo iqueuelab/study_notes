@@ -45,6 +45,12 @@
 - The bilateral aim remained a **first trade-agreement tranche by fall 2025**. “Fall” should not be redefined as the end of the calendar year; an aim is not a guaranteed deadline. A possible Quad visit was also unconfirmed in this issue.
 - Existing defence/space cooperation provides reasons to stabilise ties, but the issue's “unaffected” label is too categorical. **50%** referred to covered goods under combined US measures, with exceptions; the source's August oil imports near **2 million barrels/day** are a dated estimate, not a legal requirement or present flow.
 
+## UNGA engagement amid trade and visa tensions
+- Issue reports **Jaishankar–Rubio engagement at the 80th UNGA in New York**, seeking sustained discussion of bilateral/international priorities and renewed trade talks. Strategic cooperation in defence, technology, space and the Indo-Pacific coexists with market-access and migration disputes; engagement is not a signed trade settlement.
+- Source lists tariff pressure, new H-1B payment rules, Chabahar sanctions-waiver changes and disputes over US claims about the India–Pakistan ceasefire. **50% tariffs are not universal across all goods**; the **US$100,000** headline must retain the new-petition scope explained in H-1B notes. Alleged visa actions linked to investigations are not convictions.
+- A proposed **Delhi Quad summit in November** was prospective/unconfirmed in this issue. The text's completed Modi–Trump phone-call narrative is not independently established here; distinguish earlier public messages and plans for further contact from a verified completed call.
+- Mains: preserve negotiation channels, diversify trade/energy exposure, protect skilled mobility and retain strategic autonomy while advancing mutually useful cooperation.
+
 ## PDF coverage
 
-2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6 · 2025-09-06: pp. 10, 11, 12 · 2025-09-11: pp. 11, 12
+2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6 · 2025-09-06: pp. 10, 11, 12 · 2025-09-11: pp. 11, 12 · 2025-09-23: pp. 1, 2

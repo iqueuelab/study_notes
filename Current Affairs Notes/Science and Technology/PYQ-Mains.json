@@ -5,7 +5,9 @@
     {
       "chapter": "Antimicrobial resistance: containment and research",
       "year": 2014,
-      "question": "Can overuse and free availability of antibiotics without Doctor’s prescription, be contributors to the emergence of drug-resistant diseases in India? What are the available mechanisms for monitoring and control? Critically discuss the various issues involved."
+      "question": "Can overuse and free availability of antibiotics without Doctor’s prescription, be contributors to the emergence of drug-resistant diseases in India? What are the available mechanisms for monitoring and control? Critically discuss the various issues involved.",
+      "marks": 12.5,
+      "word_limit": 200
     }
   ]
 }

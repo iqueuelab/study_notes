@@ -4778,32 +4778,101 @@
     {
       "date": "2025-09-17",
       "pdf": "2025/09-September/2025-09-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b7e89ce1b9d1c396879fe0638865d9e22e2da453da09bb0f2233957550abd4e4",
+      "pages": 10,
+      "topic_ids": [
+        "nistar",
+        "scst-atrocities",
+        "semaglutide",
+        "textile-industry",
+        "trishakti-route-march"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-18",
       "pdf": "2025/09-September/2025-09-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "eacdd24b4ddf0c7011d056065ca7f8910862a8b2ce55e1952bef3bfb5c2d4e85",
+      "pages": 13,
+      "topic_ids": [
+        "cag",
+        "dnt-seed",
+        "eaeu",
+        "tiger-conservation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-19",
       "pdf": "2025/09-September/2025-09-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fc39127a8d37f39c8db9df5bc12ed834e204399f54020017f928cdcd259effb0",
+      "pages": 11,
+      "topic_ids": [
+        "chabahar",
+        "fentanyl-crisis",
+        "ncst",
+        "plasticisers"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-20",
       "pdf": "2025/09-September/2025-09-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7227d107b390713820dc5ceeffc6eb46a90a3105d589f587cbb0799c315c3a38",
+      "pages": 11,
+      "topic_ids": [
+        "adamya-fpv",
+        "pamba-river",
+        "saudi-pakistan-defence-pact",
+        "uapa"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-22",
       "pdf": "2025/09-September/2025-09-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "65bfb56727c2412097fdb18f0fd4495f0e7aed6f6ab8e3dbabc8fc4ac8724012",
+      "pages": 18,
+      "topic_ids": [
+        "banjaras",
+        "blue-green-ammonia",
+        "h1b",
+        "isobutanol-diesel",
+        "meghalaya-uranium-consultation",
+        "national-film-awards",
+        "peace-prizes",
+        "scheduled-tribes-list",
+        "uranium-enrichment"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-23",
       "pdf": "2025/09-September/2025-09-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "af9a1bf3ab5d2e2fdaf8a822b61650b45181bc04b629ab7bee111ddb39a6179f",
+      "pages": 20,
+      "topic_ids": [
+        "arnala",
+        "biosimilars",
+        "bonnet-macaque",
+        "ethanol-maize",
+        "india-morocco-defence",
+        "india-us",
+        "naval-platforms"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-24",
@@ -6507,7 +6576,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-09-17",
+  "next_pdf": "2025-09-24",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -6584,6 +6653,11 @@
       "date": "2025-09-14",
       "status": "missing_source",
       "evidence": "No standalone 2025-09-14.pdf in source inventory. All 27 pages of physical 2025-09-15.pdf inspected: first-page banner reads 15th Sept. 2025, no combined 14/15 September label. September 14 inauguration/news is covered under physical September 15 issue; it does not establish a separate September 14 issue."
+    },
+    {
+      "date": "2025-09-21",
+      "status": "missing_source",
+      "evidence": "No standalone 2025-09-21.pdf is listed in the September collection. Page 1 image of the adjacent 2025-09-22.pdf explicitly labels “22th Sept. 2025”; it has no combined 21–22 September label. Page 1 of 2025-09-23.pdf labels 23th Sept. 2025. Physical file-date coverage retained; no 21 September notes invented."
     }
   ]
 }

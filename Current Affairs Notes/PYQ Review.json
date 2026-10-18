@@ -870,7 +870,7 @@
     },
     {
       "date": "2025-09-15",
-      "note": "Complete new FDI 2020/2011, NGT 2018, MDR 2019 and antibiotic Mains 2014 questions transcribed. Existing 2024 apple and 2023 PLI questions not duplicated. Source prints 250 words/15 marks for 2014 antibiotic question; preserved in this review record only, excluded from bank fields pending original-paper verification because it conflicts with the 2014 paper format. Undated mediation 150-word/10-mark question is practice, not banked. Primary-source corrections: 2025 immigration commencement, exemption versus citizenship cutoff, forest/non-forest bamboo, PLI commitments versus spending; FDI units rejected. No combined Sep14 date banner found."
+      "note": "Complete new FDI 2020/2011, NGT 2018, MDR 2019 and antibiotic Mains 2014 questions transcribed. Existing 2024 apple and 2023 PLI questions not duplicated. Original 2014 GS-III question 11 verified: 200 words/12.5 marks; source 250 words/15 marks rejected and common bank corrected. Undated mediation 150-word/10-mark question is practice, not banked. Primary-source corrections: 2025 immigration commencement, exemption versus citizenship cutoff, forest/non-forest bamboo, PLI commitments versus spending; FDI units rejected. No combined Sep14 date banner found."
     },
     {
       "date": "2025-09-16",
@@ -879,6 +879,30 @@
     {
       "date": "2025-09-17",
       "note": "ACE2 2021, Bollgard 2022 and B/T-cells 2022 questions already banked with embedded options; no duplicate. Semaglutide/WHO EML background fully covered in existing topic (EML update 5 September 2025, not May 2024); additions blank. Tirzepatide/semaglutide question is practice. Nistar and SC/ST sections repeat September 16 verbatim: coverage retained with blank additions. GST rates dated around forthcoming 22 September changes."
+    },
+    {
+      "date": "2025-09-15",
+      "note": "Complete new FDI 2020/2011, NGT 2018, MDR 2019 and antibiotic Mains 2014 questions transcribed. Existing 2024 apple and 2023 PLI questions not duplicated. Source prints 250 words/15 marks for 2014 antibiotic question; preserved in this review record only, excluded from bank fields pending original-paper verification because it conflicts with the 2014 paper format. Undated mediation 150-word/10-mark question is practice, not banked. Primary-source corrections: 2025 immigration commencement, exemption versus citizenship cutoff, forest/non-forest bamboo, PLI commitments versus spending; FDI units rejected. No combined Sep14 date banner found."
+    },
+    {
+      "date": "2025-09-18",
+      "note": "Full 2012 CAG CSE question, numbered statements, four options and supplied answer added after subject-bank check. No dated mains PYQ. Page 13 is blank decorative back page and was reviewed."
+    },
+    {
+      "date": "2025-09-19",
+      "note": "BPA 2021 already banked under Social Problems In India; not duplicated. NCBC/NHRC/Law Commission/NCDRC 2023 CSE panel lacks three options: held for review, no invented options. MPSC 2022 panel excluded as non-CSE. Full Chabahar 2017 and BRI 2016 questions/options added; undated fentanyl practice excluded."
+    },
+    {
+      "date": "2025-09-20",
+      "note": "SSC 2023, NDA 2019 and CAPF AC 2014 panels excluded from CSE common banks; useful explanations retained. Full 2019 UAPA/NIA mains PYQ preserves 250-word/15-mark limits; Hindi rendering is the same question, not a second entry. No CSE prelims question in this issue."
+    },
+    {
+      "date": "2025-09-22",
+      "note": "Read all 18 pages and every page image including clipping/diagrams. 2015 Indira prize, 2025 Gandhi jury and 2023 uranium question already banked; 2015 Fifth/Sixth, 2024 ST and 2016 Banjaras now present in peer result-03, so not duplicated. BPSC65th uranium question excluded from UPSC CSE banks. No dated mains PYQ. Sep21 gap retained because Sep22 cover has only its own issue date."
+    },
+    {
+      "date": "2025-09-23",
+      "note": "All 20 page images/full text reviewed. 2023 nocturnal fauna, 2019 sea pairs, 2016 Astradharini and 2025 ethanol questions already in subject banks (Astradharini already duplicated across two subjects in baseline; no new duplicate). RPSC2015 straits excluded. 2014 maize stem is complete but source options differ from standard paper reproductions: source has a=1 and 2 only,b=3 only,c=1 and 3 only,d=1,2,3; standard reproductions a=1 only,b=1 and 2 only,c=2 and 3 only,d=1,2,3. Pending original-paper verification, retained concept/answer in notes and flagged options for review, not inserted an altered CSE question. No dated mains PYQ."
     }
   ],
   "resolved": [
@@ -923,6 +947,13 @@
       "answer": "b",
       "resolution": "Verified official 2014 Prelims GS-I, question 83, physical page 36; source printed 2016 is wrong.",
       "verified_year": 2014
+    },
+    {
+      "year": 2014,
+      "question": "Can overuse and free availability of antibiotics without Doctor’s prescription, be contributors to the emergence of drug-resistant diseases in India? What are the available mechanisms for monitoring and control? Critically discuss the various issues involved.",
+      "resolution": "Saved official 2014 Mains GS-III: question 11 on physical page 3; page 2 instructions specify not more than 200 words, equal marks, 12.5 × 20 = 250. Source 250 words/15 marks rejected.",
+      "marks": 12.5,
+      "word_limit": 200
     }
   ],
   "practice_reviewed": [

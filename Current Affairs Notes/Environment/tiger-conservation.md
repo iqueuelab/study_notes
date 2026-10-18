@@ -86,7 +86,12 @@
 - FRA rights recognition and lawful critical-wildlife-habitat procedures matter; national-park notification alone does not automatically extinguish forest rights or authorise displacement.
 - Stronger habitat enforcement must accompany corridors, conflict response, trained staff, community consultation and regulated tourism. Climate risks remain; Aichi targets are the earlier framework, not a new 2025 target cycle.
 
+## September 2025: alleged transnational poaching network
+- A Supreme Court bench led by CJI B. R. Gavai issued notices to the Union, Maharashtra, CBI and NTCA on Gaurav Kumar Bansal's petition seeking a CBI investigation into an alleged Maharashtra–Madhya Pradesh tiger-poaching network. **A request/notice is not an order transferring the investigation.**
+- Maharashtra SIT findings cited in the petition concern trafficking of bones, skins and claws, including alleged bone-glue demand in Southeast Asia/Myanmar and hawala links. These are investigative allegations, not convictions or proof that a medicinal claim works.
+- WCCB's reported **February 2025 red alert** urged stronger reserve vigilance. Interstate financial trails, CITES cooperation, forensic evidence and coordinated patrols are relevant; habitat corridors also maintain genetic exchange.
+- Pages 9–11 repeat tiger basics already retained with corrections: **2022 estimate 3,682 (range 3,167–3,925)**, not 3,167 in 2024; NTCA's statutory foundation is **2006**, not 2005; dated reserve counts, uniform compensation, TOES and the subspecies-status table must not be treated as a verified current register. CITES Appendix I and section 9 have defined exceptions.
 
 ## PDF coverage
 
-2025-01-01: pp. 25, 26, 27 · 2025-02-01: pp. 4, 5, 6, 7, 8, 9 · 2025-02-10: pp. 12, 13 · 2025-02-17: pp. 5, 6, 7, 8, 9, 10, 19, 20 · 2025-03-10: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 · 2025-04-17: pp. 8, 9, 10, 11, 12, 13, 14, 15, 16 · 2025-04-29: pp. 1, 2, 3
+2025-01-01: pp. 25, 26, 27 · 2025-02-01: pp. 4, 5, 6, 7, 8, 9 · 2025-02-10: pp. 12, 13 · 2025-02-17: pp. 5, 6, 7, 8, 9, 10, 19, 20 · 2025-03-10: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 · 2025-04-17: pp. 8, 9, 10, 11, 12, 13, 14, 15, 16 · 2025-04-29: pp. 1, 2, 3 · 2025-09-18: pp. 8, 9, 10, 11

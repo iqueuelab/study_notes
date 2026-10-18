@@ -14,6 +14,13 @@
 - Treat allegations involving activists/journalists/students as allegations; peaceful dissent is not by itself proof of terrorism.
 - Safeguards: precise statutory grounds, evidentiary scrutiny, lawful arrest/remand, independent oversight, timely trials, reasoned review and accountability. Security and fundamental rights require effective institutions.
 
+## September 2025: tribunal review of association bans
+- Embedded clipping reports **two UAPA tribunals upheld bans on Awami Action Committee (AAC), headed by Mirwaiz Umar Farooq, and Jammu and Kashmir Ittihadul Muslimeen (JKIM), led by Masroor Abbas Ansari**. Tribunal headed by Justice Sachin Datta found sufficient cause for the March 2025 unlawful-association notifications under **section 3(1)**.
+- Tribunal confirmation addresses statutory association-ban review, not criminal conviction of every member. Allegations of secessionist links/terror support cited by the government and tribunal must not become assumptions about all political dissent.
+- Pages 6–8 repeat UAPA basics; existing notes distinguish preventive detention from criminal remand, individual terrorist designation from arrest/conviction, and the conditional **90-to-180-day investigation extension**. The 2019 change enabled individual terrorist listing; do not infer it made every security allegation automatically terrorism.
+- **2019 mains PYQ (250 words, 15 marks)**: evaluate UAPA/NIA amendments against the security setting and rights objections. Discuss individual designation, NIA investigation/seizure powers, financing and cross-border threats alongside evidence, due process, bail/trial delay and independent oversight.
+- Original **11 March 2025** government declarations specified **five-year bans** under section 3(1); confirmation is a later review step. [MHA declaration record](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2110470&lang=2&reg=48).
+
 ## PDF coverage
 
-2025-01-10: pp. 15, 16, 17, 26, 30 · 2025-03-01: pp. 14, 15, 16, 17
+2025-01-10: pp. 15, 16, 17, 26, 30 · 2025-03-01: pp. 14, 15, 16, 17 · 2025-09-20: pp. 6, 7, 8

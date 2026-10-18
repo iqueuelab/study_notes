@@ -44,6 +44,11 @@
 - A New Delhi national conference renewed the demand for a **permanent national commission for DNT/NT/SNT welfare**, and urged Parliament to address classification and inherited stigma. This repeats an Idate recommendation; it does not mean a new statutory commission was created.
 - Source SEED eligibility: family income **up to ₹2.5 lakh/year**, subject to exclusion of overlapping equivalent benefits. Existing notes retain the scheme's coaching, health, livelihood and housing components and distinguish the **2019 welfare board** from a permanent commission.
 
+## September 2025: welfare-board capacity
+- Board members' 2024 letter, reported in this issue, sought staff, financial powers, a dedicated budget, pay parity and legal recognition of community classifications. The source describes two serving members, inadequate office space and no full-time chair: dated reported conditions, not permanent institutional features.
+- Strengthen certificate access, State-specific community data, portable housing/education/livelihood support and measurable SEED uptake. The demand for a permanent statutory commission remains a proposal; SC/ST/OBC commissions already cover some communities, but mobility, stigma and unclassified status create distinct gaps.
+- Source comparison with SC/ST/OBC commissions needs care: those national commissions have constitutional status; DWBDNC is a registered society. Existing notes correct SEED's launch to February 2022, distinguish the 2021–22 funding period and preserve qualified community estimates; pages 3–4 repeat the earlier permanent-commission demand.
+
 ## PDF coverage
 
-2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42 · 2025-01-29: pp. 20, 21, 22, 23 · 2025-03-21: pp. 25, 26, 27, 28 · 2025-08-04: pp. 8, 9, 10
+2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42 · 2025-01-29: pp. 20, 21, 22, 23 · 2025-03-21: pp. 25, 26, 27, 28 · 2025-08-04: pp. 8, 9, 10 · 2025-09-18: pp. 1, 2, 3, 4

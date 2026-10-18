@@ -15,6 +15,11 @@
 - Centrifugation uses the small mass difference between uranium isotopes, rather than different chemistry. The schematic force relationship is **F = m r ω²**; high-strength rotor materials withstand large mechanical stresses.
 - 2023 PYQ: India's coal dependence is correct; the assertion that electricity generation requires **at least 60% enriched uranium is incorrect (c)**. Conventional Indian PHWRs use natural uranium, while typical LWR fuel is around 3–5% U-235.
 
+## Centrifuge process and resource distinctions
+- **Uranium hexafluoride (UF₆) gas → high-speed centrifuge → repeated cascade stages**: heavier U-238-bearing molecules preferentially concentrate outward; the lighter stream is progressively enriched. Source rotor speed **about 50,000 rpm** is illustrative, not a universal specification. High-strength/lightweight rotors withstand stresses.
+- Existing notes distinguish natural-uranium PHWRs, typical 3–5% LWR fuel and the false 2023 assertion that electricity requires at least 60%. **HEU starts at 20% U-235**, while weapons-grade conventionally refers to around 90%; 60% is not itself the universal weapons-grade definition.
+- Source identifies **Kazakhstan** as leading mined-uranium producer and **Australia** with largest known recoverable resources; production/resource/consumption are different measures with dated ranks. Its unqualified “France largest consumer” claim is unsupported and should not be memorised; reactor fleet size or share of domestic electricity does not establish largest global uranium demand.
+
 ## PDF coverage
 
-2025-03-31: pp. 8, 9, 10, 11 · 2025-06-14: pp. 5, 6, 7, 8, 9 · 2025-06-25: pp. 3, 4, 5, 6, 7
+2025-03-31: pp. 8, 9, 10, 11 · 2025-06-14: pp. 5, 6, 7, 8, 9 · 2025-06-25: pp. 3, 4, 5, 6, 7 · 2025-09-22: pp. 15, 16, 17, 18
