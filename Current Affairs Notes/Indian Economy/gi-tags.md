@@ -36,6 +36,11 @@
 - **Traditional-knowledge patent examples:** turmeric wound-healing patent revoked after prior-art challenge; neem antifungal patent revoked in Europe; RiceTec/Basmati controversy concerned patent claims and naming issues. Avoid describing all as identical GI disputes or implying the RiceTec patent was wholly cancelled.
 - Responses: searchable authentic-product databases, producer/authorised-user capacity, foreign-market registration where useful, enforcement, ethical brand–artisan collaboration and benefit-sharing. The issue's 658 GI figure lacks a clear matching date/count definition; do not replace the existing dated registry figures with it.
 
+## Kuttiyadi coconut: proposed GI
+- **Kuttiyadi, Kozhikode district, Kerala**: GI initiative by **Kerala Agricultural University and Kavilumpara Gram Panchayat**. A proposal is not a granted registration.
+- Source highlights thick kernels/oil yield, large nuts, seedling distribution, fruiting after about five years and long-lived palms; agronomic outcomes vary. **Mandari/coconut-mite infestation** reduces yield and creates procurement/price problems; origin protection needs pest control, quality assurance and producer benefits.
+- Existing GI Act/TRIPS, ten-year renewable registration and authorised-user notes apply. **2018 PYQ: WTO (d); 2015 GI-products PYQ: Banaras Brocades/Sarees and Tirupati Laddu, 1 and 3 (c)**.
+
 ## PDF coverage
 
-2025-04-04: pp. 3, 4, 5, 6, 7, 8 · 2025-06-27: pp. 1, 28, 29, 30, 31, 32 · 2025-07-01: pp. 18, 19, 20, 21
+2025-04-04: pp. 3, 4, 5, 6, 7, 8 · 2025-06-27: pp. 1, 28, 29, 30, 31, 32 · 2025-07-01: pp. 18, 19, 20, 21 · 2025-08-27: pp. 1, 2, 3

@@ -20,6 +20,11 @@
 - Better effective tariff assumptions, trade front-loading, improved financial conditions/weaker dollar and fiscal support explain the global upgrade; uncertainty, tariffs and geopolitics remain downside risks. Forecast is not realised output. [IMF overview](https://www.imf.org/en/Publications/WEO/Issues/2025/07/29/world-economic-outlook-update-july-2025).
 - Existing note's **191 members** remains correct for this source period; the PDF repeats stale 190. Existing bank already contains the **2016 Global Financial Stability Report→IMF** PYQ.
 
+## August 2025 Executive Director appointment
+- Embedded clipping reports approval of former RBI Governor **Urjit Patel** as IMF Executive Director for **three years**, replacing K. V. Subramanian; distinguish government nomination/appointment approval from the start of board service.
+- India's constituency includes **Bangladesh, Bhutan and Sri Lanka**; Executive Directors represent countries/constituencies, while IMF staff and Managing Director have different roles. The Board has **25 Executive Directors**, rather than treating every member country as holding its own seat.
+- Repeated institutional facts/reports add no new baseline material; the PDF's **190 members** is stale: IMF had **191 after Liechtenstein joined on 21 October 2024**. [IMF accession record](https://www.imf.org/en/news/articles/2024/10/21/pr-24387-liechtenstein-principality-of-liechtenstein-becomes-imfs-191st-member).
+
 ## PDF coverage
 
-2025-04-24: pp. 9, 10, 11, 12 · 2025-05-10: pp. 10, 11 · 2025-05-17: pp. 3, 4, 5, 6 · 2025-07-30: pp. 20, 21, 22, 23 · 2025-08-02: pp. 59, 60
+2025-04-24: pp. 9, 10, 11, 12 · 2025-05-10: pp. 10, 11 · 2025-05-17: pp. 3, 4, 5, 6 · 2025-07-30: pp. 20, 21, 22, 23 · 2025-08-02: pp. 59, 60 · 2025-08-30: pp. 3, 4

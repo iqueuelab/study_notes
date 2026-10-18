@@ -68,6 +68,30 @@
         "d": "Providing affordable and quality education to the citizens for free"
       },
       "answer": "d"
+    },
+    {
+      "chapter": "Gandhi Peace Prize and Indira Gandhi Prize",
+      "year": 2015,
+      "question": "Indira Gandhi Prize for Peace, Disarmament and Development for 2014 was given to which one of the following?",
+      "options": {
+        "a": "Bhabha Atomic Research Centre",
+        "b": "Indian Institute of Science",
+        "c": "Indian Space Research Organization",
+        "d": "Tata Institute of Fundamental Research"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Gandhi Peace Prize and Indira Gandhi Prize",
+      "year": 2025,
+      "question": "Who amongst the following are members of the Jury to select the recipient of ‘Gandhi Peace Prize’?\nI. The President of India\nII. The Prime Minister of India\nIII. The Chief Justice of India\nIV. The Leader of Opposition in the Lok Sabha\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "II and IV only",
+        "b": "I, II and III",
+        "c": "II, III and IV",
+        "d": "I and III only"
+      },
+      "answer": "c"
     }
   ]
 }

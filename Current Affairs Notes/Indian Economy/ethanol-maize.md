@@ -32,6 +32,12 @@
 - Editorial seeks clear manufacturer guidance, fuel-quality enforcement, transparent pricing/savings, older-vehicle mitigation and insurance clarity. E27 is described as a standards proposal, not proof universal rollout; source's **US$10billion annual import savings** and offsetting fertiliser bill are separate claims, not a verified net foreign-exchange account attributable solely to ethanol.
 - C-heavy molasses, broken/FCI rice and maize illustrate feedstock choices; “surplus” depends on stocks and competing food/feed demand. Practice **A (1 only)**; the PDF swaps the numbered statements in its explanation, despite the correct final answer.
 
+## Supreme Court declines E20 challenge
+- Source reports dismissal of **Akshay Malhotra's petition** seeking availability of ethanol-free petrol for older vehicles; bench **CJI B. R. Gavai and Justice K. Vinod Chandran** declined to interfere with fuel policy. A brief refusal is not a finding that every technical concern is false or that climate policy automatically overrides consumer rights.
+- Petition cited the NITI roadmap's approximate **6–7% four-wheeler/3–4% two-wheeler mileage reductions** for relevant older configurations; effects vary with materials and tuning. Not every pre-April-2023 vehicle has identical compatibility, and the PDF's near-universal 90,000-pump coverage is an issue-period claim.
+- Insurance denial is presented as a litigant concern, not established blanket policy: the government's **12 August 2025** clarification states E20 usage does **not affect validity of vehicle insurance**. Manufacturer warranty, technical compatibility, wear exclusions and insurance validity are separate questions. [Petroleum Ministry clarification](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2155558&lang=2&reg=3).
+- Transparent blend labelling, manufacturer guidance, fuel quality, older-vehicle support and lifecycle water/food–fuel assessment remain practical implementation issues; ethanol is not automatically carbon neutral. Existing notes cover E20 target/feedstocks and import-exposure rationale.
+
 ## PDF coverage
 
-2025-02-04: pp. 7, 8, 9 · 2025-02-27: pp. 14, 15, 16, 17, 18, 19, 20 · 2025-04-18: pp. 12, 13, 14, 15, 16, 17 · 2025-05-08: pp. 1, 2, 3, 4, 5, 6 · 2025-08-12: pp. 3, 4, 5
+2025-02-04: pp. 7, 8, 9 · 2025-02-27: pp. 14, 15, 16, 17, 18, 19, 20 · 2025-04-18: pp. 12, 13, 14, 15, 16, 17 · 2025-05-08: pp. 1, 2, 3, 4, 5, 6 · 2025-08-12: pp. 3, 4, 5 · 2025-09-02: pp. 3, 4

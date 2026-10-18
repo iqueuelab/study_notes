@@ -503,6 +503,42 @@
         "d": "Wheat and cotton"
       },
       "answer": "c"
+    },
+    {
+      "year": 2018,
+      "chapter": "Geographical indications: protection and producer livelihoods",
+      "question": "India enacted the Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to\n(a) ILO\n(b) IMF\n(c) UNCTAD\n(d) WTO",
+      "answer": "(d) WTO"
+    },
+    {
+      "year": 2015,
+      "chapter": "Geographical indications: protection and producer livelihoods",
+      "question": "Which of the following has/have been accorded ‘Geographical Indication’ status?\n1. Banaras Brocades and Sarees\n2. Rajasthani Daal-Bati-Churma\n3. Tirupathi Laddu\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "answer": "(c) 1 and 3 only"
+    },
+    {
+      "chapter": "Pradhan Mantri Jan Dhan Yojana and financial inclusion",
+      "year": 2015,
+      "question": "Pradhan Mantri Jan-Dhan Yojana has been launched for",
+      "options": {
+        "a": "providing housing loan to poor people at cheaper interest rates",
+        "b": "promoting women’s Self-Help Groups in backward areas",
+        "c": "promoting financial inclusion in the country",
+        "d": "providing financial help to the marginalized communities"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Honey Mission, beekeeping and honey exports",
+      "year": 2023,
+      "question": "Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?",
+      "options": {
+        "a": "Butterflies",
+        "b": "Dragonflies",
+        "c": "Honey Bees",
+        "d": "Wasps"
+      },
+      "answer": "c"
     }
   ]
 }

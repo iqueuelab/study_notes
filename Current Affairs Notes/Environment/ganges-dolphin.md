@@ -14,7 +14,10 @@
 - First national baseline does not alone prove a stable population trend. Dolphins can leave genetic evidence in water; “no DNA evidence possible”is wrong.
 - Bycatch, oil/blubber use, pollution and flow fragmentation need community-linked measures; reported annual 4–5%mortality is study-specific, not a universally verified national rate.
 
+## PYQ revision: threats
+- **2014 Prelims: (c), 1, 3 and 4 only**—dams/barrages, accidental fishing-net entanglement and agricultural-chemical pollution can reduce Ganges dolphin populations. An increase in crocodile numbers is not the corresponding established driver.
+- Source repeats earlier habitat/threat notes; retain **Platanista gangetica** and the distinction from Indus dolphin rather than reverting to older subspecies nomenclature.
 
 ## PDF coverage
 
-2025-03-04: pp. 10, 11, 12 · 2025-03-09: pp. 10, 11, 12, 13
+2025-03-04: pp. 10, 11, 12 · 2025-03-09: pp. 10, 11, 12, 13 · 2025-09-01: pp. 13

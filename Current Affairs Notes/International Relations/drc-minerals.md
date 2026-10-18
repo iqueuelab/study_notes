@@ -28,6 +28,10 @@
 - India: diversify battery/clean-tech inputs through joint processing, capacity building and responsible South–South investment; competition, political risk, pollution and community consent matter.
 - **2025 PYQ:** **Botswana–diamond; Chile–lithium; Indonesia–nickel** all match→**(c)**. Botswana's **Orapa/Jwaneng** mines, Chile's **Atacama** brines/Lithium Triangle and Indonesian downstream nickel policy aid map recall. The daily250-word15-mark Africa prompt is practice.
 
+## Recycled Goma clipping and resource competition
+- The issue recycles the **January 2025 Goma/M23 crisis** clipping; it should not be recorded as a fresh 27 August seizure. The US–China competition clipping concerns supply-chain influence, resources/infrastructure and efforts to secure battery minerals, rather than proof of an August transfer of mine ownership.
+- Existing mineral uses, dated cobalt shares, regional armed actors, responsible sourcing and **Dodd–Frank 3TG** qualifications apply. Repeated **2023 cobalt/Congo Basin and 2022 news-pairs** PYQs are already banked.
+
 ## PDF coverage
 
-2025-01-30: pp. 5, 6, 7, 8, 9, 10 · 2025-02-03: pp. 15, 16, 17, 18, 19, 20 · 2025-08-14: pp. 11, 12, 13, 14, 15
+2025-01-30: pp. 5, 6, 7, 8, 9, 10 · 2025-02-03: pp. 15, 16, 17, 18, 19, 20 · 2025-08-14: pp. 11, 12, 13, 14, 15 · 2025-08-27: pp. 18, 19, 20, 21 · 2025-08-28: pp. 1, 2, 3

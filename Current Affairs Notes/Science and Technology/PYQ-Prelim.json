@@ -492,6 +492,18 @@
       "chapter": "H1N1 influenza",
       "question": "H1N1 virus is sometimes mentioned in the news with reference to which one of the following diseases?\n(a) AIDS\n(b) Bird flu\n(c) Dengue\n(d) Swine flu",
       "answer": "(d) Swine flu"
+    },
+    {
+      "chapter": "Kulasekarapattinam spaceport and SSLV",
+      "year": 2018,
+      "question": "With reference to India’s satellite launch vehicles, consider the following statements:\n1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.\n2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.\n3. GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3",
+        "c": "1 and 2",
+        "d": "3 only"
+      },
+      "answer": "a"
     }
   ]
 }

@@ -587,6 +587,30 @@
       "chapter": "Wastewater surveillance and sewage treatment",
       "question": "In the context of solving pollution problems, what is/are the advantage/advantages of bioremediation technique?\n1. It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.\n2. Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.\n3. Genetic engineering can be used to create microorganisms specifically designed for bioremediation.\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
       "answer": "(c) 1 and 3 only"
+    },
+    {
+      "chapter": "Indian rosewood: conservation, timber trade and nitrogen fixation",
+      "year": 2016,
+      "question": "With reference to ‘Red Sanders’, sometimes seen in the news, consider the following statements:\n1. It is a tree species found in a part of South India.\n2. It is one of the most important trees in the tropical rain forest areas of South India.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Ganges river dolphin",
+      "year": 2014,
+      "question": "Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins?\n1. Construction of dams and barrages on rivers\n2. Increase in the population of crocodiles in rivers\n3. Getting trapped in fishing nets accidentally\n4. Use of synthetic fertilizers and other agricultural chemicals in crop fields in the vicinity of rivers\nSelect the correct answer using the code given below.",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1, 3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "c"
     }
   ]
 }

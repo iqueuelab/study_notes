@@ -21,6 +21,13 @@
 - The practice's statement 1 wrongly puts **Uzbekistan** in the **1996 Shanghai Five**, omitting **Tajikistan**. Therefore the printed **all four (d)** key is wrong: with statements 2, 3 and 4 as printed, **2, 3 and 4 only (b)** is correct. India/Pakistan joined in 2017; RATS is in Tashkent; Belarus became the tenth member in **2024**, not the explanation's 2023.
 - **2022 CSE PYQ: AIIB, MTCR and SCO—all three (d)**; the full repeated question is available for deduplication. SCO is a regional cooperation organisation, not an automatic collective-defence alliance.
 
+## Tianjin summit outcomes, 1 September 2025
+- **Tianjin Declaration** condemned attacks including **Pahalgam, Jaffer Express and Khuzdar**, and called against cross-border terrorist movement. Contrast with June's failure to agree a defence-ministers' statement; inclusion of Pahalgam does not mean the declaration formally named Pakistan as perpetrator.
+- Source highlights opposition to unilateral coercive economic measures, concern over Gaza civilian deaths, condemnation of attacks on Iran's nuclear facilities and an inclusive Afghan government. These are collective diplomatic positions, not creation of a collective-defence guarantee.
+- Ten full members remain unchanged; summit approved a decision to introduce **SCO Partner** status and abolish observer/dialogue-partner categories, initiating legal amendments. **Existing statuses continue pending entry into force**; Laos was granted dialogue-partner status by decision. Do not describe an instantaneous completed merger or call the reported **27-country SCO family** 27 full members. [SCO status explanation](https://eng.sectsco.org/20260306/2185663.html); [contemporaneous Laos decision](https://eng.sectsco.org/20250901/1961156.html).
+- China promoted the **Global Governance Initiative**, a development bank proposal, and announced source **¥2 billion grants/¥10 billion loans over three years**; pledges/proposals differ from disbursed funds or an operating bank.
+- India remained outside BRI endorsement owing to sovereignty concerns, including **CPEC through Pakistan-occupied Kashmir**. Engage Central Asia/security partners while preserving strategic autonomy and balancing differences with China/Pakistan; “anti-Western alliance” overstates SCO's legal character. **250-word/15-mark** question is undated practice.
+
 ## PDF coverage
 
-2025-06-20: pp. 3, 4, 5 · 2025-06-24: pp. 30, 31, 32, 33 · 2025-06-27: pp. 1, 2, 3, 4 · 2025-07-16: pp. 6, 7, 8 · 2025-08-23: pp. 6, 7, 8
+2025-06-20: pp. 3, 4, 5 · 2025-06-24: pp. 30, 31, 32, 33 · 2025-06-27: pp. 1, 2, 3, 4 · 2025-07-16: pp. 6, 7, 8 · 2025-08-23: pp. 6, 7, 8 · 2025-09-02: pp. 1, 2, 3

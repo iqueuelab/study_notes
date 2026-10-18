@@ -104,6 +104,18 @@
         "d": "The Supreme Court of India"
       },
       "answer": "d"
+    },
+    {
+      "chapter": "Minority educational institutions and the RTE Act",
+      "year": 2011,
+      "question": "In India, if a religious sect/community is given the status of a national minority, what special advantages it is entitled to?\n1. It can establish and administer exclusive educational institutions.\n2. The President of India automatically nominates a representative of the community to Lok Sabha.\n3. It can derive benefits from the Prime Minister’s 15-Point Programme.",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "c"
     }
   ]
 }

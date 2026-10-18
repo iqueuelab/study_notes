@@ -4447,37 +4447,120 @@
     {
       "date": "2025-08-27",
       "pdf": "2025/08-August/2025-08-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "32a64f2cbac9d363318b51274e98b69b41be1eff167fe63a411b19cfe518bde3",
+      "pages": 21,
+      "topic_ids": [
+        "amca",
+        "cocoa",
+        "coconut",
+        "cotton",
+        "drc-minerals",
+        "fighter-aircraft",
+        "gi-tags",
+        "left-wing-extremism",
+        "turmeric-board"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-28",
       "pdf": "2025/08-August/2025-08-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "36208afdb886333848e5a587464925f7a5b7d952fce37620516cb293ce20db3d",
+      "pages": 11,
+      "topic_ids": [
+        "drc-minerals",
+        "honey-mission",
+        "new-world-screwworm",
+        "pmjdy"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-29",
       "pdf": "2025/08-August/2025-08-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d33b41ba868799676cee554e2e46183200f2ada3473dd7743ccdc9b54a0646b3",
+      "pages": 18,
+      "topic_ids": [
+        "demographic-dividend",
+        "iip",
+        "krishna-godavari",
+        "kulasekarapattinam",
+        "mospi-data"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-30",
       "pdf": "2025/08-August/2025-08-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "f6dfe1738015e7bbd884af91b58dd94a2cd47ce0831c70cde910e4ddee16a1f0",
+      "pages": 13,
+      "topic_ids": [
+        "crocothemis-erythraea",
+        "crude-imports",
+        "fdi-india",
+        "imf-world-bank",
+        "india-japan-jcm"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-31",
       "pdf": "2025/08-August/2025-08-31.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "dad2f59ec77c61197042bbba761036dfe28245e2c25d73a504ba499a03db475e",
+      "pages": 10,
+      "topic_ids": [
+        "burmese-python",
+        "exercise-bright-star",
+        "export-promotion-mission",
+        "glanders",
+        "matsya-shakti",
+        "nari-womens-safety"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-01",
       "pdf": "2025/09-September/2025-09-01.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "46bbebf80f12a954cb43b95d414ca7c47f9ced07eb7a8c76d315738a8899488f",
+      "pages": 15,
+      "topic_ids": [
+        "employment-linked-incentive",
+        "ganges-dolphin",
+        "indian-rosewood",
+        "jk-statehood-federalism",
+        "orcas",
+        "peace-prizes",
+        "ramon-magsaysay-educate-girls"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-02",
       "pdf": "2025/09-September/2025-09-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "c3d755b34d47d56f0547f31d5db07c59caf398793794c5ea64bb8733fa5f8462",
+      "pages": 11,
+      "topic_ids": [
+        "adi-vaani",
+        "cerebo",
+        "ethanol-maize",
+        "minority-education-rte",
+        "shanghai-cooperation-organisation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-03",
@@ -6276,7 +6359,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-08-27",
+  "next_pdf": "2025-09-03",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

@@ -45,6 +45,12 @@
 - **Operation Green Hunt** is a common media label, not a reliable formal nationwide operation title. Poverty/tribal identity do not justify collective suspicion; lawful policing and accountability matter.
 - Adjacent **2009 Deepak Parekh Committee PYQ** concerns financing infrastructure, not minority socio-economic surveys.
 
+## Salwa Judum judgment and judicial independence
+- August clipping reports **18 retired judges** objected to Home Minister Amit Shah's comments on Justice **B. Sudershan Reddy**, who co-authored the **2011 Nandini Sundar v State of Chhattisgarh** judgment. Their statement warns misrepresentation/personal attacks may chill judicial independence; the assertion LWE would otherwise have ended before 2020 is political counterfactual, not an established result.
+- **Salwa Judum began in Chhattisgarh in 2005**. Court rejected use of inadequately trained tribal youth as armed SPOs for anti-Maoist operations, invoking **Articles 14 and 21**, and required cessation/disarming and protection/investigation. Rule of law and civilian rights constrain counterinsurgency. [Supreme Court judgment](https://api.sci.gov.in/jonew/judis/38160.pdf).
+- Policy response still combines security, lawful policing and local intelligence with land/forest rights, rehabilitation, roads, services and trusted representation. Existing **2015 action plan, SAMADHAN, SCA, Greyhounds/Bastariya Battalion and Bandyopadhyay report** notes cover the repeated body; old Red Corridor maps are not current district lists.
+- The supplied **2025 Mains question** asks definition, impact on people and government measures (**150 words, 10 marks**). Frame March 2026 elimination as a government target; sustainable outcomes require civilian safety and inclusive development, not merely encounter totals.
+
 ## PDF coverage
 
-2025-01-07: pp. 38, 39, 40 · 2025-03-21: pp. 14, 15, 16, 17 · 2025-04-02: pp. 14, 15, 16, 17 · 2025-06-24: pp. 11, 12, 13, 14
+2025-01-07: pp. 38, 39, 40 · 2025-03-21: pp. 14, 15, 16, 17 · 2025-04-02: pp. 14, 15, 16, 17 · 2025-06-24: pp. 11, 12, 13, 14 · 2025-08-27: pp. 6, 7, 8, 9, 10

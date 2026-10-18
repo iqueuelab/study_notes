@@ -150,6 +150,66 @@
         "d": "All four"
       },
       "answer": "b"
+    },
+    {
+      "chapter": "Krishna and Godavari: basins, tributaries and flood management",
+      "year": 2015,
+      "question": "Consider the following rivers:\n1. Vamsadhara\n2. Indravati\n3. Pranahita\n4. Pennar\nWhich of the above are tributaries of Godavari?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2, 3 and 4",
+        "c": "1, 2 and 4",
+        "d": "2 and 3 only"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Krishna and Godavari: basins, tributaries and flood management",
+      "year": 2016,
+      "question": "Which of the following is/are tributary/tributaries of Brahmaputra?\n1. Dibang\n2. Kameng\n3. Lohit\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Krishna and Godavari: basins, tributaries and flood management",
+      "year": 2014,
+      "question": "Consider the following rivers:\n1. Barak\n2. Lohit\n3. Subansiri\nWhich of the above flows/flow through Arunachal Pradesh?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Krishna and Godavari: basins, tributaries and flood management",
+      "year": 2023,
+      "question": "Consider the following statements:\n1. Jhelum River passes through Wular Lake.\n2. Krishna River directly feeds Kolleru Lake.\n3. Meandering of the Gandak River formed Kanwar Lake.\nHow many of the statements given above are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Krishna and Godavari: basins, tributaries and flood management",
+      "year": 2008,
+      "question": "On which one of the following rivers is the Tehri Hydropower Complex located?",
+      "options": {
+        "a": "Alaknanda",
+        "b": "Bhagirathi",
+        "c": "Dhauliganga",
+        "d": "Mandakini"
+      },
+      "answer": "b"
     }
   ]
 }

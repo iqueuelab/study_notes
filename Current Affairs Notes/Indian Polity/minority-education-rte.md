@@ -1,0 +1,14 @@
+# Minority educational institutions and the RTE Act
+
+## 1 September 2025: Pramati reconsideration proposed
+- **Anjuman Ishaat-E-Taleem Trust v. State of Maharashtra**, **2025 INSC 1063**, Justices **Dipankar Datta and Manmohan**, questioned whether the **2014 Pramati** exemption of aided/unaided minority schools from the entire **RTE Act** warrants reconsideration and referred questions for the Chief Justice's directions. A two-judge bench **did not overrule** a five-judge Constitution Bench; do not present a future larger-bench outcome as settled law. [Supreme Court judgment](https://api.sci.gov.in/supremecourt/2018/36466/36466_2018_9_1501_63764_Judgement_01-Sep-2025.pdf).
+- Issue arose through **Teacher Eligibility Test (TET)** qualification/appointment disputes. Debate: universal elementary education and minimum standards versus preservation of minority institutional autonomy; the exemption continues pending authoritative reconsideration.
+- **Article 21A/RTE Act 2009**: free compulsory education **ages 6–14**. **Section 12(1)(c)** concerns at least **25% entry-level seats** for weaker/disadvantaged groups in the relevant specified/unaided schools under the Act, with applicable rules/reimbursement; it is not every class in every school. The constitutional right and one admission provision should not be conflated.
+- **Article 30(1)**: religious/linguistic minorities' right to establish/administer educational institutions; **30(2)** bars aid discrimination on minority-management grounds. **Article 29(1)** protects the distinct language/script/culture of any section of citizens, not exclusively notified minorities; **350B** provides the Special Officer for linguistic minorities.
+- **T.M.A. Pai (2002)**: minority determination is State-wise for these rights. Academic/teacher standards may be regulated without destroying minority character; institutional autonomy is not immunity from every regulation. **NCMEI Act 2004** establishes the specialist statutory framework; six nationally notified religious minorities are **Muslims, Christians, Sikhs, Buddhists, Parsis and Jains**, distinct from the State-wise constitutional test.
+- **2011 PYQ: (c), 1 and 3 only**—minority educational rights and benefits under PM's **15-Point Programme (2006)**; no automatic presidential Lok Sabha nominee for every minority. Earlier Anglo-Indian nomination was a distinct constitutional arrangement; the **104th Amendment Act, 2019** ended its continuation from **2020**, not a general minority nomination quota abolished for everyone in 2019.
+- Mains: evidence of misuse or exclusion warrants regulation/accountability, while any change must reconcile access, educational standards, cultural rights and binding precedent. Judicial criticism does not itself remove statutory/constitutional safeguards.
+
+## PDF coverage
+
+2025-09-02: pp. 6, 7, 8, 9
