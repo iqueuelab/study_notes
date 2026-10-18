@@ -11,6 +11,7 @@ functions=[n for n in tree.body if isinstance(n,ast.FunctionDef) and n.name in {
 exec(compile(ast.Module(body=functions,type_ignores=[]),'notes_renderer','exec'),namespace)
 template=(SUBJECT/'01. Pre-Historic India/Quick Revision Notes.html').read_text()
 css=re.search(r'<style>(.*?)</style>',template,re.S)[1]
+css=css.replace('tr:first-child{display:none}','thead{display:none}')
 # Three-column tables expose their header labels when stacked on phones.
 css+='@media print{body{font-size:9.7pt;line-height:1.36}h2{margin-top:16pt}}'
 css+='@media(max-width:600px){td[data-label]:before{content:attr(data-label) ": ";font-weight:700}}'
