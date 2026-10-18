@@ -407,6 +407,18 @@
       "chapter": "Bonnet macaque and conflict management",
       "question": "Consider the following fauna:\n1. Lion-tailed Macaque\n2. Malabar Civet\n3. Sambar Deer\nHow many of the above are generally nocturnal or most active after sunset?\n(a) Only one\n(b) Only two\n(c) All three\n(d) None",
       "answer": "(b) Only two"
+    },
+    {
+      "question": "In the context of WHO Air Quality Guidelines, consider the following statements:\n1. The 24-hour mean of PM2.5 should not exceed 15 µg/m³ and the annual mean of PM2.5 should not exceed 5 µg/m³.\n2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather.\n3. PM10 can penetrate the lung barrier and enter the bloodstream.\n4. Excessive ozone in the air can trigger asthma.\nWhich of the statements given above are correct?\n(a) 1, 3 and 4\n(b) 1 and 4 only\n(c) 2, 3 and 4\n(d) 1 and 2 only",
+      "year": 2022,
+      "chapter": "Air pollution: sources and targeted controls",
+      "answer": "(b) 1 and 4 only"
+    },
+    {
+      "question": "In which of the following regions of India are you most likely to come across the ‘Great Indian Hornbill’ in its natural habitat?\n(a) Sand deserts of northwest India\n(b) Higher Himalayas of Jammu and Kashmir\n(c) Salt marshes of western Gujarat\n(d) Western Ghats",
+      "year": 2016,
+      "chapter": "Great hornbill: ecology and conservation",
+      "answer": "(d) Western Ghats"
     }
   ]
 }

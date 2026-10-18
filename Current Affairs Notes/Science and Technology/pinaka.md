@@ -17,6 +17,9 @@
 - August 2020 procurement, **₹2,580 crore**: Tata/L&T launcher-command systems and BEML vehicles; package reported 114 launchers, 45 command posts and 330 vehicles, including support/training requirements.
 - Source retrospective: six operational regiments, two raised in 2024, two more to complete training by mid-2026; **ten by 2026 and 22 eventually** are plans/snapshots, not June 2025 operational strength. Grad BM-21 replacement requires ammunition, logistics and training; speculative Mk3 ranges are not fielded air defence.
 
+## Export interest reported in the July 8-labelled section
+- Saudi Arabia, Vietnam and Indonesia were reported as prospective buyers of Guided Pinaka. Interest is distinct from a signed contract, delivery or independently verified combat performance. Exports can deepen defence partnerships and support domestic ammunition manufacturing.
+
 ## PDF coverage
 
-2025-01-31: pp. 1, 2, 3, 4, 5 · 2025-02-07: pp. 8, 9, 10, 11, 12, 14, 15 · 2025-02-13: pp. 1, 2 · 2025-06-24: pp. 1, 2, 3, 4, 5
+2025-01-31: pp. 1, 2, 3, 4, 5 · 2025-02-07: pp. 8, 9, 10, 11, 12, 14, 15 · 2025-02-13: pp. 1, 2 · 2025-06-24: pp. 1, 2, 3, 4, 5 · 2025-07-09: pp. 1, 2

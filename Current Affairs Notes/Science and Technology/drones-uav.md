@@ -26,7 +26,11 @@
 - Regulatory weight bands: **nano ≤250 g; micro >250 g–2 kg; small >2–25 kg; medium >25–150 kg; large >150 kg**. Source incorrectly labels small/medium; civil Drone Rules permissions are distinct from defence use. [Drone Rules 2021](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1749154&lang=2&reg=48).
 - **2020 drone applications PYQ: all three (d)**, spraying, volcano inspection and whale breath sampling. **2025 UAV PYQ: none (d)** of universal vertical-landing, hovering and battery-only claims. Fixed-wing, rotary, hybrid VTOL and fuel-powered architectures differ; hovering is not exclusive to multirotors.
 
+## Reported MALE procurement proposal
+- July 10 clipping reports a proposed **87 locally manufactured MALE UAVs**, about **₹20,000 crore**, with a **minimum 60% indigenous-content requirement**; trials had assessed proposed designs and final clearance was pending. These are procurement plans, not delivered aircraft.
+- Stated requirement: **over 30 hours endurance and at least 35,000 ft**, all-weather intelligence/surveillance/reconnaissance and combat capability. Generic MALE altitude bands are descriptive, not a universal 30,000-ft ceiling.
+- Examples: **TAPAS BH-201/Rustom-II (DRDO)**; **Hermes 900/Drishti 10**; armed **Bayraktar TB2**. Performance varies by payload/configuration. Remote operation removes the onboard pilot's exposure but does not eliminate civilian or ground-personnel risk.
 
 ## PDF coverage
 
-2025-03-29: pp. 40, 41, 42, 43, 44, 45 · 2025-06-10: pp. 19, 20, 21, 22
+2025-03-29: pp. 40, 41, 42, 43, 44, 45 · 2025-06-10: pp. 19, 20, 21, 22 · 2025-07-10: pp. 8, 9, 10, 11, 12, 13, 14

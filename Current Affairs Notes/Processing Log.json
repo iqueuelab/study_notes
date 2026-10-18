@@ -3550,12 +3550,50 @@
     {
       "date": "2025-07-09",
       "pdf": "2025/07-July/2025-07-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e8cd8b7486ebadcb9129493356a06f916bd80a87dc542b6160edff7d02e6b65e",
+      "pages": 26,
+      "topic_ids": [
+        "air-pollution-sources",
+        "bonn-climate-talks",
+        "brazil-geography",
+        "critical-minerals",
+        "emrs",
+        "genome-edited-rice",
+        "great-hornbill",
+        "india-ghg",
+        "maternal-mortality",
+        "parakh",
+        "pinaka",
+        "sea-level-rise",
+        "sierra-leone",
+        "women-msme-finance"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-10",
       "pdf": "2025/07-July/2025-07-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "173e097b376c97ec5c4381b12e9daf156f33cfdb1b2d70c83baad6eb7055986e",
+      "pages": 41,
+      "topic_ids": [
+        "axiom-4",
+        "catastrophe-risk",
+        "consular-death-row",
+        "drones-uav",
+        "eurodrone",
+        "fenugreek",
+        "india-namibia",
+        "irregular-migration",
+        "labour-codes",
+        "national-population-register",
+        "nistar",
+        "pulses-imports"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-11",
@@ -5619,7 +5657,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-07-09",
+  "next_pdf": "2025-07-11",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -5673,8 +5711,9 @@
     },
     {
       "date": "2025-07-08",
-      "status": "No standalone PDF; 8–9 July combined material is in the July9 file, published with the next checkpoint.",
-      "evidence": "July9 page1 banner8th&9thJuly2025; page14 startsJuly9news."
+      "status": "No standalone PDF; combined 8–9 July material reviewed in July9 PDF.",
+      "evidence": "July9 page1 banner8th&9thJuly2025; page14 startsJuly9news.",
+      "reason": "No standalone PDF; 8–9 July combined material reviewed in July 9 PDF. Banner on page 1 says 8th & 9th July 2025; page 14 marks where July 9 news starts. Physical-file coverage and additions are recorded under July 9."
     }
   ]
 }

@@ -67,6 +67,11 @@
 - The June source reports instructions to prioritise domestic rare-earth needs over sales to Japan. Its **China 90–95% production** wording confuses stages: mining and separation/processing are distinct; do not memorise it as mined-output share. Its universal **2,000 tonnes toxic waste per tonne REE** lacks a defined process/system boundary and is held for review.
 - 2025 PYQ: rare-earth phosphorescent properties explain display applications (**a**). 2022 monazite: statements **1,2,4 (b)**; monazite is not distributed throughout all Indian coastal sands.
 
+## Rare-earth permanent magnets
+- **NdFeB (neodymium–iron–boron):** high magnetic strength, widely used in motors/electronics. **SmCo (samarium–cobalt):** useful where high-temperature stability/corrosion resistance matter. These are permanent-magnet families, not interchangeable names for all rare-earth minerals.
+- Dependence on Chinese separation/processing and magnet manufacture can disrupt auto-component and clean-technology supply chains. Industry proposals for stockpiles, domestic processing and incentives require environmental safeguards and viable production links; a proposal is not an operational stockpile.
+- Medical-imaging examples need qualification: some MRI designs use permanent magnets, while many use superconducting electromagnets. China's processing dominance must not be confused with exclusive worldwide mineral occurrence.
+
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6 · 2025-06-14: pp. 22, 23, 24, 25, 26, 27, 28
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6 · 2025-06-14: pp. 22, 23, 24, 25, 26, 27, 28 · 2025-07-09: pp. 14, 15, 16

@@ -15,6 +15,12 @@
 - **PM-AASHA/PSS** MSP procurement and price-support instruments have scheme-specific scope; listing PDPS/private procurement does not mean all apply identically to every pulse. **Budget 2025 six-year self-reliance mission** focuses **tur, urad, masoor**, resilient/productive seeds and procurement via **NAFED/NCCF**. Announcement/budget allocation differs from full field implementation.
 - Recommended stable, consulted import policy, calibrated duties/quotas where justified, MSP access, storage/processing and location-specific R&D; weigh consumer affordability and farmer returns rather than assuming protection alone guarantees self-sufficiency.
 
+## Green gram (moong)
+- **Vigna radiata, Fabaceae**: short-duration pulse, commonly **60–75 days**, fitting rotations/intercropping with maize, sorghum, cotton or sugarcane. Kharif, rabi or summer/zaid cultivation varies by region.
+- Warm conditions, well-drained loam/sandy loam; the source's **25–35°C, 600–750 mm rainfall and pH 6.2–7.5** are indicative agronomic ranges, not universal requirements. Waterlogging impairs growth/nodulation.
+- Rhizobial fixation and residues can improve soil nitrogen; actual fertiliser savings depend on conditions. MSP/NFSM-pulses support is relevant; irrigation/organic programmes are complementary instruments, not a guarantee of doubled income.
+- PYQ revision: urad can be both kharif and rabi; moong does **not** account for nearly half of Indian pulse output. The 2020 question's historical trend statement about declining rabi pulses is false; do not present its three-decade window as a newly measured July 2025 trend.
+
 ## PDF coverage
 
-2025-06-01: pp. 6, 7, 8, 9, 10, 11
+2025-06-01: pp. 6, 7, 8, 9, 10, 11 · 2025-07-10: pp. 29, 30, 31, 32

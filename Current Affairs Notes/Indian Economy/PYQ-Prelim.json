@@ -395,6 +395,18 @@
         "d": "Statement-I is incorrect, but Statement-II is correct"
       },
       "answer": "d"
+    },
+    {
+      "question": "Which of the following are nitrogen-fixing plants?\n1. Alfalfa\n2. Amaranth\n3. Chickpea\n4. Clover\n5. Purslane (Kulfa)\n6. Spinach\nSelect the correct answer using the code given below:\n(a) 1, 3 and 4 only\n(b) 1, 3, 5 and 6 only\n(c) 2, 4, 5 and 6 only\n(d) 1, 2, 4, 5 and 6",
+      "year": 2022,
+      "chapter": "Fenugreek: cultivation, uses and nitrogen fixation",
+      "answer": "(a) 1, 3 and 4 only"
+    },
+    {
+      "question": "With reference to pulse production in India, consider the following statements:\n1. Black gram can be cultivated as both kharif and rabi crop.\n2. Green gram alone accounts for nearly half of pulse production.\n3. In the last three decades, while the production of kharif pulses has increased, the production on rabi pulses had decreased.\nWhich of the statements given above is/are correct?\n(a) 1 only\n(b) 2 and 3 only\n(c) 2 only\n(d) 1, 2 and 3",
+      "year": 2020,
+      "chapter": "Pulses: cultivation, imports and farmer incentives",
+      "answer": "(a) 1 only"
     }
   ]
 }

@@ -19,6 +19,13 @@
 - Source historical indicators: institutional deliveries about **79% (NFHS-4, 2015–16) → 89% (NFHS-5, 2019–21)**; IMR **39 (2014) → 28 (2020)** per 1,000 live births. Keep reference periods distinct.
 - **MMR 97** belongs to **SRS 2018–20**, not simply calendar 2020 or a UN estimate of 70% decline ending at 97. MMR means maternal mortality **ratio**, with live births as denominator; retain the separate UN/SRS series already explained above.
 
+## SRS 2019–21 and the three delays
+- **SRS MMR 93** maternal deaths per 100,000 live births. Selected State ratios: **Madhya Pradesh 175, Assam 167, West Bengal 109, Haryana 106; Karnataka 63, Gujarat 53, Jharkhand 51, Tamil Nadu 49, Maharashtra 38, Kerala 20**. Keep this series distinct from UN modelled estimates. Assam is often grouped with EAG States for analysis but is not itself one of the eight EAG States.
+- **Three delays:** deciding to seek care → reaching a suitable facility → receiving timely appropriate care. Poverty, gender inequality, transport/referral failure and shortages of trained staff/blood/operating facilities can act at different stages.
+- Major preventable pathways: postpartum haemorrhage (often uterine atony), obstructed labour, hypertensive disorders/eclampsia, sepsis and unsafe abortion; anaemia, TB and malaria can contribute indirectly. Unsafe abortion and illegal abortion are not synonyms.
+- Strengthen antenatal registration/nutrition, emergency obstetric first-referral units and specialist teams, maternal-death review and postpartum mental-health care. The article proposes **four FRUs per two million population**; its **66% specialist vacancy** figure lacks a current reference period and is not a July 2025 census.
+- **Kerala Confidential Review of Maternal Deaths** illustrates learning from each death. Uterine artery clamps/suction techniques are clinical tools requiring trained teams. **JSSK** provides free public-facility maternity/newborn services; **PMMVY**'s second-child benefit is conditional on the child being a girl, not unconditional payment for every second birth.
+
 ## PDF coverage
 
-2025-05-09: pp. 3, 4, 5 · 2025-06-11: pp. 5, 6
+2025-05-09: pp. 3, 4, 5 · 2025-06-11: pp. 5, 6 · 2025-07-09: pp. 10, 11, 12

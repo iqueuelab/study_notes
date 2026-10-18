@@ -316,6 +316,51 @@
         7
       ],
       "reason": "Explicit SampleUPSCPrelimsMCQ; practice notPYQ."
+    },
+    {
+      "date": "2025-07-09",
+      "pages": [
+        15,
+        16
+      ],
+      "year": 2012,
+      "topic_id": "critical-minerals",
+      "reason": "Explicit rare-earth-elements PYQ preserves three statements but omits all answer choices. Not added to bank; answer discussion says statements 1 and 3. Retrieve full original choices before bank inclusion."
+    },
+    {
+      "date": "2025-07-10",
+      "pages": [
+        24
+      ],
+      "topic_id": "irregular-migration",
+      "reason": "Possible UPSC Mains Question is an invented practice prompt with no exam year; excluded from PYQ bank."
+    },
+    {
+      "date": "2025-07-09",
+      "pages": [
+        6,
+        10
+      ],
+      "reason": "INDC 2016 and ILO Conventions 138/182 2018 questions already present in existing banks/prior drafts; not duplicated."
+    },
+    {
+      "date": "2025-07-10",
+      "pages": [
+        13,
+        14,
+        21
+      ],
+      "reason": "UAV 2020/2025, Astradharini 2016 and Dhruv 2008 questions already in existing banks; not duplicated."
+    },
+    {
+      "date": "2025-07-10",
+      "pages": [
+        18,
+        19
+      ],
+      "year": 2022,
+      "topic_id": "labour-codes",
+      "reason": "Explicitly labelled CDS PYQ, not CSE. Retained with exam=CDS so bank consumers do not misidentify the examination."
     }
   ],
   "resolved": [

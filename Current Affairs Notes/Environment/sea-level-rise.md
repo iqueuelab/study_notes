@@ -12,6 +12,12 @@
 - Source estimates (~20 cm rise since 1880, rate increasing from ~2 to ~4 mm/year, 1.2 m by 2100, 80% Sundarbans loss) lack consistent periods/scenarios. Do not treat them as universal forecasts; retain in fact-review pending underlying evidence.
 - The source's 30% EV-share goal also needs its policy scope verified.
 
+## Coastal displacement and labour rights
+- **Satabhaya, Odisha** illustrates why relocation requires livelihoods, freshwater, housing and services as well as new land. Ports, aquaculture and energy infrastructure can compound mangrove/estuary degradation and restrict customary coastal access; project-specific impacts require assessment.
+- Displaced fishing/farming households may enter urban construction, brick kilns or domestic work with debt bondage, insecure housing and gendered exploitation. India lacks a dedicated comprehensive climate-displacement framework, but **Article 21, disaster management, environmental/coastal regulation and labour protections** remain relevant.
+- Community examples in the article: **Ennore Creek protests, Tamil Nadu; Pattuvam mangrove protection, Kerala; Save Satabhaya, Odisha**. Rights-based adaptation should include participation, fair compensation, decent employment and protection from trafficking/forced labour.
+- **SDG 8.7** concerns forced labour, modern slavery, trafficking and child labour; **8.5** concerns full productive employment and decent work. The source merges these targets.
+
 ## PDF coverage
 
-2025-01-01: pp. 16, 17, 18 · 2025-01-02: pp. 18, 19, 20, 21
+2025-01-01: pp. 16, 17, 18 · 2025-01-02: pp. 18, 19, 20, 21 · 2025-07-09: pp. 8, 9, 10

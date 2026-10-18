@@ -1,0 +1,26 @@
+# Bonn climate talks 2025 and the road to COP30
+
+## SB62: June 16–26, 2025
+- UNFCCC subsidiary bodies met in **Bonn, Germany**, preparing technical negotiations for **COP30, Belém, Brazil**. The July 8-labelled material highlights an agenda impasse of nearly two days over developed-country finance duties under **Paris Article 9.1** and unilateral trade measures.
+- **Finance:** developing countries sought predictable grants rather than debt-creating loans, accountability for contributors and the **Baku-to-Belém roadmap towards US$1.3 trillion annually**. A roadmap/goal is not money already disbursed.
+- **Adaptation:** refine indicators for the Global Goal on Adaptation; measuring finance, technology and capacity-building support remained contested. Technical progress did not settle financing obligations.
+- **Mitigation Work Programme:** cooperation and implementation support versus fears of externally imposed national targets; a proposed digital platform raised duplication concerns. Article 6 cooperation and transparency also advanced technically.
+- **Loss and damage:** the Santiago Network concerns technical assistance; arrangements for assistance do not by themselves establish adequate funding or compensate every loss.
+- **Just transition:** protect workers, vulnerable communities and Indigenous knowledge while shifting to clean energy; developing countries questioned carbon-border trade barriers. Gender negotiations included unpaid care, reproductive health, violence, diversity and intersectionality.
+- India uses **LMDC** and **BASIC (Brazil, South Africa, India, China)** to press equity, finance and technology access. [UNFCCC SB62](https://unfccc.int/sb62).
+## COP milestone revision from the embedded chart
+| COP | Main distinction |
+|---|---|
+| Kyoto 1997 | Protocol with quantified developed-country commitments |
+| Marrakesh 2001; Delhi 2002 | Kyoto implementation rules; development priorities |
+| Bali 2007; Copenhagen 2009 | Negotiating roadmap; fast-start finance pledge for 2010–12 |
+| Cancún 2010; Doha 2012 | Green Climate Fund; Kyoto second commitment period |
+| Warsaw 2013 | REDD+ framework and Warsaw loss-and-damage mechanism |
+| Paris 2015; Glasgow 2021 | Paris Agreement; Glasgow Pact and India's 2070 pledge |
+| Sharm el-Sheikh 2022; Dubai 2023 | Establishing loss-and-damage funding arrangements; operationalisation at COP28 and first global stocktake |
+| Baku 2024 | New climate-finance goal and Baku-to-Belém roadmap |
+- The chart's COP28 wording needs care: global-stocktake language was **transitioning away from fossil fuels**, not a universal legal fossil-fuel phase-out by 2050; coal wording concerned **phase-down of unabated coal**. The US$100-billion finance commitment predates Paris. Renewable/nuclear/cooling pledges have differing participants, and are not identical universally binding treaty obligations.
+
+## PDF coverage
+
+2025-07-09: pp. 2, 3, 4, 5, 6

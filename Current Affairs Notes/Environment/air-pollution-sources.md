@@ -18,6 +18,12 @@
 - Expand rural/semi-urban monitoring, emissions inventories and source apportionment; coordinate MoEFCC, CPCB, SPCBs and municipal bodies. Urban and rural sources/exposure differ.
 - Recall: **SO₂ → acid deposition; agriculture → major methane/ammonia source**. Methane reduction benefits both climate and ozone control.
 
+## Pregnancy and birth outcomes: study published July 2
+- An observational study combined **NFHS-5 (2019–21)** data with satellite-derived PM2.5 exposure. Higher exposure was associated with **adjusted odds ratios ~1.7 for preterm birth and ~1.4 for low birth weight**; odds are not absolute risk increases or proof of causation. Northern districts and poorer, less educated households faced greater burdens. [Primary study](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003798).
+- **Preterm birth: before 37 completed weeks; low birth weight: below 2,500 g**, irrespective of gestational age. Solid-fuel cooking, maternal nutrition/care, heat and rainfall also matter; combine clean household energy and ambient-emission controls with antenatal support.
+- Embedded size diagram: PM2.5 and PM10 denote aerodynamic diameter cut-offs of **2.5 and 10 micrometres**. Combustion produces fine particles; construction/dust add coarse particles; wildfires contribute fine particles. A source need not emit only the single particle size shown in an infographic.
+- PYQ revision: WHO's 2021 PM2.5 guideline is **5 µg/m³ annual /15 µg/m³ 24-hour**; ozone can exacerbate asthma and is associated with sunlight-driven photochemistry, not generally a peak during inclement weather.
+
 ## PDF coverage
 
-2025-04-24: pp. 3, 4, 5, 6
+2025-04-24: pp. 3, 4, 5, 6 · 2025-07-09: pp. 6, 7, 8

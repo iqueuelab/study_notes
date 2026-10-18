@@ -16,6 +16,12 @@
 - Granular hotspot mapping → recent-data exposure/risk modelling → mitigation + insurance/reinsurance tailored to remaining risks.
 - Land-use/drainage, resilient buildings, early warning/evacuation and ecosystem protection; accessible policies, affordable premiums, clear exclusions and reliable claims. Insurance transfers financial risk; it does not prevent deaths or physical damage.
 
+## Catastrophe bonds: transferring tail risk
+- A sponsor pays for protection; investors supply collateral through a bond structure (for example an SPV or World Bank arrangement). **Specified catastrophe trigger → some/all principal released for covered losses; otherwise principal returns at maturity**, with coupons compensating investors for risk. A bond need not pay after every disaster.
+- Triggers may be **parametric, indemnity-based or modelled-loss based**; not all cat bonds use a simple earthquake-magnitude threshold. Parametric speed can create **basis risk**: real damage without a qualifying trigger, or mismatch between loss and payout.
+- Benefits: pre-arranged liquidity, wider risk-bearing capacity and reduced fiscal volatility. Limits: pricing/transaction and modelling costs, investor principal loss, climate/correlation uncertainty and possible liquidity/collateral risk. Low correlation with ordinary assets is not guaranteed independence from all market shocks.
+- A proposed South Asian regional pool/bond could diversify risks, but requires common data, trigger design, governance and cost sharing; the article is a proposal, not an issued Indian sovereign/regional cat bond. Use alongside mitigation, reserves, contingent finance and insurance rather than replacing prevention.
+
 ## PDF coverage
 
-2025-01-17: pp. 9, 10, 11, 12
+2025-01-17: pp. 9, 10, 11, 12 · 2025-07-10: pp. 32, 33, 34, 35
