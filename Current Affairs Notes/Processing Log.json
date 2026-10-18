@@ -4171,17 +4171,48 @@
     {
       "date": "2025-08-10",
       "pdf": "2025/08-August/2025-08-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "78e24dddacb8d2038658c8ebd87e2a17887d1cf58287e17d5bb6b345dd023d26",
+      "pages": 10,
+      "topic_ids": [
+        "industrial-process-safety",
+        "judicial-reform",
+        "palmyra-products",
+        "single-use-plastics"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-11",
       "pdf": "2025/08-August/2025-08-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b31185fe35e86290224761ae3230eea34785e8954e944be16bcda985d76f3ae2",
+      "pages": 16,
+      "topic_ids": [
+        "asean",
+        "asiatic-lion",
+        "contaminated-sites",
+        "ibca",
+        "kaleshwaram"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-12",
       "pdf": "2025/08-August/2025-08-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "66855a83b612438c6af2ddcb198b738c2007b8c6ff49a1e4a52a073550276d59",
+      "pages": 10,
+      "topic_ids": [
+        "ethanol-maize",
+        "marital-cruelty",
+        "piprahwa-relics",
+        "rabies"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-13",
@@ -6085,7 +6116,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-08-10",
+  "next_pdf": "2025-08-13",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

@@ -12,6 +12,10 @@
 - Do not retain source's unsupported claims that Sariska lost lions through recent poaching or that Kuno's African-cheetah project was an earlier completed Asiatic-cheetah reintroduction.
 - **2019 PYQ: Asiatic lion alone (a)** exclusively naturally found in India today. Greater one-horned rhino **India/Nepal**, not a confirmed current wild population in Bhutan/Bangladesh. Bactrian camels occur beyond India; distinguish domesticated Ladakh camels from the separate wild camel **Camelus ferus** of China/Mongolia. A Rajasthan dromedary is not proof of a natural wild population.
 
+## 2025 estimate visible in the issue's graphics
+- The **16th lion population estimation (May 2025): 891**, compared with **674 in 2020**, about **32.2% increase**. Issue graphic records landscape **~35,000 km² across 11 districts**. These are survey-period estimates; the prose's 674/nine districts remains the older 2020 snapshot.
+- Embedded reporting stresses expansion outside protected Gir into satellite habitats/corridors. Conservation needs landscape connectivity and conflict/disease monitoring beyond park boundaries. [Later official confirmation of the 2025 count](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223755&lang=1&reg=1).
+
 ## PDF coverage
 
-2025-05-22: pp. 11, 12, 13, 14, 15, 16, 17 · 2025-05-25: pp. 16, 17, 18
+2025-05-22: pp. 11, 12, 13, 14, 15, 16, 17 · 2025-05-25: pp. 16, 17, 18 · 2025-08-11: pp. 1, 2, 3, 4

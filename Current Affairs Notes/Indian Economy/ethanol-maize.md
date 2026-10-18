@@ -26,7 +26,12 @@
 - Ethanol-only project clearance relaxations/exemptions have defined conditions; a bypassed public hearing does not abolish effluent, emissions or water-consent obligations. Evaluate applicable project rules instead of assuming every clearance omits pollution limits.
 - Pages4–6 repeat earlier maize figures and a stale “E20 within two months” forecast: installed capacity, intended annual supply and realised blending remain distinct. Do not re-date February-era estimates as May achievements. Pilot projects preceded the **2003 programme rollout**; **CCEA advanced the target on 21 December 2020**, followed by the **June 2021 roadmap/public announcement** and **2022 National Biofuels Policy amendment to 2025–26**. Distinguish these steps. [NITI roadmap](https://www.niti.gov.in/sites/default/files/2025-07/Roadmap-For-Ethanol-Blending-In-India-2020-25.pdf).
 
+## August 2025: vehicle compatibility and consumer confidence
+- Ethanol has lower energy per litre than petrol; blending can reduce mileage, with the size of the effect depending on engine tuning and vehicle. Fuel-system materials, corrosion resistance, calibration and manufacturer certification matter; a Bharat Stage emissions label alone does not certify every vehicle's E20 compatibility.
+- Source distinguishes older-vehicle concerns from E20 material-compatible vehicles introduced from2023; avoid its blanket claim that every BS2 vehicle is universally safe at E15. Flex-fuel capability has a specified certified blend range, not automatically every ratio for every model.
+- Editorial seeks clear manufacturer guidance, fuel-quality enforcement, transparent pricing/savings, older-vehicle mitigation and insurance clarity. E27 is described as a standards proposal, not proof universal rollout; source's **US$10billion annual import savings** and offsetting fertiliser bill are separate claims, not a verified net foreign-exchange account attributable solely to ethanol.
+- C-heavy molasses, broken/FCI rice and maize illustrate feedstock choices; “surplus” depends on stocks and competing food/feed demand. Practice **A (1 only)**; the PDF swaps the numbered statements in its explanation, despite the correct final answer.
 
 ## PDF coverage
 
-2025-02-04: pp. 7, 8, 9 · 2025-02-27: pp. 14, 15, 16, 17, 18, 19, 20 · 2025-04-18: pp. 12, 13, 14, 15, 16, 17 · 2025-05-08: pp. 1, 2, 3, 4, 5, 6
+2025-02-04: pp. 7, 8, 9 · 2025-02-27: pp. 14, 15, 16, 17, 18, 19, 20 · 2025-04-18: pp. 12, 13, 14, 15, 16, 17 · 2025-05-08: pp. 1, 2, 3, 4, 5, 6 · 2025-08-12: pp. 3, 4, 5

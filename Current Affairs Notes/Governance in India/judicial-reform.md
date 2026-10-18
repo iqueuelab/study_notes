@@ -29,7 +29,12 @@
 - Bill-assent delay raises democratic accountability and institutional-boundary questions; the April Tamil Nadu judgment and later clarification belong in the common **Governor** topic. This editorial's defence of intervention should not erase those legal developments.
 - Mains balance: independent review prevents arbitrary executive/legislative conduct; transparent reasons, restraint, predictable procedure and respectful institutional dialogue sustain legitimacy. Sweeping assertions that every intervention is constitutional, or that courts have no limits, obscure case-specific legal scrutiny.
 
+## August 2025: judicial discipline and the roster
+- Source reports **4 August** SC directions pairing Allahabad HC Justice Prashant Kumar with a senior judge and withholding criminal cases; **8 August** modification withdrew those roster directions after institutional objections and the CJI's letter. Treat the withdrawn directions as procedural history.
+- **HC Chief Justice is master of the roster**: allocates judicial business and constitutes benches. Appellate hierarchy does not make the SC the HC's administrative superior; **Article 227** gives HCs superintendence over courts/tribunals within their territory, not SC superintendence over HCs.
+- Source cites **Tirupati Balaji Developers (2004)** and **Mayavaram Financial Corporation (1991)** on autonomy/allocation. Correcting legal error through appeal/review differs from controlling a judge's future administrative roster; institutional discipline needs reasons, proportionality and respect for constitutional allocation of authority.
+- Practice **C (1 and 3)**; option A's printed “1 only 2” is malformed, and Article 227 statement is false.
 
 ## PDF coverage
 
-2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19 · 2025-03-31: pp. 14, 15, 16 · 2025-05-08: pp. 8, 9, 10, 11
+2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19 · 2025-03-31: pp. 14, 15, 16 · 2025-05-08: pp. 8, 9, 10, 11 · 2025-08-10: pp. 4, 5, 6

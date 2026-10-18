@@ -14,6 +14,13 @@
 - “Biodegradable/compostable” claims require specified conditions and actual collection/treatment systems; recycling claims should state material, technical feasibility and economic limits. Transparent conflicts of interest, producer accountability, reuse and reliable collection complement informed consumers.
 - Informal collectors/sorters face toxic exposures, insecure work and poor social protection. PDF's **70% recycling contribution**, **36% lobbyist increase at INC-3** and Asia-triples-by-2060 claim lack full denominator/baseline here; do not treat as reconciled current national totals.
 
+## INC-5.2: negotiations in progress
+- **Geneva, opened 5 August 2025**, originally scheduled through 14 August; resumed fifth session follows Busan 2024. On this issue date negotiations were ongoing, not an adopted global plastics treaty. [UNEP opening account](https://www.unep.org/en/news-and-stories/press-release/resumed-fifth-session-negotiations-global-plastic-pollution-treaty).
+- Full lifecycle means **production/raw polymers → product design → use → disposal/waste management**. Plenary, contact/technical groups and stakeholder input negotiate articles; bracketed text marks unresolved language.
+- Fault lines: production limits/chemicals, binding versus voluntary measures, finance, compliance, equity and national capabilities. A legally binding instrument can contain both binding and voluntary approaches; the resolution does not guarantee every clause is mandatory.
+- Source describes India opposing production caps/fixed phase-out dates, defending development needs and supporting waste management/EPR and just transition. Separate this negotiating position from an agreed treaty obligation; the source's “like-minded” country list is a contemporaneous alignment, not formal treaty membership.
+- Practice: INC **C (2,3)**; UNEA 5/14 description **B**. March 2022 is the mandate date; INC work began later in 2022.
+
 ## PDF coverage
 
-2025-06-18: pp. 8, 9, 10, 11, 12 · 2025-07-24: pp. 6, 7, 8
+2025-06-18: pp. 8, 9, 10, 11, 12 · 2025-07-24: pp. 6, 7, 8 · 2025-08-10: pp. 6, 7, 8

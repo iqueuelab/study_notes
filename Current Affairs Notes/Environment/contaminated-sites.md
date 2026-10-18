@@ -10,6 +10,10 @@
 - **SPCBs:** State statutory boards; inspect, monitor water/air, administer industrial **Consent to Establish/Operate**, and enforce waste rules. **PCCs** perform corresponding UT functions. Their mandates differ from local waste collection duties.
 - Capacity gaps: scientific/legal vacancies, expanding mandates, weak coordination, inconsistent enforcement. Priorities: transparent inventories, site-risk ranking, competent laboratories, cost recovery, community health protection and post-remediation monitoring.
 
+## Scope caution
+- Issue distinguishes hazardous industrial chemical spills and polluted groundwater from streams addressed under separate regimes (radioactive waste, mining operations, marine oil and solid-waste processing sites). Apply the exact notified exclusions rather than assuming every landfill or every polluted site follows the same rule.
+- Existing environmental duties preceded 2025; the source's “no legal process until now” overstates the novelty. These rules provide a specific contaminated-site identification/remediation framework, not the first environmental liability in India.
+
 ## PDF coverage
 
-2025-07-29: pp. 13, 14, 15, 16, 17 · 2025-08-02: pp. 43, 44, 45
+2025-07-29: pp. 13, 14, 15, 16, 17 · 2025-08-02: pp. 43, 44, 45 · 2025-08-11: pp. 11, 12, 13
