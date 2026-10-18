@@ -21,7 +21,12 @@
 - Waste management, responsible ownership, licensing/anti-abandonment enforcement, adoption and suitable shelters complement population management; involve RWAs/NGOs without stigmatising all feeders.
 - National targets, mandatory non-breeding-pet sterilisation and broader feeding bans are **editorial proposals**, not universal new legal duties enacted by this issue. Ooty, Chennai, Goa and locations in Delhi/Uttarakhand are cited as models, not independently proven equal successes.
 
+## 22 August 2025: modification of Delhi-NCR directions
+- The Supreme Court **modified**, rather than wholly stayed, its **11 August** directions. Capture, sterilisation, deworming and vaccination continue; treated dogs may return to the **same locality**, except dogs with **rabies/suspected rabies or aggressive behaviour**, which must not be released. Designated feeding areas and public-safety measures also apply. [22 August order](https://api.sci.gov.in/supremecourt/2025/41706/41706_2025_3_1501_63567_Judgement_22-Aug-2025.pdf).
+- Court identified municipal infrastructure/human-resource limits behind a blanket no-release policy. Existing notes cover **ABC Rules 2023**, vaccination, sterilisation, waste management and accountable local bodies. Shelter conditions and long-term funding matter; sheltering has a role for qualifying animals and cannot be dismissed universally.
+- Editorial argues mass confinement creates welfare/capacity problems and diverts attention from failed municipal implementation. Claims about dogs controlling rodents/monkeys and Jaipur/Jodhpur successes are contextual arguments, not proof free-roaming dogs create no public-health or wildlife risks.
+- Ethical balance: protect children and vulnerable residents from bites/rabies, provide timely human treatment, prevent cruelty and abandonment, and measure vaccination/sterilisation coverage, bites and population trends. **Article 51A(g)** compassion is a constitutional duty; it does not alone establish that every contested judicial direction is legally void. Daily 250-word Mains prompt is publisher practice.
 
 ## PDF coverage
 
-2025-01-22: pp. 13, 14, 15, 16 · 2025-04-30: pp. 2, 3, 4, 5, 6 · 2025-05-06: pp. 8, 9, 10, 11
+2025-01-22: pp. 13, 14, 15, 16 · 2025-04-30: pp. 2, 3, 4, 5, 6 · 2025-05-06: pp. 8, 9, 10, 11 · 2025-08-23: pp. 12, 13, 14

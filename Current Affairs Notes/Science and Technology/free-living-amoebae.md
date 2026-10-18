@@ -11,6 +11,13 @@
 - Rapid diagnosis can guide expert combination treatment rather than presumptive single-organism therapy; these rare infections can be extremely severe, but species identification does not ensure survival.
 - Surveillance, prompt clinical suspicion, safe water/public-health communication and referral/testing capacity matter; detection figures reflect testing/access as well as possible incidence changes.
 
+## Kozhikode water detection and PAM prevention
+- Embedded August report: **Naegleria fowleri detected in household well water** associated with a **three-month-old infant receiving treatment in Kozhikode**; the issue discusses three recent Kerala cases and a local alert. Environmental detection helps investigation but does not, by itself, prove each patient's exact exposure route.
+- **PAM** is an acute, rapidly progressing brain infection when contaminated water enters the **nose**, allowing spread along olfactory pathways. It is **not acquired simply by drinking contaminated water** and is not transmitted person to person. Warm freshwater is the main ecological setting; properly maintained/chlorinated pools reduce risk. [CDC](https://www.cdc.gov/naegleria/about/).
+- Early fever/headache/nausea can progress to neck stiffness, confusion, seizures and coma. CDC describes onset typically around five days, with a **1–12 day range** in its factsheet; source's **1–9 days** is an older surveillance formulation, not a diagnostic exclusion rule. Very high fatality does not mean survival is impossible or treatment futile.
+- Prevention: safe maintenance/chlorination, limiting nasal entry during freshwater activities, avoiding sediment disturbance, and sterile/distilled or properly boiled-and-cooled water for nasal rinsing. Suspected illness requires urgent specialist care; combination drugs are clinician-directed, not self-treatment instructions.
+- Practice **C (1 and 3)**; ignore the explanation's phantom fourth statement and later contradictory answer fragment.
+
 ## PDF coverage
 
-2025-06-07: pp. 10, 11
+2025-06-07: pp. 10, 11 · 2025-08-20: pp. 4, 5, 6

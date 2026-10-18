@@ -92,6 +92,18 @@
         "d": "Article 29"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "Governor: constitutional powers and State relations",
+      "year": 2015,
+      "question": "Who/which of the following is the custodian of the Constitution of India?",
+      "options": {
+        "a": "The President of India",
+        "b": "The Prime Minister of India",
+        "c": "The Lok Sabha Secretariat",
+        "d": "The Supreme Court of India"
+      },
+      "answer": "d"
     }
   ]
 }

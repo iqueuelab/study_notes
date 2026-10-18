@@ -37,6 +37,12 @@
 - Source plans **first uncrewed December 2025, two more 2026, crewed early 2027**: then-announced schedules, not completed flights/guarantees.
 - Orbital-module development, crew-escape testing and launch-vehicle human-rating are separate requirements; one qualification claim does not establish total mission readiness.
 
+## 24 August 2025: integrated parachute air-drop test
+- ISRO completed **IADT-01 at Sriharikota** using a simulated Crew Module released from an IAF Chinook helicopter; validated end-to-end parachute deceleration for one representative scenario. It is a qualification test, not a crewed spaceflight. [ISRO test report](https://www.isro.gov.in/ISRO_EN/Integrated_Air_Drop_Test_for_Gaganyaan_Missions.html).
+- Ten parachutes: **2 apex-cover separation, 2 drogue, 3 pilot and 3 main**, sequentially deployed; module recovered after splashdown and taken on **INS Anvesha**. Further conditions still require testing.
+- Baseline mission design: **three people, three days, about 400 km LEO**, human-rated LVM3; **Crew Module** provides habitable/re-entry functions, **Service Module** propulsion/power/thermal support. Crew escape, life support, Bengaluru training, Navy recovery and uncrewed validation support safety.
+- The source's “before 2026” crewed deadline and inset 2022 date are stale; retain the already recorded August programme forecasts with their qualifications. An undated pasted space-mission question lacks an exam year and is held for review.
+
 ## PDF coverage
 
-2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8 · 2025-06-26: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1 · 2025-07-10: pp. 24 · 2025-07-15: pp. 9, 10, 11, 12 · 2025-08-02: pp. 3, 4, 95, 96
+2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8 · 2025-06-26: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1 · 2025-07-10: pp. 24 · 2025-07-15: pp. 9, 10, 11, 12 · 2025-08-02: pp. 3, 4, 95, 96 · 2025-08-25: pp. 7, 8, 9

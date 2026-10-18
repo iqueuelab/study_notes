@@ -479,6 +479,30 @@
         "d": "Statement-I is incorrect, but Statement-II is correct"
       },
       "answer": "d"
+    },
+    {
+      "chapter": "M. S. Swaminathan: Green Revolution and sustainable farmer welfare",
+      "year": 2008,
+      "question": "Norman Ernest Borlaug who is regarded as the father of the Green Revolution in India is from which country?",
+      "options": {
+        "a": "United States of America",
+        "b": "Mexico",
+        "c": "Australia",
+        "d": "New Zealand"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Jute cultivation and Jute Corporation of India",
+      "year": 2011,
+      "question": "The lower Gangetic plain is characterised by a humid climate with high temperature throughout the year. Which one among the following pairs of crops is most suitable for this region?",
+      "options": {
+        "a": "Paddy and cotton",
+        "b": "Wheat and Jute",
+        "c": "Paddy and Jute",
+        "d": "Wheat and cotton"
+      },
+      "answer": "c"
     }
   ]
 }

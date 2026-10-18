@@ -83,6 +83,11 @@
 - **INS Satpura**, second **Project 17/Shivalik-class stealth frigate**, built by **Mazagon Dock, Mumbai**, commissioned **20 August 2011**; Eastern Fleet, Visakhapatnam. Named after the Satpura range.
 - Source reports arrival in **Singapore for a bilateral maritime exercise**. Anti-air, anti-surface and anti-submarine roles support interoperability and maritime cooperation. It is neither a **Project 15A Kolkata-class destroyer** nor a GRSE-built frigate.
 
+## 26 August 2025: commissioning headline
+- Embedded current clipping anticipates **Udaygiri and Himgiri joining the Navy together**; distinguish commissioning-day anticipation from the recycled **31 July Himgiri delivery** clipping and already recorded **1 July Udaygiri delivery**.
+- Existing Project 17A fleet, shipbuilders, multirole/stealth features and modular construction notes apply. Predecessor Himgiri decommissioned in **2005**, not the body's 2025; use of modular building does not substantiate the practice question's unsupported “first Indian naval project” superlative.
+- **Outcome on 26 August:** both frigates were commissioned at **Visakhapatnam**, distinguishing the clipping’s forward-looking headline from completed commissioning. [Public broadcaster report](https://newsonair.gov.in/rajnath-singh-commissions-ins-udaygiri-and-ins-himgiri-in-visakhapatnam/).
+
 ## PDF coverage
 
-2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5 · 2025-04-28: pp. 1, 2, 3, 4 · 2025-06-23: pp. 25, 26, 27, 28 · 2025-07-02: pp. 13, 14, 15, 16, 17, 18, 19 · 2025-08-01: pp. 3, 4, 5 · 2025-08-02: pp. 79, 80, 81 · 2025-08-04: pp. 4, 5
+2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5 · 2025-04-28: pp. 1, 2, 3, 4 · 2025-06-23: pp. 25, 26, 27, 28 · 2025-07-02: pp. 13, 14, 15, 16, 17, 18, 19 · 2025-08-01: pp. 3, 4, 5 · 2025-08-02: pp. 79, 80, 81 · 2025-08-04: pp. 4, 5 · 2025-08-26: pp. 19, 20, 21

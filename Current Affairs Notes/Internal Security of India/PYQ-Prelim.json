@@ -49,6 +49,30 @@
       "chapter": "Narcotics Control Bureau and darknet trafficking",
       "question": "With reference to the Government of India, consider the following information:\nOrganization — Some of its functions — It works under\nI. Directorate of Enforcement — Enforcement of the Fugitive Economic Offenders Act, 2018 — Internal Security Division–I, Ministry of Home Affairs\nII. Directorate of Revenue Intelligence (DRI) — Enforces the provisions of the Customs Act, 1962 — Department of Revenue, Ministry of Finance\nIII. Directorate General of Systems and Data Management — Carrying out big data analytics to assist tax officers for better policy and nabbing tax evaders — Department of Revenue, Ministry of Finance\nIn how many of the above rows is the information correctly matched?\n(a) Only one\n(b) Only two\n(c) All the three\n(d) None",
       "answer": "(b) Only two"
+    },
+    {
+      "chapter": "Agni missiles: ballistic technology and strategic deterrence",
+      "year": 2023,
+      "question": "Consider the following statements:\n1. Ballistic missiles are jet-propelled at subsonic speeds throughout their flights, while cruise missiles are rocket-powered only in the initial phase of flight.\n2. Agni-V is a medium-range supersonic cruise missile, while BrahMos is a solid-fuelled intercontinental ballistic missile.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "India’s nuclear submarines: SSBN deterrence and SSN roles",
+      "year": 2016,
+      "question": "Which one of the following is the best description of ‘INS Astradharini’, that was in the news recently?",
+      "options": {
+        "a": "Amphibious warfare ship",
+        "b": "Nuclear-powered submarine",
+        "c": "Torpedo launch and recovery vessel",
+        "d": "Nuclear-powered aircraft carrier"
+      },
+      "answer": "c"
     }
   ]
 }

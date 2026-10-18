@@ -19,6 +19,12 @@
 | R | Raise tobacco taxes |
 - Combine tax, warnings, smoke-free enforcement, marketing controls, youth protection, cessation and surveillance. Protect policymaking from tobacco-industry interference; tobacco farming/export revenue and public-health harm are distinct policy dimensions.
 
+## August 2025: smokeless tobacco and implementation
+- Editorial argues the control system underaddresses smokeless products, surrogate branding, films/OTT/social promotion, single-unit affordability and limited cessation access. **COTPA 2003 does cover scheduled smokeless tobacco products**; a claim of inadequate enforcement is not absence of legal coverage.
+- **85% of front/back principal display areas** carry health warnings under packaging rules; do not interpret this as 85% of every surface of a package. **2019 electronic-cigarette prohibition** covers manufacture, import/export, transport, sale/distribution, storage and advertising; online availability indicates an enforcement gap, not legalisation.
+- Source estimates **₹1,773.4 billion tobacco-use burden and ₹566.7 billion second-hand-smoke burden**, tax shares of **22% bidis/50% cigarettes**, and global **8 million/1.3 million** deaths require their underlying study/reference years. Do not add costs from unlike studies into one current national total. Earlier notes preserve the dated 2017–18 tobacco-cost study.
+- Strengthen **NTCP**, tobacco-free educational institutions, family/teacher participation from early schooling, cessation services and regular evaluation. Poverty/stress and commercial determinants need attention alongside awareness. Independent research/oversight, stronger indirect-ad bans, plain packaging and multi-ministry “endgame” strategy are recommendations, not all newly enacted rules.
+
 ## PDF coverage
 
-2025-05-30: pp. 8, 9, 10, 11
+2025-05-30: pp. 8, 9, 10, 11 · 2025-08-26: pp. 6, 7, 8, 9, 10, 11

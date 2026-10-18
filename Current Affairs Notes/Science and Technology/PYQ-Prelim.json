@@ -474,6 +474,24 @@
         "d": "They activate certain genes in the cells of the body and help delay the ageing process"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "K-6 reports and submarine-launched ballistic missiles",
+      "year": 2014,
+      "question": "With reference to Agni-IV Missile, which of the following statements is/are correct?\n1. It is a surface-to-surface missile.\n2. It is fuelled by liquid propellant only.\n3. It can deliver one-tonne nuclear warheads about 7500 km away.\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2015,
+      "chapter": "H1N1 influenza",
+      "question": "H1N1 virus is sometimes mentioned in the news with reference to which one of the following diseases?\n(a) AIDS\n(b) Bird flu\n(c) Dengue\n(d) Swine flu",
+      "answer": "(d) Swine flu"
     }
   ]
 }

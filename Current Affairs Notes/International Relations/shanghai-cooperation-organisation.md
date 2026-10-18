@@ -16,6 +16,11 @@
 - Source reports **India declined to sign the SCO Defence Ministers' joint statement** because the Pahalgam attack was omitted; failure to reach consensus prevented adoption. This demonstrates the limits of regional counter-terrorism cooperation when members differ on terrorism narratives; it does not mean India left SCO.
 - Existing ten-member list, RATS/Secretariat and India interests apply. **2022 membership PYQ: (d), all three**—India belongs to AIIB, MTCR and SCO. The complete question was already captured from the June24 issue, so it is not duplicated in the bank.
 
+## Tianjin summit preview and practice correction
+- Embedded report previews the **31 August–1 September 2025 Tianjin summit** and China's call for regional solidarity. At the issue date this was an upcoming meeting, not completed summit outcomes. Existing notes cover ten members, institutions and India's strategic-autonomy/BRI constraints.
+- The practice's statement 1 wrongly puts **Uzbekistan** in the **1996 Shanghai Five**, omitting **Tajikistan**. Therefore the printed **all four (d)** key is wrong: with statements 2, 3 and 4 as printed, **2, 3 and 4 only (b)** is correct. India/Pakistan joined in 2017; RATS is in Tashkent; Belarus became the tenth member in **2024**, not the explanation's 2023.
+- **2022 CSE PYQ: AIIB, MTCR and SCO—all three (d)**; the full repeated question is available for deduplication. SCO is a regional cooperation organisation, not an automatic collective-defence alliance.
+
 ## PDF coverage
 
-2025-06-20: pp. 3, 4, 5 · 2025-06-24: pp. 30, 31, 32, 33 · 2025-06-27: pp. 1, 2, 3, 4 · 2025-07-16: pp. 6, 7, 8
+2025-06-20: pp. 3, 4, 5 · 2025-06-24: pp. 30, 31, 32, 33 · 2025-06-27: pp. 1, 2, 3, 4 · 2025-07-16: pp. 6, 7, 8 · 2025-08-23: pp. 6, 7, 8

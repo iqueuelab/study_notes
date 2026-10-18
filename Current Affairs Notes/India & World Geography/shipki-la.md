@@ -8,6 +8,11 @@
 - Potential gains: border employment, reduced outmigration and people-to-people links. A shorter Kailash–Mansarovar route remains a **proposal requiring bilateral arrangements**, not an operational pilgrimage route.
 - **2007 PYQ: Nathu La (Sikkim)** reopened for India–China trade in **July 2006**; distinguish it from Shipki La.
 
+## August 2025: proposed trade resumption
+- Embedded clipping reports China agreed **in principle** during Wang Yi's recent India visit to the proposal to resume trade through Shipki La; the Union government initiated discussion concerning **Shipki La, Lipulekh and Nathu La**. This is diplomatic progress, not evidence traders have already crossed or customs operations restarted.
+- Trade had been suspended in **2020 because of COVID-19**; the body's claim of no commercial activity for decades is stale. Domestic tourism access remains distinct from cross-border trade and from a proposed Kailash–Mansarovar route through Shipki La. Existing location, traditional exchange and 2007 Nathu La PYQ notes apply.
+- Official **7 August 2025** parliamentary reply confirms designated trade arrangements: **Lipulekh 1992, Shipki La 1995 and Nathu La July 2006**; all disrupted in 2020, with resumption under discussion then. [MEA parliamentary answer](https://sansad.in/getFile/annex/268/AU2124_IPerlE.pdf?source=pqars).
+
 ## PDF coverage
 
-2025-06-17: pp. 10, 11, 12, 13
+2025-06-17: pp. 10, 11, 12, 13 · 2025-08-25: pp. 1, 2, 3

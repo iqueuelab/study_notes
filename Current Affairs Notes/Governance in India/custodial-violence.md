@@ -20,6 +20,13 @@
 - Source cites **Global Torture Index 2025 high-risk classification**, an external assessment, not a court finding in every case. Law Commission's **273rd report (2017)** recommended a dedicated anti-torture law; existing July 11 notes cover UNCAT status, D.K. Basu and legal safeguards.
 - Invest in forensic capacity/training, independent complaints and investigation, witness protection, medical access and accountable supervision. The daily mains prompt is publisher practice, not a UPSC PYQ.
 
+## Judicial language and caste-sensitive accountability
+- Editorial criticises a **Chhattisgarh High Court** judgment describing police conduct toward a Dalit victim as an attempt to teach a lesson. This is the editorial's assessment of a specific case; punishment requires lawful process, not police retaliation or judicially excused violence.
+- The article disputes non-application of the **SC/ST (Prevention of Atrocities) Act** and stresses structural caste power. A victim's caste alone does not automatically prove every statutory offence; courts must apply the relevant provision and evidence without ignoring circumstantial or structural discrimination.
+- **Articles 14, 21 and 22**, D.K. Basu safeguards, independent investigation, medical documentation, CCTV/recorded arrests, witness protection, compensation and rehabilitation support accountability. Article 17 is relevant where untouchability practices are involved; Article 19 freedoms do not replace the specific arrest safeguards of Article 22.
+- Avoid legitimising torture through correction/deterrence language; judicial reasons influence policing norms. Source's generic 'hundreds annually' lacks a period/custody category; retain the existing notes' distinctions between police/judicial custody deaths and proven torture.
+- Daily Mains practice (**250 words, 15 marks**) asks about the judiciary's role: balance condemnation of custodial violence, effective safeguards and evidence-based liability. It is publisher practice, not a past CSE question.
+
 ## PDF coverage
 
-2025-07-03: pp. 3, 4, 5 · 2025-07-11: pp. 10, 11, 12, 13, 14 · 2025-07-31: pp. 12, 13, 14 · 2025-08-02: pp. 70, 71, 72, 73
+2025-07-03: pp. 3, 4, 5 · 2025-07-11: pp. 10, 11, 12, 13, 14 · 2025-07-31: pp. 12, 13, 14 · 2025-08-02: pp. 70, 71, 72, 73 · 2025-08-22: pp. 14, 15, 16

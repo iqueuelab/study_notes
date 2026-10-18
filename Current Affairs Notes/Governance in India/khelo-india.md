@@ -14,7 +14,12 @@
 - The **7th Khelo India Youth Games inaugurated on 4 May 2025**, with competition scheduled through **15 May**; source's “will be held” preview can now be updated to the opening milestone. The existing notes retain Bihar host cities, Delhi specialised venues, evolution and corrected **under-18** eligibility. [Official inaugural account](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2126850&lang=2&reg=48).
 - An opening ceremony is not proof every planned competition/infrastructure benefit has been completed. Existing talent-support qualifications continue to apply; the PDF's under-17/under-21 and universal ₹5-lakh-for-eight-years table should not replace them.
 
+## 21–23 August 2025: Dal Lake water-sports festival
+- **First Khelo India Water Sports Festival**, Srinagar's **Dal Lake**, organised by SAI and the J&K Sports Council; **rowing, canoeing and kayaking** medal events, with **water skiing, dragon boat and shikara** demonstrations. This broadens the calendar beyond winter, youth, university, para and the **May 2025 Diu Beach Games**.
+- The embedded opening report counts **409 athletes, 36 States/UTs and 24 gold medals**, including **202 women**, and team sizes MP 62, Haryana 37, Odisha 34 and Kerala 33. These are the opening report's event figures, not national participation statistics. [Official festival programme](https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=2&NoteId=155057&lang=2&reg=48).
+- Develop facilities, coaches, sports science and sustained competition pathways; hosting can support lake livelihoods/tourism but requires pollution and carrying-capacity safeguards. Existing notes retain the corrected Youth Games **under-18** eligibility and evolving talent-support components; the recycled **under-17/under-21 and ₹5 lakh for eight years** formula is not a universal new 2025 entitlement.
+- Practice answer **1, 2 and 3 only (B)**: Khelo India includes indigenous and non-Olympic sports; Olympic-only restriction is false.
 
 ## PDF coverage
 
-2025-04-15: pp. 15, 16 · 2025-05-05: pp. 23, 24
+2025-04-15: pp. 15, 16 · 2025-05-05: pp. 23, 24 · 2025-08-22: pp. 5, 6, 7

@@ -263,6 +263,42 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "International Solar Alliance: solar deployment and global cooperation",
+      "year": 2016,
+      "question": "Consider the following statements:\n1. The International Solar Alliance was launched at the United Nations Climate Change Conference in 2015.\n2. The Alliance includes all the member countries of the United Nations.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Lipulekh Pass: border trade, pilgrimage and territorial dispute",
+      "year": 2007,
+      "question": "Which one of the following Himalayan passes was reopened around in the middle of the year 2006 to facilitate trade between India and China?",
+      "options": {
+        "a": "Chang La",
+        "b": "Jara La",
+        "c": "Nathu La",
+        "d": "Shipki La"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Shanghai Cooperation Organisation: membership and India",
+      "year": 2022,
+      "question": "Consider the following:\n1. Asian Infrastructure Investment Bank (AIIB)\n2. Missile Technology Control Regime (MTCR)\n3. Shanghai Cooperation Organisation (SCO)\nIndia is a member of which of the above?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
     }
   ]
 }

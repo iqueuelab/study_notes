@@ -503,6 +503,90 @@
         "d": "1, 2, 3, 4 and 5"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "Saltwater crocodiles and India’s crocodilian conservation",
+      "year": 2013,
+      "question": "Consider the following fauna of India:\n1. Gharial\n2. Leatherback Turtle\n3. Swamp Deer\nWhich of the above is/are endangered?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "1, 2 and 3",
+        "d": "None"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Saltwater crocodiles and India’s crocodilian conservation",
+      "year": 2017,
+      "question": "If you want to see gharials in their natural habitat, which one of the following is the best place to visit?",
+      "options": {
+        "a": "Bhitarkanika Mangroves",
+        "b": "Chambal River",
+        "c": "Pulicat Lake",
+        "d": "Deepor Beel"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Lion-tailed macaque: rainforest habitat and coexistence",
+      "year": 2013,
+      "question": "In which of the following States is lion-tailed macaque found in its natural habitat?\n1. Tamil Nadu\n2. Kerala\n3. Karnataka\n4. Andhra Pradesh\nSelect the correct answer using the codes given below.",
+      "options": {
+        "a": "1, 2 and 3 only",
+        "b": "2 only",
+        "c": "1, 3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Great Nicobar: development, ecology and tribal rights",
+      "year": 2009,
+      "question": "In which one of the following places is the Shompen tribe found?",
+      "options": {
+        "a": "Nilgiri Hills",
+        "b": "Nicobar Islands",
+        "c": "Spiti Valley",
+        "d": "Lakshadweep Islands"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Great Nicobar: development, ecology and tribal rights",
+      "year": 2014,
+      "question": "Which one of the following pairs of islands is separated from each other by the ‘Ten Degree Channel’?",
+      "options": {
+        "a": "Andaman and Nicobar",
+        "b": "Nicobar and Sumatra",
+        "c": "Maldives and Lakshadweep",
+        "d": "Sumatra and Java"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2021,
+      "chapter": "Blue carbon and coastal wetland protection",
+      "question": "What is blue carbon?\n(a) Carbon captured by oceans and coastal ecosystems.\n(b) Carbon sequestered in forest biomass and agricultural soils.\n(c) Carbon contained in petroleum and natural gas.\n(d) Carbon present in atmosphere.",
+      "answer": "(a) Carbon captured by oceans and coastal ecosystems."
+    },
+    {
+      "year": 2023,
+      "chapter": "Blue carbon and coastal wetland protection",
+      "question": "Consider the following activities:\n1. Spreading finely ground basalt rock on farmlands extensively\n2. Increasing the alkalinity of oceans by adding lime\n3. Capturing carbon dioxide released by various industries and pumping it into abandoned subterranean mines in the form of carbonated waters\nHow many of the above activities are often considered and discussed for carbon capture and sequestration (CCS)?\n(a) Only one\n(b) Only two\n(c) All three\n(d) None",
+      "answer": "(c) All three"
+    },
+    {
+      "year": 2017,
+      "chapter": "Wastewater surveillance and sewage treatment",
+      "question": "Biological Oxygen Demand (BOD) is a standard criterion for\n(a) Measuring oxygen levels in blood\n(b) Computing oxygen levels in forest ecosystems\n(c) Pollution assay in aquatic ecosystems\n(d) Assessing oxygen levels in high altitude regions",
+      "answer": "(c) Pollution assay in aquatic ecosystems"
+    },
+    {
+      "year": 2017,
+      "chapter": "Wastewater surveillance and sewage treatment",
+      "question": "In the context of solving pollution problems, what is/are the advantage/advantages of bioremediation technique?\n1. It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.\n2. Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.\n3. Genetic engineering can be used to create microorganisms specifically designed for bioremediation.\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "answer": "(c) 1 and 3 only"
     }
   ]
 }

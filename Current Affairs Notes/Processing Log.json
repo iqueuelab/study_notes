@@ -4332,37 +4332,117 @@
     {
       "date": "2025-08-20",
       "pdf": "2025/08-August/2025-08-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fbeb84e22d692145cfadff7b86ba916e45beac9397052c4065033dcb33c3d81f",
+      "pages": 13,
+      "topic_ids": [
+        "defence-production",
+        "free-living-amoebae",
+        "saltwater-crocodile",
+        "sedition-bns152",
+        "swaminathan"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-21",
       "pdf": "2025/08-August/2025-08-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2b4ec7e94796d5c709e180136862acc32a851c6cd8f681018e2c4335b928258d",
+      "pages": 13,
+      "topic_ids": [
+        "agni-missiles",
+        "international-criminal-court",
+        "international-solar-alliance",
+        "pulikkali-onam"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-22",
       "pdf": "2025/08-August/2025-08-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2c8a4fbe7c0aef8bb7988a21ef2a7d5ee9d58417fa3b59760dffa076e5f32b39",
+      "pages": 16,
+      "topic_ids": [
+        "custodial-violence",
+        "dal-lake",
+        "governor-state-relations",
+        "khelo-india",
+        "lion-tailed-macaque",
+        "notto"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-23",
       "pdf": "2025/08-August/2025-08-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "5f6aac60a02fbbac25abb8587a89f168cbb1f32347aa59e189a1447a407d16b6",
+      "pages": 14,
+      "topic_ids": [
+        "great-nicobar",
+        "jute-jci",
+        "lipulekh-pass",
+        "shanghai-cooperation-organisation",
+        "stray-dog-ethics"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-24",
       "pdf": "2025/08-August/2025-08-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7731c9014b5dd72ac298141d1861e39faf29462547a9e3ff7a41a3265c098fd7",
+      "pages": 11,
+      "topic_ids": [
+        "k6-slbm",
+        "map-projections",
+        "navic",
+        "nuclear-submarines"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-25",
       "pdf": "2025/08-August/2025-08-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a7899f332a4d6fc5f666a0e2b5cf0996166e442186498a763f9cc04060920db5",
+      "pages": 13,
+      "topic_ids": [
+        "axiom-4",
+        "iadws",
+        "ibca",
+        "minister-detention-bill",
+        "shipki-la",
+        "warfare-decoys"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-26",
       "pdf": "2025/08-August/2025-08-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a5b0c382f197462b6457ee8d7f0af6c1917a9525181df66a569de601767f69ae",
+      "pages": 21,
+      "topic_ids": [
+        "blue-carbon",
+        "cerebo",
+        "h1n1",
+        "huntington",
+        "naval-platforms",
+        "tobacco-board",
+        "tobacco-control",
+        "wastewater-surveillance"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-27",
@@ -6196,7 +6276,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-08-20",
+  "next_pdf": "2025-08-27",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

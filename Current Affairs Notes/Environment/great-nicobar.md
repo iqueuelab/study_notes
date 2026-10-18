@@ -26,6 +26,12 @@
 - Source project footprint **16,610ha**, tribal reserve **751km²/84km²proposeddenotification**, and power unit **450MVA** are source descriptions requiring document-specific scope; MVA(apparent power) is not interchangeable with MW(real power). Shompen PVTG resource access and Nicobarese2004relocation experience require meaningful consultation/rights assessment.
 - November2022TribalCouncil withdrawal ofNOC and April2023NGThigh-powered review are reported legal/administrative history; a committee review is not unconditional validation of all claims. Do not infer commercial-port Navy control solely from strategic rationale; official operating arrangements require separate evidence.
 
+## August 2025: disputed forest-rights certification
+- Embedded article reports the **Great and Little Nicobar Tribal Council** complained that administration had represented FRA rights as settled although the council disputed settlement of individual/community rights. It describes an **August 2022 official certificate** and a **July 2025 representation/meeting**; these are reported claims, not a final court finding of fraud or resolved title.
+- The council also disputed coverage of the **2006 Forest Rights Act** in the islands and stressed Nicobarese displacement after the 2004 tsunami. Statutory recognition/settlement of applicable rights and informed consultation need to be examined separately from environmental clearance and infrastructure strategy.
+- Existing notes already retain the four project components, **₹72,000 crore** proposal, **16,610 ha** footprint, seismic/tsunami uncertainty, Shompen PVTG, leatherback nesting and National Parks. Source's **450 MVA** is apparent power, not MW; strategic rationale does not establish that the Navy will commercially control the port.
+- Practice **1, 2 and 3 only (c)**; Great Nicobar is **south** of the Ten Degree Channel. **2009 Shompen: Nicobar Islands (b)**; **2014 channel: Andaman and Nicobar (a)**.
+
 ## PDF coverage
 
-2025-01-06: pp. 4, 5, 6, 7, 8, 9 · 2025-05-04: pp. 10, 11, 12, 13, 14, 15, 16 · 2025-07-07: pp. 23, 24
+2025-01-06: pp. 4, 5, 6, 7, 8, 9 · 2025-05-04: pp. 10, 11, 12, 13, 14, 15, 16 · 2025-07-07: pp. 23, 24 · 2025-08-23: pp. 8, 9, 10, 11

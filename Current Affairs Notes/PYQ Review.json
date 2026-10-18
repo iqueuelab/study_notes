@@ -782,6 +782,34 @@
         "d": "1, 2 and 3"
       },
       "answer": "b"
+    },
+    {
+      "date": "2025-08-22",
+      "note": "Three complete dated CSE Prelim questions retained; SSC CHSL 2018 excluded from CSE bank. All unyearred practice and Daily Mains excluded."
+    },
+    {
+      "date": "2025-08-23",
+      "note": "Six complete CSE Prelim questions retained for deduplication. SCO practice printed key wrong; Mercator duplicate options are publisher practice, not CSE. Daily Mains lacks past-exam provenance and excluded."
+    },
+    {
+      "date": "2025-08-24",
+      "note": "Five complete CSE Prelim questions retained for deduplication; NavIC and K-6 content repeats baseline, recorded with empty additions. No CSE Mains question supplied."
+    },
+    {
+      "date": "2025-08-25",
+      "note": "Complete 2007 Nathu La already banked; do not duplicate. Pasted Axiom-4/SpaDeX/Gaganyaan microgravity question page 9 lacks printed year: held for review, no invented year. Other UPSC-labelled questions are undated practice."
+    },
+    {
+      "date": "2025-08-26",
+      "note": "Added five complete dated CSE questions: blue carbon 2021; CCS 2023; H1N1 2015; BOD and bioremediation 2017. Board-headquarters 2008 omits distractor code options: incomplete, existing full bank retained. Fruits 2025 omits options: incomplete, existing full bank retained; source guava explanation is dubious and not reproduced. NDA 2024 tobacco and ESE 2017 tertiary treatment excluded from CSE. Remaining questions practice."
+    },
+    {
+      "date": "2025-08-27",
+      "note": "Added complete GI Act 2018/GI products 2015 and Mains LWE 2025. Already banked: turmeric 2025, cocoa 2024, fighter generation 2024, Bollgard 2022, DRC cobalt and Congo Basin 2023, countries in news 2022; preserve existing full versions/options. CDS 2024 coconut excluded. Other undated practice excluded."
+    },
+    {
+      "date": "2025-08-27",
+      "note": "All eight new candidates compared against all existing stage/year banks with full question strings, including questions that embed options; no matches found. New candidates use embedded full options once. Baseline topic-current full existing topic Markdown and peer result-01/02/03 additions consulted for deduplication."
     }
   ],
   "resolved": [

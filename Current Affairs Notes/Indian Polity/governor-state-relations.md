@@ -59,7 +59,12 @@
 - Canada’s federal reference power comes from **section 53 of the Supreme Court Act**, exercised by the Governor in Council; provincial references use their applicable provincial frameworks. Do not label it a directly equivalent constitutional Article or say every provincial government sends references directly to the Supreme Court. [Canadian Act](https://laws-lois.justice.gc.ca/eng/acts/S-26/section-53.html).
 - The May 25 practice sheet’s absolute “no precedential value” claim for Indian advisory opinions is misleading: Article 143 opinions have substantial constitutional authority, as the earlier discussion explains.
 
+## August assent debate: constitutional restraint
+- Embedded clippings discuss whether courts should remain passive while Governors block Bills; the issue reprints the **April Tamil Nadu judgment**, not a fresh August enactment of assent deadlines. Existing notes distinguish April directions, the pending Presidential Reference and the later separately dated opinion. Constitutional text contains no numerical deadline, but this does not grant an unlimited pocket veto.
+- Reform proposals—CM consultation, neutral appointees, protection against arbitrary removal, clearer discretion and State-legislature impeachment—remain proposals. **NCRWC final report: 2002**, not the source's 2001 shorthand. Practice **2 and 4 only (C)**: reservation and multiple-State appointments are permitted; five years is subject to pleasure, and aid/advice has constitutional exceptions.
+- **2015 custodian PYQ: Supreme Court (d)**; High Courts also exercise constitutional judicial review under Article 226. Do not infer that constitutional guardianship excludes every other institution's duty to uphold the Constitution.
+- The **SSC CHSL 2018** pleasure question is outside the CSE bank: AG and Governors hold office at Presidential pleasure; CAG removal follows the constitutional judge-removal standard. Its further note wrongly equates all Election Commissioners with the CEC's protection: Article 324(5) protects CEC removal like a Supreme Court judge, while other Election Commissioners cannot be removed except on the CEC's recommendation.
 
 ## PDF coverage
 
-2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19 · 2025-05-17: pp. 9, 10, 11, 12 · 2025-05-19: pp. 12, 13, 14, 15, 16 · 2025-05-25: pp. 4, 5 · 2025-07-24: pp. 20, 21, 22, 23, 24
+2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19 · 2025-05-17: pp. 9, 10, 11, 12 · 2025-05-19: pp. 12, 13, 14, 15, 16 · 2025-05-25: pp. 4, 5 · 2025-07-24: pp. 20, 21, 22, 23, 24 · 2025-08-22: pp. 7, 8, 9, 10, 11
