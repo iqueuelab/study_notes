@@ -479,6 +479,30 @@
         "d": "1, 2, 3, 4 and 5"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "Water hyacinth: invasion, livelihoods and collective control",
+      "year": 2018,
+      "question": "Why is a plant called Prosopis juliflora often mentioned in news?",
+      "options": {
+        "a": "Its extract is widely used in cosmetics.",
+        "b": "It tends to reduce the biodiversity in the area in which it grows.",
+        "c": "Its extract is used in the synthesis of pesticides.",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Jellyfish blooms and coastal infrastructure risk",
+      "year": 2021,
+      "question": "Which of the following are detritivores?\n1. Earthworms\n2. Jellyfish\n3. Millipedes\n4. Seahorses\n5. Woodlice\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 4 only",
+        "b": "2, 3, 4 and 5 only",
+        "c": "1, 3 and 5 only",
+        "d": "1, 2, 3, 4 and 5"
+      },
+      "answer": "c"
     }
   ]
 }

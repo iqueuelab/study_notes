@@ -450,6 +450,30 @@
         "d": "1, 2, 3, 4 and 5"
       },
       "answer": "a"
+    },
+    {
+      "chapter": "IN-SPACe, POEM and SpaDeX",
+      "year": 2010,
+      "question": "The satellite Oceansat-2 launched by India helps in:\n1. Estimating the water vapour content in the atmosphere.\n2. Predicting the onset of monsoons.\n3. Monitoring the pollution of coastal waters.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Halman apricot: Ladakh horticulture and Gulf exports",
+      "year": 2011,
+      "question": "Regular intake of fresh fruits and vegetables is recommended in the diet since they are a good source of antioxidants. How do antioxidants help a person maintain health and promote longevity?",
+      "options": {
+        "a": "They activate the enzymes necessary for vitamin synthesis in the body and help prevent vitamin deficiency",
+        "b": "They prevent excessive oxidation of carbohydrates, fats and proteins in the body and help avoid unnecessary wastage of energy",
+        "c": "They neutralize the free radicals produced in the body during metabolism",
+        "d": "They activate certain genes in the cells of the body and help delay the ageing process"
+      },
+      "answer": "c"
     }
   ]
 }

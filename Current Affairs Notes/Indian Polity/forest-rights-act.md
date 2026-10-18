@@ -12,6 +12,12 @@
 - Concern: parallel administrative structures could weaken Gram Sabha autonomy; preserve a clear assistance/decision boundary. The accompanying MoTA directive emphasises protection from unlawful eviction and grievance mechanisms.
 - 2021 PYQ answer: **Ministry of Tribal Affairs (d)**.
 
+## Chhattisgarh records: August 2025 concern
+- RTI-based report found reductions in previously reported titles in at least **three districts over17 months**; officials attributed this to miscommunication/reporting corrections, denying actual loss of field titles. An aggregate data discrepancy alone does not establish legal cancellation of each claimant's right.
+- Source **May 2025** snapshot across **30 districts:4.82 lakh individual titles,4,396 community forest-resource titles**. Embedded graphic reports **2,788 IFR titles missing from Bastar's records** and a **50% reduction in Rajnandgaon's CFR count within one month last year**; these are allegations/data comparisons requiring record reconciliation, not verified eviction totals.
+- Reconcile registers with issued pattas/Gram Sabha records, audit changes and preserve reasons, accessible grievance redress and claimant assistance. Digitisation must not silently extinguish rights.
+- **2019 PYQ:** bamboo is minor forest produce under FRA and ownership/collection/use/disposal rights are recognised; **2017 Indian Forest Act change concerned bamboo on non-forest land**, not unrestricted forest felling. **2 and 3 only (b)**. **2021 nodal-ministry PYQ: Tribal Affairs (d)**. Other FRA provisions repeat earlier notes.
+
 ## PDF coverage
 
-2025-06-14: pp. 12, 13, 14, 15, 16
+2025-06-14: pp. 12, 13, 14, 15, 16 · 2025-08-14: pp. 1, 2, 3, 4, 5

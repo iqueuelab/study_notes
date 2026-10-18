@@ -16,7 +16,17 @@
 - Proposed **trial spectrum within 15–20 days** was an expectation, not a confirmed allocation/delivery deadline; security obligations include lawful interception.
 - Diagram compares **LEO/MEO/GEO**: lower altitude generally reduces propagation delay but needs constellation/handover support; **Starlink uses LEO**. Existing notes retain affordability, gateway/power/coverage and debris qualifications.
 
+## Orbit comparison and dual use
+| Orbit | Approximate altitude | Communications trade-off |
+|---|---|---|
+| **LEO** | Below 2,000 km | Lower propagation delay; many satellites, tracking and handovers |
+| **MEO** | Between LEO and GEO | Wider footprints than LEO; constellation still required (e.g. O3b) |
+| **GEO** | ~35,786 km above equator | Appears fixed; broad footprint, high propagation delay, poorer polar coverage |
+- A GEO satellite can see roughly one-third of Earth geometrically; usable coverage depends on elevation/beam/service constraints. Illustrative source latency **LEO20–40 ms, MEO150 ms, GEO600 ms** is end-to-end/system dependent, not a universal orbital constant.
+- Remote mountains/islands/deserts can have high terrestrial cost per user; satellite links support ships/aircraft, telemedicine, farming and disaster recovery. Ground gateways, terminals, power and backhaul remain necessary network elements.
+- **Dual use:** civilian and military communications, drone/support networks and remote-border backup; also potential illicit-device use. Secure access, control, interception/privacy rules and resilience matter.
+- Source **US$500 terminal +US$50/month** is an illustrative overseas/report estimate, not an announced Indian tariff. Direct-to-device technology, scale and competition may lower costs; predicted price convergence is not assured. Practice: **all three (D)**; the explanation's “statement4” means its third statement.
 
 ## PDF coverage
 
-2025-03-17: pp. 23, 24, 25, 26, 37 · 2025-03-18: pp. 24, 25, 26, 27, 35 · 2025-03-19: pp. 18, 19, 20, 21, 22 · 2025-06-07: pp. 9, 10
+2025-03-17: pp. 23, 24, 25, 26, 37 · 2025-03-18: pp. 24, 25, 26, 27, 35 · 2025-03-19: pp. 18, 19, 20, 21, 22 · 2025-06-07: pp. 9, 10 · 2025-08-13: pp. 11, 12, 13

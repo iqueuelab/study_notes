@@ -16,6 +16,10 @@
 - Botswana illustrates how state participation, expertise, public revenues and reinvestment in health, education and infrastructure can support resource-led development. Transparent benefit-sharing and diversification matter: diamond dependence still exposes an economy to price/demand shocks.
 - Examine mineral diplomacy, environmental safeguards and PPP accountability rather than treating resource wealth as automatically eliminating the resource curse.
 
+## August 2025: tariff exposure in the processing chain
+- Embedded clipping reports a US **25% tariff from 7 August** and a further **25% announced for 27 August**, as understood at this issue date. [6 August US announcement](https://www.whitehouse.gov/fact-sheets/2025/08/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-the-russian-federation/). The second component was prospective; do not report both as already effective on 16 August. Surat processors face order, employment and margin pressures despite established cutting/polishing capacity.
+- The clipping's argument that US buyers have few alternatives is an industry assessment, not proof tariffs cannot alter sourcing, demand or margins. Its **over 30% US export share, over 90% global cutting/polishing and roughly 7.5 lakh workers** are source-era industry estimates with different denominators, not new audited national totals. Existing geology, mine-location and Kimberley Process qualifications apply.
+
 ## PDF coverage
 
-2025-04-23: pp. 1, 2, 3, 4, 5, 6
+2025-04-23: pp. 1, 2, 3, 4, 5, 6 · 2025-08-16: pp. 5, 6

@@ -44,6 +44,54 @@
         "d": "1, 2, 3 and 4"
       },
       "answer": "a"
+    },
+    {
+      "chapter": "Forest Rights Act: recognition and implementation",
+      "year": 2021,
+      "question": "At the national level, which ministry is the nodal agency to ensure effective implementation of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006?",
+      "options": {
+        "a": "Ministry of Environment, Forest and Climate Change",
+        "b": "Ministry of Panchayati Raj",
+        "c": "Ministry of Rural Development",
+        "d": "Ministry of Tribal Affairs"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Forest Rights Act: recognition and implementation",
+      "year": 2019,
+      "question": "Consider the following statements:\n1. As per recent amendment to the Indian Forest Act, 1927, forest dwellers have the right to fell the bamboos grown on forest areas.\n2. As per the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, bamboo is a minor forest produce.\n3. The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 allows ownership of minor forest produce to forest dwellers.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Religious conversion: autonomy, safeguards and State laws",
+      "year": 2018,
+      "question": "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement?",
+      "options": {
+        "a": "Article 14 and the provisions under the 42nd Amendment to the Constitution.",
+        "b": "Article 17 and the Directive Principles of State Policy in Part IV.",
+        "c": "Article 21 and the freedoms guaranteed in Part III.",
+        "d": "Article 24 and the provisions under the 44th Amendment to the Constitution."
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Religious conversion: autonomy, safeguards and State laws",
+      "year": 2021,
+      "question": "'Right to Privacy' is protected under which Article of the Constitution of India?",
+      "options": {
+        "a": "Article 15",
+        "b": "Article 19",
+        "c": "Article 21",
+        "d": "Article 29"
+      },
+      "answer": "c"
     }
   ]
 }

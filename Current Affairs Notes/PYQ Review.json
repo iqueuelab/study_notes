@@ -733,6 +733,55 @@
     {
       "date": "2025-08-12",
       "note": "No CSE PYQs supplied; all prelims and ethanol mains prompts are unyearred source practice. File footer identifies12August although header on page1 says11August."
+    },
+    {
+      "date": "2025-08-13",
+      "note": "2015 livestock Mains and complete image-only 2025 Rashtriya Gokul Mission Prelim retained; unyearred semiconductor/IAF/satellite/dairy practice excluded. Repeated known PYQs require deduplication on integration."
+    },
+    {
+      "date": "2025-08-14",
+      "note": "2021 FRA nodal ministry, 2019 bamboo, 2010 Oceansat-2 and 2025 resource-country CSE PYQs retained. EO practice misnumbers option; all unyearred practice and daily Africa Mains excluded."
+    },
+    {
+      "date": "2025-08-15",
+      "note": "2018 Prosopis and 2018/2021 privacy CSE Prelim questions retained. All other practice lacks exam year; excluded. Cloudburst explanation swaps statement numbering; scholarship claims need component-specific exceptions."
+    },
+    {
+      "date": "2025-08-16",
+      "note": "Six complete dated CSE prelims questions supplied (2025 aircraft pairs; 2024 fighter generation; 2018 THAAD; 2008 Barak; 2017 GST advantages; 2018 GST exemption). All already exist in common banks, so no duplicate appended. Existing full statements/options/answers retained there. Source Rafael normalised to Rafale. All unyearred practice excluded."
+    },
+    {
+      "date": "2025-08-17",
+      "note": "All prompts explicitly source practice; no dated CSE PYQ. Smooth-coated otter practice letter corrected: both statements is option c, not printed a."
+    },
+    {
+      "date": "2025-08-18",
+      "note": "Complete 2020 river-outlet CSE question already exists in International Relations common bank, so not duplicated. Honour-killing 250-word/15-mark daily mains and other unyearred practice excluded; no invented CSE year."
+    },
+    {
+      "date": "2025-08-19",
+      "note": "Five full year-labelled CSE questions added: SWAYAM 2016, antioxidants 2011, apples/GM food 2024, mountains 2024 and detritivores 2021. Credit agencies 2022 and SAF feedstocks 2024 already exist in subject common banks; retain revision explanations without duplicates. Other prompts are undated practice."
+    },
+    {
+      "date": "2025-08-20",
+      "note": "Three full CSE questions added: fauna 2013, gharial habitat 2017, Borlaug 2008. Wildlife Act animals 2017 already exists in Environment common bank. Sedition (250 words/15 marks) and Swaminathan mains (250 words) lack exam years and remain practice, not PYQs."
+    },
+    {
+      "date": "2025-08-21",
+      "note": "Full ballistic/cruise 2023 and ISA 2016 questions added. Agni IV 2014 already exists in Internal Security common bank. Sattriya question is fully printed but source labels 2016; other records identify 2014, so held for primary-paper year verification rather than adding a known suspect year. Remaining questions are source practice."
+    },
+    {
+      "date": "2025-08-21",
+      "note": "Held full question: printed year 2016 conflicts with identification as 2014. Official old-paper endpoint redirected to homepage during review. Do not publish in either year until primary-paper confirmation.",
+      "printed_year": 2016,
+      "question": "With reference to the famous Sattriya dance, consider the following statements:\n1. Sattriya is a combination of music, dance, and drama.\n2. It is a centuries-old living tradition of Vaishnavites of Assam.\n3. It is based on classical Ragas and Talas of devotional songs composed by Tulsidas, Kabir, and Mirabai.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
     }
   ],
   "resolved": [

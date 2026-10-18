@@ -32,7 +32,13 @@
 - Later milestone: second docking on 20 April and power transfer on **21 April 2025**. Power transfer had not already been demonstrated on 13 March. [ISRO milestone record](https://www.isro.gov.in/Spadex_Successful_demonstration_of_Second_Docking_and_Power_Transfer.html).
 - Rendezvous, docking and power-sharing support future stations, sample return and servicing. They do not mean every planned mission or refuelling capability is already operational.
 
+## 12 August 2025: commercial Earth-observation PPP selection
+- **IN-SPACe selected a PixxelSpace India-led consortium** with **PierSight Space, SatSure Analytics India and Dhruva Space** to design, build and operate a commercial EO constellation. Source plan: **12 satellites, investment over₹1,200 crore across five years**; selection/commitment is not launch or full deployment. [IN-SPACe announcement](https://www.inspace.gov.in/).
+- Planned data/services support agriculture, flood/fire/disaster management, climate, urban infrastructure, marine surveillance and national security. Indigenous capability improves data sovereignty; it cannot promise complete elimination of specialised/global foreign data.
+- **Analysis Ready Data (ARD)** is preprocessed for analysis; **Value-Added Services (VAS)** transform observations into products such as crop-health indices/flood-risk maps. Optical/infrared/radar sensors have different weather/light capabilities.
+- **Oceansat-2**, launched **23 September 2009**: **OCM-2** ocean colour/chlorophyll/sediment; **Ku-band scatterometer** ocean-surface winds; Italian **ROSA** radio occultation for atmospheric profiles. These explain **2010 PYQ: all three(d)**—water-vapour estimation, monsoon-onset prediction and coastal-pollution monitoring. [ISRO mission](https://new1.isro.gov.in/Oceansat_2.html).
+- EO practice intended **1,2,3 only**, which is **option2**, despite printed answer saying “option3”; fourth statement claiming complete replacement of foreign data is false.
 
 ## PDF coverage
 
-2025-01-01: pp. 27, 28 · 2025-01-07: pp. 18, 19, 20 · 2025-01-17: pp. 24, 25, 26 · 2025-01-18: pp. 24, 25, 26, 34, 35, 36 · 2025-01-19: pp. 15, 46 · 2025-03-14: pp. 6, 7, 8, 9, 10
+2025-01-01: pp. 27, 28 · 2025-01-07: pp. 18, 19, 20 · 2025-01-17: pp. 24, 25, 26 · 2025-01-18: pp. 24, 25, 26, 34, 35, 36 · 2025-01-19: pp. 15, 46 · 2025-03-14: pp. 6, 7, 8, 9, 10 · 2025-08-14: pp. 6, 7, 8

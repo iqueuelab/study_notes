@@ -14,6 +14,10 @@
 - Practice: substance + perfume use true; “completely legal in India” and “plant-based” false. Overpopulation of squid is not a recognised principal threat.
 - Mains: **demand/traceability → exploitation risk → national/international legal distinction → enforcement + alternatives + habitat protection**. Supplied questions are undated practice, not verified PYQs.
 
+## August 2025 seizure
+- Ahmedabad Rural SOG reportedly seized **2.97 kg ambergris**, with an estimated illicit-market valuation of **₹2.97 crore**, and arrested two people. Valuation is the source's enforcement estimate, not a legal sale price.
+- Practice **D: all three**—waxy substance, sperm-whale digestive origin, and nickname “floating gold”. Retain the existing CITES/national-law distinction: naturally excreted ambergris is not universally banned by CITES; India's restrictions remain applicable.
+
 ## PDF coverage
 
-2025-02-05: pp. 6, 7, 8, 9, 10
+2025-02-05: pp. 6, 7, 8, 9, 10 · 2025-08-19: pp. 4, 5, 6

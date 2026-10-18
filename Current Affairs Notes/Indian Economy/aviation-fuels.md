@@ -17,7 +17,12 @@
 - Indicative **1% in 2027, 2% in 2028, 5% in 2030** targets relate to **international flights**; the PDF mislabels 2030 as broader aviation. ICAO net zero by 2050 is an aspirational goal; CORSIA has separate implementation rules.
 - ATF also emits NOx/CO/particulates; aviation's climate effects include CO2 and non-CO2 processes. “Ozone depletion” alone is an oversimplified description—NOx chemistry depends on altitude and atmospheric conditions.
 
+## Panipat SAF project: planned commercial output
+- August report: **IndianOil's Panipat refinery, Haryana**, planned commercial SAF output by **December 2025**, **35,000 tonnes/year** capacity, using **used cooking oil** and **ISCC CORSIA certification**. This records the announced plan at the issue date, not proof of completion or production already underway.
+- Feedstock collection is easier from organised hotels/restaurants than dispersed eateries/households; traceability, consistent quality, logistics, certification and high cost constrain scale. Source's threefold/fourfold price and up-to-94% emissions-saving claims vary by pathway and market.
+- IOC also explores **ethanol → alcohol-to-jet**. Corn-derived ethanol belongs to ATJ, not direct corn-to-HEFA. CORSIA certification and an approved fuel specification/blend limit address different requirements; **50% is not a universal limit for every pathway**.
+- Retain indicative international-flight targets **1% in 2027, 2% in 2028, 5% in 2030**, correcting source table's broader-sector label. Repeat **2024 PYQ: C, all four feedstocks**; unyearred practice **B, used cooking oil + forestry residues + sludge**, excluding coal as renewable SAF feedstock.
 
 ## PDF coverage
 
-2025-03-28: pp. 23, 24 · 2025-03-29: pp. 23, 24 · 2025-06-02: pp. 22, 23, 24, 25, 26
+2025-03-28: pp. 23, 24 · 2025-03-29: pp. 23, 24 · 2025-06-02: pp. 22, 23, 24, 25, 26 · 2025-08-19: pp. 24, 25, 26, 27, 28

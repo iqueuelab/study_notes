@@ -8,6 +8,11 @@
 ## Reduce exposure and impacts
 - Local rain/radar monitoring and impact-based warnings, catchment/landslide hazard zonation, protected drains, slope-sensitive building/road siting, resilient bridges, evacuation planning and community drills. Insurance assists recovery but cannot replace safe siting.
 
+## Kishtwar flash-flood report, August 2025
+- Embedded clipping reports a flash flood at **Chisoti village, Kishtwar, Jammu&Kashmir**, on the **Machail Mata pilgrimage route**; early toll **at least40 dead,100+missing**. These are preliminary issue-time reports, not final totals; extreme flood damage alone does not verify a measured100mm/hour cloudburst at the exact site.
+- NDRF/SDRF, Army, police and local volunteers undertook rescue; safety of pilgrims, evacuation routes, settlement siting and exposed bridges matter alongside rainfall warning. Definition/process and NDMP2019 measures repeat existing notes.
+- Practice answer **1 only(A)** is consistent with its statements; the explanation accidentally swaps statement numbers. Cloudbursts are localised, and orographic uplift can contribute; fixed18–28°C/July–August conditions are not universal requirements.
+
 ## PDF coverage
 
-2025-08-06: pp. 1, 2, 3
+2025-08-06: pp. 1, 2, 3 · 2025-08-15: pp. 8, 9, 10

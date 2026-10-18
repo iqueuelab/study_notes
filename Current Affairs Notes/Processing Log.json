@@ -4217,37 +4217,117 @@
     {
       "date": "2025-08-13",
       "pdf": "2025/08-August/2025-08-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "eeca1e5d45c13967675bce725176e637e58380795d3663c8548cf9060fc47538",
+      "pages": 13,
+      "topic_ids": [
+        "dairy-nutrition",
+        "operation-sindoor",
+        "satellite-broadband",
+        "shakti-semiconductors"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-14",
       "pdf": "2025/08-August/2025-08-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "90b121d74ca5b52d668ae4b0aa54ae5d8a2897ca16abd16e56a68349497167ac",
+      "pages": 17,
+      "topic_ids": [
+        "drc-minerals",
+        "forest-rights-act",
+        "gallantry-awards",
+        "sc-st-scholarships",
+        "space-sector"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-15",
       "pdf": "2025/08-August/2025-08-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4eff0cba9987c0b961b59ad19c0fea36e8bc435d3b553fea0d3b75f330abfd6c",
+      "pages": 16,
+      "topic_ids": [
+        "anti-conversion-laws",
+        "cloudbursts",
+        "ordinary-residence-voting",
+        "sc-st-scholarships",
+        "water-hyacinth"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-16",
       "pdf": "2025/08-August/2025-08-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fa55ebeb001dfe52527be10ce8daa8bc66fed6832ebb7aa2c1ed0e34861403d4",
+      "pages": 11,
+      "topic_ids": [
+        "delimitation-demography",
+        "gst-gstat",
+        "jwaneng-diamonds",
+        "s400"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-17",
       "pdf": "2025/08-August/2025-08-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d5bfe35e180abccf55839d5f7f9217680e7865f30345b378862e4268df5eca65",
+      "pages": 8,
+      "topic_ids": [
+        "gaur",
+        "ideonella-sakaiensis",
+        "kodali-karuppur",
+        "smooth-coated-otter"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-18",
       "pdf": "2025/08-August/2025-08-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "854fc6ad18a8796cc0b2952420c3853f0e2f88d1cd48be0f14a7f00da0946deb",
+      "pages": 14,
+      "topic_ids": [
+        "dibru-saikhowa",
+        "honour-killings",
+        "india-namibia",
+        "manufacturing",
+        "patent-landscape"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-19",
       "pdf": "2025/08-August/2025-08-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "756567e505e82546f454ef17799f2f96f342c3ca11e475f13b4b61fda3f7cd10",
+      "pages": 33,
+      "topic_ids": [
+        "almonds",
+        "ambergris",
+        "aviation-fuels",
+        "credit-rating",
+        "donkey-skin-trade",
+        "halman-apricot",
+        "healthy-diets",
+        "jellyfish",
+        "mount-elbrus",
+        "swayam",
+        "ut-assembly-nominations"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-20",
@@ -6116,7 +6196,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-08-13",
+  "next_pdf": "2025-08-20",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -6183,6 +6263,11 @@
       "date": "2025-08-03",
       "status": "No combined Aug3 coverage label on the Aug4 PDF; retain missing standalone-source gap recorded by worker08.",
       "evidence": "2025-08-04.pdf page1 cover explicitly reads 4th Aug.2025 only; 23-page issue."
+    },
+    {
+      "date": "2025-08-19",
+      "status": "Article missing from supplied issue",
+      "evidence": "Contents page lists “Indian Astronaut will step on moon by 2040”, but no corresponding substantive article/pages are present in the supplied 33-page PDF. No notes invented for this contents-only item."
     }
   ]
 }

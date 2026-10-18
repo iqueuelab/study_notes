@@ -126,6 +126,30 @@
       "question": "During a thunderstorm, the thunder in the skies is produced by the:\n1. Meeting of cumulonimbus clouds in the sky\n2. Lightning that separates the nimbus clouds\n3. Violent upward movement of air and water particles\nSelect the correct answer using the codes given below:\n(a) 1 only\n(b) 2 and 3\n(c) 1 and 3\n(d) None of the above produces the thunder",
       "answer": "(d)",
       "exam": "UPSC CSE"
+    },
+    {
+      "chapter": "DR Congo: critical minerals and the resource curse",
+      "year": 2025,
+      "question": "Consider the following pairs:\nCountry — Resource-rich in\n1. Botswana — Diamond\n2. Chile — Lithium\n3. Indonesia — Nickel\nIn how many of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Mount Elbrus and Caucasus mountain geography",
+      "year": 2024,
+      "question": "Consider the following information:\nRegion | Name of the mountain range | Type of mountain\n1. Central Asia | Vosges | Fold mountain\n2. Europe | Alps | Block mountain\n3. North America | Appalachians | Fold mountain\n4. South America | Andes | Fold mountain\nIn how many of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All four"
+      },
+      "answer": "b"
     }
   ]
 }

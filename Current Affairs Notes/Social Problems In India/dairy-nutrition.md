@@ -27,6 +27,11 @@
 - **2015 Mains PYQ:** rural non-farm income/employment potential; include women/smallholders and sustainable husbandry.
 - Embedded news trigger: dairy/agriculture market-access differences complicated India–US trade negotiations; producer livelihoods and food standards require attention alongside export opportunities.
 
+## August production update and Gokul Mission recall
+- Embedded report: **2023–24 milk output 239.3 million tonnes**; cows **53.12%**, buffaloes **43.62%** of total. Uttar Pradesh led, followed by Rajasthan; the adjacent Rajasthan-first list uses an older ranking. Do not combine years. [DAHD/PIB production confirmation](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2101854&lang=2&reg=48).
+- **Rashtriya Gokul Mission** supports scientific development/conservation of indigenous cattle and buffalo breeds and higher productivity; small/marginal farmers and landless households hold many low-yielding animals. **2025 PYQ: both statements (c)**; the image supplies the complete question although text extraction omits it.
+- **2015 Mains** livestock question: link non-farm employment/income to feed, veterinary care, breeding, credit, cooperatives, processing and remunerative markets. Operation Flood phases, historical MMPO and dairy constraints repeat existing notes.
+
 ## PDF coverage
 
-2025-01-30: pp. 1, 2, 3, 4, 5 · 2025-06-24: pp. 15, 16, 17, 18
+2025-01-30: pp. 1, 2, 3, 4, 5 · 2025-06-24: pp. 15, 16, 17, 18 · 2025-08-13: pp. 5, 6, 7, 8

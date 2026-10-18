@@ -30,7 +30,17 @@
 - Planned capacity **20000 wafers/month,36 millionchips/month** concerns different production-stage units. Source’s “first UP chip plant” is a State/project-specific claim, not India’s first-ever domestic chip.
 - The clipping quotes a claim of meeting~40% domestic demand once operational; forecast depends on product mix/yields/demand. Possible later display-panel investment is an expectation, not part of an already operating panel fab.
 
+## 12 August 2025: four additional projects
+- Cabinet approvals brought ISM's total from **six to ten projects**; combined new investment source **₹4,594 crore**, rounded official figure **₹4,600 crore**. Programme outlay **₹76,000 crore** dates to December 2021; investment approval is not operational production.
+| Company / location | Proposed activity |
+|---|---|
+| **SiCSem, Info Valley, Bhubaneswar** | Integrated silicon-carbide compound-semiconductor facility |
+| **3D Glass Solutions, Bhubaneswar** | Advanced packaging and embedded glass substrates |
+| **CDIL, Mohali, Punjab** | Expansion of discrete-device production, including silicon/SiC devices |
+| **ASIP Technologies, Andhra Pradesh** | Semiconductor packaging/manufacturing; exact site unspecified in this issue |
+- **SiC** suits high-voltage/high-temperature power electronics: EVs, chargers, rail, defence and renewable-energy conversion. Glass substrates/interposers and system-in-package integration improve interconnection and compactness; packaging is a distinct stage from wafer fabrication.
+- The source's older five-facility insert predates these approvals. Its end-2025 commercial-chip expectation is a forecast, not India's first-ever chip. Existing notes retain dated import/spending qualifications and EDA/IP/material/equipment gaps. Practice **1 only (A)**: support is not restricted to silicon. [Cabinet release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2155459&lang=1&reg=37).
 
 ## PDF coverage
 
-2025-02-12: pp. 4, 5, 6, 7, 8, 9, 10 · 2025-03-10: pp. 15, 16, 17, 18, 19 · 2025-05-15: pp. 25
+2025-02-12: pp. 4, 5, 6, 7, 8, 9, 10 · 2025-03-10: pp. 15, 16, 17, 18, 19 · 2025-05-15: pp. 25 · 2025-08-13: pp. 1, 2, 3, 4, 5

@@ -42,7 +42,11 @@
 - Embedded June report: **Amit Shah** said southern States' rightful share would not be reduced and seats would increase pro rata; **A. Raja/DMK** asked whether this meant existing-seat or population proportions. These are political assurances/questions, **not a final enacted allocation formula**.
 - Southern demographic achievements create concerns about relative influence; source **35% GDP/18% population** lacks specified States/year. **Finance Commission tax devolution ≠ Lok Sabha seat allocation**: population, income distance, demographic performance and other criteria differ; using 2011 population does not alone determine all transfers.
 
+## 15 August announcement, discussed on 16 August
+- PM announced a **High-Powered Demography Mission**, framed around unity, security and demographic change; an announcement does not establish notified membership, terms of reference, implementation rules or findings. Source reports the **2024 Interim Budget committee** still had no notified membership/terms. [PM address](https://www.pmindia.gov.in/en/news_updates/pms-address-from-the-ramparts-of-red-fort-on-the-occasion-of-79th-independence-day/).
+- Claims of a demographic “conspiracy” are the political framing, not a statistical conclusion established by the PDF. Assess fertility, migration, population composition and regional ageing separately using Census/SRS/NFHS with their reference years; Aadhaar or voter-list audits do not substitute for a population census.
+- Existing **SRS 2021 TFR 2.0/Bihar 3.0/Delhi–West Bengal 1.4** comparisons recur. The next Census was planned for **2027**, while the last completed Census was **2011**. Human development, voluntary reproductive choice, jobs/skills and differentiated ageing support remain the policy priorities; security measures require evidence and equal treatment.
 
 ## PDF coverage
 
-2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24 · 2025-02-27: pp. 31, 32, 33, 34 · 2025-02-28: pp. 17, 18, 19, 20, 21 · 2025-03-05: pp. 7, 8, 9, 10 · 2025-05-12: pp. 2, 3, 4 · 2025-06-08: pp. 1, 2, 3, 4
+2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24 · 2025-02-27: pp. 31, 32, 33, 34 · 2025-02-28: pp. 17, 18, 19, 20, 21 · 2025-03-05: pp. 7, 8, 9, 10 · 2025-05-12: pp. 2, 3, 4 · 2025-06-08: pp. 1, 2, 3, 4 · 2025-08-16: pp. 10, 11

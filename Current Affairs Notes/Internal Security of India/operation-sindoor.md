@@ -28,7 +28,13 @@
 - Embedded air-defence graphic compares Iron Dome (short-range rockets), Patriot (aircraft/missile threats) and S-400 (long-range multilayer engagement); displayed ranges/costs vary by missile/configuration and should not be memorised as one universal specification.
 - Indigenous integration and reliable maintenance can support strategic autonomy and exports, while battlefield marketing claims remain distinct from sustained capability evaluation.
 
+## August 2025: longer-range weapons priorities
+- Source reports IAF interest after May operations in more long-range air-to-ground and air-to-air weapons. **Stand-off launch** keeps the carrier farther from threats; it does not guarantee no interception, no enemy airspace entry in every mission, or invulnerability.
+- **BrahMos**: Indo-Russian supersonic cruise missile; **SCALP**: subsonic air-launched cruise missile, not hypersonic/ballistic; Israeli **Rampage** and **Crystal Maze** are air-to-surface weapons. Source ranges **~250–450 km** vary by weapon/variant/launch conditions and should not be treated as verified maximum envelopes for all Indian configurations.
+- **Astra Mk-I**: indigenous BVR air-to-air missile; longer-range Mk-II/Mk-III development is distinct from induction. **R-37 family**: Russian long-range air-to-air weapon, potentially targeting AWACS/tankers; reported interest is not an Indian purchase/integration.
+- **Project Kusha** is an indigenous long-range surface-to-air development; extra **S-400 squadrons** are reported aspirations, not delivered purchases. The claimed **300+ km surveillance-aircraft engagement** is an Indian/source operational claim, not an independently established loss inventory.
+- Practice classification: **1,2,4 only (C)**. Engagement effectiveness depends on targeting networks, electronic warfare, integration, training and sustainment; a nominal range comparison alone cannot demonstrate an air-defence system was universally bypassed.
 
 ## PDF coverage
 
-2025-05-08: pp. 11, 12, 13, 14 · 2025-05-13: pp. 1, 2, 3 · 2025-05-15: pp. 8, 9, 10
+2025-05-08: pp. 11, 12, 13, 14 · 2025-05-13: pp. 1, 2, 3 · 2025-05-15: pp. 8, 9, 10 · 2025-08-13: pp. 8, 9, 10

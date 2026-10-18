@@ -15,6 +15,13 @@
 - **SDG 2** (Zero Hunger), **SDG 3** (health), **UDHR Article 25** (adequate standard of living including food); EAT-Lancet connects dietary health with environmental sustainability, not a binding food entitlement.
 - Revision chain: low income + high nutritious-food prices → poor dietary diversity → hidden hunger → poorer learning/productivity → persistent poverty. Break the cycle through income support, diverse supply and accessible nutrition services.
 
+## SOFI 2025 and nutrition-sensitive food systems
+- Issue reports **673 million / 8.2% globally undernourished in 2024**, down from **688 million in 2023**, while regional inequalities persist. India's prevalence reportedly declined **14.3% in 2020–22 → 12% in 2022–24**, about **30 million fewer people**. Global annual estimates and India's three-year averages are different reference periods; revisions across report editions also matter. [FAO's SOFI 2025 presentation](https://india.un.org/en/301406-fao-presents-sofi-2025-report-new-delhi).
+- Digital PDS mechanisms—Aadhaar-linked records, inventory monitoring, authentication and **One Nation One Ration Card** portability—supported food assistance for **800 million-plus** people during the pandemic. Digital access must include exception handling so biometric/connectivity failures do not exclude eligible households.
+- Shift from staple calories toward affordable **pulses, fruit, vegetables and suitable animal-source foods**; strengthen **PM POSHAN, Anganwadi/ICDS services, women-led enterprises and FPOs**. Connect AgriStack, e-NAM and geospatial planning with physical storage/cold chains and inclusive access.
+- Source's “60%+ cannot afford a healthy diet” lacks a clear matching survey year and is **not accepted as a 2024 estimate**; retain the affordability challenge without mixing older series. Similarly, “13% farm-to-market loss” is an approximate food-loss statistic, not a verified India-specific loss for this issue.
+- Calorie sufficiency can coexist with micronutrient deficiency and obesity. Evaluate coverage, dietary diversity, affordability, resilience and exclusion, rather than treating digitisation or output growth alone as proof of SDG 2 success by 2030.
+
 ## PDF coverage
 
-2025-04-07: pp. 6, 7, 8, 9
+2025-04-07: pp. 6, 7, 8, 9 · 2025-08-19: pp. 30, 31

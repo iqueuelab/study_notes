@@ -25,6 +25,11 @@
 - Inclusive documentation, migrant assistance, transparent data, notice, hearing, reasoned decisions and remedies balance clean rolls with enfranchisement. Foreign-infiltration assertions/arbitrary-cutoff criticisms remain competing claims, not final findings.
 - **Mohinder Singh Gill** was decided **2 December 1977**, reported as **(1978) 1 SCC 405**; distinguish judgment date from report citation. Article 324 supplements statutory law, not overriding it. [Supreme Court judgment](https://api.sci.gov.in/jonew/judis/5188.pdf). Aadhaar/EPIC identity differs from citizenship proof; wider-document proposals do not make every card conclusive citizenship evidence.
 
+## 14 August 2025: Supreme Court transparency directions
+- Interim order required publication of roughly **65 lakh names omitted from Bihar's1 August draft roll**, with reasons, online through DEOs/CEO and physically at Panchayat/BDO offices; names should be searchable by EPIC. Court also directed publicity that aggrieved persons could submit claims with Aadhaar. **Deadline19 August** was a direction, not proof compliance was already achieved. [SupremeCourt order](https://api.sci.gov.in/supremecourt/2025/35785/35785_2025_2_34_63142_Order_14-Aug-2025.pdf).
+- Omission from the draft is distinct from final rejection, non-citizenship or permanent disenfranchisement. Aadhaar's use to support a claim does not make it conclusive citizenship proof. This interim safeguard did not finally decide every challenge to SIR legality.
+- Wider discussion repeats existing notes on **RPA1950 s21(3), Article 324,2003 baseline**, migrant/document burdens, party BLAs, notice/hearing and accessible correction. Source's practice key is **2,3 only(C)**; options referring to statement4 are malformed. Existing note distinguishes the1977 decision date and 1978 citation of MohinderSinghGill.
+
 ## PDF coverage
 
-2025-07-14: pp. 20, 21, 22 · 2025-07-25: pp. 17, 18, 19, 20, 21 · 2025-08-02: pp. 14, 15, 16, 105, 106, 107, 108
+2025-07-14: pp. 20, 21, 22 · 2025-07-25: pp. 17, 18, 19, 20, 21 · 2025-08-02: pp. 14, 15, 16, 105, 106, 107, 108 · 2025-08-15: pp. 11, 12, 13, 14

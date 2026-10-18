@@ -455,6 +455,30 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "b"
+    },
+    {
+      "chapter": "Milk, dairy cooperatives and nutritional inequality",
+      "year": 2025,
+      "question": "Consider the following statements about the Rashtriya Gokul Mission:\nI. It is important for the upliftment of rural poor as majority of low-producing indigenous animals are with small and marginal farmers and landless labourers.\nII. It was initiated to promote indigenous cattle and buffalo rearing and conservation in a scientific and holistic manner.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Almonds: horticulture and cardiometabolic evidence",
+      "year": 2024,
+      "question": "Consider the following statements:\nStatement-I: India does not import apples from the United States of America.\nStatement-II: In India, the law prohibits the import of Genetically Modified food without the approval of the competent authority.\nWhich one of the following is correct?",
+      "options": {
+        "a": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+        "b": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "c": "Statement-I is correct, but Statement-II is incorrect",
+        "d": "Statement-I is incorrect, but Statement-II is correct"
+      },
+      "answer": "d"
     }
   ]
 }
