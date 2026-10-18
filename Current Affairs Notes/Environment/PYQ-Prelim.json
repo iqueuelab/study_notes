@@ -683,6 +683,18 @@
         "d": "Conserve all the sites through ecosystem approach and allow their simultaneous sustainable use."
       },
       "answer": "d"
+    },
+    {
+      "year": 2011,
+      "chapter": "National Red List Assessment of Indian flora and fauna",
+      "question": "The Red Data Books published by the International Union for Conservation of Nature and Natural Resources (IUCN) contain lists of:\n1. Endemic plant and animal species present in the biodiversity hotspots\n2. Threatened plant and animal species\n3. Protected sites for conservation of nature and natural resources in various countries\nWhich of the statements given above is/are correct?",
+      "options": [
+        "(a) 1 and 3",
+        "(b) 2 only",
+        "(c) 2 and 3",
+        "(d) 3 only"
+      ],
+      "answer": "(b) 2 only"
     }
   ]
 }

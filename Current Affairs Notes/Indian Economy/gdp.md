@@ -27,6 +27,11 @@
 - Mechanisms: infrastructure/capital spending, supply-chain diversification, manufacturing/PLI, financial access and competitive federalism. Source's public capex comparison **1.6% GDP(FY 2014–15)→3.2%(FY 2024–25)** is its dated metric, not every government's combined expenditure.
 - Risks: geopolitical/energy shocks, climate damage, insufficient quality jobs, inequality, volatile capital and poorly managed urbanisation. Existing notes' IMF projection qualification resolves the PDF's conflicting fourth/fifth-rank labels.
 
+## October 2025: scale, skills and self-reliance debate
+- “Hanuman leap” is the editorial's metaphor for confidence through domestic productive capacity: demographic scale, skills, entrepreneurship, digital infrastructure and manufacturing can help respond to protectionism and ageing abroad. A young population becomes an advantage only with productive jobs, education, health and participation.
+- Link PLI/infrastructure/GST and UPI/JAM to productivity, access and resilience while assessing implementation, competition and distribution. Self-reliance can include diversified international supply and technology partnerships; it need not mean insulation from trade.
+- Source statistics mix periods and forecasts: $600-billion-plus reserves, $765-billion exports, 220-GW renewable capacity, $135-billion remittances and ₹3.17-lakh-crore festive sales are not one comparable October dataset. Its fourth-largest-economy claim incorrectly names Germany as the economy to overtake: the existing 2025 nominal-dollar projection comparison is with **Japan**. GDP rank/forecasts do not measure per-capita welfare. The supplied 250-word/15-mark essay is unyearred practice, not a CSE PYQ.
+
 ## PDF coverage
 
-2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17 · 2025-07-27: pp. 1, 2, 3, 4
+2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17 · 2025-07-27: pp. 1, 2, 3, 4 · 2025-10-14: pp. 1, 2, 3, 4

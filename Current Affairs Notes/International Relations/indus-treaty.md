@@ -43,7 +43,11 @@
 - **19 May clipping:** Agriculture Minister **Shivraj Singh Chouhan** assured farmer organisations of greater water availability following treaty-abeyance policy; farmers sought abrogation and supplies for Punjab/Haryana/Rajasthan/J&K. These are political assurances/demands, not completed diversion or adjudicated rights.
 - Graphic's **135 MAF/year western-river flow** and comparisons with **11–16 million hectares rice, 23 Bhakra-sized reservoirs, 88 Delhi-sized cities, 8% national freshwater** are illustrative source calculations, not available Indian storage or measured new irrigation. **MAF = million acre-feet**, a volume unit. Treaty allocation does not transfer sovereignty over a whole river.
 
+## Chenab geography and hydropower recall
+- Chandra and Bhaga meet at Tandi in Himachal Pradesh's Lahaul region to form Chandrabhaga/Chenab; it passes through Jammu & Kashmir into Pakistan. Jhelum joins Chenab near Trimmu; the combined system ultimately joins Sutlej and reaches Indus through Panjnad. The PDF's phrasing that Chenab “joins Jhelum” should not reverse the principal river relationship.
+- Major basin projects: Salal 690 MW; Baglihar 900 MW; Dulhasti 390 MW; Ratle 850 MW; Pakal Dul 1,000 MW; proposed Sawalkote 1,856 MW. **Pakal Dul is on Marusudar, a Chenab tributary**, not the Chenab main stem. Niru and Neeru in the source are variant spellings, not two distinct tributaries.
+- Hydropower potential and water-security interests coexist with downstream obligations, environmental flows and disaster risk. India's announced 2025 “abeyance” position differs from mutually agreed treaty termination; project-specific treaty compatibility cannot be inferred merely from the label run-of-river.
 
 ## PDF coverage
 
-2025-01-22: pp. 6, 7, 8, 9 · 2025-01-26: pp. 8, 9 · 2025-04-25: pp. 1, 2, 3, 4 · 2025-05-02: pp. 13, 14, 15, 16 · 2025-05-20: pp. 3, 4, 5, 9 · 2025-05-25: pp. 6
+2025-01-22: pp. 6, 7, 8, 9 · 2025-01-26: pp. 8, 9 · 2025-04-25: pp. 1, 2, 3, 4 · 2025-05-02: pp. 13, 14, 15, 16 · 2025-05-20: pp. 3, 4, 5, 9 · 2025-05-25: pp. 6 · 2025-10-11: pp. 6, 7, 8

@@ -5108,27 +5108,88 @@
     {
       "date": "2025-10-09",
       "pdf": "2025/10-October/2025-10-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0b2c80323612058a37a94f80daa3e93bd70fdf86bbe01cb82b662abdf52513ef",
+      "pages": 20,
+      "topic_ids": [
+        "india-uk-ceta",
+        "indian-air-force",
+        "international-solar-alliance",
+        "nobel-chemistry-2025",
+        "nobel-physics-2025",
+        "pm-kusum",
+        "pm-surya-ghar",
+        "water-hyacinth"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-10",
       "pdf": "2025/10-October/2025-10-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6cda5b697ccd3f19b0f56bd7ea4f4f9201360933c5913ccbcc1db40b10073e4c",
+      "pages": 15,
+      "topic_ids": [
+        "india-uk-defence",
+        "indian-air-force",
+        "invasive-alien-species",
+        "national-red-list",
+        "nobel-literature-2025"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-11",
       "pdf": "2025/10-October/2025-10-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4d9ba2a0b33738e49aa79c514815026ca735cab6b97165cfcb5351543e32c430",
+      "pages": 13,
+      "topic_ids": [
+        "afghanistan-minerals",
+        "india-afghanistan",
+        "indus-treaty",
+        "nobel-peace-2025",
+        "sawalkote-hydropower"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-13",
       "pdf": "2025/10-October/2025-10-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8f427185457ce4395362de0f4c08e8ed337dfe86c89cbcb730630b253871f04e",
+      "pages": 19,
+      "topic_ids": [
+        "critical-minerals",
+        "government-email-zoho",
+        "himachal-natural-farming",
+        "saksham",
+        "thirumalapuram"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-14",
       "pdf": "2025/10-October/2025-10-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "f3c4792ca47902a5a308006ae32b5d23ac4fe0546f1e18d64ba2c5bdb4575360",
+      "pages": 25,
+      "topic_ids": [
+        "afghanistan-minerals",
+        "gdp",
+        "green-sea-turtle",
+        "india-afghanistan",
+        "maitri-ii",
+        "nobel-economics-2025",
+        "pm-dhan-dhaanya",
+        "snow-leopard-genetics"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-15",
@@ -6737,7 +6798,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-10-09",
+  "next_pdf": "2025-10-15",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -6824,6 +6885,11 @@
       "date": "2025-10-05",
       "status": "missing",
       "evidence": "No standalone 2025-10-05.pdf in source inventory/jobs. Inspected adjacent page-one images: 2025-10-04 explicitly labelled 4 Oct. 2025 and 2025-10-06 explicitly labelled 6th Oct. 2025; neither carries a combined 5 October issue label. Actual reviewed physical coverage is Oct 3 (18 pages) and Oct 4 (14 pages); no Oct 5 notes invented."
+    },
+    {
+      "date": "2025-10-12",
+      "status": "missing_source",
+      "evidence": "No standalone 2025-10-12.pdf in the source collection. Physically reviewed all 19 pages of 2025/10-October/2025-10-13.pdf: its first-page banner reads 13 Oct. 2025, with no 12–13 combined date banner or separately identified 12 October section. The following physical file is explicitly bannered 14 Oct. 2025. Older clippings embedded in these files do not establish a replacement daily issue for 12 October."
     }
   ]
 }

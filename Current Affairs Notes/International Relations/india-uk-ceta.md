@@ -15,6 +15,11 @@
 - **Article 12.20** specified later third-country commitments can trigger **consultations on equivalent data-flow/localisation disciplines**, not automatic present blanket free-flow concessions. [Treaty Chapter 12](https://www.gov.uk/government/publications/uk-india-ceta-chapter-12-digital-trade/chapter-12-digital-trade-web-version).
 - Editorial concerns about dependence should be evaluated with these safeguards; response: technology/cybersecurity expertise in negotiations, public scrutiny, clear data policy, indigenous capabilities and implementation monitoring.
 
+## October 2025: Starmer visit and implementation
+- Keir Starmer's first official India visit on 8–9 October followed July's signed CETA and adoption of Vision 2035; the official delegation contained 125 business, university and cultural leaders, correcting the issue's approximate 100. Vision 2035 spans trade, technology, defence, climate, health, education and people-to-people cooperation. [Joint statement](https://www.gov.uk/government/news/india-uk-joint-statement-9-october-2025).
+- The £25.5-billion annual bilateral-trade increase is a UK projection, not trade already achieved. CETA does not supply general visa liberalisation or automatic access to EU markets: Britain and the EU have separate trade regimes. Rolls-Royce's proposed Indian capability expansion and films planned in Britain from 2026 were announced intentions.
+- FTA export gains depend jointly on preference margins relative to MFN tariffs, origin compliance, sanitary/technical standards, domestic ports/logistics and partner demand. The source's CDS 2024 question is outside the CSE bank; all five listed factors matter. Lower SPS protection is not a necessary policy goal: equivalence, transparent procedures and compliance can facilitate trade while protecting health.
+
 ## PDF coverage
 
-2025-07-27: pp. 14, 15, 16, 17, 18 · 2025-08-02: pp. 8, 9, 10, 11, 100, 101, 102, 103
+2025-07-27: pp. 14, 15, 16, 17, 18 · 2025-08-02: pp. 8, 9, 10, 11, 100, 101, 102, 103 · 2025-10-09: pp. 1, 2, 3, 4, 5

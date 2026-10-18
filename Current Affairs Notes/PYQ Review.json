@@ -314,7 +314,8 @@
       ],
       "year": 2012,
       "topic_id": "critical-minerals",
-      "reason": "Explicit rare-earth-elements PYQ preserves three statements but omits all answer choices. Not added to bank; answer discussion says statements 1 and 3. Retrieve full original choices before bank inclusion."
+      "reason": "Explicit rare-earth-elements PYQ preserves three statements but omits all answer choices. Not added to bank; answer discussion says statements 1 and 3. Retrieve full original choices before bank inclusion.",
+      "resolution": "Verified archived official UPSC 2012 GS-I booklet A, question 86, physical page 46; full options a=1 only,b=2 and 3 only,c=1 and 3 only,d=all. Complete question added to Science and Technology bank."
     },
     {
       "date": "2025-07-10",
@@ -856,7 +857,7 @@
     },
     {
       "date": "2025-09-11",
-      "note": "Rare-earth 2012 full three-statement stem is supplied but answer options absent; held for review, no reconstructed options. Launchers 2018 already banked with all statements/options. SSLV possible Mains and shipbuilding 250-word/15-mark question are undated coaching prompts, not authenticated PYQs; not banked.",
+      "note": "Verified archived official UPSC 2012 GS-I booklet A, question 86, physical page 46; full options a=1 only,b=2 and 3 only,c=1 and 3 only,d=all. Complete question added to Science and Technology bank.",
       "question_held_for_review": "Recently, there has been a concern over the short supply of a group of elements called 'rare earth metals.' Why?\n1. China, which is the largest producer of these elements, has imposed some restrictions on their export.\n2. Other than China, Australia, Canada and Chile, these elements are not found in any country.\n3. Rare earth metals are essential for the manufacture of various kinds of electronic items and there is a growing demand for these elements.\nWhich of the statements given above is/are correct?",
       "printed_year": 2012
     },
@@ -959,6 +960,30 @@
     {
       "date": "2025-10-08",
       "detail": "All 22 pages reviewed, including blank final page. Gold objectives question labelled UPSC ESE2019 Paper1, excluded from CSE banks. Physics, swell and gold MCQs are unyearred practice. Repeated Nobel Medicine, xenobiology and assisted-dying text tracked through coverage with empty additions."
+    },
+    {
+      "issue_date": "2025-10-09",
+      "status": "reviewed",
+      "details": "CDS 2024 FTA and BPSC 66th PM-KUSUM excluded: not CSE. MOF and water-hyacinth questions unyearred practice. Prosopis 2018 and aircraft 2025 already in common banks; no duplicate. Added supplied Surya Ghar 2025 CSE question. No mains PYQs."
+    },
+    {
+      "issue_date": "2025-10-10",
+      "status": "reviewed",
+      "details": "2011 Red Data Books and 2008 Watson added. ISSG 2023 and aircraft 2025 already in common banks. No mains PYQs."
+    },
+    {
+      "issue_date": "2025-10-11",
+      "status": "reviewed",
+      "details": "All questions are explicitly practice, with no CSE year; excluded. Peace practice supplied key corrected in notes. No mains PYQs."
+    },
+    {
+      "date": "2025-10-13",
+      "detail": "All 19 text pages and 19 page images reviewed. Rare-earth Prelims 2012 question has full statements but omits the four answer options; held for review, not reconstructed. Already flagged in September baseline. No complete CSE PYQ for common banks.",
+      "resolution": "Verified archived official UPSC 2012 GS-I booklet A, question 86, physical page 46; full options a=1 only,b=2 and 3 only,c=1 and 3 only,d=all. Complete question added to Science and Technology bank."
+    },
+    {
+      "date": "2025-10-14",
+      "detail": "All 25 text pages and page images reviewed. Hanuman-leap mains question (250 words, 15 marks) and Afghanistan minerals MCQ are unyearred coaching practice. Snow leopard panel explicitly Punjab PCS 2020, excluded from CSE banks. No complete CSE PYQs added."
     }
   ],
   "resolved": [
@@ -1015,6 +1040,12 @@
       "year": 2014,
       "question": "Consider the following statements:\n1. Maize can be used for the production of starch.\n2. Oil extracted from maize can be a feedstock for biodiesel.\n3. Alcoholic beverages can be produced by using maize.\nWhich of the statements given above is/are correct?",
       "resolution": "Verified saved official 2014 Prelims GS-I question 73, physical page 32: options a=1 only, b=1 and 2 only, c=2 and 3 only, d=1, 2 and 3. Correct complete question added to Indian Economy common bank; altered source options rejected."
+    },
+    {
+      "year": 2012,
+      "question": "Recently, there has been a concern over the short supply of a group of elements called ‘rare earth metals’. Why?\n1. China, which is the largest producer of these elements, has imposed some restrictions on their export.\n2. Other than China, Australia, Canada and Chile, these elements are not found in any country.\n3. Rare earth metals are essential for the manufacture of various kinds of electronic items and there is a growing demand for these elements.\nWhich of the statements given above is/are correct?",
+      "resolution": "Verified archived official UPSC 2012 GS-I booklet A, question 86, physical page 46; full options a=1 only,b=2 and 3 only,c=1 and 3 only,d=all. Complete question added to Science and Technology bank.",
+      "verification_url": "https://web.archive.org/web/20120812222509id_/http://www.upsc.gov.in/questionpaper/2012/CSP12/pap1a.pdf"
     }
   ],
   "practice_reviewed": [

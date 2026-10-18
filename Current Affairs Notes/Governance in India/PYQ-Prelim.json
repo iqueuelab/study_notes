@@ -92,6 +92,18 @@
         "d": "I and III only"
       },
       "answer": "c"
+    },
+    {
+      "year": 2025,
+      "chapter": "PM Surya Ghar: residential rooftop solar and skills",
+      "question": "Consider the following statements about PM Surya Ghar Muft Bijli Yojana:\nI. It targets installation of one crore solar rooftop panels in the residential sector.\nII. The Ministry of New and Renewable Energy aims to impart training on installation, operation, maintenance, and repairs of solar rooftop systems at grassroot levels.\nIII. It aims to create more than three lakh skilled manpower through fresh skilling and upskilling under the scheme component of capacity building.\nWhich of the statements given above are correct?",
+      "options": [
+        "(a) I and II only",
+        "(b) I and III only",
+        "(c) II and III only",
+        "(d) I, II and III"
+      ],
+      "answer": "(d) I, II and III"
     }
   ]
 }

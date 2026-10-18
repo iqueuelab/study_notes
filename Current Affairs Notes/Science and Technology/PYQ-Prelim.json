@@ -564,6 +564,30 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "a"
+    },
+    {
+      "year": 2012,
+      "chapter": "Critical minerals and rare-earth supply chains",
+      "question": "Recently, there has been a concern over the short supply of a group of elements called ‘rare earth metals’. Why?\n1. China, which is the largest producer of these elements, has imposed some restrictions on their export.\n2. Other than China, Australia, Canada and Chile, these elements are not found in any country.\n3. Rare earth metals are essential for the manufacture of various kinds of electronic items and there is a growing demand for these elements.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2008,
+      "chapter": "Nobel Literature 2025: László Krasznahorkai",
+      "question": "Nobel Prize winning scientist James D. Watson is known for his work in which area?",
+      "options": [
+        "(a) Metallurgy",
+        "(b) Meteorology",
+        "(c) Environmental protection",
+        "(d) Genetics"
+      ],
+      "answer": "(d) Genetics"
     }
   ]
 }
