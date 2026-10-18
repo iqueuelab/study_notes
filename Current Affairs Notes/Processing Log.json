@@ -4678,32 +4678,102 @@
     {
       "date": "2025-09-10",
       "pdf": "2025/09-September/2025-09-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "000c57b228e9798ab8d3b9d4dc7c8a301eb8831c91e027e9d635fd41c00cd582",
+      "pages": 13,
+      "topic_ids": [
+        "gerd",
+        "jewellery-exports",
+        "malaria",
+        "nari-womens-safety",
+        "tiwa",
+        "vice-president"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-11",
       "pdf": "2025/09-September/2025-09-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b29e95445a946732170878df7539687589ed5dcaecbb36dacdcce4433ece368e",
+      "pages": 14,
+      "topic_ids": [
+        "critical-minerals",
+        "india-us",
+        "kulasekarapattinam",
+        "maritime-finance"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-12",
       "pdf": "2025/09-September/2025-09-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4e1ab56baf222f24b34807f1f2252f6cbc6dd8a6627efbf98f142a4c4499f97f",
+      "pages": 11,
+      "topic_ids": [
+        "aedes-integrated-control",
+        "agricultural-pesticides",
+        "governor-state-relations",
+        "isobutanol-diesel",
+        "red-ivy-wound-pad",
+        "samudra-pradakshina"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-13",
       "pdf": "2025/09-September/2025-09-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2638c3018d4f5639ad3951ea81b9e63fcde591183cefcd9c2ff95bf8a046047b",
+      "pages": 12,
+      "topic_ids": [
+        "gyan-bharatam",
+        "nepal-gen-z-transition",
+        "rti",
+        "vulture-drugs"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-15",
       "pdf": "2025/09-September/2025-09-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e2a5759c1e0d122211364f4e83ee4cd7a9de0de4f9a045bc6614bf47df811ea8",
+      "pages": 27,
+      "topic_ids": [
+        "apples",
+        "bamboo-biorefinery",
+        "contaminated-sites",
+        "fdi-india",
+        "immigration-foreigners",
+        "manufacturing",
+        "mediation",
+        "oyster-amr"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-16",
       "pdf": "2025/09-September/2025-09-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a1d2aa1e535dcd4b4aeb2b8ca77a488c2d4aa6fcb7f48d4d05745d6abf9a36dc",
+      "pages": 17,
+      "topic_ids": [
+        "aadhaar-voter",
+        "banjaras",
+        "deep-ocean",
+        "nistar",
+        "scheduled-tribes-list",
+        "scst-atrocities"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-17",
@@ -6437,7 +6507,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-09-10",
+  "next_pdf": "2025-09-17",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -6509,6 +6579,11 @@
       "date": "2025-08-19",
       "status": "Article missing from supplied issue",
       "evidence": "Contents page lists “Indian Astronaut will step on moon by 2040”, but no corresponding substantive article/pages are present in the supplied 33-page PDF. No notes invented for this contents-only item."
+    },
+    {
+      "date": "2025-09-14",
+      "status": "missing_source",
+      "evidence": "No standalone 2025-09-14.pdf in source inventory. All 27 pages of physical 2025-09-15.pdf inspected: first-page banner reads 15th Sept. 2025, no combined 14/15 September label. September 14 inauguration/news is covered under physical September 15 issue; it does not establish a separate September 14 issue."
     }
   ]
 }

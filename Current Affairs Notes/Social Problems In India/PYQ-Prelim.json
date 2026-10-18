@@ -44,6 +44,18 @@
       "year": 2016,
       "question": "‘Rashtriya Garima Abhiyaan’ is a national campaign to—\n(a) rehabilitate the homeless and destitute persons and provide them with suitable sources of livelihood\n(b) release the sex workers from their practice and provide them with alternative sources of livelihood\n(c) eradicate the practice of manual scavenging and rehabilitate the manual scavengers\n(d) release the bonded labourers from their bondage and rehabilitate them",
       "answer": "(c)"
+    },
+    {
+      "chapter": "Banjaras: trading heritage and community status",
+      "year": 2016,
+      "question": "Banjaras during the medieval period of Indian history were generally:",
+      "options": {
+        "a": "agriculturists",
+        "b": "warriors",
+        "c": "weavers",
+        "d": "traders"
+      },
+      "answer": "d"
     }
   ]
 }

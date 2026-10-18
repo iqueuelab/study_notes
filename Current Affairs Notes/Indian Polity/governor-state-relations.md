@@ -65,6 +65,10 @@
 - **2015 custodian PYQ: Supreme Court (d)**; High Courts also exercise constitutional judicial review under Article 226. Do not infer that constitutional guardianship excludes every other institution's duty to uphold the Constitution.
 - The **SSC CHSL 2018** pleasure question is outside the CSE bank: AG and Governors hold office at Presidential pleasure; CAG removal follows the constitutional judge-removal standard. Its further note wrongly equates all Election Commissioners with the CEC's protection: Article 324(5) protects CEC removal like a Supreme Court judge, while other Election Commissioners cannot be removed except on the CEC's recommendation.
 
+## September 2025: judicial review of constitutional inaction
+- During the pending Article 143 reference, CJI B. R. Gavai stressed that constitutional authorities cannot evade their duties; Justice Surya Kant distinguished directing a decision from commanding assent. The Union argued a universal deadline ignores differences between Bills; these are hearing submissions, not a final new ruling.
+- The issue misdates the Tamil Nadu judgment: **8 April 2025**, not 2024. Existing notes give its different one-/three-month directions; the issue's blanket three-month summary is incomplete. Keep the later November opinion separate. [April judgment](https://api.sci.gov.in/supremecourt/2023/45314/45314_2023_11_1501_60770_Judgement_08-Apr-2025.pdf).
+
 ## PDF coverage
 
-2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19 · 2025-05-17: pp. 9, 10, 11, 12 · 2025-05-19: pp. 12, 13, 14, 15, 16 · 2025-05-25: pp. 4, 5 · 2025-07-24: pp. 20, 21, 22, 23, 24 · 2025-08-22: pp. 7, 8, 9, 10, 11
+2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19 · 2025-05-17: pp. 9, 10, 11, 12 · 2025-05-19: pp. 12, 13, 14, 15, 16 · 2025-05-25: pp. 4, 5 · 2025-07-24: pp. 20, 21, 22, 23, 24 · 2025-08-22: pp. 7, 8, 9, 10, 11 · 2025-09-12: pp. 1, 2, 3

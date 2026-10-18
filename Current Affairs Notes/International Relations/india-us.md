@@ -39,6 +39,12 @@
 - Source reports MEA rejection of Peter Navarro's oil-trade remarks and Jaishankar's engagement with Ukraine; distinguish attributable official statements from anonymous commentary. Claims about Trump skipping a future Quad summit were reports/speculation at this issue date.
 - Mains: tariff exposure and political rhetoric can strain trust and Quad cooperation; maintain diplomatic channels and diversified export/energy options without assuming binary geopolitical blocs.
 
+## September 2025: possible renewal of trade talks
+- The embedded report describes positive **Trump–Modi** messages and prospects for resuming trade negotiations after tariff/Russian-oil tensions; a direct conversation in coming weeks and timing of renewed talks were **prospective**, not a concluded trade pact.
+- India's outreach included Ambassador **Vinay Kwatra**, US lawmakers and administration contacts; Commerce Minister Piyush Goyal stressed reciprocity. Diplomacy can keep negotiations open while disagreements over energy choices and market access persist.
+- The bilateral aim remained a **first trade-agreement tranche by fall 2025**. “Fall” should not be redefined as the end of the calendar year; an aim is not a guaranteed deadline. A possible Quad visit was also unconfirmed in this issue.
+- Existing defence/space cooperation provides reasons to stabilise ties, but the issue's “unaffected” label is too categorical. **50%** referred to covered goods under combined US measures, with exceptions; the source's August oil imports near **2 million barrels/day** are a dated estimate, not a legal requirement or present flow.
+
 ## PDF coverage
 
-2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6 · 2025-09-06: pp. 10, 11, 12
+2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6 · 2025-09-06: pp. 10, 11, 12 · 2025-09-11: pp. 11, 12

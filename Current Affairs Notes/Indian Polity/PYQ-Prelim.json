@@ -116,6 +116,42 @@
         "d": "1, 2 and 3"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "Aadhaar and electoral rolls: identity versus citizenship",
+      "year": 2018,
+      "question": "Consider the following statements:\n1. Aadhaar card can be used as a proof of citizenship or domicile.\n2. Once issued, Aadhaar number cannot be deactivated or omitted by the Issuing Authority.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Scheduled Tribes: listing procedure and safeguards",
+      "year": 2015,
+      "question": "The provisions in Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to:",
+      "options": {
+        "a": "protect the interests of Scheduled Tribes",
+        "b": "determine the boundaries between States",
+        "c": "determine the powers, authority and responsibilities of Panchayats",
+        "d": "protect the interests of all the border States"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Scheduled Tribes: listing procedure and safeguards",
+      "year": 2024,
+      "question": "Consider the following statements:\n1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe.\n2. A community declared as a Scheduled Tribe in a State need not be so in another State.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
     }
   ]
 }

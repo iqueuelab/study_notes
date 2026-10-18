@@ -516,6 +516,42 @@
         "d": "I, II and III"
       },
       "answer": "c"
+    },
+    {
+      "year": 2023,
+      "chapter": "Aedes mosquitoes: integrated disease prevention",
+      "question": "“Wolbachia method” is sometimes talked about with reference to which one of the following?",
+      "options": {
+        "a": "Controlling the viral diseases spread by mosquitoes",
+        "b": "Converting crop residues into packing material",
+        "c": "Producing biodegradable plastics",
+        "d": "Producing biochar from thermo-chemical conversion of biomass"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Antimicrobial resistance: containment and research",
+      "year": 2019,
+      "question": "Which of the following are the reasons for the occurrence of multi-drug resistance (MDR) in microbial pathogens in India?\n1. Genetic predisposition of some people\n2. Taking incorrect doses of antibiotics to cure diseases\n3. Using antibiotics in livestock farming\n4. Multiple chronic diseases in some people",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 and 3 only",
+        "c": "1, 3 and 4",
+        "d": "2, 3 and 4"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Deep Ocean Mission and Samudrayaan",
+      "year": 2021,
+      "question": "Consider the following statements:\n1. The Global Ocean Commission grants licenses for seabed exploration and mining in international waters.\n2. India has received licenses for seabed mineral exploration in international waters.\n3. ‘Rare earth minerals’ are present on the seafloor in international waters.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
     }
   ]
 }

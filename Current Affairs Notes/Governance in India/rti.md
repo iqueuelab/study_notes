@@ -22,6 +22,12 @@
 - Timely transparent appointments, diverse expertise, digitised records and accessible tracking; publish reasons, enforce existing non-compliance penalties and protect applicants.
 - Proactive disclosure reduces repetitive requests; exemptions must be lawful/proportionate and appellate oversight timely. Compare case-disposal figures cautiously; different institutions have unlike case complexity.
 
+## September editorial: privacy and accountability
+- The editorial fears a broad personal-information exemption could conceal public-spending and service-delivery records. Retain section **8(2)** public-interest override, section **10** severability, reasoned decisions and effective appeals in analysing transparency–privacy balance.
+- **Status correction at 13 September 2025:** DPDP Act 2023 **section 44(3)** had enacted the replacement of RTI section 8(1)(j), but enactment did not itself commence it; the clipping wrongly presents substitution as already operative. The later commencement must not be backdated. [MeitY notification/timeline collection](https://www.meity.gov.in/documents/act-and-policies/digital-personal-data-protection-rules-2025-gDOxUjMtQWa?pageTitle=Digit).
+- DPDP distinguishes **person** from **personal data**, which concerns an identifiable individual: its broad person definition does not automatically turn all company/State records into personal data. A potential maximum **₹250 crore** DPDP penalty is not an automatic personal penalty on every PIO for an RTI disclosure. Existing RTI penalty provisions are separate.
+- The source's less-than-1% use of public-interest override has no supporting dataset here; retain as an unverified editorial claim, not a national established statistic.
+
 ## PDF coverage
 
-2025-02-25: pp. 16, 17, 18, 19, 20 · 2025-04-11: pp. 4, 5, 6, 7
+2025-02-25: pp. 16, 17, 18, 19, 20 · 2025-04-11: pp. 4, 5, 6, 7 · 2025-09-13: pp. 6, 7, 8

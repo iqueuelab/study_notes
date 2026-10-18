@@ -539,6 +539,30 @@
         "d": "Wasps"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "Foreign direct investment: routes, flows and net investment",
+      "year": 2020,
+      "question": "With reference to Foreign Direct Investment (FDI) in India, which one of the following is considered its major characteristic?",
+      "options": {
+        "a": "It is the investment through capital instruments essentially in a listed company.",
+        "b": "It is a largely non-debt creating capital flow.",
+        "c": "It is the investment which involves debt-servicing.",
+        "d": "It is the investment made by foreign institutional investors in the Government securities."
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Foreign direct investment: routes, flows and net investment",
+      "year": 2011,
+      "question": "Both Foreign Direct Investments (FDI) and Foreign Institutional Investor (FII) are related to investment in a country. Which one of the following statements best represents an important difference between the two?",
+      "options": {
+        "a": "FII helps bring better management skills and technology, while FDI only brings in capital.",
+        "b": "FII helps in increasing capital availability in general, while FDI only targets specific sectors.",
+        "c": "FDI flows only into the secondary markets, while FII targets primary market.",
+        "d": "FII is considered to be more stable than FDI."
+      },
+      "answer": "b"
     }
   ]
 }

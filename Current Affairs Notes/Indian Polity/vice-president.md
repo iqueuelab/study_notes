@@ -19,6 +19,10 @@
 - **Presidential and Vice-Presidential Elections Act 1952 and Rules 1974** govern conduct under ECI's Article324 authority. By convention a Lok Sabha/Rajya Sabha Secretary-General serves as RO by rotation, assisted by Parliament Secretariat officers.
 - Nomination requires **at least 20 proposers and 20 seconders** from the electoral college. Party whip does not govern the secret-ballot election. [ECI election resources](https://www.eci.gov.in/vice-presidential-election-2025).
 
+## September 2025 election result
+- The embedded clipping reports **C. P. Radhakrishnan elected Vice-President on 9 September 2025**, following Jagdeep Dhankhar's July resignation. Election and assumption of office are distinct; do not describe the September 10 result report as the swearing-in date. [ECI election resources](https://www.eci.gov.in/vice-presidential-election-2025).
+- The issue's election, eligibility, oath, term and Article 63–71 material repeats the existing revision. Removal requires a majority of **all then Rajya Sabha members** and Lok Sabha agreement; its table's generic “special majority” wording does not mean two-thirds.
+
 ## PDF coverage
 
-2025-07-22: pp. 1, 2, 3, 4 · 2025-07-24: pp. 17, 18, 19, 20
+2025-07-22: pp. 1, 2, 3, 4 · 2025-07-24: pp. 17, 18, 19, 20 · 2025-09-10: pp. 3, 4, 5

@@ -14,6 +14,9 @@
 - Issue distinguishes hazardous industrial chemical spills and polluted groundwater from streams addressed under separate regimes (radioactive waste, mining operations, marine oil and solid-waste processing sites). Apply the exact notified exclusions rather than assuming every landfill or every polluted site follows the same rule.
 - Existing environmental duties preceded 2025; the source's “no legal process until now” overstates the novelty. These rules provide a specific contaminated-site identification/remediation framework, not the first environmental liability in India.
 
+## NGT versus pollution-control boards: PYQ recall
+- **2018 question: (b), statement 2 only.** Both are statutory: **NGT Act 2010** and **CPCB under Water Act 1974**, supplemented by Air Act 1981. NGT adjudicates environmental disputes; CPCB's pollution-control/coordination role differs. The PDF places this question after immigration, but its content belongs to environment.
+
 ## PDF coverage
 
-2025-07-29: pp. 13, 14, 15, 16, 17 · 2025-08-02: pp. 43, 44, 45 · 2025-08-11: pp. 11, 12, 13
+2025-07-29: pp. 13, 14, 15, 16, 17 · 2025-08-02: pp. 43, 44, 45 · 2025-08-11: pp. 11, 12, 13 · 2025-09-15: pp. 11, 12

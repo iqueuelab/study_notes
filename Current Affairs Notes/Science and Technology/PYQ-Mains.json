@@ -1,5 +1,11 @@
 {
   "subject": "Science and Technology",
   "exam_stage": "Mains",
-  "questions": []
+  "questions": [
+    {
+      "chapter": "Antimicrobial resistance: containment and research",
+      "year": 2014,
+      "question": "Can overuse and free availability of antibiotics without Doctor’s prescription, be contributors to the emergence of drug-resistant diseases in India? What are the available mechanisms for monitoring and control? Critically discuss the various issues involved."
+    }
+  ]
 }

@@ -1,0 +1,13 @@
+# Immigration and Foreigners Act 2025: administration and safeguards
+
+## Consolidated immigration framework: September 2025
+- **Immigration and Foreigners Act 2025 (Act 13)** received assent **4 April 2025** and commenced **1 September 2025**. It replaces the Passport (Entry into India) Act 1920, Registration of Foreigners Act 1939, Foreigners Act 1946 and Immigration (Carriers' Liability) Act 2000. Assent, passage and commencement differ. [Official Act](https://www.indiacode.nic.in/bitstream/123456789/21918/1/A2025-13.pdf), [commencement notification](https://www.mha.gov.in/sites/default/files/2025-09/Notification_on_commencement_date_of_Immigration_and_Foreigners_Act_2025_16092025.pdf).
+- September rules/orders consolidate passport/visa/registration, immigration databases and Bureau of Immigration functions; institutional reporting on foreign students, biometrics and enforcement involve specified authorities/conditions. The clipping's blanket “all foreigners” formulation should not override statutory exemptions.
+- Source discusses Assam Foreigners Tribunals, up to **three members**, review of ex parte orders within **30 days**, and additional process/enforcement powers. A tribunal finding, NRC exclusion, detention and deportation are different stages; exclusion of roughly **19 lakh in the 2019 Assam NRC** does not itself establish foreign nationality. Powers must be applied through the relevant law and fair procedure. [MHA rules/orders collection](https://www.mha.gov.in/en/divisionofmha/foreigners-division/acts-rules-and-regulations-pertaining-foreigners-division).
+- **Exemption Order 2025:** specified Hindu, Sikh, Buddhist, Jain, Parsi and Christian persons from Afghanistan/Bangladesh/Pakistan who sought shelter because of religious persecution/fear and entered **on or before 31 December 2024** without valid or with expired documents receive specified passport/visa exemptions. This does **not change CAA's 31 December 2014 citizenship cut-off** or confer automatic citizenship.
+- Registered Sri Lankan Tamil nationals sheltered up to **9 January 2015** receive specified stay/exit exemptions; do not infer a permanent ban on all citizenship pathways. Nepalese/Bhutanese and registered Tibetans have category/route/document conditions, rather than a blanket exemption for every traveller. [Official exemption order](https://www.mha.gov.in/en/divisionofmha/foreigners-division/acts-rules-and-regulations-pertaining-foreigners-division).
+- Policy balance: secure borders and reliable identity data with reasoned nationality determination, appeal/review, humane treatment, privacy and clear institutional accountability.
+
+## PDF coverage
+
+2025-09-15: pp. 9, 10, 11

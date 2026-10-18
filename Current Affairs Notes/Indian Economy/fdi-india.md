@@ -10,6 +10,13 @@
 - The source's blanket “100% agriculture/trading” and “all railways prohibited” are overbroad: permitted activities and conditions differ; specified railway infrastructure activities allow investment. Lottery/gambling, chit funds, Nidhi and atomic energy are key prohibited areas, subject to the operative policy text.
 - The source's April 2025 export-PMI “worst slump” assertion is not verified; omit it as an established explanation for falling FDI.
 
+## Outward investment and intermediary jurisdictions
+- September clipping reports a large share of **FY2024–25 outward investment** routed initially through Singapore, Mauritius, UAE, Netherlands, UK and Switzerland, with a reported **56%** share and **63% in Q1 FY2025–26** for its selected low-tax group. These are source classifications/first-destination shares, not proof every jurisdiction or investment is a tax haven or unlawful.
+- First destination can differ from ultimate operating location: holding companies/SPVs facilitate fundraising, joint ventures, treaty planning and global expansion. Risks include opaque beneficial ownership, profit shifting, round-tripping and regulatory arbitrage; GAAR, treaty anti-abuse rules, reporting and global BEPS cooperation respond.
+- The source's **₹3,488.5 crore total /₹1,946 crore subset** lacks a consistent unit/flow definition and is not retained as verified RBI outward-FDI totals. Its **Singapore 22.6%, Mauritius 10.9%, UAE 9.1%** and July **~60% JVs** are clipping-specific figures with limited classification detail.
+- Routing exports through another jurisdiction does not itself change origin: substantial transformation and applicable origin rules matter. OECD's **15% global minimum tax** concerns an agreed framework for covered multinationals, not a universal tax imposed on all Indian overseas investment.
+- **PYQ recall:** 2020—FDI is largely non-debt-creating capital; 2011—FII expands capital availability generally while FDI targets particular enterprises/sectors. Existing notes explain routes, the **at least 10%** listed-company threshold and gross/net flows; repeated background adds no new annual series.
+
 ## PDF coverage
 
-2025-08-30: pp. 1, 2
+2025-08-30: pp. 1, 2 · 2025-09-15: pp. 4, 5, 6, 7, 8, 9

@@ -635,6 +635,30 @@
       "answer": "c",
       "year": 2008,
       "chapter": "Gambusia: mosquito biocontrol and invasive-species risks"
+    },
+    {
+      "year": 2019,
+      "chapter": "Agricultural pesticides: toxicity and regulatory distinctions",
+      "question": "In India, the use of carbofuran, methyl parathion, phorate and triazophos is viewed with apprehension. These chemicals are used as:",
+      "options": {
+        "a": "pesticides in agriculture",
+        "b": "preservatives in processed foods",
+        "c": "fruit-ripening agents",
+        "d": "moisturising agents in cosmetics"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Contaminated sites: remediation rules and pollution boards",
+      "year": 2018,
+      "question": "How is the National Green Tribunal (NGT) different from the Central Pollution Control Board (CPCB)?\n1. The NGT has been established by an Act whereas the CPCB has been created by the executive order of the Government.\n2. The NGT provides environmental justice and helps reduce the burden of litigation in the higher courts whereas the CPCB promotes cleanliness of streams and wells, and aims to improve the quality of air in the country.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
     }
   ]
 }

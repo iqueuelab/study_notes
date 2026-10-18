@@ -10,6 +10,10 @@
 - The July 19 clipping reports **INS Nistar commissioned**, following delivery on July 8. Commissioning, delivery and earlier launch are distinct milestones; existing diving-depth/ROV/DSRV capabilities remain unchanged.
 - Official commissioning release reports **over 80% indigenous content and 120 MSMEs**, compared with the PDF/earlier delivery summary's roughly 75%. Treat these as differently reported event-stage figures; the commissioning announcement is the later official account. [Navy commissioning release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2145766&lang=2&reg=48).
 
+## Pacific Reach 2025
+- **INS Nistar arrived at Changi, Singapore, 14 September 2025**, its maiden foreign port call, for **Pacific Reach 2025 (XPR 25)** beginning **15 September**. Biennial multinational submarine-rescue exercise: harbour expert exchanges/cross-deck visits, then practical rescue/intervention at sea in the **South China Sea**. [Navy release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2166790&lang=2&reg=48).
+- Existing notes explain indigenous diving-support/mothership capability. This deployment develops rescue coordination and interoperability; port arrival, exercise commencement and commissioning are separate milestones.
+
 ## PDF coverage
 
-2025-07-10: pp. 19, 20, 21 · 2025-07-13: pp. 1, 2 · 2025-07-19: pp. 19, 20
+2025-07-10: pp. 19, 20, 21 · 2025-07-13: pp. 1, 2 · 2025-07-19: pp. 19, 20 · 2025-09-16: pp. 14, 15

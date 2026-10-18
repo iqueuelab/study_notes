@@ -35,6 +35,12 @@
 - WHO 2024 report estimated **263 million cases/597,000 deaths in 2023**, not 294 million. [WHO report](https://www.who.int/docs/default-source/malaria/world-malaria-reports/world-malaria-report-2024.pdf).
 - India 2030 elimination remains a target; asymptomatic reservoirs, vivax relapse, mixed infections, resistance and remote/tribal access complicate it. Jharkhand 20% mixed infections is source-specific study context, not national proportion. Vaccines complement nets, spraying, diagnosis, treatment and surveillance.
 
+## September 2025: AdFalciVax technology licensing
+- The embedded report states **ICMR licensed AdFalciVax technology to five firms**: **Indian Immunologicals, Techinvention Lifecare, Panacea Biotec, Biological E and Zydus Lifesciences**. These are technology-transfer/commercial-development rights, **not regulatory approval for routine human vaccination**. The July ICMR document explicitly describes a **vaccine candidate**. [ICMR EoI](https://www.icmr.gov.in/post/invitation-for-expression-of-interest-eoi-for-transfer-of-technology-of-a-recombinant-multi-stage-malaria-vaccine-vaccine-candidate-ref-eoi-no-icmr-eoi-pm-05-malaria-vaccine-adfalcivax-2025-last-date-august-17-2025).
+- Targets **P. falciparum** with pre-erythrocytic and transmission-blocking components. Preclinical validation involves **ICMR-RMRC Bhubaneswar, NIMR and National Institute of Immunology**; do not omit RMRC or equate animal findings with demonstrated clinical effectiveness.
+- Source's **over nine months at room temperature** concerns formulation stability/preclinical development, not nine months of proven human protection. Affordability, scale and impact depend on further development, trials, approval and deployment.
+- The issue's India **1.4% global /66% WHO South-East Asia-region burden** lack a clear common reference year and must not be treated as newly measured September 2025 statistics. Elimination by **2030** remains a target; vaccination complements vector control, diagnosis and treatment.
+
 ## PDF coverage
 
-2025-02-14: pp. 15, 16, 17, 18, 19 · 2025-06-26: pp. 30, 31, 32, 33, 34, 35, 36 · 2025-07-13: pp. 7, 8 · 2025-08-01: pp. 12, 13, 14, 15, 16 · 2025-08-02: pp. 89, 90, 91, 92, 93
+2025-02-14: pp. 15, 16, 17, 18, 19 · 2025-06-26: pp. 30, 31, 32, 33, 34, 35, 36 · 2025-07-13: pp. 7, 8 · 2025-08-01: pp. 12, 13, 14, 15, 16 · 2025-08-02: pp. 89, 90, 91, 92, 93 · 2025-09-10: pp. 11, 12, 13

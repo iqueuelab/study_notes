@@ -42,7 +42,14 @@
 - Delayed/poor-quality susceptibility testing, understaffing, high caseloads, self-medication and indiscriminate new-agent use undermine stewardship. Existing ceftazidime–avibactam resistance reinforces culture-guided use, infection prevention and review/de-escalation, not reflexively broader treatment.
 - New-drug research needs rigorous trials/regulatory evidence, affordable access and sustainable supply alongside restrictions on misuse. One Health implementation links human/veterinary/agricultural/environmental surveillance, public education and accountable dispensing; AMR is microbes resisting treatment, not humans becoming resistant.
 
+## Prescribing behaviour: knowledge versus practice
+- Source reports research using **2,282 private providers in Karnataka/Bihar**, knowledge vignettes and anonymous standardised-patient visits for childhood diarrhoea. Roughly half lacked correct knowledge; among those knowing antibiotics were unnecessary, **62% still prescribed**. Perceived patient demand, rather than drug supply or immediate dispensing profit, explained much of the gap.
+- Study counterfactuals: eliminating the know-do gap could reduce prescribing by about **30 percentage points**, versus **6 points** from perfect knowledge; these are not measured national reductions or relative-percent changes. Explicit requests for ORS reduced antibiotic use. [Original study and author abstract](https://scholars.duke.edu/publication/1688077).
+- Correct beliefs about patient preferences and reinforce communication/trust alongside clinical training, stewardship, appropriate dispensing, diagnostics and One Health surveillance. ORS/zinc treat dehydration/diarrhoea support needs; antibiotics are inappropriate for most uncomplicated childhood diarrhoea, but selected infections need clinical assessment.
+- The **~5 million AMR-associated deaths** phrase repeats an older global estimate already qualified in these notes; it is not a September 2025 annual death measurement. Prescription totals likewise need a year and coverage definition. Modern One Health collaboration includes **UNEP** alongside WHO, FAO and WOAH.
+- **2019 MDR PYQ: (b), 2 and 3 only**—incorrect antibiotic doses and antibiotic use in livestock contribute. Microbial resistance is not a patient's genetic predisposition; “only misuse matters” is too absolute because sanitation, infection control and transmission also matter.
+- **2014 Mains revision:** overuse/non-prescription access → selection and transmission → Schedule H/H1 enforcement, NCDC/ICMR surveillance, stewardship/diagnostics, livestock/environment controls and affordable access. The source's **250 words/15 marks** label is flagged for original-paper verification rather than assumed to be the 2014 paper's specification.
 
 ## PDF coverage
 
-2025-01-25: pp. 10, 11, 15, 16 · 2025-01-26: pp. 19 · 2025-04-25: pp. 12, 13, 14, 15, 16, 17 · 2025-05-23: pp. 14, 15, 16
+2025-01-25: pp. 10, 11, 15, 16 · 2025-01-26: pp. 19 · 2025-04-25: pp. 12, 13, 14, 15, 16, 17 · 2025-05-23: pp. 14, 15, 16 · 2025-09-15: pp. 12, 13, 14, 15, 16

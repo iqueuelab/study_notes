@@ -18,6 +18,12 @@
 - Digitisation enables research/access but does not replace physical conservation; preserve provenance, metadata, rights/consent, backup formats, script-reading expertise and scholarly verification. Scans alone do not validate every scientific/medical claim in a historic text.
 - Mains: protect fragile diverse knowledge → catalogue and conserve originals → accurate digitisation/translation → equitable research access and community stewardship. Global soft power and curricula are potential uses, not automatic outcomes.
 
+## September conference and portal
+- The **11–13 September 2025** conference in New Delhi used the theme **Reclaiming India's Knowledge Legacy through Manuscript Heritage**; the Prime Minister launched the **Gyan Bharatam Portal on 12 September**, linking digitisation, preservation and public research access. This is distinct from the older June-launch forecast reprinted on page 4. [Ministry of Culture record](https://culture.gov.in/files/press_release_document/PressRelease_Press_InformationBureau.pdf).
+- Issue reports approximately **one crore manuscripts**, **ten lakh digitised**, and cooperation with **Thailand, Vietnam and Mongolia**: dated estimates and collaboration context, not a reconciled census proving universal online access. The mission's over-one-crore intended coverage differs from completed digitisation.
+- Digitisation supports cultural diplomacy, access and documentation of traditional knowledge; preventing misappropriation also requires provenance, prior-art documentation and applicable IP processes. Scanning alone does not create ownership or automatically defeat a patent.
+- Pages 4–6 repeat earlier mission background; existing notes retain corrections on the 75-year programme criterion, language versus script, Bakhshali dating and constitutional heritage provisions.
+
 ## PDF coverage
 
-2025-05-18: pp. 1, 2, 3, 4, 5 · 2025-07-12: pp. 3, 4, 5, 6, 7
+2025-05-18: pp. 1, 2, 3, 4, 5 · 2025-07-12: pp. 3, 4, 5, 6, 7 · 2025-09-13: pp. 3, 4, 5, 6

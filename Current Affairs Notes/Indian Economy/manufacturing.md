@@ -39,6 +39,11 @@
 - Source's smartphone **FY2017–18 imports US$3.6bn/exports US$0.334bn → FY2022–23 imports US$1.6bn/exports US$11bn** describes a shift toward net exports; its stated **US$9.8bn surplus is arithmetically inconsistent** with those rounded latter numbers (**US$9.4bn**). Do not use the pre-PLI baseline as proof every gain was caused solely by PLI.
 - **2023 export-share/PLI PYQ: (d)**—3.2% share of global goods exports is incorrect in the question's context; domestic and foreign firms can use eligible PLI schemes. Sector-specific base-year/eligibility rules mean incentives are not universally calculated against the immediately preceding year's sales.
 
+## White Goods PLI: reopened September window
+- Official **14 September 2025** announcement reopened applications **15 September–14 October 2025**, inclusive, for components/subassemblies of **ACs and LED lights**. Both new applicants and specified existing beneficiaries seeking a higher investment category can apply under scheme conditions.
+- Snapshot: **83 selected applicants; ₹10,406 crore committed investment**, not realised spending. Cabinet approval **7 April 2021**, outlay **₹6,238 crore**, implementation through **FY2028–29**. Eligible domestic component capacity aims to deepen supply chains and reduce import dependence. [Commerce Ministry](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2166458&lang=2&reg=48).
+- General 14-sector PLI, cumulative incentive figures, smartphone trade comparison and **2023 PYQ (d)** repeat existing notes. The source's “seven years FY2021–22 to FY2028–29” wording is internally awkward; retain the official implementation endpoints without deriving an incorrect inclusive-year count.
+
 ## PDF coverage
 
-2025-01-01: pp. 21, 22 · 2025-01-02: pp. 23, 24, 25 · 2025-01-09: pp. 7, 8, 21, 23 · 2025-01-10: pp. 2, 3, 4, 24, 27 · 2025-05-12: pp. 13, 14, 15, 16, 17 · 2025-06-26: pp. 36, 37, 38, 39 · 2025-07-02: pp. 1, 2, 3, 4 · 2025-08-18: pp. 8
+2025-01-01: pp. 21, 22 · 2025-01-02: pp. 23, 24, 25 · 2025-01-09: pp. 7, 8, 21, 23 · 2025-01-10: pp. 2, 3, 4, 24, 27 · 2025-05-12: pp. 13, 14, 15, 16, 17 · 2025-06-26: pp. 36, 37, 38, 39 · 2025-07-02: pp. 1, 2, 3, 4 · 2025-08-18: pp. 8 · 2025-09-15: pp. 16, 17, 18, 19

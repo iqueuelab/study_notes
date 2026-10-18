@@ -77,6 +77,13 @@
 - Exploration indications/auction proposals are not certified commercially recoverable reserves or immediate magnet supply. Ore grade, separation technology, infrastructure, investment and radioactive/waste safeguards determine viability.
 - PDF's **₹1,000-crore rare-earth-magnet incentive** should be treated as a July proposal/report, not an established operational PLI scheme on this evidence. Geological reserves ranking, mining share and processing share must be tied to year/definition; they are not interchangeable.
 
+## September 2025: supply restoration still awaited
+- The embedded report says Indian importers had **not received resumed Chinese rare-earth-magnet shipments**, despite Wang Yi's **19 August** assurance during talks with Jaishankar. India was considering a representation to China's Commerce Ministry. This is the issue's dated account, not a claim about present-day shipments or a confirmed new ban.
+- The source's hope that a future Xi–Modi SCO encounter would restore supplies is stale phrasing: the **Tianjin SCO summit had already occurred by this issue date**. Diplomatic assurances, export licences and delivered consignments are separate steps.
+- Industry seeks a coordinated critical-materials strategy, stockpiles and domestic manufacturing incentives. Existing notes already cover **NdFeB/SmCo**, the **17 REEs**, Chinese processing concentration and India's NCMM. “India needs a strategy” must not erase the mission approved in January 2025; proposed stockpiles are not proven operational buffers.
+- Diversification and domestic ore separation must connect to alloy/magnet manufacture and testing; available reserves alone do not supply EV motors, wind turbines or defence systems. The source's **80–90% processing** shares are stage-specific estimates, not China's share of every REE mine.
+- **2012 PYQ revision:** statements **1 and 3** are correct; REEs also occur outside the four countries named in statement 2. The printed question omits the option set, so it is held for review rather than reconstructed in the common bank.
+
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6 · 2025-06-14: pp. 22, 23, 24, 25, 26, 27, 28 · 2025-07-09: pp. 14, 15, 16 · 2025-07-18: pp. 1, 2, 3, 4, 5
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6 · 2025-06-14: pp. 22, 23, 24, 25, 26, 27, 28 · 2025-07-09: pp. 14, 15, 16 · 2025-07-18: pp. 1, 2, 3, 4, 5 · 2025-09-11: pp. 1, 2, 3, 4
