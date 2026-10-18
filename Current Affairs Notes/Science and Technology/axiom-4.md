@@ -21,7 +21,9 @@
 - **2008 THEMIS PYQ: (c)**, high-latitude auroral displays; Time History of Events and Macroscale Interactions during Substorms investigates magnetospheric substorms.
 - **2016 MOM PYQ: (c), statements 1 and 3**. Correct the source explanation: ISRO was the **fourth space agency**, after Soviet programme, NASA and ESA, to achieve Mars orbit, not second after the USA; India succeeded at its first attempt. [ISRO MOM](https://www.isro.gov.in/MarsOrbiterMissionSpacecraft.html).
 
+## June 27 headline
+- The issue reports Shubhanshu Shukla reached space/ISS and calls him the **634th person in space**. Such ordinal counts depend on the definition/boundary and tracking list; the durable milestone is **first Indian to visit ISS**, after launch on **25 June 2025**, not first Indian ever in space.
 
 ## PDF coverage
 
-2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8
+2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8 · 2025-06-26: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1

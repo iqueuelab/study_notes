@@ -11,6 +11,11 @@
 - HRIDAY was an urban heritage-development programme. **Adopt a Heritage** partnerships support amenities/visitor management; they do not automatically privatise ownership, replace ASI's mandate or fund every restoration.
 - Priorities: authentic conservation, records/digitisation, trained conservators, protection from encroachment/pollution and accessible interpretation; visitor revenue should not displace archaeological integrity.
 
+## Permissions: refine the source's NMA shorthand
+- **National Monuments Authority**, under the AMASR framework amended in **2010**, makes recommendations on permission applications and heritage bye-laws. [NMA FAQ](https://www.nma.gov.in/show_content.php?lang=1&level=0&lid=9&ls_id=14&nma_type=0). Competent authorities administer the statutory permission process; “NMA itself permits every activity in 100 m/300 m” is too broad.
+- The **prohibited area** generally extends **100 m from the protected limits**, followed by the **200 m regulated area**. Distinguish new construction, repair/renovation, public works and notified exceptions rather than treating all works as one category or every century-old building as automatically centrally protected.
+- **2004 PYQ: (a), Culture**—ASI's attached-office status. Existing history, wings, Dwarka, digitisation and conservation-versus-amenities distinctions cover the repeated section.
+
 ## PDF coverage
 
-2025-04-15: pp. 13, 14
+2025-04-15: pp. 13, 14 · 2025-06-28: pp. 17, 18, 19, 20, 21

@@ -372,6 +372,42 @@
       "chapter": "Green hydrogen and off-grid production",
       "year": 2024,
       "answer": "(d) Water vapour"
+    },
+    {
+      "year": 2010,
+      "chapter": "Malaria: parasite cycle, vaccines and elimination",
+      "question": "Widespread resistance of malarial parasite to drugs like chloroquine has prompted attempts to develop a malarial vaccine to combat malaria. Why is it difficult to develop an effective malaria vaccine?",
+      "options": {
+        "a": "Malaria is caused by several species of Plasmodium",
+        "b": "Man does not develop immunity to malaria during natural infection",
+        "c": "Vaccines can be developed only against bacteria",
+        "d": "Man is only an intermediate host and not the definitive host"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2021,
+      "chapter": "Noble rot and fungal chromosome partitioning",
+      "question": "Consider the following:\n1. Bacteria\n2. Fungi\n3. Virus\nWhich of the above can be cultured in an artificial/synthetic medium?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "answer": "(a) 1 and 2 only"
+    },
+    {
+      "year": 2014,
+      "chapter": "Noble rot and fungal chromosome partitioning",
+      "question": "Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a symbiotic association of:\n(a) algae and bacteria\n(b) algae and fungi\n(c) bacteria and fungi\n(d) fungi and mosses",
+      "answer": "(b) algae and fungi"
+    },
+    {
+      "year": 2013,
+      "chapter": "Noble rot and fungal chromosome partitioning",
+      "question": "With reference to the food chains in ecosystems, which of the following organisms are known as decomposer organisms?\n1. Virus\n2. Fungi\n3. Bacteria\nSelect the correct answer using the codes given below:\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "answer": "(b) 2 and 3 only"
+    },
+    {
+      "year": 2013,
+      "chapter": "Noble rot and fungal chromosome partitioning",
+      "question": "Which of the following statements is/are correct?\n1. Viruses lack enzymes necessary for the generation of energy.\n2. Viruses can be cultured in any synthetic medium.\n3. Viruses are transmitted from one organism to another by biological vectors only.\nSelect the correct answer using the codes given below:\n1. 1 only\n2. 2 and 3 only\n3. 1 and 3 only\n4. 1, 2 and 3",
+      "answer": "1. 1 only"
     }
   ]
 }

@@ -15,6 +15,9 @@
 - **Chera, Chola, Pandya**, smaller chiefs, cultivation, crafts and trade appear in literature; women poets and varied social roles are significant, but do not infer universal gender equality or a hierarchy-free society. Much poetry concerns everyday life, yet “entirely secular” is too sweeping given religious themes.
 - Combine textual genres and archaeological evidence; the literary geography of Tamilakam should not be reduced to every territory south of Krishna/Tungabhadra or projected as today's State boundaries.
 
+## June 27 news listing
+- Source flags a **Keeladi controversy** but provides no substantive accompanying report in this issue. Keep dating/stratigraphic qualifications above; a contents question alone does not establish a new archaeological finding.
+
 ## PDF coverage
 
-2025-05-30: pp. 3, 4, 5, 6
+2025-05-30: pp. 3, 4, 5, 6 · 2025-06-27: pp. 1

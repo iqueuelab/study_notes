@@ -3307,37 +3307,137 @@
     {
       "date": "2025-06-25",
       "pdf": "2025/06-June/2025-06-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "326fa12cdd9f50c0a84790e2f702ae1bf69483eec47e477c1c05316f12421405",
+      "pages": 32,
+      "topic_ids": [
+        "dharti-aaba",
+        "enhanced-rock-weathering",
+        "in-vivo-car-t",
+        "iran-nuclear-npt",
+        "sez",
+        "sustainable-development-report",
+        "uranium-enrichment"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-26",
       "pdf": "2025/06-June/2025-06-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "eeb4738edf65789e3efbc30f73269204f71810c5e2aa3fcc15fe943ee5c59480",
+      "pages": 39,
+      "topic_ids": [
+        "axiom-4",
+        "cookes-peak-minerals",
+        "emergency-provisions",
+        "gst-gstat",
+        "kailash-mansarovar-yatra",
+        "liver-mortality-patterns",
+        "malaria",
+        "manufacturing",
+        "masld"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-27",
       "pdf": "2025/06-June/2025-06-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "9c9ddeeb67b2796522f9105442638bc5e3c269b90009c705f81efeeab3bd1b6f",
+      "pages": 37,
+      "topic_ids": [
+        "axiom-4",
+        "black-box",
+        "chemotherapy",
+        "donkey-skin-trade",
+        "gi-tags",
+        "i4c",
+        "indian-wild-ass",
+        "keeladi-sangam",
+        "membrane-bioreactors",
+        "rainforest-regeneration",
+        "rtg",
+        "s400",
+        "shanghai-cooperation-organisation",
+        "simultaneous-elections",
+        "tawi-river"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-28",
       "pdf": "2025/06-June/2025-06-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a7f31880cb2b759bcdef1008549383999d665a47aa5763c5316c9402e378aa09",
+      "pages": 32,
+      "topic_ids": [
+        "asi",
+        "coastline-measurement",
+        "crude-imports",
+        "potato-cultivation",
+        "semaglutide",
+        "tansen-tomb"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-29",
       "pdf": "2025/06-June/2025-06-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "c4535d1ff4c2f09346e0c745ea0b9183a8deff956e18fcbaa1c150ff666e63de",
+      "pages": 19,
+      "topic_ids": [
+        "adamya-fpv",
+        "k6-slbm",
+        "pfas",
+        "registrar-general",
+        "salkhan-fossil-park",
+        "trigeminal-neuralgia",
+        "world-drug-day"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-30",
       "pdf": "2025/06-June/2025-06-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b1df77ede7dc65ff461168c3aa6514ecaa7488c2cc2fa8b8135c5268d62386e0",
+      "pages": 28,
+      "topic_ids": [
+        "new-criminal-codes",
+        "noble-rot-fungal-genomes",
+        "political-party-registration",
+        "sariska",
+        "three-language"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-01",
       "pdf": "2025/07-July/2025-07-01.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "63744170fa97772d6a3c139b194456314e231b7b13ae303692c9a3e419b9f48f",
+      "pages": 21,
+      "topic_ids": [
+        "bhashasetu",
+        "bonnet-macaque",
+        "brics",
+        "gi-tags",
+        "global-south",
+        "gosat-gw",
+        "kombucha-gut-microbiome",
+        "space-surveillance",
+        "species-discoveries-2024"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-02",
@@ -5436,7 +5536,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-06-25",
+  "next_pdf": "2025-07-02",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

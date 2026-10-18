@@ -15,6 +15,13 @@
 - **2019 rice exporter: India (b)** in the question's five-year context, not a permanent ranking guarantee. Source rice export shares/destination lists are period-dependent; policy is not invariably export-friendly.
 - **2011 lower Gangetic plain: paddy and jute (c)** fit humid, warm, alluvial conditions. Wheat is still cultivated in eastern India; cotton can grow beyond black soils, so alternative-option explanations should not become blanket impossibility claims.
 
+## June 25 Cabinet approval: Agra research centre
+- Cabinet approved **CIP South Asia Regional Centre (CSARC), Singna, Agra, Uttar Pradesh**, serving India/South Asia. Approved establishment is distinct from an already operating completed facility.
+- **₹171 crore total**: India **₹111.5 crore**, CIP **₹60 crore**; UP provides **10 hectares**. Research on climate-resilient/disease-free **potato and sweet potato**, quality seed, storage/post-harvest systems, processing/value addition, technology transfer and farmer livelihoods. [Cabinet decision](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2139496&lang=2&reg=48).
+- **CIP**, established **1971**, headquarters **Lima, Peru**; works on potato, sweet potato and Andean roots/tubers; India cooperation since **1975**. Access to germplasm and better domestic seed can reduce import dependence and support food/nutrition security.
+- CIP's China Asia-Pacific centre at **Yanqing, Beijing (2017)** is another regional institution. The source calls CSARC India's second such international agricultural regional centre after IRRI-SARC; **IRRI-SARC, Varanasi was inaugurated in 2018**, so its “established 2017” shorthand should not replace the inauguration date. [2018 inauguration](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1557772&lang=2&reg=48).
+- Existing crop requirements, source 1991–2021 growth series, UP/West Bengal leadership and conditional **2050** forecast cover the repeated cultivation section. “Third most consumed food” depends on crop/measure definition; avoid equating fresh potato tonnage with cereal calorie contribution.
+
 ## PDF coverage
 
-2025-05-21: pp. 6, 7, 8, 9, 10, 11, 12, 13, 14 · 2025-05-25: pp. 10, 11
+2025-05-21: pp. 6, 7, 8, 9, 10, 11, 12, 13, 14 · 2025-05-25: pp. 10, 11 · 2025-06-28: pp. 10, 11, 12, 13, 14

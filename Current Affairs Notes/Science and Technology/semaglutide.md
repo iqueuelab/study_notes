@@ -18,6 +18,12 @@
 - Source's broad BMI thresholds are indication-specific eligibility descriptions, not personalised treatment rules. Its undifferentiated obesity count/diabetes rank should not be learned without survey/year definitions.
 - Adjacent PYQ recall: **ACE2 → spread of viral diseases (2021, d); Bollgard I/II → GM crops (2022, b); B and T cells → protection against pathogens (2022, d)**. These are separate biotechnology/immunology concepts, not mechanisms of the two medicines.
 
+## June 28 graphic: formulations and statistics
+- Source infographic explicitly shows **oral semaglutide (Rybelsus)**: semaglutide is **not exclusively injectable**. It quotes old 10-tablet pack prices **₹3,170/₹3,520/₹3,870 for 3/7/14 mg**; these are the clipping's dated retail examples, not current prices, interchangeable dosing or treatment costs.
+- Graphic's **10.13 crore diabetes estimate** needs cohort/year context. NFHS-5 **24% women/23% men** corresponds to **overweight or obesity (BMI ≥25)** in the surveyed age groups, not obesity alone. The body's “135 million obese /India second in diabetes” claims do not establish comparable age-standardised 2025 prevalence rankings.
+- Existing tirzepatide **dual GIP/GLP-1** versus semaglutide **GLP-1** distinction, prescription eligibility, GI side effects and affordability cover the repeated text. **BMI ≥30 or ≥27 plus relevant comorbidity** are common weight-management label thresholds, not permission for unsupervised use or identical criteria for every Indian patient.
+- Ancillary PYQ recall: **ACE2 (2021)—viral diseases; Bollgard (2022)—GM crops; B/T cells (2022)—protection from pathogens**. The source's practice question is not a PYQ.
+
 ## PDF coverage
 
-2025-04-07: pp. 9, 10, 11 · 2025-06-11: pp. 15, 16, 17, 18, 19
+2025-04-07: pp. 9, 10, 11 · 2025-06-11: pp. 15, 16, 17, 18, 19 · 2025-06-28: pp. 29, 30, 31, 32

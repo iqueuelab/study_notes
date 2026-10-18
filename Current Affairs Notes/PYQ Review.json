@@ -164,6 +164,92 @@
       "year": null,
       "question": "Consider the following statements about the Rashtriya Gokul Mission:\nI. It is important for the upliftment of rural poor as majority of low producing indigenous animals are with small and marginal farmers and landless labourers.\nII. It was initiated to promote indigenous cattle and buffalo rearing and conservation in a scientific and holistic manner.\nWhich of the statements given above is/are correct?\n(a) I only\n(b) II only\n(c) Both I and II\n(d) Neither I nor II",
       "reason": "Inset scanned question is complete but has no supplied year; marked answer(a) is not independently verified; hold for year/answer review, do not invent year."
+    },
+    {
+      "year": 2010,
+      "issue_date": "2025-06-25",
+      "id": "sez",
+      "pages": [
+        22,
+        23
+      ],
+      "question": "The SEZ Act, 2005, which came into effect in February 2006, has certain objectives. In this context, consider the following:\n1. Development of infrastructure facilities.\n2. Promotion of investment from foreign sources.\n3. Promotion of exports of services only.\nWhich of the above is the objective of this Act?",
+      "reason": "Full answer-option set absent; supplied answer1 and2 only; not bank"
+    },
+    {
+      "year": 2023,
+      "issue_date": "2025-06-25",
+      "id": "enhanced-rock-weathering",
+      "pages": [
+        27,
+        28
+      ],
+      "question": "Consider the following activities:\n1. Spreading finely ground basalt rock on farmlands extensively\n2. Increasing the alkalinity of oceans by adding lime\n3. Capturing carbon dioxide released by various industries and pumping it into abandoned subterranean mines in the form of carbonated waters\nHow many of the above activities are often considered and discussed for carbon capture and sequestration?",
+      "reason": "Full options absent; answer supplied All three; not bank"
+    },
+    {
+      "issue_date": "2025-06-25",
+      "id": "uranium-enrichment",
+      "pages": [
+        6,
+        7
+      ],
+      "reason": "2023 uranium PYQ duplicate of result02"
+    },
+    {
+      "issue_date": "2025-06-25",
+      "id": "dharti-aaba",
+      "pages": [
+        15,
+        16
+      ],
+      "reason": "2014 watershed question duplicate of result02; corrected answer(d)None"
+    },
+    {
+      "issue_date": "2025-06-25",
+      "id": "in-vivo-car-t",
+      "pages": [
+        32
+      ],
+      "reason": "2022 B/T cells question duplicate of result01"
+    },
+    {
+      "issue_date": "2025-06-26",
+      "pages": [
+        22,
+        23
+      ],
+      "reason": "MPPSC 2018 and UKPSC 2016 are State PSC questions, not UPSC PYQs; retained useful concepts in chapter. MPPSC foreign-national explanation is wrong."
+    },
+    {
+      "issue_date": "2025-06-27",
+      "pages": [
+        4
+      ],
+      "reason": "2022 AIIB/MTCR/SCO question complete, answer d; duplicate of result05 June24, omitted from bank additions."
+    },
+    {
+      "issue_date": "2025-06-29",
+      "reason": "Fentanyl practice question lacks explicit PYQ attribution/year; not inserted into PYQ bank."
+    },
+    {
+      "issue_date": "2025-06-30",
+      "year": 2014,
+      "reason": "Dampa/Gumti/Saramati question has all pairs but missing option set; retain as revision, flag for full original question review."
+    },
+    {
+      "issue_date": "2025-06-30",
+      "year": 2021,
+      "reason": "Cnidarians/fungi/protozoa symbiosis question omits options except answer (d); not added as a complete PYQ."
+    },
+    {
+      "issue_date": "2025-06-30",
+      "year": 2025,
+      "reason": "No virus/ocean/bacteria/transcription statements present, but full options missing; answer labelled (d) None only. Not added as complete PYQ."
+    },
+    {
+      "issue_date": "2025-06-29",
+      "reason": "Agni-IV 2014, PFAS 2024, ACE2 2021 and INS Astradharini 2016 already occur in common banks/prior drafts; coverage and revision preserved without duplicate PYQs."
     }
   ],
   "resolved": [

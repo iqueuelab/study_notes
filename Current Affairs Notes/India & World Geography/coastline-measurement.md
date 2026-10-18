@@ -22,6 +22,12 @@
 - Emergence: relative land uplift/sea-level fall; submergence: subsidence/sea-level rise. Raised beaches versus drowned valleys/rias are diagnostic examples; beaches, spits/lagoons can occur under several processes. Avoid the source’s blanket classification of all Kerala as emerging or every west-coast segment as tectonically submerged.
 - Coast borders **Arabian Sea, Indian Ocean and Bay of Bengal**; nine States plus four coastal UTs. Current UT name is **Dadra and Nagar Haveli and Daman and Diu**, alongside Puducherry, Lakshadweep and A&N. Proposed ten-year measurement updates are a source-reported plan, not evidence every past decade was revised.
 
+## June 28 map and clipping additions
+- Embedded **1990–2016 shoreline-change map** distinguishes erosion, stable coast and accretion. It is **not the date range of the coastline remeasurement**, nor proof that every longer reported State shoreline physically accreted land.
+- Newspaper table additionally gives revised **Maharashtra 877.00 km, Karnataka 343.30 km, Goa 193.85 km, Odisha 574.71 km, Lakshadweep 144.80 km and Dadra and Nagar Haveli and Daman and Diu 54.38 km**. These complete the already recorded source comparison; keep State totals separate from islands/UTs.
+- Clipping reports **2014 Surveyor General count 1,382**, other agencies/States **1,334**, then reconciled offshore islands **1,298 +91 lake islands =1,389**. The heading’s **seven-island increase** compares **1,382→1,389**, not 1,334. These counts exclude the many river islands; better identification/standardisation is **not evidence seven islands geologically formed**.
+- Repeated text's Puducherry decline/EEZ proportionality/Kerala blanket emergence errors are already corrected above. Andhra port examples **Ramayapatnam, Krishnapatnam and Kakinada Gateway** illustrate maritime planning, not ports automatically created by a perimeter revision.
+
 ## PDF coverage
 
-2025-05-26: pp. 1, 2, 3, 4, 5, 6, 7, 8
+2025-05-26: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-28: pp. 21, 22, 23, 24, 25, 26, 27, 28

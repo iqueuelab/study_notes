@@ -16,7 +16,12 @@
 - ISRO balances launch operations, manufacture, R&D, data processing, national applications and **Gaganyaan**, with finite staff/budgets. Increase institutional resources, manufacturing capability, qualified suppliers/private collaboration and long-term R&D rather than count only launch targets.
 - Security infrastructure requires resilient domestic capability, redundancy, data protection and coordinated user requirements. Private participation does not remove ISRO's technical/infrastructure role or automatically privatise ISRO.
 
+## SBS-III acceleration report
+- The issue reports faster construction for the **52-satellite Space-Based Surveillance-III programme**, approved in October 2024: **21 ISRO-built and 31 private-sector satellites**; these are plans, not a completed operational constellation.
+- **SAR** offers day/night and cloud-penetrating imaging; electro-optical sensors complement it with high-resolution imagery but have different weather/illumination constraints. Revisit frequency, coverage, downlink and analysis determine usefulness; LEO alone does not guarantee continuous observation of every location.
+- Named firms: **Ananth Technologies (Hyderabad), Centum Electronics and Alpha Design Technologies (Bengaluru)**. Reported 12–18-month acceleration is a programme aspiration; source clipping says an initial satellite set was sought by **2026**, so the simplified “by 2025” assertion should not be memorised.
+- Defence Space Agency/user coordination, launch/engineering supervision, AI-assisted analysis and domestic data sovereignty support border/coastal/IOR surveillance and reduced commercial-foreign dependence. Speculative SpaceX/LVM3 launch choices are not confirmed contracts. Private end-to-end manufacturing needs security, reliability and quality control.
 
 ## PDF coverage
 
-2025-01-23: pp. 4, 5 · 2025-01-26: pp. 11 · 2025-05-19: pp. 10, 11, 12
+2025-01-23: pp. 4, 5 · 2025-01-26: pp. 11 · 2025-05-19: pp. 10, 11, 12 · 2025-07-01: pp. 3, 4, 5

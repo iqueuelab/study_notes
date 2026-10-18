@@ -8,6 +8,12 @@
 - **Article X** permits withdrawal when extraordinary treaty-related events jeopardise supreme national interests, with **three months' notice** to all parties and UNSC explaining those events. Withdrawal does not retroactively erase breaches or automatically make weapon acquisition lawful under all other obligations. The PDF's 'leave and legally build a bomb' is unsound.
 - Risks: weakened verification, regional arms competition and escalation; diplomatic verification and security assurances remain relevant alongside non-proliferation commitments.
 
+## June 25: material accountancy after strikes
+- Source questions whereabouts of roughly **400 kg of up-to-60%-enriched uranium** after Fordow, Natanz and Isfahan strikes. **Unverified whereabouts do not establish lost/stolen material**; truck satellite images cannot prove cargo or final storage location.
+- Claims of movement to Isfahan, weapon timelines and 'ten bombs' are attributed political/intelligence estimates, not verified weapons. Producing weapon-usable material, weaponisation and a deliverable device are distinct steps.
+- IAEA access, material accountancy and restored monitoring are essential; Iran asserted peaceful intent. Threats to leave NPT do not prove lawful withdrawal by June 25.
+- Source's **GBU-37** is wrong: B-2 bunker penetrator was **GBU-57 MOP**. Damage/material assessments remained unresolved at the issue date.
+
 ## PDF coverage
 
-2025-06-23: pp. 8, 9, 10
+2025-06-23: pp. 8, 9, 10 · 2025-06-25: pp. 1, 2, 3

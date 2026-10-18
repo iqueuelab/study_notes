@@ -15,6 +15,10 @@
 - **2014 historical context:** first BRIC summit **Yekaterinburg, Russia, 16 June 2009**, not Rio de Janeiro; South Africa was the last addition among the then five—**2 only (b)**. Later expansion does not change that historical answer.
 - **16th summit: Kazan, Russia, 22–24 October 2024**; theme **Strengthening Multilateralism for Just Global Development and Security**, not Multiculturalism. **Indonesia full membership announced January 2025**; 2025 PYQ **I and II (a)**.
 
+## July summit agenda
+- Brazil was to host the **17th BRICS summit in Rio de Janeiro, 6–7 July 2025**; India takes the chair in **2026**. Agenda includes global-governance reform, peace/security, climate, health, AI and multilateral cooperation.
+- The source's “five-member group with Argentina as a new invitee” is stale/misleading. **Argentina declined the invitation**; BRICS membership and partner status must be distinguished. This tour's Argentina stop does not make Argentina a BRICS member.
+
 ## PDF coverage
 
-2025-01-22: pp. 5, 6 · 2025-06-24: pp. 33, 34
+2025-01-22: pp. 5, 6 · 2025-06-24: pp. 33, 34 · 2025-07-01: pp. 8

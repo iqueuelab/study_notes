@@ -24,6 +24,18 @@
 - **ODOP ≠ GI:** district product promotion may support registered products, but ODOP selection is not a GI certificate. ONDC can improve digital market access; neither guarantees global sales.
 - Mains value: rural entrepreneurship, cultural preservation and export differentiation; ensure premiums reach original producers rather than only intermediaries.
 
+## June 27: artisan recognition and differentiated craft
+- News list records **Kolhapuri chappal makers' objection to Prada's “replica” sandals**. Kolhapuri chappal is a **2019 GI**, a traditional leather-footwear craft linked to Maharashtra/Karnataka; the headline is a dispute, **not an adjudicated finding of infringement**. [Official craft account](https://handicrafts.nic.in/crafts/All_Crafts/Craft_Categories/Leather/Leather_footwear/Kolhapuri_Chappal/KolhapuriChappalWebPage.html).
+- Repeated Kannadippaya clipping adds its distinctive **soft inner reed-bamboo layers and mirror-like patterns**, associated with winter warmth/summer cooling; tribal craft skills and producer benefit matter alongside registration. Named communities include **Oorali, Mannan, Muthuva, Malayan and Kadar**, in Idukki, Thrissur, Ernakulam and Palakkad districts; do not treat GI as restricted to a single household or as proof therapeutic effects.
+- Existing 10,000-by-2030 target, legal duration, authorised users, examples and marketing constraints cover the repeated body.
+
+## Prada–Kolhapuri dispute and overseas protection
+- The July discussion develops the earlier Prada–Kolhapuri dispute into a distinction between **cultural attribution and territorial legal rights**.
+- Protection is **territorial**: domestic registration alone creates no universal international monopoly over a design. Overseas national applications, mutual-recognition agreements and appropriate certification/collective marks can help. The **WIPO Lisbon system** facilitates protection among contracting parties; India is not a member in this issue's timeframe. [WIPO GI explanation](https://www.wipo.int/en/web/geographical-indications).
+- Paris Convention, WTO TRIPS and India's GI Act supply distinct international/domestic legal layers. Right to prevent misleading origin claims differs from a patent over an invention or a design right.
+- **Traditional-knowledge patent examples:** turmeric wound-healing patent revoked after prior-art challenge; neem antifungal patent revoked in Europe; RiceTec/Basmati controversy concerned patent claims and naming issues. Avoid describing all as identical GI disputes or implying the RiceTec patent was wholly cancelled.
+- Responses: searchable authentic-product databases, producer/authorised-user capacity, foreign-market registration where useful, enforcement, ethical brand–artisan collaboration and benefit-sharing. The issue's 658 GI figure lacks a clear matching date/count definition; do not replace the existing dated registry figures with it.
+
 ## PDF coverage
 
-2025-04-04: pp. 3, 4, 5, 6, 7, 8
+2025-04-04: pp. 3, 4, 5, 6, 7, 8 · 2025-06-27: pp. 1, 28, 29, 30, 31, 32 · 2025-07-01: pp. 18, 19, 20, 21

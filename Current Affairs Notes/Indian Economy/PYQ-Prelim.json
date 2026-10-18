@@ -341,6 +341,60 @@
       "chapter": "Infrastructure financing and the Deepak Parekh Committee",
       "year": 2009,
       "answer": "(b)"
+    },
+    {
+      "question": "Consider the following statements:\n1. The first telegraph line in India was laid between Kolkata (formerly Calcutta) and Diamond Harbour.\n2. The first Export Processing Zone in India was set up in Kandla.\nWhich of the statements given above is/are correct?\n(a) 1 only\n(b) 2 only\n(c) Both 1 and 2\n(d) Neither 1 nor 2",
+      "chapter": "Special Economic Zones and semiconductor reforms",
+      "year": 2009,
+      "answer": "(c) Both 1 and 2"
+    },
+    {
+      "year": 2017,
+      "chapter": "GST, GST Council and appellate tribunal",
+      "question": "What is/are the most likely advantages of implementing Goods and Services Tax (GST)?\n1. It will replace multiple taxes collected by multiple authorities and will thus create a single market in India.\n2. It will drastically reduce the Current Account Deficit of India and will enable it to increase its foreign exchange reserves.\n3. It will enormously increase the growth and size of economy of India and will enable it to overtake China in the near future.\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2018,
+      "chapter": "GST, GST Council and appellate tribunal",
+      "question": "Consider the following items:\n1. Cereal grains hulled\n2. Chicken eggs cooked\n3. Fish processed and canned\n4. Newspapers containing advertising material\nWhich of the above items is/are exempted under Goods and Services Tax (GST)?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1, 2 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2023,
+      "chapter": "Manufacturing, Make in India and PLI",
+      "question": "Consider the following statements:\nStatement-I: India accounts for 3.2% of global export of goods.\nStatement-II: Many local companies and some foreign companies operating in India have taken advantage of India's Production-linked Incentive (PLI) scheme.\nWhich one of the following is correct?",
+      "options": {
+        "a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+        "b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+        "c": "Statement-I is correct but Statement-II is incorrect",
+        "d": "Statement-I is incorrect but Statement-II is correct"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2024,
+      "chapter": "Crude oil imports and energy security",
+      "question": "Consider the following statements:\nStatement-I: Recently, Venezuela has achieved a rapid recovery from its economic crisis and succeeded in preventing its people from fleeing/emigrating to other countries.\nStatement-II: Venezuela has the world’s largest oil reserves.\nWhich one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+        "b": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "c": "Statement-I is correct, but Statement-II is incorrect",
+        "d": "Statement-I is incorrect, but Statement-II is correct"
+      },
+      "answer": "d"
     }
   ]
 }

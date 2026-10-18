@@ -34,7 +34,11 @@
 - State-specific parks with plug-and-play infrastructure, common prototyping/testing/certification/design, links to institutions/labs and supplier/startup finance. Lessons from Silicon Valley concern skills, research and networks, not a promise one copied park creates equivalent outcomes.
 - Proposed **R&D 0.65%→2% GDP** and **additional 1% GDP industrial infrastructure** are spending recommendations; reference-year/scope of the 0.65% baseline must be specified. Combine educational capability, affordable finance, scale/quality, market access and dynamic evidence-based policy; check productivity/jobs and domestic technological depth.
 
+## June clipping: PLI performance
+- Newspaper reports **₹21,534 crore incentives disbursed** across sectors, investment **₹1.76 lakh crore** and production/sales **₹16.5 lakh crore**. The clipping dates production/sales to **March**; these cumulative administrative figures have different measures, so keep them distinct from annual output, net value addition or attributable employment.
+- Source's smartphone **FY2017–18 imports US$3.6bn/exports US$0.334bn → FY2022–23 imports US$1.6bn/exports US$11bn** describes a shift toward net exports; its stated **US$9.8bn surplus is arithmetically inconsistent** with those rounded latter numbers (**US$9.4bn**). Do not use the pre-PLI baseline as proof every gain was caused solely by PLI.
+- **2023 export-share/PLI PYQ: (d)**—3.2% share of global goods exports is incorrect in the question's context; domestic and foreign firms can use eligible PLI schemes. Sector-specific base-year/eligibility rules mean incentives are not universally calculated against the immediately preceding year's sales.
 
 ## PDF coverage
 
-2025-01-01: pp. 21, 22 · 2025-01-02: pp. 23, 24, 25 · 2025-01-09: pp. 7, 8, 21, 23 · 2025-01-10: pp. 2, 3, 4, 24, 27 · 2025-05-12: pp. 13, 14, 15, 16, 17
+2025-01-01: pp. 21, 22 · 2025-01-02: pp. 23, 24, 25 · 2025-01-09: pp. 7, 8, 21, 23 · 2025-01-10: pp. 2, 3, 4, 24, 27 · 2025-05-12: pp. 13, 14, 15, 16, 17 · 2025-06-26: pp. 36, 37, 38, 39

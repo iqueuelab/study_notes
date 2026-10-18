@@ -20,6 +20,9 @@
 - Constraints: underreporting, shame/fear, cross-border jurisdiction, uneven district skills/labs, scarce resources and fast-changing AI/deepfake/crypto-enabled offences.
 - Strengthen district training, state forensic labs linked to national support, inter-state/cross-border SOPs, rapid bank coordination, research grants and school/college cyber-hygiene education. Coordination is an institutional strength; claims of universal rapid redressal or an inevitable largest cyber-police force are aspirations, not measured achievements.
 
+## June 27 enforcement headline
+- Source lists **nine arrests by CBI in a cybercrime crackdown**. This is an agency action reported in the contents; CBI's investigation and I4C's coordination are different institutional roles. No further case detail is supplied here.
+
 ## PDF coverage
 
-2025-04-28: pp. 8, 9, 10, 11
+2025-04-28: pp. 8, 9, 10, 11 · 2025-06-27: pp. 1

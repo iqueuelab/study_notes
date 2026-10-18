@@ -15,7 +15,12 @@
 ## Historical cycle
 - Lok Sabha/assembly elections broadly coincided in **1952, 1957, 1962, 1967**. Premature assembly dissolutions in **1968-69** and Lok Sabha dissolution in **1970**, followed by the **1971** election, disrupted synchronisation.
 
+## June 27 constitutional debate
+- Contents quotes a former CJI's view that **staggered polls cannot be assumed an immutable constitutional feature**. This is a reported opinion, not a binding judgment approving a particular amendment.
+- Repeated arguments add administrative/security deployment pressures and the risk of campaign polarisation/populist timing. Model Code restrictions concern announcements/use of official machinery, **not an automatic halt to all ongoing development or essential services**.
+- Article **85/174** (sessions/dissolution) interact with **83/172** (terms); Article **356** cannot simply be used to force synchronisation. The source's blanket “five Articles must change, 50% State ratification required” is not a universal constitutional rule: the actual Bill's provisions determine procedure and whether Article 368's ratification proviso is triggered.
+- Cost and voter-behaviour estimates (2014 election **₹3,870 crore**, Bihar 2015 **₹300 crore**, projected synchronisation **₹4,500 crore**, same-party **77%/61%**) are **dated source claims with differing scope/methodology**, not current budget savings or proof any voter will choose identically. Assess federal mandates, accountability, mid-term dissolution safeguards and logistics.
 
 ## PDF coverage
 
-2025-01-04: pp. 8, 9, 10, 11, 12, 13
+2025-01-04: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1, 32, 33, 34, 35, 36, 37

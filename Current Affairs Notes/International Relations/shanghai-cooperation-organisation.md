@@ -12,6 +12,10 @@
 ## Membership PYQ
 - **2022 PYQ: AIIB, MTCR and SCO—all three (d)**. India: AIIB founding membership 2016, MTCR 2016, SCO 2017. Background repeats June 20 notes; Belarus was already the tenth member in June 2025.
 
+## June 27 development
+- Source reports **India declined to sign the SCO Defence Ministers' joint statement** because the Pahalgam attack was omitted; failure to reach consensus prevented adoption. This demonstrates the limits of regional counter-terrorism cooperation when members differ on terrorism narratives; it does not mean India left SCO.
+- Existing ten-member list, RATS/Secretariat and India interests apply. **2022 membership PYQ: (d), all three**—India belongs to AIIB, MTCR and SCO. The complete question was already captured from the June24 issue, so it is not duplicated in the bank.
+
 ## PDF coverage
 
-2025-06-20: pp. 3, 4, 5 · 2025-06-24: pp. 30, 31, 32, 33
+2025-06-20: pp. 3, 4, 5 · 2025-06-24: pp. 30, 31, 32, 33 · 2025-06-27: pp. 1, 2, 3, 4
