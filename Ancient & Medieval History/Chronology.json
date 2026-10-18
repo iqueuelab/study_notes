@@ -12,6 +12,18 @@
       "short_label": "C2",
       "title": "Harappan Civilisation / Bronze Age",
       "notes": "02. Harappan Civilisation:Bronze Age(c. 2600-1900 BCE)/Quick Revision Notes.html"
+    },
+    "3": {
+      "label": "Chapter 3",
+      "short_label": "C3",
+      "title": "The Vedic Age",
+      "notes": "03. The Vedic Age(Rig Vedic & Later Vedic) (c. 1500-500 BCE)/Quick Revision Notes.html"
+    },
+    "4": {
+      "label": "Chapter 4",
+      "short_label": "C4",
+      "title": "The Mahajanapadas of the Indo-Gangetic Plain",
+      "notes": "04. The Mahajanpadas of the Indo-Gangetic Plain(c. 600-300 BCE)/Quick Revision Notes.html"
     }
   },
   "eras": [
@@ -210,6 +222,19 @@
       "end_year": -2000
     },
     {
+      "id": "indo-aryan-interactions",
+      "start_year": -2000,
+      "end_year": -1000,
+      "date_label": "Second millennium BCE · broad context",
+      "title": "Indo-Aryan movements and interactions",
+      "summary": "Broad second-millennium BCE context for movements through Central Asia and interaction in South Asia. Linguistic, archaeological and genetic evidence have different scopes; neither pottery nor DNA directly identifies an individual’s language.",
+      "category": "Cultural period",
+      "chapters": [
+        "3"
+      ],
+      "is_turning_point": false
+    },
+    {
       "id": "late-harappan",
       "start_year": -1900,
       "date_label": "c.1900–1300 BCE",
@@ -249,14 +274,28 @@
       "end_year": -1400
     },
     {
+      "id": "early-vedic",
+      "start_year": -1500,
+      "end_year": -1000,
+      "date_label": "c.1500–1000 BCE",
+      "title": "Early / Rig Vedic phase",
+      "summary": "Northwestern geographical emphasis; pastoralism alongside cultivation; jana, chiefs and assemblies; older Rigvedic family books. Boundaries are conventional and approximate.",
+      "category": "Cultural period",
+      "chapters": [
+        "3"
+      ],
+      "is_turning_point": false
+    },
+    {
       "id": "vedas",
       "start_year": -1500,
       "date_label": "c.1500 BCE–500 BCE",
       "title": "Vedic textual composition traditions",
-      "summary": "Broad conventional textbook range; early Vedic oral traditions are often placed c.1500–600 BCE under a broader protohistoric label.",
+      "summary": "Broad conventional range for Vedic oral/textual traditions; early Rigvedic and later Vedic layers overlap regional cultural changes. Oral composition, textual layering and surviving manuscript dates are distinct.",
       "category": "Cultural period",
       "chapters": [
-        "1"
+        "1",
+        "3"
       ],
       "is_turning_point": false,
       "end_year": -500
@@ -275,6 +314,258 @@
       "end_year": -700
     },
     {
+      "id": "later-vedic",
+      "start_year": -1000,
+      "end_year": -500,
+      "date_label": "c.1000–500 BCE · conventional chapter range",
+      "title": "Later Vedic phase",
+      "summary": "Kuru–Panchala and eastward expansion; agriculture, stronger territorial kingship, elaborate sacrifice and philosophical inquiry. Some periodisations end this phase around 600 BCE.",
+      "category": "Cultural period",
+      "chapters": [
+        "3"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "dharmasutras",
+      "start_year": -600,
+      "end_year": -300,
+      "date_label": "c.600–300 BCE",
+      "title": "Dharmasutra traditions",
+      "summary": "Broad chapter composition band for normative texts on conduct and social duties; dates differ by text. Prescriptions must not be equated with universal practice.",
+      "category": "Textual tradition",
+      "chapters": [
+        "3"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "second-urbanisation",
+      "start_year": -600,
+      "date_label": "c.600–300 BCE · broad regional horizon",
+      "title": "Second urbanisation and territorial states",
+      "summary": "Ganga-basin towns, surplus agriculture, craft specialisation, trade, early coinage and larger territorial states; regional chronologies vary.",
+      "category": "Cultural period",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -300
+    },
+    {
+      "id": "upanishadic-inquiry",
+      "start_year": -600,
+      "end_year": -600,
+      "date_label": "c.600 BCE · broad teaching horizon",
+      "title": "Upanishadic inquiry in the later Vedic setting",
+      "summary": "Around this broad horizon, traditions associated with Panchala and Videha develop discussions of self, knowledge, action and liberation. This does not date every Upanishad to one year; early texts and later layers span a wider period.",
+      "category": "Textual tradition",
+      "chapters": [
+        "3"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "cyrus-reign",
+      "start_year": -559,
+      "date_label": "c.559–530 BCE · conventional reign",
+      "title": "Cyrus and the eastern Achaemenid frontier",
+      "summary": "Expansion towards northwestern South Asia belongs to the sixth-century BCE background; exact local Indian conquest claims remain uncertain.",
+      "category": "Reign",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -530
+    },
+    {
+      "id": "bimbisara",
+      "start_year": -544,
+      "date_label": "c.544–492 BCE · conventional chronology",
+      "title": "Bimbisara consolidates Magadha",
+      "summary": "Haryanka ruler; Rajagriha capital, conquest of Anga, matrimonial alliances and diplomacy. Founder status and precise regnal dates are not certain.",
+      "category": "Reign",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -492
+    },
+    {
+      "id": "darius-indus",
+      "start_year": -518,
+      "date_label": "c.518 BCE · conventional approximation",
+      "title": "Darius I extends authority in the Indus region",
+      "summary": "Persian incorporation/consolidation in parts of the northwest; Gandara and Hindush are separate imperial geographical names, not all India.",
+      "category": "Political change",
+      "chapters": [
+        "4"
+      ]
+    },
+    {
+      "id": "achaemenid-indian-contingents",
+      "start_year": -500,
+      "date_label": "Fifth century BCE · broad period",
+      "title": "Indian and Gandarian troops in Persian service",
+      "summary": "Contingents appear in accounts of Xerxes' campaigns against Greece; does not imply Persian conquest of the whole subcontinent.",
+      "category": "Military history",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -401
+    },
+    {
+      "id": "ajatashatru",
+      "start_year": -492,
+      "date_label": "c.492–460 BCE · conventional chronology",
+      "title": "Ajatashatru expands Magadha",
+      "summary": "Conflict over Kashi and defeat of Vajji; war-machine traditions and Vassakara diplomacy. Buddhist tradition places Buddha's death and First Council in his reign, but absolute chronologies differ.",
+      "category": "Reign",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -460
+    },
+    {
+      "id": "udayin",
+      "start_year": -460,
+      "date_label": "c.460–444 BCE · conventional chronology",
+      "title": "Udayin and the capital at Pataliputra",
+      "summary": "Associated with transferring the Magadhan capital to Pataliputra at strategic ancient river junctions; not Udayana of Vatsa.",
+      "category": "Reign",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -444
+    },
+    {
+      "id": "shishunaga-dynasty",
+      "start_year": -412,
+      "date_label": "c.412–345 BCE · conventional chronology",
+      "title": "Shishunaga dynasty",
+      "summary": "Shishunaga annexes Avanti and is associated with Vaishali; Kalashoka with Pataliputra and the Second Buddhist Council at Vaishali. Exact chronology varies.",
+      "category": "Dynasty",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -345
+    },
+    {
+      "id": "mahabharata-composition",
+      "start_year": -400,
+      "end_year": 400,
+      "date_label": "c.400 BCE–400 CE",
+      "title": "Mahabharata: layered composition",
+      "summary": "Broad conventional composition/redaction band, with oral formation and later layers. The epic’s story setting is not the date of its surviving textual compilation.",
+      "category": "Textual tradition",
+      "chapters": [
+        "3"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "ramayana-composition",
+      "start_year": -400,
+      "end_year": 300,
+      "date_label": "c.400 BCE–300 CE",
+      "title": "Ramayana: layered composition",
+      "summary": "Broad chapter composition band; the received text contains different layers. Traditional story chronology is distinct from historical composition dates.",
+      "category": "Textual tradition",
+      "chapters": [
+        "3"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "alexander-life",
+      "start_year": -356,
+      "date_label": "356–323 BCE",
+      "title": "Life of Alexander III of Macedon",
+      "summary": "Son of Philip II; died at Babylon in 323 BCE, not in his Punjab campaign year 326 BCE.",
+      "category": "Life",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -323
+    },
+    {
+      "id": "nanda-dynasty",
+      "start_year": -345,
+      "date_label": "c.345–321 BCE · conventional chronology",
+      "title": "Nanda expansion",
+      "summary": "Mahapadma Nanda associated with wider conquest, including Kalinga, taxation and irrigation; Dhana Nanda is the last major ruler. Origin and army-size traditions require caution.",
+      "category": "Dynasty",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -321
+    },
+    {
+      "id": "alexander-northwest-campaign",
+      "start_year": -327,
+      "date_label": "327–325 BCE",
+      "title": "Alexander campaigns in northwestern South Asia",
+      "summary": "Campaign through the northwest and Punjab, return down the Indus and land/sea withdrawal. Resistance extended beyond Porus; no Magadha conquest.",
+      "category": "Military campaign",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -325
+    },
+    {
+      "id": "hyphasis-limit",
+      "start_year": -326,
+      "date_label": "326 BCE · no exact within-year sequence implied",
+      "title": "Army refuses advance beyond the Hyphasis / Beas",
+      "summary": "Beas becomes the eastern limit; no march to the Ganga or battle against the Nandas.",
+      "category": "Military campaign",
+      "chapters": [
+        "4"
+      ]
+    },
+    {
+      "id": "hydaspes",
+      "start_year": -326,
+      "date_label": "326 BCE",
+      "title": "Battle of the Hydaspes / Jhelum",
+      "summary": "Alexander defeats Porus and restores him as a subordinate ruler; Porus was not Ambhi of Taxila.",
+      "category": "Battle",
+      "chapters": [
+        "4"
+      ]
+    },
+    {
+      "id": "alexander-death",
+      "start_year": -323,
+      "date_label": "323 BCE",
+      "title": "Alexander dies at Babylon",
+      "summary": "His death is followed by successor struggles; Seleucus was not immediately appointed ruler of all northwestern India during the Indian retreat.",
+      "category": "Political change",
+      "chapters": [
+        "4"
+      ]
+    },
+    {
+      "id": "maurya-foundation",
+      "start_year": -321,
+      "date_label": "c.321 BCE · approximate",
+      "title": "Chandragupta establishes Mauryan rule",
+      "summary": "Overthrow of the Nandas, traditionally with Kautilya's assistance; slightly different accession dates occur in scholarship.",
+      "category": "Political change",
+      "chapters": [
+        "4"
+      ]
+    },
+    {
+      "id": "ashokan-contact-context",
+      "start_year": -300,
+      "date_label": "Third century BCE · background period",
+      "title": "Ashokan inscriptions and artistic connections",
+      "summary": "Northwestern Kharoshthi inscriptions and possible Persian connections in Mauryan royal display; bell-shaped capitals belong to pillars, not rock edicts.",
+      "category": "Cultural exchange",
+      "chapters": [
+        "4"
+      ],
+      "end_year": -201
+    },
+    {
       "id": "sangam",
       "start_year": -300,
       "date_label": "c.300 BCE–300 CE",
@@ -286,6 +577,19 @@
       ],
       "is_turning_point": false,
       "end_year": 300
+    },
+    {
+      "id": "dharmashastra-smriti-development",
+      "start_year": -200,
+      "end_year": 900,
+      "date_label": "c.200 BCE–900 CE",
+      "title": "Dharmashastra / Smriti development",
+      "summary": "Broad chapter band for a diverse normative literary tradition; not the date of one single text or a universally enforced legal code.",
+      "category": "Textual tradition",
+      "chapters": [
+        "3"
+      ],
+      "is_turning_point": false
     },
     {
       "id": "periplus",
@@ -308,6 +612,19 @@
       "category": "Historical source",
       "chapters": [
         "1"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "purana-redaction",
+      "start_year": 301,
+      "end_year": 600,
+      "date_label": "c.4th–6th centuries CE · major formation, not final closure",
+      "title": "Major Puranic textual formation",
+      "summary": "The chapter places important Puranic textual formation in the fourth–sixth centuries CE. These are layered traditions with earlier material and continuing later redaction, not uniformly completed books.",
+      "category": "Textual tradition",
+      "chapters": [
+        "3"
       ],
       "is_turning_point": false
     },
@@ -345,6 +662,19 @@
       "category": "Historical source",
       "chapters": [
         "1"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "william-jones-language-affinities",
+      "start_year": 1786,
+      "end_year": 1786,
+      "date_label": "1786",
+      "title": "William Jones on language affinities",
+      "summary": "Comparative discussion of Sanskrit, Greek and Latin helped establish linguistic relationships. This contribution is distinct from proving any one specific Aryan homeland.",
+      "category": "Scholarship",
+      "chapters": [
+        "3"
       ],
       "is_turning_point": false
     },
@@ -545,6 +875,19 @@
       ],
       "is_turning_point": false,
       "end_year": 2005
+    },
+    {
+      "id": "rigveda-unesco-memory",
+      "start_year": 2007,
+      "end_year": 2007,
+      "date_label": "2007",
+      "title": "Rigveda manuscripts enter UNESCO Memory of the World",
+      "summary": "Registration of Rigveda manuscripts preserved at Bhandarkar Oriental Research Institute, Pune: documentary heritage recognition, not designation as a World Heritage Site.",
+      "category": "Heritage recognition",
+      "chapters": [
+        "3"
+      ],
+      "is_turning_point": false
     },
     {
       "id": "bhirrana-study",

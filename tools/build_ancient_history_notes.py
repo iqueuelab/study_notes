@@ -12,6 +12,7 @@ exec(compile(ast.Module(body=functions,type_ignores=[]),'notes_renderer','exec')
 template=(SUBJECT/'01. Pre-Historic India/Quick Revision Notes.html').read_text()
 css=re.search(r'<style>(.*?)</style>',template,re.S)[1]
 # Three-column tables expose their header labels when stacked on phones.
+css+='@media print{body{font-size:9.7pt;line-height:1.36}h2{margin-top:16pt}}'
 css+='@media(max-width:600px){td[data-label]:before{content:attr(data-label) ": ";font-weight:700}}'
 for chapter in sorted(SUBJECT.iterdir()):
  source=chapter/'Quick Revision Notes.md'
@@ -33,8 +34,10 @@ for chapter in sorted(SUBJECT.iterdir()):
    return '<tr>'+''.join('<td'+(' data-label="'+html.escape(re.sub('<.*?>','',headers[i]),quote=True)+'"' if i else '')+'>'+cell+'</td>' for i,cell in enumerate(cells))+'</tr>'
   return re.sub(r'<tr>.*?</tr>',row,table,flags=re.S)
  body=re.sub(r'<table>.*?</table>',labelled_table,body,flags=re.S)
- pdf='Harappan Civilisation.pdf' if chapter.name.startswith('02.') else 'The Vedic Age.pdf'
+ body=re.sub(r'<table>(<tr>.*?</tr>)(.*?)</table>',r'<table><thead>\1</thead><tbody>\2</tbody></table>',body,flags=re.S)
+ pdf={'02':'Harappan Civilisation.pdf','03':'The Vedic Age.pdf','04':'The Mahajanapadas.pdf','05':'Buddhism and Jainism.pdf'}.get(chapter.name[:2],title+'.pdf')
  controls='<div class="controls"><button onclick="window.print()">Print / Save as PDF</button><a href="Quick%20Revision%20Notes.md">Editable notes</a><a href="'+quote(pdf)+'">Download PDF</a><a href="../Chronology.html">History timeline</a></div>'
- page='<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+html.escape(title)+'</title><style>'+css+'</style></head><body><main>'+controls+body+'</main></body></html>'
+ chapter_css=css+('@media print{td,th{padding:5pt}}' if chapter.name.startswith('04.') else '')
+ page='<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+html.escape(title)+'</title><style>'+chapter_css+'</style></head><body><main>'+controls+body+'</main></body></html>'
  (chapter/'Quick Revision Notes.html').write_text(page)
  print('Rendered',chapter.name)

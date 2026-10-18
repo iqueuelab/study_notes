@@ -73,6 +73,54 @@
         "d": "Tiger"
       },
       "answer": "a"
+    },
+    {
+      "year": 2017,
+      "question": "With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which of the following statements is/are correct?\n1. Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them.\n2. Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron.\n3. Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal.\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a",
+      "chapter": "3. The Vedic Age"
+    },
+    {
+      "year": 2012,
+      "question": "The religion of early Vedic Aryans was primarily of:",
+      "options": {
+        "a": "Bhakti",
+        "b": "Image worship and Yajnas",
+        "c": "Worship of nature and Yajnas",
+        "d": "Worship of nature and Bhakti"
+      },
+      "answer": "c",
+      "chapter": "3. The Vedic Age"
+    },
+    {
+      "year": 2012,
+      "question": "The national motto of India, Satyameva Jayate, inscribed below the Emblem of India is taken from:",
+      "options": {
+        "a": "Katha Upanishad",
+        "b": "Chhandogya Upanishad",
+        "c": "Aitareya Upanishad",
+        "d": "Mundaka Upanishad"
+      },
+      "answer": "d",
+      "chapter": "3. The Vedic Age"
+    },
+    {
+      "year": 2011,
+      "question": "The ‘dharma’ and ‘rita’ depict a central idea of ancient Vedic civilization of India. In this context, consider the following statements:\n1. Dharma was a conception of obligations and of the discharge of one’s duties to oneself and to others.\n2. Rita was the fundamental moral law governing the functioning of the universe and all it contained.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c",
+      "chapter": "3. The Vedic Age"
     }
   ]
 }

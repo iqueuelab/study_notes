@@ -30,7 +30,7 @@ When creating or updating chapter notes from supplied images or documents:
 
 ## Current affairs notes and Git checkpoints
 
-- Coordinate current-affairs work in 20-calendar-day processing slots, assigning two dates to each of ten agents and running them in waves within available concurrency. Missing source dates require an explicit gap record, never invented notes. Integrate drafts in date order and preserve the seven-day Git checkpoints below within the larger processing slot.
+- Coordinate current-affairs work in 30-calendar-day processing slots, assigning three dates to each of ten agents and running them in waves within available concurrency. Missing source dates require an explicit gap record, never invented notes. Integrate drafts in date order and preserve the seven-day Git checkpoints below within the larger processing slot.
 - Review downloaded daily PDFs chronologically, including their page images. Maintain one editable Markdown file and responsive HTML page per topic; merge repeated facts and add dated developments without duplicating whole sections.
 - Keep the main index compact: collapsed subject groups, year/month/day browsing, search and subject filters. Preserve Previous/Next navigation and Print / Save as PDF. Print all relevant collapsed content by expanding it for printing and restoring the browsing state afterward.
 - Current source collection is the external-drive `Current Affairs` folder reached through the local symlink. Build with `tools/build_current_affairs_notes.py`; override `CA_SOURCE_ROOT` if the collection moves.
