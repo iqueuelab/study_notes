@@ -25,7 +25,13 @@
 - Revision linkage: defence interoperability → technology access → co-production and resilient supply chains; manage export licensing, data rules, Russia/CAATSA differences and humane migration procedures while preserving strategic autonomy.
 [February joint statement](https://www.whitehouse.gov/briefings-statements/2025/02/united-states-india-joint-leaders-statement/).
 
+## June 2025: tariffs and cooperation recall
+- US steel/aluminium **Section 232 tariffs rose from 25% to 50%, effective 4 June 2025** (with specified exceptions). This is a sectoral tariff development during BTA negotiations, not proof negotiations had produced an agreement. [US proclamation](https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/).
+- Source calendar-2024 goods figures **US$129.2bn total, $87.4bn Indian exports, $41.8bn imports** imply about **$45.6bn surplus** using rounded numbers; its $45.7bn is inconsistent at this precision. Source's **$65.19bn US FDI during 2000–24** is cumulative, not one year's flow; ranking depends on period/definition.
+- Defence recall: **GSOMIA 2002** classified-information security; **LEMOA 2016** logistics; **COMCASA 2018** secure communications; **BECA 2020** geospatial cooperation. **2005 civil-nuclear announcement** differs from later agreements/implementation.
+- **Vajra Prahar** special-forces/Army, **SALVEX** naval salvage/diving, **Cope India** air, and **Malabar** multilateral naval exercises. I2U2 = India–Israel–UAE–US; IPEF and ASEAN-centred forums offer cooperation without making India/the US ASEAN members.
+- Diaspora, research/education, trade and supply chains support ties; IP/data rules, visas, defence licensing and market access require continued management. Source's 3.5-million diaspora count depends on definition/reference date.
 
 ## PDF coverage
 
-2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8
+2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6

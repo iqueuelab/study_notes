@@ -20,6 +20,13 @@
 - **TERI Oilzapper** is a bacterial consortium; claimed 2017 Chennai deployment is source-reported, not proof of universal success. **IIT Guwahati superhydrophobic cotton/MOF composites** are **oil–water separation/sorption**, not themselves biological degradation. IIT's related 2023 silica-coated cotton work illustrates the mechanism. Cold-adapted bacteria such as **Cycloclasticus/Paraperlucidibaca** illustrate research possibilities, not a ready treatment for every spill. [IIT separation research](https://www.iitg.ac.in/iitg_press_details.php?p=68%2Fiit-guwahati-develops-an-eco-friendly-method-to-mitigate-dual-environmental-hazards-biomass-burning-and-marine-oil-spills).
 - **PYQ 2023:** define oil pollution → ecological mechanisms → India's livelihood/coastal-economy vulnerability → prevention, rapid response, liability and restoration.
 
+## 9–11 June: MV Wan Hai 503 fire
+- Separate from MSC ELSA 3: **Singapore-flagged Wan Hai 503** suffered explosions/fire on **9 June 2025**, about **88 nautical miles off Beypore, Kozhikode**; drifting vessel, hazardous cargo and floating containers created fire, navigation and marine-pollution risks.
+- June 11 PDF reports **157 hazardous-cargo containers**, including resin solution, benzophenone, alcohol-wetted nitrocellulose and printing ink. Its approximate **2,000 tonnes marine oil + 240 tonnes diesel** should not be confused with a verified quantity released; official June 11 response reports **2,128 metric tonnes of fuel** onboard.
+- **11 June:** Coast Guard winched five salvage personnel and an aircrew diver onto the burning vessel to prepare towing. Salvage, firefighting, search/rescue and pollution prevention are distinct but coordinated tasks. [Coast Guard update](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2135826&lang=2&reg=48).
+- IMDG recall: **Class 3 flammable liquids; 4.1 flammable solids; 4.2 substances liable to spontaneous combustion; 6.1 toxic substances**. Radioactive material is Class 7. Source's drift speeds are transient incident estimates, not fixed properties of the vessel.
+- MARPOL diagram dates: Annexes I/II entered into force **2 October 1983**, III **1 July 1992**, IV **27 September 2003**, V **31 December 1988**, VI **19 May 2005**; adoption of a convention differs from entry into force.
+
 ## PDF coverage
 
-2025-05-27: pp. 5, 6, 7, 8, 9, 10, 11
+2025-05-27: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-06-11: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15

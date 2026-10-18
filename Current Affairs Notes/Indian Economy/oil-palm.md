@@ -1,0 +1,15 @@
+# Oil palm and NMEO-OP
+
+## Crop and trade
+- African oil palm **Elaeis guineensis**, native to West/Central Africa, has high oil yield per hectare. Indonesia/Malaysia dominate production; India relies heavily on imports from them and Thailand.
+- **Mesocarp/fruit pulp → palm oil; kernel → palm-kernel oil**. Uses include food, cosmetics, soaps, pharmaceuticals and biodiesel; kernel oil is not exclusively non-edible.
+- Warm humid tropical conditions, ample rainfall and well-drained fertile soils favour the crop. Andhra Pradesh, Telangana and Kerala are major Indian producers; Northeast/Andaman expansion needs water, biodiversity and land-use safeguards. The source's area/shares are dated estimates rather than current totals.
+## NMEO–Oil Palm
+- **Centrally sponsored scheme launched 2021** to reduce edible-oil import dependence; 2025–26 target: **additional 6.5 lakh hectares**, reaching about **10 lakh hectares**; CPO targets **11.2 lakh tonnes in 2025–26**, **28 lakh tonnes by 2029–30** are planned outcomes.
+- **Viability Price** assures fresh-fruit-bunch remuneration, with viability-gap payments through DBT. Source support norms: planting **₹12,000→₹29,000/ha**, old-garden rejuvenation **₹250/plant**; special Northeast/Andaman support includes an additional **2% of CPO price**, terraces, fencing and associated works.
+- Trade-off: high yields/import substitution versus plantation water demand, monocultures, habitat loss and chemical inputs; use suitable already-cleared land and transparent local consultation.
+- PYQ recall: oil palm is African-origin, used in lipstick/perfume and biodiesel (**2021: statements 2,3**). Edible-oil imports exceeded domestic production in the 2018 question's reference period; blanket customs-duty exemption claim is false (**statement 1 only**). The supplied PDF omits answer-option sets for these two questions; review against the original papers before adding complete PYQs.
+
+## PDF coverage
+
+2025-06-14: pp. 16, 17, 18, 19, 20, 21

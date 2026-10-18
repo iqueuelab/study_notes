@@ -60,7 +60,13 @@
 - Diversify suppliers and contracts, assess domestic by-product recovery/recycling, strategic buffers and substitution, and deepen processing skills/technology partnerships. Listed potential supplier countries do not prove immediately available export capacity or signed deals.
 - Existing **NCMM approved January 2025** supersedes the source's “critical-minerals strategy merely proposed” wording. Do not retrospectively label a future **Quad Critical Minerals Initiative** as already launched in May; general Quad/iCET cooperation is separate.
 
+## June 2025: rare-earth applications and constraints
+- **Europium/terbium/yttrium compounds** form display phosphors; lanthanum enters optical glass and petroleum-refining catalysts; cerium enters catalytic converters/polishing and selected water-treatment materials. Lanthanum alloys occur in **nickel-metal-hydride batteries**, not every EV battery.
+- **Mischmetal** commonly contains cerium, lanthanum, neodymium and praseodymium; used in alloys/steelmaking. **Bastnaesite, xenotime and loparite** complement monazite as REE-bearing minerals.
+- Indian deposits are predominantly light rare earths; coastal monazite occurrences are geographically uneven, with inland occurrences too. IREL (India) Ltd under DAE undertakes mining/separation; downstream magnet capacity remains a constraint.
+- The June source reports instructions to prioritise domestic rare-earth needs over sales to Japan. Its **China 90–95% production** wording confuses stages: mining and separation/processing are distinct; do not memorise it as mined-output share. Its universal **2,000 tonnes toxic waste per tonne REE** lacks a defined process/system boundary and is held for review.
+- 2025 PYQ: rare-earth phosphorescent properties explain display applications (**a**). 2022 monazite: statements **1,2,4 (b)**; monazite is not distributed throughout all Indian coastal sands.
 
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6 · 2025-06-14: pp. 22, 23, 24, 25, 26, 27, 28

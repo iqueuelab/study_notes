@@ -22,7 +22,9 @@
 - B12/folate replacement and thyroid/metabolic screening depend on individual indications; gestational diabetes is distinct from anaemia. Article's proposal for injectable B12+IV iron for everyone should not become standard self-treatment advice.
 - Proposed standardised/subsidised preconception care complements antenatal services and reproductive autonomy. **SDG 3.1 global MMR<70/100,000** requires comprehensive obstetric/health-system improvements; anaemia prevention alone does not guarantee it. Supplied 250-word 15-mark question is undated practice.
 
+## Anaemia Mukt Bharat PYQ recap
+- **Iron–folic acid**, not prophylactic calcium, is the supplementation intervention. Delayed cord clamping, periodic deworming and attention to non-nutritional causes (malaria, haemoglobinopathies, fluorosis) are included. Supplied **2023 answer: only three (c)**; statements2,3,4 are correct.
 
 ## PDF coverage
 
-2025-01-10: pp. 13, 14, 15, 26, 29, 30 · 2025-05-27: pp. 12, 13, 14, 15
+2025-01-10: pp. 13, 14, 15, 26, 29, 30 · 2025-05-27: pp. 12, 13, 14, 15 · 2025-06-16: pp. 36, 37

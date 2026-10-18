@@ -13,7 +13,10 @@
 ## UN status: practice distinction
 - IAEA is an **autonomous organisation related to the UN, not a UN specialised agency**. Its verification/reporting differs from Security Council enforcement; the undated worksheet’s correct statements are 2 and 3, answer **(c)**. Nobel and reporting facts are recorded above. [IAEA/UN relationship](https://www.iaea.org/sites/default/files/nobel2005.pdf).
 
+## Institutional recall
+- IAEA Statute approved **23 October 1956** and entered into force **29 July 1957**. Its annual General Conference sets policy/budget; the **35-member Board of Governors** handles major decisions and safeguards; the Secretariat runs implementation.
+- **2020 PYQ: (b)** remains the imported/domestic uranium distinction intended by the question. Do not infer all domestically fuelled civil facilities are exempt, or that NPCIL operates every Indian research or breeder installation.
 
 ## PDF coverage
 
-2025-05-16: pp. 11, 12, 13, 14 · 2025-05-17: pp. 26, 27
+2025-05-16: pp. 11, 12, 13, 14 · 2025-05-17: pp. 26, 27 · 2025-06-17: pp. 7, 8, 9, 10

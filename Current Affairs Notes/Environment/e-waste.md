@@ -24,7 +24,12 @@
 - Unsafe acid extraction/burning exposes workers, including women/children, to toxic substances and contaminates soil/water/air. Recover gold/copper and other materials through authorised technology; encourage durable/modular products, repair/refurbishment, state-level material tracking and recovery-based incentives.
 - Integrate informal collectors through training, safe jobs and fair payment rather than abrupt livelihood exclusion; strengthen recycler verification, take-back access, public awareness and health protections.
 
+## June 2025: silver recovery using fatty acids
+- Research by Helsinki/Jyväskylä scientists explores **oleic, linoleic and linolenic acids plus aqueous hydrogen peroxide** for dissolving/recovering silver under mild conditions. This is a controlled chemical process, not simply adding cooking oil to scrap. [Original research](https://helda.helsinki.fi/server/api/core/bitstreams/6370fbb8-1b67-42dd-82d3-bb5a300fea40/content).
+- Silver's electrical conductivity supports electronics, photovoltaic contacts and vehicle components; photovoltaics' semiconductor absorbs light, while silver contacts carry current.
+- **Urban mining** recovers secondary materials from discarded products; it differs from extracting virgin urban mineral deposits. Safer solvents may reduce burdens of cyanide/strong-acid routes, but scale, selectivity, reagent recovery, cost and worker protection need assessment.
+- June source's per-device silver quantities and recovery percentage are indicative estimates with unspecified product/year coverage; they are not a universal inventory or proof that all unrecovered silver is permanently lost.
 
 ## PDF coverage
 
-2025-01-01: pp. 7, 8, 9, 10 · 2025-01-08: pp. 13 · 2025-05-13: pp. 11, 12, 13, 14, 15, 16 · 2025-06-10: pp. 12, 13, 14, 15, 16, 17
+2025-01-01: pp. 7, 8, 9, 10 · 2025-01-08: pp. 13 · 2025-05-13: pp. 11, 12, 13, 14, 15, 16 · 2025-06-10: pp. 12, 13, 14, 15, 16, 17 · 2025-06-16: pp. 11, 12, 13, 14

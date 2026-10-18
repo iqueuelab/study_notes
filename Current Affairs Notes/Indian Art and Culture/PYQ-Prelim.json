@@ -1,5 +1,18 @@
 {
   "subject": "Indian Art and Culture",
   "exam_stage": "Prelim",
-  "questions": []
+  "questions": [
+    {
+      "question": "Q. The Nagara, the Dravida and the Vesara are the\n\n(a) three main racial groups of the Indian subcontinent\n(b) three main linguistic divisions into which the languages of India can be\nclassified\n(c) three main styles of Indian temple architecture\n(d) three main musical Gharanas prevalent in India",
+      "chapter": "Sree Padmanabhaswamy Temple and Travancore heritage",
+      "year": 2012,
+      "answer": "(c)"
+    },
+    {
+      "question": "Where is the famous Virupaksha Temple located?\nA) Bhadrachalm\nB) Chidambaram\nC) Hampi\nD)Srikalahasti",
+      "chapter": "Sree Padmanabhaswamy Temple and Travancore heritage",
+      "year": 2009,
+      "answer": "(c)"
+    }
+  ]
 }

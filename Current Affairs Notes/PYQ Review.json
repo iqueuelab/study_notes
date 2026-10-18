@@ -65,6 +65,23 @@
         2007
       ],
       "reason": "Complete printed stem/options read; EU answer correct, but official wording/year match pending."
+    },
+    {
+      "year": 2021,
+      "chapter": "Oil palm",
+      "reason": "All three statements supplied, but answer-option set missing in PDF. Answer given b, 2 and 3 only."
+    },
+    {
+      "year": 2018,
+      "chapter": "Edible oils",
+      "reason": "Both statements supplied, but answer-option set missing in PDF. Answer given a, 1 only."
+    },
+    {
+      "year": 2023,
+      "exam": "UPPSC PCS",
+      "chapter": "Arabian Desert and the Green Arabia hypothesis",
+      "reason": "Question lacks the full four alternative answer sets. Do not invent them.",
+      "issue_date": "2025-06-17"
     }
   ],
   "resolved": [

@@ -11,6 +11,10 @@
 - India–US civil nuclear cooperation and designated civilian-facility safeguards differ from blanket safeguards on all Indian facilities.
 - Mains: energy security, fuel supply, safety, waste management and non-proliferation; distinguish physical fuel concepts from international legal obligations.
 
+## June 2025 revision
+- Centrifugation uses the small mass difference between uranium isotopes, rather than different chemistry. The schematic force relationship is **F = m r ω²**; high-strength rotor materials withstand large mechanical stresses.
+- 2023 PYQ: India's coal dependence is correct; the assertion that electricity generation requires **at least 60% enriched uranium is incorrect (c)**. Conventional Indian PHWRs use natural uranium, while typical LWR fuel is around 3–5% U-235.
+
 ## PDF coverage
 
-2025-03-31: pp. 8, 9, 10, 11
+2025-03-31: pp. 8, 9, 10, 11 · 2025-06-14: pp. 5, 6, 7, 8, 9

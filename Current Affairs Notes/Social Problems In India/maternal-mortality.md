@@ -13,6 +13,12 @@
 - India programmes: **JSY** institutional-delivery incentives; **PMSMA** antenatal assessment; **LaQshya** labour-room/maternity-care quality; **Poshan Abhiyaan** nutrition; skilled midwifery services.
 - Address unequal rural/tribal access, higher-burden States, anaemia/nutrition, adolescent reproductive health, antenatal/postnatal continuity, timely referral, emergency obstetric care, respectful treatment and trained personnel. Institutional delivery alone does not establish safe high-quality care.
 
+## June issue: programme and indicator distinctions
+- Source revisits UNFPA's recognition of India at **50 years of partnership**; do not treat the commemorative occasion as necessarily newly held in June 2025.
+- **SUMAN** seeks free, dignified maternal/newborn care and zero denial at public facilities; complements PMSMA antenatal services and skilled midwifery. The source's 90,000-midwives/90%-services wording describes an ambition, not a verified completed workforce.
+- Source historical indicators: institutional deliveries about **79% (NFHS-4, 2015–16) → 89% (NFHS-5, 2019–21)**; IMR **39 (2014) → 28 (2020)** per 1,000 live births. Keep reference periods distinct.
+- **MMR 97** belongs to **SRS 2018–20**, not simply calendar 2020 or a UN estimate of 70% decline ending at 97. MMR means maternal mortality **ratio**, with live births as denominator; retain the separate UN/SRS series already explained above.
+
 ## PDF coverage
 
-2025-05-09: pp. 3, 4, 5
+2025-05-09: pp. 3, 4, 5 · 2025-06-11: pp. 5, 6

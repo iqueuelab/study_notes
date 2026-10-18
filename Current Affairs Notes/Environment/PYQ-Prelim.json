@@ -279,6 +279,78 @@
         "d": "Reducing the global warming"
       },
       "answer": "d"
+    },
+    {
+      "question": "Recently, “Oilzapper” was in the news. What is it?\n\n(a) It is an eco-friendly technology for the remediation of oily sludge and oil spills.\n(b) It is the latest technology developed for undersea oil exploration.\n(c) It is a genetically engineered high biofuel-yielding maize variety.\n(d) It is the latest technology to control the accidentally caused flames from oil wells.",
+      "chapter": "Marine oil spills: Kerala response and pollution control",
+      "year": 2011,
+      "answer": "(a)"
+    },
+    {
+      "question": "Q. Consider the following:\n\n1. Carbon dioxide\n2. Oxides of Nitrogen\n3. Oxides of Sulphur\n\nWhich of the above is/are the emission/emissions from coal combustion at\nthermal power plants?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "chapter": "Coal-power pollution and rice–wheat yields",
+      "year": 2011,
+      "answer": "(d)"
+    },
+    {
+      "question": "Q. Consider the following statements:\n\n1. Coal ash contains arsenic, lead and mercury.\n2. Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the\nenvironment.\n3. High ash content is observed in Indian coal.\n\nWhich of the statements given above is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 3 only\n(d) 1, 2 and 3",
+      "chapter": "Coal-power pollution and rice–wheat yields",
+      "year": 2020,
+      "answer": "(d)"
+    },
+    {
+      "question": "Q. With reference to furnace oil, consider the following statements:\n\n1. It is a product of oil refineries.\n2. Some industries use it to generate power.\n3. Its use causes sulphur emissions into the environment.\n\nWhich of the statements given above are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "chapter": "Coal-power pollution and rice–wheat yields",
+      "year": 2021,
+      "answer": "(d)"
+    },
+    {
+      "question": "Q. In the context of which of the following do some scientists suggest the\nuse of cirrus cloud thinning technique and the injection of sulphate aerosol\ninto the stratosphere?\n\n(a) Creating the artificial rains in some regions\n(b) Reducing the frequency and intensity of tropical cyclones\n(c) Reducing the adverse eﬀects of solar wind on the Earth\n(d) Reducing the global warming",
+      "chapter": "Solar geoengineering and stratospheric aerosol injection",
+      "year": 2019,
+      "answer": "(d)"
+    },
+    {
+      "question": "\"Membrane Bioreactors\" are often discussed in the context of:\n\n(a) Assisted reproductive technologies\n(b) Drug delivery nanotechnologies\n(c) Vaccine production technologies\n(d) Wastewater treatment technologies",
+      "year": 2024,
+      "chapter": "Membrane bioreactors and wastewater treatment",
+      "answer": "(d) Wastewater treatment technologies"
+    },
+    {
+      "question": "Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?\n\n(a) Fishing cat\n(b) Orangutan\n(c) Otter\n(d) Sloth bear",
+      "year": 2023,
+      "chapter": "Animal classification and behaviour",
+      "answer": "(b) Orangutan"
+    },
+    {
+      "question": "Consider the following statements regarding the Indian squirrels:\n\n 1. They build nests by making burrows in the ground.\n 2. They store their food materials like nuts and seeds in the ground.\n 3. They are omnivorous.\n How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) All three\n(d) None",
+      "year": 2023,
+      "chapter": "Animal classification and behaviour",
+      "answer": "(b) Only two"
+    },
+    {
+      "question": "The organisms “Cicada, Froghopper and Pond skater” are:\n\n(a) Birds\n(b) Fish\n(c) Insects\n(d) Reptiles",
+      "year": 2024,
+      "chapter": "Animal classification and behaviour",
+      "answer": "(c) Insects"
+    },
+    {
+      "question": "With reference to India’s biodiversity, Ceylon frogmouth, Coppersmith barbet, Gray-chinned minivet and White-throated redstart are:\n\n(a) Birds\n(b) Primates\n\n(c) Reptiles\n(d) Amphibians",
+      "year": 2020,
+      "chapter": "Animal classification and behaviour",
+      "answer": "(a) Birds"
+    },
+    {
+      "question": "Among the following organisms, which one does not belong to the class of the other three?\n\n(a) Crab\n(b) Mite\n(c) Scorpion\n(d) Spider",
+      "year": 2014,
+      "chapter": "Animal classification and behaviour",
+      "answer": "(a) Crab"
+    },
+    {
+      "question": "Regarding the Peacock tarantula (Gooty tarantula), consider the following statements:\n\n 1. It is an omnivorous crustacean.\n 2. Its natural habitat in India is only limited to some forest areas.\n 3. In its natural habitat, it is an arboreal species.\n Which of the statements given above is/are correct?\n\n(a) 1 only\n(b) 1 and 3\n(c) 2 only\n(d) 2 and 3.",
+      "year": 2025,
+      "chapter": "Animal classification and behaviour",
+      "answer": "(d) 2 and 3"
     }
   ]
 }

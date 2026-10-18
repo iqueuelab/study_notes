@@ -12,6 +12,12 @@
 - High cost, uneven access, supply quality and long-term adherence matter. Clinical follow-up and nutrition/activity remain important; medicine does not replace prevention or equitable primary care.
 - UPSC angle: India’s combined diabetes-obesity burden, NCD expenditure, essential-medicine policy, affordability, generic competition and **SDG 3**.
 
+## June 2025: compare tirzepatide
+- **Tirzepatide activates both GIP and GLP-1 receptors**; semaglutide activates **GLP-1** receptors. Both are synthetic peptide medicines; incretin signalling links intestinal hormones to glucose regulation and satiety. [FDA tirzepatide overview](https://www.fda.gov/news-events/press-announcements/fda-approves-new-medication-chronic-weight-management).
+- Source describes injections, but semaglutide also has an **oral formulation**; brand, route, indication and approval jurisdiction must be distinguished. Access, affordability, regulated supply and continuing clinical care matter to public-health policy; drug effects are not a substitute for population-level prevention.
+- Source's broad BMI thresholds are indication-specific eligibility descriptions, not personalised treatment rules. Its undifferentiated obesity count/diabetes rank should not be learned without survey/year definitions.
+- Adjacent PYQ recall: **ACE2 → spread of viral diseases (2021, d); Bollgard I/II → GM crops (2022, b); B and T cells → protection against pathogens (2022, d)**. These are separate biotechnology/immunology concepts, not mechanisms of the two medicines.
+
 ## PDF coverage
 
-2025-04-07: pp. 9, 10, 11
+2025-04-07: pp. 9, 10, 11 · 2025-06-11: pp. 15, 16, 17, 18, 19

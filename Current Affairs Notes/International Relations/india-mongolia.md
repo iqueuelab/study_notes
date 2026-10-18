@@ -9,6 +9,11 @@
 - Coal, copper, gold, fluorspar are major resource sectors; lithium prospects do not by themselves establish Mongolia as a leading commercial lithium producer.
 - Source reports **trial coking-coal sourcing by India** to diversify steelmaking inputs beyond suppliers such as Australia. Plans/trials are not proof of major established deliveries or eliminated dependence; landlocked transport via neighbours affects cost/feasibility. Coking coal makes coke for conventional blast-furnace steelmaking, not every steel-production route.
 
+## Khaan Quest 2025: scheduled 14–28 June
+- Indian contingent arrived **Ulaanbaatar on 11 June** for the **22nd multinational peacekeeping exercise**, scheduled **14–28 June 2025**; **40 personnel**, mainly **Kumaon Regiment**, including **one woman officer and two women soldiers**.
+- Origin **US–Mongolia bilateral 2003**, multinational since **2006**. Trains multinational interoperability/readiness for UN peace support, including checkpoints, cordon/search, patrols, civilian evacuation, counter-IED and combat first aid. This is separate from **Nomadic Elephant**. [Defence Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2135593).
+- Peacekeeping training is not itself deployment authorisation. Mongolia's defence engagement supports India’s wider Asian partnerships; Mongolia is normally located in **East Asia**, despite broader Central Asian strategic linkages.
+
 ## PDF coverage
 
-2025-06-09: pp. 10, 11, 12
+2025-06-09: pp. 10, 11, 12 · 2025-06-12: pp. 21, 22

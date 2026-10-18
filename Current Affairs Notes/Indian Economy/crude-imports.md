@@ -33,7 +33,12 @@
 - **One petroleum barrel = 42 US gallons ≈158.99 litres ≈159 litres**; volume does not specify mass without density.
 - Supplied Brent question is labelled **2011**; answer **1 and 2 only**, since sulphur is present. Barrel question **2008** answer **159 litres**. Retain all statements/options when authenticated rather than using the PDF's answers as automatic official verification.
 
+## June 2025: West Asian escalation
+- Israel–Iran hostilities raised risks of oil-price spikes, disrupted **Strait of Hormuz** traffic and longer Red Sea/Suez shipping routes; distinguish direct purchases from Iran from indirect global price exposure.
+- Higher landed oil costs can widen the trade/current-account deficit, pressure the rupee, raise transport/input inflation and weaken investment/consumption. Tax cuts/subsidies can protect consumers but reduce fiscal space; none of these responses is automatic.
+- **Current account includes goods, services, primary and secondary income**; a merchandise import surplus alone is the trade deficit, not the full definition of CAD. Reserves do not necessarily fall because a CAD exists.
+- Supplier diversification, reserves, energy efficiency and producer diplomacy improve resilience; route disruption can also increase Indian exporters' freight/time costs.
 
 ## PDF coverage
 
-2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3 · 2025-05-20: pp. 20, 21, 22, 23
+2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3 · 2025-05-20: pp. 20, 21, 22, 23 · 2025-06-14: pp. 28, 29, 30, 31, 32, 33 · 2025-06-16: pp. 41, 42, 43, 44, 45, 46

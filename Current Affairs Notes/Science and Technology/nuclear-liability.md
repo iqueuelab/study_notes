@@ -21,7 +21,12 @@
 - **Westinghouse bankruptcy 2017** is historical, not proof it remained insolvent in June 2025. Source's sweeping claim US/France/UK were not expanding nuclear power obscures differing projects/policies; evaluate actual commitments rather than assume no foreign investment possible.
 - Capacity expansion requires financing/offtake certainty, domestic components and skilled workers, regulatory capability, realistic delivery, independent safety and effective victim compensation; reform can facilitate investment but cannot replace these requirements.
 
+## June 17 liability clarification
+- Under the **2010 Act as applicable in June 2025**, ₹1,500 crore is the operator limit for reactors of thermal power **10 MW or above**; smaller research reactors and fuel-cycle/transport categories have different limits. The overall statutory amount is **300 million SDR or a higher notified amount**, not a fixed ₹2,300 crore government ceiling. Section 7 addresses Central Government liability beyond the operator limit.
+- **Section 2(g) defines nuclear damage**, including death/injury, property and specified economic/environmental losses. Compensation still requires assessment and claims procedures; no-fault liability does not make payment automatic without a claim.
+- **Section 17** recourse follows payment: express written contract; supplier/employee act including defective equipment/material or substandard services; or an individual's intentional act/omission. This should not be paraphrased as an unconditional duty to sue every supplier.
+- DAE's interpretation is that **section 46 does not create additional civil nuclear-damage compensation claims against suppliers**; commercial/legal uncertainty in the debate is distinct from an established right to unlimited supplier tort recovery. [DAE FAQ](https://dae.gov.in/frequently-asked-questions-and-answers-on-civil-liability-for-nuclear-damage-act-2010-and-related-issues/), [2010 Act](https://www.indiacode.nic.in/bitstream/123456789/2084/5/A2010-38.pdf).
 
 ## PDF coverage
 
-2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19
+2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19 · 2025-06-17: pp. 1, 2, 3, 4, 5

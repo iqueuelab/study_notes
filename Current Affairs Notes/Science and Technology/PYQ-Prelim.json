@@ -300,6 +300,48 @@
         "d": "silver nitrate and potassium chloride"
       },
       "answer": "a"
+    },
+    {
+      "question": "Q- The term ‘ACE2’ is talked about in the context of\n\n(a) Genes introduced in the genetically modified plants\n(b) Development of India’s own satellite navigation system\n(c) Radio collars for wildlife tracking\n(d) Spread of viral diseases",
+      "chapter": "Semaglutide and GLP-1 receptor agonists",
+      "year": 2021,
+      "answer": "(d)"
+    },
+    {
+      "question": "Bollgard I and Bollgard II technologies are mentioned in the context of\n\n(a) clonal propagation of crop plants\n(b) developing genetically modified crop plants\n(c) production of plant growth substances\n(d) production of biofertilizers",
+      "chapter": "Semaglutide and GLP-1 receptor agonists",
+      "year": 2022,
+      "answer": "(b)"
+    },
+    {
+      "question": "Q- Which one of the following statements best describes the role of B cells and T cells\nin the human body ?\n\nA) They protect the body from environmental allergens.\n\nB) They alleviate the body’s pain and inflammation.\n\nC) They act as immunosuppressants in the body.\n\nD) They protect the body from the diseases caused by pathogens.",
+      "chapter": "Semaglutide and GLP-1 receptor agonists",
+      "year": 2022,
+      "answer": "(d)"
+    },
+    {
+      "question": "Q. Artificial way of causing rainfall to reduce air pollution makes use of\n\n(a) Silver iodide and potassium iodide\n(b) Silver nitrate and potassium iodide\n(c) Silver iodide and potassium nitrate\n(d) Silver nitrate and potassium chloride",
+      "chapter": "Cloud seeding: mechanisms and evidence limits",
+      "year": 2025,
+      "answer": "(a)"
+    },
+    {
+      "question": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements:\n\n1. RTGs are miniature fission reactors.\n2. RTGs are used for powering the onboard systems of spacecraft.\n3. RTGs can use Plutonium-238, which is a by-product of weapons developments.\n Which of the statements given above are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "year": 2024,
+      "chapter": "Radioisotope thermoelectric generators",
+      "answer": "(b) 2 and 3 only"
+    },
+    {
+      "question": "Consider the following statements:\n\nStatement-I: India, despite having uranium deposits, depends on coal for most of its electricity production.\nStatement-II: Uranium, enriched to the extent at least 60%, is required for the production of electricity.\n Which one of the following is correct in respect of the above statements?\n\n(a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I\n(b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I\n(c) Statement-I is correct but Statement-II is incorrect\n(d) Statement-I is incorrect but Statement-II is correct",
+      "year": 2023,
+      "chapter": "Centrifuge and uranium enrichment",
+      "answer": "(c) Statement-I is correct but Statement-II is incorrect"
+    },
+    {
+      "question": "Consider the following statements in the context of interventions being undertaken under Anaemia Mukt Bharat:\n\n 1. It provides prophylactic calcium supplementation for pre-school  children, adolescents and pregnant women.\n 2. It runs a campaign for delayed cord clamping at the time of childbirth.\n 3. It provides for periodic deworming to children and adolescents.\n 4. It addresses non-nutritional causes of anaemia in endemic pockets with  special focus on malaria, hemoglobinopathies and fluorosis.\n How many of the statements given above are correct?\n\na) Only one\nb) Only two\nc) Only three\nd) All four",
+      "year": 2023,
+      "chapter": "Anaemia Mukt Bharat",
+      "answer": "(c) Only three"
     }
   ]
 }

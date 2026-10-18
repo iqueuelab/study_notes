@@ -3071,32 +3071,118 @@
     {
       "date": "2025-06-11",
       "pdf": "2025/06-June/2025-06-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "84c755aa1706c0c89188b48eb7eabc239a3787174a7d0918726340418e94a261",
+      "pages": 31,
+      "topic_ids": [
+        "cloud-seeding",
+        "coal-crop-losses",
+        "marine-oil-spills",
+        "maternal-mortality",
+        "rudram",
+        "semaglutide",
+        "solar-geoengineering",
+        "unfpa"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-12",
       "pdf": "2025/06-June/2025-06-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "f3803918e6fede903f29d170d81b57472cd027d94cf79afe20f04e80c7e7d3e2",
+      "pages": 22,
+      "topic_ids": [
+        "bbnj",
+        "child-labour",
+        "heatwaves",
+        "imd-mausam",
+        "india-mongolia",
+        "india-uk-defence",
+        "india-us",
+        "operation-secure",
+        "padmanabhaswamy-temple"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-13",
       "pdf": "2025/06-June/2025-06-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d7d0b7378b9f38006568beb8c943950efbc55d9388e9b02b4fd0ee5702310d5a",
+      "pages": 16,
+      "topic_ids": [
+        "gender-gap",
+        "pokkali-giahs",
+        "urban-mobility"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-14",
       "pdf": "2025/06-June/2025-06-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "cf6f1f4d4709defe675ade578a7b2b8cd839dbb24dcecc806751648e9946f28e",
+      "pages": 34,
+      "topic_ids": [
+        "black-box",
+        "critical-minerals",
+        "crude-imports",
+        "forest-rights-act",
+        "membrane-bioreactors",
+        "nandi-hills",
+        "oil-palm",
+        "penna-river",
+        "rtg",
+        "uranium-enrichment"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-16",
       "pdf": "2025/06-June/2025-06-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "48ee9d081083473245f0541be51459785d3cc686b46770bdb7f97f66a1d82415",
+      "pages": 46,
+      "topic_ids": [
+        "anaemia",
+        "animal-classification",
+        "black-box",
+        "cash-plus-rajasthan",
+        "crude-imports",
+        "e-waste",
+        "india-cyprus-croatia",
+        "jumping-spiders",
+        "membrane-bioreactors",
+        "mtp-act",
+        "rtg",
+        "rubber",
+        "seeds-suriname",
+        "sez"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-17",
       "pdf": "2025/06-June/2025-06-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8e823005cc16267f2846a578e44528fd99408d2c3449f4c1839250b625d5d089",
+      "pages": 18,
+      "topic_ids": [
+        "global-nuclear-power",
+        "green-arabia",
+        "iaea-safeguards",
+        "levant",
+        "nuclear-liability",
+        "shipki-la"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-18",
@@ -5260,7 +5346,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-06-11",
+  "next_pdf": "2025-06-18",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -5296,6 +5382,11 @@
     {
       "date": "2025-05-07",
       "status": "No PDF in local source collection after filename/date-variant audit; not reviewed. Verify Telegram issue availability."
+    },
+    {
+      "date": "2025-06-15",
+      "status": "No standalone PDF; combined 15–16 June issue reviewed under 16 June.",
+      "reason": "No standalone dated PDF in source collection. The June16 PDF is labelled 15&16 June; its complete combined contents reviewed under June16 file, without inventing a separate source."
     }
   ]
 }
