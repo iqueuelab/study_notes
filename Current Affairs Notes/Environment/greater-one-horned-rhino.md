@@ -18,7 +18,12 @@
 - Source cites **32.64 tigers/100 km²** as a survey density; it is not the tiger count, nor a guarantee density remains constant after expansion. Existing notes retain corrected **2022 rhino census 2,613** and conservation status.
 - Expansion aims at biodiversity protection/sustainable tourism; maintain safe wildlife passage to high ground, wetland/grassland processes and community rights. Floods sustain the ecosystem while extreme inundation creates mortality and evacuation risks.
 
+## September 2025: Kaziranga invertebrate survey
+- A rapid Corbett Foundation/frontline-staff survey documented **283 species: 254 insects and 29 spiders**, including **85 butterflies/moths, 40 ants/bees/wasps and 35 beetles**. These group percentages in the source use all 283 records as denominator, not insects alone. Pollination, decomposition, soil processes, pest control and food-web support complement megafauna conservation.
+- The issue labels its release 26 September 2024, but contemporary reporting places this announcement in September 2025; retain survey findings as source-reported and flag the printed year. “First rapid survey” is not a complete inventory proving only 283 species exist in the park.
+- Repeated rhino profile, poaching concerns, distribution, IRV2020 and 2019 PYQ already appear in these notes with corrected population denominators/West Bengal counts. **2019 answer: 1 only**—Asiatic lion restricted naturally to India; one-horned rhino also Nepal; double-humped camel not India-only. Supplied page omits full options, so no reconstructed question is added.
+- Source tiger density 18.65/100 km² and global rank are unharmonised historical estimates; do not overwrite the differently dated survey already recorded. Global insect decline estimates depend on study/sample and cannot establish every insect is a keystone species.
 
 ## PDF coverage
 
-2025-04-30: pp. 16, 17, 18, 19 · 2025-06-06: pp. 7, 8 · 2025-07-12: pp. 21, 22, 23, 24 · 2025-08-09: pp. 4, 5
+2025-04-30: pp. 16, 17, 18, 19 · 2025-06-06: pp. 7, 8 · 2025-07-12: pp. 21, 22, 23, 24 · 2025-08-09: pp. 4, 5 · 2025-09-28: pp. 1, 2, 3, 4, 5

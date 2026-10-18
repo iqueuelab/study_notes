@@ -26,7 +26,13 @@
 ## PYQ revision
 - **2008: ITER site → Southern France (b)**; Cadarache/Saint-Paul-lez-Durance, not Spain, Germany or Italy. The following statement question in the PDF is undated practice; Sun's process is **fusion**, not fission.
 
+## September 2025: proposed Indian fusion roadmap
+- The embedded newspaper clipping reports an **IPR Gandhinagar research roadmap**, distinct from the repeated central-solenoid explainer: **Steady-state Superconducting Tokamak–Bharat (SST-Bharat)** envisaged as a **fusion–fission hybrid**, source **130 MW total including 100 MW from fission**, gain aspiration **5**, estimated construction **₹25,000 crore**. These are researchers' proposed design/cost figures, not a sanctioned operating plant.
+- Long-term source aspiration: a **full-scale demonstration reactor by 2060**, **250 MW**, gain **20**. Keep plasma gain, total facility input and net electricity separate; an aspirational gain ratio does not demonstrate commercial viability. **SST-1** is an existing research machine and is not an electricity generator.
+- Proposed tools: **digital twins** to test designs before construction, **machine-learning-assisted confinement** and radiation-resistant materials. Magnetic confinement guides hot plasma with fields; inertial confinement rapidly compresses fuel, commonly with powerful lasers. India's ITER participation develops expertise but does not prove a domestic power plant is ready.
+- Comparative plasma-duration records show progress, not assured net electricity. Costs, realistic timelines, tritium/materials/maintenance, sustained funding and wider Indian industry participation remain open issues; spinoffs include magnets, plasma modelling and high-temperature engineering.
+- Repeated 2008 PYQ remains **Southern France (b)**. Existing notes retain corrections to EAST temperature, scarce tritium, activated waste, central-solenoid delivery stages and ITER's Q=10 target.
 
 ## PDF coverage
 
-2025-02-18: pp. 8, 9, 10, 11, 12 · 2025-06-02: pp. 2, 3, 4, 5, 6, 7, 8, 9, 10
+2025-02-18: pp. 8, 9, 10, 11, 12 · 2025-06-02: pp. 2, 3, 4, 5, 6, 7, 8, 9, 10 · 2025-09-24: pp. 16, 17, 18, 19, 20 · 2025-09-25: pp. 14, 15, 16, 17, 18 · 2025-09-28: pp. 16, 17, 18, 19, 20

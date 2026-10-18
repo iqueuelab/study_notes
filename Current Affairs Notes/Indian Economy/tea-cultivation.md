@@ -10,6 +10,12 @@
 - Source/Akashvani March 2025 reporting places **2024 exports at 255 million kg**, about 10% above 231.69 million kg in 2023, and describes India as second-largest exporter after Kenya, surpassing Sri Lanka. Preserve this as a **dated reported ranking**, with product coverage/China comparison requiring care. [Akashvani report](https://newsonair.gov.in/india-achieves-significant-milestone-in-global-tea-industry-becomes-worlds-2nd-largest-exporter-of-tea-in-2024/).
 - Main markets include Iraq/West Asia, UAE, Iran, Russia, US and UK; exports predominantly black tea. The source's percentages/overseas-office list have no clear data date and are not fixed institutional facts.
 
+## September 2025: value rather than export volume alone
+- At the **India International Tea Convention, Kochi**, International Tea Committee Executive Director **James Suranga Perera** highlighted scope for better quality, premium branding, new markets in **South America/Africa/West Asia**, and domestic demand.
+- Clipping's **2024 global output 7.074 billion kg / consumption 6.97 billion kg; India output 1.303 billion kg / consumption 1.22 billion kg** are source-period estimates. Its **255 million kg/$800 million Indian exports versus 245 million kg/$1.4 billion Sri Lankan exports** illustrate that volume and price realisation differ; ensure matched product/year/currency definitions before comparison.
+- **840 g/person/year in India versus ~3 kg in Turkey** are source estimates; “1 kg would absorb all production” is an illustrative domestic-demand argument, not a guaranteed market forecast. Labour welfare, productivity, climate resilience, packaging/organic certification and origin branding affect competitiveness.
+- The same issue calls India both second- and third-largest exporter. Existing notes preserve the **dated reported 2024 second-place claim** with scope caveats; neither contradictory sentence establishes a fresh verified September global ranking. Source's fixed Tea Board office/member/State-share figures remain period-dependent.
+
 ## PDF coverage
 
-2025-06-19: pp. 18, 19, 20, 21
+2025-06-19: pp. 18, 19, 20, 21 · 2025-09-24: pp. 9, 10, 11, 12

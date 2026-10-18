@@ -64,6 +64,12 @@
 - **MRFA means Multi-Role Fighter Aircraft**, not 'Medium Role'; 114-aircraft competition remains prospective. GE F404 for Mk1A and F414 for Mk2 are distinct, and proposed local engine manufacture is not proof both are already license-built at scale.
 - **2024 PYQ repeated:** Rafale, MiG-29 and Tejas Mk1 are not fifth-generation—**none (d)**. Existing common bank already contains the full question; retain one copy.
 
+## 25 September 2025: 97 Mk1A contract signed
+- MoD signed with **HAL** for **97 LCA Mk1A and associated equipment**, **over ₹62,370 crore excluding taxes**: **68 fighters and 29 twin-seaters**. This advances the previously reported proposal to a signed contract; deliveries **begin FY2027–28 over six years**, not already delivered aircraft. [Defence Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2171108&lang=2&reg=48).
+- **Over 64% indigenous content**, **67 additional items** compared with the January 2021 order; indigenous **UTTAM AESA radar, Swayam Raksha Kavach and control-surface actuators**. **Buy (Indian-IDDM), DAP 2020**; nearly **105 Indian suppliers** and **11,750 direct/indirect jobs yearly over six years** are the release's estimates.
+- Delivery, engine supply, certification, spares and production capacity determine readiness and industrial benefits. Imported **F404** remains distinct from **F414 for Mk2**; Mk1A is not automatically a higher-thrust-engine replacement. Repeated **3,000-km combat range/Mach 1.8** and naval-variant claims remain corrected above.
+- **2024 fighter-generation PYQ (d), none**: Rafale, MiG-29 and Tejas Mk1 are not fifth-generation; the question is already banked. Contract signatures and future AMCA development must be separated from aircraft in service.
+
 ## PDF coverage
 
-2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26 · 2025-03-18: pp. 1, 2, 3, 4, 5, 6, 7 · 2025-03-27: pp. 6, 7, 8, 9 · 2025-03-29: pp. 38, 39 · 2025-07-16: pp. 8, 9, 10 · 2025-07-23: pp. 9, 10, 11, 12 · 2025-08-05: pp. 10, 11, 12, 13 · 2025-08-27: pp. 10, 11, 12
+2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26 · 2025-03-18: pp. 1, 2, 3, 4, 5, 6, 7 · 2025-03-27: pp. 6, 7, 8, 9 · 2025-03-29: pp. 38, 39 · 2025-07-16: pp. 8, 9, 10 · 2025-07-23: pp. 9, 10, 11, 12 · 2025-08-05: pp. 10, 11, 12, 13 · 2025-08-27: pp. 10, 11, 12 · 2025-09-26: pp. 10, 11, 12, 13, 14, 16

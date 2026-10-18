@@ -563,6 +563,18 @@
         "d": "FII is considered to be more stable than FDI."
       },
       "answer": "b"
+    },
+    {
+      "year": 2014,
+      "chapter": "Ethanol, maize and agricultural value chains",
+      "question": "Consider the following statements:\n1. Maize can be used for the production of starch.\n2. Oil extracted from maize can be a feedstock for biodiesel.\n3. Alcoholic beverages can be produced by using maize.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
     }
   ]
 }

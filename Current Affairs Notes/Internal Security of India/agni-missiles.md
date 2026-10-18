@@ -9,6 +9,12 @@
 - **2014 Agni IV PYQ: A (1 only)**: surface-to-surface, solid fuel, not 7,500 km. **2023 ballistic/cruise PYQ: D (neither)**. The source's Agni V practice answer A requires a classification caveat; its unqualified ICBM label conflicts with this test's official wording.
 - Strategic role: survivable retaliatory deterrence and the land leg of India's nuclear triad. **No First Use** policy includes the stated caveat on major chemical/biological attacks; do not reduce the doctrine to an exception-free slogan.
 
+## 24 September 2025: first rail-mobile Agni Prime launch
+- **DRDO + Strategic Forces Command** successfully launched **Agni Prime** from a specially designed **rail-based mobile launcher** under a full operational scenario on **24 September**, announced **25 September**. The PDF's Thursday/event wording must not shift the test date. Official range **up to 2,000 km**; trajectories tracked by ground stations met mission objectives. [Defence Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170979&lang=2&reg=48).
+- Self-contained launcher with communication/protection systems can move on the rail network, supporting rapid dispersed deployment, short reaction and reduced visibility. This improves flexibility/survivability; it does not make assets undetectable or establish every proposed rail system has entered service.
+- Official release distinguishes **road-mobile Agni-P already inducted** from the successful rail-launch trial enabling future induction. Canisterisation/dual solid stages complement mobility. Source range ladders, payload/CEP and Agni-VI/ship-targeting claims remain subject to the qualifications above.
+- **2014 Agni-IV (a), statement 1 only; 2023 ballistic/cruise (d), neither**—both complete questions already in common banks. Repeated graphics do not establish a new Agni-V test or new missile doctrine on this issue date.
+
 ## PDF coverage
 
-2025-08-21: pp. 1, 2, 3, 4, 5
+2025-08-21: pp. 1, 2, 3, 4, 5 · 2025-09-26: pp. 4, 5, 6, 7, 8, 9, 10

@@ -335,6 +335,18 @@
         "d": "China"
       },
       "answer": "d"
+    },
+    {
+      "year": 2016,
+      "chapter": "Kurds, Madhesis and Rohingya: regional map recall",
+      "question": "Consider the following pairs:\nCommunity sometimes mentioned in the news — In the affairs of\n1. Kurd — Bangladesh\n2. Madhesi — Nepal\n3. Rohingya — Myanmar\nWhich of the pairs given above is/are correctly matched?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "answer": "c"
     }
   ]
 }

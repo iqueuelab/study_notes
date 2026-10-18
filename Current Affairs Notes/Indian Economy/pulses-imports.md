@@ -28,6 +28,12 @@
 - Climate-resilient seeds, local extension/irrigation, storage/processing, predictable procurement/import policy and FPO seed hubs address the supply gap. Existing notes cover the six-year tur/urad/masoor mission and farmer–consumer trade-off.
 - **2020 PYQ revision:** urad can be kharif/rabi; moong is not half of pulse output; the question's claim of falling rabi production is false. Gram/chickpea/chana are the same crop. Annual State rankings require a specified crop year, not a timeless “2025 top five”.
 
+## September 2025: yellow-pea imports before the Supreme Court
+- The clipping reports the **Supreme Court sought the Centre's response to a petition seeking restrictions on yellow-pea imports**, alleging cheap imports depressed domestic pulse prices below MSP. The court considered recommendations from **CACP** and **NITI Aayog**; seeking a response is **not a court-imposed import ban**.
+- Source petitioner cites imported peas around **₹3,500/quintal** and claimed farmer losses. These are allegations/market-period examples, not a finding that every domestic pulse price or farmer return is identical. Consumer affordability, procurement, farmer planting incentives and supply security must be considered together.
+- Existing notes retain the corrected yellow-pea import window to **31 March 2026**, subject to the notification's conditions, and distinguish free import policy from zero customs duty. The repeated **December 2023–February 2025 → duties reimposed** timeline is outdated; crop-specific notifications govern. Canada's/Russia's supplier importance is not a timeless producer ranking.
+- Repeated Budget mission is **six years**, with separate four-year procurement assurances; do not replace it with a four-year mission. Source **₹1,000 crore** is its budget-period allocation claim, not total mission cost. Stable calibrated imports, effective MSP procurement, resilient seeds and storage/processing support the farmer–consumer balance.
+
 ## PDF coverage
 
-2025-06-01: pp. 6, 7, 8, 9, 10, 11 · 2025-07-10: pp. 29, 30, 31, 32 · 2025-09-08: pp. 5, 6, 7, 8, 9, 10
+2025-06-01: pp. 6, 7, 8, 9, 10, 11 · 2025-07-10: pp. 29, 30, 31, 32 · 2025-09-08: pp. 5, 6, 7, 8, 9, 10 · 2025-09-26: pp. 17, 18, 19

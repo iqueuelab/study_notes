@@ -902,7 +902,43 @@
     },
     {
       "date": "2025-09-23",
-      "note": "All 20 page images/full text reviewed. 2023 nocturnal fauna, 2019 sea pairs, 2016 Astradharini and 2025 ethanol questions already in subject banks (Astradharini already duplicated across two subjects in baseline; no new duplicate). RPSC2015 straits excluded. 2014 maize stem is complete but source options differ from standard paper reproductions: source has a=1 and 2 only,b=3 only,c=1 and 3 only,d=1,2,3; standard reproductions a=1 only,b=1 and 2 only,c=2 and 3 only,d=1,2,3. Pending original-paper verification, retained concept/answer in notes and flagged options for review, not inserted an altered CSE question. No dated mains PYQ."
+      "note": "All 20 page images/full text reviewed. 2023 nocturnal fauna, 2019 sea pairs, 2016 Astradharini and 2025 ethanol questions already in subject banks (Astradharini already duplicated across two subjects in baseline; no new duplicate). RPSC2015 straits excluded. Verified saved official 2014 Prelims GS-I question 73, physical page 32: options a=1 only, b=1 and 2 only, c=2 and 3 only, d=1, 2 and 3. Correct complete question added to Indian Economy common bank; altered source options rejected."
+    },
+    {
+      "date": "2025-09-24",
+      "note": "All 20 pages/full text and embedded images reviewed. Dated complete CSE Prelims questions 2016 INDC, 2016 PMMY, 2012 NRLM, 2022 credit rating, 2008 ITER already present in common subject banks; no duplicate copies appended. Full numbered statements/options compared, including embedded-option NRLM format. Film/ratings/fusion/PMMY/NRLM background mostly repeats; blank additions retain page coverage. PMMY source omits 2024 Tarun Plus; baseline correction retained. Bihar August 2024 claim rejected (2025 scheme), September 26 transfer described prospectively. No CSE Mains PYQ supplied."
+    },
+    {
+      "date": "2025-09-25",
+      "note": "All 18 pages/full text and embedded newspaper graphics reviewed; fusion roadmap clipping enlarged separately. CSE 2015 Schedules and 2008 ITER already banked. Printed UPPSC PCS 2024 Global South item excluded from CSE bank. Undated daily salt question (250 words/15 marks) retained as practice reasoning, not assigned an invented year. Ladakh Nagaland/Sixth Schedule, Article 240 force of law, land/official-language blanket claims remain corrected; causation allegations attributed. No source gap."
+    },
+    {
+      "date": "2025-09-26",
+      "note": "All 19 pages/full text and diagrams reviewed. Complete dated CSE Prelims 2011 Oilzapper, 2014 Agni-IV, 2023 ballistic/cruise, 2024 fighter-generation already present in banks (Agni-IV appears across subject contexts); no duplicate options/questions introduced. No Mains PYQ. Embedded court-security order, rail-launch date and signed Mk1A order distinguished from final compensation/induction/delivery. Tejas/AMCA/pulse background repetitions collapsed; previous import/variant/specification corrections retained."
+    },
+    {
+      "date": "2025-09-27",
+      "detail": "CAPF 2018 excluded (not CSE); NIF2015 added. AFSPA question verified against original 2015 GS-III question17, physicalpage5 and page2 instructions: exact official wording, 12.5marks,200words. Source250-wordlimit rejected."
+    },
+    {
+      "date": "2025-09-28",
+      "detail": "Rhino 2019 partial options: no invention; full question already in Environment bank. Dugong 2015 and ITER 2008 fully present in existing banks; no duplicate. India–Japan question undated practice."
+    },
+    {
+      "date": "2025-09-29",
+      "detail": "AstroSat 2016, Oceansat 2010, Fifth/Sixth Schedule 2015, ST 2024 and squirrel 2023 already in existing banks/earlier peer result. Source squirrel answer (a) rejected in favour of existing (b). Ethnic-pairs 2016 added; CVD daily Mains excluded as practice."
+    },
+    {
+      "date": "2025-09-30",
+      "note": "Full text and all 16 physical page images reviewed, including blank final watermark page 16 and embedded maps/clippings. 2015 Godavari, 2016 Brahmaputra, 2014 Arunachal, 2023 lakes, 2008 Tehri questions already in Geography subject bank; not duplicated. SSTC 250 words/15 marks explicitly UPSC-style practice, excluded from PYQ Mains; retain guidance in notes. No missing issue date."
+    },
+    {
+      "date": "2025-10-01",
+      "note": "Full text and all 17 physical page images reviewed, including final blank watermark page 17. 2015 dugong full three-statement question/options/answer already banked in Environment. No dated mains question. Clipping farmer suicides is ADSI-related, distinguished from Crime 2023; dated statistics and proposal status retained."
+    },
+    {
+      "date": "2025-10-02",
+      "note": "Full text and all 12 physical page images reviewed, including detailed Ramsar graphics and research/PIB clippings. 2016 Red Sanders full question/options/answer already banked. Added complete 2019/2010 Ramsar prelim questions absent from subject banks; source options numbered 1–4 mapped to a–d without duplicating options in stem. 2019 supplied answer 3 only retained, but erroneous nonbinding-treaty explanation corrected using UNESCO. No dated mains PYQ. Primary paper verifies Ophiorrhiza Data Deficient rather than speculative CR."
     }
   ],
   "resolved": [
@@ -954,6 +990,11 @@
       "resolution": "Saved official 2014 Mains GS-III: question 11 on physical page 3; page 2 instructions specify not more than 200 words, equal marks, 12.5 × 20 = 250. Source 250 words/15 marks rejected.",
       "marks": 12.5,
       "word_limit": 200
+    },
+    {
+      "year": 2014,
+      "question": "Consider the following statements:\n1. Maize can be used for the production of starch.\n2. Oil extracted from maize can be a feedstock for biodiesel.\n3. Alcoholic beverages can be produced by using maize.\nWhich of the statements given above is/are correct?",
+      "resolution": "Verified saved official 2014 Prelims GS-I question 73, physical page 32: options a=1 only, b=1 and 2 only, c=2 and 3 only, d=1, 2 and 3. Correct complete question added to Indian Economy common bank; altered source options rejected."
     }
   ],
   "practice_reviewed": [

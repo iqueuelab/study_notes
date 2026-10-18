@@ -12,6 +12,13 @@
 - Source edible-salt **97% NaCl** specification must not be mechanically applied to every salt substitute. **2.2%** refers to water-insoluble-matter provision in relevant standards; not a blanket limit on all anti-caking agents. [FSSAI additives compendium](https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Food_Additives_Regulations_26_03_2021.pdf).
 - Sodium reduction and iodine sufficiency must be considered together; replacing a food ingredient does not automatically preserve iodine delivery.
 
+## September 2025: make salt reduction part of HFSS policy
+- The editorial argues that public messaging focused on sugar/oil should also address **salt**. It reports Indian intake **8–11 g/day**, **75% from homemade food**, **28.1% adult hypertension** and **60% NCD death share**; these have different/unspecified reference populations and dates, so are source estimates rather than one new 2025 survey.
+- WHO identifies sodium reduction as a cost-effective intervention, with an estimated **at least $12 return per $1 invested**. Sodium raises blood pressure and cardiovascular risk; **less than 2 g sodium ≈ 5 g salt/day for adults** remains the distinction. Rock/pink/black salts also contain sodium and are not automatically healthier; preserve iodine sufficiency. [WHO public-health guidance](https://www.who.int/activities/reducing-population-sodium-salt-intakes).
+- Suggested package: gradual reformulation and less cooking/table salt; public awareness from early life; labelled sodium/front-of-pack warnings; standards and trained cooks for **school meals, Anganwadis and hospitals**; responsible food marketing to children; restaurant/family practices; coordinated health, education, food-processing and consumer policy with intake monitoring.
+- **Chile/Mexico warning labels, UK reformulation and Japanese education** are illustrative approaches, not proof equivalent measures already operate throughout India. Strengthening a successor to the **2017–22 multisectoral NCD plan** is a recommendation, not a newly notified programme.
+- Mains practice, **250 words/15 marks**: dietary NCD burden → sodium/BP pathway → food environment and household drivers → coordinated prevention/regulation/monitoring. This is an undated daily practice prompt, not a CSE PYQ.
+
 ## PDF coverage
 
-2025-01-31: pp. 5, 6, 7, 8, 9
+2025-01-31: pp. 5, 6, 7, 8, 9 · 2025-09-25: pp. 12, 13

@@ -8,6 +8,9 @@
 - Source highlights Chandauli sewage-treatment initiative. Sewage collection plus reliable plant operation, discharge monitoring and ecosystem-flow management matter more than capacity announcements alone.
 - Link sanitation, river ecology, municipal capacity and basin-wide coordination.
 
+## Namami Gange revision
+- Namami Gange's integrated approach combines sewerage treatment, riverfront development/surface cleaning, biodiversity, afforestation, industrial-effluent monitoring, public participation and village sanitation (Ganga Gram). These complement river-basin flow/groundwater management; treatment capacity alone does not ensure healthy flows or reliable operation.
+
 ## PDF coverage
 
-2025-01-04: pp. 6, 7, 8
+2025-01-04: pp. 6, 7, 8 · 2025-09-28: pp. 12

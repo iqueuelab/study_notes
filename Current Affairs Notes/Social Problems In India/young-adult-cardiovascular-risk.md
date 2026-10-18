@@ -11,6 +11,12 @@
 - Promote healthy food, tobacco control, walkable/cyclable spaces, workplace wellness and appropriate primary-care risk assessment with reliable treatment/referral; integrate mental-health support and cardiac rehabilitation.
 - Premature disease raises treatment costs, lost earnings and household stress, threatening human capital. Financial protection should accompany prevention and continuity of care; symptoms and personal risk require clinical assessment.
 
+## September 2025: preventive-health priorities
+- Source discussion stresses premature cardiovascular disease's loss of earnings/productive years, household care costs and pressure on services. Existing notes cover tobacco, inactivity, poor diet, stress/sleep, metabolic risk and family history; their interaction is not a fixed universal lifestyle/genetic percentage.
+- Printed “50% of heart attacks under 40”, “70% combined risk”, and “25% recognise symptoms” lack identifiable population/sample/denominator and should not be memorised as national findings. Editorial clinical observations are not surveillance estimates.
+- Strengthen primary-care risk assessment, tobacco control, healthier workplaces/food environments, hypertension/diabetes treatment, emergency referral and financial protection. NPCDCS is the historical programme name; expanded **NP-NCD** terminology should be used for contemporary noncommunicable-disease control. CT/calcium scoring requires clinical indication, not blanket population imaging.
+- The daily question on socioeconomic effects and prevention (15 marks/250 words) is coaching practice, excluded from PYQ banks.
+
 ## PDF coverage
 
-2025-04-18: pp. 24, 25, 26, 27
+2025-04-18: pp. 24, 25, 26, 27 · 2025-09-29: pp. 12, 13, 14

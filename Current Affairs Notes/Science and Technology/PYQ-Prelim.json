@@ -552,6 +552,18 @@
         "d": "1, 2 and 3"
       },
       "answer": "b"
+    },
+    {
+      "year": 2015,
+      "chapter": "Budget 2025–26: science funding, deeptech and research balance",
+      "question": "Which of the following statements is/are correct regarding the National Innovation Foundation-India (NIF)?\n1. NIF is an autonomous body of the Department of Science and Technology under the Central Government.\n2. NIF is an initiative to strengthen the highly advanced scientific research in India’s premier scientific institutions in collaboration with highly advanced foreign scientific institutions.",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
     }
   ]
 }

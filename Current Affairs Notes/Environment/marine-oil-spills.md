@@ -27,6 +27,11 @@
 - IMDG recall: **Class 3 flammable liquids; 4.1 flammable solids; 4.2 substances liable to spontaneous combustion; 6.1 toxic substances**. Radioactive material is Class 7. Source's drift speeds are transient incident estimates, not fixed properties of the vessel.
 - MARPOL diagram dates: Annexes I/II entered into force **2 October 1983**, III **1 July 1992**, IV **27 September 2003**, V **31 December 1988**, VI **19 May 2005**; adoption of a convention differs from entry into force.
 
+## September 2025: judicial security after MSC ELSA 3
+- The embedded clipping reports the **Kerala High Court reduced security for release of sister vessel MSC AKITETA II to ₹1,227.62 crore**, from **₹9,531 crore**, in litigation over the May **MSC ELSA 3** sinking. This is security in an admiralty claim, **not a final determination that all claimed ecological/economic damage equals that amount**, and does not mean the sunken ship was released.
+- The case connects polluter liability, environmental assessment, fishers' losses and effective compensation. Scientific monitoring and evidence of damage matter alongside rapid response; an order to provide security is distinct from a confirmed final payment to affected people.
+- Repeated response/cleanup sections add no new incident. Existing notes distinguish sorption from bioremediation, CLC from bunker-fuel liability and disputed convention-ratification claims. **2011 Oilzapper PYQ: (a)**—bacterial bioremediation of oily sludge/oil spills, already banked; do not infer a universal guarantee of zero residues under all conditions.
+
 ## PDF coverage
 
-2025-05-27: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-06-11: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15
+2025-05-27: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-06-11: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-09-26: pp. 1, 2, 3, 4

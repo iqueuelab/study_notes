@@ -4877,37 +4877,119 @@
     {
       "date": "2025-09-24",
       "pdf": "2025/09-September/2025-09-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7ac07606079c126f8f6827a07495dd14004298b4910d9d115aa5d05341550946",
+      "pages": 20,
+      "topic_ids": [
+        "bihar-mahila-rojgar",
+        "credit-rating",
+        "day-nrlm",
+        "defence-industry",
+        "fusion",
+        "india-ghg",
+        "national-film-awards",
+        "pmmy",
+        "tea-cultivation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-25",
       "pdf": "2025/09-September/2025-09-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "10cb6521dbcfdac9a8d97207b39b429c81aa198d935a6bb2b4f7f2279404c8a8",
+      "pages": 18,
+      "topic_ids": [
+        "fusion",
+        "global-south",
+        "ladakh-regulations",
+        "sodium-salt"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-26",
       "pdf": "2025/09-September/2025-09-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "54f448f23306a7a8e8185917b754dab47ec6bc8379085f5767e032d97c274253",
+      "pages": 19,
+      "topic_ids": [
+        "agni-missiles",
+        "amca",
+        "fighter-aircraft",
+        "marine-oil-spills",
+        "pulses-imports"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-27",
       "pdf": "2025/09-September/2025-09-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fa5fcd5d6e5a1e48725f1be0d1263b163fb804e6817ed9e4be3bef440db27d76",
+      "pages": 11,
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "topic_ids": [
+        "afspa",
+        "desert-soilification",
+        "science-budget"
+      ]
     },
     {
       "date": "2025-09-28",
       "pdf": "2025/09-September/2025-09-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "c89c948c268947b66629c725d1784cf76e932166b0323ce8968849fb4e925963",
+      "pages": 20,
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "topic_ids": [
+        "dugong-conservation",
+        "fusion",
+        "ganga-drying",
+        "ganga-mission",
+        "greater-one-horned-rhino",
+        "india-japan"
+      ]
     },
     {
       "date": "2025-09-29",
       "pdf": "2025/09-September/2025-09-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6a308d312f8eed1c4b59206be0156daf9e3d0a9bddb6cc3ea49e2d717944dbb9",
+      "pages": 16,
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "topic_ids": [
+        "animal-classification",
+        "astrosat",
+        "ethnic-groups-map",
+        "food-loss-waste",
+        "giant-panda-diplomacy",
+        "scheduled-tribes-list",
+        "space-sector",
+        "young-adult-cardiovascular-risk"
+      ]
     },
     {
       "date": "2025-09-30",
       "pdf": "2025/09-September/2025-09-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b960dce025e66f0733414095233d9d9be799139e7bfd859ad4a1d5eb90302825",
+      "pages": 16,
+      "topic_ids": [
+        "global-south",
+        "iip",
+        "india-bhutan-rail",
+        "krishna-godavari",
+        "mospi-data"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-01",
@@ -6576,7 +6658,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-09-24",
+  "next_pdf": "2025-10-01",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

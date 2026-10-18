@@ -71,6 +71,12 @@
 - **Acceptance of Necessity ≈₹1.05 lakh crore, 10 capital proposals, Buy (Indian-IDDM)**: armoured recovery vehicles, electronic warfare, tri-services common inventory management, SAMs, moored mines, mine countermeasure vessels, super-rapid gun mounts and submersible autonomous vessels.
 - Mobility, air defence, logistics and maritime safety are intended benefits. **AoN ≠ signed contract ≠ delivery**; the indigenous category requires applicable design/development/manufacture criteria. [MoD](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2141835&lang=2&reg=48).
 
+## 23 September 2025: WhAP production in Morocco
+- Rajnath Singh and Moroccan Defence Minister **Abdelatif Loudyi** inaugurated **TASL's Berrechid facility**, **20,000 m²**, for **WhAP 8×8**, jointly designed with DRDO. Official wording: first such plant by an **Indian private company in Africa** and Morocco's largest defence manufacturing facility; avoid extending that claim to every historical overseas defence activity. [Defence Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170242&lang=2&reg=48).
+- Modular variants: infantry fighting vehicle, armoured personnel carrier, reconnaissance, command post, mortar carrier and ambulance; remote weapon-station/ATGM options. Production had begun ahead of schedule, with initial Royal Moroccan Army deliveries **planned October 2025**. A factory opening is distinct from completed delivery of the full order.
+- Around **one-third components/subsystems sourced/assembled locally initially**; **50% local value addition** is a future aim. Moroccan localisation is not the same as Indian indigenous-content percentage.
+- Strategic value: co-production, African/European market access, Moroccan skills/suppliers and India–Africa cooperation. Reliable quality, delivery, spares and scale determine export credibility.
+
 ## PDF coverage
 
-2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4 · 2025-05-30: pp. 11, 12, 13 · 2025-06-07: pp. 16, 17, 18, 19 · 2025-07-04: pp. 7
+2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4 · 2025-05-30: pp. 11, 12, 13 · 2025-06-07: pp. 16, 17, 18, 19 · 2025-07-04: pp. 7 · 2025-09-24: pp. 7, 8

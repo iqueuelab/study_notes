@@ -11,6 +11,13 @@
 - The package does not establish the comprehensive land/autonomy safeguards campaigners demand. Blanket assertions that every non-domicile may buy every parcel ignore existing land categories/restrictions; assess applicable law before claiming unrestricted access.
 - Priorities: transparent recruitment/certificate delivery, funded multilingual administration, women’s participation, tribal/community consultation and ecological carrying capacity. Local job protection, land rights and constitutional autonomy are separate questions.
 
+## 24 September 2025: Leh protests turn violent
+- The clipping reports arson/vandalism, security-force injuries, police firing, deaths and restrictions during protests for **statehood, Sixth Schedule safeguards, land/jobs protection, a separate Public Service Commission and stronger parliamentary representation**. Sonam Wangchuk's hunger strike and the **Leh Apex Body/Kargil Democratic Alliance** campaign provide the context; government allegations about provocative speeches are allegations, not a judicial finding of individual responsibility. [Public broadcaster report](https://newsonair.gov.in/ladakh-restrictions-imposed-in-leh-after-violent-protests/).
+- Border sensitivities involving China/Pakistan heighten governance concerns; they do not make demands for constitutional safeguards inherently separatist. Dialogue, lawful proportionate policing, accountability and credible representation must accompany employment/ecological safeguards.
+- June domicile, reservation, language and women's-council measures are retained above. The clipping juxtaposes **84% ST share** and an **85% reservation ceiling excluding EWS**: category share and overall ceiling differ. Do not infer a new September constitutional status from administrative concessions.
+- **Sixth Schedule applies to specified areas of Assam, Meghalaya, Tripura and Mizoram—not Nagaland**. Ladakh's LAHDCs are not Sixth Schedule councils; extension remains a demand. Standard council composition is up to **30 (26 elected, four nominated)** subject to specific constitutional exceptions; blanket 30-member claims should not erase special arrangements. District/regional councils have specified land, non-reserved-forest, custom and revenue powers, subject to constitutional procedures/Governor assent—not unlimited sovereignty.
+- **2015 PYQ (a)**: Fifth/Sixth Schedules protect ST interests. Already banked under scheduled-tribes-list; no duplicate.
+
 ## PDF coverage
 
-2025-06-04: pp. 1, 2, 3, 4, 5, 6
+2025-06-04: pp. 1, 2, 3, 4, 5, 6 · 2025-09-25: pp. 1, 2, 3, 4, 5, 6

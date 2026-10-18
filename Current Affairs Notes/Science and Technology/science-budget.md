@@ -26,6 +26,12 @@
 - Source's TRL reminder: **1–3 basic principles/proof-of-concept;4–6 validation/demonstration;7–9 advanced prototype/operational maturity**. Crossing the commercialisation “valley of death” needs patient finance and testing/market capability.
 - Earlier corpus announcement and **₹20,000-crore 2025–26 allocation** remain distinct from total spending. Source private-R&D shares **India≈36%, US≈70%, China≈75%** are dated comparative estimates with different possible denominators, not identical 2025 audited shares; applied finance must complement sustained public basic research.
 
+## September 2025: R&D survey participation
+- Source reports the NSTMIS/DST national R&D survey, covering roughly 8,000 public/private bodies, launched December 2024, with the September 2025 deadline extended to November. Response rates reported: government institutions 73%, Indian industry 35%, multinational firms 9%; these are survey-response shares, not shares of national R&D expenditure.
+- Weak response and differing definitions of R&D can bias estimates of GERD, personnel, patents and private participation. Clarify definitions, simplify questionnaires and improve institutional reporting. Source's “75% public funding” and “36% private contribution” use inadequately aligned periods/denominators; do not combine as one funding breakdown.
+- The repeated ₹1-lakh-crore RDI approval, ₹20,000-crore FY2025–26 allocation, TRL/valley-of-death and governance discussion are already covered. It is not support confined to exactly TRL 4 or a universal basic-research grant.
+- **2015 NIF PYQ: statement 1 only (a)**. NIF is an autonomous DST body promoting grassroots technological innovation and outstanding traditional knowledge; it is not a programme for elite international scientific collaboration. Honey Bee Network is a related grassroots network, not simply a NIF-owned flagship.
+
 ## PDF coverage
 
-2025-02-11: pp. 15, 16, 17 · 2025-02-12: pp. 17, 18, 19, 20 · 2025-03-07: pp. 4, 5, 6 · 2025-07-02: pp. 26, 27 · 2025-07-03: pp. 20, 21
+2025-02-11: pp. 15, 16, 17 · 2025-02-12: pp. 17, 18, 19, 20 · 2025-03-07: pp. 4, 5, 6 · 2025-07-02: pp. 26, 27 · 2025-07-03: pp. 20, 21 · 2025-09-27: pp. 8, 9, 10, 11

@@ -12,6 +12,12 @@
 - Kurmis are associated with agrarian livelihoods; Kurmali is an **Indo-Aryan language** spoken particularly in Jharkhand and adjoining eastern regions. Regional Kurmi/Kudmi/Kunbi names and State-specific reservation categories must not be collapsed into one uniform all-India legal identity.
 - The source's Kshatriya descent/etymology accounts are community traditions, not established proof of ST eligibility; its sweeping gender-equity and work-ethic characterisations should not stereotype an entire community. General Article 342 procedure and Lokur/Panda debates are already covered in the 16 September notes.
 
+## Motok mobilisation in Assam
+- Source reports a torchlight rally by **Motok/Matak community** in Upper Assam seeking **ST recognition** and stronger autonomy through **Sixth Schedule inclusion**. Existing Motok Autonomous Council is a State-law body; a demand does not itself create constitutional council status.
+- Historical association with Matak polity/Swargadeo Sarbananda Singha after the Moamoria rebellion supplies identity context. Source identifies Tinsukia, Dibrugarh and Sivasagar; livelihoods vary and should not stereotype all members as tea workers.
+- Assam's six frequently cited claimant groups: **Moran, Motok, Chutia, Tai-Ahom, Koch-Rajbongshi, Tea Tribes/Adivasi communities**. Weigh inclusion evidence, existing ST safeguards, representation, land rights and consultation.
+- Existing notes already correct Article 342 process: initial Presidential specification differs from **Parliamentary legislation** adding/removing communities. Cabinet followed simply by Presidential notification is not the amendment route. Fifth Schedule exception is four named States, not all Northeast. Lokur 1965/Panda 2014 debates and **2015/2024 PYQs** repeat earlier coverage.
+
 ## PDF coverage
 
-2025-09-16: pp. 10, 11, 12, 13 · 2025-09-22: pp. 4, 5, 6, 7, 8
+2025-09-16: pp. 10, 11, 12, 13 · 2025-09-22: pp. 4, 5, 6, 7, 8 · 2025-09-29: pp. 4, 5, 6, 7, 8

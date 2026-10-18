@@ -15,6 +15,14 @@
 - Mitigation reduces emissions; **adaptation funds** reduce vulnerability, not necessarily carbon output. Forest sinks need ecological integrity and durable protection.
 - **GHG Protocol:** emissions accounting/management standards, not a UN treaty or World Bank REDD+ programme. **INDCs:** countries' intended climate-action pledges, not refugee or AIIB commitments.
 
+## September 2025: preparing the next NDC
+- Ahead of **COP30, Belém, November 2025**, the clipping discusses a possible stronger Indian energy/emissions-efficiency target. This is a **prospective NDC revision**, not proof a new target was formally submitted or adopted. Successive NDCs are communicated every five years and should progress in ambition; equity, development needs, finance and technology remain central.
+- Existing 2022 targets distinguish emissions intensity, non-fossil installed capacity and additional forest/tree carbon sinks. The source's **50% non-fossil capacity by June 2023** date is wrong: the milestone was **June 2025**, already explained in renewable-energy notes. Its **33% intensity reduction through 2019** is an earlier assessment, not a September 2025 measurement; **BUR-4 reports 36% through 2020**. [Government climate summary](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/jan/doc2025112484501.pdf).
+- Carbon-market discussion anticipates **2026** operation; do not infer completed trading from the plan. **CCTS** uses carbon-credit certificates and has compliance/offset mechanisms; its transition from PAT concerns **nine identified energy-intensive sectors**, not an unqualified 13-sector mandatory market. Scheme/sector notification and actual issuance/trading are different stages. [BEE framework](https://www.beeindia.gov.in/show_content.php?lang=1&level=1&lid=294&ls_id=189).
+- Source's **~3°C** warming is an assessment/scenario claim, not a guaranteed outcome. EU **66–72%** and Australia's **62–70%** 2035 figures are source-period discussions/announcements with different baseline years, not India's targets. Do not treat “US out” as an already effective September 2025 exit merely from a withdrawal announcement.
+- Climate-finance adequacy remains disputed, but “the $100-billion promise has never been met” is inaccurate: OECD reports **$115.9 billion in 2022**, first exceeding it **two years late**. This does not establish adequate grants, adaptation finance or fairness. [OECD assessment](https://www.oecd.org/en/publications/climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022_19150727-en/full-report/component-2.html).
+- **2016 PYQ (b)**: INDCs concern countries' climate-action plans. Existing JCM notes distinguish India's August 2025 agreement with Japan from credit issuance and explain Article 6 accounting.
+
 ## PDF coverage
 
-2025-02-19: pp. 7, 8, 9, 10, 11 · 2025-07-09: pp. 5, 6
+2025-02-19: pp. 7, 8, 9, 10, 11 · 2025-07-09: pp. 5, 6 · 2025-09-24: pp. 1, 2, 3
