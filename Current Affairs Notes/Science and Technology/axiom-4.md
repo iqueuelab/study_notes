@@ -43,6 +43,13 @@
 - Baseline mission design: **three people, three days, about 400 km LEO**, human-rated LVM3; **Crew Module** provides habitable/re-entry functions, **Service Module** propulsion/power/thermal support. Crew escape, life support, Bengaluru training, Navy recovery and uncrewed validation support safety.
 - The source's “before 2026” crewed deadline and inset 2022 date are stale; retain the already recorded August programme forecasts with their qualifications. An undated pasted space-mission question lacks an exam year and is held for review.
 
+## Gaganyaan IMAT: asymmetric parachute opening
+- ISRO's **3 November 2025 IMAT**, announced **11 November**, tested the crew-module main parachutes at **Babina Field Firing Range, Jhansi, UP**. A representative mass was dropped from **2.5 km by IAF IL-76**. This was a parachute-qualification step, not a crewed launch. [ISRO test account](https://www.isro.gov.in/IMAT_03.html).
+- In the existing **ten-parachute/four-type sequence**, **two functioning main parachutes suffice** for the designed safe-landing redundancy.
+- **Reefing** opens a parachute partially to limit opening loads; **disreefing** allows full inflation after a timed interval, using a pyro device. The test deliberately introduced delayed disreefing between two main parachutes to examine asymmetric structural loads/distribution; stable descent and soft landing supported design validation.
+- Collaboration: **VSSC/ISRO, ADRDE/DRDO, Indian Air Force and Indian Army**. Demonstrating one demanding scenario supports qualification; it does not prove every possible mission failure is eliminated.
+- Re-entry requires heat protection and deceleration before parachutes complete descent. The source's old infographic “launch 2022” and 5–7 day mission depiction are obsolete planning graphics; they must not override the issue's actual 2025 test status or established Gaganyaan programme account.
+
 ## PDF coverage
 
-2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8 · 2025-06-26: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1 · 2025-07-10: pp. 24 · 2025-07-15: pp. 9, 10, 11, 12 · 2025-08-02: pp. 3, 4, 95, 96 · 2025-08-25: pp. 7, 8, 9
+2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8 · 2025-06-26: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1 · 2025-07-10: pp. 24 · 2025-07-15: pp. 9, 10, 11, 12 · 2025-08-02: pp. 3, 4, 95, 96 · 2025-08-25: pp. 7, 8, 9 · 2025-11-12: pp. 1, 2, 3

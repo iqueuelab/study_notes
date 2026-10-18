@@ -1174,6 +1174,96 @@
       ],
       "status": "no_pyq",
       "evidence": "All text and page images reviewed; no identified year-labelled CSE PYQ."
+    },
+    {
+      "date": "2025-11-12",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "status": "no_pyq",
+      "evidence": "All text and page images including embedded infographics reviewed; no identified CSE PYQ."
+    },
+    {
+      "date": "2025-11-13",
+      "pages": [
+        16,
+        17
+      ],
+      "status": "practice_only",
+      "evidence": "Five explicitly labelled practice MCQs on competitive federalism, chromium-6, Truenat, GI registry and CRI publisher have no CSE exam year; excluded from PYQ banks. Keys retained in relevant notes."
+    },
+    {
+      "date": "2025-11-14",
+      "pages": [
+        3,
+        4
+      ],
+      "status": "duplicate",
+      "evidence": "Full 2022 monazite question/options/answer already in Indian Economy/PYQ-Prelim.json; no duplicate addition."
+    },
+    {
+      "date": "2025-11-14",
+      "pages": [
+        7,
+        8,
+        12,
+        13,
+        14,
+        17,
+        18
+      ],
+      "status": "extracted_with_year_correction",
+      "evidence": "Four complete prelim questions extracted; Seed Replacement question wrongly labelled 2017 in clipping: official 2014 GS-I Q94 (PDF page 42) and supplied full options establish 2014. 2013 tattooing/2019 hepatitis/2017 BIS have complete source stems and options. No Mains PYQs in either issue."
+    },
+    {
+      "date": "2025-11-15",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "none",
+      "evidence": "All sixteen pages reviewed; explanatory topic notes with no CSE PYQ questions."
+    },
+    {
+      "date": "2025-11-17",
+      "pages": [
+        18
+      ],
+      "status": "extracted",
+      "evidence": "Full 2022 Senkaku question, all four options and answer printed. Numeric option labels normalised to a–d; no repeated options embedded in stem."
+    },
+    {
+      "date": "2025-11-18",
+      "pages": [
+        3,
+        19
+      ],
+      "status": "duplicate",
+      "evidence": "Page 3 image supplies full 2025 Rashtriya Gokul Mission question/options; exact question already in Indian Economy/PYQ-Prelim.json, answer c. Page 19 repeats previous physical issue Senkaku 2022 question. No duplicate bank additions."
     }
   ],
   "resolved": [

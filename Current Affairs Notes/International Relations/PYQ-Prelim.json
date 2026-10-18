@@ -347,6 +347,18 @@
         "d": "3 only"
       },
       "answer": "c"
+    },
+    {
+      "year": 2022,
+      "chapter": "Senkaku Islands: East China Sea territorial dispute",
+      "question": "Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news?",
+      "options": {
+        "a": "They are artificial islands made by a country around South China Sea.",
+        "b": "China and Japan engage in maritime disputes over these islands in East China Sea.",
+        "c": "A permanent American military base has been set up there to help Taiwan to increase its defence capabilities.",
+        "d": "Though ICJ declared them as no man's land, some South-East Asian countries claim them."
+      },
+      "answer": "b"
     }
   ]
 }

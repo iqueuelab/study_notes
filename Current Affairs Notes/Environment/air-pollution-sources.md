@@ -24,6 +24,14 @@
 - Embedded size diagram: PM2.5 and PM10 denote aerodynamic diameter cut-offs of **2.5 and 10 micrometres**. Combustion produces fine particles; construction/dust add coarse particles; wildfires contribute fine particles. A source need not emit only the single particle size shown in an infographic.
 - PYQ revision: WHO's 2021 PM2.5 guideline is **5 µg/m³ annual /15 µg/m³ 24-hour**; ozone can exacerbate asthma and is associated with sunlight-driven photochemistry, not generally a peak during inclement weather.
 
+## November 2025: Delhi as an airshed governance problem
+- Editorial frames winter pollution as a **wicked problem**: interacting transport, industry, construction/road dust, waste, crop-residue and firecracker emissions cross administrative boundaries. Low winds, shallow mixing layers and inversions inhibit dispersion; the PDF's bowl-like-basin/Aravalli account is an oversimplification of Delhi's geography.
+- **AQI above 400 is severe** in India's index. School closures and emergency restrictions respond to exposure but cannot replace year-round emission reduction. PM exposure increases respiratory/cardiovascular risks; individual autoimmune, mental-health and life-expectancy claims require study-specific evidence rather than an inevitable outcome for every resident.
+- Source's **3.3 crore NCR vehicles**, construction **27% of PM2.5**, **up to ten years life-expectancy loss**, and **1.36% of GDP / US$36.8 billion** are estimates with differing scope/reference years; do not use them as one verified November 2025 inventory. Source shares vary seasonally and secondary particles complicate attribution.
+- Proposed **unified airshed plan**: common inventories/targets, pooled resources, real-time public monitoring, coordinated NCR enforcement and transparent outcomes; stable political cooperation can help but is not a guarantee of effective implementation.
+- Practical mix: buses/metro and cleaner fleets, industrial compliance, covered construction/material handling, reliable waste collection, and affordable alternatives/incentives for residue management. Anti-smog guns, towers or cloud seeding cannot substitute for controlling the emissions inventory.
+- Comparative lessons: London's **ULEZ**, Los Angeles vehicle/fuel standards and regional coordination, Beijing's sustained industrial/energy controls. Adapt the mechanisms locally; the PDF's blanket Beijing coal-ban/35%-in-five-years claim lacks a consistent area/period and is not a transferable performance guarantee.
+
 ## PDF coverage
 
-2025-04-24: pp. 3, 4, 5, 6 · 2025-07-09: pp. 6, 7, 8
+2025-04-24: pp. 3, 4, 5, 6 · 2025-07-09: pp. 6, 7, 8 · 2025-11-17: pp. 8, 9, 10, 11, 12

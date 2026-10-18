@@ -18,6 +18,14 @@
 - Open standards and adaptable platforms can reduce vendor lock-in and enable local control; they do not automatically eliminate surveillance, privacy or exclusion risks. Consent/legal safeguards, cybersecurity, accessible offline alternatives and public accountability matter.
 - Co-design with African institutions, interoperability and durable local capacity can strengthen healthcare, education, payments and governance. Avoid portraying all African countries as one market or all competing models as necessarily surveillance-heavy.
 
+## November 2025: ten years after IAFS-III
+- **India–Africa Forum Summit III, New Delhi, 2015**, brought together all **54 African countries**. Editorial calls for renewed summit-level engagement and a shift from donor–recipient/extractive relationships toward co-investment, value creation and African priorities.
+- Source decade snapshots: **17 additional Indian missions**, bilateral trade **over US$100 billion**, cumulative investment around **US$75 billion**, and **40,000 Africans trained in India**. These measures use different periods/definitions; source China–Africa trade near **US$285 billion** is a comparator, not a matched-year proof of India's performance in every sector. India's future economy rank and Africa's projected **one-quarter share of world population by 2050** are projections.
+- Partnership opportunities: ports, electricity networks, vaccine production, green hydrogen, electric mobility and co-designed health/education/governance platforms. **AfCFTA** strengthens regional integration and African bargaining power but does not instantly create uniform national regulation or infrastructure.
+- Source cites **EXIM Bank US$40 million credit to the ECOWAS Bank** as development-finance engagement. Track actual implementation, financial sustainability and local benefit; credit announcement is not proof of completed projects.
+- Existing notes cover IIT Madras Zanzibar, ITEC, ICCR, Pan-African e-Network and country-specific digital agreements. Maritime **AIKEYME 2025** involved India plus **nine African countries including co-host Tanzania**; participant details are already in the maritime topic, avoiding confusion with IOS Sagar's mixed African/Asian crew.
+- India's advocacy includes African representation in global institutions, **AU membership of G20 (2023)** and peacekeeping. Delivery delays, limited firm balance sheets, investment risk and global competition constrain outcomes. Priorities: outcome-linked credit, private investment de-risking, local capacity and two-way knowledge partnerships, backed by sustained summit leadership.
+
 ## PDF coverage
 
-2025-05-26: pp. 21, 22, 23, 24, 25
+2025-05-26: pp. 21, 22, 23, 24, 25 · 2025-11-18: pp. 7, 8, 9, 10, 11

@@ -104,6 +104,18 @@
         "(d) I, II and III"
       ],
       "answer": "(d) I, II and III"
+    },
+    {
+      "year": 2017,
+      "chapter": "BIS certification and consumer safety",
+      "question": "Consider the following statements:\n1. The Standard Mark of Bureau of Indian Standards (BIS) is mandatory for automotive tyres and tubes.\n2. AGMARK is a quality Certification Mark issued by the Food and Agriculture Organisation (FAO).\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
     }
   ]
 }

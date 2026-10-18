@@ -5571,32 +5571,95 @@
     {
       "date": "2025-11-12",
       "pdf": "2025/11-November/2025-11-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d21a0ffe22f6f0d557eb855beea027da8a2011e72be50f7c53bf7bb7989fbe15",
+      "pages": 11,
+      "topic_ids": [
+        "axiom-4",
+        "bonn-climate-talks",
+        "ecocentric-conservation",
+        "india-ghg"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-13",
       "pdf": "2025/11-November/2025-11-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "dd823aa02bdbaaee557f5d0131224f3f0a757379c721184d41f67d4bb41e9c7a",
+      "pages": 17,
+      "topic_ids": [
+        "climate-risk-index",
+        "competitive-federalism",
+        "gi-tags",
+        "kanpur-heavy-metals",
+        "tb"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-14",
       "pdf": "2025/11-November/2025-11-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d8f5e106ba37378e24fd16a9508318b986391d639aae287dd6f8aa78a027e67f",
+      "pages": 18,
+      "topic_ids": [
+        "bis",
+        "critical-minerals",
+        "hepatitis-a",
+        "seed-regulation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-15",
       "pdf": "2025/11-November/2025-11-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "c6d3d98f44d53d5ceda65cbc593a22f5c2b307dc3f182c2832370fa648e63c03",
+      "pages": 16,
+      "topic_ids": [
+        "dpdp",
+        "gi-tags",
+        "great-nicobar",
+        "india-canada"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-17",
       "pdf": "2025/11-November/2025-11-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "07f462c3cb87d8920c042a642bd9b3cf0ab794f781f0a74df1c14aa376178677",
+      "pages": 18,
+      "topic_ids": [
+        "air-pollution-sources",
+        "booker-prize",
+        "senkaku-islands",
+        "siliguri-corridor",
+        "stellar-cme"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-18",
       "pdf": "2025/11-November/2025-11-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0917ec3e9eda5879cfb4769fc9147cb743aec32690ce5e3c1260853bd5fed49b",
+      "pages": 19,
+      "topic_ids": [
+        "anti-rape-laws",
+        "dairy-nutrition",
+        "india-africa-digital",
+        "judicial-reform",
+        "senkaku-islands"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-19",
@@ -7060,7 +7123,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-11-12",
+  "next_pdf": "2025-11-19",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7177,6 +7240,11 @@
       "date": "2025-11-09",
       "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-11-09.pdf in assigned collection. Adjacent physical 2025-11-10.pdf page 1 banner reads only “10 Nov. 2025”; no combined Nov9/10 date coverage is stated. Physical Nov10 file reviewed in full; Nov9 remains an explicit source gap, with no invented notes."
+    },
+    {
+      "date": "2025-11-16",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone 2025-11-16 PDF in source inventory/jobs. Reviewed 2025-11-15 physical file has 15 Nov 2025 banner; inspected adjacent 2025-11-17 first page banner explicitly reads 17th Nov 2025, not a combined 16–17 issue. No notes invented or review credited for 16 November."
     }
   ]
 }

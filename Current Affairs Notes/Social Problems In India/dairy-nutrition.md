@@ -32,6 +32,12 @@
 - **Rashtriya Gokul Mission** supports scientific development/conservation of indigenous cattle and buffalo breeds and higher productivity; small/marginal farmers and landless households hold many low-yielding animals. **2025 PYQ: both statements (c)**; the image supplies the complete question although text extraction omits it.
 - **2015 Mains** livestock question: link non-farm employment/income to feed, veterinary care, breeding, credit, cooperatives, processing and remunerative markets. Operation Flood phases, historical MMPO and dairy constraints repeat existing notes.
 
+## November 2025: National Gopal Ratna Awards
+- **2025 awards announced 17 November**, scheduled presentation **26 November, National Milk Day**, marking Verghese Kurien's birth anniversary. Source's “2024 winners” subheading is wrong; **2,081 applications** were received. DAHD, Ministry of Fisheries, Animal Husbandry & Dairying, recognises breed conservation, productive dairy practices and producer institutions. [Official award announcement](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2190731&lang=1&reg=3).
+- Highlighted first-prize winners: **Aravind Yashavant Patil, Kolhapur, Maharashtra**—farmer rearing indigenous cattle/buffalo; **Meenangadi Ksheerolpadaka Sahakarana Sangham, Wayanad, Kerala**—dairy cooperative. Highlighted NER/Himalayan awardees: **Vijay Lata, Hamirpur, Himachal Pradesh**, and **Kulha Duud Udpadhak Sahkari Samiti, Udham Singh Nagar, Uttarakhand**.
+- Correct category distinction: **best dairy farmer; best dairy cooperative/MPC/FPO; best artificial insemination technician**. NER/Himalayan recognitions are special awards, not a replacement for the technician category. First/second/third cash awards in the first two categories: **₹5/3/2 lakh**; NER/Himalayan special award **₹2 lakh**. Technician award has certificate/memento without cash.
+- Existing Rashtriya Gokul Mission notes cover scientific indigenous-bovine development and conservation, smallholder/landless livelihoods and the complete **2025 PYQ: both statements (c)**. Retain this explanation without duplicating the question in the common bank. Do not infer that Gir is indigenous to Maharashtra merely because it is reared there, or call Kurien the original founder of the pre-existing Amul cooperative.
+
 ## PDF coverage
 
-2025-01-30: pp. 1, 2, 3, 4, 5 · 2025-06-24: pp. 15, 16, 17, 18 · 2025-08-13: pp. 5, 6, 7, 8
+2025-01-30: pp. 1, 2, 3, 4, 5 · 2025-06-24: pp. 15, 16, 17, 18 · 2025-08-13: pp. 5, 6, 7, 8 · 2025-11-18: pp. 1, 2, 3

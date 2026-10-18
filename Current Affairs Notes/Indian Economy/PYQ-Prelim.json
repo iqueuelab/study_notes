@@ -587,6 +587,18 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "c"
+    },
+    {
+      "year": 2014,
+      "chapter": "Seed regulation, quality and farmers’ rights",
+      "question": "In the context of food and nutritional security of India, enhancing the ‘Seed Replacement Rates’ of various crops helps in achieving the food production targets of the future. But what is/are the constraint/constraints in its wider/greater implementation?\n1. There is no National Seeds Policy in place.\n2. There is no participation of private sector seed companies in the supply of quality seeds of vegetables and planting materials of horticultural crops.\n3. There is a demand-supply gap regarding quality seeds in case of low value and high volume crops.\nSelect the correct answer using the code given below.",
+      "options": {
+        "a": "1 and 2",
+        "b": "3 only",
+        "c": "2 and 3",
+        "d": "None"
+      },
+      "answer": "b"
     }
   ]
 }

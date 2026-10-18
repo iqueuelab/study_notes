@@ -23,6 +23,13 @@
 - Climate-finance adequacy remains disputed, but “the $100-billion promise has never been met” is inaccurate: OECD reports **$115.9 billion in 2022**, first exceeding it **two years late**. This does not establish adequate grants, adaptation finance or fairness. [OECD assessment](https://www.oecd.org/en/publications/climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022_19150727-en/full-report/component-2.html).
 - **2016 PYQ (b)**: INDCs concern countries' climate-action plans. Existing JCM notes distinguish India's August 2025 agreement with Japan from credit issuance and explain Article 6 accounting.
 
+## 2024 emissions: separate report boundaries
+- The issue combines figures from different datasets. **UNEP Emissions Gap Report 2025** puts global **2024 GHG emissions at 57.7 Gt CO₂e, up 2.3%**, not the sheet's **2.7%**. That is a global total, not India's emissions. [UNEP November 2025 assessment](https://www.unep.org/en/news-and-stories/press-release/new-climate-pledges-only-slightly-lower-dangerous-global-warming).
+- **EDGAR 2025** reports **53.2 Gt CO₂e excluding LULUCF**, up **1.3%**; in that accounting India had the largest absolute annual increase, **164.8 Mt CO₂e**, while Indonesia had the largest percentage rise among the six largest emitters. The sheet's “India highest emissions” headline confuses **largest increment with largest total**: China and the US remained above India. [JRC EDGAR 2025](https://edgar.jrc.ec.europa.eu/report_2025).
+- Do not join the sheet's **69% fossil CO₂ /16% methane**, **~3 t Indian/~6.4 t global per capita**, **3.7% Indian/0.04% global per-capita growth** and **+1,500 Mt** into a single verified inventory. Boundaries, population series, GWP conventions and LULUCF treatment must match; these figures are source-era claims requiring their original table.
+- Energy demand, industry, transport, agriculture and land-use change explain different emission components. High national totals and lower per-capita output are compatible; low per-capita emissions do not make rising absolute emissions irrelevant.
+- Existing 2022 NDC/intensity/capacity/forest-sink commitments remain distinct from the 500 GW ambition and net-zero 2070. Non-fossil **installed capacity is not actual generation**, and intensity reductions are not absolute emission reductions. Efficiency, clean power/storage, industrial transition, transport, methane control and durable sinks all matter.
+
 ## PDF coverage
 
-2025-02-19: pp. 7, 8, 9, 10, 11 · 2025-07-09: pp. 5, 6 · 2025-09-24: pp. 1, 2, 3
+2025-02-19: pp. 7, 8, 9, 10, 11 · 2025-07-09: pp. 5, 6 · 2025-09-24: pp. 1, 2, 3 · 2025-11-12: pp. 9, 10, 11

@@ -588,6 +588,30 @@
         "(d) Genetics"
       ],
       "answer": "(d) Genetics"
+    },
+    {
+      "year": 2013,
+      "chapter": "Hepatitis A: epidemiological transition and immunisation",
+      "question": "Which of the following diseases can be transmitted from one person to another through tattooing?\n1. Chikungunya\n2. Hepatitis B\n3. HIV-AIDS\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2019,
+      "chapter": "Hepatitis A: epidemiological transition and immunisation",
+      "question": "Which one of the following statements is NOT correct?",
+      "options": {
+        "a": "Hepatitis B virus is transmitted much like HIV.",
+        "b": "Hepatitis B, unlike Hepatitis C, does not have a vaccine.",
+        "c": "Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.",
+        "d": "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years."
+      },
+      "answer": "b"
     }
   ]
 }
