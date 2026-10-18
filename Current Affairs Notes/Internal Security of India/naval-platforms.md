@@ -65,6 +65,14 @@
 - Four-ship India–Russia arrangement: **Tushil/Tamal built in Russia**, **Triput/Tavasya at GSL** with Russian collaboration. **Ukrainian Zorya-Mashproekt turbines** show the multinational supply chain; technology transfer and local construction do not mean wholly indigenous components.
 - Source's Tamal 'June2025 commissioning' is stale: its embedded June23 headline says **scheduled1July2025**. At this issue date it was a planned commissioning, not already completed; the common February note contains the subsequently verified July1 completion.
 
+## Udaygiri delivery and Tamal commissioning
+- **Udaygiri delivered 1 July 2025**, second Project 17 A ship, MDL Mumbai, **37 months after launch**. Delivery is not commissioning; at this issue date it should not be described as a commissioned INS. Previous Udaygiri served 31 years before decommissioning **24 August 2007**.
+- **P 17 A=seven Nilgiri-class frigates** designed by Navy's Warship Design Bureau, successor to Shivalik/P 17; **MDL four/GRSE three**. Modular construction and pre-outfitting improve production; around 75% indigenous content does not imply every subsystem is domestic.
+- Names: **Nilgiri, Udaygiri, Taragiri, Dunagiri, Himgiri, Vindhyagiri, Mahendragiri**. Armament includes supersonic SSMs, MRSAM,76-mm gun,30-mm/12.7-mm close-range systems; sensor/sonar integration supports air/surface/subsurface roles and blue-water operations.
+- Tamal's **1 July commissioning in Kaliningrad** is already recorded; add that it is **eighth Project 1135.6 ship/second Tushil follow-on**, equipped for air/surface/subsurface/electronic warfare, with BrahMos. Earlier ships: **Talwar/Trishul 2003, Tabar 2004, Teg/Tarkash 2012, Trikand 2013, Tushil 2024**; source's “Tushil upcoming” is stale.
+- “Last foreign-built major warship” describes this procurement transition, not a legally permanent end to all imports or proof complete technological independence. Different batches' missiles/crew/speed need variant qualification; do not apply every Tamal specification to every earlier Talwar ship.
+- Project 1135.6 practice MCQ concerns **stealth frigate construction**, not a supplied PYQ.
+
 ## PDF coverage
 
-2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5 · 2025-04-28: pp. 1, 2, 3, 4 · 2025-06-23: pp. 25, 26, 27, 28
+2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5 · 2025-04-28: pp. 1, 2, 3, 4 · 2025-06-23: pp. 25, 26, 27, 28 · 2025-07-02: pp. 13, 14, 15, 16, 17, 18, 19

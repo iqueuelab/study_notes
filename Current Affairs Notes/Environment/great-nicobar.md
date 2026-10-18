@@ -19,6 +19,13 @@
 - **Alternatives → cumulative EIA → rights/community consultation → security-sensitive disclosure rules → enforceable safeguards → independent monitoring**.
 - Balance strategic value with irreversible habitat loss, tribal welfare and disaster vulnerability; scrutinise both costs and claimed mitigation effectiveness.
 
+## July2025 seismic-risk debate
+- Embedded reporting contrasts the project's EIA treatment of a2004-scale earthquake with an **IITKanpur assessment stressing uncertainty in predicting extreme seismic events**. Low estimated recurrence/probability is not zero risk; cumulative earthquake,tsunami,coastal-subsidence and evacuation/resilience analysis matters for port,airport,township and power infrastructure.
+- Source quotes **~15ft2004subsidence**, a locality-dependent estimate, not uniform sinking of the entire island. Safety concerns do not themselves constitute a final engineering verdict that no infrastructure can be built.
+- **Campbell Bay and Galathea national parks**, GreatNicobarBiosphereReserve; **TenDegreeChannel separates the Andaman and Nicobar groups**, not a narrow channel immediately north of GreatNicobar alone. **IndiraPoint** is India's southernmost land point.
+- Source project footprint **16,610ha**, tribal reserve **751km²/84km²proposeddenotification**, and power unit **450MVA** are source descriptions requiring document-specific scope; MVA(apparent power) is not interchangeable with MW(real power). Shompen PVTG resource access and Nicobarese2004relocation experience require meaningful consultation/rights assessment.
+- November2022TribalCouncil withdrawal ofNOC and April2023NGThigh-powered review are reported legal/administrative history; a committee review is not unconditional validation of all claims. Do not infer commercial-port Navy control solely from strategic rationale; official operating arrangements require separate evidence.
+
 ## PDF coverage
 
-2025-01-06: pp. 4, 5, 6, 7, 8, 9 · 2025-05-04: pp. 10, 11, 12, 13, 14, 15, 16
+2025-01-06: pp. 4, 5, 6, 7, 8, 9 · 2025-05-04: pp. 10, 11, 12, 13, 14, 15, 16 · 2025-07-07: pp. 23, 24

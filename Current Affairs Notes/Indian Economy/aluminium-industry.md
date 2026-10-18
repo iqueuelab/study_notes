@@ -21,7 +21,11 @@
 - **2008 answer (d): all four—bauxite, dolomite, iron ore, tin—occur naturally.** **Bailadila, Dantewada** is the key iron-ore recall; **Bastar** has tin occurrences. Do not infer Chhattisgarh is the only place with any natural tin occurrence from its tin-concentrate production role.
 - Source's claim that dolomite is mainly in Bastar/Dantewada is an inadequately supported district ranking; natural occurrence, mine output and reserve dominance are separate tests.
 
+## Aluminium Vision Document: 4 July2025
+- Mines Minister **G.Kishan Reddy**, Hyderabad conference on sustainable/responsible mining and mine closure: roadmap to **sixfold aluminium output by2047**, **150million tonnes/year bauxite production capacity**, **double national recycling rate**, low-carbon technology and stronger raw-material security.
+- These are targets, not delivered capacity. Stakeholders included **NALCO, Hindalco, Vedanta, JNARDDC**, producer/recycling associations. Supports clean-energy systems, electric mobility, infrastructure, jobs and resource security; mining/smelting impacts and electricity emissions still need safeguards. [Mines Ministry release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2142184&lang=2&reg=48).
+- Source's second-largest producer/~6% global-output description is a period-specific snapshot; bauxite capacity, primary metal output and recycling rate measure different stages.
 
 ## PDF coverage
 
-2025-05-14: pp. 15, 16, 17, 18 · 2025-06-01: pp. 16, 17, 18, 19 · 2025-06-06: pp. 8, 9, 10, 11
+2025-05-14: pp. 15, 16, 17, 18 · 2025-06-01: pp. 16, 17, 18, 19 · 2025-06-06: pp. 8, 9, 10, 11 · 2025-07-05: pp. 7, 8

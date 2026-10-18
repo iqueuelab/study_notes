@@ -20,7 +20,12 @@
 - Source GERD~0.65%GDP and private 30–36%share are dated estimates. ANRF's ₹50, 000 crore ambition, including non-government contributions, is a different funding envelope.
 - Commercialisation, industry–academic collaboration, patient capital, transparent selection and measurable additional research matter; applied research support need not replace basic science.
 
+## RDI scheme approved 1 July 2025
+- **₹1-lakh-crore Research Development and Innovation Scheme** approved for private RDI in strategic/sunrise sectors; long-tenor **low/nil-interest finance/refinance**, growth/risk capital, critical technology acquisition and Deep-Tech Fund of Funds. This is not simply a universal grant for basic science or support restricted to exactly TRL 4.
+- **ANRF Governing Board**, chaired by PM, sets strategic direction; Executive Council approves guidelines; Cabinet-Secretary-led empowered group oversees scheme changes/sectors/fund managers; **DST is nodal department**. Two-tier fund structure uses an ANRF special-purpose fund and second-level fund managers. [Approval](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2141130&lang=2&reg=3).
+- Source's TRL reminder: **1–3 basic principles/proof-of-concept;4–6 validation/demonstration;7–9 advanced prototype/operational maturity**. Crossing the commercialisation “valley of death” needs patient finance and testing/market capability.
+- Earlier corpus announcement and **₹20,000-crore 2025–26 allocation** remain distinct from total spending. Source private-R&D shares **India≈36%, US≈70%, China≈75%** are dated comparative estimates with different possible denominators, not identical 2025 audited shares; applied finance must complement sustained public basic research.
 
 ## PDF coverage
 
-2025-02-11: pp. 15, 16, 17 · 2025-02-12: pp. 17, 18, 19, 20 · 2025-03-07: pp. 4, 5, 6
+2025-02-11: pp. 15, 16, 17 · 2025-02-12: pp. 17, 18, 19, 20 · 2025-03-07: pp. 4, 5, 6 · 2025-07-02: pp. 26, 27 · 2025-07-03: pp. 20, 21

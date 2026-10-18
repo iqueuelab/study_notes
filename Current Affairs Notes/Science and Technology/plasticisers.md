@@ -18,7 +18,14 @@
 ## Practice-test correction
 - EstS1 is linked to **plasticiser degradation**, not methane absorption. The 19 January printed answer points to the wrong listed application.
 
+## Endocrine disruption and plastic-related exposure
+- **EDCs can mimic/block hormones or alter their production/signalling**. BPA in polycarbonate/epoxy uses, phthalates (DEHP/DBP) in flexible plastics/personal-care products, and selected PFAS in water/oil-resistant products illustrate chemicals with different uses/risks; not every plastic or PFAS has identical effects.
+- Research associations include reproductive/developmental, thyroid/metabolic, immune and some cancer risks; low-dose/chronic exposure and sensitive developmental windows matter. **Chemical additives ≠ microplastic particles (<5 mm)**. Detection in blood, placenta, semen, lungs or other samples does not itself prove a particular disease. [NIH fact sheet](https://www.niehs.nih.gov/health/materials/endocrine_disruptors_508.pdf).
+- Source **80% Dutch blood samples/89% Indian blood samples** are study-specific, not population prevalence; testicular-tissue findings must not be silently assigned to every Indian study. **“3× breast-cancer risk”, “30% sperm decline over 20 years”, ₹25,000-crore annual cost** lack adequate references/denominators here; do not memorise them as causally established national estimates.
+- **9.3 million tonnes/year** concerns modelled plastic pollution emissions, not all plastic waste generated; retain the metric distinction.
+- **Plastic Waste Management Rules 2016**, later amendments, segregation, EPR and specified single-use controls address waste. Chemical-exposure control also needs biomonitoring, longitudinal research, safer chemical design, worker protection and enforcement. Avoid blanket claims that no laws protect children/pregnant women or that biodegradable means non-toxic.
+- Awareness options: follow food-contact container/heating instructions, use suitable materials, protect waste workers and validate filtration. “BPA-free” does not certify every chemical risk; an antioxidant diet is not a proven antidote. **BPA 2021 PYQ: polycarbonate**, already banked.
 
 ## PDF coverage
 
-2025-01-15: pp. 1, 2, 3 · 2025-01-19: pp. 5, 26
+2025-01-15: pp. 1, 2, 3 · 2025-01-19: pp. 5, 26 · 2025-07-04: pp. 11, 12, 13, 14, 15, 16

@@ -9,6 +9,11 @@
 - Other reported regions: **Ukraine, Italy, Romania, Iran, Pakistan, Indonesia, China; Alaska, California, Trinidad, Venezuela, Colombia**.
 - Source **~1,000 on land/shallow water** is an inventory estimate, not exhaustive global/submarine total. **Mud eruption ≠ lava eruption**; isolated small cones do not establish every system is small.
 
+## Wandan,Taiwan
+- Combined July6–7 issue reports **Wandan mud-volcano eruption** releasing bubbling sediment/water and combustible gas, principally methane; images of gas ignition illustrate a fire/exposure hazard, not a recommended response.
+- Driven by sedimentary fluid/gas pressure through weak crustal pathways; no mantle magma is required. Both land and submarine systems occur; marine eruptions can form mud banks/temporary islands.
+- Global examples and the source's approximate1,000 inventory repeat the common notes. Avoid assuming all mud volcanoes are tiny, hot-water features or harmless simply because they differ from magmatic volcanoes.
+
 ## PDF coverage
 
-2025-01-23: pp. 19, 20, 25, 28 · 2025-01-24: pp. 15, 16
+2025-01-23: pp. 19, 20, 25, 28 · 2025-01-24: pp. 15, 16 · 2025-07-07: pp. 5, 6, 7

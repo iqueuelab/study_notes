@@ -10,6 +10,10 @@
 - February forecast of contract in **four–five months /production 18 months after signing** is a conditional timetable, not delivered/operational status.
 - Reliability across terrain/weather, multi-target engagement, interoperability, maintenance, crew training and secure indigenous supply determine practical capability.
 
+## July procurement context
+- Embedded headline reports **DAC 3 July 2025 Acceptance of Necessity for 10 proposals ≈₹1.05 lakh crore**, including surface-to-air missiles. It is an approval stage, not proof QRSAM's production contract was signed or missiles delivered. Source forecast “production 18 months after contract” remains conditional.
+- Existing notes cover canisterisation, mobile Army role, radar/guidance and reported envelopes, and correct “final trials December 2021” with **six Army evaluation tests September 2022**. Diagram's “jam resistant/all-weather” are design aims, not immunity to all electronic/weather conditions.
+
 ## PDF coverage
 
-2025-02-22: pp. 5, 6
+2025-02-22: pp. 5, 6 · 2025-07-04: pp. 7, 8, 9, 10

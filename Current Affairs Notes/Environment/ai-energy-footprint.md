@@ -11,6 +11,9 @@
 - Cost, financing, licensing, emergency planning, fuel supply, spent fuel/waste, water/cooling and public acceptance constrain deployment. The source's **₹10.3 → ₹5/kWh** is a projection lacking clear design/date assumptions, not an achieved tariff.
 - Combine reliable clean power, renewables/storage/grid investment and efficiency; public–private research is proposed, not evidence SMRs already power Indian AI facilities or that existing capacity guarantees all future demand.
 
+## July policy connection
+- Source links AI expansion in **Bengaluru/Hyderabad** with local water and power stress; incorporate cooling-water demand, location/grid constraints and environmental disclosure into AI planning. Avoid interpreting every data centre's total demand as AI-only consumption or claiming no Indian environmental-policy discussion exists.
+
 ## PDF coverage
 
-2025-05-06: pp. 11, 12, 13, 14
+2025-05-06: pp. 11, 12, 13, 14 · 2025-07-03: pp. 6

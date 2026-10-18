@@ -1,0 +1,13 @@
+# Custodial violence, data and police accountability
+
+## Ajith Kumar case and accountability
+- **June 2025:** security guard Ajith Kumar died in police custody in Sivaganga, Tamil Nadu; Madurai Bench's response renewed scrutiny of police violence. **Sathankulam 2020** and **Ambasamudram 2023** are earlier cases, not current incidents.
+- Custodial death includes **police custody and judicial custody**; a death in custody is not automatically established murder/torture. Independent investigation and medical evidence determine cause/liability.
+- Source **2016–17 to 2021–22:** **11,656 reported custodial deaths nationally;UP 2,630;Tamil Nadu 490**; combines custody categories and is not all deaths caused by police assault. Embedded map also lists Maharashtra 755, West Bengal 955.
+- Separate **2017–2022 police-custody death cases:** **123 police arrested,79 chargesheeted, zero convicted** in the source dataset. Broader police human-rights chart gives **75 arrested,41 chargesheeted,3 convicted**; the issue's prose says 74 cases whereas chart shows 78—do not merge these into one consistent national total.
+- **Preventive detenues,31 December 2022:** TN 2,129, SC share 38.5% versus 20.01% population. Chart comparators: J&K 546(1.3%SC/7.38%population), Gujarat 334(9.6%/6.74%), Haryana 326(1.3%/20.17%), UP 172(7.6%/20.7%). These are detention-composition snapshots, not direct measures of the caste share of torture victims or causal proof about every arrest.
+- Detenue≠convict; preventive detention differs from pretrial remand. Protect Articles 21/22 safeguards, prompt independent inquiry, legal aid, medical documentation, court/NHRC oversight, witness protection and police accountability; conviction counts lag incidents and need case-year/outcome interpretation.
+
+## PDF coverage
+
+2025-07-03: pp. 3, 4, 5

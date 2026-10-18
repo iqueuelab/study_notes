@@ -36,7 +36,11 @@
 - Space links: **CNES–ISRO; TRISHNA** planned thermal-infrared Earth observation; existing radar/observation cooperation differs from proving every proposed satellite has launched. **Migration and Mobility Partnership/young-professional exchanges** support skills/people links subject to implementation rules. [MEA bilateral brief](https://www.mea.gov.in/Portal/ForeignRelation/India-France_Bilateral_Brief_for_MEA_Website.pdf).
 - EU trade negotiations operate at **India–EU** level; no standalone India–France FTA should be assumed. Technology transfer/IP, trade barriers and occasional geopolitical divergence require issue-based cooperation; an infographic's “differences over BRI” is not a verified account of French endorsement of all Chinese projects.
 
+## Shakti 2025 concludes
+- **8 th Army exercise,18 June–1 July 2025, France**, with **90 Indian personnel**, principally Jammu and Kashmir Rifles; involved French Army/Foreign Legion, air and space force elements and drones according to the clipping.
+- Alternating-host exercise aims at multi-domain operations in sub-conventional scenarios, counter-terror/urban operations, interoperability, shared tactics and professional trust. Called biennial, but 2024 and 2025 editions occurred in consecutive years; frequency label is not proof every edition was exactly two years apart. [French Army account](https://www.defense.gouv.fr/terre/actualites/cooperation-franco-indienne-travers-shakti-2025).
+- Sub-conventional operations remain below full conventional war and can involve terrorism, insurgency or proxy conflict; hybrid warfare includes broader combinations and is not simply a synonym.
 
 ## PDF coverage
 
-2025-01-06: pp. 16, 17, 18, 19, 20 · 2025-02-14: pp. 9, 10, 11 · 2025-03-16: pp. 8, 9, 10, 16, 17 · 2025-04-10: pp. 1, 2, 3 · 2025-04-26: pp. 1, 2, 3 · 2025-06-09: pp. 1, 2
+2025-01-06: pp. 16, 17, 18, 19, 20 · 2025-02-14: pp. 9, 10, 11 · 2025-03-16: pp. 8, 9, 10, 16, 17 · 2025-04-10: pp. 1, 2, 3 · 2025-04-26: pp. 1, 2, 3 · 2025-06-09: pp. 1, 2 · 2025-07-02: pp. 8, 9

@@ -31,7 +31,13 @@
 - Jal Shakti Abhiyan/Catch the Rain, Atal Bhujal Yojana groundwater management and Namami Gange water-quality work have different scopes; do not equate recharge, storage and pollution reduction.
 - Monitor water balance and quality, maintain recharge structures, consult communities and adapt crops/industrial demand; capture alone cannot offset unlimited extraction.
 
+## Upper Arkavathy hard-rock case
+- Karnataka's Upper Arkavathy watershed near Bengaluru illustrates **granite hard-rock aquifers** with storage/flow in weathered zones and fractures. Low primary porosity makes recharge/storage heterogeneous; basaltic aquifers elsewhere in the Deccan cannot be assumed identical.
+- Study/source figures: mean borewell depth **183 m(2001–11)→321 m(2011–21)**; about 70% of drinking-water borewells failed within a decade. **79 abandoned wells, only 2 attributed to water quality** in the surveyed dataset—exhaustion dominates this local sample, not necessarily all India.
+- Source discusses borewell-induced changes in preferential subsurface flow and reduced shallow/tank recharge, including dry tanks at **Aralumallige** despite high-rainfall years. This is a case-study mechanism; drilling does not invariably fracture all bedrock or force every raindrop deep underground.
+- **₹4–5 lakh/well**, pumping costs, failed agricultural investment and migration risks burden households. Subsidised agricultural electricity is distinct from panchayats' electricity bills for drinking-water pumping; “free power” does not mean zero fiscal cost.
+- **Sujala watershed work/Jal Jeevan Mission supply infrastructure** must be paired with demand management, suitable crops, village water balances, aquifer-specific recharge, tank restoration, monitoring and viable panchayat finance. Nitrate/fluoride are concurrent quality concerns; recharge cannot offset unlimited pumping.
 
 ## PDF coverage
 
-2025-01-05: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-01-19: pp. 3, 20, 21 · 2025-03-31: pp. 1, 2, 3
+2025-01-05: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-01-19: pp. 3, 20, 21 · 2025-03-31: pp. 1, 2, 3 · 2025-07-02: pp. 19, 20, 21

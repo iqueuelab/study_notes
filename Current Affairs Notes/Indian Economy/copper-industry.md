@@ -1,0 +1,14 @@
+# Copper: supply chains and Vision Document
+
+## Properties, uses and geography
+- Copper conducts heat/electricity well, is malleable/ductile and corrosion-resistant. Wires, motors, electronics, transmission, EVs, buildings/pipes, defence/aerospace and selected antimicrobial surfaces drive demand. Copper sulphides such as **chalcopyrite** differ from oxide ores; ore, concentrate and refined metal are different products.
+- **Khetri—Rajasthan; Singhbhum—Jharkhand; Malanjkhand/Balaghat—Madhya Pradesh**. Source lists smaller occurrences in Sikkim, Karnataka, Manipur and West Bengal; occurrences do not prove economic reserves/mines. Chile, DR Congo and Peru are major mined-copper producers in the source's2024 comparison, not necessarily the same ranking for smelting/refining.
+- Source's **~164million tonnes** is **copper ore reserves**, not contained copper metal. The older **1April2020** inventory was about **1.66billion tonnes total ore resources**, of which **163.89million tonnes reserves**. State resource shares and reserve shares must not be mixed; the PDF's52/23/15 state table lacks a reliable matching category/year. [Mines Ministry inventory](https://xn--i1b3b2bo4aigq6hf7n.xn--11b7cb3a6a.xn--h2brj9c/website/internationalmineralscenario).
+- **3.78million tonnes FY2023–24 refers to ore**, not refined copper. Comparing it with source FY2018–19 ~4.1million tonnes is a five-year comparison, not proof an annual decline in FY2023–24; smelter closure cannot directly explain all mine-output changes. Copper-concentrate imports reported doubled to **₹26,000crore FY2019→FY2024**; import dependence, ore grades, costs and processing constraints require separate analysis.
+## Vision and overseas exploration
+- **Copper Vision Document,4July2025:** projected **sixfold demand by2047**, planned **5million tonnes/year additional smelting/refining by2030**, more secondary refining/recycling and overseas assets/partnerships. Capacity plans are not current output. [Mines release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2142191&lang=2&reg=48).
+- Source reports **9,000km² exploration block in Zambia** for copper/cobalt under government cooperation; exploration is not a producing mine or guaranteed extractable reserve. Fits critical-mineral security and diversification amid Chinese commercial influence; overseas access must complement domestic efficiency, recycling and environmental/community safeguards.
+
+## PDF coverage
+
+2025-07-05: pp. 7, 8, 9, 10

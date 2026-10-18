@@ -13,7 +13,12 @@
 - Workers described blocked IDs/deactivation without notice/remedy, payment/per-task reductions, platform surcharges, poor support and resistance to organising. Testimonies illustrate alleged practices rather than adjudicated findings against every platform.
 - They also sought an explicit Central policy; evaluate effective earnings after costs/unpaid waiting, worker representation, transparent deductions and accessible appeal systems.
 
+## Visibility in PLFS
+- Gig/platform workers can be counted as employed in **PLFS** while remaining indistinguishable in published broad categories such as self-employment, own-account work or casual labour. **Inclusion in total employment≠separate identification**.
+- Multi-platform work, task rates, algorithmic allocation/deactivation, unpaid waiting, net costs, income volatility and access to protections need survey modules/identifiers. Legal employment status cannot be decided by a survey label or universally denied to every platform worker.
+- **Code on Social Security 2020** definitions/framework, e-Shram registration and Budget 2025 ID/health-cover announcements are relevant; the Code's provisions for boards/funds are not proof all were already notified, operational and paying benefits by July 2025.
+- The **January 2025 PLFS redesign** broadens frequency/rural coverage, but frequency alone does not create gig-specific classifications. Improve occupation/platform questions, multiple-job reporting and benefit/contract data with privacy safeguards; reconcile survey and administrative records rather than equate registrations with all active workers.
 
 ## PDF coverage
 
-2025-03-19: pp. 22, 23, 24, 25 · 2025-05-16: pp. 26
+2025-03-19: pp. 22, 23, 24, 25 · 2025-05-16: pp. 26 · 2025-07-03: pp. 8, 9, 10, 11

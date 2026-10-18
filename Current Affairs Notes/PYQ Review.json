@@ -250,6 +250,72 @@
     {
       "issue_date": "2025-06-29",
       "reason": "Agni-IV 2014, PFAS 2024, ACE2 2021 and INS Astradharini 2016 already occur in common banks/prior drafts; coverage and revision preserved without duplicate PYQs."
+    },
+    {
+      "issue_date": "2025-07-02",
+      "reason": "Project 1135.6 question is explicitly labelled potential/practice, not a past UPSC question; excluded."
+    },
+    {
+      "issue_date": "2025-07-02",
+      "year": 2023,
+      "reason": "PLI/export-share PYQ already in result06/common draft; retained coverage without duplicate."
+    },
+    {
+      "issue_date": "2025-07-03",
+      "year": 2021,
+      "reason": "Tokyo Olympics PYQ repeats July2 verbatim; banked only once."
+    },
+    {
+      "issue_date": "2025-07-04",
+      "reason": "Cocoa2024, BPA2021 and PFAS2024 PYQs already in common banks/prior results; revision/coverage preserved without duplicates."
+    },
+    {
+      "issue_date": "2025-07-07",
+      "id": "fsdc",
+      "pages": [
+        10,
+        11
+      ],
+      "year": 2016,
+      "question": "With reference to the Financial Stability and Development Council (FSDC), consider the following statements:\n1. It is an organ of NITI Aayog.\n2. It is headed by the Union Finance Minister.\n3. It monitors macroprudential supervision of the economy.\nWhich of the statements given above is/are correct?",
+      "reason": "Printed2016label, full stem/statements but full options absent. Supplied answer(c)2and3only. Held from bank until complete options recovered."
+    },
+    {
+      "issue_date": "2025-07-07",
+      "id": "plant-treaty",
+      "pages": [
+        22,
+        23
+      ],
+      "year": 2020,
+      "question": "Consider the following international agreements:\n1. The International Treaty on Plant Genetic Resources for Food and Agriculture\n2. The United Nations Convention to Combat Desertification\n3. The World Heritage Convention\nWhich of the above has/have a bearing on biodiversity?\n(a) 1 and 2 only\n(b) 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "reason": "Source labels2020 but question appears associated with2012; primary oldUPSC2012paper inaccessible. Year conflict held for review; do not insert2020or guess2012. Supplied answer(d)allthree."
+    },
+    {
+      "issue_date": "2025-07-05",
+      "id": "india-trinidad-diaspora",
+      "pages": [
+        3
+      ],
+      "reason": "Girmitiya MCQ and diaspora Mains question have no years and are framed as practice; notPYQs."
+    },
+    {
+      "issue_date": "2025-07-07",
+      "id": "mycotecture",
+      "pages": [
+        2,
+        3
+      ],
+      "reason": "Explicit PossibleUPSCPrelimsMCQ; practice notPYQ."
+    },
+    {
+      "issue_date": "2025-07-07",
+      "id": "mud-volcano",
+      "pages": [
+        6,
+        7
+      ],
+      "reason": "Explicit SampleUPSCPrelimsMCQ; practice notPYQ."
     }
   ],
   "resolved": [

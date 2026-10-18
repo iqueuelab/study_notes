@@ -54,6 +54,12 @@
 - Attract supply-chain relocation through reliable land/infrastructure, skills, predictable rules and sector-specific electronics/EV/textile capacity. Extending PLI to wearables/IoT/batteries is an **editorial proposal**, not proof a new scheme was notified.
 - Cheap diverted imports are not automatically **dumping**: the legal test compares export price with normal value and requires injury/causal analysis before anti-dumping duties.
 
+## Proposed automobile-tariff rebalancing
+- **3 July2025 WTO communication**, reported July5: India proposed suspension of concessions/rebalancing of about **US$724million** in response to US **25% automobile/certain auto-parts tariffs** announced **26March2025**. This is a proposal, not evidence new Indian duties had already taken effect or that a bilateral mini-deal was concluded.
+- India characterised the measures as safeguards and invoked **GATT1994, Agreement on Safeguards Articles12.3 and8**; absence of consultation/notification forms India's legal position, not a final WTO adjudication. The US characterises its tariffs differently; applicability of safeguard rebalancing is contested.
+- **Ad valorem** means a percentage of value. US$724million is the proposed equivalent suspension/concession value tied to the burden, not simply US$724million of import trade lost.
+- Product/rate lists were not supplied in this report. Coordination of litigation, negotiations and domestic adjustment matters; escalation can affect automobiles, equipment and consumer-goods supply chains despite broader strategic cooperation. Article8 contains conditions/timing; lack of consultation alone is not a universal automatic retaliation licence.
+
 ## PDF coverage
 
-2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20 · 2025-05-14: pp. 13, 17 · 2025-06-01: pp. 15, 18, 19 · 2025-06-23: pp. 33, 34, 35, 36
+2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20 · 2025-05-14: pp. 13, 17 · 2025-06-01: pp. 15, 18, 19 · 2025-06-23: pp. 33, 34, 35, 36 · 2025-07-05: pp. 6, 7

@@ -19,6 +19,15 @@
 - Brazil was to host the **17th BRICS summit in Rio de Janeiro, 6–7 July 2025**; India takes the chair in **2026**. Agenda includes global-governance reform, peace/security, climate, health, AI and multilateral cooperation.
 - The source's “five-member group with Argentina as a new invitee” is stale/misleading. **Argentina declined the invitation**; BRICS membership and partner status must be distinguished. This tour's Argentina stop does not make Argentina a BRICS member.
 
+## Rio summit and partner update
+- **17th BRICS summit,Rio de Janeiro,6–7July2025**: theme **Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance**. Leaders sought fairer global-governance representation, condemned the Pahalgam attack/cross-border terrorism and supported the comprehensive terrorism convention; criticised attacks on Iran's nuclear facilities and called for diplomacy.
+- Declaration welcomed **Indonesia** as member and ten partners: **Belarus,Bolivia,Kazakhstan,Cuba,Nigeria,Malaysia,Thailand,Vietnam,Uganda,Uzbekistan**. Vietnam is the addition missing from the January nine-partner list. Partner status differs from full membership. [Rio declaration](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2142786&lang=2&reg=48).
+- Source table says11full members but actually prints ten names; Saudi accession/reporting remains a qualification in common notes, not resolved by this inconsistent table. Source49.5%population/~40%GDP/~26%trade requires membership,year and PPP/nominal definitions.
+## Historical supplement: India's2021 chair
+- **BRIC coined2001**, foreign-ministers' meeting **2006,UNGA NewYork**; earlier summit/expansion dates remain in common notes.
+- India's2021 theme: **BRICS@15: Intra BRICS Cooperation for Continuity, Consolidation and Consensus**. Priorities: multilateral reform,counter-terrorism,digital tools forSDGs,people-to-people exchange; leaders' summit **9September2021**, foreign ministers **1June**, security advisers **24August**.
+- Source highlights Digital Health Summit, first Water Ministers' meeting, Counter-Terrorism Action Plan, green-tourism cooperation, Agricultural Research Platform and remote-sensing satellite constellation agreement. These are2021cooperation milestones, not newly launched2025projects or a military alliance.
+
 ## PDF coverage
 
-2025-01-22: pp. 5, 6 · 2025-06-24: pp. 33, 34 · 2025-07-01: pp. 8
+2025-01-22: pp. 5, 6 · 2025-06-24: pp. 33, 34 · 2025-07-01: pp. 8 · 2025-07-07: pp. 11, 12, 13

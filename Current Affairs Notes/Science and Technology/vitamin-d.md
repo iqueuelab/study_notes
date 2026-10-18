@@ -11,6 +11,11 @@
 - The **2024 Endocrine Society guideline** advises against routine vitamin D testing in generally healthy people; clinical indications and population-specific needs differ. Universal screening under POSHAN, RBSK or Ayushman Bharat is the source's proposal, not an established policy. [Clinical guideline](https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease).
 - FSSAI standards provide for vitamin A/D fortification of **milk and edible oil**; flour fortification uses other specified nutrients. Do not treat a proposal for mandatory vitamin D fortification of all milk/oil/flour as operative nationwide law. Public-health options include dietary diversity, quality-controlled fortification, awareness and evidence-based targeted care. [FSSAI regulations](https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Food_Fortification_Regulations_03_03_2022.pdf).
 
+## July source caution
+- Newspaper trigger is an educational webinar on vitamin-D myths, bone/mineral metabolism and high-risk groups, not a new representative prevalence survey.
+- Additional deficiency consequences cited include **hypocalcaemia and secondary hyperparathyroidism**; severe deficiency causes adult **osteomalacia**, while osteoporosis is distinct. Fatigue/depression and other associations are not specific diagnostic proof.
+- The PDF's blanket **15–30-minute sunlight**, routine screening and vitamin-D-in-all-flour prescriptions are not universal clinical/public-health rules. FSSAI milk/oil fortification and targeted care are already distinguished in the April notes; its claim India lacks fortification policy is incorrect.
+
 ## PDF coverage
 
-2025-04-12: pp. 4, 5, 6, 7
+2025-04-12: pp. 4, 5, 6, 7 · 2025-07-05: pp. 4, 5, 6

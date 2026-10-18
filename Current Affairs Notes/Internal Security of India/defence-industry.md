@@ -67,7 +67,10 @@
 - Proposed Green Channel expansion and advanced-system/startup support are suggestions; **194 startups** is an undated source snapshot, not India's complete current ecosystem. Private share of exports does not equal private share of all production/procurement.
 - Mains: predictable procurement and finance, design/R&D, export certification, reliable delivery/spares, partnerships and end-use compliance; targets and exhibition participation do not establish actual sales or complete technology autonomy.
 
+## DAC: 3 July 2025
+- **Acceptance of Necessity ≈₹1.05 lakh crore, 10 capital proposals, Buy (Indian-IDDM)**: armoured recovery vehicles, electronic warfare, tri-services common inventory management, SAMs, moored mines, mine countermeasure vessels, super-rapid gun mounts and submersible autonomous vessels.
+- Mobility, air defence, logistics and maritime safety are intended benefits. **AoN ≠ signed contract ≠ delivery**; the indigenous category requires applicable design/development/manufacture criteria. [MoD](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2141835&lang=2&reg=48).
 
 ## PDF coverage
 
-2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4 · 2025-05-30: pp. 11, 12, 13 · 2025-06-07: pp. 16, 17, 18, 19
+2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4 · 2025-05-30: pp. 11, 12, 13 · 2025-06-07: pp. 16, 17, 18, 19 · 2025-07-04: pp. 7

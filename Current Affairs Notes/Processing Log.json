@@ -3442,27 +3442,110 @@
     {
       "date": "2025-07-02",
       "pdf": "2025/07-July/2025-07-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "48dba42c6501703dba3883b86f56b7b3b408c3be2a7d7fb38c485c14ed0de279",
+      "pages": 27,
+      "topic_ids": [
+        "employment-linked-incentive",
+        "groundwater",
+        "india-france",
+        "industrial-process-safety",
+        "manufacturing",
+        "narcotics-control-bureau",
+        "naval-platforms",
+        "operation-conviction",
+        "science-budget",
+        "sports-policy"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-03",
       "pdf": "2025/07-July/2025-07-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "41e0397d1c1cd89f140dc23a9f198fb9176150361523a65d2b0e1fd4b7842940",
+      "pages": 21,
+      "topic_ids": [
+        "ai-energy-footprint",
+        "ai-kosha",
+        "ancient-egypt-genome",
+        "custodial-violence",
+        "gig-work",
+        "industrial-process-safety",
+        "lunar-dust",
+        "qs-world-rankings",
+        "science-budget",
+        "sports-policy"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-04",
       "pdf": "2025/07-July/2025-07-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "af35822a68356b76b7a16dabd670235677230f1a48bdf02bd4b8e402f1135072",
+      "pages": 24,
+      "topic_ids": [
+        "apache-ah64e",
+        "bharat-healthy-ageing",
+        "bonalu",
+        "cocoa",
+        "defence-industry",
+        "ethane-shipping",
+        "india-ghana",
+        "judicial-review-legislation",
+        "pfas",
+        "plasticisers",
+        "qrsam"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-05",
       "pdf": "2025/07-July/2025-07-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "c764d2632e4c68d29d9b24132d919af57dd0ab560f0412eb0867e61883565bba",
+      "pages": 12,
+      "topic_ids": [
+        "aluminium-industry",
+        "copper-industry",
+        "india-trinidad-diaspora",
+        "nipah",
+        "tariff-trade",
+        "trinidad-tobago",
+        "vitamin-d"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-07",
       "pdf": "2025/07-July/2025-07-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "db3f7d01ca3e9a4b6471922213f023370663b9cd60890b5dc26e690413d0e153",
+      "pages": 26,
+      "topic_ids": [
+        "bank-npa",
+        "brics",
+        "financial-stability-report",
+        "fsdc",
+        "global-nuclear-power",
+        "great-nicobar",
+        "helgoland-quantum",
+        "industrial-process-safety",
+        "microcrystalline-cellulose",
+        "mud-volcano",
+        "mycotecture",
+        "pfbr",
+        "phwr-kakrapar",
+        "plant-treaty",
+        "small-modular-reactors"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-09",
@@ -5536,7 +5619,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-07-02",
+  "next_pdf": "2025-07-09",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -5582,6 +5665,16 @@
       "date": "2025-06-22",
       "status": "No standalone PDF; June22-labelled material reviewed in June23 PDF",
       "evidence": "2025/06-June/2025-06-23.pdf, pages 1–14 carry June22 material; page15 starts June23 banner. File issue-date and checksum retained as June23."
+    },
+    {
+      "date": "2025-07-06",
+      "status": "No standalone PDF; combined July6–7 material reviewed in July7 PDF",
+      "evidence": "2025/07-July/2025-07-07.pdf banner says 6 & 7th July2025; pages1–11 contain July6 material and page11 marks the start of July7 news. File/checksum retained under July7."
+    },
+    {
+      "date": "2025-07-08",
+      "status": "No standalone PDF; 8–9 July combined material is in the July9 file, published with the next checkpoint.",
+      "evidence": "July9 page1 banner8th&9thJuly2025; page14 startsJuly9news."
     }
   ]
 }
