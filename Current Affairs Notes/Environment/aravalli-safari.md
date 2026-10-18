@@ -21,7 +21,11 @@
 - Fold mountains arise through compressive deformation; Himalaya is a younger active orogen. Avoid simplistic exact age rankings of “Western Ghats 150 million years” versus every Aravalli rock: landform formation and underlying rock age differ.
 - Practice answer **B** is the source’s watershed interpretation; retain drainage qualifications rather than equating an endorheic basin with direct seaward flow.
 
+## July 2025 safari proposal
+- Source links Haryana's proposed roughly **10,000-acre** safari with Great Nicobar compensatory-afforestation planning and cites preference for land below 40% forest density. Sparse canopy does not imply ecological emptiness; water use, native habitat and connectivity need assessment.
+- **2023 forest-law amendment** includes qualifying government/authority-owned zoos/safaris outside protected areas in specified forest-management activities; this is not blanket permission for every safari on any forest land or waiver of other applicable approvals/court directions.
+- Captive tourism and compensatory planting do not recreate an island's original ecosystem. Evaluate transparent site-specific hydrology, biodiversity and community impacts.
 
 ## PDF coverage
 
-2025-02-18: pp. 12, 13, 14, 15 · 2025-06-04: pp. 6, 7, 8, 9
+2025-02-18: pp. 12, 13, 14, 15 · 2025-06-04: pp. 6, 7, 8, 9 · 2025-07-19: pp. 10, 11

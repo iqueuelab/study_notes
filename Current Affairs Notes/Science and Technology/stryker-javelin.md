@@ -13,6 +13,11 @@
 - LAC concerns and wider US defence ties explain interest; Apache, Chinook, MH-60R and F414 arrangements are different projects/stages, not evidence Stryker was already purchased.
 - Source's “upcoming Modi–Biden discussions” is chronologically wrong for **February 2025**, when Trump was President.
 
+## July 2025: co-production discussions
+- India–US procurement/co-production exploration remained a discussion, not a completed acquisition. Javelin uses lock-on-before-launch imaging-infrared guidance; fire-and-forget permits the operator to seek cover.
+- Top attack targets a tank's relatively vulnerable roof; direct attack supports other profiles. Tandem HEAT warhead, portable infantry role; the PDF's approximately 2.5-km range describes a configuration, not every modern variant.
+- Technology transfer, local vendor participation, high-altitude trials, sustainment and actual manufacturing autonomy matter. **MILAN is Franco-German**, whereas Konkurs is Soviet-origin; the source wrongly labels both Russian.
+
 ## PDF coverage
 
-2025-02-06: pp. 3, 4, 5, 6 · 2025-02-15: pp. 6, 7, 8, 9
+2025-02-06: pp. 3, 4, 5, 6 · 2025-02-15: pp. 6, 7, 8, 9 · 2025-07-17: pp. 8, 9, 10

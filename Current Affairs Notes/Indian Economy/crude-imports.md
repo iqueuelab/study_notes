@@ -59,6 +59,11 @@
 - Embedded clipping reports Trump's threat of a **500% tariff** against countries importing Russian oil, alongside a claim that trade talks with India were nearing agreement. Treat this as a source-period political threat/proposal, **not an enacted tariff already applying to every Indian export**.
 - Such secondary pressure can affect supplier choice, payment/shipping costs and India–US negotiations even where Russian discounts lower the crude purchase price. Existing FY2025-first-half import-dependence figures remain historical comparisons.
 
+## July revision and reporting-period qualifications
+- PDF reports **88.2% crude-import dependence in H1 FY2024–25**, versus 87.6% a year earlier; preserve that period rather than label it all-FY2025. India is a major net crude importer despite its substantial refining/export industry.
+- Oil-price increases can raise import bills, cost-push inflation and fiscal pressures where taxes/subsidies buffer consumers; outcomes depend on volumes, exchange rates and policy. **Current account includes goods, services, primary and secondary income**, not merely imports minus exports.
+- Repeated Brent/WTI chart and PYQs add no new core facts: sweet crude still contains sulphur; one oil barrel is about 159 litres. Existing common PYQ bank already contains 2011 Brent and 2008 barrel questions.
+
 ## PDF coverage
 
-2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3 · 2025-05-20: pp. 20, 21, 22, 23 · 2025-06-14: pp. 28, 29, 30, 31, 32, 33 · 2025-06-16: pp. 41, 42, 43, 44, 45, 46 · 2025-06-23: pp. 24, 25 · 2025-06-28: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9 · 2025-07-11: pp. 15, 16
+2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3 · 2025-05-20: pp. 20, 21, 22, 23 · 2025-06-14: pp. 28, 29, 30, 31, 32, 33 · 2025-06-16: pp. 41, 42, 43, 44, 45, 46 · 2025-06-23: pp. 24, 25 · 2025-06-28: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9 · 2025-07-11: pp. 15, 16 · 2025-07-18: pp. 6, 7, 8, 9, 10, 11, 12

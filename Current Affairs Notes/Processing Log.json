@@ -3689,37 +3689,132 @@
     {
       "date": "2025-07-16",
       "pdf": "2025/07-July/2025-07-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "cd8df1647ffc2f45d62c749ea5aba69e386770f15447dedf3860ce276ffd1f88",
+      "pages": 18,
+      "topic_ids": [
+        "black-hole-mergers",
+        "exoplanet-biosignatures",
+        "fighter-aircraft",
+        "linguistic-secularism",
+        "shanghai-cooperation-organisation",
+        "super-earths",
+        "trade-deficit"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-17",
       "pdf": "2025/07-July/2025-07-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b06fb26c63028e6272c2a6eac43c487cff88f4c547de2c3b9a453fdc0b7796b6",
+      "pages": 30,
+      "topic_ids": [
+        "earthquakes",
+        "genome-india",
+        "hypersonic-cruise",
+        "pm-dhan-dhaanya",
+        "renewable-energy",
+        "stryker-javelin",
+        "trade-deficit",
+        "women-public-spaces"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-18",
       "pdf": "2025/07-July/2025-07-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "99e1e2df96ea320e2a55dc9f45b7bc3a67418685cf904985c04c2641b2fa85d6",
+      "pages": 35,
+      "topic_ids": [
+        "akash-prime",
+        "critical-minerals",
+        "crude-imports",
+        "political-retirement",
+        "renewable-energy",
+        "stellar-evolution",
+        "swachh-survekshan"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-19",
       "pdf": "2025/07-July/2025-07-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d29c60ebb784649b7155714d836713b37b938ceca21fef5318d67037be446b38",
+      "pages": 27,
+      "topic_ids": [
+        "aravalli-safari",
+        "bta-wto",
+        "i4c",
+        "nistar",
+        "nord-stream",
+        "pm-dhan-dhaanya",
+        "renewable-energy",
+        "sc-appointments",
+        "swachh-survekshan",
+        "unsc-1267"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-20",
       "pdf": "2025/07-July/2025-07-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a01258c81b8b0abae9dc6b177f3de5dad036fe207e78d3390c45a30b8ab51ec3",
+      "pages": 13,
+      "topic_ids": [
+        "akash-prime",
+        "chronic-venous-insufficiency",
+        "hydrogen-peroxide",
+        "poshan-tracker",
+        "reykjanes",
+        "swachh-survekshan",
+        "trade-connect"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-21",
       "pdf": "2025/07-July/2025-07-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e698f848b9b68021a7dda91cacc73e2dbd54cb3250307d053cab5c7e453b89f4",
+      "pages": 20,
+      "topic_ids": [
+        "ai-governance",
+        "brahmaputra-hydropower",
+        "dgca",
+        "eu-age-verification",
+        "indonesia-peat-fires",
+        "international-moon-day",
+        "ndrf"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-22",
       "pdf": "2025/07-July/2025-07-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "959ba0fe14edf971cc563af879dacb97a542cad4918c3db377d8b2afd6f25996",
+      "pages": 23,
+      "topic_ids": [
+        "fide",
+        "global-capability-centres",
+        "navic",
+        "pm-internship",
+        "right-to-vote",
+        "sar-nisar",
+        "vice-president"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-23",
@@ -5723,7 +5818,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-07-16",
+  "next_pdf": "2025-07-23",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

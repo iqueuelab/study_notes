@@ -59,7 +59,16 @@
 - India's updated NDC concerns **50% cumulative installed electric-power capacity from non-fossil sources**, not 50% actual generation. The 500 GW goal is non-fossil capacity, not solar alone.
 - Cleaner air and climate mitigation can support solar performance; siting, forecasting, cleaning, grid flexibility and diversified generation also matter.
 
+## June 2025 milestone: capacity versus generation
+- By **30 June 2025**, non-fossil capacity reached **242.78 GW of 484.82 GW total**, just over 50%, meeting the 2030 NDC capacity-share target early. Nuclear and large hydro count alongside renewables; this is not a 50% generation share.
+- July article contrasts approximately **28% actual electricity generation** from non-fossil sources with that capacity share. Solar/wind availability, maintenance and dispatch produce different utilisation factors; source illustrative solar 20%, wind 25–30%, coal 60%, nuclear 80% are not fixed universal constants.
+- Grid flexibility, storage, wind–solar–hydro hybrids, demand response and time-of-day pricing help convert capacity into useful reliable supply. The claim that India has no time-of-day tariff framework is too broad; rollout and customer coverage differ. The PDF's 75% coal and 28% non-fossil figures should not be added as identical-period exhaustive shares.
+
+## China comparison: July 2025
+- Long-term planning, the **Renewable Energy Law (2005)**, provincial pilots, public finance, transmission investment and integrated manufacturing helped China scale clean energy. Supply chains include solar polysilicon, batteries, lithium refining and rare-earth components.
+- State enterprises and overseas infrastructure projects connect industrial policy with energy diplomacy. Lessons for India: policy continuity, affordable finance, manufacturing/recycling, grid investment and domestic innovation with private participation and safeguards.
+- PDF's **$940 billion for China versus $3.4 billion for India** compares inadequately specified investment categories; its **55% of global investment by Chinese SOEs** lacks a clear denominator. Do not memorise either as a like-for-like renewable-investment comparison.
 
 ## PDF coverage
 
-2025-01-05: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-01-10: pp. 2, 3, 4 · 2025-01-13: pp. 8, 9, 21, 23 · 2025-01-14: pp. 20, 21 · 2025-03-17: pp. 18, 19, 20, 35, 36 · 2025-03-18: pp. 34
+2025-01-05: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-01-10: pp. 2, 3, 4 · 2025-01-13: pp. 8, 9, 21, 23 · 2025-01-14: pp. 20, 21 · 2025-03-17: pp. 18, 19, 20, 35, 36 · 2025-03-18: pp. 34 · 2025-07-17: pp. 10, 11, 12, 13, 14 · 2025-07-18: pp. 28, 29, 30, 31 · 2025-07-19: pp. 20, 21, 22, 23

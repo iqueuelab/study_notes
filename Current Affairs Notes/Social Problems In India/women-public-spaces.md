@@ -17,7 +17,12 @@
 - **Prevent harassment without moral policing** of consensual relationships or restricting women's freedom. Train personnel, make complaints accessible and assess safety/outcomes rather than only arrests.
 - UP Anti-Romeo squads and Hyderabad SHE Teams are comparison examples, not interchangeable legal frameworks.
 
+## Institutional safety: July 2025 debate
+- Balasore college student's death after alleged harassment highlighted failures in complaint handling and institutional accountability. Schools, campuses and workplaces need credible preventive systems, accessible reporting, support and fair investigation.
+- POSH Act 2013: Internal Committees apply at workplaces with **10 or more workers**; Local Committees cover specified cases including smaller establishments and complaints against employers. The PDF's claim that every workplace must have its own committee ignores this distinction.
+- Source NCRB **2022** snapshot: **4,45,256 registered crimes against women**, about 4% above 2021; cruelty by husband/relatives 31.4%, assault on modesty 18.7%, rape 7.1%. Registered cases do not measure all prevalence or prove a specific trend within campuses.
+- Audit committee functioning, train staff on consent/reporting, prevent retaliation, provide counselling/legal aid and hold administrators accountable through lawful procedures. Criminal-law references require date awareness: BNS replaced IPC for offences committed from July 2024.
 
 ## PDF coverage
 
-2025-03-08: pp. 9, 10, 11, 12, 13 · 2025-03-20: pp. 35, 36, 37, 38, 52, 53 · 2025-04-01: pp. 6, 7, 8, 9
+2025-03-08: pp. 9, 10, 11, 12, 13 · 2025-03-20: pp. 35, 36, 37, 38, 52, 53 · 2025-04-01: pp. 6, 7, 8, 9 · 2025-07-17: pp. 17, 18, 19, 20

@@ -36,7 +36,12 @@
 - The Supreme Court's March 2025 account distinguished the proposed Yashwant Varma transfer from the inquiry. On **22 March**, a three-member inquiry committee was announced; allegations require a fair opportunity to respond. [Supreme Court release](https://www.sci.gov.in/press-release-dated-march-22-2025/).
 - For an HC judge, the in-house committee ordinarily includes two HC Chief Justices and one HC judge. Natural justice, confidentiality where justified, transparent institutional action and constitutional removal procedures are complementary safeguards.
 
+## Removal procedure: July 2025 revision
+- **Judges (Inquiry) Act 1968**: notice signed by at least **100 Lok Sabha or 50 Rajya Sabha members**; Speaker/Chairman may admit or refuse after consideration.
+- Admitted motion → inquiry committee: **CJI/SC judge, HC Chief Justice, distinguished jurist**. Statutory inquiry differs from the judiciary's in-house administrative inquiry; a finding of guilt is not itself removal.
+- Only after the requisite address by both Houses in the **same session**, on proved misbehaviour/incapacity, may the President remove. This mechanism balances independence with accountability.
+- **V. Ramaswami (1993):** Lok Sabha motion failed; **Soumitra Sen (2011):** Rajya Sabha passed motion, but resignation preceded Lok Sabha vote. “Impeachment” is common usage; constitutional text speaks of removal.
 
 ## PDF coverage
 
-2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7 · 2025-03-22: pp. 5, 6, 7
+2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7 · 2025-03-22: pp. 5, 6, 7 · 2025-07-19: pp. 7, 8, 9

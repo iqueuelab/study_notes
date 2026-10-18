@@ -34,7 +34,16 @@
 - Services figures are provisional/estimated pending RBI release. Source explanatory December chart is recycled earlier data already recorded above, not April 2025.
 - Energy/API/electronics inputs, benefits/risks and policy responses are covered above. Export-duty fiscal losses and automatic foreign-borrowing/reserve-depletion claims remain misleading; assessment must distinguish productive imports, financing stability and overall current account.
 
+## April–June 2025: services offset the goods gap
+- Embedded clipping reports Q1 FY2025–26 goods-plus-services exports **US$210.31 billion**, imports **US$230.62 billion**, deficit **US$20.31 billion**, down **~9.4%** year-on-year. Exports grew **5.94%**, imports **4.38%**; earlier-year totals **US$198.52/220.94 billion**.
+- Services exports approximately **US$98.1 billion**, versus **US$88.5 billion** earlier, helped offset merchandise weakness; goods exports **US$112.17 billion** grew **1.92%**. Services estimates are provisional, not final RBI outcomes. [Commerce Ministry July 15 release](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2144870&lang=2&reg=48).
+- Therefore the clipping concerns an **overall trade deficit**, not simply deficits with each named trading partner. The explanation repeats existing energy/API dependence and competitiveness measures; its automatic external-debt/reserve-depletion and export-duty-revenue claims remain misleading. Daily mains question is practice, not PYQ.
+
+## Q1 FY2025–26 and June 2025 source snapshot
+- April–June merchandise exports **$112.17 billion (+1.92%)**, estimated services exports **$98.13 billion (about +11%)**; goods deficit **$67.26 billion**, versus about $62.1 billion a year earlier. Services helped reduce the combined goods/services deficit by about **9.4%**; distinguish this measure from merchandise balance and the whole current account.
+- June growth: electronics **46.93%**, tea **32.64%**, meat/dairy/poultry **19.7%**, marine products **13.33%**. US-bound goods rose about **23.5%**; front-loading ahead of tariff uncertainty may affect interpretation.
+- Source Russian crude share around **36%**, petroleum about **15% of goods exports**, US about **17.7% of exports**: dated shares with different denominators, not permanent ratios. Diversify export products/markets and energy suppliers; improve value addition/logistics while negotiating market access. Secondary-tariff threats were July risks, not proof every threatened measure was already operative.
 
 ## PDF coverage
 
-2025-01-16: pp. 1, 2, 3, 4 · 2025-03-18: pp. 7, 8, 9, 10 · 2025-05-16: pp. 23, 24, 25, 26
+2025-01-16: pp. 1, 2, 3, 4 · 2025-03-18: pp. 7, 8, 9, 10 · 2025-05-16: pp. 23, 24, 25, 26 · 2025-07-16: pp. 3, 4, 5, 6 · 2025-07-17: pp. 25, 26, 27, 28, 29, 30

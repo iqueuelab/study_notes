@@ -35,7 +35,12 @@
 - Magnitude describes event size and is logarithmic; intensity describes local effects and varies by location. Depth, buildings, soils and distance shape damage.
 - India's seismic zones are **II, III, IV and V** in the standard map, with V highest hazard; the current scheme has no zone I. Intraplate earthquakes also occur, not only boundary events.
 
+## July 2025: urban seismic resilience
+- July 10 Delhi-region tremor renewed the case for enforcing design standards, structural audits and retrofitting vulnerable housing, hospitals, schools and lifelines. Local soil amplification/liquefaction and exposure shape losses.
+- **IS 1893 (Part 1):2016** is a seismic design standard, not by itself a universally enforced standalone statute. Source-era map uses four zones **II–V**, contradicting the text's “five”; Delhi is IV. The zone factor **0.24** is a design parameter, not a precise prediction of site peak acceleration in every earthquake.
+- Steel jacketing and base isolation are engineering options requiring site/building assessment. **IndiaQuake disseminates earthquake parameters after an event**, not a prediction app. [NCS launch description](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1497458&lang=1&reg=3).
+- A cluster of global earthquakes does not establish increasing global tectonic activity or an imminent dated Himalayan earthquake. PDF estimates of Delhi non-compliance, exposed population, retrofitting expenditure and deaths lack reconciled primary definitions; do not use as settled measurements.
 
 ## PDF coverage
 
-2025-01-08: pp. 25 · 2025-02-19: pp. 17, 18, 19, 20 · 2025-03-29: pp. 34, 35
+2025-01-08: pp. 25 · 2025-02-19: pp. 17, 18, 19, 20 · 2025-03-29: pp. 34, 35 · 2025-07-17: pp. 20, 21, 22, 23, 24, 25

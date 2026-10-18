@@ -13,6 +13,14 @@
 - Proposed **Civil Aviation Authority** restructuring mentioned in the source is not proof that a replacement authority had been established.
 - Rapid aviation growth creates inspection/workforce and regulatory-capacity demands; smaller-airport modernisation, credible enforcement and ICAO compliance require coordination. Sustainability work includes noise/emissions standards, green infrastructure and appropriate technology, with policy intentions distinguished from completed outcomes.
 
+## July 2025 safety-reform editorial
+- Following the **12 June 2025 Ahmedabad Air India 787 crash**, the source discusses an inconclusive preliminary AAIB report; preliminary evidence does not establish final cause or individual blame.
+- Reform themes: stronger independent technical expertise; adequate maintenance/ATC staffing; fatigue/duty-time enforcement; protection for safety reporting/whistle-blowers; non-punitive mental-health support; effective airline safety officers and transparent investigation follow-up.
+- **Swiss-cheese model:** multiple weaknesses across independent safety layers align to produce an accident; focus on organisational safeguards as well as frontline actions.
+- Airport obstacle safeguarding/IHS and height-clearance enforcement matter. A **displaced threshold** moves the landing threshold, affecting usable landing distance; it is not the same as every runway length measure.
+- The editorial alleges failures in Mumbai obstacle permissions, committee decisions and earlier Mangaluru recommendations; its inconsistent **5,000/1,000 obstacle totals** and universal claim of no ATCO licensing should not be treated as verified facts. DGCA's established professional-licensing role remains in the core notes.
+- Recommendations: enforce obstacle limits, audit new-airport risks and implement inquiry recommendations with clear institutional accountability; these are policy arguments, not findings that the Ahmedabad crash was caused by nearby buildings.
+
 ## PDF coverage
 
-2025-04-27: pp. 6, 7, 8
+2025-04-27: pp. 6, 7, 8 · 2025-07-21: pp. 10, 11, 12, 13

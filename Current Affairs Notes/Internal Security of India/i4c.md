@@ -23,6 +23,11 @@
 ## June 27 enforcement headline
 - Source lists **nine arrests by CBI in a cybercrime crackdown**. This is an agency action reported in the contents; CBI's investigation and I4C's coordination are different institutional roles. No further case detail is supplied here.
 
+## Digital-arrest fraud
+- Fraudsters impersonate police/CBI/ED through calls or video, fabricated warrants/courtrooms and AI voices; allege money-laundering/drug offences, isolate victims and demand transfers for “bail” or “clearance”. **Digital arrest is not a lawful arrest procedure.**
+- Break contact, verify agencies independently and report promptly through **1930/cybercrime.gov.in**; preserve call, account and transaction evidence. Never transfer funds merely to “prove innocence”. Isolation, fear and social stigma are vulnerabilities exploited by criminals.
+- I4C supports interstate investigation, threat analytics, training and bank/platform coordination; it does not supplant state police jurisdiction. The clipping reports a life sentence in one case, not a universal statutory penalty for every online fraud.
+
 ## PDF coverage
 
-2025-04-28: pp. 8, 9, 10, 11 · 2025-06-27: pp. 1
+2025-04-28: pp. 8, 9, 10, 11 · 2025-06-27: pp. 1 · 2025-07-19: pp. 11, 12, 13, 14

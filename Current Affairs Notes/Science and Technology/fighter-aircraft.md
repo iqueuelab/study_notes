@@ -52,7 +52,11 @@
 - Ferry range differs from combat radius and depends on configuration. Naval LCA is a technology demonstrator, not an inducted carrier fighter fleet; TEDBF is a separate development programme.
 - Engine supply, domestic subsystems, certification, production capacity and maintenance determine operational readiness, beyond an order announcement.
 
+## July 2025: second F404 engine
+- Embedded clipping reports receipt of the **second GE F404 engine**, following the first in March; engine supply disruption delayed Mk1A deliveries. Source-period **83-aircraft order**, additional **97 proposal**, near-term **10 aircraft deliveries** and **12 engines by financial-year end** describe orders/plans, not completed deliveries.
+- Tejas technology-demonstrator first flight **4 January 2001**; trainer is a two-seat operational-conversion aircraft retaining combat functions. Multirole weapons, refuelling, AESA/BVR/EW and improved maintenance should be understood by variant. [HAL aircraft brochure](https://hal-india.co.in/backend/wp-content/uploads/2022/12/LCA.pdf).
+- The PDF's **Mach 1.8 and 3,000-km combat range** conflict with its embedded Mk1 graphic (**Mach 1.6**) and lack mission/configuration qualifiers; do not learn ferry range as combat radius. Its **2025–26 Mk2 production** graphic is an older forecast, not proof achieved. Existing F404/F414 and naval-demonstrator distinctions correct the text's mixed variants.
 
 ## PDF coverage
 
-2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26 · 2025-03-18: pp. 1, 2, 3, 4, 5, 6, 7 · 2025-03-27: pp. 6, 7, 8, 9 · 2025-03-29: pp. 38, 39
+2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26 · 2025-03-18: pp. 1, 2, 3, 4, 5, 6, 7 · 2025-03-27: pp. 6, 7, 8, 9 · 2025-03-29: pp. 38, 39 · 2025-07-16: pp. 8, 9, 10

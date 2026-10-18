@@ -28,7 +28,12 @@
 - Reform: restore effective appellate review, improve notifications/monitoring and dispute access, address subsidy/market-access concerns, and reconcile new issues with development and food security. Negotiated proposals are not enacted reforms.
 - Mains balance: institutional dysfunction weakens WTO credibility, but abandoning its common framework can leave weaker economies more exposed to unilateral power. Assess negotiation, adjudication and monitoring separately; pursue reform with transparent, inclusive implementation.
 
+## Dairy certification and India–US negotiations: July 2025
+- “Non-veg milk” is a debate label for milk from animals fed certain animal-origin ingredients, not a distinct biological milk category. Market access involves feed certification, cultural preferences, sanitary regulation and small-producer livelihoods.
+- India's veterinary certification has restrictions on source-animal feed; the published certificate refers to internal organs, blood meal and ruminant-origin tissues, and also animal rennet in products. Check the applicable certificate rather than generalise every animal-derived ingredient identically. [DAHD certificate](https://www.dahd.gov.in/sites/default/files/2023-07/OMdated10August2020onVHCforimportofMilkandMilkProducts.pdf).
+- US regulation prohibits specified mammalian proteins in ruminant feed to prevent BSE, with exemptions and additional high-risk-material controls. It is misleading to imply US cattle universally or unrestrictedly eat other cattle. [FDA feed rules](https://www.fda.gov/animal-veterinary/bovine-spongiform-encephalopathy/feed-ban-enhancement-implementation-questions-and-answers).
+- Source **239.3 million tonnes Indian milk output, 2023–24**; producer-income/price-loss scenarios from import opening are estimates, not realised losses. Balance negotiation gains with livelihood impacts, credible certification and food safety; July deadline discussions did not establish a signed deal.
 
 ## PDF coverage
 
-2025-03-11: pp. 19, 20, 21, 25, 26, 30, 31 · 2025-04-25: pp. 18, 19, 20
+2025-03-11: pp. 19, 20, 21, 25, 26, 30, 31 · 2025-04-25: pp. 18, 19, 20 · 2025-07-19: pp. 1, 2, 3

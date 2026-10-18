@@ -20,7 +20,11 @@
 - The paper describes consented sampling, population representation, coordinated quality control, and data at IBDC, Faridabad. The supplied 5,750-sample analysis is an earlier subset, not the April paper’s final call-set.
 - Revision implication: larger, representative reference panels improve imputation, rare-disease investigation and drug-response research, with clinical validation and safeguards still required. [GenomeIndia consortium paper, published 8 April 2025](https://home.iitm.ac.in/sinha/pdf/Bhattacharyya_2025_NatGenet.pdf).
 
+## Gujarat tribal-genome initiative: July 2025
+- Source reports a tribal-focused project implemented by **Gujarat Biotechnology Research Centre**, under the Tribal Development Department: planned **2,000 individuals across 17 districts**, building a reference database for genetic-risk research and precision healthcare.
+- Focus includes sickle-cell disease and other disease susceptibilities. Sequencing can inform research and validated prevention/treatment; predisposition is not destiny or a guaranteed cure.
+- Representative consented sampling, privacy, cultural sensitivity, non-discrimination and returning accessible health benefits are central. A state tribal reference initiative is distinct from nationwide GenomeIndia.
 
 ## PDF coverage
 
-2025-01-13: pp. 11, 12, 21, 24 · 2025-04-09: pp. 8, 9
+2025-01-13: pp. 11, 12, 21, 24 · 2025-04-09: pp. 8, 9 · 2025-07-17: pp. 14, 15, 16, 17

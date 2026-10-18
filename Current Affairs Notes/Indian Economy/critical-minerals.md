@@ -72,6 +72,11 @@
 - Dependence on Chinese separation/processing and magnet manufacture can disrupt auto-component and clean-technology supply chains. Industry proposals for stockpiles, domestic processing and incentives require environmental safeguards and viable production links; a proposal is not an operational stockpile.
 - Medical-imaging examples need qualification: some MRI designs use permanent magnets, while many use superconducting electromagnets. China's processing dominance must not be confused with exclusive worldwide mineral occurrence.
 
+## Rajasthan rare-earth reporting: July 2025
+- Source identifies **Balotra and Jalore** occurrences and REE-bearing **bastnaesite, britholite and xenotime**. Balotra is a separate Rajasthan district created from Barmer; “Balotra in Barmer district” is administratively outdated.
+- Exploration indications/auction proposals are not certified commercially recoverable reserves or immediate magnet supply. Ore grade, separation technology, infrastructure, investment and radioactive/waste safeguards determine viability.
+- PDF's **₹1,000-crore rare-earth-magnet incentive** should be treated as a July proposal/report, not an established operational PLI scheme on this evidence. Geological reserves ranking, mining share and processing share must be tied to year/definition; they are not interchangeable.
+
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6 · 2025-06-14: pp. 22, 23, 24, 25, 26, 27, 28 · 2025-07-09: pp. 14, 15, 16
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6 · 2025-06-14: pp. 22, 23, 24, 25, 26, 27, 28 · 2025-07-09: pp. 14, 15, 16 · 2025-07-18: pp. 1, 2, 3, 4, 5

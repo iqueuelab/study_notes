@@ -408,6 +408,12 @@
       "chapter": "Noble rot and fungal chromosome partitioning",
       "question": "Which of the following statements is/are correct?\n1. Viruses lack enzymes necessary for the generation of energy.\n2. Viruses can be cultured in any synthetic medium.\n3. Viruses are transmitted from one organism to another by biological vectors only.\nSelect the correct answer using the codes given below:\n1. 1 only\n2. 2 and 3 only\n3. 1 and 3 only\n4. 1, 2 and 3",
       "answer": "1. 1 only"
+    },
+    {
+      "chapter": "Star formation, stellar evolution and variable stars",
+      "year": 2023,
+      "question": "Consider the following pairs:\n\nObjects in space — Description\n1. Cepheids — Giant clouds of dust and gas in space\n2. Nebulae — Stars which brighten and dim periodically\n3. Pulsars — Neutron stars that are formed when massive stars run out of fuel and collapse\n\nHow many of the above pairs are correctly matched?\n(a) Only one\n(b) Only two\n(c) All three\n(d) None",
+      "answer": "(a) Only one"
     }
   ]
 }

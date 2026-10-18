@@ -378,6 +378,56 @@
       "subject": "Anthropology",
       "status": "Incomplete supplied PYQ: page 7 has full four-statement stem and answer (c) 1, 2 and 4, but no answer-option list. Do not invent omitted options; retain explanation in notes pending official-paper review.",
       "question": "Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:\n1. PVTGs reside in 18 States and one Union Territory.\n2. A stagnant or declining population is one of the criteria for determining PVTG status.\n3. There are 95 PVTGs officially notified in the country so far.\n4. Irular and Konda Reddi tribes are included in the list of PVTGs.\nWhich of the statements given above are correct?"
+    },
+    {
+      "date": "2025-07-18",
+      "pages": [
+        11,
+        12
+      ],
+      "status": "2011 Brent and 2008 barrel CSE questions already present in Indian Economy common bank; no duplicates appended."
+    },
+    {
+      "date": "2025-07-18",
+      "pages": [
+        17,
+        18
+      ],
+      "status": "2023 objects-in-space CSE question preserved with full pairs and options; answer (a). Other daily MCQs/mains prompts are coaching practice, excluded from PYQ banks."
+    },
+    {
+      "date": "2025-07-19",
+      "pages": [
+        27
+      ],
+      "status": "Final page is blank apart from source watermark; inspected, no substantive content/PYQ."
+    },
+    {
+      "issue_date": "2025-07-22",
+      "pages": [
+        22,
+        23
+      ],
+      "status": "duplicate_already_in_common_bank",
+      "question": "UPSC CSE Prelims2018 IRNSS three-statements question; full wording/options and answer(a) already retained in Science and Technology/PYQ-Prelim.json. Repeated coverage recorded."
+    },
+    {
+      "issue_date": "2025-07-21",
+      "pages": [
+        8,
+        9,
+        10
+      ],
+      "status": "excluded_coaching_practice",
+      "question": "Daily Mains AI-governance prompt has no UPSC exam attribution/year."
+    },
+    {
+      "issue_date": "2025-07-22",
+      "pages": [
+        9
+      ],
+      "status": "excluded_coaching_practice",
+      "question": "Daily Mains right-to-vote250word15mark prompt has no UPSC exam attribution/year."
     }
   ],
   "resolved": [
