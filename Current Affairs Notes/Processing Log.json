@@ -5473,17 +5473,49 @@
     {
       "date": "2025-11-05",
       "pdf": "2025/11-November/2025-11-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e25376aed23d330b77810b9d8e7ba14628f796edf919ee8f09c73341248e4bb0",
+      "pages": 17,
+      "topic_ids": [
+        "brics",
+        "green-india-mission",
+        "jumping-spiders",
+        "linguistic-secularism",
+        "surrogacy"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-06",
       "pdf": "2025/11-November/2025-11-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2c5b42351b04000b0817ac9ca431ea024a53cdb41b70cd88fe477348aa8ec2f5",
+      "pages": 9,
+      "topic_ids": [
+        "contempt",
+        "model-code-conduct",
+        "qs-world-rankings"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-07",
       "pdf": "2025/11-November/2025-11-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "f3cef7d1b51cdd0779ced22329ff6eaef1c54057c8d111b35ca349787e3768d4",
+      "pages": 19,
+      "topic_ids": [
+        "aviation-fuels",
+        "cms-03",
+        "election-nominations",
+        "naval-platforms",
+        "space-sector",
+        "universal-basic-income"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-08",
@@ -6992,7 +7024,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-11-05",
+  "next_pdf": "2025-11-08",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

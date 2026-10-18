@@ -1084,6 +1084,36 @@
       "stage": "Mains",
       "status": "no_pyqs",
       "evidence": "All 23 pages reviewed; no mains PYQs supplied."
+    },
+    {
+      "date": "2025-11-05",
+      "pages": [
+        2,
+        6,
+        10,
+        13,
+        14,
+        17
+      ],
+      "status": "practice_only",
+      "evidence": "Pilia, surrogacy, BRICS, GIM prelims are unyearred coaching practice. Language mains 250 words/15 marks has no authenticated CSE year. Keys qualified in notes."
+    },
+    {
+      "date": "2025-11-06",
+      "pages": [
+        9
+      ],
+      "status": "duplicate_partial",
+      "evidence": "2022 CSE prelims H.N. Sanyal/contempt four statements appear without complete stem/options. Full question/options already in Indian Polity/PYQ-Prelim.json. No duplicate; answer b (1,2,4) retained in revision explanation."
+    },
+    {
+      "date": "2025-11-07",
+      "pages": [
+        18,
+        19
+      ],
+      "status": "practice_only",
+      "evidence": "UBI 250-word mains practice and answer framework have no CSE exam year; excluded from PYQ bank."
     }
   ],
   "resolved": [
