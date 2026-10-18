@@ -50,6 +50,12 @@
 - **2019 MDR PYQ: (b), 2 and 3 only**—incorrect antibiotic doses and antibiotic use in livestock contribute. Microbial resistance is not a patient's genetic predisposition; “only misuse matters” is too absolute because sanitation, infection control and transmission also matter.
 - **2014 Mains revision:** overuse/non-prescription access → selection and transmission → Schedule H/H1 enforcement, NCDC/ICMR surveillance, stewardship/diagnostics, livestock/environment controls and affordable access. The source's **250 words/15 marks** label is flagged for original-paper verification rather than assumed to be the 2014 paper's specification.
 
+## November 2025: NAP-AMR 2.0
+- **18 November 2025:** Health Ministry launched **National Action Plan on AMR 2.0, 2025–29**. Awareness/education, laboratory capacity, healthcare infection prevention and coordinated antimicrobial-use action are implementation priorities; the source's description of limited first-plan progress is an editorial assessment, not proof nothing was achieved. [Launch](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2191165&lang=2&reg=48).
+- **WHO October 2025 report uses 2023 data:** about **one in six laboratory-confirmed common bacterial infections worldwide** resistant to treatment; regional and surveillance-coverage variation matters. The PDF's “one in three infections in India” must not be assumed a population-wide incidence estimate from representative testing. [WHO](https://www.who.int/news/item/13-10-2025-who-warns-of-widespread-resistance-to-common-antibiotics-worldwide).
+- Extend funded Centre–State One Health implementation across hospitals, communities, veterinary/agricultural/aquaculture systems, pharmaceutical waste and sewage; combine diagnostics and surveillance with stewardship, vaccination/WASH and infection control. Resistance in **E. coli/Klebsiella** is drug- and isolate-specific; not every isolate resists every carbapenem/colistin treatment.
+- Earlier colistin prohibition and surveillance expansion repeat existing notes. Kerala provides a State action-plan example, but “only Kerala implemented effectively” and a claimed community resistance decline need comparable evaluation before a national ranking. Measure outcomes, responsible access and environmental/animal transmission rather than launch documents alone.
+
 ## PDF coverage
 
-2025-01-25: pp. 10, 11, 15, 16 · 2025-01-26: pp. 19 · 2025-04-25: pp. 12, 13, 14, 15, 16, 17 · 2025-05-23: pp. 14, 15, 16 · 2025-09-15: pp. 12, 13, 14, 15, 16
+2025-01-25: pp. 10, 11, 15, 16 · 2025-01-26: pp. 19 · 2025-04-25: pp. 12, 13, 14, 15, 16, 17 · 2025-05-23: pp. 14, 15, 16 · 2025-09-15: pp. 12, 13, 14, 15, 16 · 2025-11-22: pp. 15, 16, 17, 18

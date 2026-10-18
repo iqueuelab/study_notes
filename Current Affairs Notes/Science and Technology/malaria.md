@@ -41,6 +41,12 @@
 - Source's **over nine months at room temperature** concerns formulation stability/preclinical development, not nine months of proven human protection. Affordability, scale and impact depend on further development, trials, approval and deployment.
 - The issue's India **1.4% global /66% WHO South-East Asia-region burden** lack a clear common reference year and must not be treated as newly measured September 2025 statistics. Elimination by **2030** remains a target; vaccination complements vector control, diagnosis and treatment.
 
+## 24 November 2025: R21 price agreement
+- **Gavi and UNICEF** announced an R21/Matrix-M procurement agreement: future price **US$2.99 per dose**, anticipated to take effect in **about one year**, not immediate November 2025 pricing. Gavi backing and UNICEF execution use an **advance payment enabled by IFFIm**, which raises vaccine finance through bond markets.
+- Projected savings **up to US$90 million over five years** could fund **over 30 million extra doses**, fully vaccinating **nearly seven million additional children**. These are expected programme effects, not children already vaccinated by this deal. [Gavi announcement](https://www.gavi.org/news/media-room/gavi-and-unicef-announce-equitable-pricing-deal-malaria-vaccine-protect-7-million).
+- Gavi’s dated announcement reports **over 40 million malaria-vaccine doses delivered** and routine vaccination in **24 African countries** that together represent **over 70% of global malaria burden**. The PDF incorrectly transfers that latter figure to Africa as a whole. Delivered doses, fully immunised children and burden shares measure different things.
+- Existing notes distinguish WHO-recommended/prequalified **R21/Matrix-M (Oxford/SII, Novavax Matrix-M adjuvant)** and **RTS,S/AS01 (GSK/PATH)**, four-dose schedules, and vaccines as complements to nets, diagnosis and treatment. The new agreement concerns R21; do not merge it with June’s separate RTS,S price/supply announcement.
+
 ## PDF coverage
 
-2025-02-14: pp. 15, 16, 17, 18, 19 · 2025-06-26: pp. 30, 31, 32, 33, 34, 35, 36 · 2025-07-13: pp. 7, 8 · 2025-08-01: pp. 12, 13, 14, 15, 16 · 2025-08-02: pp. 89, 90, 91, 92, 93 · 2025-09-10: pp. 11, 12, 13
+2025-02-14: pp. 15, 16, 17, 18, 19 · 2025-06-26: pp. 30, 31, 32, 33, 34, 35, 36 · 2025-07-13: pp. 7, 8 · 2025-08-01: pp. 12, 13, 14, 15, 16 · 2025-08-02: pp. 89, 90, 91, 92, 93 · 2025-09-10: pp. 11, 12, 13 · 2025-11-25: pp. 12, 13, 14

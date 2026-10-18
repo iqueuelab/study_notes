@@ -50,6 +50,12 @@
 - **Hindu Marriage Act section 13B(2):** six-month second-motion interval is **directory and may be waived** in justified cases under *Amardeep Singh v Harveen Kaur (2017)*; distinguish it from the separate section 13B(1) one-year separation requirement. False declarations are not a legitimate reform instrument. [Supreme Court judgment](https://api.sci.gov.in/supremecourt/2017/22782/22782_2017_Judgement_12-Sep-2017.pdf).
 - Focus on timely execution (**Order XXI CPC**), trained support staff, intelligible procedure and effective case management. Evaluate disposal quality, access and fairness alongside speed; mediation and adjudication serve complementary roles.
 
+## November 2025: dignified administrative language
+- A report of the **Supreme Court’s Centre for Research and Planning**, circulated to High Courts during CJI B. R. Gavai’s final days, recommends replacing archaic, colonial and caste-loaded court staff titles. Recommendations should not be described as already implemented uniformly by all courts.
+- It calls hierarchical/dehumanising terminology a **“grammar of inequality”**: language can preserve feudal/caste assumptions and turn persons into functional objects, undermining the dignity courts are expected to protect. Link to **Articles 14, 15, 17 and 21** (equality, non-discrimination, abolition of untouchability and dignity).
+- Suggested replacements: **Halalkhor/Scavenger → Sanitation Assistant; Dhobi → Laundry Operator; Coolie → Freight Assistant; Cycle Sawar → Logistics Assistant; Basta Bardar → Document Handler; Bundle Lifter → Material Coordinator; Masalchi → Kitchen Assistant; Malan → Horticulture Attendant; Chowkidar → Security Assistant**. Old terms appear here only to explain the recommended reform.
+- Reform should align institutional practice with constitutional commitments: dignified titles, respectful workplace language and substantive anti-discrimination measures. Renaming is a useful symbolic/institutional step, but alone does not end caste exclusion or improve working conditions.
+
 ## PDF coverage
 
-2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19 · 2025-03-31: pp. 14, 15, 16 · 2025-05-08: pp. 8, 9, 10, 11 · 2025-08-10: pp. 4, 5, 6 · 2025-10-16: pp. 1, 2, 3, 4 · 2025-11-18: pp. 4, 5, 6, 7
+2025-03-23: pp. 3, 4, 5 · 2025-03-24: pp. 1, 2, 3, 4, 5, 18, 19 · 2025-03-31: pp. 14, 15, 16 · 2025-05-08: pp. 8, 9, 10, 11 · 2025-08-10: pp. 4, 5, 6 · 2025-10-16: pp. 1, 2, 3, 4 · 2025-11-18: pp. 4, 5, 6, 7 · 2025-11-24: pp. 13, 14, 15

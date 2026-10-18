@@ -16,6 +16,12 @@
 - INS Androth commissioned **6 October 2025 at Visakhapatnam**, following September delivery; second GRSE ASW shallow-water craft. At 77 m/about 1,500 tonnes and over 80% indigenous content, it strengthens coastal submarine detection/tracking and neutralisation. [MoD commissioning](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2175480&lang=1&reg=6).
 - Correct source errors: Arnala commissioned **18 June 2025**, not June 2024; the national programme is sixteen craft, eight each under two shipyard contracts, not four GRSE plus four L&T. Androth takes its name from Lakshadweep; Arnala is named after Maharashtra's fort, so the entire fleet is not named exclusively after Lakshadweep islands. Existing notes cover programme roles, delivery and diesel-waterjet design.
 
+## 24 November 2025: INS Mahe commissioning
+- **INS Mahe** commissioned at **Naval Dockyard, Mumbai**, presided over by Army Chief **General Upendra Dwivedi**; source highlights the unusual Army–Navy commissioning association as a signal of jointness. It is the first of **eight Cochin Shipyard Mahe-class ASW shallow-water craft**, distinct from the eight GRSE/Arnala-class vessels.
+- **Over 80% indigenous content**, rather than an exact 80% component count. Coastal/shallow-water submarine detection, tracking and neutralisation support littoral security and complement larger surface ships, submarines and naval aviation. Jointness covers land, sea, air and wider domains; the ceremony does not establish that proposed theatre commands were already operational.
+- Name comes from **Mahe town on the Malabar Coast**; motto **“Silent Hunters”**. CSL built/designed the ship with Indian equipment firms, research establishments and MSMEs. [MoD commissioning release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2193558&lang=1&reg=3).
+- Pages 4–6 repeat **INS Androth’s 6 October 2025 commissioning**, already recorded above. Retain earlier corrections: Arnala commissioned **18 June 2025**, not June 2024; national programme **16 craft, eight each under GRSE and CSL contracts**, not four GRSE plus four L&T; L&T is GRSE’s construction partner. Arnala is named for a Maharashtra fort, not a Lakshadweep island. No second November Androth commissioning occurred.
+
 ## PDF coverage
 
-2025-05-10: pp. 15, 16, 17 · 2025-06-07: pp. 19, 20, 21 · 2025-09-23: pp. 11, 12, 13 · 2025-10-07: pp. 1, 2, 3
+2025-05-10: pp. 15, 16, 17 · 2025-06-07: pp. 19, 20, 21 · 2025-09-23: pp. 11, 12, 13 · 2025-10-07: pp. 1, 2, 3 · 2025-11-25: pp. 1, 2, 3, 4, 5, 6

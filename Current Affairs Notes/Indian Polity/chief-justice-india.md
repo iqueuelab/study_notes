@@ -23,6 +23,10 @@
 - **Article 124(6)** governs the SC judge's oath; **Article 128** permits attendance of eligible retired judges with required consents, not a unilateral permanent CJI appointment. **Article 130** governs another SC seat with President's approval.
 - Reaffirm corrected removal threshold: each House's **majority of total membership plus at least two-thirds present and voting**, address in the same session, proved misbehaviour/incapacity and presidential order. The PDF's bare 'two-thirds majority' omits an essential condition.
 
+## 24 November 2025: 53rd Chief Justice takes oath
+- **Justice Surya Kant was sworn in as the 53rd CJI on 24 November 2025**, before President **Droupadi Murmu** at Rashtrapati Bhavan, succeeding **B. R. Gavai**. The embedded newspaper records the oath; accompanying coaching prose still describes the earlier recommendation stage and is stale. [President’s ceremony record](https://presidentofindia.nic.in/node/25008).
+- Existing appointment/seniority convention, Article 124 qualifications, Judges Cases, roster, Articles 128/130 and removal notes cover the explanatory pages. Preserve the exact removal threshold (**majority of each House’s total membership plus at least two-thirds present and voting**, in the same session); the source’s bare “two-thirds majority” is incomplete. Oath under **Article 124(6)** may be before the President **or a person appointed by the President**, not necessarily the President in every case.
+
 ## PDF coverage
 
-2025-04-30: pp. 6, 7, 8, 9, 10 · 2025-05-15: pp. 3, 4, 5, 6, 7, 8, 31, 32 · 2025-10-29: pp. 16, 17, 18, 19
+2025-04-30: pp. 6, 7, 8, 9, 10 · 2025-05-15: pp. 3, 4, 5, 6, 7, 8, 31, 32 · 2025-10-29: pp. 16, 17, 18, 19 · 2025-11-25: pp. 15, 16, 17, 18

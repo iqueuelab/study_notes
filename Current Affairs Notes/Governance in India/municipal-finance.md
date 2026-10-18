@@ -12,6 +12,14 @@
 - Scandinavian local-income-tax examples illustrate alternative fiscal arrangements, not Indian municipal authority. Bonds and PPPs complement fiscal devolution; debt without credible repayment or excessive regressive user charges can worsen exclusion. Ratings should assess the quality and predictability of all lawful revenue, governance and audit compliance.
 - Practice: for the undated 250-word/15-mark bonds question, balance infrastructure financing with repayment, smaller-city capacity, public accountability and equitable service delivery.
 
+## November 2025: expectations from the Sixteenth Finance Commission
+- **Report submitted 17 November 2025**, not 2024 as the PDF prints, by **Arvind Panagariya-led 16th FC**; award period **2026–27 to 2030–31**. At this issue date submission did not make the recommendations public; publication follows parliamentary tabling under **Article 281**. [Finance Ministry announcement](https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=278914).
+- **Article 280(3)(bb) and (c)** concern augmenting State consolidated funds to supplement **panchayat and municipal resources**, based on SFC recommendations. Existing notes cover municipal Articles; rural complement: **243G functions, 243H taxes/funds, 243I State Finance Commission**, alongside **243Y** for municipalities. State-law devolution matters; schedules alone do not automatically transfer every function/tax.
+- **73rd/74th Amendment Acts 1992**, Eleventh Schedule **29 subjects**, Twelfth **18**; fiscal assignment should match water, sanitation, roads, public health and other devolved responsibilities. Source estimates **2.7 lakh panchayats /5,000+ municipalities** are scale indicators, not a fresh census.
+- **Thirteenth FC** linked local-body grants to a share of the divisible pool; later awards returned to specified grant amounts. Editorial argues shifting conditions and weak SFC follow-through undermine predictability. A buoyant tax-linked formula is not an automatic inflation guarantee, and no constitutional direct fixed local share arises solely from this precedent.
+- Distinguish basic/performance and tied/untied grants under each award; the PDF's “basic = unconditional” shorthand is too broad. Source claims over 100 SFC reports with limited implementation; report counts do not themselves establish every State's compliance.
+- Proposals: assess actual service costs and own-revenue capacity, timely SFCs, stable transparent transfer formulas, realistic conditions, accountable local accounts and adequate staff. These were expectations in the editorial, not disclosed final 16th FC recommendations in November.
+
 ## PDF coverage
 
-2025-10-16: pp. 7, 8, 9, 10
+2025-10-16: pp. 7, 8, 9, 10 · 2025-11-19: pp. 17, 18, 19, 20

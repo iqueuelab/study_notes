@@ -46,6 +46,12 @@
 - Source case claims **Budhpur13 kidney-failure deaths; Ballia>200 µg/L arsenic/10,000 illnesses; Bhubaneswar500 illnesses; Jhabua>5 mg/L fluoride/40% tribal children** lack clear study/date/causal verification; retain as reported concerns, not established epidemiological attribution. Likewise **66 million/230 districts**, **66% child-unsafe uranium samples**, and **85% rural water/65% irrigation** need their original denominator/year.
 - **2013 PYQ:(c), arsenic, fluoride, uranium**. Its exclusion of sorbitol/formaldehyde from that answer does not prove either chemical can never occur in polluted water.
 
+## November 2025: economic and distributional costs
+- Contaminated groundwater can reduce labour productivity through illness, increase household treatment spending, damage soil/crop quality and threaten food safety and export compliance. Poor households face higher exposure and fewer safe-water alternatives; health costs, lost work and debt can reinforce one another. Mehsana fluorosis and Nalgonda defluoridation are source examples, not quantified causal evaluations.
+- **Correct the cost/date:** the World Bank's **US$80 billion (~5.7% GDP)** estimate belongs to its **2013 environmental assessment** and spans multiple environmental damage categories. It is neither a November 2025 estimate nor a groundwater-only loss. [World Bank assessment](https://documents.worldbank.org/curated/en/220721468268504319).
+- The PDF inconsistently calls **20%** a share of samples and of districts. Its 440-district, Punjab one-third uranium, 600-million users and extraction-1.5-times claims require original denominators/reference years; do not combine them into a national prevalence rate. Existing report-specific contaminant notes retain the safer distinctions.
+- Add health surveillance and agricultural traceability to aquifer monitoring, pollution enforcement, safe supply and crop diversification. Select filters/RO for the actual contaminant, provide maintenance and dispose of reject water safely. Over-extraction can alter contaminant mobilisation, but deeper water is not invariably more polluted and contamination is not universally irreversible. Source's blanket “permanent” label is too absolute.
+
 ## PDF coverage
 
-2025-01-05: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-01-19: pp. 3, 20, 21 · 2025-03-31: pp. 1, 2, 3 · 2025-07-02: pp. 19, 20, 21 · 2025-08-08: pp. 1, 2, 3, 4, 5
+2025-01-05: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-01-19: pp. 3, 20, 21 · 2025-03-31: pp. 1, 2, 3 · 2025-07-02: pp. 19, 20, 21 · 2025-08-08: pp. 1, 2, 3, 4, 5 · 2025-11-20: pp. 9, 10, 11, 12

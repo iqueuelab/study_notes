@@ -15,6 +15,13 @@
 - Women's **worker-population ratio, age 15+, usual status: 28.7% (2019–20) →40.3% (2023–24)**; this is not female labour-force participation or proof all new work is formal/decent. National Career Service, rural/tribal skills and social protection complement legal simplification.
 - PYQ revision: **Factories Act 1948 and Plantations Labour Act 1951 → OSHWC Code 2020**.
 
+## November 2025: commencement changes the July position
+- Government made the four Labour Codes effective from **21 November 2025**; their **2019/2020 enactment years** differ from commencement. This supersedes the earlier July note's then-correct non-commencement status. Centre–State rules, transition arrangements and enforcement still govern delivery. [Labour Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2194018&lang=1&reg=1).
+- Existing **4+3+9+13 = 29 laws** table remains the structure. Floor wage sets a lower benchmark for appropriate-government minimum wages; **it does not make every occupation/region's wage identical**. Gig/platform-worker recognition and schemes do not instantly confer all employee EPF/ESI entitlements.
+- Fixed-term employees receive statutory benefits proportionate to comparable permanent work. IR Code expands strike notice requirements and raises the prior-permission threshold for specified lay-off/retrenchment/closure provisions to **300 workers**; this does not abolish compensation, notice or all protections below that threshold. Two-member Industrial Tribunals are intended to improve dispute resolution.
+- Women's night work requires consent and prescribed safety safeguards. Annual health checks and OSH duties depend on prescribed ages/classes and rules; avoid treating the PDF's **40+** shorthand as an unconditional Code-text entitlement for every worker. Single-registration/licensing/returns and inspector-cum-facilitator provisions simplify specified compliance processes.
+- Trade unions contest weakened bargaining/greater employer flexibility; industry supports simpler compliance and investment. Assess coverage, wages, injury prevention, collective voice and actual social-security access instead of assuming legal consolidation alone creates universal protection.
+
 ## PDF coverage
 
-2025-07-10: pp. 15, 16, 17, 18, 19
+2025-07-10: pp. 15, 16, 17, 18, 19 · 2025-11-22: pp. 1, 2, 3, 4, 5

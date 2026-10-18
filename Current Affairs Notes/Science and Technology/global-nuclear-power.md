@@ -12,6 +12,12 @@
 - Source **2.8%electricity in2022–23** is historical. Its 'tripleby2030' is a policy aspiration/snapshot, not achieved output or a guaranteed delivery schedule; **100GW by2047** remains a target.
 - Closed cycle: reprocess → recover uranium/plutonium → refabricate/reuse; resource efficiency must be weighed against cost,proliferation/security and residual high-level waste. SMR generic benefits and fuel-cycle basics repeat the common topics.
 
+## November 2025: Kashiwazaki–Kariwa restart process
+- **Niigata Prefecture, Japan; TEPCO operator**. The seven-unit site's installed capacity makes it the world's largest nuclear station by capacity; that does not mean it was generating at full capacity. November news concerned progress toward restart of **Units 6 and 7**, not completed resumption of all reactors.
+- Governor **Hideyo Hanazumi's 21 November support** still involved prefectural-assembly procedures and national safety requirements. [Contemporaneous Japanese business association statement](https://www.doyukai.or.jp/en/chairmansmsg/uploads/docs/20251121bb.pdf). Later operating milestones must not be backdated into this issue.
+- Fukushima Daiichi's **11 March 2011 earthquake/tsunami** and three core meltdowns drove Japan's nuclear shutdown/reassessment. Kashiwazaki–Kariwa's last generating units shut in **2012**, so the PDF's “offline since 2011” is imprecise; the disaster and full shutdown dates differ. [TEPCO shutdown record](https://www.tepco.co.jp/en/press/corp-com/release/2012/12032504-e.html).
+- Restart debate weighs fossil-fuel import exposure, energy security, low-carbon supply and rising demand against earthquake/tsunami resilience, backup power/cooling, emergency planning, regulator confidence and public consent. Source mentions a **15-metre seawall** and elevated backup supplies; these are safety measures, not proof accident risk is eliminated. Nuclear Regulation Authority review and operational readiness are distinct from political support.
+
 ## PDF coverage
 
-2025-06-17: pp. 5, 6 · 2025-07-07: pp. 19, 20, 21
+2025-06-17: pp. 5, 6 · 2025-07-07: pp. 19, 20, 21 · 2025-11-22: pp. 8, 9, 10, 11

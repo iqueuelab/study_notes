@@ -15,6 +15,12 @@
 - E-commerce claims, deceptive advertising and systemic unsafe-product sales make proactive enforcement valuable.
 - Improve investigation capacity, consumer awareness, regulator coordination and platform accountability; digital and cross-border transactions complicate evidence collection and enforcement.
 
+## November 2025: dark-pattern declarations
+- **20 November 2025:** CCPA announced **26 e-commerce platforms** had submitted self/third-party audit declarations of eliminating or not using dark patterns. A declaration is not an independent regulator finding that every interface is compliant. Absence from the published list is not proof of a violation; omit the PDF's speculative company-specific reasons.
+- **Guidelines for Prevention and Regulation of Dark Patterns, 2023** identify deceptive interface practices impairing consumer autonomy. The later **June 2025 advisory** called for audits within three months; do not date this exercise solely to 2024. [CCPA announcement](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2191948&lang=2&reg=3).
+- Recall all **13 patterns**: false urgency; basket sneaking; confirm shaming; forced action; subscription trap; interface interference; bait and switch; drip pricing; disguised advertisement; nagging; trick wording; SaaS billing; rogue malware. Examples: fake scarcity, pre-added purchases, guilt-based refusal buttons, obscured cancellation and charges revealed late.
+- Ethical design uses clear total prices, genuine choice, explicit consent and easy cancellation. Audits need remediation and continuing monitoring; small firms may need design/compliance support. Enforcement powers must be read under the Consumer Protection Act rather than assuming an identical automatic fine for every UI flaw.
+
 ## PDF coverage
 
-2025-04-18: pp. 6, 7, 8, 9
+2025-04-18: pp. 6, 7, 8, 9 · 2025-11-21: pp. 6, 7, 8, 9

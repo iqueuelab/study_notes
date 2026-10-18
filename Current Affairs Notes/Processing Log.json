@@ -5664,32 +5664,99 @@
     {
       "date": "2025-11-19",
       "pdf": "2025/11-November/2025-11-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "5d338ff23a1d85f1bba6a8236541c1da63219587148833d729b8e77933782af0",
+      "pages": 27,
+      "topic_ids": [
+        "cereal-procurement",
+        "depot-darpan",
+        "municipal-finance",
+        "nfsa-pds",
+        "qs-world-rankings",
+        "udan",
+        "world-happiness-report"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-20",
       "pdf": "2025/11-November/2025-11-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3f8271937c47bca8a7a922cbc23e2539cb6674395b3ca4d63a48c8b1bc5e2876",
+      "pages": 20,
+      "topic_ids": [
+        "groundwater",
+        "rice-cultivation",
+        "rocket-propulsion",
+        "time-use-care",
+        "udan"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-21",
       "pdf": "2025/11-November/2025-11-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8bfd6cd46c7521533841f839bec976008611b4b628832c5134b207431718ff9b",
+      "pages": 16,
+      "topic_ids": [
+        "ccpa",
+        "fisheries",
+        "juvenile-justice",
+        "udan"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-22",
       "pdf": "2025/11-November/2025-11-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "772f2387034638702e6cdf95edb0fa44b49127203b3254bc700f2c99af5583fa",
+      "pages": 18,
+      "topic_ids": [
+        "global-nuclear-power",
+        "labour-codes",
+        "oyster-amr",
+        "stryker-javelin",
+        "us-china-chimerica"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-24",
       "pdf": "2025/11-November/2025-11-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "77f8b1dcf0e14b1d560abb055213abef4eb9fb31d16fb73ffa3efb50b0137410",
+      "pages": 15,
+      "topic_ids": [
+        "african-grey-parrot",
+        "chandigarh-article240",
+        "ibsa-unsc-reform",
+        "judicial-reform",
+        "vibrant-villages"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-25",
       "pdf": "2025/11-November/2025-11-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "cc462e697a06a76dc281e4c518961128467925c69f8197685b27a1637cd7edc3",
+      "pages": 18,
+      "topic_ids": [
+        "arnala",
+        "chandrayaan5",
+        "chief-justice-india",
+        "hayli-gubbi",
+        "malaria"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-26",
@@ -7123,7 +7190,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-11-19",
+  "next_pdf": "2025-11-26",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7245,6 +7312,11 @@
       "date": "2025-11-16",
       "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-11-16 PDF in source inventory/jobs. Reviewed 2025-11-15 physical file has 15 Nov 2025 banner; inspected adjacent 2025-11-17 first page banner explicitly reads 17th Nov 2025, not a combined 16–17 issue. No notes invented or review credited for 16 November."
+    },
+    {
+      "date": "2025-11-23",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone 2025-11-23 PDF in source inventory/jobs. All 15 pages of the 2025-11-24 physical file reviewed; first-page banner explicitly reads 24 Nov. 2025, not a combined 23–24 issue. Coverage retained under physical issue date 2025-11-24; no notes invented or review credited for 23 November."
     }
   ]
 }

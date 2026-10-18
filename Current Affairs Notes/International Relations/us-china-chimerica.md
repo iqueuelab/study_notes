@@ -7,6 +7,12 @@
 - India's options: deepen **Quad** cooperation, manage China border/trade risks, diversify supply chains and retain strategic autonomy. **India is not an AUKUS member**, and Quad is not a mutual-defence treaty. Border security, economic exposure and partnership credibility need separate assessment.
 - Practice prompt asks US–China dynamics' implications for India's strategic choices (**250 words/15 marks**). Use interdependence → rivalry/bargaining → India's exposure → domestic capability/partnerships/autonomy; it has no known CSE year and stays outside PYQ banks.
 
+## November 2025: editorial case for Asian engagement
+- Source argues India should deepen Asian trade/value-chain and technology partnerships while retaining strategic autonomy across the US, China and Russia. **SCO, BRICS, ASEAN and RCEP** have different memberships, purposes and commitments; India is not an RCEP member and “re-entry” is misleading because it never joined the signed agreement.
+- The **2025 Tianjin SCO summit** and US–China Busan meeting frame the author's argument; body-language descriptions and claims that Washington seeks to block India's rise are interpretations, not established diplomatic facts. Border dialogue does not settle the India–China boundary or guarantee Kashmir stability.
+- Policy proposals: strengthen indigenous AI/compute, cyber capability, space, drones and defence production; preserve trade/data policy space while building partnerships and representing Global South interests. Calls for **20-fold higher AI funding**, PMO leadership, reducing Army size or favouring cyber investment over theatre commands are the author's recommendations, not adopted policy.
+- Source's **₹10,372-crore IndiaAI Mission** is an approved outlay scale used for argument; it is not annual expenditure or proof a particular multiple guarantees AI sovereignty. Avoid its unsupported **“Asia has two-thirds of world population and wealth”** equivalence and blanket claim Asian regionalism operates outside WTO rules. Evaluate security deterrence, supply-chain dependence, growth and diplomatic choice separately.
+
 ## PDF coverage
 
-2025-10-29: pp. 20, 21, 22
+2025-10-29: pp. 20, 21, 22 · 2025-11-22: pp. 11, 12, 13, 14, 15

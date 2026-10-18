@@ -22,6 +22,14 @@
 - The Asia ranking includes regional indicators such as **staff with PhD and exchange students** and different weights from the global framework. Do not apply the global table above unchanged. Source Asia weights include academic reputation **30%**, employer reputation **20%**, faculty/student **10%**.
 - Expansion affects comparative ranks. Improve research quality/integrity, faculty support, international collaboration and student mobility, funding/autonomy and employability; rank decline alone does not prove deterioration in every indicator. Source says 259 new Chinese entries, whereas QS reports **260 debuts**; net additions and debut counts can differ.
 
+## QS Sustainability 2026: released 18 November 2025
+- This is the **Sustainability ranking**, distinct from the overall World ranking and Asia ranking. Fourth edition labelled **2026**, released in **2025**; its first **2023 edition** was released in 2022, so “introduced in 2023” confuses edition and launch year.
+- **More than 2,000 institutions, 108 locations**; **103 Indian universities**, fourth-largest representation after **US 240, China 163, UK 109**. **Lund University, Sweden, first; Toronto second; UCL third**. [QS announcement](https://www.qs.com/insights/sustainability-rankings-launch).
+- **IIT Delhi 205**, India's best in this sustainability edition; previous edition **171**, so it declined rather than reaching its “highest ever” rank. This must not replace its separate overall QS World ranking. [QS-issued detailed results](https://en.prnasia.com/releases/apac/qs-world-university-rankings-sustainability-2026-512475.shtml).
+- Source reports **12 Indian institutions in top 500**, equal to China/Netherlands. Indicator ranks: **Employability and Outcomes—IIT Delhi 93, IIT Kharagpur 96; Knowledge Exchange—Delhi University 94**; indicator positions are not overall sustainability ranks. Among continuing institutions, source reports **32 improved, 30 declined, 15 unchanged**; these sum to 77, not all 103 entrants.
+- Assesses **Environmental Impact, Social Impact and Governance**: research/education and environmental action, equality, employment/knowledge exchange, health and institutional governance. The overall QS World indicator-weight table does not apply unchanged.
+- Participation expansion can affect relative ranks, but cannot alone explain every decline. Use indicator-level evidence to assess sustainable campuses, research, inclusion, transparent governance and community contribution, with links to SDGs **4, 13 and 17**.
+
 ## PDF coverage
 
-2025-07-03: pp. 11, 12, 13 · 2025-11-06: pp. 1, 2, 3
+2025-07-03: pp. 11, 12, 13 · 2025-11-06: pp. 1, 2, 3 · 2025-11-19: pp. 10, 11, 12

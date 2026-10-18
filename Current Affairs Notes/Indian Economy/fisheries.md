@@ -17,6 +17,12 @@
 - Costs, fragmented small-scale operations, limited stock data, audits, cold chains and market access can exclude small fishers; shared certification support and transparent benefits matter. Source $8-billion exports, GDP and employment shares are dated approximations, not one harmonised sector account. Avoid assigning every US tariff to environmental non-compliance.
 - [MSC standard and independent assessment](https://www.msc.org/en-us/standards-and-certification/fisheries-standard).
 
+## November 2025: value addition and FAO cooperation
+- **World Fisheries Day, 21 November**: India's 2025 celebration theme **“India’s Blue Transformation: Strengthening Value Addition in Seafood Exports”**. It is the Indian event theme, not necessarily one universal FAO theme. [Department of Fisheries](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2191658&lang=2&reg=48).
+- Historical reference points: Indian fish production **17.54 million tonnes in 2022–23**; FAO SOFIA 2024 data for **2022** give **92.3 million tonnes global capture** and **130.9 million tonnes aquaculture including algae**. India's **10.23 million-tonne aquatic-animal aquaculture** figure is a differently scoped series; avoid direct comparison with an algae-inclusive total. Source's roughly **30 million livelihoods** is an estimate, not a census count.
+- FAO collaboration: **Bay of Bengal Programme** for small-scale fisheries, safety and post-harvest improvement; **BOBLME** ecosystem-based management and IUU control; GEF-supported sustainable aquaculture work in **Andhra Pradesh**; fishing-port technical cooperation at **Jakhau, Gujarat**, and **Vanakbara, Diu**. These add specific examples to existing PMMSY/credit/cold-chain notes.
+- **IUU = illegal, unreported and unregulated fishing** (not “unreporting”). Stock assessments, appropriate gear/effort, community co-management, monitoring-control-surveillance, reduced disease/antibiotic misuse, traceability and certification support sustainability. Vessel transponders, weather tools, digital markets and Matsya Seva Kendras can improve safety/access if small fishers can afford and use them. The National Fisheries Policy 2020 remains labelled **draft** in this source.
+
 ## PDF coverage
 
-2025-03-03: pp. 11, 12, 13, 14 · 2025-10-07: pp. 7, 8, 9, 10
+2025-03-03: pp. 11, 12, 13, 14 · 2025-10-07: pp. 7, 8, 9, 10 · 2025-11-21: pp. 9, 10, 11, 12, 13

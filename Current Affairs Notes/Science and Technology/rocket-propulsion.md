@@ -20,6 +20,12 @@
 - Embedded cryogenic graphic's caption **'73.55 kN vacuum thrust'** conflicts with modern LVM3 CE20's roughly 200-kN class; do not transfer older cryogenic-engine specifications to CE20. **December 2014 experimental suborbital flight** differs from first orbital developmental flight in **2017**.
 - Verified anchors: [ISRO LPSC propulsion FAQ](https://www.lpsc.gov.in/faq1.html), [ISRO launch history](https://www.isro.gov.in/ISRO_EN/LVM3_Launchers.html).
 
+## November 2025: CE20 bootstrap start
+- **7 November 2025**, HAT facility, ISRO Propulsion Complex, Mahendragiri: **10-second vacuum test** demonstrated bootstrap build-up and steady operation. Multi-element igniters in thrust chamber and gas generator allowed turbopumps to start without the auxiliary stored-gas starting system. CE20 already had single-start qualification at **19–22 tonnes thrust** and Gaganyaan qualification.
+- Avoiding a new start-up gas bottle for each restart can preserve payload and enable future multi-orbit flexibility. This ground demonstration is a milestone toward multiple in-flight restarts, not proof that a restartable configuration has already flown. [ISRO, 19 November](https://new1.isro.gov.in/Boot_Strap_Mode_CE20_Cryogenic_Engine.html).
+- CE20 uses **LH₂ fuel + LOX oxidiser** in LVM3's cryogenic upper stage. Do not confuse this with SE2000/SC120 semi-cryogenic core development. Vacuum testing simulates low ambient pressure; it is not evidence the facility reproduces every thermal condition of space.
+- Practice revision: bootstrap = build-up without external start-up assistance; CE20 launch vehicle = **LVM3**. The two MCQs have no CSE year and are not PYQs.
+
 ## PDF coverage
 
-2025-03-30: pp. 5, 6, 7, 8, 9 · 2025-08-04: pp. 18, 19, 20
+2025-03-30: pp. 5, 6, 7, 8, 9 · 2025-08-04: pp. 18, 19, 20 · 2025-11-20: pp. 1, 2, 3, 4

@@ -1264,6 +1264,102 @@
       ],
       "status": "duplicate",
       "evidence": "Page 3 image supplies full 2025 Rashtriya Gokul Mission question/options; exact question already in Indian Economy/PYQ-Prelim.json, answer c. Page 19 repeats previous physical issue Senkaku 2022 question. No duplicate bank additions."
+    },
+    {
+      "date": "2025-11-19",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "status": "none",
+      "evidence": "All 27 page images and full text reviewed; no CSE PYQs printed. Editorial revision themes are not invented Mains questions."
+    },
+    {
+      "date": "2025-11-20",
+      "status": "reviewed",
+      "notes": "Full text and all physical page images reviewed. No complete question identified as a dated UPSC CSE PYQ; CE20 possible questions are undated practice MCQs, excluded from banks. UDAN coverage on November 20–21 repeats November 19 peer result-04; no duplicate note addition retained."
+    },
+    {
+      "date": "2025-11-21",
+      "status": "reviewed",
+      "notes": "Full text and all physical page images reviewed; no dated UPSC CSE PYQs supplied. Common subject banks and peer drafts checked; no invented year or question."
+    },
+    {
+      "date": "2025-11-22",
+      "status": "reviewed",
+      "notes": "Full text and all physical page images reviewed; no dated UPSC CSE PYQs supplied. Common subject banks and peer drafts checked; no invented year or question."
+    },
+    {
+      "date": "2025-11-24",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "status": "none",
+      "evidence": "Every page image and full extracted text reviewed. Explanatory news/revision material contains no UPSC CSE PYQ stems, options or year-labelled Mains questions; common subject banks retained without invented entries."
+    },
+    {
+      "date": "2025-11-25",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "status": "none",
+      "evidence": "Every page image and full extracted text reviewed. Explanatory news/revision material contains no UPSC CSE PYQ stems, options or year-labelled Mains questions; common subject banks retained without invented entries."
     }
   ],
   "resolved": [

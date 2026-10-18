@@ -15,7 +15,11 @@
 - Named planned instruments **MIR, APXS**, a sampler and thermal/material studies support resource characterisation; design meetings do not mean hardware launch or commercial ice extraction.
 - Chandrayaan 4 is a separate sample-return programme. Clipping’s “2027–28 ” is a planning timeline, not an accomplished launch.
 
+## 21 November 2025: Japanese delegation review
+- **Dr Saku Tsuneta**, Vice-Chair of Japan’s Cabinet Committee on National Space Policy, met ISRO Chairman **V. Narayanan** at ISRO Headquarters on **21 November**; ISRO published the update **24 November**. Delegation also visited **ISITE, UR Rao Satellite Centre**. Discussion reviewed **Chandrayaan-5/LUPEX** progress, not a launch or completed lunar experiment.
+- Prospective cooperation included **robotic arms for a space station, scientific-satellite launches, and joint researcher/private-company activities**. These are discussion areas, not final contracts or deployed hardware. [ISRO account](https://new1.isro.gov.in/Vice_Chair_Japans_Committee_met_Chairman_ISRO.html).
+- Existing notes cover ISRO lander, Japanese rover/launcher, polar volatiles and resource characterisation near permanently shadowed regions. Distinguish **Chandrayaan-4 sample return** from LUPEX; water-resource assessment does not establish commercial extraction or a human lunar mission. The clipping confuses the future space-station date with the separate **2040 human-lunar ambition**; do not treat either as achieved.
 
 ## PDF coverage
 
-2025-03-17: pp. 1, 2, 27, 28 · 2025-03-18: pp. 27, 28 · 2025-05-16: pp. 26
+2025-03-17: pp. 1, 2, 27, 28 · 2025-03-18: pp. 27, 28 · 2025-05-16: pp. 26 · 2025-11-25: pp. 7, 8, 9
