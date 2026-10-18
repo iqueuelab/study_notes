@@ -1036,6 +1036,54 @@
       "issue_date": "2025-10-28",
       "status": "reviewed",
       "details": "All 21 physical pages including blank final page/full text reviewed. Full known-year CSE mains naming 2013 and colour-warning 2022 questions preserved. Local official 2022 GS-I original page 2, Q5 visually checked: exact wording restored, 150 words/10 marks. No local 2013 original exists; supplied complete question retained without inventing marks/word limit. 1995 Willy-willy stem provides only one answer option, so partial question excluded for review rather than reconstructing missing options. All existing common PYQ banks parsed for comparison."
+    },
+    {
+      "issue_date": "2025-10-29",
+      "status": "reviewed",
+      "details": "All 22 physical pages/full text reviewed. Chimerica 250-word/15-mark prompt is undated daily answer-writing practice, not a known-year CSE PYQ. No invented years. MoSPI pages repeat baseline full Markdown, retained as blank-addition coverage. Other relevant full existing topic Markdown and peer result files inspected for deduplication."
+    },
+    {
+      "date": "2025-10-30",
+      "detail": "All 16 page images and full text reviewed. No attributed dated CSE PYQs. Baseline catalog, relevant complete topic Markdown, available peer drafts and relevant common PYQ banks compared."
+    },
+    {
+      "date": "2025-10-31",
+      "detail": "All 20 page images and full text reviewed. Pages 2–3 carry full 2017 Chabahar and 2016 BRI prelim questions/options/answers. Both already present in International Relations common Prelim bank; no duplicate added. No dated mains PYQ. SMR material repeats baseline including corrections (BSMR-200 is light-water, not PHWR); coverage retained with blank addition."
+    },
+    {
+      "issue_date": "2025-11-04",
+      "pages": [
+        10,
+        11
+      ],
+      "stage": "Prelim",
+      "year": 2013,
+      "status": "already_in_subject_bank",
+      "chapter": "Groundwater quality and management",
+      "evidence": "Full five-item drinking-water contaminant question and four options; Environment/PYQ-Prelim.json already contains exact question/options, answer c."
+    },
+    {
+      "issue_date": "2025-11-04",
+      "pages": [
+        22,
+        23
+      ],
+      "stage": "Prelim",
+      "year": 2023,
+      "status": "already_in_subject_bank",
+      "chapter": "Marsupials: development and distribution",
+      "evidence": "Both statements and all four explanation options preserved in Environment/PYQ-Prelim.json; answer c."
+    },
+    {
+      "issue_date": "2025-11-03",
+      "status": "no_pyqs",
+      "evidence": "All 18 pages reviewed; no labelled CSE PYQ supplied."
+    },
+    {
+      "issue_date": "2025-11-04",
+      "stage": "Mains",
+      "status": "no_pyqs",
+      "evidence": "All 23 pages reviewed; no mains PYQs supplied."
     }
   ],
   "resolved": [

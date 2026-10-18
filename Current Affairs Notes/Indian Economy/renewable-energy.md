@@ -69,6 +69,13 @@
 - State enterprises and overseas infrastructure projects connect industrial policy with energy diplomacy. Lessons for India: policy continuity, affordable finance, manufacturing/recycling, grid investment and domestic innovation with private participation and safeguards.
 - PDF's **$940 billion for China versus $3.4 billion for India** compares inadequately specified investment categories; its **55% of global investment by Chinese SOEs** lacks a clear denominator. Do not memorise either as a like-for-like renewable-investment comparison.
 
+## October 2025: wind expansion outlook
+- Minister's source-era forecast: **6 GW wind addition in FY2025–26**, with approximately **54 GW installed/30 GW under implementation** and ambition **100 GW by 2030**. Forecasts and pipeline are not completed capacity; the article's prior approximately 4 GW refers to **2024–25**, not its typed 2023–24.
+- **1,164 GW at 150 m hub height is onshore wind resource potential**, not offshore potential as the typed notes claim. Technical potential is neither installed capacity nor a finance-ready project pipeline. [NIWE 150 m assessment](https://maps.niwe.res.in/media/150m-report.pdf). Offshore VGF's initial **1 GW** concerns **500 MW each Gujarat/Tamil Nadu**.
+- The headline's 500 GW ambition is **non-fossil installed electricity capacity**, not renewable generation. Nuclear belongs to non-fossil, not renewable; 50% capacity is not 50% all energy consumption.
+- Source reports wind-equipment GST **12% → 5%**, domestic content about **70%**, ambition **85% by 2030**, and ALMM-Wind. These are dated policy/industry statements, not proof every component is indigenous; its “Atmanirbhar Wind Mission” label should not be treated as a separately verified notified scheme.
+- Wind can complement solar, especially seasonal/night output, but location/weather matter. Transmission, forecasting/storage, viable offshore finance, land/community rights and DISCOM payment security constrain deployment. The source's February-2025 future tender wording is stale in this October issue; its global-capacity/share table has mixed baselines and is not retained as a 2025 ranking dataset.
+
 ## PDF coverage
 
-2025-01-05: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-01-10: pp. 2, 3, 4 · 2025-01-13: pp. 8, 9, 21, 23 · 2025-01-14: pp. 20, 21 · 2025-03-17: pp. 18, 19, 20, 35, 36 · 2025-03-18: pp. 34 · 2025-07-17: pp. 10, 11, 12, 13, 14 · 2025-07-18: pp. 28, 29, 30, 31 · 2025-07-19: pp. 20, 21, 22, 23
+2025-01-05: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-01-10: pp. 2, 3, 4 · 2025-01-13: pp. 8, 9, 21, 23 · 2025-01-14: pp. 20, 21 · 2025-03-17: pp. 18, 19, 20, 35, 36 · 2025-03-18: pp. 34 · 2025-07-17: pp. 10, 11, 12, 13, 14 · 2025-07-18: pp. 28, 29, 30, 31 · 2025-07-19: pp. 20, 21, 22, 23 · 2025-10-31: pp. 17, 18, 19, 20

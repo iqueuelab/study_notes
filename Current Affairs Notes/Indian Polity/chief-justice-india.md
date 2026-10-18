@@ -18,7 +18,11 @@
 - **Justice Bhushan Ramkrishna Gavai** took oath as **52 nd CJI on 14 May 2025**, following Sanjiv Khanna; President Droupadi Murmu administered the oath. The appointment was notified on 30 April, effective 14 May. Separate notification from assumption of office. [President’s ceremony](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128561&lang=2&reg=48).
 - Source describes a roughly six-month tenure; this is a dated transition, not the identity of the current CJI indefinitely. Appointment/removal/roster/RTI principles and source errors are covered above.
 
+## October 2025: succession recommendation
+- Issue reports **CJI B. R. Gavai recommended Justice Surya Kant as successor/53rd CJI**. This is the recommendation stage; presidential appointment, notification and oath are separate. The full appointment method, qualifications, Judges Cases and roster role already appear above.
+- **Article 124(6)** governs the SC judge's oath; **Article 128** permits attendance of eligible retired judges with required consents, not a unilateral permanent CJI appointment. **Article 130** governs another SC seat with President's approval.
+- Reaffirm corrected removal threshold: each House's **majority of total membership plus at least two-thirds present and voting**, address in the same session, proved misbehaviour/incapacity and presidential order. The PDF's bare 'two-thirds majority' omits an essential condition.
 
 ## PDF coverage
 
-2025-04-30: pp. 6, 7, 8, 9, 10 · 2025-05-15: pp. 3, 4, 5, 6, 7, 8, 31, 32
+2025-04-30: pp. 6, 7, 8, 9, 10 · 2025-05-15: pp. 3, 4, 5, 6, 7, 8, 31, 32 · 2025-10-29: pp. 16, 17, 18, 19

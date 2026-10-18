@@ -41,6 +41,12 @@
 - Reject the issue's **“2010 tsunami”** shorthand: the major disaster discussed in the existing Nicobar notes is the **2004 Indian Ocean tsunami**. Its **one million versus one lakh trees** statements are internally inconsistent; retain earlier document-qualified forest figures rather than invent a reconciled total.
 - Evaluate commercial risk separately from defence aims, alongside cumulative EIA, disaster resilience, Shompen/Nicobarese rights, turtle nesting and biodiversity. The editorial's claims of hasty clearance or unavoidable ecological collapse are arguments requiring evidence, not final judicial or engineering findings. **Articles 48A/51A(g)**, environmental protection and applicable forest-rights duties inform the assessment; a blue-economy vision is not a substitute for statutory appraisal.
 
+## October 2025: Centre's mitigation case before NGT
+- The Centre defended the integrated project before NGT, claiming awareness of ecological impacts, no Nicobarese/Shompen displacement and conservation/monitoring until **2052**. These are government submissions, not a final judicial finding that no rights or biodiversity harm will occur.
+- Source now reports a **₹92,000-crore** project estimate; earlier ₹72,000 crore figures remain dated estimates rather than silently overwritten. It describes roughly **160 km²**, including **130 km² forest**, and claims **18% of Great Nicobar/1.82% of the archipelago**. Geographic percentage does not measure ecological or cultural impact proportionately.
+- Proposed mitigation: relocation of approximately **16,000 of 20,668 coral colonies**, monitoring of others, protection of turtle nesting and megapode habitat. Source reports approximately **30 of 51 active megapode nests affected**. These are submitted counts/plans, not demonstrated survival or successful replacement of habitat.
+- Petitioners contest surveys, tribal impacts, ICRZ/EIA compliance and disaster assessment. Clearance conditions, cumulative impacts, enforceable monitoring and tribal rights require scrutiny separately; conserve–monitor–translocate promises cannot alone prove that old-growth forest or endemic ecology is replaceable.
+
 ## PDF coverage
 
-2025-01-06: pp. 4, 5, 6, 7, 8, 9 · 2025-05-04: pp. 10, 11, 12, 13, 14, 15, 16 · 2025-07-07: pp. 23, 24 · 2025-08-23: pp. 8, 9, 10, 11 · 2025-10-25: pp. 12, 13, 14, 15, 16
+2025-01-06: pp. 4, 5, 6, 7, 8, 9 · 2025-05-04: pp. 10, 11, 12, 13, 14, 15, 16 · 2025-07-07: pp. 23, 24 · 2025-08-23: pp. 8, 9, 10, 11 · 2025-10-25: pp. 12, 13, 14, 15, 16 · 2025-10-31: pp. 8, 9, 10, 11

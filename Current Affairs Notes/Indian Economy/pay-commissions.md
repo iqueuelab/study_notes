@@ -22,6 +22,12 @@
 - Source prior 7th CPC cost **₹1 lakh crore in 2016–17**, revenue-expenditure growth **4.8% → 9.9%**, dated estimates not the new Commission's cost.
 - Employee bodies raise healthcare/education/connectivity and “living wage/pension”; source **BMS, CSS Forum, AIDEF** stakeholders. Consultation with Union/States and other stakeholders; States/PSUs do not automatically implement all central recommendations.
 
+## 28 October 2025: terms of reference approved
+- Temporary **8th Central Pay Commission** structure: chairperson, part-time member and member-secretary. Source names **Justice (retired) Ranjana Prakash Desai**, **Prof. Pulak Ghosh** and **Pankaj Jain**, respectively. Reviews central pay/allowances, retirement benefits and service conditions; recommendations remain advisory until government action.
+- **18 months runs from constitution**, not automatically January's announcement. Reject the text's 'mid-2026 report' calculation. Official ToR refers to the usual decennial pattern and normally expected effect from **1 January 2026**; this does not guarantee a report, notification or payment by that date. [Cabinet ToR](https://www.pib.gov.in/PressReleaseIframePage.aspx?LID=1&PRID=2183290&RegID=3&lang=2&reg=48).
+- ToR considerations: fiscal prudence/economy, resources for development/welfare, unfunded non-contributory pensions, State finances and comparison with PSU/private employment conditions. States' adoption can differ; no approved fitment factor or uniform salary increase follows from ToR approval.
+- **Article 309** concerns recruitment/service rules; the Constitution does not require a pay commission every ten years. Existing notes retain earlier commission constitution years and fiscal/employee-welfare trade-offs.
+
 ## PDF coverage
 
-2025-01-17: pp. 26, 27, 28, 29
+2025-01-17: pp. 26, 27, 28, 29 · 2025-10-29: pp. 5, 6, 7

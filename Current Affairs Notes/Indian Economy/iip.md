@@ -11,6 +11,10 @@
 - **IIP +4.0% year-on-year**, against July's then quick estimate +3.5%; **mining +6.0%, manufacturing +3.8%, electricity +4.1%**. Index **151.7**, versus August 2024 **145.8**, on **2011–12 = 100**. Subject to revision; this release reports August output, not September output.
 - Consumer non-durables **−6.3%**, infrastructure/construction goods **+10.6%**: overall growth can coexist with weakness in consumption segments. The clipping's “slows to 4%” should not be read as a fall from July's 3.5%. [MoSPI release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2172702&lang=2&reg=48).
 
+## September 2025 output: October release context
+- Embedded clipping reports **IIP growth at 4% in September**. This is a **year-on-year rate for September output**, not a 4% index level or October production. Retain as the issue's reported quick estimate, subject to revision.
+- The remaining two-page explainer repeats existing volume-index, NSO/MoSPI, mining/manufacturing/electricity and **2011–12 source base** notes. Index **116** compares with base-year output; positive index value does not prove current growth, and IIP is not a direct price/inflation index.
+
 ## PDF coverage
 
-2025-08-29: pp. 10, 11, 12 · 2025-09-30: pp. 1, 2
+2025-08-29: pp. 10, 11, 12 · 2025-09-30: pp. 1, 2 · 2025-10-29: pp. 1, 2

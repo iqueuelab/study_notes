@@ -10,6 +10,11 @@
 - **2019 PYQ: 3 only (c)** in the supplied key. Read its precise wording: it does not justify the source's broad claim that nonlisted wetlands lack protection. **2010 Wetlands Rules**, issued under Environment (Protection) Act 1986, included authority-determined drainage/catchment areas; **2017 Rules** superseded them. Statutory notification is distinct from a Ramsar recommendation and present rule coverage.
 - Embedded comparative graphics recall **Khichan/Menar (Rajasthan), Sakkarakottai/Therthangal (Tamil Nadu), Khecheopalri (Sikkim), Udhwa (Jharkhand)**; these are earlier additions, not six additional October designations. Oxbow formation: meander neck cut-off → abandoned curved lake.
 
+## Gogabil: 94th Indian site, announced 30 October 2025
+- **Gogabil Lake (also written Gogabeel), Katihar, Bihar, Ramsar site 2579**: Secretariat announcement **30 October 2025**, correcting the issue's November declaration label. An **oxbow wetland between Ganga and Mahananda** that connects to both in floods; its community-managed lake is Bihar's first Community Reserve. [Ramsar Secretariat](https://www.ramsar.org/news/india-names-its-94th-wetland-international-importance).
+- Wintering birds on the **Central Asian Flyway**, including **Vulnerable common pochard**; **Vulnerable Wallago attu catfish** breeds here. Fishing, cattle use and irrigation coexist with conservation; catchment fertilisers/pesticides threaten ecological character. Community management requires sustainable harvesting, pollution control and hydrological protection.
+- Correct the issue's Bihar list: **Kabar Tal/Kanwar Lake are the same site**, not two. Six sites at this snapshot: **Kabar Tal, Nagi, Nakti, Gokul Jalashay, Udaipur Jheel and Gogabil**. **Baraila is not one of these six**; Gokul Jalashay is in **Buxar**, not East Champaran. Do not reproduce stale Tamil Nadu totals or unsupported “India third globally” ranking. **94 is an issue-era count**, not a timeless present total.
+
 ## PDF coverage
 
-2025-10-02: pp. 8, 9, 10, 11, 12
+2025-10-02: pp. 8, 9, 10, 11, 12 · 2025-11-03: pp. 13, 14, 15, 16

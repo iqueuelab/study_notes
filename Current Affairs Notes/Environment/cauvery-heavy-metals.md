@@ -1,0 +1,12 @@
+# Cauvery fish: heavy metals and ecological risk
+
+## November 2025: sediment and fish contamination
+- Issue reports Bharathidasan University work sampling **18 sediment and 10 fish locations**, **August 2023–February 2024**, examining **Cr, Cd, Cu, Pb and Zn** in Cauvery sediments/fish organs. It reports Cd/Pb exceedances in some species and differing concentrations in muscle, liver and gills. The printed **August 2024 publication** is not accepted as settled: the paper was published **14 August 2025**, **Environmental Earth Sciences 84, article 489**. Retain sampling period separately. Its abstract reports mean sediment metal concentrations within sediment guidelines, while some fish risk indices exceeded thresholds; contamination is not uniformly above limits everywhere. [Original study](https://link.springer.com/article/10.1007/s12665-025-12492-x).
+- **Bioaccumulation:** uptake exceeds elimination within an organism over time. **Biomagnification:** concentration rises across trophic levels; it must be demonstrated for the chemical/food web, not assumed for every metal from organ accumulation alone. Risk depends on metal species, concentration, edible tissue, dose, frequency and consumer vulnerability.
+- **Igeo** compares sediment concentration with geochemical background; **CF** contamination factor; **CD** contamination degree; **PLI** integrated pollution load; **PERI** potential ecological risk combines contamination with toxicity weighting. Ecological indices are not clinical diagnoses or direct estimates of each person's disease probability.
+- Potential inputs: industrial effluent (textiles, tanning, electroplating), agricultural runoff, sewage and natural geological weathering. Trace amounts of essential **Cu/Zn** differ from harmful excess; chromium toxicity depends on chemical form, especially **Cr(VI)**. Cd can damage kidneys/bone, Pb neurodevelopment; metal-specific carcinogenicity should not be flattened into one universal label.
+- Monitor water/sediment/edible tissues, control discharge, strengthen treatment/enforcement and assess basin-wide exposure and fishers' livelihoods. The issue's **250 g twice weekly “safe” intake is not a universal health advisory**: species/site-specific measurements, assumptions and vulnerable groups matter. The accompanying **2013 drinking-water PYQ answer (c): arsenic, fluoride, uranium** recalls recognised contaminants; it does not establish that formaldehyde can never pollute water. Already present in Environment PYQ bank.
+
+## PDF coverage
+
+2025-11-04: pp. 8, 9, 10, 11

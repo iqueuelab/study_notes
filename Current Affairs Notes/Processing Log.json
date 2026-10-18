@@ -5384,27 +5384,91 @@
     {
       "date": "2025-10-29",
       "pdf": "2025/10-October/2025-10-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7a7352802b6e7d6bb7f5436874a6cf1a236fb2af69699ed725a6da85c7e73feb",
+      "pages": 22,
+      "topic_ids": [
+        "burevestnik",
+        "chief-justice-india",
+        "fertiliser-subsidy",
+        "hal-uac-sj100",
+        "iip",
+        "mospi-data",
+        "pay-commissions",
+        "us-china-chimerica"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-30",
       "pdf": "2025/10-October/2025-10-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d8beca8790deceaebc8356a36c13ab24e1f3bad230fce48151d8c89948c33f56",
+      "pages": 16,
+      "topic_ids": [
+        "frog-defence",
+        "india-norway-maritime",
+        "manufacturing",
+        "minister-detention-bill",
+        "sugar-industry"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-31",
       "pdf": "2025/10-October/2025-10-31.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "015425d7b659b3e7ef79f99cae81400eea9d158764069f48e3b74f4aecece014",
+      "pages": 20,
+      "topic_ids": [
+        "ai-energy-footprint",
+        "chabahar",
+        "cheetah",
+        "great-nicobar",
+        "her2-subcutaneous-treatment",
+        "india-cyprus-croatia",
+        "renewable-energy",
+        "small-modular-reactors"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-03",
       "pdf": "2025/11-November/2025-11-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "04c9934fc94e811dc8fd0e0238ae39a68a3449c8d969367fa23849b2f76e28a3",
+      "pages": 18,
+      "topic_ids": [
+        "bihar-ramsar-sites",
+        "cms-03",
+        "karnataka-water-commission",
+        "nipah",
+        "rowmari-donduwa",
+        "trishul-2025"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-04",
       "pdf": "2025/11-November/2025-11-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "30771ff2eea87494175daea192dbf705a26d78db3c2942b427e3c5dfc83acdc7",
+      "pages": 23,
+      "topic_ids": [
+        "bbnj",
+        "cauvery-heavy-metals",
+        "cloud-seeding",
+        "food-systems-nutrition",
+        "i4c",
+        "marsupials",
+        "science-budget"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-05",
@@ -6928,7 +6992,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-10-29",
+  "next_pdf": "2025-11-05",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7030,6 +7094,16 @@
       "date": "2025-10-26",
       "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-10-26.pdf in collection. All 16 pages of physical 2025-10-25.pdf reviewed; its first-page banner reads 24th Oct. 2025 (recorded discrepancy), with no 25–26 combined issue or identified 26 October section. First-page image of next file 2025-10-27.pdf explicitly reads 27th Oct. 2025, not 26–27. Embedded earlier articles do not establish a replacement issue for 26 October."
+    },
+    {
+      "date": "2025-11-01",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone 2025-11-01.pdf in source collection. Physical October 30 and October 31 PDFs have single-date banners and no identified November 1 section. Adjacent November 3 page-one banner reads 3rd Nov. 2025 only, not a combined November 1–3 issue; no replacement source can be established."
+    },
+    {
+      "date": "2025-11-02",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone 2025-11-02.pdf in source collection/jobs. Physical 2025-11-03.pdf p1 banner explicitly says 3rd Nov. 2025 only; it does not claim combined Nov1–3 coverage. Nov2 launch news in Nov3 issue does not replace a missing Nov2 issue."
     }
   ]
 }

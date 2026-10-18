@@ -21,6 +21,13 @@
 - **2019 sea–country PYQ: (b), 1, 3 and 4 only**: Adriatic–Albania, Caspian–Kazakhstan and Mediterranean–Morocco correct; Croatia does not border the Black Sea, and Syria borders the Mediterranean rather than Red Sea.
 - Caspian littoral: Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan. Black Sea littoral: Türkiye, Bulgaria, Romania, Ukraine, Russia, Georgia. Red Sea also includes **Djibouti**, missing from the source list.
 
+## October 2025: Cyprus and proposed corridor participation
+- Embedded reporting says Cyprus is ready to be part of **IMEC**; this is an expressed offer, not proof it is an original signatory or an operating corridor endpoint.
+- Map recall: northeastern Mediterranean, south of Türkiye, west of Syria/Lebanon; **Nicosia**, **Troodos/Mount Olympus (1,952 m)**, third-largest Mediterranean island after Sicily/Sardinia. Mediterranean climate: hot dry summers and mild rainy winters.
+- Greek/Turkish official languages; EU accession **1 May 2004**, euro **2008**, independence **1960**. Correct source's blanket Crown Colony 1878–1960: British administration began 1878, annexation 1914, Crown Colony status 1925. Presidential republic; service economy with tourism, finance and shipping.
+- **1974 coup and Turkish military intervention** entrenched division; UNFICYP patrols the buffer zone/Green Line. The self-declared northern entity is recognised only by Türkiye; this does not remove the internationally recognised Republic's sovereignty claim. Property, security, governance and recognition complicate settlement.
+- UK sovereign base areas **Akrotiri and Dhekelia** are distinct from Cyprus being a NATO member. India's relations date from 1960 with Commonwealth/non-aligned history; shipping, investment, education and clean energy offer cooperation.
+
 ## PDF coverage
 
-2025-06-16: pp. 22, 23, 24, 25, 26, 27 · 2025-06-19: pp. 9, 10, 11, 12, 13
+2025-06-16: pp. 22, 23, 24, 25, 26, 27 · 2025-06-19: pp. 9, 10, 11, 12, 13 · 2025-10-31: pp. 6, 7, 8

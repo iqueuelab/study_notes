@@ -14,6 +14,11 @@
 ## July policy connection
 - Source links AI expansion in **Bengaluru/Hyderabad** with local water and power stress; incorporate cooling-water demand, location/grid constraints and environmental disclosure into AI planning. Avoid interpreting every data centre's total demand as AI-only consumption or claiming no Indian environmental-policy discussion exists.
 
+## October 2025: data-centre power density
+- Source compares enterprise racks **15–20 kW** with AI racks **80–150 kW**: indicative power-density ranges, not proof all AI centres use exactly five to seven times the electricity. Facility utilisation, cooling, efficiency and workload affect annual demand.
+- India **1.4 GW** data-centre capacity and potential fivefold growth by 2030 are source-era estimate/projection, not delivered generation or a measured AI-only load. Announced Visakhapatnam/Jamnagar hubs are not proof all capacity is operational.
+- Retain the IEA baseline already explained above rather than the PDF's inconsistent 460 TWh/2024 and 1,000–1,300 TWh range without matched scenarios. Data centres are significant growing users, not established as the world's largest electricity-consuming sector. Natural gas backup emits carbon; fusion is not a commercially available near-term solution.
+
 ## PDF coverage
 
-2025-05-06: pp. 11, 12, 13, 14 · 2025-07-03: pp. 6
+2025-05-06: pp. 11, 12, 13, 14 · 2025-07-03: pp. 6 · 2025-10-31: pp. 14, 15, 16, 17

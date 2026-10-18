@@ -15,7 +15,12 @@
 - Grassland, dry deciduous forest and riverine patches offer a varied landscape. Assess prey density, enclosure/free-ranging transitions, veterinary capacity, connectivity and community impacts; listing chital, chinkara, nilgai or wild pig does not establish adequate prey quantitatively.
 - Source repeat **Schedule II** is incorrect: cheetah is in Indian **Schedule I**. December 2024 survival counts remain dated snapshots; do not use them as April 2025 totals. Imported founders/cubs and future planned animals are separate categories.
 
+## October 2025: Nauradehi announced as another site
+- Madhya Pradesh's CM announced **Nauradehi** as the State's proposed third cheetah home after Kuno and Gandhi Sagar, with further animals expected from Namibia. This is an announcement, not evidence arrivals or a self-sustaining population had already occurred.
+- Nauradehi's roughly **1,200 km²** dry-deciduous/grassland/scrub landscape in central MP is the source's sanctuary-scale description, not a measurement of the entire wider tiger-reserve complex. Prey assessment, veterinary capacity, dispersal monitoring and community participation remain essential.
+- A managed **metapopulation** links breeding populations and genetic management across sites; multiple enclosures alone do not guarantee genetic viability. The issue's mortality count is an older, incompletely defined snapshot.
+- Associated report: six crocodiles (four females, two males) from **Van Vihar, Bhopal**, released in **Indira Sagar backwaters, Narmada**. The typed explanation calls them “likely mugger”; do not convert that uncertain identification into a confirmed species record.
 
 ## PDF coverage
 
-2025-02-20: pp. 5, 6, 7 · 2025-03-28: pp. 5, 6, 7 · 2025-03-29: pp. 5, 6, 7 · 2025-04-21: pp. 11, 12, 13, 14
+2025-02-20: pp. 5, 6, 7 · 2025-03-28: pp. 5, 6, 7 · 2025-03-29: pp. 5, 6, 7 · 2025-04-21: pp. 11, 12, 13, 14 · 2025-10-31: pp. 3, 4, 5

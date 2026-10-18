@@ -32,6 +32,11 @@
 - The repeated ₹1-lakh-crore RDI approval, ₹20,000-crore FY2025–26 allocation, TRL/valley-of-death and governance discussion are already covered. It is not support confined to exactly TRL 4 or a universal basic-research grant.
 - **2015 NIF PYQ: statement 1 only (a)**. NIF is an autonomous DST body promoting grassroots technological innovation and outstanding traditional knowledge; it is not a programme for elite international scientific collaboration. Honey Bee Network is a related grassroots network, not simply a NIF-owned flagship.
 
+## ESTIC 2025 and research finance
+- Correct the source repeatedly: first **Emerging Science, Technology and Innovation Conclave**, **3–5 November 2025**, Bharat Mandapam, New Delhi, not November 2024. It brings academia, industry, researchers and government together across **11 themes**, including AI, quantum, agriculture, health, energy/climate, space, advanced manufacturing and blue economy. [PMO address](https://www.pmindia.gov.in/en/news_updates/pm-addresses-the-emerging-science-technology-and-innovation-conclave-2025/).
+- The **₹1 lakh crore Research, Development and Innovation (RDI) Scheme Fund** launched at ESTIC supports private-sector research; it should not be renamed the entire **ANRF budget**. Conclave participation/funding announcements are different from realised research outputs. The issue's R&D doubling, patent growth and **6,000 deeptech start-ups** are speech-era aggregates with differing bases; avoid recasting them as verified 2014–2024 series without definitions.
+- Address links scientific innovation to nutrition, low-cost fertilisers/soil health, genomic diversity and precision medicine, affordable clean-energy storage, battery alternatives and recycling. **Hydrogen fuel cells are electrochemical energy-conversion devices, not simply sodium-ion-type batteries.** Commercialisation needs evidence, skills, accessible finance, academia–industry links and public-interest research support. The issue's claim that ESTIC legally replaces the Indian Science Congress is not established by the official programme.
+
 ## PDF coverage
 
-2025-02-11: pp. 15, 16, 17 · 2025-02-12: pp. 17, 18, 19, 20 · 2025-03-07: pp. 4, 5, 6 · 2025-07-02: pp. 26, 27 · 2025-07-03: pp. 20, 21 · 2025-09-27: pp. 8, 9, 10, 11
+2025-02-11: pp. 15, 16, 17 · 2025-02-12: pp. 17, 18, 19, 20 · 2025-03-07: pp. 4, 5, 6 · 2025-07-02: pp. 26, 27 · 2025-07-03: pp. 20, 21 · 2025-09-27: pp. 8, 9, 10, 11 · 2025-11-04: pp. 4, 5, 6, 7

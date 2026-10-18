@@ -19,6 +19,11 @@
 - Responses discussed: negotiate clear relief, protect humanitarian connectivity, phase investment and diversify corridors. China–Iran cooperation and India–US tensions are context; the source's $400-billion China–Iran claim is a prospective framework figure, not verified disbursed investment.
 - PYQ recall: **2017 Chabahar—(c), access to Afghanistan/Central Asia without Pakistan; 2016 BRI—(d), China**. Silk Road Economic Belt is the land component; Maritime Silk Road the sea component.
 
+## October 2025: six-month sanctions exemption
+- The embedded newspaper headline reports India secured a **six-month US sanctions exemption** for Chabahar, announced by MEA on **30 October 2025**. This new development qualifies the typed notes, which repeat September's withdrawal as though no subsequent relief occurred. [Contemporaneous MEA announcement reporting](https://indianexpress.com/article/india/india-six-month-us-sanctions-waiver-chabahar-port-trump-10335924/).
+- Temporary relief supports continuity of Shahid Beheshti terminal operations and Afghan/Central Asian connectivity while leaving renewal, transaction-specific compliance, banking and insurance uncertainty. It does not create permanent immunity or establish that all September risks have disappeared.
+- Geography, 2024 ten-year agreement, ₹200/₹400 crore source investment and 43% historical vessel-traffic figure repeat earlier coverage. **2017 Chabahar (c)** and **2016 BRI (d)** are already in the common Prelim bank; retain their existing full options.
+
 ## PDF coverage
 
-2025-02-09: pp. 9, 10, 11, 12, 13 · 2025-09-19: pp. 9, 10, 11
+2025-02-09: pp. 9, 10, 11, 12, 13 · 2025-09-19: pp. 9, 10, 11 · 2025-10-31: pp. 1, 2, 3

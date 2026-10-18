@@ -14,7 +14,11 @@
 - **AgI is an ice-nucleating agent** in supercooled clouds, rather than every seeding agent functioning identically as a condensation nucleus. Hygroscopic salts encourage droplet growth; dry ice promotes freezing. Intended pollution washout depends on actual rain and does not remove emission sources.
 - Distinguish weather modification from **SAI solar intervention/cirrus radiative thinning**; atmospheric layer, objective and evidence differ.
 
+## Delhi trials: October 2025, not October 2024
+- Source clipping concerns **28 October 2025 Delhi/IIT Kanpur trials**; its expanded notes repeatedly misdate them **2024**. Issue reports no substantial rain and limited pollution relief. Failure to produce rain under unsuitable cloud conditions does not prove every seeding programme fails; success elsewhere does not establish Delhi winter effectiveness.
+- **CAIPEEX (IITM Pune, Ministry of Earth Sciences)** began in **2009**, with a later **2017–19 Solapur** campaign. IITM reports **46 ± 13% at some locations**, averaging **18 ± 2.6% over 100 km² downwind** in the rain-shadow region. The issue also cites **867 million litres additional water**. These are study-specific estimates with different denominators, not an automatic statewide/winter rainfall guarantee. [IITM results](https://www.tropmet.res.in/399-news_details).
+- Existing notes retain cloud suitability, hygroscopic versus ice-nucleating agents, attribution and WMO limits. Do not infer that CAIPEEX proved only monsoon clouds anywhere can ever be seeded. Historical claims such as a precise first Delhi failure date need primary documentation; the source's “William Schaefer” should be **Vincent Schaefer**. Pollution control requires emissions reduction even if rain temporarily washes particles out.
 
 ## PDF coverage
 
-2025-05-08: pp. 17, 18, 19 · 2025-06-10: pp. 38, 39 · 2025-06-11: pp. 29, 30
+2025-05-08: pp. 17, 18, 19 · 2025-06-10: pp. 38, 39 · 2025-06-11: pp. 29, 30 · 2025-11-04: pp. 15, 16, 17, 18

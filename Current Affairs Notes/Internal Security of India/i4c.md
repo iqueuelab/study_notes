@@ -28,6 +28,12 @@
 - Break contact, verify agencies independently and report promptly through **1930/cybercrime.gov.in**; preserve call, account and transaction evidence. Never transfer funds merely to “prove innocence”. Isolation, fear and social stigma are vulnerabilities exploited by criminals.
 - I4C supports interstate investigation, threat analytics, training and bank/platform coordination; it does not supplant state police jurisdiction. The clipping reports a life sentence in one case, not a universal statutory penalty for every online fraud.
 
+## November 2025: Supreme Court attention to digital-arrest fraud
+- The issue reports Supreme Court concern over **more than ₹3,000 crore** lost and an **Ambala elderly couple** targeted using fake police/judicial identities. Treat this as the hearing's reported aggregate, without assuming a defined annual loss series or that every victim was elderly. Its **November 2024** context label is wrong: the suo motu case arose from a **21 September 2025 complaint** about fraud between **3–16 September 2025**. [Supreme Court, 17 October 2025 order](https://api.sci.gov.in/supremecourt/2025/59769/59769_2025_2_7_65003_Order_17-Oct-2025.pdf).
+- Fake warrants/courtrooms, video calls, voice cloning and deepfakes exploit authority/fear; threatened “bail” or “clearance” payments are extortion, not valid digital arrest. Cross-border scam compounds can combine money laundering with trafficking/forced criminality; affected Indians abroad may also be victims.
+- As of this issue, **stronger orders/CBI involvement are under consideration**; do not import a later final investigation order. Existing criminal-law provisions cover cheating, extortion, forgery/conspiracy alongside relevant IT Act provisions: AI involvement does not mean there is no applicable criminal law. DPDP legislation is not a substitute for fraud investigation.
+- Revision priorities: rapid bank/police/platform coordination, fund tracing and evidence preservation; specialised investigators; victim-sensitive support; cross-border cooperation and prevention of deceptive overseas recruitment. Existing notes retain **1930/cybercrime.gov.in**, I4C functions and independent verification advice.
+
 ## PDF coverage
 
-2025-04-28: pp. 8, 9, 10, 11 · 2025-06-27: pp. 1 · 2025-07-19: pp. 11, 12, 13, 14
+2025-04-28: pp. 8, 9, 10, 11 · 2025-06-27: pp. 1 · 2025-07-19: pp. 11, 12, 13, 14 · 2025-11-04: pp. 1, 2, 3, 4

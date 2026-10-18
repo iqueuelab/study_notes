@@ -30,6 +30,10 @@
 - **UK date correction known before this issue:** legal TV-before-9pm/paid-online less-healthy-food advertising restrictions had been deferred to **5 January 2026**; industry voluntary compliance was expected from **1 October 2025**. Source presents October as the legal start. [Government update, 4 June 2025](https://www.gov.uk/government/collections/less-healthy-food-or-drink-advertising-and-promotions-restrictions).
 - Mains structure: economic gains → food-environment/inequality risks → existing regulatory gaps → proportionate health safeguards. Printed 250-word India–UK question is contemporary practice, with no verified exam year.
 
+## November 2025: nutrition as a scientific priority
+- ESTIC address urges moving beyond grain sufficiency toward **safe, diverse, micronutrient-rich diets**, through biofortification, soil health/affordable fertilisers and climate-resilient agriculture. Biofortification raises nutrient content through breeding/biotechnology; it differs from adding nutrients during processing. Grain availability alone does not establish household affordability, absorption or nutrition security.
+- Existing notes retain **NFHS-5 (2019–21)** stunting/wasting/underweight and women's anaemia: these are survey-period measures, not November 2025 prevalence. Personalised genomics may help disease-risk assessment, but it cannot replace diverse diets, maternal care, WASH and equitable access. Source's named crop nutrient labels require varietal confirmation before being used as exact examples.
+
 ## PDF coverage
 
-2025-05-10: pp. 7, 8, 9 · 2025-05-17: pp. 12, 13, 14, 15 · 2025-07-25: pp. 5, 6, 7, 8, 9, 10, 11
+2025-05-10: pp. 7, 8, 9 · 2025-05-17: pp. 12, 13, 14, 15 · 2025-07-25: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-11-04: pp. 4, 5, 6, 7
