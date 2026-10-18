@@ -61,6 +61,18 @@
         "d": "a hand-painted decorative silk cloth in North Western India"
       },
       "answer": "a"
+    },
+    {
+      "question": "With reference to the famous Sattriya dance, consider the following statements:\n1. Sattriya is a combination of music, dance and drama.\n2. It is a centuries-old living tradition of Vaishnavites of Assam.\n3. It is based on classical Ragas and Talas of devotional songs composed by Tulsidas, Kabir and Mirabai.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b",
+      "year": 2014,
+      "chapter": "Pulikkali, Onam and Kerala folk traditions"
     }
   ]
 }

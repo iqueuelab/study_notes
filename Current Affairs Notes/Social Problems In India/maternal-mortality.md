@@ -26,6 +26,11 @@
 - Strengthen antenatal registration/nutrition, emergency obstetric first-referral units and specialist teams, maternal-death review and postpartum mental-health care. The article proposes **four FRUs per two million population**; its **66% specialist vacancy** figure lacks a current reference period and is not a July 2025 census.
 - **Kerala Confidential Review of Maternal Deaths** illustrates learning from each death. Uterine artery clamps/suction techniques are clinical tools requiring trained teams. **JSSK** provides free public-facility maternity/newborn services; **PMMVY**'s second-child benefit is conditional on the child being a girl, not unconditional payment for every second birth.
 
+## September 2025: Kerala SRS rise
+- The embedded Kerala clipping reports **MMR 18 (2020–22) → 30 (2021–23)** per 100,000 live births; Kerala and Andhra Pradesh share the lowest ratio in the newer bulletin. National **SRS 2021–23 MMR = 88**, unchanged from 2020–22. These multi-year SRS estimates differ from the **UN-modelled India 2023 estimate of 80** already covered. [Registrar General's bulletin](https://censusindia.gov.in/nada/index.php/catalog/46177/download/50425/SRS_MMR_Bulletin_2021_2023.pdf).
+- The clipping attributes concern to **97 COVID-related maternal deaths in Kerala in 2021** and falling live births. These are the article's reported explanations; a smaller live-birth denominator can raise a ratio even without a proportional rise in deaths. Overlapping three-year windows are not independent annual observations.
+- The second embedded article quotes an older **SRS 2019–21 ratio of 93**, not the September 2025 latest figure; its older State values should not overwrite the newer series. The supplied global trends, schemes and 2024 TFR explanation repeat existing notes.
+
 ## PDF coverage
 
-2025-05-09: pp. 3, 4, 5 · 2025-06-11: pp. 5, 6 · 2025-07-09: pp. 10, 11, 12
+2025-05-09: pp. 3, 4, 5 · 2025-06-11: pp. 5, 6 · 2025-07-09: pp. 10, 11, 12 · 2025-09-09: pp. 6, 7, 8

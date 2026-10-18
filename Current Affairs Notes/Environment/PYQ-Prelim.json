@@ -623,6 +623,18 @@
         "d": "a widespread, persistent and fatal disease among them"
       },
       "answer": "b"
+    },
+    {
+      "question": "The release of which one of the following into ponds and wells helps in controlling mosquitoes?",
+      "options": {
+        "a": "Crab",
+        "b": "Dogfish",
+        "c": "Gambusia fish",
+        "d": "Snail"
+      },
+      "answer": "c",
+      "year": 2008,
+      "chapter": "Gambusia: mosquito biocontrol and invasive-species risks"
     }
   ]
 }

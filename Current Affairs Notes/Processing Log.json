@@ -4662,7 +4662,18 @@
     {
       "date": "2025-09-09",
       "pdf": "2025/09-September/2025-09-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "efe33646f8905202ad6f71f316d682b95f98667d99dbbb7eae07ca26505ca519",
+      "pages": 10,
+      "topic_ids": [
+        "free-living-amoebae",
+        "gambusia",
+        "hilsa",
+        "maternal-mortality",
+        "pulikkali-onam"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-10",
@@ -6426,7 +6437,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-09-09",
+  "next_pdf": "2025-09-10",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

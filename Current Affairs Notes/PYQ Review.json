@@ -768,20 +768,7 @@
     },
     {
       "date": "2025-08-21",
-      "note": "Full ballistic/cruise 2023 and ISA 2016 questions added. Agni IV 2014 already exists in Internal Security common bank. Sattriya question is fully printed but source labels 2016; other records identify 2014, so held for primary-paper year verification rather than adding a known suspect year. Remaining questions are source practice."
-    },
-    {
-      "date": "2025-08-21",
-      "note": "Held full question: printed year 2016 conflicts with identification as 2014. Official old-paper endpoint redirected to homepage during review. Do not publish in either year until primary-paper confirmation.",
-      "printed_year": 2016,
-      "question": "With reference to the famous Sattriya dance, consider the following statements:\n1. Sattriya is a combination of music, dance, and drama.\n2. It is a centuries-old living tradition of Vaishnavites of Assam.\n3. It is based on classical Ragas and Talas of devotional songs composed by Tulsidas, Kabir, and Mirabai.\nWhich of the statements given above is/are correct?",
-      "options": {
-        "a": "1 only",
-        "b": "1 and 2 only",
-        "c": "2 and 3 only",
-        "d": "1, 2 and 3"
-      },
-      "answer": "b"
+      "note": "Full ballistic/cruise 2023 and ISA 2016 questions added. Agni IV 2014 already exists in Internal Security common bank. Sattriya question year resolved against official 2014 paper, question 83, page 36."
     },
     {
       "date": "2025-08-22",
@@ -858,6 +845,20 @@
     {
       "date": "2025-09-08",
       "note": "Pulses 2020 complete question/options already banked. Self-Respect founder clipping gives no year; unknown year flagged for review, not invented or banked. No dated Mains questions."
+    },
+    {
+      "date": "2025-09-09",
+      "note": "Sattriya source label 2016 corrected to 2014 after official UPSC GS Paper I physical page 36, question 83 verification by parent; complete question/options banked, supplied answer b. CDS 2020 Hilsa is outside CSE scope. Onam/PAM are unyearred practice, not PYQs; ignore phantom PAM statement 4. TFR 2024 complete question/options already banked. Gambusia 2008 complete new question/options added after subject-bank deduplication."
+    },
+    {
+      "date": "2025-09-10",
+      "note": "Tiwa, GERD, SAJEX and AdFalciVax are unyearred practice questions, not identifiable dated CSE PYQs; none banked. No dated Mains PYQ."
+    },
+    {
+      "date": "2025-09-11",
+      "note": "Rare-earth 2012 full three-statement stem is supplied but answer options absent; held for review, no reconstructed options. Launchers 2018 already banked with all statements/options. SSLV possible Mains and shipbuilding 250-word/15-mark question are undated coaching prompts, not authenticated PYQs; not banked.",
+      "question_held_for_review": "Recently, there has been a concern over the short supply of a group of elements called 'rare earth metals.' Why?\n1. China, which is the largest producer of these elements, has imposed some restrictions on their export.\n2. Other than China, Australia, Canada and Chile, these elements are not found in any country.\n3. Rare earth metals are essential for the manufacture of various kinds of electronic items and there is a growing demand for these elements.\nWhich of the statements given above is/are correct?",
+      "printed_year": 2012
     }
   ],
   "resolved": [
@@ -887,6 +888,21 @@
         "Financial Stability and Development Council statements"
       ],
       "verification": "Full wording/options compared with saved official UPSC2016GS-I physical PDFpage21,question56; answer2and3only(c)."
+    },
+    {
+      "date": "2025-08-21",
+      "note": "Held full question: printed year 2016 conflicts with identification as 2014. Official old-paper endpoint redirected to homepage during review. Do not publish in either year until primary-paper confirmation.",
+      "printed_year": 2016,
+      "question": "With reference to the famous Sattriya dance, consider the following statements:\n1. Sattriya is a combination of music, dance, and drama.\n2. It is a centuries-old living tradition of Vaishnavites of Assam.\n3. It is based on classical Ragas and Talas of devotional songs composed by Tulsidas, Kabir, and Mirabai.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b",
+      "resolution": "Verified official 2014 Prelims GS-I, question 83, physical page 36; source printed 2016 is wrong.",
+      "verified_year": 2014
     }
   ],
   "practice_reviewed": [
