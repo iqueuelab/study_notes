@@ -33,6 +33,12 @@
 - Existing notes cover caps, qualifying exemptions, relevant degree, LCA/wages and ordinary three-/six-year periods. **Not every H-1B employer must conduct a blanket labour-market shortage test** as the coaching text claims; special employer obligations differ. Permanent residence remains separately conditional.
 - Implications: higher deployment costs and uncertainty for Indian IT firms/skilled workers, talent circulation, remittances and bilateral confidence; firm responses and actual job displacement require evidence.
 
+## October 2025: scope clarification and legal challenge
+- The issue reports USCIS clarification that the **US$100,000 payment** does not apply to qualifying **in-country change-of-status, amendment or extension-of-stay** cases. This refines September's new-petition discussion; “every petition filed after 21 September must pay” is overbroad, as is “every extension is automatically exempt” without regard to location, eligibility and processing route.
+- Retain the **19 September proclamation /21 September effective date** and distinction between a petition, consular visa and admission. Existing valid visa holders were not automatically charged merely for international travel; ordinary travel/admission conditions still matter. This is the **October 2025 reported position**, not present immigration guidance. [Official proclamation](https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/).
+- US Chamber of Commerce challenged the measure; an allegation that it violates immigration law is not a final court judgment. Higher deployment costs and uncertainty affect Indian IT staffing, recruitment and margins; they may encourage local US hiring or offshore delivery, without proving a fixed number of jobs will disappear.
+- The source's roughly 70% Indian share and 7.3-lakh H-1B population are dated reported estimates. Company petition counts are not interchangeable with a count of all workers employed, new visas issued or Indians in America.
+
 ## PDF coverage
 
-2025-01-22: pp. 1, 2, 3, 4, 5, 17, 18 · 2025-01-26: pp. 7, 8 · 2025-01-29: pp. 1, 2, 3, 4, 5, 6 · 2025-03-05: pp. 1, 2, 3, 4, 5 · 2025-09-22: pp. 12, 13
+2025-01-22: pp. 1, 2, 3, 4, 5, 17, 18 · 2025-01-26: pp. 7, 8 · 2025-01-29: pp. 1, 2, 3, 4, 5, 6 · 2025-03-05: pp. 1, 2, 3, 4, 5 · 2025-09-22: pp. 12, 13 · 2025-10-22: pp. 1, 2, 3

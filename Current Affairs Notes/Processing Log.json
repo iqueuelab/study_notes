@@ -5287,32 +5287,99 @@
     {
       "date": "2025-10-22",
       "pdf": "2025/10-October/2025-10-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "292409e32038cd6b81a6a974ef41efb2aa0c4afd19624c65155d47965f982653",
+      "pages": 22,
+      "topic_ids": [
+        "china-india-ev-wto",
+        "delimitation-demography",
+        "domestic-workers",
+        "fatf",
+        "fdi-india",
+        "h1b"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-23",
       "pdf": "2025/10-October/2025-10-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0702d3fd04b99525929c957466ef3fa0e7da9247076615ca4d554d12a1cb5f0a",
+      "pages": 14,
+      "topic_ids": [
+        "critical-minerals",
+        "himachal-ecological-governance",
+        "india-us",
+        "ladakh-regulations"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-24",
       "pdf": "2025/10-October/2025-10-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2bc9de8ebc894e1fc1f98f4213dfe385bdc613a9f28d02b40c347499801144a9",
+      "pages": 10,
+      "topic_ids": [
+        "defence-industry",
+        "multilateralism",
+        "stubble-burning"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-25",
       "pdf": "2025/10-October/2025-10-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3c45519b71fbbfb55779d390497f7adf092092200b7073568d913ea49c3847f8",
+      "pages": 16,
+      "topic_ids": [
+        "cough-cold-fdc",
+        "great-nicobar",
+        "gyan-bharatam",
+        "sardar-patel"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_note": "Physical file 2025-10-25.pdf has first-page banner 24th Oct. 2025. Coverage uses physical filename date; no 25–26 combined banner. The 24 October MHA announcement supports the article context, not a correction of the printed banner."
     },
     {
       "date": "2025-10-27",
       "pdf": "2025/10-October/2025-10-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "53e9be9a4172bcb405522ff5cfaa299b588efc907bd0f05f843b0e8cb1965792",
+      "pages": 30,
+      "topic_ids": [
+        "asean",
+        "cms-03",
+        "hanle-dark-sky",
+        "kopi-luwak",
+        "rashtriya-vigyan-puraskar",
+        "western-ghats",
+        "whale-pump"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-28",
       "pdf": "2025/10-October/2025-10-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "45a07de725ba0564d57fb76f2741be6bcdffee2b084b40a686cd9145c1bd7781",
+      "pages": 21,
+      "topic_ids": [
+        "central-vigilance-commission",
+        "coffee",
+        "cyclones-montha",
+        "pulses-imports",
+        "security-dogs",
+        "yuge-yugeen-bharat"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-29",
@@ -6861,7 +6928,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-10-22",
+  "next_pdf": "2025-10-29",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -6958,6 +7025,11 @@
       "date": "2025-10-19",
       "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-10-19.pdf in supplied collection/jobs. Visually inspected first-page banner of 2025-10-20.pdf: it states only “20 Oct. 2025”, with no 19–20 combined-date claim. October 19 remains an unresolved source gap; no invented notes or inferred review."
+    },
+    {
+      "date": "2025-10-26",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone 2025-10-26.pdf in collection. All 16 pages of physical 2025-10-25.pdf reviewed; its first-page banner reads 24th Oct. 2025 (recorded discrepancy), with no 25–26 combined issue or identified 26 October section. First-page image of next file 2025-10-27.pdf explicitly reads 27th Oct. 2025, not 26–27. Embedded earlier articles do not establish a replacement issue for 26 October."
     }
   ]
 }

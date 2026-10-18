@@ -18,6 +18,13 @@
 - **Sixth Schedule applies to specified areas of Assam, Meghalaya, Tripura and Mizoram—not Nagaland**. Ladakh's LAHDCs are not Sixth Schedule councils; extension remains a demand. Standard council composition is up to **30 (26 elected, four nominated)** subject to specific constitutional exceptions; blanket 30-member claims should not erase special arrangements. District/regional councils have specified land, non-reserved-forest, custom and revenue powers, subject to constitutional procedures/Governor assent—not unlimited sovereignty.
 - **2015 PYQ (a)**: Fifth/Sixth Schedules protect ST interests. Already banked under scheduled-tribes-list; no duplicate.
 
+## October 2025: constitutional safeguards in dialogue
+- The issue reports renewed MHA dialogue with the **Leh Apex Body and Kargil Democratic Alliance**, with an offer of **Article 371-type safeguards**, while local representatives sought **statehood and Sixth Schedule inclusion**, detainees' release and compensation. Discussion/offering is not a completed constitutional amendment or grant of statehood.
+- **Articles 371–371J, Part XXI** contain different State-specific arrangements; there is no uniform package automatically barring all outsider land ownership or reserving all jobs. Article 371 itself concerns Maharashtra/Gujarat; **371A Nagaland /371G Mizoram** illustrate distinct customary-law/land safeguards. Extending a comparable constitutional arrangement to Ladakh would require appropriate legal change.
+- Existing Sixth Schedule notes explain specified autonomous-council powers and the four northeastern States. Its protections do not automatically attach to Ladakh's LAHDCs, and the source's “Article 371 limited /Sixth Schedule high” scale oversimplifies varied legal designs.
+- Ladakh became a **UT without legislature in 2019**; statehood would create a new legislative arrangement, not “restore” a former Ladakh Assembly. The source's **over 97% tribal** claim needs a defined population denominator and must not replace the earlier **84%** ST-share context as a verified Census figure.
+- Land, cultural identity, employment, ecological carrying capacity and representative government intersect with sensitive borders. Address these through credible consultation, accountable policing and legal clarity; demands for constitutional protection are not inherently separatist.
+
 ## PDF coverage
 
-2025-06-04: pp. 1, 2, 3, 4, 5, 6 · 2025-09-25: pp. 1, 2, 3, 4, 5, 6
+2025-06-04: pp. 1, 2, 3, 4, 5, 6 · 2025-09-25: pp. 1, 2, 3, 4, 5, 6 · 2025-10-23: pp. 1, 2, 3, 4

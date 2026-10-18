@@ -53,6 +53,13 @@
 - **60+ share 9.7%**, source rise **0.7 percentage points** over 2022; **Kerala 15%**, Assam/Jharkhand **7.6%**, Delhi **7.7%**. Ageing, uneven regional fertility, migration, pensions/healthcare and jobs/skills need differentiated policy. Below-replacement TFR does not imply immediate population decline because of momentum.
 - Revision denominators: **CBR/CDR per 1,000 population; IMR per 1,000 live births; maternal mortality ratio per 100,000 live births; natural increase CBR minus CDR**. SRS estimates, CRS registration and MCCD certified causes are distinct statistical systems. **2024 TFR PYQ (d)** already banked.
 
+## October 2025: interpreting period fertility
+- **TFR = five times the sum of five-year age-specific fertility rates /1,000** when ASFRs are births per 1,000 women. The conventional seven age groups span **15–49**. It summarises a hypothetical woman's births under current age-specific rates, not the observed completed fertility of today's young cohort.
+- **Tempo effect:** postponing births can depress period TFR even if completed lifetime births later recover. This possibility does not establish that India's measured 1.9 is wrong, nor that actual desired/completed fertility must be higher; those require cohort histories and survey evidence.
+- The source discusses **UNFPA State of World Population 2025's 1.9**. Keep it labelled separately from **SRS 2023's 1.9** and **NFHS-5 (2019–21)'s 2.0**; matching numbers do not make the sources/time periods identical. [UNFPA report](https://www.unfpa.org/sites/default/files/pub-pdf/swp25-layout-en-v250609-web.pdf).
+- Birth underreporting and age coverage are measurement issues to investigate, not proof of systematic falsification or grounds for the source's unsupported religious-country generalisation. National averages also conceal regional variation.
+- Younger cohorts, migration, employment and productivity affect population momentum and ageing. Better reproductive choice, childcare, women's work, skills, geriatric care and pension preparation are more useful than treating one annual indicator as a demand to raise births. Low fertility does not mechanically cause immediate population decline or economic stagnation.
+
 ## PDF coverage
 
-2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24 · 2025-02-27: pp. 31, 32, 33, 34 · 2025-02-28: pp. 17, 18, 19, 20, 21 · 2025-03-05: pp. 7, 8, 9, 10 · 2025-05-12: pp. 2, 3, 4 · 2025-06-08: pp. 1, 2, 3, 4 · 2025-08-16: pp. 10, 11 · 2025-09-05: pp. 1, 2, 3
+2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24 · 2025-02-27: pp. 31, 32, 33, 34 · 2025-02-28: pp. 17, 18, 19, 20, 21 · 2025-03-05: pp. 7, 8, 9, 10 · 2025-05-12: pp. 2, 3, 4 · 2025-06-08: pp. 1, 2, 3, 4 · 2025-08-16: pp. 10, 11 · 2025-09-05: pp. 1, 2, 3 · 2025-10-22: pp. 16, 17, 18

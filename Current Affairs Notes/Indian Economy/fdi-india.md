@@ -17,6 +17,13 @@
 - Routing exports through another jurisdiction does not itself change origin: substantial transformation and applicable origin rules matter. OECD's **15% global minimum tax** concerns an agreed framework for covered multinationals, not a universal tax imposed on all Indian overseas investment.
 - **PYQ recall:** 2020—FDI is largely non-debt-creating capital; 2011—FII expands capital availability generally while FDI targets particular enterprises/sectors. Existing notes explain routes, the **at least 10%** listed-company threshold and gross/net flows; repeated background adds no new annual series.
 
+## August 2025 flows, reported in October
+- Source RBI-data snapshot: **gross inflows US$6,049 million**, **repatriation/disinvestment $4,928 million**, **outward direct investment $1,736 million**, and **net FDI about −$616 million**. Rounded components yield −$615 million; the $1-million difference should be treated as rounding/reporting precision, not silently forced into an exact identity.
+- It reports gross inflows **−30.6% year-on-year /−45.5% month-on-month**, repatriation **−5.4% year-on-year /+30% month-on-month**, outward investment **−29.7% year-on-year**, and net FDI **−159% year-on-year**, crossing below zero. A fall exceeding 100% is possible when a formerly positive net flow becomes negative. May 2025 was another small net-outflow month in this series.
+- **April–August 2025:** net **$10.1 billion (+121% YoY)**; gross **$43.7 billion (+18.2%)**, repatriation **$21.2 billion (−6.1%)**, outward **$12.4 billion (+26%)**. A negative August does not reverse the positive five-month cumulative result.
+- Lower gross investment, mature-investment exits and Indian firms' overseas expansion affect net flows differently; the source's geopolitical/project-delay explanations are possible drivers, not causation established by the flow table. Existing notes retain sectoral policy qualifications and correct the repeated overbroad agriculture/railway claims.
+- **PYQ recall, already banked:** 2020 **(b)**—largely non-debt-creating capital; 2011 **(b)**—FII broadens capital availability while FDI targets enterprises/sectors. These contrasts are revision heuristics: FDI need not mean buying only newly issued shares, and portfolio investors need not have zero influence or universally short holding periods.
+
 ## PDF coverage
 
-2025-08-30: pp. 1, 2 · 2025-09-15: pp. 4, 5, 6, 7, 8, 9
+2025-08-30: pp. 1, 2 · 2025-09-15: pp. 4, 5, 6, 7, 8, 9 · 2025-10-22: pp. 3, 4, 5, 6, 7, 8

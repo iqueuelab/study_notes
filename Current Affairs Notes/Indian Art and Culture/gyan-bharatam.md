@@ -24,6 +24,12 @@
 - Digitisation supports cultural diplomacy, access and documentation of traditional knowledge; preventing misappropriation also requires provenance, prior-art documentation and applicable IP processes. Scanning alone does not create ownership or automatically defeat a patent.
 - Pages 4–6 repeat earlier mission background; existing notes retain corrections on the 75-year programme criterion, language versus script, Bakhshali dating and constitutional heritage provisions.
 
+## October 2025: proposed institutional partnerships
+- Issue describes an initial **20 institutional MoUs**, with around **30 more expected**; retain this as the article's announced partnership programme, not proof all later partnerships were already signed. Institutions named include **Asiatic Society, Kolkata; University of Kashmir, Srinagar; Hindi Sahitya Sammelan, Prayagraj; Government Oriental Manuscript Library, Chennai**.
+- **Cluster Centres** coordinate their own collections and **up to 20 partner institutions**; **Independent Centres** work on their own collections. A dedicated **Gyan Bharatam Cell** links institutional execution with mission guidance, monitoring, approved work plans, equipment and finance.
+- Reported release pattern **70% initially after annual-plan approval; 30% after progress and utilisation reporting**. Survey/catalogue, conservation/training, digitisation/metadata, translation and research/publication/outreach form the implementation chain. The pattern is corroborated in the Asiatic Society's later bulletin; that later record is verification, not an October outcome. [Institutional bulletin](https://asiaticsociety.culture.gov.in/sites/default/files/2026-01/Bulletin%20December%202025_compressed.pdf).
+- Existing notes retain the National Digital Repository, manuscript scope, September portal launch and **Budget 2025–26** announcement. Correct this issue's repeated **2024–25** Budget label. Catalogue/scan/translation/public access are separate milestones; preserve physical originals, provenance, scholarly review and custodian cooperation.
+
 ## PDF coverage
 
-2025-05-18: pp. 1, 2, 3, 4, 5 · 2025-07-12: pp. 3, 4, 5, 6, 7 · 2025-09-13: pp. 3, 4, 5, 6
+2025-05-18: pp. 1, 2, 3, 4, 5 · 2025-07-12: pp. 3, 4, 5, 6, 7 · 2025-09-13: pp. 3, 4, 5, 6 · 2025-10-25: pp. 6, 7, 8

@@ -15,6 +15,12 @@
 - India advocating renewed scrutiny of Pakistan is a diplomatic proposal, **not a June2025 re-listing**. Pakistan did not appear on the **13 June2025 increased-monitoring list**. [Dated list](https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2025.html).
 - **13 June2025 high-risk list:** DPRK, Iran, Myanmar; countermeasure calls differ from Myanmar's proportionate enhanced due diligence. This repeats and confirms the corrected May distinction, rather than the PDF's two-country list. [FATF statement](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-june-2025.html).
 
+## October 2025: state-sponsored terrorist financing debate
+- Paris discussions were **expected** to consider state sponsorship; the issue is not proof of a new completed FATF decision or Pakistan's re-listing. Pakistan's removal from increased monitoring in **October 2022** remains the relevant recorded status here.
+- FATF's **July 2025 Comprehensive Update on Terrorist Financing Risks**, section 1.7, identifies direct finance, logistical/material assistance and training by states as a longstanding risk. It cites **2015** FATF work: the source's “first ever recognition in 2025” claim is incorrect. The report expressly says FATF had not developed a dedicated state-sponsorship typology. [FATF report](https://www.fatf-gafi.org/content/dam/fatf-gafi/publications/Comprehensive-Update-on-Terrorist-Financing-Risks-2025.pdf.coredownload.inline.pdf).
+- The clipping reports Indian concerns over Pakistan-linked listed entities and alleged charity/flood-relief fundraising for LeT/JuD reconstruction at Muridke. Treat the claimed government allocation and reconstruction costs as **reported allegations**, not independent FATF findings or a judicial determination.
+- Countermeasures require evidence, financial intelligence, targeted enforcement and cross-border cooperation while protecting legitimate humanitarian nonprofits. Existing notes correct membership and distinguish FATF monitoring from sanctions; the repeated **CDS 2020** MCQ is outside CSE PYQ banks.
+
 ## PDF coverage
 
-2025-05-24: pp. 6, 7, 8 · 2025-05-25: pp. 20, 21 · 2025-06-23: pp. 4, 5, 6
+2025-05-24: pp. 6, 7, 8 · 2025-05-25: pp. 20, 21 · 2025-06-23: pp. 4, 5, 6 · 2025-10-22: pp. 9, 10, 11, 12

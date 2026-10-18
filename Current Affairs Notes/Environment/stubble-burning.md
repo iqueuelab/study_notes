@@ -21,7 +21,14 @@
 - The source incorrectly describes **PM-KUSUM as a bioenergy programme**: it concerns decentralised renewable power and solar agricultural pumps/pump solarisation. Biomass utilisation belongs with appropriate bioenergy/crop-residue policies. [MNRE scheme](https://mnre.gov.in/en/pradhan-mantri-kisan-urja-suraksha-evam-utthaan-mahabhiyaan-pm-kusum/).
 - Assess actual fires, adoption, farmer costs and ambient pollution; avoid claiming a dedicated force alone resolves economic or technical barriers.
 
+## October 2025: detected fires, burnt area and emissions
+- Punjab's satellite-detected paddy-fire incidents fell from **36,663 in 2023 to 10,909 in 2024**, about **70%**. Parliamentary data confirm the incident series; it is not a direct measurement of pollution or a completed 2025 season total. [Parliamentary answer](https://sansad.in/getFile/annex/266/AU2884_5CZtRa.pdf?source=pqars).
+- Issue-reported burnt-area estimates: **19.17 lakh ha (2024), 19.14 lakh ha (2023), 15.40 lakh ha (2022), 15.60 lakh ha (2021)**. These have not been harmonised with the hotspot series here. Similar burnt area despite fewer detections warrants investigation; it does not prove larger or longer fires, intentional evasion or an emissions increase.
+- **MODIS and VIIRS are sensors**, not names of individual satellites. Thermal observations detect active heat anomalies; optical imagery such as **Sentinel-2** can map subsequent burn scars. Overpass timing, cloud/smoke, spatial resolution, small/brief fires and detection thresholds affect counts. Combine both methods with ground validation and comparable seasonal windows.
+- **Detected hotspots ≠ hectares burnt ≠ emissions ≠ ambient concentration**. Emissions depend on biomass/fuel load, combustion completeness, moisture and emission factors; concentration also depends on transport and dispersion. Low-temperature or smouldering combustion can still produce considerable particulate pollution: reject the automatic inference that low-intensity fire necessarily emits less PM2.5 per unit biomass.
+- Existing notes retain short rice–wheat turnaround, market failures, in-situ/ex-situ options and CAQM. The issue's **₹1,150-crore** support amount has no clear scheme period/scope and is not retained as a current annual allocation. Direct payments/carbon incentives require verified outcomes and feasible alternatives; burning's low immediate private expense does not mean zero social cost.
+- Practice answer **(b)**: thermal-anomaly detection includes farm/forest fires; MODIS/VIIRS also have wider earth-observation uses. This is an undated probable question, not a CSE PYQ.
 
 ## PDF coverage
 
-2025-04-15: pp. 16, 17, 18 · 2025-05-11: pp. 1, 2, 3
+2025-04-15: pp. 16, 17, 18 · 2025-05-11: pp. 1, 2, 3 · 2025-10-24: pp. 1, 2, 3, 4

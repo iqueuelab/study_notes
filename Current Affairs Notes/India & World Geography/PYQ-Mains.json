@@ -1,5 +1,18 @@
 {
   "subject": "India & World Geography",
   "exam_stage": "Mains",
-  "questions": []
+  "questions": [
+    {
+      "year": 2013,
+      "chapter": "Cyclone Montha: formation, naming and preparedness",
+      "question": "The recent cyclone on the east coast of India was called “Phailin”. How are tropical cyclones named across the world? Elaborate."
+    },
+    {
+      "year": 2022,
+      "chapter": "Cyclone Montha: formation, naming and preparedness",
+      "question": "Discuss the meaning of colour-coded weather warnings for cyclone prone areas given by India Meteorological Department. (Answer in 150 words) (10 marks)",
+      "marks": 10,
+      "word_limit": 150
+    }
+  ]
 }

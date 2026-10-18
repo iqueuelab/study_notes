@@ -51,6 +51,12 @@
 - A proposed **Delhi Quad summit in November** was prospective/unconfirmed in this issue. The text's completed Modi–Trump phone-call narrative is not independently established here; distinguish earlier public messages and plans for further contact from a verified completed call.
 - Mains: preserve negotiation channels, diversify trade/energy exposure, protect skilled mobility and retain strategic autonomy while advancing mutually useful cooperation.
 
+## October 2025: different accounts of a leaders' call
+- The issue reports a **Modi–Trump Diwali phone call** during trade negotiations. Trump's public account emphasised a trade deal, Russian oil and Pakistan; India's public message emphasised greetings, democratic values and cooperation against terrorism. Attribute each account rather than merging them into one agreed record.
+- The clipping reports India rejecting the Pakistan-discussion claim and reiterating energy decisions based on **consumer interests, prices and reliable supply**. Absence of Russian oil in one readout neither confirms a promise to stop purchases nor proves no discussion occurred.
+- Bilateral trade negotiations and a possible meeting alongside Malaysia/ASEAN-related gatherings remained prospective. No signed FTA, guaranteed meeting or completed reduction of Russian oil purchases is established by this issue.
+- Readout differences illustrate audience, bargaining and strategic-autonomy considerations; the source's “silent strength/public pressure” labels are editorial interpretation, not official doctrines. GSP withdrawal is earlier background rather than a newly announced October measure.
+
 ## PDF coverage
 
-2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6 · 2025-09-06: pp. 10, 11, 12 · 2025-09-11: pp. 11, 12 · 2025-09-23: pp. 1, 2
+2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6 · 2025-09-06: pp. 10, 11, 12 · 2025-09-11: pp. 11, 12 · 2025-09-23: pp. 1, 2 · 2025-10-23: pp. 12, 13, 14

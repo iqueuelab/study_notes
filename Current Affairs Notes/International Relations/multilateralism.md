@@ -9,6 +9,14 @@
 - Smoot–Hawley tariffs (1930) illustrate escalation risks, but cannot alone explain the Great Depression or World War II.
 - India can advocate institutional reform, peaceful dispute settlement, climate/health cooperation and representative global governance; US retreat does not automatically secure India a permanent UNSC seat.
 
+## UN at 80: purpose, performance and reform
+- **24 October 1945** marks entry into force of the UN Charter; 2025 is its 80th anniversary. Peace and security, human dignity, development and cooperation remain its purposes. Cold War rivalry later constrained cooperation; calling the world already fully bipolar at the moment of founding oversimplifies the transition after WWII.
+- Peacekeeping, humanitarian assistance (**UNHCR, UNICEF, WFP**), standard-setting and the **2015–2030 SDGs** demonstrate continuing value. **Rwanda genocide (1994)** and **Srebrenica massacre (1995)** illustrate failures of protection; Namibia and Timor-Leste illustrate contributions to independence and peacebuilding. Performance depends on mandates, resources and member-state action.
+- Correct two source errors: the **G4 is India, Brazil, Germany and Japan**, excluding South Africa; the Security Council did undergo membership reform. Charter amendments effective **31 August 1965** expanded it **11 → 15**, with ten elected rather than six elected seats, and raised required affirmative votes **7 → 9**. [UN Charter amendments](https://www.un.org/en/about-us/un-charter/amendments).
+- **P5: China, France, Russia, UK, US**; veto applies to substantive Council decisions, not every UN action or procedural vote. The present Council has five permanent and ten elected members; India has served repeated elected terms. Practice statements **1 and 3** are correct, **2** false.
+- Veto deadlock, underrepresentation, funding uncertainty, bureaucracy and politicisation constrain effectiveness. India links representative reform and African representation with its demographic weight, development role and peacekeeping contribution; advocacy does not itself confer permanent membership.
+- Mains framework: preserve convening/humanitarian/normative capacity → reform representation and accountability → realistic mandates, timely funding and field capacity → collective response to climate, pandemics and cyber threats. The supplied **250-word** UN-reform prompt is practice material with no PYQ year.
+
 ## PDF coverage
 
-2025-03-21: pp. 4, 5, 6, 7
+2025-03-21: pp. 4, 5, 6, 7 · 2025-10-24: pp. 4, 5, 6, 7

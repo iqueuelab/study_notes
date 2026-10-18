@@ -37,7 +37,12 @@
 - Bauxite **deposits/mining proposals and ecological conflict** must be separated from proof the whole valley is an operating mine. Forest/water protection, recognised land/community rights and meaningful consultation matter.
 - Tourism nickname **“Ooty of Andhra Pradesh”** reflects scenic appeal, not scientific geography. Ecotourism/agro-tourism require carrying-capacity, waste/water management and community benefit sharing; scenic promotion alone is not sustainable development.
 
+## October 2025: non-traditional regions and speciality value
+- Source highlights **Koraput, Odisha**, and Northeast expansion alongside the established southern belt. Coffee Board support, women's cooperatives, youth entrepreneurship, processing and market access can link tribal production to speciality markets; reported restoration/income benefits need local outcome evidence.
+- **Monsooned Malabar** processing exposes prepared coffee to moist monsoon conditions for a distinctive profile; distinguish processing identity from a separate coffee species. Kodagu/Coorg and Chikmagalur are Karnataka origins; Araku Valley Arabica's GI is already covered above.
+- The issue's **4.9 lakh ha**, **3.63 lakh tonnes**, **70% exports**, **US$1.8 billion projected 2024–25 receipts** and producer rank use source-era estimates/mixed periods. They are not a new October survey or a timeless global ranking. Do not infer an automatic coffee entitlement under PM Vishwakarma from a general enterprise-support list.
+- Climate-resilient varieties, white-stem-borer control, farmer aggregation, quality certification, responsible agroforestry, value addition and coffee tourism can improve returns; actual benefits depend on price risk, labour and environmental management. Existing notes retain cultivation, Coffee Board and export fundamentals.
 
 ## PDF coverage
 
-2025-01-01: pp. 3, 4 · 2025-01-03: pp. 8, 9, 10, 11 · 2025-03-02: pp. 8, 9, 10, 11, 12, 13, 14 · 2025-03-22: pp. 1, 2, 3, 4 · 2025-06-06: pp. 15, 16
+2025-01-01: pp. 3, 4 · 2025-01-03: pp. 8, 9, 10, 11 · 2025-03-02: pp. 8, 9, 10, 11, 12, 13, 14 · 2025-03-22: pp. 1, 2, 3, 4 · 2025-06-06: pp. 15, 16 · 2025-10-28: pp. 9, 10, 11, 12

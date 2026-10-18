@@ -32,7 +32,13 @@
 - Passes: **Thal/Kasara, Bhor, Palakkad, Amba, Amboli**. Shola–grassland mosaics support endemic biodiversity and catchments.
 - Mining, forest conversion, plantations and habitat fragmentation affect hydrology/conflict; governance must account for indigenous livelihoods, consultation and site-specific risk. Geological age is not the age of individual trees.
 
+## October 2025: IUCN World Heritage Outlook 4
+- Source reports **significant concern** for **Western Ghats, Manas and Sundarbans**; Khangchendzonga **good**; Great Himalayan, Kaziranga, Keoladeo and Nanda Devi/Valley of Flowers **good with some concerns**. Conservation outlook is an assessment, not UNESCO delisting or a species Red List category.
+- **2025 report assesses 271 natural/mixed properties**. The **228 sites** are the comparable cohort first assessed in 2014: their positive outlook fell from **63% in 2014/2017 and 62% in 2020 to 57% in 2025**. Among all 271 sites, about **61%** had a positive outlook. Do not apply 57% to all sites or call 228 the 2025 total. [IUCN report](https://portals.iucn.org/library/sites/library/files/documents/2025-042-En.pdf).
+- Ghats pressures: dams/hydropower and river alteration, roads/habitat fragmentation, plantation conversion, tourism waste, invasive wattle/acacia/eucalyptus and warming effects on montane species. Proposed **Sillahalla pumped storage** illustrates cumulative ecological appraisal; a project proposal is not proof all works are built.
+- Sundarbans: sea-level/salinity changes, cyclones, pollution and resource extraction can damage mangroves, fisheries and coastal protection. Site-specific management, native habitat restoration, tourism/waste controls, community participation and cumulative impact review support the **Kunming–Montreal biodiversity framework** aims.
+- The report began in 2014, with editions 2017, 2020 and 2025; it was not a perfectly uninterrupted three-year schedule. Existing notes explain the Ghats' six-state geography and selected serial-property scope.
 
 ## PDF coverage
 
-2025-02-06: pp. 14, 15, 16, 17, 18 · 2025-04-01: pp. 9, 10, 11, 12, 13
+2025-02-06: pp. 14, 15, 16, 17, 18 · 2025-04-01: pp. 9, 10, 11, 12, 13 · 2025-10-27: pp. 23, 24, 25, 26

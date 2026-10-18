@@ -1018,6 +1018,24 @@
     {
       "date": "2025-10-23",
       "detail": "All 14 physical pages/full text and images reviewed. Himachal 250-word/15-mark p7 and rare-earth 150-word/15-mark p11 prompts are Daily Mains practice without exam year; not invented as PYQs. No CSE PYQs."
+    },
+    {
+      "date": "2025-10-24",
+      "detail": "All 10 pages/full text reviewed. Pages 4, 7, 10 contain probable/possible/practice MODIS/VIIRS, UNSC and AoN questions plus UN-reform (250 words) and defence-modernisation mains prompts. No year or authentic CSE attribution; all excluded from common PYQ banks. AoN option labels are malformed, not silently repaired. Relevant existing common banks parsed for baseline comparison; no bank mutations."
+    },
+    {
+      "date": "2025-10-25",
+      "detail": "All 16 pages/full text reviewed. No dated CSE PYQs. Physical filename coverage retained despite printed banner 24th Oct. 2025. Existing relevant full topic Markdown, topic catalog, common PYQ banks and available peer additions compared; six existing topic IDs reused and one Patel topic created."
+    },
+    {
+      "issue_date": "2025-10-27",
+      "status": "reviewed",
+      "details": "All 30 physical pages/full text reviewed. CSE 2023 nocturnal fauna question is already complete in Environment Prelim bank; no duplicate. OPSC OAS RVP 2024 and UPPSC toothed-whale 2023 questions are state-exam material, excluded. Kopi Luwak expected MCQ is practice/unyearred. Source RVP answer/explanation conflict is flagged in notes."
+    },
+    {
+      "issue_date": "2025-10-28",
+      "status": "reviewed",
+      "details": "All 21 physical pages including blank final page/full text reviewed. Full known-year CSE mains naming 2013 and colour-warning 2022 questions preserved. Local official 2022 GS-I original page 2, Q5 visually checked: exact wording restored, 150 words/10 marks. No local 2013 original exists; supplied complete question retained without inventing marks/word limit. 1995 Willy-willy stem provides only one answer option, so partial question excluded for review rather than reconstructing missing options. All existing common PYQ banks parsed for comparison."
     }
   ],
   "resolved": [
