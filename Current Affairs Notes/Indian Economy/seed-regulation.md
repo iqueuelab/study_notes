@@ -8,6 +8,13 @@
 - **Seed replacement rate:** share of cropped area using fresh certified/quality seed rather than farm-saved seed; distinguish seed replacement from replacement of an old variety by a new variety. **National Seeds Policy 2002 exists**, and private seed companies participate, especially vegetables/hybrids; low-value, high-volume seed supply gaps constrain wider replacement.
 - **Correct PYQ year: 2014, not the source's 2017**. Official paper Q94 has the three statements and answer **3 only (b)**; the official 2014 scan confirms its complete options.
 
+## November 2025: additional seed-regulation debate
+- The issue calls its subject **“Draft Seeds Bill, 2024”**, but the November consultation is **Draft Seeds Bill 2025**; preserve the earlier correction. Proposal status remains essential: replacement of Seeds Act 1966 and modern quality regulation are aims, not proof of an enacted new Act.
+- Additional source-reported design: **Central Seed Committee (27 members), State Seed Committee (15)**, National Register/Registrar, **VCU (Value for Cultivation and Use) trials**, testing labs, registration of producers/dealers/processors/distributors/nurseries and a possible accreditation route for multi-State businesses. Technical quality testing, registration and certification are distinct functions.
+- Farmers' farm-saved-seed rights to grow, sow/re-sow, save, use, exchange/share/sell need to remain consistent with **PPV&FR Act 2001**, including its branded-seed qualification. **CBD** and **ITPGRFA** frame biodiversity/genetic-resource obligations; policy concerns do not prove that the draft already repeals those protections.
+- Source reports proposed graded fines beginning around **₹50,000**, serious-offence fines **up to ₹30 lakh** and imprisonment **up to three years**, plus inspection/search/seizure. These are draft descriptions, not current universal penalties or a reason to assume Consumer Protection Act remedies disappear.
+- **2023–24** seed figures in source: requirement **462.31 lakh quintals**, availability **508.60 lakh**, arithmetic surplus **46.29 lakh**. Aggregate surplus does not ensure every crop/region has affordable, suitable quality seed. Farmer concerns include market concentration, prices, compensation, local diversity and over-centralisation; industry seeks predictable standards/R&D and efficient imports. Earlier November notes cover the remaining repeated background and corrected 2014 PYQ.
+
 ## PDF coverage
 
-2025-11-14: pp. 14, 15, 16, 17, 18
+2025-11-14: pp. 14, 15, 16, 17, 18 · 2025-11-26: pp. 15, 16, 17, 18

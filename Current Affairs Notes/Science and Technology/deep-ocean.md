@@ -16,6 +16,12 @@
 - Carlsberg is a spreading ridge between Indian and Somali/African plate domains, adjoining the Owen fracture system; the **Indian–Arabian** boundary claim and **300,000 sq km licence area** conflate tectonic/region descriptions with the **10,000 sq km** contract.
 - Critical-mineral security and Indian Ocean capability must be weighed against cost, immature extraction technology and deep-sea biodiversity/plume risks. **2021 PYQ: (b), statements 2 and 3 only**—ISA, not Global Ocean Commission, grants mineral exploration contracts; India has rights and rare-earth minerals occur on the seafloor.
 
+## Syntactic foam and test stages
+- **Syntactic foam = hollow microspheres embedded in a resin matrix**: low-density, pressure-resistant buoyancy material. Pressure hulls protect occupants; foam provides buoyancy; ballast, drop weights, thrusters and recovery systems have different roles. A steel test sphere is not the final titanium pressure hull or proof of a 6,000-m crewed dive.
+- Source describes a French foam supply chain with testing in Norway and pressure testing in Russia. Its end-2024/April-2025 timetable is a **recycled forecast**, not a reliable November 2025 progress report; its illustrative **3.2-m sphere** must not override the official **2.1-m crew sphere** specification.
+- **17 February 2025 official account:** integrated dry tests followed by harbour wet testing at Kattupalli during January–February; later parliamentary reporting confirms crewed/uncrewed harbour trials. These validate subsystems, flotation, control, communications and life support, not completed 500-m or 6-km open-ocean dives. [MoES wet-test account](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2104039&lang=2&reg=48), [July parliamentary update](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2150835&lang=2&reg=48).
+- Certification, shallow-water trials, pressure qualification and deep-water integration must precede scientific deployment. International test cooperation does not change **NIOT/MoES** programme leadership; ISRO supports the pressure-sphere work. Forecast dates should be labelled by their announcement period, not treated as achieved milestones.
+
 ## PDF coverage
 
-2025-01-30: pp. 29, 30, 31, 39, 40, 47 · 2025-09-16: pp. 3, 4, 5, 6, 7, 8
+2025-01-30: pp. 29, 30, 31, 39, 40, 47 · 2025-09-16: pp. 3, 4, 5, 6, 7, 8 · 2025-11-29: pp. 8, 9, 10

@@ -25,6 +25,12 @@
 - Source estimates **₹1,773.4 billion tobacco-use burden and ₹566.7 billion second-hand-smoke burden**, tax shares of **22% bidis/50% cigarettes**, and global **8 million/1.3 million** deaths require their underlying study/reference years. Do not add costs from unlike studies into one current national total. Earlier notes preserve the dated 2017–18 tobacco-cost study.
 - Strengthen **NTCP**, tobacco-free educational institutions, family/teacher participation from early schooling, cessation services and regular evaluation. Poverty/stress and commercial determinants need attention alongside awareness. Independent research/oversight, stronger indirect-ad bans, plain packaging and multi-ministry “endgame” strategy are recommendations, not all newly enacted rules.
 
+## 1–2 December 2025: proposed successor tobacco taxes
+- Government introduced the **Central Excise (Amendment) Bill, 2025** and **Health Security se National Security Cess Bill, 2025**. At this issue date these are **Bills**, not evidence that every proposed rate or levy had commenced.
+- Fiscal context: GST compensation protected States against revenue losses for **five years from 2017**; pandemic shortfalls led to borrowing. Continued compensation-cess receipts serviced borrowing/interest beyond the original compensation period. Ending that cess could otherwise lower the aggregate tax burden on specified demerit goods.
+- Excise proposal concerns legal scope for higher duties on **cigarettes, chewing tobacco and other tobacco products**. The separate cess would raise public-health/national-security resources through **machines installed or specified manufacturing processes**, initially focusing on pan masala. Machine declarations and factory-wise calculation seek to reduce underreported production; they do not guarantee zero evasion.
+- Distinguish **excise, GST and cess** and compare total tax incidence using consistent retail-price denominators. A new statutory ceiling or levy is not necessarily its immediately applicable rate; notifications/commencement matter. Public-health rationale is to sustain disincentives to consumption while protecting revenue.
+
 ## PDF coverage
 
-2025-05-30: pp. 8, 9, 10, 11 · 2025-08-26: pp. 6, 7, 8, 9, 10, 11
+2025-05-30: pp. 8, 9, 10, 11 · 2025-08-26: pp. 6, 7, 8, 9, 10, 11 · 2025-12-02: pp. 4, 5, 6, 7

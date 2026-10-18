@@ -34,6 +34,12 @@
 - As of this issue, **stronger orders/CBI involvement are under consideration**; do not import a later final investigation order. Existing criminal-law provisions cover cheating, extortion, forgery/conspiracy alongside relevant IT Act provisions: AI involvement does not mean there is no applicable criminal law. DPDP legislation is not a substitute for fraud investigation.
 - Revision priorities: rapid bank/police/platform coordination, fund tracing and evidence preservation; specialised investigators; victim-sensitive support; cross-border cooperation and prevention of deceptive overseas recruitment. Existing notes retain **1930/cybercrime.gov.in**, I4C functions and independent verification advice.
 
+## 1 December 2025: nationwide digital-arrest investigation
+- The issue reports the Supreme Court entrusting a coordinated pan-India **digital-arrest investigation to CBI**, including investigation of bankers facilitating mule accounts, and asking States to accord **Section 6, Delhi Special Police Establishment Act 1946 consent**. This advances the earlier hearing-stage consideration recorded in these notes. The PDF's “overrules State consent” shorthand should not obscure its own direction that States provide consent; it does not repeal Section 6 or abolish consent requirements for every future CBI case.
+- **Digital arrest → impersonation/extortion**; **investment fraud → promised returns followed by staged deposits/advance-tax demands**; **part-time-task fraud → small initial rewards followed by large paid ‘premium’ tasks**. Immediate investigation priority is digital arrest; consideration of monitoring other categories is prospective, not proof all investment/job cases were already transferred.
+- Reported directions cover **CBI–Interpol cooperation**, State/regional cybercrime coordination linked with I4C, preservation/sharing of platform records and stronger telecom KYC/SIM controls. RBI was asked to respond on AI/ML detection of suspicious accounts and money layering: a request for a response is not proof a new automated freezing system already exists.
+- The ₹3,000-crore loss figure repeats the earlier hearing's reported aggregate; do not turn it into a measured December-only loss. Prevention and rapid evidence/fund preservation remain essential alongside criminal investigation. [Supreme Court order, 1 December 2025, reproduced](https://indiankanoon.org/doc/67470969/).
+
 ## PDF coverage
 
-2025-04-28: pp. 8, 9, 10, 11 · 2025-06-27: pp. 1 · 2025-07-19: pp. 11, 12, 13, 14 · 2025-11-04: pp. 1, 2, 3, 4
+2025-04-28: pp. 8, 9, 10, 11 · 2025-06-27: pp. 1 · 2025-07-19: pp. 11, 12, 13, 14 · 2025-11-04: pp. 1, 2, 3, 4 · 2025-12-02: pp. 1, 2, 3

@@ -53,6 +53,12 @@
 - Barriers: limited direct elevations, late appointment/short tenure, weak pipeline to seniority and opaque selection. Gender, regional and social diversity can widen experience and institutional trust without assuming all women judges share the same views.
 - Proposals: published diversity/selection criteria, reasoned decisions, support for women advocates and HC judges, more consideration of direct elevations. A gender quota is an editorial proposal, not an existing constitutional appointment quota. Existing collegium and President-appointment framework applies.
 
+## November 2025: renewed plea to revive NJAC
+- Advocate **Mathews J. Nedumpara** sought revival of NJAC and invalidation of the **2015 NJAC judgment**. CJI **Surya Kant** said the Court would consider the request for listing. An oral remark on listing neither admits every legal contention nor restores the commission.
+- Petition alleges opacity/nepotism and excessive judicial displacement of Parliament; these remain **petitioner's arguments**. Constitutional review of amendments is compatible with parliamentary democracy under the basic-structure doctrine; judicial independence is a protected component.
+- Former **NJAC**: CJI, two senior SC judges, Union Law Minister, two eminent persons. Eminent-person selection committee: **PM, CJI, Lok Sabha Leader of Opposition (or leader of largest opposition party where no recognised LoP)**. The **99th Constitutional Amendment Act 2014 and NJAC Act 2014 were invalidated in 2015**; an oral listing assurance does not undo that ruling.
+- Existing notes give the **1981 executive primacy → 1993 judicial primacy → 1998 expanded consultation** sequence and SC collegium **CJI + four senior-most judges**. “Judges appoint judges” is shorthand: formal appointment remains by the President under the constitutional scheme. Evaluate transparent criteria, diversity/conflict disclosures and timely recommendations alongside independence, without treating allegations as findings.
+
 ## PDF coverage
 
-2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7 · 2025-03-22: pp. 5, 6, 7 · 2025-07-19: pp. 7, 8, 9 · 2025-07-26: pp. 12, 13, 14, 15 · 2025-09-03: pp. 10, 11, 12
+2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7 · 2025-03-22: pp. 5, 6, 7 · 2025-07-19: pp. 7, 8, 9 · 2025-07-26: pp. 12, 13, 14, 15 · 2025-09-03: pp. 10, 11, 12 · 2025-11-27: pp. 1, 2, 3, 4

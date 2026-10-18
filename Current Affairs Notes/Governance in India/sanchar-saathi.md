@@ -9,6 +9,12 @@
 - **Government/PSU fibre mapping by 2026**, **PM Gati Shakti** coordination; **Call Before u Dig (CBuD)** reduces excavation damage through utility–excavator coordination.
 - Infrastructure + affordable access + reliability + digital literacy/security determine meaningful inclusion. [Official launch](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2093732&lang=2&reg=3).
 
+## December 2025: pre-installation direction and subsequent withdrawal
+- The **2 December issue** reports a DoT direction requiring manufacturers to pre-install Sanchar Saathi on new smartphones within a prospective implementation window, retaining its functionality. The source renders this as March 2026; preserve it as the reported direction, not a permanent present obligation.
+- **Subsequent correction — 3 December 2025:** Government **removed mandatory pre-installation**, said users could remove the app, and retained voluntary availability. Therefore do not memorise the PDF's ‘cannot be disabled’/mandatory-from-March claim as continuing policy. [Official withdrawal](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2198110&lang=1&reg=3).
+- Source rationale: counterfeit/cloned IMEIs, resale of stolen/blacklisted handsets, fraudulent connections and cross-border SIM misuse. Existing notes cover IMEI checks, lost-phone blocking/tracing, connection verification and Chakshu. The portal began **2023**; the mobile app launched **January 2025**—these are separate milestones.
+- Source portal totals **2.48 lakh complaints, 2.9 crore connection-check requests, 50,000 recoveries in October** are dated activity counts with different units, not a controlled measure of app effectiveness or current totals. Government privacy assurances should be distinguished from independent assessment of permissions/data practices. Security aims require transparency, proportionate access and user control.
+
 ## PDF coverage
 
-2025-01-23: pp. 8, 9, 10 · 2025-01-26: pp. 13
+2025-01-23: pp. 8, 9, 10 · 2025-01-26: pp. 13 · 2025-12-02: pp. 14, 15, 16

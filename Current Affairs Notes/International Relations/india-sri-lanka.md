@@ -22,7 +22,12 @@
 - Government statements distinguish traditional access for **resting, drying nets and pilgrimage** from a right to fish in Sri Lankan waters. Access to the island is not an unrestricted fishing licence. [Official parliamentary answer](https://rsdebate.nic.in/bitstream/123456789/235467/1/PQ_162_23031992_U3277_p84_p85.pdf), [MEA account](https://meacms.mea.gov.in/Images/pdf/India-foreign-relation-2011.pdf).
 - Solutions require sustainable fishing and protection of livelihoods on both shores: bilateral dialogue, humane handling of detainees, viable vessel/skill support and alternatives to destructive bottom trawling. Proposed joint-fishing arrangements require agreement; they are not existing blanket permission.
 
+## Cyclone Ditwah: Operation Sagar Bandhu, November 2025
+- **Operation Sagar Bandhu began 28 November 2025**, after Cyclone Ditwah caused flooding, landslides and infrastructure damage. India redirected **INS Vikrant** and **INS Udaygiri/Udayagiri**, already in Sri Lanka for an International Fleet Review, for humanitarian assistance; the source also reports a request for shipborne aviation support.
+- The initial High Commission account records **4.5 tonnes of dry rations + 2 tonnes of fresh rations**, with other survival essentials. These are an initial tranche, not final totals for the whole mission. Vikrant is India's first indigenous aircraft carrier; Udaygiri is a stealth frigate. [High Commission, 28 November](https://www.hcicolombo.gov.in/section-detail.php?id=1operation-sagar-bandhu-india-extends-immediate-humanitarian-relief-to-sri-lanka-amid-cyclone-ditwah&pageid=press-releases).
+- **Neighbourhood First** and regional first-response capacity connect relief to diplomacy. **MAHASAGAR**—Mutual and Holistic Advancement for Security and Growth Across Regions—was announced in Mauritius in **March 2025**, not the PDF's March 2024; it broadens the **2015 SAGAR** vision. [March 2025 announcement](https://www.hcimauritius.gov.in/speeches_detail/?id=17).
+- Keep similarly named operations distinct: SAGAR relief missions supplied Indian Ocean partners; **Dost** earthquake aid to Türkiye/Syria; **Vanilla** Madagascar disaster relief; **Neer** Maldives water-crisis relief; **Samudra Setu** COVID-era evacuation. Humanitarian assistance requires host-country coordination; naval capability is not proof of unilateral intervention rights.
 
 ## PDF coverage
 
-2025-03-07: pp. 10, 11, 12 · 2025-03-28: pp. 11, 12, 13 · 2025-03-29: pp. 11, 12, 13 · 2025-04-03: pp. 11, 12, 13, 14 · 2025-04-06: pp. 9, 10, 11, 12
+2025-03-07: pp. 10, 11, 12 · 2025-03-28: pp. 11, 12, 13 · 2025-03-29: pp. 11, 12, 13 · 2025-04-03: pp. 11, 12, 13, 14 · 2025-04-06: pp. 9, 10, 11, 12 · 2025-11-29: pp. 4, 5, 6, 7

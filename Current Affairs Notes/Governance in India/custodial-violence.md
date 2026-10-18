@@ -27,6 +27,13 @@
 - Avoid legitimising torture through correction/deterrence language; judicial reasons influence policing norms. Source's generic 'hundreds annually' lacks a period/custody category; retain the existing notes' distinctions between police/judicial custody deaths and proven torture.
 - Daily Mains practice (**250 words, 15 marks**) asks about the judiciary's role: balance condemnation of custodial violence, effective safeguards and evidence-based liability. It is publisher practice, not a past CSE question.
 
+## November 2025: CCTV compliance scrutiny
+- Supreme Court Bench of **Vikram Nath and Sandeep Mehta** criticised missing compliance with **Paramvir Singh Saini v. Baljit Singh (2 December 2020)**. Source reports **only 11 States/UTs submitted reports**, none from the Centre, and a **19 December** compliance deadline with possible personal accountability of agency directors/Home Secretaries. Filing a report is not proof of complete compliance.
+- Directions cover police stations and offices of central investigative agencies conducting interrogation, including **CBI, ED, NIA, NCB, DRI and SFIO**: night vision, audio/video, interrogation rooms, lockups, entrances/corridors and other specified areas; State/district oversight and maintenance matter as much as installation.
+- The 2020 direction aims for **18-month storage**; where technology is unavailable, procure the maximum possible storage, **not below one year**, and upgrade. The source's unconditional “at least 18 months in every installation” omits this qualification. [Supreme Court judgment](https://api.sci.gov.in/supremecourt/2020/13346/13346_2020_33_1501_24909_Judgement_02-Dec-2020.pdf).
+- Source cites **11 custodial deaths in eight months in Rajasthan** as a dated illustration, not a proven torture finding in every death. CCTV deters abuse and preserves evidence, protecting detainees and officers from false allegations; access, tamper prevention, working audio and independent investigation remain necessary.
+- **Article 21** dignity, **22** arrest safeguards, **32/226** remedies; **Article 141** makes law declared by SC binding on courts, while **Article 144** requires civil/judicial authorities to act in aid of SC. Do not paraphrase Article 141 alone as the full rule governing executive compliance. Existing UNCAT/D.K. Basu and custody-category cautions remain relevant.
+
 ## PDF coverage
 
-2025-07-03: pp. 3, 4, 5 · 2025-07-11: pp. 10, 11, 12, 13, 14 · 2025-07-31: pp. 12, 13, 14 · 2025-08-02: pp. 70, 71, 72, 73 · 2025-08-22: pp. 14, 15, 16
+2025-07-03: pp. 3, 4, 5 · 2025-07-11: pp. 10, 11, 12, 13, 14 · 2025-07-31: pp. 12, 13, 14 · 2025-08-02: pp. 70, 71, 72, 73 · 2025-08-22: pp. 14, 15, 16 · 2025-11-26: pp. 4, 5, 6, 7

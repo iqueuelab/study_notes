@@ -5761,27 +5761,82 @@
     {
       "date": "2025-11-26",
       "pdf": "2025/11-November/2025-11-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "08fd0deabe9c2af9becfbb694447cd5445ca9e1db30eef86470736936588d3d9",
+      "pages": 18,
+      "topic_ids": [
+        "ai-image-privacy",
+        "assam-polygamy",
+        "china-global-lending",
+        "custodial-violence",
+        "seed-regulation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-27",
       "pdf": "2025/11-November/2025-11-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "1c1c6f43c25e754bba6e315aedbd6f6d9ace64066fca5a598c23334a0a43b3ad",
+      "pages": 19,
+      "topic_ids": [
+        "aviation-mro",
+        "critical-minerals",
+        "krishnan-mars",
+        "neutrino-observatories",
+        "sc-appointments"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-28",
       "pdf": "2025/11-November/2025-11-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "bd40f562a2f5d04a91fc5c96a1393343b0b925a2e5680d0afc91514330a1a9b8",
+      "pages": 14,
+      "topic_ids": [
+        "auramine-o",
+        "euthanasia",
+        "neutrino-observatories",
+        "suryakiran"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-29",
       "pdf": "2025/11-November/2025-11-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "pages": 16,
+      "sha256": "08ada8049db18ba89e4ea7c696020a23f5ff89ee4238e6cd62426469079b7be3",
+      "topic_ids": [
+        "deep-ocean",
+        "disaster-risk-financing",
+        "india-sri-lanka",
+        "s400"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-02",
       "pdf": "2025/12-December/2025-12-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "bb2753e174dd456be11be766fad6d5840d7d2417aed7d9daed42e18154d80b07",
+      "pages": 24,
+      "topic_ids": [
+        "biological-weapons-convention",
+        "bioremediation",
+        "critical-minerals",
+        "heron-mk2",
+        "i4c",
+        "sanchar-saathi",
+        "tobacco-control"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-03",
@@ -7190,7 +7245,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-11-26",
+  "next_pdf": "2025-12-03",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7317,6 +7372,16 @@
       "date": "2025-11-23",
       "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-11-23 PDF in source inventory/jobs. All 15 pages of the 2025-11-24 physical file reviewed; first-page banner explicitly reads 24 Nov. 2025, not a combined 23–24 issue. Coverage retained under physical issue date 2025-11-24; no notes invented or review credited for 23 November."
+    },
+    {
+      "date": "2025-11-30",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone file found; Nov29 and Dec2 cover banners each identify only their own date, without a combined Nov30/Dec1 label. No daily notes invented."
+    },
+    {
+      "date": "2025-12-01",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone file found; Nov29 and Dec2 cover banners each identify only their own date, without a combined Nov30/Dec1 label. No daily notes invented."
     }
   ]
 }
