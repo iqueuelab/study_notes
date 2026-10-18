@@ -21,6 +21,11 @@
 | Baku 2024 | New climate-finance goal and Baku-to-Belém roadmap |
 - The chart's COP28 wording needs care: global-stocktake language was **transitioning away from fossil fuels**, not a universal legal fossil-fuel phase-out by 2050; coal wording concerned **phase-down of unabated coal**. The US$100-billion finance commitment predates Paris. Renewable/nuclear/cooling pledges have differing participants, and are not identical universally binding treaty obligations.
 
+## September: COP30 implementation emphasis
+- COP30 President **André Corrêa do Lago**, speaking in India, emphasised implementing established climate solutions alongside treaty negotiations: renewables, forests, finance, technology and carbon-market cooperation. **Belém, Brazil, November 2025** was the planned conference; location near the Amazon adds forest relevance.
+- Paris NDCs and equity remain central; India's development/energy needs accompany demands for differentiated responsibility, finance and technology. Source **2.6°C by 2100** is a scenario-dependent estimate, not a guaranteed trajectory. Its “midway” description between 2015 and 2050 is arithmetically wrong.
+- US withdrawal was **not yet effective at this September issue date**: notice **27 January 2025**, effective **27 January 2026**. [UN clarification](https://press.un.org/en/2025/db250128.doc.htm). The source's claim the US had already left conflates announcement and legal effect.
+
 ## PDF coverage
 
-2025-07-09: pp. 2, 3, 4, 5, 6
+2025-07-09: pp. 2, 3, 4, 5, 6 · 2025-09-03: pp. 8, 9, 10

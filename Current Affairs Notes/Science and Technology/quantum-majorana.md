@@ -14,7 +14,10 @@
 - **2022 PYQ: “qubit” →quantum computing**, not cloud, visible-light or wireless communication.
 - [Cabinet approval of NQM](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1917888&lang=2&reg=48) confirms outlay and2023–31 period.
 
+## September revision and 2025 PYQ
+- Existing notes' **Microsoft** attribution, indium-arsenide/aluminium platform and caveats about claimed topological protection remain applicable; the article revisits protection against noise, not proof of a functioning fault-tolerant million-qubit computer.
+- **2025 PYQ:** Majorana 1 is intended for quantum computing; it is **not AWS's chip**; **deep learning is a subset of machine learning** → **I and III only (c)**. **2022 qubit PYQ** already banked.
 
 ## PDF coverage
 
-2025-02-23: pp. 10, 11, 12, 13, 14, 15
+2025-02-23: pp. 10, 11, 12, 13, 14, 15 · 2025-09-04: pp. 13, 14, 15

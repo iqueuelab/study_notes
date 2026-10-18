@@ -4565,32 +4565,99 @@
     {
       "date": "2025-09-03",
       "pdf": "2025/09-September/2025-09-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "9bdefd2139cd0d5a5223206f9a9d48fd3319d7eda0b4224f14940c4705e5b25e",
+      "pages": 14,
+      "topic_ids": [
+        "bonn-climate-talks",
+        "brics",
+        "india-seychelles",
+        "maitree",
+        "sc-appointments",
+        "shakti-semiconductors",
+        "sickle-cell-disability"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-04",
       "pdf": "2025/09-September/2025-09-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fafa26923f6c3692d41bc93ca2b5d56a9fc7c5402cf9094a9d499a219c773320",
+      "pages": 19,
+      "topic_ids": [
+        "bright-star",
+        "cerebo",
+        "gst-gstat",
+        "quantum-majorana",
+        "reservation-ceiling",
+        "sickle-cell-disability",
+        "vulture-drugs"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-05",
       "pdf": "2025/09-September/2025-09-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "37f0cddbdb531cbaf8d5003a7b8acbba51fe370a8c7eea391ecf444c87048b03",
+      "pages": 10,
+      "topic_ids": [
+        "delimitation-demography",
+        "gst-gstat",
+        "india-singapore",
+        "nirf"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-06",
       "pdf": "2025/09-September/2025-09-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4fc60d6665d39ef94f580f82a895b1157c520d26b81331a3dd7487dfa2c85eb3",
+      "pages": 12,
+      "topic_ids": [
+        "cerebo",
+        "gaza-ceasefire",
+        "india-us",
+        "sickle-cell-disability",
+        "tpcr-2025"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-07",
       "pdf": "2025/09-September/2025-09-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e1f1f5285e222ca8ccc661c5a51e8b01c35be52be6649ea76388ab3bd9ecdba4",
+      "pages": 10,
+      "topic_ids": [
+        "apatani",
+        "bodo-accord",
+        "geologic-carbon-storage",
+        "katchatheevu"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-08",
       "pdf": "2025/09-September/2025-09-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "da220247e85410271b9bbeeb734cb34358253df25e898d70a81ac709068ab1c2",
+      "pages": 12,
+      "topic_ids": [
+        "india-eu",
+        "lunar-eclipse",
+        "pulses-imports",
+        "self-respect-movement"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-09-09",
@@ -6359,7 +6426,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-09-03",
+  "next_pdf": "2025-09-09",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

@@ -47,6 +47,12 @@
 - **HC removal:** Article 217(1)(b), read with 124(4) and 218. The in-house mechanism can seek resignation/retirement, recommend withdrawal of judicial work and communicate serious findings for constitutional action; it cannot itself remove a judge. Thus the source's “no action unless resignation” is too absolute.
 - Reform priorities: independent/fair fact-finding, defined timelines, reasoned public institutional communication with necessary confidentiality, complainant protection and judicial independence. The PDF's 250-word/15-mark question is daily practice, not an identified UPSC PYQ.
 
+## September 2025: women in the Supreme Court
+- Editorial snapshot: only **Justice B.V. Nagarathna** among sitting judges was a woman; **11 women since 1950**, source denominator **287 appointments (~3.8%)**. Statutory **34 sanctioned posts** is distinct from filled strength. First woman **Justice Fathima Beevi, 1989**; **Indu Malhotra** was the first woman directly elevated from the Bar.
+- Source expects Nagarathna to become CJI in **2027** for a short tenure under seniority convention; this is a succession expectation, not an appointment already made.
+- Barriers: limited direct elevations, late appointment/short tenure, weak pipeline to seniority and opaque selection. Gender, regional and social diversity can widen experience and institutional trust without assuming all women judges share the same views.
+- Proposals: published diversity/selection criteria, reasoned decisions, support for women advocates and HC judges, more consideration of direct elevations. A gender quota is an editorial proposal, not an existing constitutional appointment quota. Existing collegium and President-appointment framework applies.
+
 ## PDF coverage
 
-2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7 · 2025-03-22: pp. 5, 6, 7 · 2025-07-19: pp. 7, 8, 9 · 2025-07-26: pp. 12, 13, 14, 15
+2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7 · 2025-03-22: pp. 5, 6, 7 · 2025-07-19: pp. 7, 8, 9 · 2025-07-26: pp. 12, 13, 14, 15 · 2025-09-03: pp. 10, 11, 12

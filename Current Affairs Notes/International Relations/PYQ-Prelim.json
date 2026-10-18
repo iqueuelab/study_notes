@@ -299,6 +299,18 @@
         "d": "1, 2 and 3"
       },
       "answer": "d"
+    },
+    {
+      "year": 2015,
+      "chapter": "BRICS: members, partners and cooperation",
+      "question": "The Fortaleza Declaration, recently in the news, is related to the affairs of:",
+      "options": {
+        "a": "ASEAN",
+        "b": "BRICS",
+        "c": "OECD",
+        "d": "WTO"
+      },
+      "answer": "b"
     }
   ]
 }

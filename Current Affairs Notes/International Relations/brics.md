@@ -28,6 +28,10 @@
 - India's2021 theme: **BRICS@15: Intra BRICS Cooperation for Continuity, Consolidation and Consensus**. Priorities: multilateral reform,counter-terrorism,digital tools forSDGs,people-to-people exchange; leaders' summit **9September2021**, foreign ministers **1June**, security advisers **24August**.
 - Source highlights Digital Health Summit, first Water Ministers' meeting, Counter-Terrorism Action Plan, green-tourism cooperation, Agricultural Research Platform and remote-sensing satellite constellation agreement. These are2021cooperation milestones, not newly launched2025projects or a military alliance.
 
+## Fortaleza recall
+- **2014 Fortaleza Declaration, sixth BRICS summit**, associated with the New Development Bank and Contingent Reserve Arrangement. Both had **US$100 billion** headline figures, but distinguish NDB's initial authorised capital from its **US$50 billion subscribed capital**, and CRA's separate **US$100 billion commitment pool**. These are not cash contributions of identical size to both institutions. [Founding agreements](https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atos-assinados-por-ocasiao-da-vi-cupula-do-brics-fortaleza-15-de-julho-de-2014).
+- 2015 PYQ answer: **BRICS (b)**. Development infrastructure lending differs from short-term balance-of-payments liquidity support.
+
 ## PDF coverage
 
-2025-01-22: pp. 5, 6 · 2025-06-24: pp. 33, 34 · 2025-07-01: pp. 8 · 2025-07-07: pp. 11, 12, 13
+2025-01-22: pp. 5, 6 · 2025-06-24: pp. 33, 34 · 2025-07-01: pp. 8 · 2025-07-07: pp. 11, 12, 13 · 2025-09-03: pp. 9, 10

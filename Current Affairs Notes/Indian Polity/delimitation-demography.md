@@ -47,6 +47,12 @@
 - Claims of a demographic “conspiracy” are the political framing, not a statistical conclusion established by the PDF. Assess fertility, migration, population composition and regional ageing separately using Census/SRS/NFHS with their reference years; Aadhaar or voter-list audits do not substitute for a population census.
 - Existing **SRS 2021 TFR 2.0/Bihar 3.0/Delhi–West Bengal 1.4** comparisons recur. The next Census was planned for **2027**, while the last completed Census was **2011**. Human development, voluntary reproductive choice, jobs/skills and differentiated ageing support remain the policy priorities; security measures require evidence and equal treatment.
 
+## SRS 2023 released in September 2025
+- **Reference year 2023**, Registrar General's **Sample Registration System**: **CBR 18.4 per 1,000**, down from **19.1 in 2022**; **TFR 1.9**, versus **2.0 in 2021/2022**. These differ from earlier notes' SRS 2021 data and from GBD/NFHS estimates. [Official report catalogue](https://censusindia.gov.in/nada/index.php/catalog/46172/study-description).
+- Source State/UT comparison: **Bihar CBR 25.8/TFR 2.8; Tamil Nadu CBR 12/TFR 1.3; Delhi TFR 1.2**. Above replacement examples **UP 2.6, MP 2.4, Rajasthan 2.3, Chhattisgarh 2.2**. Eighteen larger States/UTs below replacement in its comparison; do not imply only eighteen administrative units exist.
+- **60+ share 9.7%**, source rise **0.7 percentage points** over 2022; **Kerala 15%**, Assam/Jharkhand **7.6%**, Delhi **7.7%**. Ageing, uneven regional fertility, migration, pensions/healthcare and jobs/skills need differentiated policy. Below-replacement TFR does not imply immediate population decline because of momentum.
+- Revision denominators: **CBR/CDR per 1,000 population; IMR per 1,000 live births; maternal mortality ratio per 100,000 live births; natural increase CBR minus CDR**. SRS estimates, CRS registration and MCCD certified causes are distinct statistical systems. **2024 TFR PYQ (d)** already banked.
+
 ## PDF coverage
 
-2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24 · 2025-02-27: pp. 31, 32, 33, 34 · 2025-02-28: pp. 17, 18, 19, 20, 21 · 2025-03-05: pp. 7, 8, 9, 10 · 2025-05-12: pp. 2, 3, 4 · 2025-06-08: pp. 1, 2, 3, 4 · 2025-08-16: pp. 10, 11
+2025-01-02: pp. 32 · 2025-01-20: pp. 11, 12, 13, 22, 24 · 2025-02-27: pp. 31, 32, 33, 34 · 2025-02-28: pp. 17, 18, 19, 20, 21 · 2025-03-05: pp. 7, 8, 9, 10 · 2025-05-12: pp. 2, 3, 4 · 2025-06-08: pp. 1, 2, 3, 4 · 2025-08-16: pp. 10, 11 · 2025-09-05: pp. 1, 2, 3

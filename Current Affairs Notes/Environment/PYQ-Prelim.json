@@ -611,6 +611,18 @@
         "d": "1, 2, 3 and 4"
       },
       "answer": "c"
+    },
+    {
+      "year": 2012,
+      "chapter": "Vultures and toxic veterinary drugs",
+      "question": "Vultures which used to be very common in Indian countryside some years ago are rarely seen nowadays. This is attributed to",
+      "options": {
+        "a": "the destruction of their nesting sites by new invasive species",
+        "b": "a drug used by cattle owners for treating their diseased cattle",
+        "c": "scarcity of food available to them",
+        "d": "a widespread, persistent and fatal disease among them"
+      },
+      "answer": "b"
     }
   ]
 }

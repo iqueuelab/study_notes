@@ -21,6 +21,13 @@
 - Rhizobial fixation and residues can improve soil nitrogen; actual fertiliser savings depend on conditions. MSP/NFSM-pulses support is relevant; irrigation/organic programmes are complementary instruments, not a guarantee of doubled income.
 - PYQ revision: urad can be both kharif and rabi; moong does **not** account for nearly half of Indian pulse output. The 2020 question's historical trend statement about declining rabi pulses is false; do not present its three-decade window as a newly measured July 2025 trend.
 
+## NITI Aayog roadmap: September 2025
+- **Strategies and Pathways for Accelerating Growth in Pulses towards the Goal of Atmanirbharta** recommends region-specific clusters, agroecological technology, quality seeds and **One Block–One Seed Village** through FPOs, focusing on **111 high-potential districts**. Its domestic supply projections **30.59 Mt in 2030 /45.79 Mt in 2047** are forecasts, not achieved output. [Official release](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2163828&lang=2&reg=48).
+- Source report comparison **16.35 Mt (2015–16) →26.06 Mt (2022–23)**, productivity up about 38%, import dependence **29%→10.4%** uses an earlier assessment window; it does not show dependence continued falling through FY2025. The same issue later uses **25.7 Mt** for 2022–23: preserve the reporting distinction rather than merge inconsistent estimates.
+- **FY2025 6.7 Mt imports/2.04 Mt yellow peas** are source-period figures/expectations; demand growth, rainfed crop shocks and liberal import policy explain resurgence. Different year/estimate windows make these compatible with an earlier decline without proving a continuing trend.
+- Climate-resilient seeds, local extension/irrigation, storage/processing, predictable procurement/import policy and FPO seed hubs address the supply gap. Existing notes cover the six-year tur/urad/masoor mission and farmer–consumer trade-off.
+- **2020 PYQ revision:** urad can be kharif/rabi; moong is not half of pulse output; the question's claim of falling rabi production is false. Gram/chickpea/chana are the same crop. Annual State rankings require a specified crop year, not a timeless “2025 top five”.
+
 ## PDF coverage
 
-2025-06-01: pp. 6, 7, 8, 9, 10, 11 · 2025-07-10: pp. 29, 30, 31, 32
+2025-06-01: pp. 6, 7, 8, 9, 10, 11 · 2025-07-10: pp. 29, 30, 31, 32 · 2025-09-08: pp. 5, 6, 7, 8, 9, 10

@@ -33,6 +33,13 @@
 - An **early-harvest trade arrangement** and development-sensitive CBAM treatment are proposals; distinguish them from completed agreements. Canada is not a European country; EU/Europe, NATO and Quad are distinct institutions, and the EU is not a Quad member.
 - Source investment-growth figures for **2015–2022** are historical comparisons, not July 2025 annual flows. Avoid presenting the source's “June Raisina Marseille” date as verified; policy substance does not depend on that unverified event label.
 
+## Refined-fuel trade ahead of 2026 sanctions
+- EU's **18 July 2025 eighteenth package** adopted restrictions on refined petroleum made from Russian crude in third countries, with a transition into **January 2026**. At this issue date the January measure was prospective; this was not a ban on every Indian refined product. The July announcement listed Canada, Norway, Switzerland, UK and US exceptions. [EU July decision](https://skribi.consilium.europa.eu/en/press/press-releases/2025/07/18/russia-s-war-of-aggression-against-ukraine-eu-adopts-18th-package-of-economic-and-individual-measures/).
+- Source shipping-data snapshot **August 2025:** Indian diesel shipments to Europe about **260,000 barrels/day**, **63% month-on-month /103% year-on-year**; all-product shipments about **399,000 bpd**. Its Reliance “100%” claim pertains to this month's reported diesel flow, not all Indian fuel exports in perpetuity.
+- Reported drivers: pre-ban inventory building and refinery outages/maintenance in Europe/West Asia. India's refining/logistics capacity makes it a flexible supplier; gross product exports are not domestically produced crude.
+- Crude blending complicates origin evidence, segregated processing and compliance. Diversify markets and feedstocks, improve traceability and use diplomatic/commercial engagement; subsequent trade diversion is a possible adjustment, not guaranteed costless replacement.
+- Source's **253,000% export-volume jump** and mixed April–January/July historical figures lack consistent units/periods and are not retained as verified growth statistics. Trade legality depends on applicable jurisdiction/rules; a general WTO assertion does not override EU import conditions.
+
 ## PDF coverage
 
-2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21 · 2025-07-15: pp. 31, 32, 33, 34, 35, 36, 37
+2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21 · 2025-07-15: pp. 31, 32, 33, 34, 35, 36, 37 · 2025-09-08: pp. 3, 4, 5

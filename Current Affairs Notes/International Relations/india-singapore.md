@@ -20,6 +20,12 @@
 - Source eastern focus **Odisha/Assam** logistics/petrochemicals/skills is potential collaboration, not proof approved fabs in every mentioned State. Green energy/storage and efficiency reduce production footprint.
 - Risks: global-cycle demand, imported equipment/IP, geopolitical disruptions, infrastructure and trade barriers. Transparent incentives, partnerships and technology capability milestones; indigenous capability does not require isolated supply chains.
 
+## 4 September 2025: CSP roadmap and maritime interest
+- **Lawrence Wong–Narendra Modi meeting**, sixty years of diplomatic ties: CSP roadmap plus **five MoUs**. Green/digital shipping, advanced manufacturing, skilling, water, clean energy and exploratory civil-nuclear cooperation feature in the visit.
+- Singapore **acknowledged with appreciation India's interest in Malacca Straits Patrol**; this is not evidence India had joined or begun authorised patrols. Existing mechanism involves Indonesia, Malaysia, Singapore and Thailand; littoral consent/sovereignty, coordination and sustained capacity matter. [Singapore official visit statement](https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/pm-wong-official-visit-to-india-04-sep-2025/).
+- Map: **Malay Peninsula–Sumatra**, Andaman Sea/Indian Ocean to Singapore Strait/South China Sea. Source wrongly implies Gulf oil destined for India must first traverse Malacca; its main relevance here is eastbound commerce and maritime connectivity. Avoid memorising unqualified 60%/80% trade/oil figures without year and denominator.
+- Proposed **Kra canal** would connect Andaman Sea with Gulf of Thailand and shorten the detour around the peninsula; deepening existing Malacca does not similarly shorten distance. Source 2011 PYQ omits answer-code choices: retain explanation, hold incomplete question for review.
+
 ## PDF coverage
 
-2025-01-18: pp. 4, 5, 6, 7, 8, 9, 10, 11, 12
+2025-01-18: pp. 4, 5, 6, 7, 8, 9, 10, 11, 12 · 2025-09-05: pp. 6, 7, 8

@@ -504,6 +504,18 @@
         "d": "3 only"
       },
       "answer": "a"
+    },
+    {
+      "year": 2025,
+      "chapter": "Majorana1, qubits and evidence for quantum progress",
+      "question": "Consider the following statements:\nI. It is expected that Majorana 1 chip will enable quantum computing.\nII. Majorana 1 chip has been introduced by Amazon Web Services (AWS).\nIII. Deep learning is a subset of machine learning.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "answer": "c"
     }
   ]
 }

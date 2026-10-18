@@ -32,6 +32,13 @@
 - **Vajra Prahar** special-forces/Army, **SALVEX** naval salvage/diving, **Cope India** air, and **Malabar** multilateral naval exercises. I2U2 = India–Israel–UAE–US; IPEF and ASEAN-centred forums offer cooperation without making India/the US ASEAN members.
 - Diaspora, research/education, trade and supply chains support ties; IP/data rules, visas, defence licensing and market access require continued management. Source's 3.5-million diaspora count depends on definition/reference date.
 
+## September 2025: alignment pressure and tariff friction
+- The issue reports Trump's “lost India to China” remarks and US pressure over India's Russian oil purchases and BRICS/SCO engagement. **Trump was the serving US President**, not the “former President” described in the coaching text.
+- Source's **50% tariff headline** describes the combined announced US pressure on covered Indian goods; it must not imply every Indian product faced an identical tariff without exceptions. US criticism and a social-media photograph do not establish an Indian alliance with China.
+- India's strategic autonomy entails interest-based engagement with the US/Quad, Russia and China-centred forums while managing border rivalry, defence/energy needs and diversified technology/trade ties. BRICS/SCO membership does not require abandonment of the US partnership.
+- Source reports MEA rejection of Peter Navarro's oil-trade remarks and Jaishankar's engagement with Ukraine; distinguish attributable official statements from anonymous commentary. Claims about Trump skipping a future Quad summit were reports/speculation at this issue date.
+- Mains: tariff exposure and political rhetoric can strain trust and Quad cooperation; maintain diplomatic channels and diversified export/energy options without assuming binary geopolitical blocs.
+
 ## PDF coverage
 
-2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6
+2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6 · 2025-09-06: pp. 10, 11, 12

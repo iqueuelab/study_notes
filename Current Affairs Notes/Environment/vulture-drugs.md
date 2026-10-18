@@ -14,7 +14,12 @@
 - Veterinary diclofenac harms vultures through renal failure. The 2006 veterinary prohibition differs from 2015 restrictions on large multidose human formulations; all human medicinal use was not banned.
 - Vulture Safe Zones, captive breeding and monitored reintroduction complement drug regulation. Scavenging reduces carcass accumulation and associated disease risks; it does not sterilise every pathogen.
 
+## September 2025: conservation network and breeding
+- **We Foundation India**, collaborating with **Gauhati University Zoology Department**, launched a vulture conservation portal in Assam ahead of International Vulture Awareness Day (first Saturday of September). Source calls it India's first; purpose is networking researchers, conservationists and citizens, with local-language information beginning in **Assamese**.
+- Citizen observations, awareness and coordination complement safe carcass supply, drug-law enforcement and protected nesting habitat. The issue also illustrates successful **Indian long-billed vulture breeding at Ramadevarabetta**, Karnataka; existing Gyps indicus/habitat and diclofenac notes apply.
+- Embedded species table: white-rumped, slender-billed, Indian/long-billed and red-headed **Critically Endangered**; Egyptian **Endangered**; Indian griffon **Least Concern**; Himalayan griffon, cinereous and bearded **Near Threatened** in the source's status snapshot. Do not generalise the source's 97–99% decline to every species or all periods; its separate chart covers later 2003-onward declines.
+- **2012 PYQ: (b), veterinary drug exposure**, not invasive nesting-site species, simple food scarcity or an unspecified epidemic. The source's “only sanctuary” language is broader than its documented 2012 first-sanctuary history.
 
 ## PDF coverage
 
-2025-01-13: pp. 10, 11, 21, 23, 24 · 2025-03-17: pp. 5, 6, 7, 8, 29, 30, 31 · 2025-03-18: pp. 29, 30
+2025-01-13: pp. 10, 11, 21, 23, 24 · 2025-03-17: pp. 5, 6, 7, 8, 29, 30, 31 · 2025-03-18: pp. 29, 30 · 2025-09-04: pp. 5, 6, 7, 8, 9
