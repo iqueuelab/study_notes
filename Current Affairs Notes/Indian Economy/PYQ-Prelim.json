@@ -575,6 +575,18 @@
         "d": "1, 2 and 3"
       },
       "answer": "d"
+    },
+    {
+      "year": 2023,
+      "chapter": "Stablecoins, CBDCs and monetary sovereignty",
+      "question": "With reference to Central Bank Digital Currencies (CBDCs), consider the following statements:\n1. It is possible to make payments in a digital currency without using US dollar or SWIFT system.\n2. A digital currency can be distributed with a condition programmed into it such as a time-frame for spending it.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c"
     }
   ]
 }

@@ -16,6 +16,12 @@
 - Compare autonomy/dignity and relief of suffering with coercion, prognostic uncertainty, disability discrimination, unequal care and the duty to protect vulnerable people. Strengthen palliative care and meaningful informed consent.
 - Netherlands/Belgium/Luxembourg, Switzerland and some US jurisdictions have differing assisted-death rules; no single international model. **France's National Assembly passed a proposal at first reading on May 27, 2025; it was not operative assisted-dying law in June.** [French legislative record](https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e).
 
+## October 2025: making withdrawal safeguards workable
+- Editorial recommends a digital advance-directive registry with identity verification, easy revision/revocation, trained hospital ethics committees including palliative care and independent members, transparent decentralised review and public/medical education. Registry/Aadhaar linkage, a committee's 48-hour decision and seven-day cooling-off period are the author's proposals, not newly enacted universal Indian requirements.
+- Existing notes distinguish active euthanasia, assisted suicide and lawful withdrawal/withholding under safeguards, and record 2011/2018/2023 judgments. The 2023 simplification did not abolish all medical review: primary and secondary boards remain, with decisions preferably within 48 hours; do not describe it as unqualified single hospital approval. Advance-directive attestation changed to notary/gazetted officer rather than mandatory magistrate countersignature.
+- Source-era England/Wales proposal had passed Commons and remained before Parliament; it had not made assisted dying lawful across the UK. [Parliament Bill record](https://bills.parliament.uk/bills/03774). Preserve autonomy, informed consent, coercion/disability safeguards, palliative care and access concerns; withdrawal of futile treatment is not an unrestricted right to be killed.
+- The Supreme Court’s later judgment reproduces the 2023-modified directive/board framework; this citation verifies that historical rule without importing a 2026 development into the October issue. [Judgment reproducing 2023 procedure](https://api.sci.gov.in/supremecourt/2025/60980/60980_2025_7_1501_69246_Judgement_11-Mar-2026.pdf).
+
 ## PDF coverage
 
-2025-06-21: pp. 8, 9, 10, 11, 12
+2025-06-21: pp. 8, 9, 10, 11, 12 · 2025-10-07: pp. 12, 13, 14, 15

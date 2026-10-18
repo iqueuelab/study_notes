@@ -22,6 +22,13 @@
 - Collective-defence operations and other crisis-management missions have different mandates: do not assume every NATO operation invoked Article 5 or that membership follows automatically from cooperation.
 - Map recall: **North America + Europe; enlarged Nordic/Baltic security space.** NATO is a security alliance, distinct from the EU.
 
+## October 2025: Poland's planned fuel-network connection
+- **3 October:** Polish NATO investment body **ZIOTP** and pipeline operator **PERN** signed an **initial cooperation agreement** to connect Polish fuel infrastructure with NATO pipelines. This records a planning agreement, not a completed connection. [Polish Energy Ministry](https://www.gov.pl/web/energia/podpisano-wstepne-porozumienie-w-sprawie-polaczenia-polskich-rurociagow-z-systemem-paliwowym-nato).
+- Source reports a **€4.7 billion/~PLN20 billion** programme and about **300 km from Germany towards Bydgoszcz**, subject to allied approval and implementation. Bydgoszcz hosts NATO's Joint Force Training Centre. Fuel resilience supports eastern-flank readiness near Belarus and Russia's Kaliningrad enclave, reduces reliance on vulnerable road/rail movement and links energy infrastructure to deterrence.
+- Distinguish the **NATO Pipeline System** from its **Central Europe Pipeline System (CEPS)** component. National organisations operate national systems; CEPS is managed multinationally under NSPA. The source's “all NPS managed by NSPA” and **10,000 km** shorthand should not be applied to every present network definition. [NATO CEPS](https://www.nato.int/en/what-we-do/deterrence-and-defence/central-europe-pipeline-system-ceps).
+- Poland joined NATO in **1999**, after Warsaw Pact membership; source's “after end of Cold War” does not date accession to 1991. Its 2024 defence-spending share (>4% of GDP) is dated. Pipeline protection, cyber resilience, financing and cross-border coordination matter alongside physical construction.
+- Institutional background, founders/accessions, France and Article 5 repeat existing notes. NATO does not list India as a formal Indo-Pacific partner alongside Australia/Japan; occasional dialogue should not be converted into a treaty alliance or formal partnership designation. [NATO partnership distinction](https://www.nato.int/en/news-and-events/articles/news/2021/04/13/nato-secretary-general-highlights-the-importance-of-a-global-approach-to-security-at-indias-raisina-dialogue).
+
 ## PDF coverage
 
-2025-04-04: pp. 8, 9
+2025-04-04: pp. 8, 9 · 2025-10-04: pp. 9, 10, 11, 12, 13, 14

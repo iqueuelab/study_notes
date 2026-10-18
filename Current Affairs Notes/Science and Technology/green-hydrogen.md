@@ -16,6 +16,16 @@
 - Source “85% energy import dependency” confuses oil with total energy. India does not import a majority of every fuel. Diversification, efficiency, R&D, domestic manufacturing and reliable grids improve security amid Ukraine/West Asia disruptions.
 - Less efficient panels raise land/cost requirements, not automatically fossil-based hydrogen; evaluate full-chain emissions, water, storage/transport and energy losses.
 
+## October 2025: electrolyser competition
+- **Electrolyser manufacturing capacity, installed capacity and actual hydrogen output are different measures.** China benefits from scale, supply chains and lower equipment costs; dominance comparable to solar PV remains an editorial forecast, not an assured outcome.
+| Technology | Materials and operating distinction |
+|---|---|
+| Alkaline | Mature, often lower capital cost; commonly nickel-based electrodes and alkaline electrolyte; system design affects flexibility |
+| PEM | Proton-conducting membrane; responsive operation/high-purity output; platinum/iridium catalysts and titanium components raise cost and material concerns |
+- The PDF's blanket “alkaline less efficient” comparison is too broad: evaluate electricity consumption, load range, durability, balance-of-plant and project costs, not technology labels alone.
+- Source reports China **36.5 million tonnes hydrogen in 2024**, **120,000 tonnes green output**, **85% alkaline manufacturing share**, annual equipment-price falls of **20–30%** and up-to-**45%** cost advantage in Europe. These are source-reported, differently defined estimates; IEA’s 2025 review puts China near **60% of all electrolyser manufacturing capacity**, a different denominator from alkaline alone; manufacturing share is not green-hydrogen production share, and imported-system installation costs can erase factory-price advantages. [IEA 2025 review](https://www.iea.org/reports/global-hydrogen-review-2025).
+- Buyers also need dependable renewable electricity, water, product purity, integration, storage and firm offtake. Critical-material dependencies, domestic industrial policy/trade scrutiny and local service requirements complicate a simple cheapest-stack strategy. India’s mission supports domestic capability, but an announced project is not achieved production.
+
 ## PDF coverage
 
-2025-06-24: pp. 26, 27, 28, 29, 30 · 2025-08-01: pp. 7, 8, 9, 10 · 2025-08-02: pp. 84, 85, 86, 87
+2025-06-24: pp. 26, 27, 28, 29, 30 · 2025-08-01: pp. 7, 8, 9, 10 · 2025-08-02: pp. 84, 85, 86, 87 · 2025-10-03: pp. 11, 12, 13

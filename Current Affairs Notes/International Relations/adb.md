@@ -9,6 +9,11 @@
 - ADB approved an **US$800 million package**, comprising **US$300 million policy-based loan + US$500 million guarantee**, for resource mobilisation/utilisation reforms. Guarantee ≠ an US$800 million immediate cash loan or grant. [ADB programme account](https://www.adb.org/multimedia/partnership-report2025/our-stories/unlocking-domestic-resources-and-private-capital-to-strengthen-fiscal-resilience/).
 - Source cites Pakistan tax/GDP **13% (2017–18) → 9.2% (2022–23)** and regional~19% average, requiring matching definitions/years. Requested FATF review is separate from ADB’s lending decision; it does not prove automatic relisting.
 
+## September 2025 growth outlook: tariff exposure
+- **30 September ADO:** India **6.5% GDP growth in ADB FY2025 (ends 31 March 2026)** and **6.5% FY2026**. Current-year forecast unchanged from **July**, but below **April 6.7%**; following year reduced from **July 6.7%** (April **6.8%**). Do not describe every comparison as a fresh cut from the latest forecast.
+- Tariffs weaken merchandise exports/investment; domestic consumption and service exports cushion effects. These are projections/risks, not final realised growth. Source comparative regional forecasts: developing Asia **4.8% in calendar 2025, 4.5% in 2026**, with fiscal/calendar conventions distinct from India. [ADB India release](https://www.adb.org/news/adb-pegs-india-growth-6-5-percent-fy2025-fy2026).
+- Institutional basics and corrected **69 members: 50 regional/19 nonregional** are already covered; the repeated body’s 49/20 split remains incorrect.
+
 ## PDF coverage
 
-2025-06-05: pp. 21, 22
+2025-06-05: pp. 21, 22 · 2025-10-01: pp. 8, 9

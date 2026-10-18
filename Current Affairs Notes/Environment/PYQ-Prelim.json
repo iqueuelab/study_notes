@@ -659,6 +659,30 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "b"
+    },
+    {
+      "year": 2019,
+      "chapter": "Bihar Ramsar sites and wetland wise use",
+      "question": "Consider the following statements:\n1. Under Ramsar Convention, it is mandatory on the part of the Government of India to protect and conserve all the wetlands in the territory of India.\n2. The Wetlands (Conservation and Management) Rules, 2010 were framed by the Government of India based on the recommendation of Ramsar Convention.\n3. The Wetlands (Conservation and Management) Rules, 2010 also encompass the drainage area or catchment regions of the wetlands as determined by the authority.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2010,
+      "chapter": "Bihar Ramsar sites and wetland wise use",
+      "question": "India is a party to the Ramsar Convention and has declared many areas as Ramsar Sites. Which of the following statements best describes as to how we should maintain these sites in the context of this Convention?",
+      "options": {
+        "a": "Keep all the sites completely inaccessible to man so that they will not be exploited.",
+        "b": "Conserve all the sites through ecosystem approach and permit tourism and recreation only.",
+        "c": "Conserve all the sites through an ecosystem approach for a period without any exploitation, with specific criteria and specific period for each site, and then allow sustainable use of them by future generations.",
+        "d": "Conserve all the sites through ecosystem approach and allow their simultaneous sustainable use."
+      },
+      "answer": "d"
     }
   ]
 }

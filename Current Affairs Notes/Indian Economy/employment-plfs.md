@@ -31,6 +31,13 @@
 - **WEF Future of Jobs 2025** scenario to 2030: **170 million roles created, 92 million displaced, net 78 million**; forecasts depend on employers' assumptions and are not achieved outcomes.
 - Proposals: assessed industry–college partnerships, placement/earnings accountability, digital and communication skills, apprenticeships, interdisciplinary learning and international qualification/language preparation. Idea/Tinker Labs and teaching by industry professionals can support practice. An **Indian Education Service** is an editorial proposal, not an established new service.
 
+## October 2025: integrated employment policy proposal
+- Editorial proposes an Integrated National Employment Policy: align labour, education, skill and MSME policies; Centre–State–industry coordination; an empowered secretaries' group, district planning and time-bound job-quality targets. These are recommendations, not notification of an enacted policy.
+- Demand side: labour-intensive textiles, agro-processing, tourism, healthcare and MSMEs; supply side: practical curricula, vocational skills, apprenticeships, portable benefits and migration support. Housing near industry, rural BPOs/remote work and attention to lagging districts can improve mobility and regional access.
+- Childcare/eldercare, safer travel, flexible/local work and decent conditions can support women's participation. The source's roughly 25% female participation lacks age/reference-period specification and is not comparable with every PLFS measure.
+- Gig-worker proposals: registry, skills/work records, insurance/credit/social security, fair contracts and grievance channels. Reject its unqualified 9-crore-by-2030 claim: NITI's 2022 report estimated 77 lakh workers in 2020–21 and projected 2.35 crore by 2029–30. [NITI report](https://www.niti.gov.in/sites/default/files/2023-02/25th_June_Final_Report_27062022.pdf).
+- Four 2019–2020 Labour Codes consolidate 29 laws; passage and commencement differ, and the 6 October editorial calls for implementation. Its CII 133-million additional working-age people/18% global increment and 2043 peak are source-attributed projections, not achieved jobs or necessarily a peak in the absolute population. Better integrate EPFO, PLFS, NCS and e-Shram while accounting for their different coverage.
+
 ## PDF coverage
 
-2025-02-19: pp. 4, 5, 6, 7 · 2025-05-15: pp. 24, 25 · 2025-07-14: pp. 17, 18, 19, 20
+2025-02-19: pp. 4, 5, 6, 7 · 2025-05-15: pp. 24, 25 · 2025-07-14: pp. 17, 18, 19, 20 · 2025-10-06: pp. 6, 7, 8, 9

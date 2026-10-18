@@ -129,6 +129,10 @@ flows.update({
  'child-labour':['Identify work, debt and schooling barriers','Protect children + address household insecurity','Provide accessible quality education','Coordinate community and employer commitments','Monitor retention and prevent relapse'],
  'invasive-alien-species':['Assess trade and introduction pathways','Prevent risky introductions','Monitor and detect early','Rapid proportionate control','Restore habitats + review ecological effects'],
 })
+flows.update({
+ 'biochar':['Suitable biomass feedstock','Heat with little or no oxygen: pyrolysis','Carbon-rich biochar + other products','Check contaminants and application suitability','Use appropriately; assess carbon and soil outcomes'],
+ 'scheduled-tribes-list':['Check the existing State / UT-specific entry','Assess proposed inclusion or exclusion','Parliament changes the list by law: Article 342(2)','Assent and applicable commencement','Implement the amended list'],
+})
 def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
 for i,t in enumerate(topics):
  folder=OUT/t['subject'];folder.mkdir(exist_ok=True)

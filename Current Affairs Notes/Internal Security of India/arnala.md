@@ -12,6 +12,10 @@
 - **Arnala was commissioned 18 June 2025**, distinct from the 8 May delivery already recorded; the embedded June article is historical background, not a new September commissioning.
 - National ASW-SWC programme comprises **16 vessels**; the eight mentioned above are the GRSE order, not the whole programme. [Arnala commissioning record](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2137263&lang=1&reg=37).
 
+## October 2025: Androth commissioning
+- INS Androth commissioned **6 October 2025 at Visakhapatnam**, following September delivery; second GRSE ASW shallow-water craft. At 77 m/about 1,500 tonnes and over 80% indigenous content, it strengthens coastal submarine detection/tracking and neutralisation. [MoD commissioning](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2175480&lang=1&reg=6).
+- Correct source errors: Arnala commissioned **18 June 2025**, not June 2024; the national programme is sixteen craft, eight each under two shipyard contracts, not four GRSE plus four L&T. Androth takes its name from Lakshadweep; Arnala is named after Maharashtra's fort, so the entire fleet is not named exclusively after Lakshadweep islands. Existing notes cover programme roles, delivery and diesel-waterjet design.
+
 ## PDF coverage
 
-2025-05-10: pp. 15, 16, 17 · 2025-06-07: pp. 19, 20, 21 · 2025-09-23: pp. 11, 12, 13
+2025-05-10: pp. 15, 16, 17 · 2025-06-07: pp. 19, 20, 21 · 2025-09-23: pp. 11, 12, 13 · 2025-10-07: pp. 1, 2, 3

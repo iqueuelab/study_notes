@@ -31,6 +31,11 @@
 - Editorial adds **tariff/offtake disputes**, including NPCIL–Gujarat purchaser disagreement, to legal and financing obstacles. Proposed long-term power-purchase agreements, viability-gap support, predictable tariffs and stronger independent safety regulation seek bankable projects.
 - Its possible **49% FDI**, green-finance treatment and investor names are suggestions/speculation, not enacted investment permission or committed projects. Nuclear is low-carbon/non-fossil but not thereby renewable. Capacity/SMR targets and supplier-recourse distinctions remain as recorded above.
 
+## October 2025: proposed Nuclear Bill deliberations
+- The issue reports continuing deliberations on reform of Atomic Energy Act 1962 and Civil Liability for Nuclear Damage Act 2010 to expand private/foreign participation. Waste/reprocessing responsibility, access to sensitive R&D, investment terms and victim compensation remained contested; this is source-era proposal status, not enacted permission.
+- Existing notes already cover the 100-GW-by-2047 ambition, SMR mission, government-controlled operation, operator liability/supplier recourse and 220-MWe BSR distinction. Correct the source's **unlimited operator liability**: section 6 specifies category-dependent caps, including ₹1,500 crore for larger power reactors, and the overall statutory amount/central responsibility are separate. [2010 Act](https://www.indiacode.nic.in/bitstream/123456789/2084/5/A2010-38.pdf).
+- Its CSC table is misleading: CSC provides supplementary international compensation, India ratified in 2016, and supplier recourse is not equivalent to direct primary supplier liability. BSR/SMR size alone guarantees neither lower cost nor safer cooling; nuclear is non-fossil/low-carbon, not renewable. No inference of foreign ownership approval or fully settled regulator independence follows from PPP discussion.
+
 ## PDF coverage
 
-2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19 · 2025-06-17: pp. 1, 2, 3, 4, 5 · 2025-07-23: pp. 14, 15, 16, 17
+2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19 · 2025-06-17: pp. 1, 2, 3, 4, 5 · 2025-07-23: pp. 14, 15, 16, 17 · 2025-10-07: pp. 4, 5, 6, 7

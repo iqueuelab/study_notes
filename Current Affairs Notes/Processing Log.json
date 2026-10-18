@@ -4994,32 +4994,99 @@
     {
       "date": "2025-10-01",
       "pdf": "2025/10-October/2025-10-01.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "17343cbb04117d578f5a1bfcc7eb09b6e17901f2aa77d1a7fcdf0818c450207c",
+      "pages": 17,
+      "topic_ids": [
+        "adb",
+        "dugong-conservation",
+        "gaza-ceasefire",
+        "ncrb-crime-data",
+        "rodtep"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-02",
       "pdf": "2025/10-October/2025-10-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ab4235eda18285677eae3ed6d84bf1d5186d07f7ac4e606031a0a837fa005cd7",
+      "pages": 12,
+      "topic_ids": [
+        "antlions",
+        "bihar-ramsar-sites",
+        "ophiorrhiza-echinata",
+        "red-sanders"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-03",
       "pdf": "2025/10-October/2025-10-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4cde18f4ec8b782f0587093a817f1546c975a2686f2c72d9a206aade77881b23",
+      "pages": 18,
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "topic_ids": [
+        "e-waste",
+        "green-hydrogen",
+        "h125",
+        "irregular-migration",
+        "rice-cultivation",
+        "sir-creek",
+        "wheat"
+      ]
     },
     {
       "date": "2025-10-04",
       "pdf": "2025/10-October/2025-10-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "f6ea78874b4cd6f59237984b9f1b5a0c760585502cd5e52aa2e8e20a7868d85d",
+      "pages": 14,
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "topic_ids": [
+        "climate-finance-taxonomy",
+        "cough-cold-fdc",
+        "nato",
+        "stablecoins-cbdc"
+      ]
     },
     {
       "date": "2025-10-06",
       "pdf": "2025/10-October/2025-10-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "a30e66b0b958ce7ccb0e5de4e420c81c295b6d2f0a3765ae6548dc98df3058c0",
+      "pages": 18,
+      "topic_ids": [
+        "arbitration",
+        "coral-cryobank",
+        "disaster-risk-financing",
+        "employment-plfs",
+        "konkan",
+        "xenobiology"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-07",
       "pdf": "2025/10-October/2025-10-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "931a45d45376d4f80f00999c906e17853da09b22db0ce0cfa0315144a3684222",
+      "pages": 15,
+      "topic_ids": [
+        "arnala",
+        "assisted-dying",
+        "fisheries",
+        "nobel-medicine-2025",
+        "nuclear-liability"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-10-08",
@@ -6658,7 +6725,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-10-01",
+  "next_pdf": "2025-10-08",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -6740,6 +6807,11 @@
       "date": "2025-09-21",
       "status": "missing_source",
       "evidence": "No standalone 2025-09-21.pdf is listed in the September collection. Page 1 image of the adjacent 2025-09-22.pdf explicitly labels “22th Sept. 2025”; it has no combined 21–22 September label. Page 1 of 2025-09-23.pdf labels 23th Sept. 2025. Physical file-date coverage retained; no 21 September notes invented."
+    },
+    {
+      "date": "2025-10-05",
+      "status": "missing",
+      "evidence": "No standalone 2025-10-05.pdf in source inventory/jobs. Inspected adjacent page-one images: 2025-10-04 explicitly labelled 4 Oct. 2025 and 2025-10-06 explicitly labelled 6th Oct. 2025; neither carries a combined 5 October issue label. Actual reviewed physical coverage is Oct 3 (18 pages) and Oct 4 (14 pages); no Oct 5 notes invented."
     }
   ]
 }

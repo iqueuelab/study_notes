@@ -11,6 +11,14 @@
 - **BTIA:** India–EU trade/investment negotiations begun in 2007.
 - **Nature Restoration Law 2024:** EU ecosystem-restoration framework; measures aim to cover at least **20% of EU land and sea areas by 2030**, with longer-term restoration objectives. The 2025 PYQ identifies the EU.
 
+## October 2025: financing clean energy and resilience
+- Editorial argues that expanding generation alone is insufficient: grids, storage, transport, green hydrogen and climate-resilient agriculture need dependable capital. Source reports **24.5 GW solar additions in calendar 2024**, more than **one million renewable jobs in 2023** and **80,000 off-grid solar jobs in 2021**; these have different reference years. Its claim that renewables supplied **5% of GDP growth** lacks a defined method and should not be treated as an established national-account statistic.
+- Source's finance figures are estimates with different scopes: **US$1.5–2.5 trillion by 2030**; **US$55.9 billion cumulative GSS+ issuance by 2024**, purported **186% growth since 2021**, **83% green share/84% private share**, and **US$45 billion (2025)/US$100 billion (2030)** investment aspirations. They are not one verified annual flow or binding official funding commitment; “US$55.9 billion green bonds issued in 2024” incorrectly collapses cumulative/mixed-category data.
+- **GSS+** covers green, social, sustainability and sustainability-linked instruments. A social bond is not automatically a green/climate bond; use-of-proceeds instruments and performance-linked instruments require different checks. Sovereign green borrowing also needs transparent allocation and impact reporting.
+- **Blended finance:** combine public/concessional and private funds; partial guarantees, appropriately structured subordinated/first-loss capital and credit enhancement can reduce risk. Subordinated debt is not invariably identical to a first-loss guarantee. Public support should be additional, transparent and fiscally accountable.
+- Mobilise suitable institutional capital, including LIC/EPFO within applicable mandates, through credible project pipelines and risk/disclosure standards. MSMEs, agritech and local infrastructure need access beyond large issuers. Digital traceability/AI risk tools may assist oversight but cannot replace auditing; carbon-credit finance needs measured additional reductions and credible verification.
+- Fund **adaptation and loss-and-damage** alongside mitigation. Correct two source shortcuts: India's **500 GW goal concerns non-fossil capacity**, and OECD found the **US$100 billion developed-country finance goal first exceeded in 2022 (US$115.9 billion)**, two years late—not never met. Quantity, grant-equivalence, access and equity remain separate concerns. [OECD assessment](https://www.oecd.org/en/about/news/press-releases/2024/05/developed-countries-materially-surpassed-their-usd-100-billion-climate-finance-commitment-in-2022-oecd.html).
+
 ## PDF coverage
 
-2025-07-28: pp. 50, 51, 52, 53, 54, 55, 56 · 2025-08-02: pp. 33
+2025-07-28: pp. 50, 51, 52, 53, 54, 55, 56 · 2025-08-02: pp. 33 · 2025-10-04: pp. 6, 7, 8, 9

@@ -39,6 +39,13 @@
 - **UNGA Resolution 181, 1947:** proposed Arab/Jewish states and international Jerusalem; not an implemented consensual partition. Two-state proposals involve **West Bank, East Jerusalem and Gaza**. UN membership requires Security Council recommendation followed by General Assembly admission; a US veto blocked recommendation in April 2024.
 - Source's 146 recognitions and India's 54 supportive/8 abstention votes lack a consistent July 2025 cutoff. Gaza's “complete siege” clipping refers back to October 2023, not a newly established July event; crossing control must be dated. Existing notes preserve map/PYQ corrections, including the two-state question's correct **2018** year.
 
+## 29 September 2025: proposed 20-point Gaza plan
+- India welcomed the proposal; this issue describes a diplomatic opening, not an implemented peace settlement. Correct its vague “2024–25” heading to the **29 September 2025 proposal**.
+- Conditional ceasefire and staged Israeli withdrawal; all hostages, living/deceased, to return within **72 hours of Israel publicly accepting**. Proposed exchange **250 life-sentence prisoners + 1,700 Gazans detained after 7 October 2023**: **1,950**, not “2,000+”.
+- **Temporary technocratic Palestinian committee**, overseen by a **Trump-chaired Board of Peace**, including Tony Blair; reformed Palestinian Authority could later resume control. Thus immediate “only PA-led governance” overstates the text.
+- Proposed multinational **International Stabilisation Force**, support/training for vetted Palestinian police; Hamas excluded from governance, disarmament with conditional amnesty/safe passage. Reconstruction and special economic zone; voluntary departure with return, no forced displacement. Statehood pathway conditional, with no guaranteed date. [Original White House proposal, archived](https://www.presidency.ucsb.edu/documents/white-house-press-release-president-donald-j-trumps-comprehensive-plan-end-the-gaza).
+- Mains: humanitarian access, credible ceasefire/withdrawal monitoring, hostage/prisoner sequencing, legitimate Palestinian participation and a viable two-state political horizon. Regional support does not ensure both parties' acceptance, financing or implementation.
+
 ## PDF coverage
 
-2025-01-17: pp. 14, 15, 16 · 2025-03-19: pp. 13, 14, 15, 16, 17, 18 · 2025-04-25: pp. 4, 5, 6, 7, 8, 9 · 2025-07-28: pp. 43, 44, 45, 46, 47, 48, 49, 50 · 2025-08-02: pp. 30, 31, 32, 33 · 2025-09-06: pp. 2, 3, 4, 5, 6, 7
+2025-01-17: pp. 14, 15, 16 · 2025-03-19: pp. 13, 14, 15, 16, 17, 18 · 2025-04-25: pp. 4, 5, 6, 7, 8, 9 · 2025-07-28: pp. 43, 44, 45, 46, 47, 48, 49, 50 · 2025-08-02: pp. 30, 31, 32, 33 · 2025-09-06: pp. 2, 3, 4, 5, 6, 7 · 2025-10-01: pp. 1, 2, 3

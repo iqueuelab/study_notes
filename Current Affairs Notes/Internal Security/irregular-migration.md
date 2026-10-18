@@ -9,6 +9,10 @@
 - Responses: prosecute fraudulent/exploitative networks, regulate recruitment agents, improve safe legal migration information and livelihoods, cooperate across borders, and provide victim/consular support. Distinguish criminal organisers from migrants and protect privacy and due process.
 - The source's proposed 250-word mains question is a practice prompt, not an authenticated PYQ.
 
+## October 2025: investigation follow-up
+- Embedded report says **NIA chargesheeted two people in an India–US dunki-route case**, alleging a network involving irregular crossings, forged documents and exploitation. A chargesheet records allegations, not conviction.
+- The source repeats the July ED searches and route/cost/risk explanations already covered. Its visa-free-country assertions and folk etymology of “donkey route” are not verified travel rules or established linguistic history.
+
 ## PDF coverage
 
-2025-07-10: pp. 21, 22, 23, 24
+2025-07-10: pp. 21, 22, 23, 24 · 2025-10-03: pp. 3, 4, 5

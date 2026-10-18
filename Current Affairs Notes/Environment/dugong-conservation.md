@@ -12,6 +12,11 @@
 - Recommended: map/restore seagrass, regulate damaging fishing/boating/development, support alternative livelihoods, train fishers in sightings/strandings, community education/ecotourism safeguards, research/population/genetic monitoring and appropriate tracking/drone/citizen-science tools. Source's blanket gillnet/trawl ban is a recommendation, not proof a nationwide ban enacted.
 - **PYQ 2015 answer (c) 1 and 3:** herbivorous marine animal + Schedule I protection; entire-coast statement false.
 
+## October conservation commentary
+- Article highlights fishers releasing by-caught dugongs, WII/OMCAR monitoring and seagrass mapping as an integrated conservation approach; funding, trawling, dredging/ports, pollution, climate stress and India–Sri Lanka coordination remain challenges.
+- Source **200+ dugongs in Palk Bay** and claims of recovery/IUCN recognition are article reports, not a comparable long-term census proving recovery or a new IUCN status change. **~12,000 ha seagrass** is habitat coverage within the **~448 km² reserve**, not the reserve's total area. Existing notes retain correct **Palk Bay** location despite an inset saying Gulf of Mannar.
+- Repeated **20–30 tonnes/day** intake error is rejected; the image itself says **20–40 kg/day**, illustrating the unit confusion. Existing species/status/PYQ facts remain unchanged.
+
 ## PDF coverage
 
-2025-05-28: pp. 6, 7, 8, 9, 10, 11 · 2025-09-28: pp. 13, 14, 15
+2025-05-28: pp. 6, 7, 8, 9, 10, 11 · 2025-09-28: pp. 13, 14, 15 · 2025-10-01: pp. 11, 12, 13, 14, 15, 16

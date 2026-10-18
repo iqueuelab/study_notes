@@ -19,6 +19,12 @@
 - Response: heat-tolerant/short-duration varieties, zero tillage, crop rotation, water efficiency, soil-health measures, extension/KVKs and crop monitoring. Improve dry-grain storage and logistics; a general cold-chain prescription is not essential for ordinary wheat grain.
 - Balance domestic affordability, predictable trade policy and farmer incentives; diversify intensive monocultures to reduce groundwater pressure and pest/nutrient risks.
 
+## 1 October 2025: wheat MSP for the 2026–27 marketing season
+- Cabinet approved **₹2,585/quintal**, up **₹160** from ₹2,425 in 2025–26, about **6.60%**. Marketing-season labels differ from the sowing/crop-year label. [Cabinet announcement](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2173827&lang=2&reg=48).
+- Source reports a **119 million tonne production target for crop year 2025–26**; a target is not a harvest estimate or achieved output. Its **318.33 lakh ha** wheat area refers to **2023–24**. Trade destinations, less-than-1% world-trade share and China–India–Russia production ranking are source-period snapshots, not permanent trade rules.
+- CACP recommends MSP; Union government approves. Correct the source's “23 MSP crops”: **MSP is announced for 22 mandated crops**, with a separate **fair and remunerative price for sugarcane**. [Official MSP explanation](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/oct/doc20251010662401.pdf). Procurement coverage/conditions vary; announcement does not guarantee universal purchase of all output.
+- Higher MSP can support planting incentives, farm income and procurement buffers, while raising fiscal/procurement costs and potentially reinforcing water-intensive cropping. Consumer-price effects depend on output, stocks, releases and markets; an MSP increase does not automatically lower inflation.
+
 ## PDF coverage
 
-2025-04-21: pp. 8, 9, 10, 11
+2025-04-21: pp. 8, 9, 10, 11 · 2025-10-03: pp. 5, 6, 7, 8

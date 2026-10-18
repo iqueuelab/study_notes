@@ -7,6 +7,13 @@
 - Most uncomplicated childhood colds are viral/self-limiting; indiscriminate FDC use may obscure diagnosis or expose children to unnecessary medicines. The source’s second-generation antihistamine examples are not substitutes appropriate for every age/illness.
 - **Honey is unsuitable for infants under 12 months**; omit the source’s unqualified honey recommendation. Public-health priorities: responsible prescribing, label enforcement, pharmacist/parent information, clinician continuing education, adequate inspectors and clear stock-management instructions. A recommended recall is distinct from an actual mandatory recall order.
 
+## October 2025: syrup quality investigation and paediatric advisory
+- Issue reports **nine child deaths in Madhya Pradesh and two in Rajasthan** under investigation; these are the issue's provisional counts, not a final outbreak toll or proof of a common cause.
+- Initial Centre-sampled syrups reportedly tested negative for **diethylene glycol (DEG)/ethylene glycol (EG)**, while Tamil Nadu reported **Coldrif batch SR-13** adulteration and action against **Sresan Pharmaceuticals, Kancheepuram**. Results for different samples/times cannot establish every bottle was safe; the initial negative statement must not be treated as final exoneration.
+- **3 October DGHS advisory:** cough/cold medicines should **not be prescribed or dispensed below two years**, are generally not recommended below five, and require careful assessment/supervision above that. Correct the source's “below two unless prescribed” exception. [Official broadcaster, 3 October](https://newsonair.gov.in/centre-issues-an-advisory-states-on-use-of-cough-syrups-for-children/).
+- DEG/EG contamination can cause severe kidney injury; toxic industrial chemicals can enter pharmaceutical excipients through adulteration or poor quality control. **Propylene glycol can be a source of contamination; it does not ordinarily just degrade into DEG/EG**, as the source suggests. DEG and EG have different metabolic pathways; avoid treating them as interchangeable chemicals.
+- CDSCO coordinates central standards/regulation; State controllers license/inspect relevant manufacturing and sales establishments under the Drugs and Cosmetics framework. Batch traceability, verified excipient suppliers, GMP/Schedule M compliance, timely interstate alerts and rational prescribing are complementary safeguards. Earlier Gambia/Uzbekistan/Jammu incidents illustrate recurring risks, but the source's historical death totals are provisional reports rather than harmonised final counts.
+
 ## PDF coverage
 
-2025-05-16: pp. 3, 4, 5, 6
+2025-05-16: pp. 3, 4, 5, 6 · 2025-10-04: pp. 4, 5, 6
