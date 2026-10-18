@@ -10,6 +10,26 @@
       "question_number": 2,
       "marks": 12.5,
       "word_limit": 200
+    },
+    {
+      "year": 2015,
+      "chapter": "2. Harappan Civilisation / Bronze Age",
+      "question": "The ancient civilization in Indian sub-continent differed from those of Egypt, Mesopotamia and Greece in that its culture and traditions have been preserved without a breakdown to the present day. Comment.",
+      "paper": "General Studies I",
+      "question_number": 1,
+      "marks": 12.5,
+      "word_limit": 200
+    },
+    {
+      "year": 2014,
+      "chapter": "2. Harappan Civilisation / Bronze Age",
+      "question": "To what extent has the urban planning and culture of the Indus Valley Civilization provided inputs to the present day urbanization? Discuss.",
+      "paper": "General Studies I"
+    },
+    {
+      "year": 1996,
+      "chapter": "2. Harappan Civilisation / Bronze Age",
+      "question": "Write about the chief features of the town planning in Indus Valley Civilization."
     }
   ]
 }

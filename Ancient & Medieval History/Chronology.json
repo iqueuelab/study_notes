@@ -6,6 +6,12 @@
       "short_label": "C1",
       "title": "Pre-Historic India",
       "notes": "01. Pre-Historic India/Quick Revision Notes.html"
+    },
+    "2": {
+      "label": "Chapter 2",
+      "short_label": "C2",
+      "title": "Harappan Civilisation / Bronze Age",
+      "notes": "02. Harappan Civilisation:Bronze Age(c. 2600-1900 BCE)/Quick Revision Notes.html"
     }
   },
   "eras": [
@@ -113,6 +119,19 @@
       "end_year": -1000
     },
     {
+      "id": "early-harappan",
+      "start_year": -3300,
+      "date_label": "c.3300/3200–2600 BCE",
+      "title": "Early Harappan / Regionalisation",
+      "summary": "Regional villages and fortified towns, crafts, trade and wheeled transport develop; dates vary by site.",
+      "category": "Harappan period",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": true,
+      "end_year": -2600
+    },
+    {
       "id": "burzahom",
       "start_year": -3000,
       "date_label": "c.3000–1000 BCE · broad sequence",
@@ -152,6 +171,19 @@
       "end_year": -1900
     },
     {
+      "id": "mature-harappan",
+      "start_year": -2600,
+      "date_label": "c.2600–1900 BCE",
+      "title": "Mature Harappan / Integration",
+      "summary": "Large cities, shared script/seals, weights and brick proportions; regional diversity persists.",
+      "category": "Harappan period",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": true,
+      "end_year": -1900
+    },
+    {
       "id": "ne-nl",
       "start_year": -2500,
       "date_label": "c.2500 BCE–1500 BCE",
@@ -176,6 +208,19 @@
       ],
       "is_turning_point": false,
       "end_year": -2000
+    },
+    {
+      "id": "late-harappan",
+      "start_year": -1900,
+      "date_label": "c.1900–1300 BCE",
+      "title": "Late Harappan / Localisation",
+      "summary": "Urban contraction, regional settlement/craft changes and agricultural adaptation; not complete disappearance of population or culture.",
+      "category": "Harappan period",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": true,
+      "end_year": -1300
     },
     {
       "id": "prabhas",
@@ -329,6 +374,103 @@
       "end_year": 1868
     },
     {
+      "id": "harappa-excavation",
+      "start_year": 1921,
+      "date_label": "1921",
+      "title": "Sahni excavates Harappa",
+      "summary": "Daya Ram Sahni’s excavations initiate recognition of the major urban site.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "mohenjo-excavation",
+      "start_year": 1922,
+      "date_label": "1922",
+      "title": "Banerji investigates Mohenjo-daro",
+      "summary": "R.D. Banerji’s work helps reveal the second great urban site.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "harappan-announcement",
+      "start_year": 1924,
+      "date_label": "1924",
+      "title": "Indus civilisation publicly announced",
+      "summary": "John Marshall announces the recognition of a previously unknown ancient civilisation; distinguish discovery, excavation and publication.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "amri-excavation",
+      "start_year": 1929,
+      "date_label": "1929",
+      "title": "Majumdar excavates Amri",
+      "summary": "Early regional occupation and later cultural sequences documented.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "chanhudaro-work",
+      "start_year": 1931,
+      "date_label": "1931",
+      "title": "Majumdar investigates Chanhudaro",
+      "summary": "Subsequent Mackay excavations reveal specialised craft activity.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "ropar-work",
+      "start_year": 1953,
+      "date_label": "1953",
+      "title": "Y.D. Sharma begins Ropar excavations",
+      "summary": "Multi-period settlement and cemetery evidence; the site is on the Sutlej.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "kotdiji-work",
+      "start_year": 1955,
+      "date_label": "1955",
+      "title": "F.A. Khan excavates Kot Diji",
+      "summary": "Early Harappan fortified settlement and destruction layers documented.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "lothal-work",
+      "start_year": 1955,
+      "date_label": "1955–1962",
+      "title": "Lothal excavations",
+      "summary": "S.R. Rao’s excavations identify the basin/dockyard interpretation, workshops and other urban features.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false,
+      "end_year": 1962
+    },
+    {
       "id": "wakankar",
       "start_year": 1957,
       "date_label": "1957–58",
@@ -342,6 +484,81 @@
       "end_year": 1958
     },
     {
+      "id": "alamgirpur-work",
+      "start_year": 1958,
+      "date_label": "1958",
+      "title": "Alamgirpur excavated",
+      "summary": "Y.D. Sharma investigates Late Harappan remains in the Hindon region.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "kalibangan-work",
+      "start_year": 1960,
+      "date_label": "1960–1969",
+      "title": "Kalibangan major excavation programme",
+      "summary": "B.B. Lal, B.K. Thapar and colleagues investigate early/mature phases, ploughed field and features interpreted as fire altars.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false,
+      "end_year": 1969
+    },
+    {
+      "id": "surkotada-work",
+      "start_year": 1964,
+      "date_label": "1964",
+      "title": "Surkotada identified",
+      "summary": "J.P. Joshi identifies the Kutch site; equid remains later prompt a disputed horse identification.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "banawali-work",
+      "start_year": 1973,
+      "date_label": "1973–1974",
+      "title": "Banawali excavations begin",
+      "summary": "R.S. Bisht’s work documents early/mature settlement and the terracotta plough model.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false,
+      "end_year": 1974
+    },
+    {
+      "id": "dholavira-work",
+      "start_year": 1989,
+      "date_label": "1989–2005",
+      "title": "Dholavira major excavations",
+      "summary": "R.S. Bisht’s programme exposes fortified divisions, water management and the ten-sign inscription; field seasons are often described as 1989/90–2005.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false,
+      "end_year": 2005
+    },
+    {
+      "id": "bhirrana-study",
+      "start_year": 2016,
+      "date_label": "2016",
+      "title": "Bhirrana chronology and climate study",
+      "summary": "Research proposes earlier local occupation and examines monsoon/subsistence change; this does not redate the mature urban phase to 7000 BCE.",
+      "category": "Research and heritage",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
       "id": "attirampakkam-research",
       "start_year": 2018,
       "date_label": "2018",
@@ -352,6 +569,42 @@
         "1"
       ],
       "is_turning_point": false
+    },
+    {
+      "id": "rakhigarhi-genome",
+      "start_year": 2019,
+      "date_label": "2019",
+      "title": "Rakhigarhi genome study published",
+      "summary": "One successfully analysed Harappan genome shows no detected Steppe-pastoralist ancestry in that individual; broad genetic/linguistic claims require more evidence.",
+      "category": "Research and heritage",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "budget-iconic",
+      "start_year": 2020,
+      "date_label": "2020",
+      "title": "Five iconic archaeological destinations proposed",
+      "summary": "Budget 2020–21 includes Rakhigarhi, Dholavira, Hastinapur, Sivasagar and Adichanallur; proposal is distinct from completion.",
+      "category": "Research and heritage",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "dholavira-unesco",
+      "start_year": 2021,
+      "date_label": "2021",
+      "title": "Dholavira inscribed as World Heritage",
+      "summary": "UNESCO recognises the Harappan city; its urban layout and water management are key attributes.",
+      "category": "Research and heritage",
+      "chapters": [
+        "2"
+      ],
+      "is_turning_point": true
     },
     {
       "id": "mehrgarh-redating",

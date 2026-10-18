@@ -1,5 +1,78 @@
 {
   "subject": "Ancient & Medieval History",
   "exam_stage": "Prelim",
-  "questions": []
+  "questions": [
+    {
+      "year": 2021,
+      "chapter": "2. Harappan Civilisation / Bronze Age",
+      "question": "Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs?",
+      "options": {
+        "a": "Dholavira",
+        "b": "Kalibangan",
+        "c": "Rakhigarhi",
+        "d": "Ropar"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2019,
+      "chapter": "2. Harappan Civilisation / Bronze Age",
+      "question": "Which one of the following is not a Harappan site?",
+      "options": {
+        "a": "Chanhudaro",
+        "b": "Kot Diji",
+        "c": "Sohgaura",
+        "d": "Desalpur"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2013,
+      "chapter": "2. Harappan Civilisation / Bronze Age",
+      "question": "Which of the following characterizes/characterize the people of Indus Civilization?\n1. They possessed great palaces and temples.\n2. They worshipped both male and female deities.\n3. They employed horse-drawn chariots in warfare.\nSelect the correct statement/statements using the codes given below.",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1, 2 and 3",
+        "d": "None of the statements given above is correct."
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2011,
+      "chapter": "2. Harappan Civilisation / Bronze Age",
+      "question": "Regarding the Indus Valley Civilization, consider the following statements:\n1. It was predominantly a secular civilization and the religious element, though present, did not dominate the scene.\n2. During this period, cotton was used for manufacturing textiles in India.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2002,
+      "chapter": "2. Harappan Civilisation / Bronze Age",
+      "question": "Match List I with List II and select the correct answer using the codes given below:\nList I (Ancient Site): A. Lothal; B. Kalibangan; C. Dholavira; D. Banawali.\nList II (Finding): 1. Ploughed field; 2. Dockyard; 3. Terracotta replica of a plough; 4. An inscription comprising ten large-sized signs of the Harappan script.\nCodes (A–B–C–D):",
+      "options": {
+        "a": "1–2–3–4",
+        "b": "2–1–4–3",
+        "c": "1–2–4–3",
+        "d": "2–1–3–4"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2002,
+      "chapter": "2. Harappan Civilisation / Bronze Age",
+      "question": "Which of the following animals was not represented in seals and terracotta art of Harappan sculpture?",
+      "options": {
+        "a": "Cow",
+        "b": "Elephant",
+        "c": "Rhinoceros",
+        "d": "Tiger"
+      },
+      "answer": "a"
+    }
+  ]
 }

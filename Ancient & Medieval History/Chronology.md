@@ -44,6 +44,12 @@ Farming/herding, ground tools, durable villages and pottery in many phases. Conv
 
 *Cultural period · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
 
+### c.3300/3200–2600 BCE · Early Harappan / Regionalisation
+
+Regional villages and fortified towns, crafts, trade and wheeled transport develop; dates vary by site.
+
+*Harappan period · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
 ## 3000–1 BCE · Regional cultures and oral traditions
 
 ### c.3000–1000 BCE · broad sequence · Burzahom habitation sequence
@@ -64,6 +70,12 @@ Banas basin; Ahar, Gilund and Balathal; chapter chronology, with broader regiona
 
 *Cultural period · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
 
+### c.2600–1900 BCE · Mature Harappan / Integration
+
+Large cities, shared script/seals, weights and brick proportions; regional diversity persists.
+
+*Harappan period · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
 ### c.2500 BCE–1500 BCE · Northeastern Neolithic reference horizon
 
 Broad chapter range, or later; Daojali Hading and Garo hills illustrate regional diversity.
@@ -75,6 +87,12 @@ Broad chapter range, or later; Daojali Hading and Garo hills illustrate regional
 Chhoti Kali Sindh/Chambal drainage, Madhya Pradesh; dates depend on phase and excavation.
 
 *Cultural period · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
+
+### c.1900–1300 BCE · Late Harappan / Localisation
+
+Urban contraction, regional settlement/craft changes and agricultural adaptation; not complete disappearance of population or culture.
+
+*Harappan period · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
 
 ### c.1800 BCE–1400 BCE · Prabhas reference band
 
@@ -152,17 +170,119 @@ Early modern discovery/documentation, not the date the paintings were made.
 
 *Archaeological discovery · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
 
+### 1921 · Sahni excavates Harappa
+
+Daya Ram Sahni’s excavations initiate recognition of the major urban site.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1922 · Banerji investigates Mohenjo-daro
+
+R.D. Banerji’s work helps reveal the second great urban site.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1924 · Indus civilisation publicly announced
+
+John Marshall announces the recognition of a previously unknown ancient civilisation; distinguish discovery, excavation and publication.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1929 · Majumdar excavates Amri
+
+Early regional occupation and later cultural sequences documented.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1931 · Majumdar investigates Chanhudaro
+
+Subsequent Mackay excavations reveal specialised craft activity.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1953 · Y.D. Sharma begins Ropar excavations
+
+Multi-period settlement and cemetery evidence; the site is on the Sutlej.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1955 · F.A. Khan excavates Kot Diji
+
+Early Harappan fortified settlement and destruction layers documented.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1955–1962 · Lothal excavations
+
+S.R. Rao’s excavations identify the basin/dockyard interpretation, workshops and other urban features.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
 ### 1957–58 · Wakankar identifies Bhimbetka shelters
 
 V.S. Wakankar’s survey brought the rock shelters to scholarly attention.
 
 *Archaeological discovery · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
 
+### 1958 · Alamgirpur excavated
+
+Y.D. Sharma investigates Late Harappan remains in the Hindon region.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1960–1969 · Kalibangan major excavation programme
+
+B.B. Lal, B.K. Thapar and colleagues investigate early/mature phases, ploughed field and features interpreted as fire altars.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1964 · Surkotada identified
+
+J.P. Joshi identifies the Kutch site; equid remains later prompt a disputed horse identification.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1973–1974 · Banawali excavations begin
+
+R.S. Bisht’s work documents early/mature settlement and the terracotta plough model.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1989–2005 · Dholavira major excavations
+
+R.S. Bisht’s programme exposes fortified divisions, water management and the ten-sign inscription; field seasons are often described as 1989/90–2005.
+
+*Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 2016 · Bhirrana chronology and climate study
+
+Research proposes earlier local occupation and examines monsoon/subsistence change; this does not redate the mature urban phase to 7000 BCE.
+
+*Research and heritage · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
 ### 2018 · Attirampakkam Middle Palaeolithic dating published
 
 Luminescence study dates the local transition around 385 ±64 ka and continuation to 172 ±41 ka; not a uniform subcontinental chronology.
 
 *Research · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
+
+### 2019 · Rakhigarhi genome study published
+
+One successfully analysed Harappan genome shows no detected Steppe-pastoralist ancestry in that individual; broad genetic/linguistic claims require more evidence.
+
+*Research and heritage · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 2020 · Five iconic archaeological destinations proposed
+
+Budget 2020–21 includes Rakhigarhi, Dholavira, Hastinapur, Sivasagar and Adichanallur; proposal is distinct from completion.
+
+*Research and heritage · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 2021 · Dholavira inscribed as World Heritage
+
+UNESCO recognises the Harappan city; its urban layout and water management are key attributes.
+
+*Research and heritage · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
 
 ### 2025 · Mehrgarh Period I re-dating study
 
