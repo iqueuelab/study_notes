@@ -23,4 +23,4 @@ Microwave pulse from moving satellite/aircraft → surface backscatter → coher
 
 ## PDF coverage
 
-2025-06-18: pp. 23, 24 · 2025-07-22: pp. 21, 22 · 2025-07-27: pp. 19 · 2025-07-29: pp. 8, 9, 10, 11
+2025-06-18: pp. 23, 24 · 2025-07-22: pp. 21, 22 · 2025-07-27: pp. 19 · 2025-07-29: pp. 8, 9, 10, 11 · 2025-08-02: pp. 40, 41

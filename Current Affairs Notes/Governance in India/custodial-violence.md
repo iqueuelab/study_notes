@@ -14,6 +14,12 @@
 - **D.K. Basu (1997)**: arrest memo, informing relatives, medical examination and access to legal safeguards. **Nambi Narayanan (2018)** illustrates compensation for wrongful arrest. The sheet's Ram Sagar Yadav (1985) sentence should not be memorised as an automatic universal reversal of the criminal burden of proof; custodial evidence requires careful judicial evaluation.
 - India signed **UNCAT in 1997** but had not ratified it in the source period. Ratification and a dedicated anti-torture framework, independent complaints/investigation, medical documentation, witness/victim protection, legal aid and separation of investigation from routine law-and-order duties are reform proposals. Do not equate preventive detention with proof a person was about to commit an offence, or every custodial death with proven torture.
 
+## Evidence-led interrogation
+- July 31 editorial contrasts coercive 'Dirty Harry' policing with professional investigation. Source's **687 deaths,2018–19 to 2022–23**, is a reported **police-custody** series; do not merge it with all police+judicial custody deaths or assume every death was proven torture.
+- Torture undermines memory and encourages false confessions. Better methods: **PEACE—Preparation and Planning, Engage and Explain, Account, Closure, Evaluation**; rapport, open questions, recorded interviews, corroboration and forensic evidence. HIG research and wrongful-confession histories support examining reliability rather than romanticising coercion.
+- Source cites **Global Torture Index 2025 high-risk classification**, an external assessment, not a court finding in every case. Law Commission's **273rd report (2017)** recommended a dedicated anti-torture law; existing July 11 notes cover UNCAT status, D.K. Basu and legal safeguards.
+- Invest in forensic capacity/training, independent complaints and investigation, witness protection, medical access and accountable supervision. The daily mains prompt is publisher practice, not a UPSC PYQ.
+
 ## PDF coverage
 
-2025-07-03: pp. 3, 4, 5 · 2025-07-11: pp. 10, 11, 12, 13, 14
+2025-07-03: pp. 3, 4, 5 · 2025-07-11: pp. 10, 11, 12, 13, 14 · 2025-07-31: pp. 12, 13, 14 · 2025-08-02: pp. 70, 71, 72, 73

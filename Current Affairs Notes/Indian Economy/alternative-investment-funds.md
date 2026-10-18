@@ -9,6 +9,12 @@
 ## PYQ distinction
 - Page 22 scanned investments question: **hedge funds and venture capital = two**; bonds/stocks are instruments. The handwritten “only three” marking is incorrect. **2025 year verified against official UPSC GS-I booklet, question 1** (the supplied clipping is question 31 in a different set). [Official paper](https://www.upsc.gov.in/sites/default/files/QP-CSP-25-GENERAL-STUDIES-PAPER-I-26052025.pdf).
 
+## RBI investment directions: 29 July 2025
+- For RBI-regulated entities investing in an AIF scheme: **individual contribution ≤10%** of scheme corpus; **all REs collectively ≤20%**. These are shares of the **AIF scheme corpus**, not of a bank's total assets. Effective **1 January 2026**, or earlier adoption through the RE's policy. [RBI directions](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12886) (core July provisions; linked text later adds an October exemption, which is outside this issue period).
+- Where an RE contributes **more than 5%** and the AIF has downstream **non-equity** investment in its debtor company, proportionate **100% provisioning** applies, capped at direct exposure under the rule. Purpose: curb evergreening and concentration while allowing legitimate investment; this is not a blanket AIF ban.
+- AIFs raise funds **privately**, may be trusts/companies/LLPs; general minimum investment **₹1 crore**, with regulatory exceptions. Category label alone does not guarantee a fixed risk level.
+- Repeated 2025 PYQ: **hedge funds + venture capital = two**; securities held by a fund are not themselves funds. **NBFC 2010 recall:** may acquire government securities, but cannot accept demand deposits; banking functions and permissions vary by NBFC category.
+
 ## PDF coverage
 
-2025-05-31: pp. 19, 20, 21, 22, 23
+2025-05-31: pp. 19, 20, 21, 22, 23 · 2025-07-30: pp. 6, 7, 8, 9, 10, 11 · 2025-08-02: pp. 53, 54

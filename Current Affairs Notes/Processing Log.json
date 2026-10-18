@@ -3953,32 +3953,152 @@
     {
       "date": "2025-07-30",
       "pdf": "2025/07-July/2025-07-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "97ebd859d50e8cbe11ab2de2599367b2b035cfdeb4c036bcf227b5b8cc383381",
+      "pages": 26,
+      "topic_ids": [
+        "alternative-investment-funds",
+        "barbados",
+        "barbados-threadsnake",
+        "gini-inequality",
+        "glof",
+        "ibca",
+        "imf-world-bank",
+        "pralay"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-31",
       "pdf": "2025/07-July/2025-07-31.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "377e90ac6f421d1b675f0636f51fbfcfe07f0bcc3aa11fb2000fe7d6c982a73e",
+      "pages": 18,
+      "topic_ids": [
+        "custodial-violence",
+        "india-uae-relations",
+        "legal-aid",
+        "leprosy",
+        "mospi-data",
+        "unsc-1267"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-01",
       "pdf": "2025/08-August/2025-08-01.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0d9509ddfa3562d90c7b8fd02bdb3dbbe407a9957befb4c863698baedbf8f3c5",
+      "pages": 16,
+      "topic_ids": [
+        "green-hydrogen",
+        "hope-analogue",
+        "kisan-sampada",
+        "malaria",
+        "naval-platforms",
+        "nep-governance"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-02",
       "pdf": "2025/08-August/2025-08-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d997272cf2b299e18b437f121e06588dad64070951e409746c234e6c21ee5fa5",
+      "pages": 108,
+      "topic_ids": [
+        "alternative-investment-funds",
+        "axiom-4",
+        "barbados",
+        "barbados-threadsnake",
+        "bluebird",
+        "chola-legacy",
+        "climate-finance-taxonomy",
+        "coconut",
+        "contaminated-sites",
+        "custodial-violence",
+        "drones-uav",
+        "eos09",
+        "fide",
+        "gaza-ceasefire",
+        "gini-inequality",
+        "glof",
+        "golden-jackal",
+        "green-hydrogen",
+        "hope-analogue",
+        "ibca",
+        "imec",
+        "imf-world-bank",
+        "india-japan",
+        "india-uae-relations",
+        "india-uk-ceta",
+        "iran-nuclear-npt",
+        "kala-utsav",
+        "kisan-sampada",
+        "legal-aid",
+        "leprosy",
+        "malaria",
+        "mangroves",
+        "maritime-finance",
+        "mospi-data",
+        "nasa-dynamic-targeting",
+        "national-film-awards",
+        "naval-platforms",
+        "navic",
+        "nep-governance",
+        "ordinary-residence-voting",
+        "pralay",
+        "sacred-groves",
+        "sar-nisar",
+        "startup20",
+        "unsc-1267"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-04",
       "pdf": "2025/08-August/2025-08-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7da400b2413b980cd4c9fdd3ed018092690e940f5ca7e515f7a69deb0b3225c6",
+      "pages": 23,
+      "topic_ids": [
+        "biosimilars",
+        "cisf",
+        "dnt-seed",
+        "ibrri",
+        "mithun",
+        "nangarni-spardha",
+        "naval-platforms",
+        "oreshnik",
+        "potato-cultivation",
+        "red-panda",
+        "right-to-repair",
+        "rocket-propulsion",
+        "wind-bird-mortality",
+        "xenophobia-racism"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-05",
       "pdf": "2025/08-August/2025-08-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3781ffcb4c80ff6dc089fb9afc50cc1dbb86fef208402583020b5abaf3f50789",
+      "pages": 16,
+      "topic_ids": [
+        "asian-giant-tortoise",
+        "battery-waste",
+        "fighter-aircraft",
+        "oil-palm",
+        "women-armed-forces"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-06",
@@ -5917,7 +6037,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-07-30",
+  "next_pdf": "2025-08-06",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -5979,6 +6099,11 @@
       "date": "2025-07-13",
       "status": "Physical July 13 file internally labelled 12 July 2025; retained physical-file date for coverage and no invented separate July 13 issue.",
       "evidence": "2025/07-July/2025-07-13.pdf page 1 header reads 12th July 2025"
+    },
+    {
+      "date": "2025-08-03",
+      "status": "No combined Aug3 coverage label on the Aug4 PDF; retain missing standalone-source gap recorded by worker08.",
+      "evidence": "2025-08-04.pdf page1 cover explicitly reads 4th Aug.2025 only; 23-page issue."
     }
   ]
 }

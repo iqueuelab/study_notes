@@ -57,6 +57,13 @@
 - Tejas technology-demonstrator first flight **4 January 2001**; trainer is a two-seat operational-conversion aircraft retaining combat functions. Multirole weapons, refuelling, AESA/BVR/EW and improved maintenance should be understood by variant. [HAL aircraft brochure](https://hal-india.co.in/backend/wp-content/uploads/2022/12/LCA.pdf).
 - The PDF's **Mach 1.8 and 3,000-km combat range** conflict with its embedded Mk1 graphic (**Mach 1.6**) and lack mission/configuration qualifiers; do not learn ferry range as combat radius. Its **2025–26 Mk2 production** graphic is an older forecast, not proof achieved. Existing F404/F414 and naval-demonstrator distinctions correct the text's mixed variants.
 
+## August 2025 fleet transition
+- Two remaining **MiG-21 Bison squadrons (Panthers/Cobras)** were approaching retirement; India inducted **872 MiG-21s**, beginning in the 1960s with later HAL production. Source accident count **450+** is a cumulative report, not an investigation proving every loss resulted from age.
+- Engine delays constrained **83 Mk1A contract (2021, roughly ₹48,000 crore)**; additional **97** remained a proposed follow-on in this issue. The source's April first-F404-delivery claim conflicts with earlier March reporting already retained; no new completed delivery is established here.
+- Source describes planned upgrade of **84 Su-30MKIs**, acquisition of **12 replacements**, and longer-term **~600 fighters over two decades** spanning Mk1A/Mk2/MRFA/AMCA. Fleet strength, orders, proposals and targets are separate categories; blanket 'all Jaguars/Mirages/MiG-29s retired by 2030' is not a firm common retirement date.
+- **MRFA means Multi-Role Fighter Aircraft**, not 'Medium Role'; 114-aircraft competition remains prospective. GE F404 for Mk1A and F414 for Mk2 are distinct, and proposed local engine manufacture is not proof both are already license-built at scale.
+- **2024 PYQ repeated:** Rafale, MiG-29 and Tejas Mk1 are not fifth-generation—**none (d)**. Existing common bank already contains the full question; retain one copy.
+
 ## PDF coverage
 
-2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26 · 2025-03-18: pp. 1, 2, 3, 4, 5, 6, 7 · 2025-03-27: pp. 6, 7, 8, 9 · 2025-03-29: pp. 38, 39 · 2025-07-16: pp. 8, 9, 10 · 2025-07-23: pp. 9, 10, 11, 12
+2025-02-11: pp. 1, 2, 3, 4, 7, 8, 9, 10, 11 · 2025-02-12: pp. 10, 11, 12, 13 · 2025-02-14: pp. 11 · 2025-03-04: pp. 16, 17, 18, 19 · 2025-03-10: pp. 23, 24, 25, 26 · 2025-03-18: pp. 1, 2, 3, 4, 5, 6, 7 · 2025-03-27: pp. 6, 7, 8, 9 · 2025-03-29: pp. 38, 39 · 2025-07-16: pp. 8, 9, 10 · 2025-07-23: pp. 9, 10, 11, 12 · 2025-08-05: pp. 10, 11, 12, 13

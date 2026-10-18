@@ -10,6 +10,12 @@
 - Evaluate safety, cybersecurity, IP and product responsibility alongside affordability and competition. Self-declaration needs clear criteria and credible verification; parts availability and realistic cost matter beyond a score.
 - Source contrasts confrontational US campaigns with India's cooperative approach; US legal rules vary by jurisdiction/product, and tone is an editorial comparison. Circular-economy policy should include repair/reuse before material recycling.
 
+## Right to remember: informal repair knowledge
+- Editorial extends repairability to **tacit knowledge**: diagnosis/skills learned by observation, practice, apprenticeship and trial, often undocumented. Markets such as **Karol Bagh, Delhi, and Ritchie Street, Chennai** preserve knowledge for older/discontinued devices.
+- Sealed designs, rapid replacement, unavailable diagnostics/spares and exclusion from formal training can erode this expertise. Merely improving recycling does not preserve repair livelihoods or skills.
+- Proposals: recognise prior learning, community apprenticeships, technician participation in policy, safe documentation/digital repositories, design for disassembly and repairability in procurement. Link eligible workers to social protection; **e-Shram is a worker database/registration platform, not itself a skilling course**.
+- PMKVY/NEP/e-waste-policy gaps are the author's assessment, not proof those frameworks categorically prohibit repair training. AI-assisted codification needs practitioners' participation and knowledge rights; not all tacit skill is fully captured in manuals.
+
 ## PDF coverage
 
-2025-05-14: pp. 11, 12, 13
+2025-05-14: pp. 11, 12, 13 · 2025-08-04: pp. 21, 22, 23

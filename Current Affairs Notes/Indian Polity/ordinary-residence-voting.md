@@ -18,6 +18,13 @@
 - Safeguards: accessible forms/help for migrants and vulnerable groups, transparent constituency-level data, individual notice/hearing, reasoned correction and appeal, ample document opportunities and non-arbitrary standards. Compare Assam NRC only as a caution on costs/exclusion; electoral revision is not legally identical.
 - [ECI source-period progress release,23July2025](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147413&lang=2&reg=48).
 
+## Bihar draft roll: 1 August 2025
+- Draft after SIR enumeration includes **over 7.24 crore**, roughly **65 lakh below earlier 7.89 crore**. Draft omission is not proof every excluded person is foreign or permanently disenfranchised.
+- **Claims/objections 1 August–1 September** through prescribed forms/EROs; opportunities for inclusion/correction, individual reasons and due process. ECI release records **90,712 booths, 243 constituencies, 38 districts**, with distinct BLO, volunteer and party BLA roles. [ECI press note 1 August](https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2Fzznw5Qtyss%2B8ILdni0Z0RBAkwVPAdy67ySd4dS2SdwaNNq0p8WWXDoViUeHPyzG9HgKdCmUSHqA1uyd%2BQgGswdQ%3D%3D).
+- **RPA 1950 section 21(3)** permits special revision for recorded reasons; **Article 324** covers supervision/direction/control of rolls/elections. Practice wrongly cites RPA 1951.
+- Inclusive documentation, migrant assistance, transparent data, notice, hearing, reasoned decisions and remedies balance clean rolls with enfranchisement. Foreign-infiltration assertions/arbitrary-cutoff criticisms remain competing claims, not final findings.
+- **Mohinder Singh Gill** was decided **2 December 1977**, reported as **(1978) 1 SCC 405**; distinguish judgment date from report citation. Article 324 supplements statutory law, not overriding it. [Supreme Court judgment](https://api.sci.gov.in/jonew/judis/5188.pdf). Aadhaar/EPIC identity differs from citizenship proof; wider-document proposals do not make every card conclusive citizenship evidence.
+
 ## PDF coverage
 
-2025-07-14: pp. 20, 21, 22 · 2025-07-25: pp. 17, 18, 19, 20, 21
+2025-07-14: pp. 20, 21, 22 · 2025-07-25: pp. 17, 18, 19, 20, 21 · 2025-08-02: pp. 14, 15, 16, 105, 106, 107, 108

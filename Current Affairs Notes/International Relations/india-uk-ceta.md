@@ -8,6 +8,13 @@
 - **Double Contributions Convention:** July side-letter commitment to reciprocal exemption for qualifying temporarily detached workers, initially up to**three years**, while continuing home-system contributions. The source's **75,000** is an estimate, not an immigration quota or universal exemption for all Indian hires; DCC is distinct from income-tax relief and from visa rights. [UK July explainer, with later changes separately dated](https://www.gov.uk/government/publications/uk-india-trade-deal-double-contributions-convention-explainer).
 - Opportunities: labour-intensive exports, investment, service mobility and supply-chain links. Evaluate preference utilisation, rules of origin, standards, sector adjustment and procurement safeguards; projected trade gains are not realised outcomes.
 
+## Digital sovereignty: law and editorial
+- Digital sovereignty concerns control over data, infrastructure and regulation. CETA was signed, but **not yet operative at this issue date**.
+- **Article 12.15** source-code protection preserves **regulatory, judicial, inspection, enforcement/conformity-assessment exceptions**, with confidentiality safeguards; not a total loss of regulator access.
+- **Article 12.12** concerns **non-proprietary government information made public**, not compulsory release of all sensitive data.
+- **Article 12.20** specified later third-country commitments can trigger **consultations on equivalent data-flow/localisation disciplines**, not automatic present blanket free-flow concessions. [Treaty Chapter 12](https://www.gov.uk/government/publications/uk-india-ceta-chapter-12-digital-trade/chapter-12-digital-trade-web-version).
+- Editorial concerns about dependence should be evaluated with these safeguards; response: technology/cybersecurity expertise in negotiations, public scrutiny, clear data policy, indigenous capabilities and implementation monitoring.
+
 ## PDF coverage
 
-2025-07-27: pp. 14, 15, 16, 17, 18
+2025-07-27: pp. 14, 15, 16, 17, 18 · 2025-08-02: pp. 8, 9, 10, 11, 100, 101, 102, 103

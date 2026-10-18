@@ -22,6 +22,11 @@
 - CIP's China Asia-Pacific centre at **Yanqing, Beijing (2017)** is another regional institution. The source calls CSARC India's second such international agricultural regional centre after IRRI-SARC; **IRRI-SARC, Varanasi was inaugurated in 2018**, so its “established 2017” shorthand should not replace the inauguration date. [2018 inauguration](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1557772&lang=2&reg=48).
 - Existing crop requirements, source 1991–2021 growth series, UP/West Bengal leadership and conditional **2050** forecast cover the repeated cultivation section. “Third most consumed food” depends on crop/measure definition; avoid equating fresh potato tonnage with cereal calorie contribution.
 
+## July 2025 research: ancient hybrid origin
+- Cell study traced potato lineage to **hybridisation between ancestral tomato and Etuberosum lineages about 8–9 million years ago**, not potatoes descending directly from today's cultivated tomato. All belong to **Solanum/Solanaceae**; neither ancestral parental lineage had potato tubers.
+- Combined inherited genetic machinery enabled tuber development, vegetative reproduction and diversification into cold/dry Andean habitats; source cites **107 wild potato species** and roughly **40% tomato-like/60% Etuberosum-like ancestry** as study summaries, not a recipe for crossing modern crops.
+- Evolutionary insight may aid breeding for resilience; an inferred ancient origin does not itself establish a new released climate-proof cultivar. [Participating Natural History Museum, 31 July 2025](https://www.nhm.ac.uk/press-office/press-releases/scientists-reveal-the-origins-of-the-potato-and-find-the-key-to-.html).
+
 ## PDF coverage
 
-2025-05-21: pp. 6, 7, 8, 9, 10, 11, 12, 13, 14 · 2025-05-25: pp. 10, 11 · 2025-06-28: pp. 10, 11, 12, 13, 14
+2025-05-21: pp. 6, 7, 8, 9, 10, 11, 12, 13, 14 · 2025-05-25: pp. 10, 11 · 2025-06-28: pp. 10, 11, 12, 13, 14 · 2025-08-04: pp. 14, 15

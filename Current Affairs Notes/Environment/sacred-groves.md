@@ -46,4 +46,4 @@ Names describe local traditions, not uniform statewide statutory categories.
 
 ## PDF coverage
 
-2025-02-06: pp. 13, 14 · 2025-07-28: pp. 28, 29, 30
+2025-02-06: pp. 13, 14 · 2025-07-28: pp. 28, 29, 30 · 2025-08-02: pp. 25, 26

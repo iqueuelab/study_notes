@@ -33,6 +33,10 @@
 - Compare **space-returned, Earth-stored control and fresh seeds** for germination, growth, morphology, flowering/fruiting, yield and genetic changes over subsequent generations. Space radiation/microgravity may alter biology; beneficial mutations or higher yields are hypotheses, not demonstrated outcomes.
 - Collaboration involves ISRO/HSFC, IIST and KAU; source identifies project lead **K.G. Sreejalakshmi** and May 2025 MoU. The issue anticipates receipt of seeds after landing; completed mission return is recorded separately.
 
+## Gaganyaan forecast reported August 2025
+- Source plans **first uncrewed December 2025, two more 2026, crewed early 2027**: then-announced schedules, not completed flights/guarantees.
+- Orbital-module development, crew-escape testing and launch-vehicle human-rating are separate requirements; one qualification claim does not establish total mission readiness.
+
 ## PDF coverage
 
-2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8 · 2025-06-26: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1 · 2025-07-10: pp. 24 · 2025-07-15: pp. 9, 10, 11, 12
+2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8 · 2025-06-26: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1 · 2025-07-10: pp. 24 · 2025-07-15: pp. 9, 10, 11, 12 · 2025-08-02: pp. 3, 4, 95, 96

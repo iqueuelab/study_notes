@@ -27,6 +27,14 @@
 - Approval rested on the **Phase II/III CALINA** study. Burkina Faso, Côte d'Ivoire, Kenya, Malawi, Mozambique, Nigeria, Tanzania and Uganda participated in the **regulatory assessment** and were expected to grant rapid approvals; the sheet incorrectly calls all eight trial countries. Anticipated approval/access is distinct from completed rollout.
 - Dispersible infant formulation helps avoid unsafe extrapolation from older children's medicines; body weight/clinical eligibility matter more than a blanket age label such as “up to six months”.
 
+## August 2025 vaccines and elimination
+- **AdFalciVax**, ICMR-RMRC Bhubaneswar-led recombinant **P. falciparum** candidate: **PfCSP** pre-erythrocytic target fused with **PfsPro6C(Pfs230/Pfs48/45 transmission-blocking subdomains)**, produced in **Lactococcus lactis**. July technology-transfer invitation sought partners; **preclinical**, not licensed or completed human trials. [ICMR](https://www.icmr.gov.in/icmrobject/uploads/Call/1752741763_eoinoicmreoipm05malariavaccineadfalcivax2025.pdf).
+- Source's room-temperature stability, mice protection and 7–8 year development window are preclinical claims/estimates, not guaranteed human efficacy/approval. GMP, clinical comparisons, immune markers and scale-up remain.
+- **PfSPZ/PfSPZ-LARC2** whole-parasite approaches; **PfRH5** blood-cell invasion target; **Pfs230D1(Mali)/Pvs230D1M(Thailand)** transmission blocking. Source 96% antibody response, 79% protection, 78%/96% transmission figures represent different trials/endpoints, not interchangeable routine effectiveness.
+- **Both RTS,S/R21 use four-dose WHO schedules**; “R21 requires fewer doses” is misleading. [WHO 2024 position paper](https://www.who.int/publications/i/item/who-wer-9919-225-248).
+- WHO 2024 report estimated **263 million cases/597,000 deaths in 2023**, not 294 million. [WHO report](https://www.who.int/docs/default-source/malaria/world-malaria-reports/world-malaria-report-2024.pdf).
+- India 2030 elimination remains a target; asymptomatic reservoirs, vivax relapse, mixed infections, resistance and remote/tribal access complicate it. Jharkhand 20% mixed infections is source-specific study context, not national proportion. Vaccines complement nets, spraying, diagnosis, treatment and surveillance.
+
 ## PDF coverage
 
-2025-02-14: pp. 15, 16, 17, 18, 19 · 2025-06-26: pp. 30, 31, 32, 33, 34, 35, 36 · 2025-07-13: pp. 7, 8
+2025-02-14: pp. 15, 16, 17, 18, 19 · 2025-06-26: pp. 30, 31, 32, 33, 34, 35, 36 · 2025-07-13: pp. 7, 8 · 2025-08-01: pp. 12, 13, 14, 15, 16 · 2025-08-02: pp. 89, 90, 91, 92, 93

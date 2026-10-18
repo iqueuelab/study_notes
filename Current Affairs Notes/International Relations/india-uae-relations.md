@@ -22,6 +22,11 @@
 - Source estimates diaspora above 3.5 million and around 35% of population; treat population shares as dated estimates, not permanent ratios.
 - Strategic value: energy and export diversification, secure sea lanes, diaspora protection and partnerships in a multipolar order. Constraints: regional conflict, corridor implementation, commercial viability and coordination among multiple partners.
 
+## Earlier I2U2 proposals in the reproduced graphic
+- **July 2022** graphic: UAE proposed **US$2 billion** integrated food parks in India; a **US$330 million Gujarat hybrid renewable project**, about **300 MW(200 MW wind+100 MW solar)**. These were announced investment proposals, not proof all facilities were completed byJuly 2025.
+- July 31 clipping reports ministers agreeing to elevate defence ties; existing institutional, exercise, CEPA, payments, education, diaspora and connectivity notes cover the substantive background. Retain **2017** as the formal Comprehensive Strategic Partnership agreement date, despite the PDF's 2015 shorthand.
+- The supplementary graphic's implication that India operates/maintains the UAE's **Barakah nuclear plant** is unsupported; a cooperation discussion or agreement does not transfer plant operation to India.
+
 ## PDF coverage
 
-2025-04-09: pp. 3, 4, 5, 6
+2025-04-09: pp. 3, 4, 5, 6 · 2025-07-31: pp. 3, 4, 5, 6 · 2025-08-02: pp. 62, 63, 64

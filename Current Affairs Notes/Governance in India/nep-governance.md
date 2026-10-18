@@ -20,7 +20,14 @@
 - Source questions outcomes of **CSIR-NMITLI, Aakash tablet and IMPRINT**; demand programme-specific delivery/audit evidence rather than claiming no public outcome documentation exists. Vannevar Bush analogy and blanket dismissal of Indian startups are editorial judgments; service ventures and deep-tech ventures coexist.
 - Reform priorities: practical curriculum/apprenticeships, employability and tracer studies, research quality and reproducible outcomes, transparent funding/audits, industry–academic links and academic freedom. Equity does not logically require sacrificing excellence.
 
+## Early childhood care and education
+- NEP 2020 foundational stage includes **three preschool years 3–6**, then grades 1–2; **Balvatika I/II/III** may serve 3–4, 4–5, 5–6. Provision varies; all government schools have not already implemented every level.
+- **Play, stories, art, movement, exploration** support holistic development; avoid premature formal drills/ “schoolification”. School readiness must retain care, nutrition and health. [KVS](https://bsfbagafa.kvs.ac.in/en/bal-vatika/).
+- Source case: preschool expansion in **Dadra and Nagar Haveli and Daman and Diu** drew some 4–6-year-olds from Anganwadis to schools; not a national order to remove all 3–6-year-olds from Anganwadis.
+- Proposed opportunity: release worker capacity for **0–3 children, pregnant/lactating mothers, home visits**, while strengthening educational work via **Poshan Bhi Padhai Bhi**. Anganwadis already had preschool education responsibilities.
+- **First 1,000 days=conception to age 2**, different from 0–3. Early stimulation, parent support, nutrition and health interact; Perry Preschool/Odisha studies illustrate early intervention, not identical interventions at every age.
+- Implementation: Education–Women and Child Development coordination, Samagra Shiksha budgets, ECCE-trained teachers/workers, recruitment, age-appropriate spaces, home-visit time and quality monitoring. 14 lakh Anganwadis is a rounded infrastructure reference.
 
 ## PDF coverage
 
-2025-03-31: pp. 11, 12, 13, 14 · 2025-05-14: pp. 3, 4, 5, 6, 7, 8
+2025-03-31: pp. 11, 12, 13, 14 · 2025-05-14: pp. 3, 4, 5, 6, 7, 8 · 2025-08-01: pp. 10, 11, 12 · 2025-08-02: pp. 87, 88, 89

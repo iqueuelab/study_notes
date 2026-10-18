@@ -73,6 +73,16 @@
 - “Last foreign-built major warship” describes this procurement transition, not a legally permanent end to all imports or proof complete technological independence. Different batches' missiles/crew/speed need variant qualification; do not apply every Tamal specification to every earlier Talwar ship.
 - Project 1135.6 practice MCQ concerns **stealth frigate construction**, not a supplied PYQ.
 
+## Himgiri delivery: 31 July 2025
+- **Himgiri (Yard 3022)**, third delivered **Project 17A/Nilgiri-class** frigate and first built by **GRSE, Kolkata**, delivered 31 July. Delivery precedes commissioning.
+- Predecessor **INS Himgiri**, Leander class, decommissioned **6 May 2005** after 30 years, correcting source's May 2025. [Defence Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2150864&lang=2&reg=48).
+- Existing notes cover seven ships, MDL 4/GRSE 3, WDB, modular construction, indigenous supply chains and multirole warfare. Practice explanation establishes use of modular construction, not its unsupported **“first Indian naval project”** assertion.
+- Embedded classification: carriers operate aircraft; destroyers/frigates multirole warfare; corvettes smaller combatants; submarines underwater; patrol, research, training, amphibious, minesweeping ships have distinct tasks. Old **Vikrant “under construction”** label is stale.
+
+## INS Satpura and Singapore exercise
+- **INS Satpura**, second **Project 17/Shivalik-class stealth frigate**, built by **Mazagon Dock, Mumbai**, commissioned **20 August 2011**; Eastern Fleet, Visakhapatnam. Named after the Satpura range.
+- Source reports arrival in **Singapore for a bilateral maritime exercise**. Anti-air, anti-surface and anti-submarine roles support interoperability and maritime cooperation. It is neither a **Project 15A Kolkata-class destroyer** nor a GRSE-built frigate.
+
 ## PDF coverage
 
-2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5 · 2025-04-28: pp. 1, 2, 3, 4 · 2025-06-23: pp. 25, 26, 27, 28 · 2025-07-02: pp. 13, 14, 15, 16, 17, 18, 19
+2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5 · 2025-04-28: pp. 1, 2, 3, 4 · 2025-06-23: pp. 25, 26, 27, 28 · 2025-07-02: pp. 13, 14, 15, 16, 17, 18, 19 · 2025-08-01: pp. 3, 4, 5 · 2025-08-02: pp. 79, 80, 81 · 2025-08-04: pp. 4, 5

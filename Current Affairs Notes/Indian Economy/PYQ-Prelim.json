@@ -443,6 +443,18 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "d"
+    },
+    {
+      "chapter": "Alternative investment funds and venture-capital migration",
+      "year": 2010,
+      "question": "With reference to Non-Banking Financial Companies (NBFCs) in India, consider the following statements:\n1. They cannot engage in the acquisition of securities issued by the government.\n2. They cannot accept demand deposits like Savings Account.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
     }
   ]
 }

@@ -16,6 +16,10 @@
 - Stigma, hidden cases, delayed care, disability and remote/tribal access need trained primary care, rehabilitation, anti-discrimination and community participation.
 - WHO **2021–2030** global strategy, ILEP partners; BCG offers some protection but routine BCG programme is not a dedicated guaranteed leprosy vaccine. Free MDT is distinct from general health-insurance coverage.
 
+## July 2025 legal-discrimination development
+- Supreme Court urged States to amend/remove derogatory, discriminatory legal provisions against leprosy-affected people, including through special Assembly sessions/ordinances; clipping referred to **more than 145 State laws with objectionable provisions** and a compliance report due **7 October**. This is a direction toward reform, not evidence every State had already repealed them.
+- Existing clinical/MDT/NLEP notes cover the repeated disease background. Public-health elimination in 2005 did not mean eradication or absence of stigma; legal equality, rehabilitation and early detection remain priorities.
+
 ## PDF coverage
 
-2025-01-31: pp. 9, 10, 11, 12, 13, 14, 15
+2025-01-31: pp. 9, 10, 11, 12, 13, 14, 15 · 2025-07-31: pp. 7, 8, 9 · 2025-08-02: pp. 65, 66, 67

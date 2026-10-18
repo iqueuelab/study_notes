@@ -40,7 +40,10 @@
 - Source NCRB 2022 classification rates describe recorded convicted prisoners, not the proportion of an entire community committing crime. No recent cases under a law does not mean formal repeal.
 - Review discriminatory statutes/manuals; require individual evidence, due process and oversight; combine legal aid, documentation and non-stigmatising inclusion rather than community-based surveillance.
 
+## August 2025: permanent commission demand
+- A New Delhi national conference renewed the demand for a **permanent national commission for DNT/NT/SNT welfare**, and urged Parliament to address classification and inherited stigma. This repeats an Idate recommendation; it does not mean a new statutory commission was created.
+- Source SEED eligibility: family income **up to ₹2.5 lakh/year**, subject to exclusion of overlapping equivalent benefits. Existing notes retain the scheme's coaching, health, livelihood and housing components and distinguish the **2019 welfare board** from a permanent commission.
 
 ## PDF coverage
 
-2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42 · 2025-01-29: pp. 20, 21, 22, 23 · 2025-03-21: pp. 25, 26, 27, 28
+2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42 · 2025-01-29: pp. 20, 21, 22, 23 · 2025-03-21: pp. 25, 26, 27, 28 · 2025-08-04: pp. 8, 9, 10

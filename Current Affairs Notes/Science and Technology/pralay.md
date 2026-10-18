@@ -10,6 +10,11 @@
 - **2024 milestones**: long-range hypersonic anti-ship missile, **Zorawar light tank, ABHED lightweight bulletproof jacket**. Other contingents: **Nag, Pinaka, BrahMos, Akash**.
 - Display/test achievement differs from universal operational deployment. [DRDO announcement](https://drdo.gov.in/drdo/en/documents/press-release/theme-raksha-kavach-multilayer-protection-against-multi-domain-threats-drdo).
 
+## User evaluation trials: 28–29 July 2025
+- DRDO conducted consecutive successful tests from **Dr APJ Abdul Kalam Island, Odisha**, validating **maximum/minimum range**; Army/Air Force representatives attended. Tracking sensors and a ship near impact assessed trajectory, accuracy and subsystems. Trials do not by themselves establish universal operational induction. [Defence Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149610&lang=1&reg=3).
+- **Research Centre Imarat** led development with DRDO laboratories, **BDL/BEL**, industry and MSMEs. Quasi-ballistic guidance/manoeuvring, road mobility, solid propellant and varied conventional warheads support precision battlefield strikes.
+- Practice MCQ's answer text **1 and 3 only** corresponds to **option C**, despite the printed answer letter A; it is a practice question, not a UPSC PYQ.
+
 ## PDF coverage
 
-2025-01-24: pp. 1, 2, 3
+2025-01-24: pp. 1, 2, 3 · 2025-07-30: pp. 1, 2, 3 · 2025-08-02: pp. 49, 50, 51
