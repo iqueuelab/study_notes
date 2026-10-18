@@ -428,6 +428,85 @@
       ],
       "status": "excluded_coaching_practice",
       "question": "Daily Mains right-to-vote250word15mark prompt has no UPSC exam attribution/year."
+    },
+    {
+      "issue_date": "2025-07-23",
+      "pages": [
+        8
+      ],
+      "status": "practice_not_pyq",
+      "question": "Manual scavenging: constitutional safeguards; socio-economic/legal challenges and solutions (two 250-word prompts).",
+      "reason": "No year; contemporary coaching practice, not identified UPSC CSE PYQs."
+    },
+    {
+      "issue_date": "2025-07-25",
+      "pages": [
+        9,
+        10,
+        11
+      ],
+      "status": "practice_not_pyq",
+      "question": "Free Trade Agreements and public health in the context of the India–UK FTA (250 words).",
+      "reason": "Contemporary model question with no exam year; retain revision argument, exclude from PYQ bank."
+    },
+    {
+      "issue_date": "2025-07-26",
+      "pages": [
+        21
+      ],
+      "status": "Existing CSE 2015 mangrove/evergreen/deciduous question retained in common Environment bank; repeated source omits year; no duplicate appended."
+    },
+    {
+      "issue_date": "2025-07-26",
+      "pages": [
+        15
+      ],
+      "status": "Daily Mains question is coaching practice, not an identified UPSC PYQ; excluded."
+    },
+    {
+      "issue_date": "2025-07-27",
+      "pages": [
+        8,
+        13,
+        14
+      ],
+      "status": "ICC and temple MCQs are practice; excluded from CSE PYQ banks."
+    },
+    {
+      "issue_date": "2025-07-28",
+      "pages": [
+        3,
+        7,
+        12,
+        13,
+        22,
+        23,
+        48,
+        49,
+        50
+      ],
+      "status": "Existing CSE drone2020/UAV2025/G20-country2020/IRNSS2018/navigation2023/turmeric2025/cocoa2024 and Gaza-geography questions are retained; repeated items not appended. Two-state source year2008 is incorrect: existing verified2018 entry retained."
+    },
+    {
+      "issue_date": "2025-07-28",
+      "pages": [
+        21,
+        22,
+        26,
+        27,
+        30
+      ],
+      "status": "CDS2024 coconut, CAPF AC2014 Iran and REET2022 sacred groves excluded: not UPSC CSE. CAPF2014 explanation incorrectly refers to completed2015 JCPOA."
+    },
+    {
+      "date": "2025-07-30",
+      "pages": [
+        9,
+        10,
+        22,
+        23
+      ],
+      "status": "2025 AIF and2016 GFSR questions already present in Indian Economy/PYQ-Prelim.json; no duplicate appended.2010 NBFC question retained with source year/full statements/options. All other labelled practice/sample/daily prompts excluded from CSE PYQ bank."
     }
   ],
   "resolved": [

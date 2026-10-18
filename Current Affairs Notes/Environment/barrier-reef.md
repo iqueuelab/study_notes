@@ -22,7 +22,10 @@
 - Mortality reduces habitat/genetic diversity and alters fish food webs/catches, food security and tourism income. Reef wave attenuation provides coastal protection; “up to 97%” is a study/context-dependent potential, not identical protection at every coast.
 - Priorities: emissions reduction; control runoff/sediment and coastal development; sustainable fishing, regulated ecotourism and recovery monitoring. Local restoration cannot compensate for persistent ocean warming; bleaching can reverse if stress subsides, whereas prolonged stress can cause death.
 
+## July clipping: stress exposure and Lakshadweep
+- Newspaper clipping reports **~84% of global coral-reef area exposed to bleaching-level heat stress** by the April2025 update; this is not 84% of coral dead. It also refers to a **24-year Lakshadweep survey finding ~50% coral-cover reduction**; distinguish survey-site coral cover from national/global reef loss.
+- PDF repeats older “54 countries” data and faulty soft-coral/previous-event claims already corrected above; use the dated ICRI figures and hard-coral framework.
 
 ## PDF coverage
 
-2025-01-25: pp. 2, 3, 14 · 2025-01-26: pp. 17 · 2025-04-24: pp. 14, 15, 16, 17, 18, 19
+2025-01-25: pp. 2, 3, 14 · 2025-01-26: pp. 17 · 2025-04-24: pp. 14, 15, 16, 17, 18, 19 · 2025-07-25: pp. 11, 12, 13, 14, 15, 16

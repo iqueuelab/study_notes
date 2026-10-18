@@ -42,6 +42,11 @@
 - Only after the requisite address by both Houses in the **same session**, on proved misbehaviour/incapacity, may the President remove. This mechanism balances independence with accountability.
 - **V. Ramaswami (1993):** Lok Sabha motion failed; **Soumitra Sen (2011):** Rajya Sabha passed motion, but resignation preceded Lok Sabha vote. “Impeachment” is common usage; constitutional text speaks of removal.
 
+## July 2025 accountability debate
+- Source reports the Law Minister's parliamentary reply restating removal provisions without specifying a reform programme after allegations concerning **Justice Yashwant Varma**. An unanswered reform question is not proof that every possible consultation has been ruled out.
+- **HC removal:** Article 217(1)(b), read with 124(4) and 218. The in-house mechanism can seek resignation/retirement, recommend withdrawal of judicial work and communicate serious findings for constitutional action; it cannot itself remove a judge. Thus the source's “no action unless resignation” is too absolute.
+- Reform priorities: independent/fair fact-finding, defined timelines, reasoned public institutional communication with necessary confidentiality, complainant protection and judicial independence. The PDF's 250-word/15-mark question is daily practice, not an identified UPSC PYQ.
+
 ## PDF coverage
 
-2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7 · 2025-03-22: pp. 5, 6, 7 · 2025-07-19: pp. 7, 8, 9
+2025-01-18: pp. 28, 29, 30, 31 · 2025-01-21: pp. 11, 12, 13, 14, 17, 19 · 2025-01-26: pp. 7 · 2025-03-22: pp. 5, 6, 7 · 2025-07-19: pp. 7, 8, 9 · 2025-07-26: pp. 12, 13, 14, 15

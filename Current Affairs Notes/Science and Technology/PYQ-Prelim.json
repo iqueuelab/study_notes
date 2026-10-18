@@ -414,6 +414,42 @@
       "year": 2023,
       "question": "Consider the following pairs:\n\nObjects in space — Description\n1. Cepheids — Giant clouds of dust and gas in space\n2. Nebulae — Stars which brighten and dim periodically\n3. Pulsars — Neutron stars that are formed when massive stars run out of fuel and collapse\n\nHow many of the above pairs are correctly matched?\n(a) Only one\n(b) Only two\n(c) All three\n(d) None",
       "answer": "(a) Only one"
+    },
+    {
+      "chapter": "NavIC, NVS-02 and satellite navigation",
+      "year": 2018,
+      "question": "In which of the following areas can GPS technology be used?\n1) Mobile phone operations\n2) Banking operations\n3) Controlling the power grids\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "NASA Dynamic Targeting and autonomous Earth observation",
+      "year": 2016,
+      "question": "With reference to ‘Astrosat’, the astronomical observatory launched by India, which of the following statements is/are correct?\n1. Other than USA and Russia, India is the only country to have launched a similar observatory into space.\n2. Astrosat is a 2000 kg satellite placed in an orbit at 1650 km above the surface of the Earth.\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "NASA Dynamic Targeting and autonomous Earth observation",
+      "year": 2015,
+      "question": "In which of the following activities are Indian Remote Sensing (IRS) satellites used?\n1. Assessment of crop productivity\n2. Locating groundwater resources\n3. Mineral exploration\n4. Telecommunications\n5. Traffic studies\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "1, 2 and 3 only",
+        "b": "4 and 5 only",
+        "c": "1 and 2 only",
+        "d": "1, 2, 3, 4 and 5"
+      },
+      "answer": "a"
     }
   ]
 }

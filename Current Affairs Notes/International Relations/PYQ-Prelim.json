@@ -239,6 +239,30 @@
       "year": 2020,
       "chapter": "India–Namibia relations and Namibia geography",
       "answer": "Option 3: 3 and 4 only"
+    },
+    {
+      "chapter": "Startup20 and G20 entrepreneurship cooperation",
+      "year": 2023,
+      "question": "Consider the following statements about G-20:\n1. The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss the international economic and financial issues.\n2. Digital public infrastructure is one of India's G-20 priorities.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Startup20 and G20 entrepreneurship cooperation",
+      "year": 2022,
+      "question": "With reference to the “G20 Common Framework”, consider the following statements:\n1. It is an initiative endorsed by the G20 together with the Paris Club.\n2. It is an initiative to support Low Income Countries with unsustainable debt.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c"
     }
   ]
 }

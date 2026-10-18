@@ -31,7 +31,14 @@
 - Sustainable settlement requires ceasefire monitoring, hostage release, humanitarian access, reconstruction, functioning health/education services and political negotiations; opening trade and employment can reduce dependence, but these are policy aims rather than achieved outcomes.
 - **Map/PYQ recall:** Jordan is landlocked and Iraq has a Persian Gulf coast; neither borders the Mediterranean. Lebanon and Syria do. Golan Heights is a **Middle East** location; **Yom Kippur War (1973)** involved Israel and Arab forces led by Egypt/Syria; the **two-state solution** concerns Israel–Palestine. The supplied two-state PYQ is **2018**, correcting the printed 2008 label already flagged in these notes.
 
+## July 2025 French recognition proposal
+- **24 July:** France announced intended recognition of a Palestinian State at **September UNGA**, supporting a negotiated two-state solution. At this issue date this was an announced future act, not completed recognition; France would be the first G7 member to take this step.
+- Priorities: ceasefire, humanitarian access, hostage release, Hamas disarmament, reconstruction and mutual recognition. Political recognition does not itself deliver territory, effective government or UN membership. [Contemporaneous Palestinian official account](https://french.wafa.ps/Pages/Details/234120).
+- **State:** population, territory, government and capacity for international relations; **nation:** shared identity/history, which may exist without a state, as with Kurds. Contested recognition does not erase a people's rights.
+- India recognised **PLO in 1974**, **Palestinian State in 1988**; representative office **Gaza 1996 → Ramallah 2003**; supported Palestine's UNESCO membership in 2011. **De-hyphenation:** pursue ties with Israel and Palestine on their own merits while maintaining the two-state commitment. [MEA background](https://www.mea.gov.in/images/pdf/indias_foreign_relations_2010.pdf).
+- **UNGA Resolution 181, 1947:** proposed Arab/Jewish states and international Jerusalem; not an implemented consensual partition. Two-state proposals involve **West Bank, East Jerusalem and Gaza**. UN membership requires Security Council recommendation followed by General Assembly admission; a US veto blocked recommendation in April 2024.
+- Source's 146 recognitions and India's 54 supportive/8 abstention votes lack a consistent July 2025 cutoff. Gaza's “complete siege” clipping refers back to October 2023, not a newly established July event; crossing control must be dated. Existing notes preserve map/PYQ corrections, including the two-state question's correct **2018** year.
 
 ## PDF coverage
 
-2025-01-17: pp. 14, 15, 16 · 2025-03-19: pp. 13, 14, 15, 16, 17, 18 · 2025-04-25: pp. 4, 5, 6, 7, 8, 9
+2025-01-17: pp. 14, 15, 16 · 2025-03-19: pp. 13, 14, 15, 16, 17, 18 · 2025-04-25: pp. 4, 5, 6, 7, 8, 9 · 2025-07-28: pp. 43, 44, 45, 46, 47, 48, 49, 50

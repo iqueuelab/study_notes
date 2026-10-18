@@ -31,6 +31,12 @@
 - Stated requirement: **over 30 hours endurance and at least 35,000 ft**, all-weather intelligence/surveillance/reconnaissance and combat capability. Generic MALE altitude bands are descriptive, not a universal 30,000-ft ceiling.
 - Examples: **TAPAS BH-201/Rustom-II (DRDO)**; **Hermes 900/Drishti 10**; armed **Bayraktar TB2**. Performance varies by payload/configuration. Remote operation removes the onboard pilot's exposure but does not eliminate civilian or ground-personnel risk.
 
+## ULPGM-V 3 flight trial
+- **25 July 2025**, DRDO tested **UAV-Launched Precision Guided Missile-V 3** at **National Open Area Range, Kurnool, Andhra Pradesh**; enhanced from V 2. This is a munition carried/launched by UAV, not a new UAV airframe.
+- Official release: **dual-channel high-definition seeker**, day/night and plain/high-altitude operation; **two-way data link permits post-launch target/aim-point updates**. Modular warheads: **anti-armour (including ERA-protected targets), penetration-cum-blast/anti-bunker, pre-fragmentation**.
+- Indigenous UAV integration and partners **Adani Defence, BDL, MSMEs/startups/Dc PPs** strengthen precision-strike production. Source's **4 km day/2.5 km night,12.5 kg, dual-thrust propulsion** are reported specifications, not substantiated by this official trial release; do not substitute them for verified V 3 performance. [DRDO/PIB trial](https://www.pib.gov.in/Press Release Page.aspx?PRID=2148320&lang=2&reg=48).
+- Existing PYQs:2020 drone applications all three;2025 universal VTOL/hovering/battery-only claims none. **Hovering is not exclusive to multirotors**; some other rotorcraft/VTOL designs can hover.
+
 ## PDF coverage
 
-2025-03-29: pp. 40, 41, 42, 43, 44, 45 · 2025-06-10: pp. 19, 20, 21, 22 · 2025-07-10: pp. 8, 9, 10, 11, 12, 13, 14
+2025-03-29: pp. 40, 41, 42, 43, 44, 45 · 2025-06-10: pp. 19, 20, 21, 22 · 2025-07-10: pp. 8, 9, 10, 11, 12, 13, 14 · 2025-07-28: pp. 1, 2, 3, 4

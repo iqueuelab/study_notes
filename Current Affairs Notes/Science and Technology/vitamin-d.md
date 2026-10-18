@@ -16,6 +16,10 @@
 - Additional deficiency consequences cited include **hypocalcaemia and secondary hyperparathyroidism**; severe deficiency causes adult **osteomalacia**, while osteoporosis is distinct. Fatigue/depression and other associations are not specific diagnostic proof.
 - The PDF's blanket **15–30-minute sunlight**, routine screening and vitamin-D-in-all-flour prescriptions are not universal clinical/public-health rules. FSSAI milk/oil fortification and targeted care are already distinguished in the April notes; its claim India lacks fortification policy is incorrect.
 
+## July 24 clipping: neurodevelopment
+- Embedded article discusses a **Danish cohort/genetic-instrument study** of neonatal vitamin D and later neurodevelopmental/psychiatric outcomes, including ADHD/autism; it is not an Indian national deficiency survey. Genetic causal-inference methods depend on assumptions and do not themselves establish that universal supplementation prevents these conditions.
+- Keep bone/mineral physiology, observational associations and proven intervention benefits separate; the source's “silent epidemic” framing does not supply a representative prevalence estimate.
+
 ## PDF coverage
 
-2025-04-12: pp. 4, 5, 6, 7 · 2025-07-05: pp. 4, 5, 6
+2025-04-12: pp. 4, 5, 6, 7 · 2025-07-05: pp. 4, 5, 6 · 2025-07-24: pp. 11, 12, 13, 14

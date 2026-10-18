@@ -419,6 +419,30 @@
         "d": "1, 2 and 3"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "Maritime financing and Amrit Kaal Vision2047",
+      "year": 2017,
+      "question": "Consider the following in respect of Indian Ocean Naval Symposium (IONS):\n1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy.\n2. IONS is a voluntary initiative that seeks to increase maritime co-operation among navies of the littoral states of the Indian Ocean Region.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Maritime financing and Amrit Kaal Vision2047",
+      "year": 2015,
+      "question": "With reference to ‘Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)’, consider the following statements:\n1. It was established very recently in response to incidents of piracy and accidents of oil spills.\n2. It is an alliance meant for maritime security only.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "d"
     }
   ]
 }

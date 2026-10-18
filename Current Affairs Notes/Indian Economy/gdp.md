@@ -21,7 +21,12 @@
 - Trade slowdown/tariffs, oil-import prices and financial uncertainty create external risks. Priorities: farm productivity/agro-processing, labour-intensive MSMEs/textiles/tourism, apprenticeships, health/education, competitive clusters/logistics, research and private R&D, predictable rules and efficient public investment.
 - **UBI pilot** and subsidy/tax/land/labour reforms are editorial recommendations, not implemented national entitlements. Assess fiscal space, social protection and distribution alongside aggregate growth.
 
+## July 2025 state-led growth forecast
+- Source reports Morgan Stanley's **23 July 2025 “India's State-Led Economic Transformation”** forecast: India could become the **third-largest nominal-dollar economy by 2028**, reaching **$10.6 trillion by 2035** and contributing about **20% of global growth** over a decade. These are conditional forecasts, not achieved ranks. **$4.19 tn→$10.6 tn exceeds doubling**, correcting the PDF's arithmetic description.
+- Reported leading state scorecard: **Maharashtra, Gujarat, Telangana**; most-improved over five years: **UP, MP, Chhattisgarh**. A projected **3–5 states above$1 tn GSDP by 2035** is distinct from an official realised GSDP estimate.
+- Mechanisms: infrastructure/capital spending, supply-chain diversification, manufacturing/PLI, financial access and competitive federalism. Source's public capex comparison **1.6% GDP(FY 2014–15)→3.2%(FY 2024–25)** is its dated metric, not every government's combined expenditure.
+- Risks: geopolitical/energy shocks, climate damage, insufficient quality jobs, inequality, volatile capital and poorly managed urbanisation. Existing notes' IMF projection qualification resolves the PDF's conflicting fourth/fifth-rank labels.
 
 ## PDF coverage
 
-2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17
+2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17 · 2025-07-27: pp. 1, 2, 3, 4

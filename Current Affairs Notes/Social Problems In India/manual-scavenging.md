@@ -14,6 +14,13 @@
 - Eliminate unsafe entry through affordable machinery and maintenance; enforce duties on local bodies and contractors; independent audits/accurate fatality registers and prompt compensation; health protection and emergency response; rehabilitation combining skills, housing, education and financial inclusion; anti-caste awareness and worker participation. Local governments need funds and capacity alongside accountability.
 - Mains focus: connect dignity/caste discrimination with implementation, public procurement, occupational safety and rehabilitation; machines alone do not remove social exclusion.
 
+## PYQ recall
+- **2016 Prelims:** Rashtriya Garima Abhiyaan aims to eradicate manual scavenging and rehabilitate manual scavengers (**option c**); dignity, community mobilisation and alternative livelihoods are central.
+
+## NAMASTE: waste-picker distinction
+- NAMASTE expanded to **waste pickers in June 2024**; the **Waste Picker Enumeration App launched 5 June 2025**. Its **over 80,000 enumerated/validated as of 29 May 2025** were **sewer/septic-tank workers**, not 80,000 waste pickers. Support includes safety equipment/training, health coverage and livelihood finance. [Ministry release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2134303&lang=2&reg=48).
+- Distinguish the scheme's original sanitation remit, later waste-picker expansion and app launch; the PDF's generic “launched in 2024” mixes these stages.
+
 ## PDF coverage
 
-2025-04-28: pp. 4, 5, 6, 7, 8
+2025-04-28: pp. 4, 5, 6, 7, 8 · 2025-07-23: pp. 4, 5, 6, 7, 8, 9 · 2025-07-24: pp. 7, 8

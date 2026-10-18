@@ -14,6 +14,11 @@
 - When President's office becomes vacant, presidential election must take place within **six months**; temporary inability is a different Article 65 contingency.
 - [Official former Vice-Presidents record](https://vicepresidentofindia.nic.in/former-vice-presidents/) confirms Dhankhar’s tenure ended 21 July 2025.
 
+## July 24: election preparations
+- Following the resignation, ECI began preparing the electoral-college list, appointing Returning/Assistant Returning Officers and background materials; schedule was still to be announced in this issue.
+- **Presidential and Vice-Presidential Elections Act 1952 and Rules 1974** govern conduct under ECI's Article324 authority. By convention a Lok Sabha/Rajya Sabha Secretary-General serves as RO by rotation, assisted by Parliament Secretariat officers.
+- Nomination requires **at least 20 proposers and 20 seconders** from the electoral college. Party whip does not govern the secret-ballot election. [ECI election resources](https://www.eci.gov.in/vice-presidential-election-2025).
+
 ## PDF coverage
 
-2025-07-22: pp. 1, 2, 3, 4
+2025-07-22: pp. 1, 2, 3, 4 · 2025-07-24: pp. 17, 18, 19, 20

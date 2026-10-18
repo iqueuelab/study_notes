@@ -15,6 +15,11 @@
 - **2018 IRNSS**: statement 1 correct; **5,500 sq km** boundary claim and promised worldwide coverage by mid-2019 wrong → **1 only (a)**, correcting source key **(b)**.
 - Printed **2007 Galileo**: EU multi-satellite navigation project; full official wording/year retained for verification before JSON inclusion.
 
+## July 2025 replenishment plan
+- **23 July parliamentary reply**: **NVS-03 planned by end 2025**, NVS-04/05 at approximately six-month intervals. Source's 2026 completion was a schedule expectation, not evidence all launches occurred. [Space Department reply](https://www.pib.gov.in/Press Release Page.aspx?PRID=2147284&lang=2&reg=48).
+- Source snapshot: **11 launched including IRNSS-1 H launch failure**, one retired, four navigation-capable, four usable for one-way messaging, plus NVS-02 orbit-raising problem. Constellation design, satellites launched and satellites providing navigation are different counts. Atomic-clock health affects ranging; message broadcasting can remain useful for disaster alerts.
+- GPS timing synchronises **mobile networks, banking transactions and power grids** in addition to locating users;2018 applications PYQ includes all three. Old infographic's constellation sizes/accuracy are historical, not a fresh 2025 global inventory.
+
 ## PDF coverage
 
-2025-01-30: pp. 10, 11, 12, 13, 14 · 2025-02-03: pp. 20, 21, 22, 23 · 2025-06-18: pp. 24, 25, 26 · 2025-07-22: pp. 22, 23
+2025-01-30: pp. 10, 11, 12, 13, 14 · 2025-02-03: pp. 20, 21, 22, 23 · 2025-06-18: pp. 24, 25, 26 · 2025-07-22: pp. 22, 23 · 2025-07-28: pp. 9, 10, 11, 12, 13, 14

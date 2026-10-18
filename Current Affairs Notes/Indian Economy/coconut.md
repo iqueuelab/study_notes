@@ -20,6 +20,12 @@
 
 [World Coconut Day, PIB](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2050123&lang=2&reg=48) · [CDB institutional history](https://coconutboard.gov.in/docs/icj/inj-2021-02.pdf) · [WHO healthy-diet guidance](https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet)
 
+## July 2025 oil-price pressure
+- Source reports retail coconut oil near**₹460/kg**; a local/date-specific price, not a fixed national quotation. **Copra**, dried kernel, yields oil used in cooking, soaps, cosmetics and hair products. Source estimates **5.7 lakh tonnes/year**, **3.9 lakh tonnes edible**, without a clear reference year.
+- Supply pressures: El Niño/drought in Philippines/Indonesia, ageing palms, long harvest cycles, possible raw-coconut export restrictions and diversion to **coconut methyl ester(CME) biodiesel**. Biofuel and food demand compete for feedstock.
+- Source's “third-largest(2023)” and“31.45% of global output(FY 22)” mix periods/measurement; retain year/unit distinctions rather than derive a current rank from them. India/Karnataka, Tamil Nadu, Kerala are major production centres; acreage, productivity and total output are different measures.
+- The Lakshadweep productivity/oil-content question is **CDS 2024**, excluded from CSE PYQ banks; the unsupported“highest productivity in India” superlative needs year-specific CDB comparison.
+
 ## PDF coverage
 
-2025-04-05: pp. 3, 4, 5
+2025-04-05: pp. 3, 4, 5 · 2025-07-28: pp. 19, 20, 21, 22

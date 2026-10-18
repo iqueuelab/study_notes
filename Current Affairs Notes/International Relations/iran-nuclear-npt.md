@@ -14,6 +14,12 @@
 - IAEA access, material accountancy and restored monitoring are essential; Iran asserted peaceful intent. Threats to leave NPT do not prove lawful withdrawal by June 25.
 - Source's **GBU-37** is wrong: B-2 bunker penetrator was **GBU-57 MOP**. Damage/material assessments remained unresolved at the issue date.
 
+## 25 July 2025: Iran–E3 talks
+- **E3 = France, Germany, UK**. Istanbul talks resumed diplomacy after June's attacks/conflict; source reports no major breakthrough, agreement to continue, and disputes over enrichment, sanctions relief and verification.
+- **UNSCR 2231** endorsed the JCPOA. Its **snapback** procedure can restore prior UN sanctions after specified notification and failure to adopt continued relief; it is not an instant sanction triggered by any allegation. Reverse voting means a veto cannot simply preserve relief.
+- Iran asserted peaceful-enrichment rights and opposed snapback. Source's October 2025 deadline was prospective diplomatic/legal context, not proof sanctions already reimposed by 25 July.
+- The nuclear-deal question is **CAPF AC 2014**, excluded from CSE banks. A 2014 question cannot refer to the completed 2015 JCPOA; distinguish interim negotiations from the final agreement.
+
 ## PDF coverage
 
-2025-06-23: pp. 8, 9, 10 · 2025-06-25: pp. 1, 2, 3
+2025-06-23: pp. 8, 9, 10 · 2025-06-25: pp. 1, 2, 3 · 2025-07-28: pp. 24, 25, 26, 27

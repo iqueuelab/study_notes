@@ -27,6 +27,10 @@
 - **Section 17** recourse follows payment: express written contract; supplier/employee act including defective equipment/material or substandard services; or an individual's intentional act/omission. This should not be paraphrased as an unconditional duty to sue every supplier.
 - DAE's interpretation is that **section 46 does not create additional civil nuclear-damage compensation claims against suppliers**; commercial/legal uncertainty in the debate is distinct from an established right to unlimited supplier tort recovery. [DAE FAQ](https://dae.gov.in/frequently-asked-questions-and-answers-on-civil-liability-for-nuclear-damage-act-2010-and-related-issues/), [2010 Act](https://www.indiacode.nic.in/bitstream/123456789/2084/5/A2010-38.pdf).
 
+## July expansion debate: implementation
+- Editorial adds **tariff/offtake disputes**, including NPCIL–Gujarat purchaser disagreement, to legal and financing obstacles. Proposed long-term power-purchase agreements, viability-gap support, predictable tariffs and stronger independent safety regulation seek bankable projects.
+- Its possible **49% FDI**, green-finance treatment and investor names are suggestions/speculation, not enacted investment permission or committed projects. Nuclear is low-carbon/non-fossil but not thereby renewable. Capacity/SMR targets and supplier-recourse distinctions remain as recorded above.
+
 ## PDF coverage
 
-2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19 · 2025-06-17: pp. 1, 2, 3, 4, 5
+2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19 · 2025-06-17: pp. 1, 2, 3, 4, 5 · 2025-07-23: pp. 14, 15, 16, 17

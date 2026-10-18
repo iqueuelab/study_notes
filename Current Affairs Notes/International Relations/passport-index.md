@@ -11,6 +11,10 @@
 - Pandemic restrictions affected mobility after **2020**; source's 'COVID impact from 2015' is chronologically wrong.
 - Mains use: mobility inequality, diaspora/business travel, bilateral visa facilitation and regional cooperation; travel ease is one indicator, not a complete measure of national power.
 
+## 22 July 2025 Henley release
+- **India 77th, 59 destinations**, up from **85th/57 in January 2025**, an eight-place rise despite only two additional destinations. The PDF's “85th in 2024” misdates the baseline. **Singapore 1st/193; Japan and South Korea joint 2nd/190; seven EU passports joint 3rd/189**. [Publisher's July release](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025).
+- Source names Philippines/Sri Lanka as recent access additions and Malaysia, Indonesia, Maldives, Thailand as examples; entry conditions, visit purpose and prior-authorisation rules still require destination-specific checks. Rankings measure destinations accessible without a prior visa, not unconditional entry rights.
+
 ## PDF coverage
 
-2025-01-10: pp. 22, 23
+2025-01-10: pp. 22, 23 · 2025-07-24: pp. 1, 2, 3

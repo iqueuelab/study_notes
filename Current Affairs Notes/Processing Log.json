@@ -3819,37 +3819,136 @@
     {
       "date": "2025-07-23",
       "pdf": "2025/07-July/2025-07-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "65a049520d7407b587dd7b8180b2879f8d04d8d294905f5c27f29dd8c4516dc0",
+      "pages": 32,
+      "topic_ids": [
+        "ak203-rifle",
+        "apache-ah64e",
+        "constitutional-drafts",
+        "fighter-aircraft",
+        "manual-scavenging",
+        "nuclear-liability",
+        "remote-work",
+        "rubber"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-24",
       "pdf": "2025/07-July/2025-07-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2d5c60f905d35a524bad2d1596fea794a063869b759df50e86742e7f6c223a89",
+      "pages": 24,
+      "topic_ids": [
+        "governor-state-relations",
+        "hops315",
+        "manual-scavenging",
+        "non-animal-testing",
+        "passport-index",
+        "remote-work",
+        "single-use-plastics",
+        "vice-president",
+        "vitamin-d"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-25",
       "pdf": "2025/07-July/2025-07-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "9a8dd6ece8fc387ef15dbe05abb69baef144ca7a39f3c53dce3abe8cb5b95e87",
+      "pages": 28,
+      "topic_ids": [
+        "adoption-cara",
+        "bannerghatta-exchange",
+        "barrier-reef",
+        "food-systems-nutrition",
+        "hazardous-waste",
+        "irdai",
+        "ordinary-residence-voting"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-26",
       "pdf": "2025/07-July/2025-07-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "dc6270a66d1b230fa7e4a3632bcd831c1801c7ecc7fa087f1b08339981f2a9c1",
+      "pages": 23,
+      "topic_ids": [
+        "hydrogen-trains",
+        "mangroves",
+        "ncpcr",
+        "ranbhoomi",
+        "sc-appointments",
+        "sikkim-statehood",
+        "thailand-cambodia-temples"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-27",
       "pdf": "2025/07-July/2025-07-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "cfd040bbd451b5803102115a0fbad9bde4a9e1faa5f12d569541c35c64ba24f0",
+      "pages": 19,
+      "topic_ids": [
+        "gdp",
+        "india-uk-ceta",
+        "posh-icc",
+        "sar-nisar",
+        "thailand-cambodia-temples"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-28",
       "pdf": "2025/07-July/2025-07-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b9bf22abff1f2afd32f06727c4df8bc8cd8e7ab9731fdbb0ca9061c09795f4dd",
+      "pages": 60,
+      "topic_ids": [
+        "climate-finance-taxonomy",
+        "cocoa",
+        "coconut",
+        "drones-uav",
+        "gaza-ceasefire",
+        "glof",
+        "iran-nuclear-npt",
+        "kala-utsav",
+        "maritime-finance",
+        "nasa-dynamic-targeting",
+        "navic",
+        "sacred-groves",
+        "startup20",
+        "turmeric-board"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-29",
       "pdf": "2025/07-July/2025-07-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "50f9d04d5e53c6f61826291ac722c91254ef4b7afec1935384259c1685e9fe99",
+      "pages": 25,
+      "topic_ids": [
+        "chola-legacy",
+        "contaminated-sites",
+        "fide",
+        "glof",
+        "golden-jackal",
+        "india-japan",
+        "sar-nisar"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-30",
@@ -5818,7 +5917,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-07-23",
+  "next_pdf": "2025-07-30",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

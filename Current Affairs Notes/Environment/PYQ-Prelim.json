@@ -419,6 +419,42 @@
       "year": 2016,
       "chapter": "Great hornbill: ecology and conservation",
       "answer": "(d) Western Ghats"
+    },
+    {
+      "chapter": "Climate finance taxonomy and credible green investment",
+      "year": 2016,
+      "question": "‘European Stability Mechanism’, sometimes seen in the news, is a:",
+      "options": {
+        "a": "An agency created by EU to deal with the impact of millions of refugees arriving from Middle East",
+        "b": "An agency of EU that provides financial assistance to eurozone countries",
+        "c": "An agency of EU to deal with all the bilateral and multilateral agreements on trade",
+        "d": "An agency of EU to deal with the conflicts arising among the member countries"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Climate finance taxonomy and credible green investment",
+      "year": 2017,
+      "question": "‘Broad-based Trade and Investment Agreement (BTIA)’ is sometimes seen in the news in the context of negotiations held between India and:",
+      "options": {
+        "a": "European Union",
+        "b": "Gulf Cooperation Council",
+        "c": "Organization for Economic Cooperation and Development",
+        "d": "Shanghai Cooperation Organization"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Climate finance taxonomy and credible green investment",
+      "year": 2025,
+      "question": "Which organization has enacted the Nature Restoration Law (NRL) to tackle climate change and biodiversity loss?",
+      "options": {
+        "a": "The European Union",
+        "b": "The World Bank",
+        "c": "The Organisation of Economic Cooperation and Development",
+        "d": "FAO"
+      },
+      "answer": "a"
     }
   ]
 }

@@ -25,6 +25,42 @@
         "d": "Tansen invented many Ragas."
       },
       "answer": "a"
+    },
+    {
+      "chapter": "Kala Utsav and Indian painting traditions",
+      "year": 2018,
+      "question": "The well-known painting “Bani Thani” belongs to the:",
+      "options": {
+        "a": "Bundi school",
+        "b": "Jaipur school",
+        "c": "Kangra school",
+        "d": "Kishangarh school"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Kala Utsav and Indian painting traditions",
+      "year": 2017,
+      "question": "The painting of Bodhisattva Padmapani is one of the most famous and oft-illustrated paintings at:",
+      "options": {
+        "a": "Ajanta",
+        "b": "Badami",
+        "c": "Bagh",
+        "d": "Ellora"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Kala Utsav and Indian painting traditions",
+      "year": 2015,
+      "question": "Kalamkari painting refers to:",
+      "options": {
+        "a": "a hand-painted cotton textile in South India",
+        "b": "a handmade drawing on bamboo handicrafts in North-East India",
+        "c": "a block-painted woollen cloth in Western Himalayan region of India",
+        "d": "a hand-painted decorative silk cloth in North Western India"
+      },
+      "answer": "a"
     }
   ]
 }

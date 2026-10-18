@@ -9,6 +9,11 @@
 - Manufactured tiny plastic particles, commonly PE/PP/polystyrene, used as scrubbers in some personal-care/cleaning products; often <5 mm. Escape through wastewater depends on treatment, rather than all plants filtering none.
 - Ingestion can expose aquatic organisms and food webs to persistent plastics and associated contaminants. **2019 Prelims: (a), harmful to marine ecosystems**.
 
+## Industry influence and inclusive recycling
+- July editorial compares plastics lobbying with tobacco-industry tactics: shifting responsibility to consumers, sponsoring favourable science/PR, misleading green claims and resisting production controls. These are analytical allegations, not proof every producer or recycling technology behaves identically.
+- “Biodegradable/compostable” claims require specified conditions and actual collection/treatment systems; recycling claims should state material, technical feasibility and economic limits. Transparent conflicts of interest, producer accountability, reuse and reliable collection complement informed consumers.
+- Informal collectors/sorters face toxic exposures, insecure work and poor social protection. PDF's **70% recycling contribution**, **36% lobbyist increase at INC-3** and Asia-triples-by-2060 claim lack full denominator/baseline here; do not treat as reconciled current national totals.
+
 ## PDF coverage
 
-2025-06-18: pp. 8, 9, 10, 11, 12
+2025-06-18: pp. 8, 9, 10, 11, 12 · 2025-07-24: pp. 6, 7, 8

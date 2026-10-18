@@ -36,7 +36,12 @@
 - Distinguish an incinerator's **kg/hour feed rate** from total batch mass; inconsistent totals and stale future dates in the source should not be memorised.
 - Independent air/water/dioxin testing, lined ash disposal, transparent public reporting and community engagement are needed; moving waste alone neither proves safety nor resolves historical contamination.
 
+## Chemical-disaster preparedness: July revision
+- Source examples: **Visakhapatnam styrene leak (2020)**, **Tughlakabad chloromethylpyridine container leak (2017)** and Chennai ammonia leak. The Chennai incident was **26 December 2023**, not 2024; cyclone-related damage needs an actual incident investigation, not assumed causation.
+- Hazard prevention combines safe storage/process control, maintenance, land-use buffers, worker training, community warning, on-/off-site plans, medical readiness and environmental surveillance. Floods/cyclones can trigger industrial accidents (**natural-hazard-triggered technological risk**).
+- **Environment Protection Act 1986; Chemical Accidents (Emergency Planning, Preparedness and Response) Rules 1996; Factories Act hazardous-process provisions; Public Liability Insurance Act 1991** supply complementary prevention/planning/relief duties. The Explosives Act is not the sole general law for all hazardous chemicals.
+- Pollutant-specific health/ecological impacts differ; not every chemical necessarily bioaccumulates or causes every disease in the source's generic list. Groundwater contamination, immediate exposure and historical Bhopal compensation remain distinct questions.
 
 ## PDF coverage
 
-2025-01-08: pp. 8, 9, 10, 11, 12, 13 · 2025-01-20: pp. 5, 6, 7 · 2025-01-26: pp. 2 · 2025-02-14: pp. 6, 7, 8, 9 · 2025-03-28: pp. 16, 17, 18 · 2025-03-29: pp. 16, 17, 18
+2025-01-08: pp. 8, 9, 10, 11, 12, 13 · 2025-01-20: pp. 5, 6, 7 · 2025-01-26: pp. 2 · 2025-02-14: pp. 6, 7, 8, 9 · 2025-03-28: pp. 16, 17, 18 · 2025-03-29: pp. 16, 17, 18 · 2025-07-25: pp. 3, 4, 5

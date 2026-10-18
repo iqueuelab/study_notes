@@ -7,6 +7,10 @@
 - Recall **1962 war; 1967 Nathu La/Cho La clashes; 1971 Longewala**. Source practice answer excluding **Siachen** is misleading: official site list includes **Siachen Base Camp**. [Ministry's site list](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2099162&lang=2&reg=48).
 - Border livelihoods/connectivity and public understanding of military history; permits, operational readiness, ecology, local consultation and visitor safety constrain access. App launch does not remove all border restrictions.
 
+## Border geography revision
+- **Siliguri Corridor** connects mainland India with the Northeast; Doklam's proximity gives the Bhutan–China plateau strategic relevance. Adjacent geography: **Chumbi Valley (Tibet/China), Haa Valley (Bhutan), Sikkim (India)**. The 2017 standoff followed contested Chinese road construction.
+- Additional battlefield recall: **Galwan clash 2020; Kargil 1999; Tawang 1962**. Tourism amenities/virtual tours and local livelihoods need permit controls and operational security; publicity does not settle Doklam's territorial status.
+
 ## PDF coverage
 
-2025-01-23: pp. 20, 21, 25, 26, 28, 29 · 2025-01-24: pp. 16, 17
+2025-01-23: pp. 20, 21, 25, 26, 28, 29 · 2025-01-24: pp. 16, 17 · 2025-07-26: pp. 7, 8, 9, 10

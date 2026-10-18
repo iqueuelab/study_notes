@@ -21,7 +21,15 @@
 - Measure dietary/health outcomes alongside income control, job security/pay equity and service use; coordinate health, WCD and rural-livelihood departments. **Jan Andolan** awareness complements actual food/health access; neither awareness nor larger allocation alone guarantees consumption/outcomes.
 - Mains: nutrition problem → gendered resource/power structures → programme gaps → accountable services plus social/economic empowerment. The source's 250-word question is practice, not a PYQ.
 
+## India–UK CETA: commercial determinants of health
+- **24 July 2025:** India and UK signed **Comprehensive Economic and Trade Agreement**. Signature is distinct from ratification/entry into force and phased tariff concessions; the editorial's “tariff-free access” should not be read as all HFSS tariffs already zero on July24. [Official agreement and chapters](https://www.gov.uk/government/collections/comprehensive-economic-and-trade-agreement-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-india).
+- Editorial concern: cheaper/more marketed **high-fat, sugar and salt (HFSS)** foods may raise unhealthy consumption/NCD risk, especially in children. **HFSS is a nutrient-profile classification; ultra-processed is a processing classification**—overlap is not identity. Trade does not by itself prove a specified rise in disease.
+- Commercial determinants include pricing, promotion, lobbying and food availability. Source quotes **13.3% annual growth in UPF sales, 2011–21**; distinguish nominal sales value from volume/individual intake and from all HFSS products.
+- Recommended safeguards: health-impact assessment in negotiations, preserve legitimate health regulation, transparent industry conflicts, clear front-of-pack warnings, child-marketing controls, healthier school environments and public-health participation. Warning labels and star ratings are different designs; source favours Chile-style warnings, while India's **2022 star-rating proposal was a draft**.
+- India already has **2020 school-food restrictions**; “no child HFSS framework” is too broad. Mexico's **2014 sugary-drink tax** and later warning-label regime are different dates, not one 2014 measure.
+- **UK date correction known before this issue:** legal TV-before-9pm/paid-online less-healthy-food advertising restrictions had been deferred to **5 January 2026**; industry voluntary compliance was expected from **1 October 2025**. Source presents October as the legal start. [Government update, 4 June 2025](https://www.gov.uk/government/collections/less-healthy-food-or-drink-advertising-and-promotions-restrictions).
+- Mains structure: economic gains → food-environment/inequality risks → existing regulatory gaps → proportionate health safeguards. Printed 250-word India–UK question is contemporary practice, with no verified exam year.
 
 ## PDF coverage
 
-2025-05-10: pp. 7, 8, 9 · 2025-05-17: pp. 12, 13, 14, 15
+2025-05-10: pp. 7, 8, 9 · 2025-05-17: pp. 12, 13, 14, 15 · 2025-07-25: pp. 5, 6, 7, 8, 9, 10, 11
