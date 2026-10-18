@@ -4103,22 +4103,70 @@
     {
       "date": "2025-08-06",
       "pdf": "2025/08-August/2025-08-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "549f8584d7391b04326539c5dbcec1de3930c22180b4baa08e48e3b30a10dfcb",
+      "pages": 13,
+      "topic_ids": [
+        "assets-under-management",
+        "cloudbursts",
+        "india-philippines",
+        "irdai",
+        "money-laundering"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-07",
       "pdf": "2025/08-August/2025-08-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ad49d2affb4e505ad57c13ea7d4328a3dc5ffd095fb6cc07b2e972d6fd8819aa",
+      "pages": 14,
+      "topic_ids": [
+        "accessible-india",
+        "biochar",
+        "coconut",
+        "maritime-laws",
+        "red-eared-slider"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-08",
       "pdf": "2025/08-August/2025-08-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "dd598936761cc306399d038530c33d420913cdc4873a11bf5c0224eac7a1172b",
+      "pages": 15,
+      "topic_ids": [
+        "goldilocks-economy",
+        "groundwater",
+        "haemophilia",
+        "north-eastern-council"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-09",
       "pdf": "2025/08-August/2025-08-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "40e5b5c97f70f336c7786ac6dc3a859a7ef885b6a30fd768565538cb08ac8703",
+      "pages": 12,
+      "topic_ids": [
+        "agromet-isat",
+        "alpine-musk-deer",
+        "apna-ghar",
+        "biofortified-potatoes",
+        "el-salvador",
+        "greater-one-horned-rhino",
+        "iepfa",
+        "industrial-process-safety",
+        "kopili-river",
+        "rhisotope"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-08-10",
@@ -6037,7 +6085,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-08-06",
+  "next_pdf": "2025-08-10",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

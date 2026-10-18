@@ -38,6 +38,14 @@
 - **₹4–5 lakh/well**, pumping costs, failed agricultural investment and migration risks burden households. Subsidised agricultural electricity is distinct from panchayats' electricity bills for drinking-water pumping; “free power” does not mean zero fiscal cost.
 - **Sujala watershed work/Jal Jeevan Mission supply infrastructure** must be paired with demand management, suitable crops, village water balances, aquifer-specific recharge, tank restoration, monitoring and viable panchayat finance. Nitrate/fluoride are concurrent quality concerns; recharge cannot offset unlimited pumping.
 
+## Chronic exposure and legal correction
+- Additional pathways: **arsenic** in parts of the Gangetic/Brahmaputra plains → skin lesions and increased cancer risk; **lead** → developmental/neurobehavioural harm; **mercury/cadmium/chromium** require chemical-specific assessment. Sewage pathogens cause cholera, hepatitis A/E and diarrhoeal illness.
+- WHO guideline values: **arsenic10 µg/L (provisional), fluoride1.5 mg/L, uranium30 µg/L (chemical toxicity basis)**. Contaminant concentration, exposure duration and population determine risk; an exceedance is not a diagnosis of every exposed person. [WHO guidelines](https://www.who.int/publications/i/item/9789240045064).
+- The **Water Act, 1974 already covers groundwater**: section2(j)'s “stream” includes **subterranean waters**; sections24/25 regulate polluting discharges/consent and include wells. PDF's claim that it only covers surface water is wrong. Improve enforcement, effluent treatment, extraction regulation and public-health coordination rather than propose including groundwater as though wholly absent. [Act text](https://www.indiacode.nic.in/bitstream/123456789/13332/1/water_act_1974.pdf).
+- Aquifer = permeable soil/rock storing/transmitting groundwater; not an underground river/lake in every case. Pair water-quality monitoring with health surveillance, safe alternative supply, suitable defluoridation, local borewell testing, sanitation repair and fertiliser-loss reduction.
+- Source case claims **Budhpur13 kidney-failure deaths; Ballia>200 µg/L arsenic/10,000 illnesses; Bhubaneswar500 illnesses; Jhabua>5 mg/L fluoride/40% tribal children** lack clear study/date/causal verification; retain as reported concerns, not established epidemiological attribution. Likewise **66 million/230 districts**, **66% child-unsafe uranium samples**, and **85% rural water/65% irrigation** need their original denominator/year.
+- **2013 PYQ:(c), arsenic, fluoride, uranium**. Its exclusion of sorbitol/formaldehyde from that answer does not prove either chemical can never occur in polluted water.
+
 ## PDF coverage
 
-2025-01-05: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-01-19: pp. 3, 20, 21 · 2025-03-31: pp. 1, 2, 3 · 2025-07-02: pp. 19, 20, 21
+2025-01-05: pp. 5, 6, 7, 8, 9, 10, 11 · 2025-01-19: pp. 3, 20, 21 · 2025-03-31: pp. 1, 2, 3 · 2025-07-02: pp. 19, 20, 21 · 2025-08-08: pp. 1, 2, 3, 4, 5

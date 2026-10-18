@@ -7,6 +7,10 @@
 - Covers life/general/standalone-health/reinsurance entities and authorised intermediaries such as agents, brokers, TPAs, surveyors and loss assessors. A TPA supports health-claim services; it is not itself an insurer.
 - Product/pricing oversight varies by insurance class and regulatory framework; avoid the PDF's implication that IRDAI individually pre-approves every premium/policy in every market. Protection, competition and financial soundness must be assessed together.
 
+## Regulatory enforcement clipping
+- Embedded report: IRDAI imposed **₹50 million (₹5 crore)** on **Policybazaar**, PB Fintech's insurance-broking/aggregation arm, for regulatory lapses, including managerial-personnel directorship issues. A regulatory penalty is distinct from a court conviction and should not imply every company product invalid.
+- The Ajay Seth appointment clipping repeats the July appointment already retained; statutory composition, insurer/intermediary coverage and policyholder mandate add no separate new institutional facts.
+
 ## PDF coverage
 
-2025-07-25: pp. 21, 22, 23
+2025-07-25: pp. 21, 22, 23 · 2025-08-06: pp. 9, 10, 11

@@ -455,6 +455,30 @@
         "d": "FAO"
       },
       "answer": "a"
+    },
+    {
+      "chapter": "Biochar: carbon storage and productive uses",
+      "year": 2020,
+      "question": "What is the use of biochar in farming?\n1. Biochar can be used as a part of the growing medium in vertical farming.\n2. When biochar is a part of the growing medium, it promotes the growth of nitrogen-fixing microorganisms.\n3. When biochar is a part of the growing medium, it enables the growing medium to retain water for a longer time.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Groundwater quality and management",
+      "year": 2013,
+      "question": "Which of the following can be found as pollutants in the drinking water in some parts of India?\n1. Arsenic\n2. Sorbitol\n3. Fluoride\n4. Formaldehyde\n5. Uranium\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2, 4 and 5 only",
+        "c": "1, 3 and 5 only",
+        "d": "1, 2, 3, 4 and 5"
+      },
+      "answer": "c"
     }
   ]
 }
