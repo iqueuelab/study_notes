@@ -1,0 +1,369 @@
+{
+  "subject": "Ancient & Medieval History",
+  "chapters": {
+    "1": {
+      "label": "Chapter 1",
+      "short_label": "C1",
+      "title": "Pre-Historic India",
+      "notes": "01. Pre-Historic India/Quick Revision Notes.html"
+    }
+  },
+  "eras": [
+    {
+      "start": -2000000,
+      "end": -10001,
+      "label": "Before 10,000 BCE · Early stone-tool traditions"
+    },
+    {
+      "start": -10000,
+      "end": -3001,
+      "label": "10,000–3001 BCE · Foragers and early farming"
+    },
+    {
+      "start": -3000,
+      "end": -1,
+      "label": "3000–1 BCE · Regional cultures and oral traditions"
+    },
+    {
+      "start": 1,
+      "end": 1499,
+      "label": "1–1499 CE · Historical sources referenced"
+    },
+    {
+      "start": 1500,
+      "end": 3000,
+      "label": "1500 onwards · Archaeological discoveries and research"
+    }
+  ],
+  "events": [
+    {
+      "id": "palaeolithic",
+      "start_year": -500000,
+      "date_label": "c.500,000–10,000 BCE · teaching range",
+      "title": "Palaeolithic traditions",
+      "summary": "Broad chapter convention; newer site chronologies extend beyond this band. Hunting–gathering, flaked tools, caves and open sites; regional transitions overlap.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": true,
+      "end_year": -10000
+    },
+    {
+      "id": "upper-palaeolithic",
+      "start_year": -40000,
+      "date_label": "c.40,000–10,000 BCE",
+      "title": "Upper Palaeolithic reference horizon",
+      "summary": "Blades, burins, bone tools, ornaments and painting; not the first appearance of Homo sapiens.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": -10000
+    },
+    {
+      "id": "mesolithic",
+      "start_year": -10000,
+      "date_label": "c.10,000–6000 BCE · teaching range",
+      "title": "Mesolithic traditions",
+      "summary": "Microlithic tools, hunting/fishing/gathering, rock art and changing settlement patterns; later survival and herding vary by region.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": true,
+      "end_year": -6000
+    },
+    {
+      "id": "holocene",
+      "start_year": -9700,
+      "date_label": "c.9700 BCE · about 11,700 years ago",
+      "title": "Beginning of the Holocene",
+      "summary": "Approximate BCE placement of the geological boundary. Later forager and early farming cultures overlap this epoch; cultural boundaries are regional.",
+      "category": "Environment",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": true
+    },
+    {
+      "id": "mehrgarh",
+      "start_year": -7000,
+      "date_label": "Conventionally c.7000 BCE; revised dating disputed",
+      "title": "Early farming at Mehrgarh",
+      "summary": "Conventional textbook placement before urban Harappa. A 2025 tooth-enamel study instead places Period I about 5250–4650 cal BCE; retain the distinction rather than two supposedly separate settlements.",
+      "category": "Settlement",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": true
+    },
+    {
+      "id": "neolithic",
+      "start_year": -6000,
+      "date_label": "c.6000–1000 BCE · teaching range",
+      "title": "Regional Neolithic cultures",
+      "summary": "Farming/herding, ground tools, durable villages and pottery in many phases. Conventional earlier Mehrgarh dates lie outside this simplified band.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": true,
+      "end_year": -1000
+    },
+    {
+      "id": "burzahom",
+      "start_year": -3000,
+      "date_label": "c.3000–1000 BCE · broad sequence",
+      "title": "Burzahom habitation sequence",
+      "summary": "Kashmir site spans Neolithic, Megalithic and early historical phases; pit dwellings and human/animal burials are important. This is not one homogeneous 2000-year Neolithic phase.",
+      "category": "Settlement",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": -1000
+    },
+    {
+      "id": "chalcolithic",
+      "start_year": -3000,
+      "date_label": "c.3000–500 BCE · teaching range",
+      "title": "Chalcolithic regional cultures",
+      "summary": "Copper and stone, rural production/crafts/exchange. Some phases precede or overlap Harappa; others follow it.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": true,
+      "end_year": -500
+    },
+    {
+      "id": "banas",
+      "start_year": -2600,
+      "date_label": "c.2600 BCE–1900 BCE",
+      "title": "Ahar–Banas reference band",
+      "summary": "Banas basin; Ahar, Gilund and Balathal; chapter chronology, with broader regional ranges in other studies.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": -1900
+    },
+    {
+      "id": "ne-nl",
+      "start_year": -2500,
+      "date_label": "c.2500 BCE–1500 BCE",
+      "title": "Northeastern Neolithic reference horizon",
+      "summary": "Broad chapter range, or later; Daojali Hading and Garo hills illustrate regional diversity.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": -1500
+    },
+    {
+      "id": "kayatha",
+      "start_year": -2100,
+      "date_label": "c.2100 BCE–2000 BCE",
+      "title": "Kayatha reference band",
+      "summary": "Chhoti Kali Sindh/Chambal drainage, Madhya Pradesh; dates depend on phase and excavation.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": -2000
+    },
+    {
+      "id": "prabhas",
+      "start_year": -1800,
+      "date_label": "c.1800 BCE–1400 BCE",
+      "title": "Prabhas reference band",
+      "summary": "Prabhas Patan/Somnath, Gujarat; chapter reference chronology.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": -1400
+    },
+    {
+      "id": "malwa",
+      "start_year": -1700,
+      "date_label": "c.1700 BCE–1400 BCE",
+      "title": "Malwa reference band",
+      "summary": "Navdatoli on the Narmada; regional Chalcolithic culture.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": -1400
+    },
+    {
+      "id": "vedas",
+      "start_year": -1500,
+      "date_label": "c.1500 BCE–500 BCE",
+      "title": "Vedic textual composition traditions",
+      "summary": "Broad conventional textbook range; early Vedic oral traditions are often placed c.1500–600 BCE under a broader protohistoric label.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": -500
+    },
+    {
+      "id": "jorwe",
+      "start_year": -1400,
+      "date_label": "c.1400 BCE–700 BCE",
+      "title": "Jorwe reference band",
+      "summary": "Maharashtra; Jorwe, Inamgaon, Daimabad and Chandoli. Sites occupy different tributaries and phases.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": -700
+    },
+    {
+      "id": "sangam",
+      "start_year": -300,
+      "date_label": "c.300 BCE–300 CE",
+      "title": "Sangam literary reference period",
+      "summary": "Broad conventional span; Silappadikaram and Manimekalai are later/post-Sangam epics, not evidence for a single composition date.",
+      "category": "Cultural period",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": 300
+    },
+    {
+      "id": "periplus",
+      "start_year": 1,
+      "date_label": "1st century CE",
+      "title": "Periplus of the Erythraean Sea",
+      "summary": "Anonymous Greek-language account of navigation, ports and commodities; useful for Indian Ocean trade.",
+      "category": "Historical source",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "ptolemy",
+      "start_year": 101,
+      "date_label": "2nd century CE",
+      "title": "Ptolemy’s Geography",
+      "summary": "Greek geographical account supplying evidence on places, ports and trade.",
+      "category": "Historical source",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "faxian",
+      "start_year": 400,
+      "date_label": "Early 5th century CE",
+      "title": "Faxian’s Indian journey",
+      "summary": "Chinese Buddhist pilgrim; account illuminates Gupta-era society. The chapter’s 500 CE should not be treated as an exact visit date.",
+      "category": "Historical source",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "xuanzang",
+      "start_year": 629,
+      "date_label": "c.629–645 CE · journey",
+      "title": "Xuanzang’s Indian journey",
+      "summary": "Chinese Buddhist pilgrim associated with Harsha and Nalanda; 7th century, not an exact 700 CE visit.",
+      "category": "Historical source",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": 645
+    },
+    {
+      "id": "kalhana",
+      "start_year": 1101,
+      "date_label": "12th century CE",
+      "title": "Kalhana’s Rajatarangini",
+      "summary": "Kashmir historical narrative; evaluate literary form and retrospective traditions.",
+      "category": "Historical source",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "foote",
+      "start_year": 1863,
+      "date_label": "1863",
+      "title": "Foote discovers Pallavaram handaxe",
+      "summary": "Robert Bruce Foote’s discovery is a landmark in the study of Indian prehistory.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": true
+    },
+    {
+      "id": "carlleyle",
+      "start_year": 1867,
+      "date_label": "1867–68",
+      "title": "Carlleyle documents Indian rock paintings",
+      "summary": "Early modern discovery/documentation, not the date the paintings were made.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": 1868
+    },
+    {
+      "id": "wakankar",
+      "start_year": 1957,
+      "date_label": "1957–58",
+      "title": "Wakankar identifies Bhimbetka shelters",
+      "summary": "V.S. Wakankar’s survey brought the rock shelters to scholarly attention.",
+      "category": "Archaeological discovery",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false,
+      "end_year": 1958
+    },
+    {
+      "id": "attirampakkam-research",
+      "start_year": 2018,
+      "date_label": "2018",
+      "title": "Attirampakkam Middle Palaeolithic dating published",
+      "summary": "Luminescence study dates the local transition around 385 ±64 ka and continuation to 172 ±41 ka; not a uniform subcontinental chronology.",
+      "category": "Research",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "mehrgarh-redating",
+      "start_year": 2025,
+      "date_label": "2025",
+      "title": "Mehrgarh Period I re-dating study",
+      "summary": "Human tooth-enamel radiocarbon results propose c.5250–4650 cal BCE, challenging conventional much earlier dates; broader regional conclusions require further evidence.",
+      "category": "Research",
+      "chapters": [
+        "1"
+      ],
+      "is_turning_point": false
+    }
+  ]
+}

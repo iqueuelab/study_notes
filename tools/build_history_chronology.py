@@ -16,6 +16,8 @@ ordered=sorted(events,key=lambda e:(e['start_year'],e.get('month',0),e.get('day'
 assert events==ordered,'Sort events by numeric start date before rendering.'
 def era(e):
  y=e['start_year']
+ for band in data.get('eras',[]):
+  if band['start']<=y<=band['end']:return band['label']
  if subject!='Modern Indian History':
   if y<0:
    upper=((-y-1)//100+1)*100
@@ -45,7 +47,7 @@ for e in events:
  searchable=' '.join([e['date_label'],e['title'],e['summary'],e['category']]+[chapters[c]['title'] for c in e['chapters']])
  sections[-1]['cards'].append(f'''<article class="event" data-chapters="{','.join(e['chapters'])}" data-category="{esc(e['category'],quote=True)}" data-key="{int(milestone)}" data-year="{e['start_year']}" data-search="{esc(searchable.lower(),quote=True)}"><div class="date">{esc(e['date_label'])}</div><div class="event-body"><div class="eyebrow">{esc(e['category'])}{'<span class="key-label">Turning point</span>' if milestone else ''}</div><h3>{esc(e['title'])}</h3><p>{esc(e['summary'])}</p><div class="chapter-links">{''.join(references)}</div></div></article>''')
  md.extend([f'### {e["date_label"]} · {e["title"]}','',e['summary'],'',f'*{e["category"]} · '+ ' / '.join(mdrefs)+'',''])
-(root/'Chronology.md').write_text('\n'.join(md)+'\n')
+(root/'Chronology.md').write_text('\n'.join(md).rstrip()+'\n')
 options=''.join(f'<option value="{esc(c,quote=True)}">{esc(c)}</option>' for c in sorted({e['category'] for e in events}))
 chapteroptions=''.join(f'<option value="{k}">{esc(v["label"]+" — "+v["title"])}</option>' for k,v in chapters.items())
 body=''.join(f'<section class="era"><h2>{esc(s["title"])}</h2><div class="timeline">'+''.join(s['cards'])+'</div></section>' for s in sections)
