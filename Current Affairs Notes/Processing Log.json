@@ -5520,17 +5520,53 @@
     {
       "date": "2025-11-08",
       "pdf": "2025/11-November/2025-11-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0eb966050e767c3c4f8c142316c8a77d7c23b913a56fc49f56d6ce3778ea951a",
+      "pages": 20,
+      "topic_ids": [
+        "fighter-aircraft",
+        "fujian-carrier",
+        "leopard-conservation",
+        "stray-dog-ethics",
+        "vande-mataram"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-10",
       "pdf": "2025/11-November/2025-11-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3bd6dbd122991d04abee23e8c1155b0c998f63c4359de4e87aa00d24edb73413",
+      "pages": 21,
+      "topic_ids": [
+        "aditya-l1",
+        "denmark",
+        "food-systems-nutrition",
+        "lichens",
+        "project-suncatcher",
+        "rhesus-macaque",
+        "volcanic-lightning"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-11",
       "pdf": "2025/11-November/2025-11-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "87b16a7f9258ebf3162aca7ab8964f4757fab8b9826b2fccf0a97224ea1cdaeb",
+      "pages": 16,
+      "topic_ids": [
+        "angola",
+        "quad",
+        "red-fort-blast",
+        "rhesus-macaque",
+        "ricin",
+        "sal-tree"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-11-12",
@@ -7024,7 +7060,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-11-08",
+  "next_pdf": "2025-11-12",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7136,6 +7172,11 @@
       "date": "2025-11-02",
       "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-11-02.pdf in source collection/jobs. Physical 2025-11-03.pdf p1 banner explicitly says 3rd Nov. 2025 only; it does not claim combined Nov1–3 coverage. Nov2 launch news in Nov3 issue does not replace a missing Nov2 issue."
+    },
+    {
+      "date": "2025-11-09",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone 2025-11-09.pdf in assigned collection. Adjacent physical 2025-11-10.pdf page 1 banner reads only “10 Nov. 2025”; no combined Nov9/10 date coverage is stated. Physical Nov10 file reviewed in full; Nov9 remains an explicit source gap, with no invented notes."
     }
   ]
 }

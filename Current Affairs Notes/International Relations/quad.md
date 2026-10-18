@@ -23,6 +23,12 @@
 - The **Supply Chain Resilience Initiative** involves India, Japan and Australia; do not equate it automatically with a four-member Quad programme.
 - The PDF conflates the 2007 dialogue with Abe's later 'security diamond' formulation; memorise the verified Quad chronology above.
 
+## Malabar 2025 at Guam
+- **INS Sahyadri**, an indigenously built **guided-missile stealth frigate**, reached **Guam, northern Pacific**, for **Malabar 2025**. Harbour phase: operational planning, communication protocols, ship familiarisation and sports; sea phase: joint fleet drills, **ASW, gunnery and flying operations**. [Defence release, 9 November 2025](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2188052&lang=1&reg=3).
+- Exercise chronology: **1992 India–US bilateral origin; Japan permanent participant from 2015; Australia returned in 2020**. Correct the sheet: Australia participated in **2007**, so 2020 was not its first-ever involvement; invited navies in 2007 were participants, not merely observers. [MEA 2007 account](https://www.mea.gov.in/Uploads/PublicationDocs/178_foreign-relations-2007.pdf). Malabar has its own history and is not a formal Quad treaty/alliance exercise.
+- Benefits: common procedures, maritime-domain awareness, surface/subsurface/air interoperability, preparedness and defence diplomacy; HADR cooperation is a wider maritime benefit. The sheet's tables of assets “usually participating” are not a verified 2025 full order of battle.
+- Indo-Pacific relevance: sea-lane security, freedom of navigation, operational trust and regional partnerships. China-related strategic interpretation is distinct from a declared collective-defence obligation; hosting in different oceans is a pattern, not an inflexible annual alternation rule.
+
 ## PDF coverage
 
-2025-01-05: pp. 1, 2, 3, 4, 5 · 2025-01-22: pp. 1 · 2025-05-02: pp. 22, 23, 24
+2025-01-05: pp. 1, 2, 3, 4, 5 · 2025-01-22: pp. 1 · 2025-05-02: pp. 22, 23, 24 · 2025-11-11: pp. 10, 11, 12, 13

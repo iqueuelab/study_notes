@@ -1114,6 +1114,66 @@
       ],
       "status": "practice_only",
       "evidence": "UBI 250-word mains practice and answer framework have no CSE exam year; excluded from PYQ bank."
+    },
+    {
+      "date": "2025-11-08",
+      "pages": [
+        4,
+        5
+      ],
+      "status": "practice_only",
+      "evidence": "Stray-animal 250-word mains prompt and model framework supply no authenticated CSE year. No genuine full CSE PYQ on the other reviewed pages; no invented question/year."
+    },
+    {
+      "date": "2025-11-10",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "status": "no_pyqs",
+      "evidence": "All pages including diagrams, tables and revision sections reviewed. No full year-labelled CSE PYQ; “Prelims + Mains” headings and tips are content labels, not exam questions."
+    },
+    {
+      "date": "2025-11-11",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "no_pyq",
+      "evidence": "All text and page images reviewed; no identified year-labelled CSE PYQ."
     }
   ],
   "resolved": [
