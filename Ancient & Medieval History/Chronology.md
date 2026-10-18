@@ -144,15 +144,27 @@ Broad chapter composition band for normative texts on conduct and social duties;
 
 ### c.600–300 BCE · broad regional horizon · Second urbanisation and territorial states
 
-Ganga-basin towns, surplus agriculture, craft specialisation, trade, early coinage and larger territorial states; regional chronologies vary.
+Ganga-basin towns, surplus agriculture, craft specialisation, trade, early coinage and larger territorial states; regional chronologies vary. Agrarian surplus, crafts, coins, trade and new social groups formed the setting for Buddhist, Jaina and other shramana movements. Economic change is one factor, not a complete explanation of every doctrine.
 
-*Cultural period · [C4](04.%20The%20Mahajanpadas%20of%20the%20Indo-Gangetic%20Plain%28c.%20600-300%20BCE%29/Quick%20Revision%20Notes.html)
+*Cultural period · [C4](04.%20The%20Mahajanpadas%20of%20the%20Indo-Gangetic%20Plain%28c.%20600-300%20BCE%29/Quick%20Revision%20Notes.html) / [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ### c.600 BCE · broad teaching horizon · Upanishadic inquiry in the later Vedic setting
 
 Around this broad horizon, traditions associated with Panchala and Videha develop discussions of self, knowledge, action and liberation. This does not date every Upanishad to one year; early texts and later layers span a wider period.
 
 *Textual tradition · [C3](03.%20The%20Vedic%20Age%28Rig%20Vedic%20%26%20Later%20Vedic%29%20%28c.%201500-500%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 599–527 BCE · traditional, disputed chronology · Mahavira: traditional life chronology
+
+Traditional dates used in the chapter; historical chronologies vary. Twenty-fourth Tirthankara; Kundagrama near Vaishali, Jnatrika clan; final liberation associated with Pavapuri. Ages and family details belong to traditions with sect differences.
+
+*Religious biography · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### 563–483 BCE · conventional, disputed chronology · Gautama Buddha: conventional life chronology
+
+One traditional chronology, not an uncontested historical dating. Lumbini birth; renunciation, enlightenment at Bodh Gaya, first sermon at Sarnath, final passing at Kushinara. Some historical chronologies place his life later.
+
+*Religious biography · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ### c.559–530 BCE · conventional reign · Cyrus and the eastern Achaemenid frontier
 
@@ -184,6 +196,12 @@ Conflict over Kashi and defeat of Vajji; war-machine traditions and Vassakara di
 
 *Reign · [C4](04.%20The%20Mahajanpadas%20of%20the%20Indo-Gangetic%20Plain%28c.%20600-300%20BCE%29/Quick%20Revision%20Notes.html)
 
+### c.483 BCE · traditional date; chronology disputed · First Buddhist council: Rajagriha tradition
+
+Traditionally shortly after Buddha’s passing, under Ajatashatru, led by Mahakassapa; Upali recites discipline and Ananda discourses. Absolute date follows one Buddha chronology; do not imply the entire later Abhidhamma was already fixed.
+
+*Council · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
 ### c.460–444 BCE · conventional chronology · Udayin and the capital at Pataliputra
 
 Associated with transferring the Magadhan capital to Pataliputra at strategic ancient river junctions; not Udayana of Vatsa.
@@ -196,6 +214,18 @@ Shishunaga annexes Avanti and is associated with Vaishali; Kalashoka with Patali
 
 *Dynasty · [C4](04.%20The%20Mahajanpadas%20of%20the%20Indo-Gangetic%20Plain%28c.%20600-300%20BCE%29/Quick%20Revision%20Notes.html)
 
+### c.fourth–third centuries BCE · later traditional association · Bhadrabahu and southward migration: traditional setting
+
+Later traditions connect a twelve-year Magadhan famine, Bhadrabahu’s movement south and Chandragupta Maurya’s Jaina renunciation at Shravanabelagola. Not an independently established exact itinerary or a single instantaneous sectarian split.
+
+*Religious history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### c.fourth–third centuries BCE · traditional setting · Jaina Pataliputra council and transmission traditions
+
+Associated with Sthulabhadra and recovering/arranging Angas. Source’s 310 BCE is a teaching convention, not an established exact date. Related famine/migration accounts are later traditions; Digambara tradition does not accept this recension as authoritative.
+
+*Council · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
 ### c.400 BCE–400 CE · Mahabharata: layered composition
 
 Broad conventional composition/redaction band, with oral formation and later layers. The epic’s story setting is not the date of its surviving textual compilation.
@@ -207,6 +237,12 @@ Broad conventional composition/redaction band, with oral formation and later lay
 Broad chapter composition band; the received text contains different layers. Traditional story chronology is distinct from historical composition dates.
 
 *Textual tradition · [C3](03.%20The%20Vedic%20Age%28Rig%20Vedic%20%26%20Later%20Vedic%29%20%28c.%201500-500%20BCE%29/Quick%20Revision%20Notes.html)
+
+### c.383 BCE · conventional date; chronology disputed · Second Buddhist council: Vaishali tradition
+
+Traditionally about a century after Buddha, associated with Kalashoka and Sabbakami; discipline disputes. Accounts of the early Sthavira–Mahasanghika division vary.
+
+*Council · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ### 356–323 BCE · Life of Alexander III of Macedon
 
@@ -250,11 +286,35 @@ Overthrow of the Nandas, traditionally with Kautilya's assistance; slightly diff
 
 *Political change · [C4](04.%20The%20Mahajanpadas%20of%20the%20Indo-Gangetic%20Plain%28c.%20600-300%20BCE%29/Quick%20Revision%20Notes.html)
 
+### c.third century BCE–third century CE · broad building range · Amaravati stupa develops through multiple phases
+
+Dhanyakataka/Amaravati in Andhra Pradesh was an important Buddhist centre with Mahasanghika associations. Stupa construction and alteration extended over centuries; not one uniformly dated building.
+
+*Architecture · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
 ### Third century BCE · background period · Ashokan inscriptions and artistic connections
 
 Northwestern Kharoshthi inscriptions and possible Persian connections in Mauryan royal display; bell-shaped capitals belong to pillars, not rock edicts.
 
 *Cultural exchange · [C4](04.%20The%20Mahajanpadas%20of%20the%20Indo-Gangetic%20Plain%28c.%20600-300%20BCE%29/Quick%20Revision%20Notes.html)
+
+### third century BCE · chronicle traditions · Buddhist mission traditions under Ashoka
+
+Sri Lankan chronicles associate Mahinda and Sanghamitta with Sri Lanka; Sona/Uttara with Suvarnabhumi, Mahadeva with Mahishamandala, Majjhima with Himalayan region, Dhammarakkhita with Aparantaka and Maharakkhita with Yona country. Exact destination boundaries are debated.
+
+*Religious history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### third century BCE · Mauryan cave patronage for Ajivikas
+
+Third-century BCE inscriptions at Barabar and Nagarjuni, associated with Ashoka and Dasharatha, provide important evidence for Ajivika patronage beyond rival textual accounts.
+
+*Institutional history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### third century BCE · Ashokan nucleus · Sanchi: Ashokan brick nucleus
+
+The Great Stupa began with an Ashokan-period brick nucleus; later enlargements, stone casing and gateways belong to further building phases.
+
+*Architecture · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ### c.300 BCE–300 CE · Sangam literary reference period
 
@@ -262,13 +322,61 @@ Broad conventional span; Silappadikaram and Manimekalai are later/post-Sangam ep
 
 *Cultural period · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
 
+### c.250 BCE · conventional chronology · Third Buddhist council: Pataliputra tradition
+
+Theravada accounts associate Ashoka and Moggaliputta Tissa with doctrinal purification, Kathavatthu and missions. Not all school histories narrate the same council.
+
+*Council · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### second century BCE · principal surviving sculpture · Bharhut: railings, sculpture and donors
+
+Famous surviving railings and narrative sculpture are largely second-century BCE. Inscriptions record lay, monastic and female donors; earlier Ashokan foundation is conventionally attributed, not a uniform date for every element.
+
+*Architecture · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
 ### c.200 BCE–900 CE · Dharmashastra / Smriti development
 
 Broad chapter band for a diverse normative literary tradition; not the date of one single text or a universally enforced legal code.
 
 *Textual tradition · [C3](03.%20The%20Vedic%20Age%28Rig%20Vedic%20%26%20Later%20Vedic%29%20%28c.%201500-500%20BCE%29/Quick%20Revision%20Notes.html)
 
+### c.second–first centuries BCE · broad reference period · Jaina associations in the Tamil south
+
+The last centuries BCE form an early southern reference horizon for Jaina communities and Tamil-Brahmi associations; regional transmission and dating are not one single event.
+
+*Religious history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### first century BCE · conventional dating · Kharavela and Jaina patronage in Kalinga
+
+Conventionally dated to the first century BCE; important Jaina royal patron. Do not place Kharavela in the fourth century BCE.
+
+*Patronage · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### first century BCE · traditional setting · Pali canon writing: Sri Lankan fourth-council tradition
+
+Alu Vihara/Aloka Lena under Vattagamani Abhaya is associated with writing down the Pali canon. Separate from the later Kashmir council in Sarvastivada tradition.
+
+*Council · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
 ## 1–1499 CE · Historical sources referenced
+
+### c.first–second centuries CE · Ashvaghosha and the Buddhacharita
+
+Sanskrit sacred life of Buddha; poet and dramatist traditionally linked with Kanishka. Broad first–second-century CE association.
+
+*Literature · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### early centuries CE · gradual formation · Digambara and Shvetambara identities crystallise
+
+Differences in clothing, scripture, religious biography and women’s final liberation developed over centuries. Do not date a single fully formed split to one famine or one exact year.
+
+*Religious history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### first century CE · traditional mission account · Early Chinese invitation tradition
+
+Traditions associate Kashyapa Matanga and Dharmaratna with an early Chinese invitation and translation activity. This is a traditional account, not a verified itinerary for every similarly named monk.
+
+*Religious history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ### 1st century CE · Periplus of the Erythraean Sea
 
@@ -276,11 +384,35 @@ Anonymous Greek-language account of navigation, ports and commodities; useful fo
 
 *Historical source · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
 
+### second century CE · broad Kanishka-period setting · Kashmir council under Kanishka
+
+Sarvastivada fourth-council tradition associated with Kashmir/Kundalavana, Vasumitra and scholastic commentaries. Not the instantaneous origin of Mahayana or a simple Mahayana/Hinayana division.
+
+*Council · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### c.second–third centuries CE · Nagarjuna and Madhyamaka
+
+Broad second–third-century CE placement. Madhyamaka and emptiness; Satavahana patronage traditions exist but identification of one exact contemporary king is debated.
+
+*Philosophy · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
 ### 2nd century CE · Ptolemy’s Geography
 
 Greek geographical account supplying evidence on places, ports and trade.
 
 *Historical source · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
+
+### c.127 CE · accession framework · Kanishka: modern accession framework
+
+The c.127 CE accession framework places Kanishka in the second century CE, explaining why older first-century datings of his council require qualification.
+
+*Political chronology · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### c.fourth–fifth centuries CE · Asanga and Vasubandhu
+
+Brothers associated with Yogachara/Vijnanavada development; Vasubandhu’s Abhidharmakosha is a major Abhidharma work. Broad scholarly chronology, not exact life dates.
+
+*Philosophy · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ### c.4th–6th centuries CE · major formation, not final closure · Major Puranic textual formation
 
@@ -290,21 +422,111 @@ The chapter places important Puranic textual formation in the fourth–sixth cen
 
 ### Early 5th century CE · Faxian’s Indian journey
 
-Chinese Buddhist pilgrim; account illuminates Gupta-era society. The chapter’s 500 CE should not be treated as an exact visit date.
+Chinese Buddhist pilgrim; account illuminates Gupta-era society. The chapter’s 500 CE should not be treated as an exact visit date. Chinese pilgrim collected Buddhist texts and observed religious institutions; one of the translation/travel networks linking India and East Asia.
 
-*Historical source · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
+*Historical source · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html) / [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### fifth century CE · Buddhaghosa and the Visuddhimagga
+
+Fifth-century Pali scholar associated with the Path of Purification, a major Theravada synthesis.
+
+*Literature · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### c.fifth–sixth centuries CE · broad phase · Dhamekh: major surviving structural phase
+
+The present massive Dhamekh stupa at Sarnath is substantially Gupta-period, broadly fifth–sixth centuries CE, in a sacred landscape with earlier Ashokan remains. Avoid an unsupported exact reconstruction year.
+
+*Architecture · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### c.fifth–sixth centuries CE · Dignaga develops Buddhist logic
+
+Broad fifth–sixth-century CE setting; Buddhist logician and epistemologist, not Jaina.
+
+*Philosophy · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### 401 CE · Kumarajiva arrives at Chang’an
+
+An important stage in his Chinese Buddhist translation activity; do not describe every later translator of a similar name as the same individual.
+
+*Translation · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### fifth–sixth centuries CE · varying traditional dates · Vallabhi council and Shvetambara canonical redaction
+
+Associated with Devarddhigani Kshamashramana. Dates vary: 453/466 CE occur in scholarship; 512 CE in conventional teaching accounts. Surviving Shvetambara collection has eleven Angas, the twelfth lost; Digambaras preserve a different authoritative corpus.
+
+*Council · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### seventh century CE · Dharmakirti and Buddhist epistemology
+
+Seventh-century Buddhist philosopher of logic and knowledge; distinguish him from similarly named translators.
+
+*Philosophy · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### from seventh century CE · growing popularity · Miniature votive stupas become especially common
+
+Seventh-century CE reference horizon for popular miniature terracotta offerings in India; votive objects also occur in stone and metal, and the practice is not limited to one century.
+
+*Religious art · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### later first millennium CE · broad development horizon · Vajrayana develops in later first-millennium India
+
+Esoteric methods within a Mahayana framework: guru, initiation, mantra, mandala and visualisation. Especially important in eastern India; not reducible to magic or a single foundation year.
+
+*Religious history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ### c.629–645 CE · journey · Xuanzang’s Indian journey
 
-Chinese Buddhist pilgrim associated with Harsha and Nalanda; 7th century, not an exact 700 CE visit.
+Chinese Buddhist pilgrim associated with Harsha and Nalanda; 7th century, not an exact 700 CE visit. Chinese pilgrim and scholar; his travel/textual transmission contributed to connections between Indian Buddhist institutions and East Asia.
 
-*Historical source · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
+*Historical source · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html) / [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### eighth century CE · transmission phase · Eighth-century Buddhist transmission to Tibet
+
+An important early transmission phase; renewed eleventh-century links followed later. Neither date is the first existence of all Vajrayana ideas.
+
+*Religious history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### eighth century CE · Jaina Harivamsha Purana
+
+Eighth-century Jaina epic-lineage work associated with Krishna, Balarama and other figures; distinguish similarly titled non-Jaina works.
+
+*Literature · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### ninth century CE · Jinasena, Gunabhadra and Jaina Puranic literature
+
+Ninth-century Adi Purana/Rishabha narrative and Trishashtilakshana Mahapurana tradition; sacred biography includes social and political material.
+
+*Literature · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### eleventh century CE · renewed transmission phase · Renewed Buddhist transmissions to Tibet
+
+Eleventh-century renewed links with Indian teachers and institutions, including Vikramashila, were important to Tibetan lineages.
+
+*Religious history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### twelfth century CE · Hemachandra’s Parishishtaparvan
+
+Twelfth-century Jaina work on teachers and political traditions; a Jaina text unlike Buddhist Nettipakarana or Avadanashataka.
+
+*Literature · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ### 12th century CE · Kalhana’s Rajatarangini
 
 Kashmir historical narrative; evaluate literary form and retrospective traditions.
 
 *Historical source · [C1](01.%20Pre-Historic%20India/Quick%20Revision%20Notes.html)
+
+### late twelfth–early thirteenth centuries CE · approximate horizon · Attacks intensify losses of major Buddhist monasteries
+
+Late twelfth–early thirteenth-century warfare and attacks on institutions in parts of northern/eastern India intensified an already uneven decline. Not a universal extinction date or sole cause.
+
+*Institutional history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
+
+### fourteenth century CE · debated late references · Late medieval references associated with Ajivikas
+
+Southern references are sometimes cited into the fourteenth century; identification and continuity with the ancient movement are debated. Not proof of a fully documented unbroken organisation.
+
+*Religious history · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ## 1500 onwards · Archaeological discoveries and research
 
@@ -409,6 +631,12 @@ R.S. Bisht’s work documents early/mature settlement and the terracotta plough 
 R.S. Bisht’s programme exposes fortified divisions, water management and the ten-sign inscription; field seasons are often described as 1989/90–2005.
 
 *Archaeological discovery · [C2](02.%20Harappan%20Civilisation%3ABronze%20Age%28c.%202600-1900%20BCE%29/Quick%20Revision%20Notes.html)
+
+### 1989 · Sanchi inscribed as World Heritage
+
+Buddhist Monuments at Sanchi entered the UNESCO World Heritage List; the site contains many building phases, not only an Ashokan monument.
+
+*Heritage recognition · [C5](05.%20Buddhism%20and%20Jainism/Quick%20Revision%20Notes.html)
 
 ### 2007 · Rigveda manuscripts enter UNESCO Memory of the World
 

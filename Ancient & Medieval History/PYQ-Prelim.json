@@ -121,6 +121,402 @@
       },
       "answer": "c",
       "chapter": "3. The Vedic Age"
+    },
+    {
+      "year": 2023,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?",
+      "options": {
+        "a": "Andhra",
+        "b": "Gandhara",
+        "c": "Kalinga",
+        "d": "Magadha"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2023,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "“Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects.”\nThe above statement reflects one of the core beliefs of which one of the following religious sects of ancient India?",
+      "options": {
+        "a": "Buddhism",
+        "b": "Jainism",
+        "c": "Shaivism",
+        "d": "Vaishnavism"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2023,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to ancient India, consider the following statements:\n1. The concept of stupa is Buddhist in origin.\n2. Stupa was generally a repository of relics.\n3. Stupa was a votive and commemorative structure in Buddhist tradition.\nHow many of the statement(s) given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2022,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to Indian history, consider the following texts:\n1. Nettipakarana\n2. Parishishtaparvan\n3. Avadanashataka\n4. Trishashtilakshana Mahapurana\nWhich of the above are Jaina texts?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2 and 4 only",
+        "c": "1, 3 and 4",
+        "d": "2, 3 and 4"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2022,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to Indian history, consider the following pairs:\nHistorical person — known as\n1. Aryadeva — Jaina scholar\n2. Dignaga — Buddhist scholar\n3. Nathamuni — Vaishnava scholar\nHow many pairs given above are correctly matched?",
+      "options": {
+        "a": "None of the pairs",
+        "b": "Only one pair",
+        "c": "Only two pairs",
+        "d": "All three pairs"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2020,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to the cultural history of India, which one of the following is the correct description of the term “paramitas”?",
+      "options": {
+        "a": "The earliest Dharmashastra texts written in aphoristic (sutra) style",
+        "b": "Philosophical schools that did not accept the authority of Vedas",
+        "c": "Perfections whose attainment led to the Bodhisattva path",
+        "d": "Powerful merchant guilds of early medieval South India"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2020,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to the religious history of India, consider the following statements:\n1. Sthaviravadins belong to Mahayana Buddhism.\n2. Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism.\n3. The deification of Buddha by Mahasanghikas fostered Mahayana Buddhism.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2019,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Consider the following statements:\ni. Deification of the Buddha.\nii. Trading the path of Bodhisattvas.\niii. Image worship and rituals.\nWhich of the statements given above are the features of Mahayana Buddhism?",
+      "options": {
+        "a": "i only",
+        "b": "i and ii only",
+        "c": "ii and iii only",
+        "d": "i, ii and iii"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2018,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to the religious practices in India, the “Sthanakvasi” sect belongs to:",
+      "options": {
+        "a": "Buddhism",
+        "b": "Jainism",
+        "c": "Vaishnavism",
+        "d": "Shaivism"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2018,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to India history, who among the following is future Buddha, yet to come to save the world?",
+      "options": {
+        "a": "Avalokiteshvara",
+        "b": "Lokesvara",
+        "c": "Maitreya",
+        "d": "Padmapani"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2017,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to the religious history of India, consider the following statements:\n1. Sautrantika and Sammitiya were the sects of Jainism.\n2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form.\nWhich of the statement(s) given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2017,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "The painting of Bodhisattva Padmapani is one of the most famous and of illustrated paintings at",
+      "options": {
+        "a": "Ajanta",
+        "b": "Badami",
+        "c": "Bagh",
+        "d": "Ellora"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2016,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to the religious history of India, consider the following statements:\ni. The concepts of Bodhisattva is central to Hinayana sect of Buddhism.\nii. The Bodhisattva is the compassionate one on his way to enlightenment.\niii. The Bodhisattva delays achieving his own salvation to help all sentient beings on their path to it.\nWhich of the statement(s) given above is/are correct?",
+      "options": {
+        "a": "i only",
+        "b": "ii and iii only",
+        "c": "ii only",
+        "d": "i, ii and iii"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2015,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Which of the following kingdoms were associated with the life of the Buddha?\ni. Avanti\nii. Gandhara\niii. Kosala\niv. Magadha\nSelect the correct answer using the code given below.",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2 and 3 only",
+        "c": "1, 3 and 4",
+        "d": "3 and 4 only"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2014,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Which of the following kingdoms were associated with the life of the Buddha?\ni. Avanti\nii. Gandhara\niii. Kosala\niv. Magadha\nSelect the correct answer using the code given below.",
+      "options": {
+        "a": "i, ii and iii",
+        "b": "ii and iv",
+        "c": "iii and iv only",
+        "d": "i, iii and iv"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2013,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Which of the following statement(s) is/are applicable to Jaina doctrine?\ni. The surest way of annihilating Karma is to practice penance.\nii. Every object, even the smallest particle has a soul.\niii. Karma is the bane of the soul and must be ended.\nSelect the correct answer using the codes given below.",
+      "options": {
+        "a": "i only",
+        "b": "ii and iii only",
+        "c": "i and iii only",
+        "d": "i, ii and iii"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2013,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Some Buddhist rock-cut caves are called Chaityas, while the others are called Viharas. What is the difference between the two?",
+      "options": {
+        "a": "Vihara is a place of worship, while Chaitya is the dwelling place of the monks.",
+        "b": "Chaitya is a place of worship, while Vihara is the dwelling place of the monks.",
+        "c": "Chaitya is the stupa at the far end of the cave, while Vihara is the hall axial to it.",
+        "d": "There is no material difference between the two."
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2013,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Which one of the following describes best the concept of Nirvana in Buddhism?",
+      "options": {
+        "a": "The extinction of the flame of desire.",
+        "b": "The complete annihilation of self.",
+        "c": "A state of bliss and rest.",
+        "d": "A mental stage beyond all comprehension."
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2012,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to the history of ancient India, which of the following was/were common to both Buddhism and Jainism?\ni. Avoidance of extremities of penance and enjoyment.\nii. Indifference to the authority of the Vedas.\niii. Denial of efficacy of rituals.\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "i only",
+        "b": "ii and iii only",
+        "c": "i and iii only",
+        "d": "i, ii and iii"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2012,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Lord Buddha’s image is sometimes shown with the hand gesture called “Bhumisparsha Mudra”. It symbolises",
+      "options": {
+        "a": "Buddha’s calling of the Earth to watch over Mara and to prevent Mara from disturbing his meditation.",
+        "b": "Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara.",
+        "c": "Buddha’s reminder to his followers that they all arise from the Earth and finally dissolve into the Earth, and thus this life is transitory.",
+        "d": "Both the statements (a) and (b) are correct in this context."
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2011,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "The Jaina philosophy holds that the world is created and maintained by",
+      "options": {
+        "a": "Universal law",
+        "b": "Universal truth",
+        "c": "Universal faith",
+        "d": "Universal soul"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2005,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Which among the following was not a contemporary of the other three?",
+      "options": {
+        "a": "Bimbisara",
+        "b": "Gautam Buddha",
+        "c": "Milinda",
+        "d": "Prasenjit"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2004,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to ancient Jainism, which one of the following statements is correct?",
+      "options": {
+        "a": "Jainism was spread in south India under the leadership of Sthalabahu.",
+        "b": "The Jainas who remained under the leadership of Bhadrabahu were called Shvetambaras after the council held at Pataliputra.",
+        "c": "Jainism enjoyed the patronage of the Kalinga king Kharvela in the first century BC.",
+        "d": "In the initial stages of Jainism, the Jainas worshipped images unlike Buddhists."
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2003,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Consider the following statements:\ni. Vardhamana Mahavira’s mother was the daughter of Lichchhavi chief Chetaka.\nii. Gautama Buddha’s mother was a princess from the Kosalan Dynasty.\niii. Parshvanatha, the 23rd Tirthankara, belonged to Benaras.\nWhich of the following statement(s) is/are correct?",
+      "options": {
+        "a": "Only i",
+        "b": "Only ii",
+        "c": "ii and iii",
+        "d": "i, ii and iii"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2002,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "In ancient Indian Buddhist monasteries, a ceremony called Pavarala used to be held. It was the:",
+      "options": {
+        "a": "Occasion to elect the Sanghaparinayaka and two speakers – one on Dhamma and the other on Vinaya.",
+        "b": "Confession by the monks of their offences committed during their stay in the monasteries during the rainy season.",
+        "c": "Ceremony of initiation of new person into the Buddhist Sangha in which the head is shaved and yellow robes are offered.",
+        "d": "Gathering of Buddhist monks on the next day to the full moon day of Ashadha when they take up a fixed abode for the next four months of rainy season."
+      },
+      "answer": "b"
+    },
+    {
+      "year": 2001,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Which of the following presided over the Buddhist council held during the reign of Kanishka at Kashmir?",
+      "options": {
+        "a": "Parsva",
+        "b": "Nagarjuna",
+        "c": "Sudraka",
+        "d": "Vasumitra"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2000,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Assertion (A): The emphasis of Jainism on non-violence prevented agriculturists from embracing Jainism.\nReason (R): Cultivation involved killing of insects and pests.",
+      "options": {
+        "a": "If both Assertion and Reason are true and reason explains Assertion.",
+        "b": "If both Assertion and Reason are true but reason cannot explain Assertion.",
+        "c": "If Assertion is true and Reason is not true",
+        "d": "If Assertion is not true and reason is true."
+      },
+      "answer": "a"
+    },
+    {
+      "year": 1998,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "The concept of Eight-fold path forms the theme of:",
+      "options": {
+        "a": "Dipavamsa",
+        "b": "Divyavadana",
+        "c": "Mahaparinibbana Sutta",
+        "d": "Dharma-Chakra Pravartna Sutta"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 1997,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Milindapanho is in the form of a dialogue between the king Menander and the Buddhist monk",
+      "options": {
+        "a": "Nagasena",
+        "b": "Nagarjuna",
+        "c": "Nagabhatta",
+        "d": "Kumaribhatta"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 1996,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Which of the following were common to both Buddhism and Jainism?\ni. Avoidance of extremities of penance and enjoyment.\nii. Indifference to the authority of the Vedas.\niii. Denial of efficacy of rituals.\niv. Non-injury to animal life.\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "i, ii, iii and iv",
+        "b": "ii, iii and iv",
+        "c": "i, iii and iv",
+        "d": "i and ii"
+      },
+      "answer": "b"
+    },
+    {
+      "year": 1996,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "Which one of the following is not a part of early Jaina literature?",
+      "options": {
+        "a": "Therigatha",
+        "b": "Acarangasutra",
+        "c": "Sutrakritanga",
+        "d": "Brihatkalpasutra"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 1995,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "The concept of Anuvrata was advocated by",
+      "options": {
+        "a": "Mahayana Buddhism",
+        "b": "Hinayana Buddhism",
+        "c": "Jainism",
+        "d": "The Lokayukta school"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2016,
+      "chapter": "5. Buddhism and Jainism",
+      "question": "With reference to the cultural history of India, the memorizing of chronicles, dynastic histories and epic tales was the profession of who of the following?",
+      "options": {
+        "a": "Shramana",
+        "b": "Parivraajaka",
+        "c": "Agrahaarika",
+        "d": "Maagadha"
+      },
+      "answer": "d"
     }
   ]
 }

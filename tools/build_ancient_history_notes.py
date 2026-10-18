@@ -37,7 +37,7 @@ for chapter in sorted(SUBJECT.iterdir()):
  body=re.sub(r'<table>(<tr>.*?</tr>)(.*?)</table>',r'<table><thead>\1</thead><tbody>\2</tbody></table>',body,flags=re.S)
  pdf={'02':'Harappan Civilisation.pdf','03':'The Vedic Age.pdf','04':'The Mahajanapadas.pdf','05':'Buddhism and Jainism.pdf'}.get(chapter.name[:2],title+'.pdf')
  controls='<div class="controls"><button onclick="window.print()">Print / Save as PDF</button><a href="Quick%20Revision%20Notes.md">Editable notes</a><a href="'+quote(pdf)+'">Download PDF</a><a href="../Chronology.html">History timeline</a></div>'
- chapter_css=css+('@media print{td,th{padding:5pt}}' if chapter.name.startswith('04.') else '')
+ chapter_css=css+('@media print{td,th{padding:5pt}}' if chapter.name[:3] in {'04.','05.'} else '')
  page='<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+html.escape(title)+'</title><style>'+chapter_css+'</style></head><body><main>'+controls+body+'</main></body></html>'
  (chapter/'Quick Revision Notes.html').write_text(page)
  print('Rendered',chapter.name)

@@ -24,6 +24,12 @@
       "short_label": "C4",
       "title": "The Mahajanapadas of the Indo-Gangetic Plain",
       "notes": "04. The Mahajanpadas of the Indo-Gangetic Plain(c. 600-300 BCE)/Quick Revision Notes.html"
+    },
+    "5": {
+      "label": "Chapter 5",
+      "short_label": "C5",
+      "title": "Buddhism and Jainism",
+      "notes": "05. Buddhism and Jainism/Quick Revision Notes.html"
     }
   },
   "eras": [
@@ -344,10 +350,11 @@
       "start_year": -600,
       "date_label": "c.600–300 BCE · broad regional horizon",
       "title": "Second urbanisation and territorial states",
-      "summary": "Ganga-basin towns, surplus agriculture, craft specialisation, trade, early coinage and larger territorial states; regional chronologies vary.",
+      "summary": "Ganga-basin towns, surplus agriculture, craft specialisation, trade, early coinage and larger territorial states; regional chronologies vary. Agrarian surplus, crafts, coins, trade and new social groups formed the setting for Buddhist, Jaina and other shramana movements. Economic change is one factor, not a complete explanation of every doctrine.",
       "category": "Cultural period",
       "chapters": [
-        "4"
+        "4",
+        "5"
       ],
       "end_year": -300
     },
@@ -363,6 +370,30 @@
         "3"
       ],
       "is_turning_point": false
+    },
+    {
+      "id": "mahavira-traditional-life",
+      "start_year": -599,
+      "date_label": "599–527 BCE · traditional, disputed chronology",
+      "title": "Mahavira: traditional life chronology",
+      "summary": "Traditional dates used in the chapter; historical chronologies vary. Twenty-fourth Tirthankara; Kundagrama near Vaishali, Jnatrika clan; final liberation associated with Pavapuri. Ages and family details belong to traditions with sect differences.",
+      "category": "Religious biography",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -527
+    },
+    {
+      "id": "buddha-traditional-life",
+      "start_year": -563,
+      "date_label": "563–483 BCE · conventional, disputed chronology",
+      "title": "Gautama Buddha: conventional life chronology",
+      "summary": "One traditional chronology, not an uncontested historical dating. Lumbini birth; renunciation, enlightenment at Bodh Gaya, first sermon at Sarnath, final passing at Kushinara. Some historical chronologies place his life later.",
+      "category": "Religious biography",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -483
     },
     {
       "id": "cyrus-reign",
@@ -424,6 +455,17 @@
       "end_year": -460
     },
     {
+      "id": "buddhist-council-first",
+      "start_year": -483,
+      "date_label": "c.483 BCE · traditional date; chronology disputed",
+      "title": "First Buddhist council: Rajagriha tradition",
+      "summary": "Traditionally shortly after Buddha’s passing, under Ajatashatru, led by Mahakassapa; Upali recites discipline and Ananda discourses. Absolute date follows one Buddha chronology; do not imply the entire later Abhidhamma was already fixed.",
+      "category": "Council",
+      "chapters": [
+        "5"
+      ]
+    },
+    {
       "id": "udayin",
       "start_year": -460,
       "date_label": "c.460–444 BCE · conventional chronology",
@@ -446,6 +488,30 @@
         "4"
       ],
       "end_year": -345
+    },
+    {
+      "id": "jaina-southward-migration-tradition",
+      "start_year": -400,
+      "date_label": "c.fourth–third centuries BCE · later traditional association",
+      "title": "Bhadrabahu and southward migration: traditional setting",
+      "summary": "Later traditions connect a twelve-year Magadhan famine, Bhadrabahu’s movement south and Chandragupta Maurya’s Jaina renunciation at Shravanabelagola. Not an independently established exact itinerary or a single instantaneous sectarian split.",
+      "category": "Religious history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -201
+    },
+    {
+      "id": "jaina-pataliputra-council",
+      "start_year": -400,
+      "date_label": "c.fourth–third centuries BCE · traditional setting",
+      "title": "Jaina Pataliputra council and transmission traditions",
+      "summary": "Associated with Sthulabhadra and recovering/arranging Angas. Source’s 310 BCE is a teaching convention, not an established exact date. Related famine/migration accounts are later traditions; Digambara tradition does not accept this recension as authoritative.",
+      "category": "Council",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -201
     },
     {
       "id": "mahabharata-composition",
@@ -472,6 +538,17 @@
         "3"
       ],
       "is_turning_point": false
+    },
+    {
+      "id": "buddhist-council-second",
+      "start_year": -383,
+      "date_label": "c.383 BCE · conventional date; chronology disputed",
+      "title": "Second Buddhist council: Vaishali tradition",
+      "summary": "Traditionally about a century after Buddha, associated with Kalashoka and Sabbakami; discipline disputes. Accounts of the early Sthavira–Mahasanghika division vary.",
+      "category": "Council",
+      "chapters": [
+        "5"
+      ]
     },
     {
       "id": "alexander-life",
@@ -554,6 +631,18 @@
       ]
     },
     {
+      "id": "amaravati-stupa-development",
+      "start_year": -300,
+      "date_label": "c.third century BCE–third century CE · broad building range",
+      "title": "Amaravati stupa develops through multiple phases",
+      "summary": "Dhanyakataka/Amaravati in Andhra Pradesh was an important Buddhist centre with Mahasanghika associations. Stupa construction and alteration extended over centuries; not one uniformly dated building.",
+      "category": "Architecture",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 300
+    },
+    {
       "id": "ashokan-contact-context",
       "start_year": -300,
       "date_label": "Third century BCE · background period",
@@ -562,6 +651,42 @@
       "category": "Cultural exchange",
       "chapters": [
         "4"
+      ],
+      "end_year": -201
+    },
+    {
+      "id": "ashokan-buddhist-mission-traditions",
+      "start_year": -300,
+      "date_label": "third century BCE · chronicle traditions",
+      "title": "Buddhist mission traditions under Ashoka",
+      "summary": "Sri Lankan chronicles associate Mahinda and Sanghamitta with Sri Lanka; Sona/Uttara with Suvarnabhumi, Mahadeva with Mahishamandala, Majjhima with Himalayan region, Dhammarakkhita with Aparantaka and Maharakkhita with Yona country. Exact destination boundaries are debated.",
+      "category": "Religious history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -201
+    },
+    {
+      "id": "ajivika-mauryan-cave-patronage",
+      "start_year": -300,
+      "date_label": "third century BCE",
+      "title": "Mauryan cave patronage for Ajivikas",
+      "summary": "Third-century BCE inscriptions at Barabar and Nagarjuni, associated with Ashoka and Dasharatha, provide important evidence for Ajivika patronage beyond rival textual accounts.",
+      "category": "Institutional history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -201
+    },
+    {
+      "id": "sanchi-ashokan-nucleus",
+      "start_year": -300,
+      "date_label": "third century BCE · Ashokan nucleus",
+      "title": "Sanchi: Ashokan brick nucleus",
+      "summary": "The Great Stupa began with an Ashokan-period brick nucleus; later enlargements, stone casing and gateways belong to further building phases.",
+      "category": "Architecture",
+      "chapters": [
+        "5"
       ],
       "end_year": -201
     },
@@ -579,6 +704,29 @@
       "end_year": 300
     },
     {
+      "id": "buddhist-council-third",
+      "start_year": -250,
+      "date_label": "c.250 BCE · conventional chronology",
+      "title": "Third Buddhist council: Pataliputra tradition",
+      "summary": "Theravada accounts associate Ashoka and Moggaliputta Tissa with doctrinal purification, Kathavatthu and missions. Not all school histories narrate the same council.",
+      "category": "Council",
+      "chapters": [
+        "5"
+      ]
+    },
+    {
+      "id": "bharhut-railings-sculpture",
+      "start_year": -200,
+      "date_label": "second century BCE · principal surviving sculpture",
+      "title": "Bharhut: railings, sculpture and donors",
+      "summary": "Famous surviving railings and narrative sculpture are largely second-century BCE. Inscriptions record lay, monastic and female donors; earlier Ashokan foundation is conventionally attributed, not a uniform date for every element.",
+      "category": "Architecture",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -101
+    },
+    {
       "id": "dharmashastra-smriti-development",
       "start_year": -200,
       "end_year": 900,
@@ -590,6 +738,78 @@
         "3"
       ],
       "is_turning_point": false
+    },
+    {
+      "id": "jaina-tamil-south-reference",
+      "start_year": -200,
+      "date_label": "c.second–first centuries BCE · broad reference period",
+      "title": "Jaina associations in the Tamil south",
+      "summary": "The last centuries BCE form an early southern reference horizon for Jaina communities and Tamil-Brahmi associations; regional transmission and dating are not one single event.",
+      "category": "Religious history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -1
+    },
+    {
+      "id": "kharavela-jaina-patronage",
+      "start_year": -100,
+      "date_label": "first century BCE · conventional dating",
+      "title": "Kharavela and Jaina patronage in Kalinga",
+      "summary": "Conventionally dated to the first century BCE; important Jaina royal patron. Do not place Kharavela in the fourth century BCE.",
+      "category": "Patronage",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -1
+    },
+    {
+      "id": "buddhist-council-sri-lanka",
+      "start_year": -100,
+      "date_label": "first century BCE · traditional setting",
+      "title": "Pali canon writing: Sri Lankan fourth-council tradition",
+      "summary": "Alu Vihara/Aloka Lena under Vattagamani Abhaya is associated with writing down the Pali canon. Separate from the later Kashmir council in Sarvastivada tradition.",
+      "category": "Council",
+      "chapters": [
+        "5"
+      ],
+      "end_year": -1
+    },
+    {
+      "id": "ashvaghosha-buddhacharita",
+      "start_year": 1,
+      "date_label": "c.first–second centuries CE",
+      "title": "Ashvaghosha and the Buddhacharita",
+      "summary": "Sanskrit sacred life of Buddha; poet and dramatist traditionally linked with Kanishka. Broad first–second-century CE association.",
+      "category": "Literature",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 200
+    },
+    {
+      "id": "jaina-sect-crystallisation",
+      "start_year": 1,
+      "date_label": "early centuries CE · gradual formation",
+      "title": "Digambara and Shvetambara identities crystallise",
+      "summary": "Differences in clothing, scripture, religious biography and women’s final liberation developed over centuries. Do not date a single fully formed split to one famine or one exact year.",
+      "category": "Religious history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 500
+    },
+    {
+      "id": "buddhism-china-early-mission-tradition",
+      "start_year": 1,
+      "end_year": 100,
+      "date_label": "first century CE · traditional mission account",
+      "title": "Early Chinese invitation tradition",
+      "summary": "Traditions associate Kashyapa Matanga and Dharmaratna with an early Chinese invitation and translation activity. This is a traditional account, not a verified itinerary for every similarly named monk.",
+      "category": "Religious history",
+      "chapters": [
+        "5"
+      ]
     },
     {
       "id": "periplus",
@@ -604,6 +824,30 @@
       "is_turning_point": false
     },
     {
+      "id": "buddhist-council-kashmir",
+      "start_year": 101,
+      "date_label": "second century CE · broad Kanishka-period setting",
+      "title": "Kashmir council under Kanishka",
+      "summary": "Sarvastivada fourth-council tradition associated with Kashmir/Kundalavana, Vasumitra and scholastic commentaries. Not the instantaneous origin of Mahayana or a simple Mahayana/Hinayana division.",
+      "category": "Council",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 200
+    },
+    {
+      "id": "nagarjuna-madhyamaka",
+      "start_year": 101,
+      "date_label": "c.second–third centuries CE",
+      "title": "Nagarjuna and Madhyamaka",
+      "summary": "Broad second–third-century CE placement. Madhyamaka and emptiness; Satavahana patronage traditions exist but identification of one exact contemporary king is debated.",
+      "category": "Philosophy",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 300
+    },
+    {
       "id": "ptolemy",
       "start_year": 101,
       "date_label": "2nd century CE",
@@ -614,6 +858,29 @@
         "1"
       ],
       "is_turning_point": false
+    },
+    {
+      "id": "kanishka-accession-framework",
+      "start_year": 127,
+      "date_label": "c.127 CE · accession framework",
+      "title": "Kanishka: modern accession framework",
+      "summary": "The c.127 CE accession framework places Kanishka in the second century CE, explaining why older first-century datings of his council require qualification.",
+      "category": "Political chronology",
+      "chapters": [
+        "5"
+      ]
+    },
+    {
+      "id": "asanga-vasubandhu",
+      "start_year": 301,
+      "date_label": "c.fourth–fifth centuries CE",
+      "title": "Asanga and Vasubandhu",
+      "summary": "Brothers associated with Yogachara/Vijnanavada development; Vasubandhu’s Abhidharmakosha is a major Abhidharma work. Broad scholarly chronology, not exact life dates.",
+      "category": "Philosophy",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 500
     },
     {
       "id": "purana-redaction",
@@ -633,25 +900,182 @@
       "start_year": 400,
       "date_label": "Early 5th century CE",
       "title": "Faxian’s Indian journey",
-      "summary": "Chinese Buddhist pilgrim; account illuminates Gupta-era society. The chapter’s 500 CE should not be treated as an exact visit date.",
+      "summary": "Chinese Buddhist pilgrim; account illuminates Gupta-era society. The chapter’s 500 CE should not be treated as an exact visit date. Chinese pilgrim collected Buddhist texts and observed religious institutions; one of the translation/travel networks linking India and East Asia.",
       "category": "Historical source",
       "chapters": [
-        "1"
+        "1",
+        "5"
       ],
       "is_turning_point": false
+    },
+    {
+      "id": "buddhaghosa-visuddhimagga",
+      "start_year": 401,
+      "date_label": "fifth century CE",
+      "title": "Buddhaghosa and the Visuddhimagga",
+      "summary": "Fifth-century Pali scholar associated with the Path of Purification, a major Theravada synthesis.",
+      "category": "Literature",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 500
+    },
+    {
+      "id": "dhamekh-gupta-structure",
+      "start_year": 401,
+      "date_label": "c.fifth–sixth centuries CE · broad phase",
+      "title": "Dhamekh: major surviving structural phase",
+      "summary": "The present massive Dhamekh stupa at Sarnath is substantially Gupta-period, broadly fifth–sixth centuries CE, in a sacred landscape with earlier Ashokan remains. Avoid an unsupported exact reconstruction year.",
+      "category": "Architecture",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 600
+    },
+    {
+      "id": "dignaga-logic",
+      "start_year": 401,
+      "date_label": "c.fifth–sixth centuries CE",
+      "title": "Dignaga develops Buddhist logic",
+      "summary": "Broad fifth–sixth-century CE setting; Buddhist logician and epistemologist, not Jaina.",
+      "category": "Philosophy",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 600
+    },
+    {
+      "id": "kumarajiva-changan",
+      "start_year": 401,
+      "date_label": "401 CE",
+      "title": "Kumarajiva arrives at Chang’an",
+      "summary": "An important stage in his Chinese Buddhist translation activity; do not describe every later translator of a similar name as the same individual.",
+      "category": "Translation",
+      "chapters": [
+        "5"
+      ]
+    },
+    {
+      "id": "jaina-vallabhi-canon",
+      "start_year": 401,
+      "date_label": "fifth–sixth centuries CE · varying traditional dates",
+      "title": "Vallabhi council and Shvetambara canonical redaction",
+      "summary": "Associated with Devarddhigani Kshamashramana. Dates vary: 453/466 CE occur in scholarship; 512 CE in conventional teaching accounts. Surviving Shvetambara collection has eleven Angas, the twelfth lost; Digambaras preserve a different authoritative corpus.",
+      "category": "Council",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 600
+    },
+    {
+      "id": "dharmakirti-logic",
+      "start_year": 601,
+      "date_label": "seventh century CE",
+      "title": "Dharmakirti and Buddhist epistemology",
+      "summary": "Seventh-century Buddhist philosopher of logic and knowledge; distinguish him from similarly named translators.",
+      "category": "Philosophy",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 700
+    },
+    {
+      "id": "miniature-votive-stupas",
+      "start_year": 601,
+      "date_label": "from seventh century CE · growing popularity",
+      "title": "Miniature votive stupas become especially common",
+      "summary": "Seventh-century CE reference horizon for popular miniature terracotta offerings in India; votive objects also occur in stone and metal, and the practice is not limited to one century.",
+      "category": "Religious art",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 700
+    },
+    {
+      "id": "vajrayana-development",
+      "start_year": 601,
+      "date_label": "later first millennium CE · broad development horizon",
+      "title": "Vajrayana develops in later first-millennium India",
+      "summary": "Esoteric methods within a Mahayana framework: guru, initiation, mantra, mandala and visualisation. Especially important in eastern India; not reducible to magic or a single foundation year.",
+      "category": "Religious history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1000
     },
     {
       "id": "xuanzang",
       "start_year": 629,
       "date_label": "c.629–645 CE · journey",
       "title": "Xuanzang’s Indian journey",
-      "summary": "Chinese Buddhist pilgrim associated with Harsha and Nalanda; 7th century, not an exact 700 CE visit.",
+      "summary": "Chinese Buddhist pilgrim associated with Harsha and Nalanda; 7th century, not an exact 700 CE visit. Chinese pilgrim and scholar; his travel/textual transmission contributed to connections between Indian Buddhist institutions and East Asia.",
       "category": "Historical source",
       "chapters": [
-        "1"
+        "1",
+        "5"
       ],
       "is_turning_point": false,
       "end_year": 645
+    },
+    {
+      "id": "tibet-eighth-century-transmission",
+      "start_year": 701,
+      "date_label": "eighth century CE · transmission phase",
+      "title": "Eighth-century Buddhist transmission to Tibet",
+      "summary": "An important early transmission phase; renewed eleventh-century links followed later. Neither date is the first existence of all Vajrayana ideas.",
+      "category": "Religious history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 800
+    },
+    {
+      "id": "jaina-harivamsha-purana",
+      "start_year": 701,
+      "date_label": "eighth century CE",
+      "title": "Jaina Harivamsha Purana",
+      "summary": "Eighth-century Jaina epic-lineage work associated with Krishna, Balarama and other figures; distinguish similarly titled non-Jaina works.",
+      "category": "Literature",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 800
+    },
+    {
+      "id": "jaina-mahapurana",
+      "start_year": 801,
+      "date_label": "ninth century CE",
+      "title": "Jinasena, Gunabhadra and Jaina Puranic literature",
+      "summary": "Ninth-century Adi Purana/Rishabha narrative and Trishashtilakshana Mahapurana tradition; sacred biography includes social and political material.",
+      "category": "Literature",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 900
+    },
+    {
+      "id": "tibet-eleventh-century-transmission",
+      "start_year": 1001,
+      "date_label": "eleventh century CE · renewed transmission phase",
+      "title": "Renewed Buddhist transmissions to Tibet",
+      "summary": "Eleventh-century renewed links with Indian teachers and institutions, including Vikramashila, were important to Tibetan lineages.",
+      "category": "Religious history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1100
+    },
+    {
+      "id": "hemachandra-parishishtaparvan",
+      "start_year": 1101,
+      "date_label": "twelfth century CE",
+      "title": "Hemachandra’s Parishishtaparvan",
+      "summary": "Twelfth-century Jaina work on teachers and political traditions; a Jaina text unlike Buddhist Nettipakarana or Avadanashataka.",
+      "category": "Literature",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1200
     },
     {
       "id": "kalhana",
@@ -664,6 +1088,30 @@
         "1"
       ],
       "is_turning_point": false
+    },
+    {
+      "id": "buddhist-monastery-late-medieval-losses",
+      "start_year": 1175,
+      "date_label": "late twelfth–early thirteenth centuries CE · approximate horizon",
+      "title": "Attacks intensify losses of major Buddhist monasteries",
+      "summary": "Late twelfth–early thirteenth-century warfare and attacks on institutions in parts of northern/eastern India intensified an already uneven decline. Not a universal extinction date or sole cause.",
+      "category": "Institutional history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1225
+    },
+    {
+      "id": "ajivika-late-medieval-references",
+      "start_year": 1301,
+      "date_label": "fourteenth century CE · debated late references",
+      "title": "Late medieval references associated with Ajivikas",
+      "summary": "Southern references are sometimes cited into the fourteenth century; identification and continuity with the ancient movement are debated. Not proof of a fully documented unbroken organisation.",
+      "category": "Religious history",
+      "chapters": [
+        "5"
+      ],
+      "end_year": 1400
     },
     {
       "id": "william-jones-language-affinities",
@@ -875,6 +1323,17 @@
       ],
       "is_turning_point": false,
       "end_year": 2005
+    },
+    {
+      "id": "sanchi-unesco",
+      "start_year": 1989,
+      "date_label": "1989",
+      "title": "Sanchi inscribed as World Heritage",
+      "summary": "Buddhist Monuments at Sanchi entered the UNESCO World Heritage List; the site contains many building phases, not only an Ashokan monument.",
+      "category": "Heritage recognition",
+      "chapters": [
+        "5"
+      ]
     },
     {
       "id": "rigveda-unesco-memory",
