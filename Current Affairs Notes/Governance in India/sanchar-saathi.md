@@ -15,6 +15,14 @@
 - Source rationale: counterfeit/cloned IMEIs, resale of stolen/blacklisted handsets, fraudulent connections and cross-border SIM misuse. Existing notes cover IMEI checks, lost-phone blocking/tracing, connection verification and Chakshu. The portal began **2023**; the mobile app launched **January 2025**—these are separate milestones.
 - Source portal totals **2.48 lakh complaints, 2.9 crore connection-check requests, 50,000 recoveries in October** are dated activity counts with different units, not a controlled measure of app effectiveness or current totals. Government privacy assurances should be distinguished from independent assessment of permissions/data practices. Security aims require transparency, proportionate access and user control.
 
+## December 2025: digital constitutionalism
+- The pre-installation direction/3 December withdrawal is already covered; this editorial adds **digital constitutionalism**: applying **liberty, dignity, privacy, equality, non-arbitrariness, accountability and rule of law** to digital state and corporate power.
+- Automated **KYC, welfare eligibility, employment, health records, insurance risk profiling, education and predictive policing** can improve administration while creating opaque decisions and power imbalances. **Metadata, location, biometrics and behavioural analytics** can enable pervasive tracking and chill speech; risk is not proof every listed system performs unlawful surveillance.
+- **Puttaswamy (2017)** recognises privacy as a fundamental right. Data access/surveillance should satisfy legality, legitimate purpose, necessity and proportionality, with effective safeguards. Constitutional rights apply to digital systems; the PDF's statement that such systems are wholly outside constitutional regulation is incorrect.
+- Editorial criticisms of **DPDP Act 2023** concern broad government exemptions, independence of oversight, remedies and purpose limitation. Separate enactment and staged commencement; these are critiques, not a judicial ruling invalidating the Act or proof every collection is consent-free.
+- Facial recognition may produce unequal error rates, wrongful identification and exclusion. Scrutinise procurement, testing, retention and access controls rather than accept the PDF's blanket “no oversight/no transparency” or unverified Digi Yatra data-custody claims.
+- Proposed responses: independent digital-rights oversight, transparent reporting, appropriate judicial supervision, **AI bias audits/explainability and appeal**, data minimisation/purpose limitation, enforceable redress and digital literacy. A **Digital Rights Commission** here is a recommendation, not an established institution. Existing telecom-security benefits do not remove the need for proportionate permissions and meaningful user control.
+
 ## PDF coverage
 
-2025-01-23: pp. 8, 9, 10 · 2025-01-26: pp. 13 · 2025-12-02: pp. 14, 15, 16
+2025-01-23: pp. 8, 9, 10 · 2025-01-26: pp. 13 · 2025-12-02: pp. 14, 15, 16 · 2025-12-06: pp. 8, 9, 10, 11, 12

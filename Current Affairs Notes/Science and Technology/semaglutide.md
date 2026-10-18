@@ -24,6 +24,12 @@
 - Existing tirzepatide **dual GIP/GLP-1** versus semaglutide **GLP-1** distinction, prescription eligibility, GI side effects and affordability cover the repeated text. **BMI ≥30 or ≥27 plus relevant comorbidity** are common weight-management label thresholds, not permission for unsupervised use or identical criteria for every Indian patient.
 - Ancillary PYQ recall: **ACE2 (2021)—viral diseases; Bollgard (2022)—GM crops; B/T cells (2022)—protection from pathogens**. The source's practice question is not a PYQ.
 
+## 1 December 2025: WHO obesity guideline
+- WHO issued its first guideline on **GLP-1 therapies for chronic, relapsing obesity**, addressing liraglutide, semaglutide and tirzepatide. It conditionally supports long-term use in **adults with obesity, excluding pregnant women**, within comprehensive care. [WHO guideline announcement](https://www.who.int/news/item/01-12-2025-who-issues-global-guideline-on-the-use-of-glp-1-medicines-in-treating-obesity).
+- Conditional status reflects limited long-term/discontinuation evidence, costs, health-system readiness and equity concerns. A second conditional recommendation supports offering **intensive behavioural intervention** alongside prescribed therapy. This does not mean compulsory use for every adult or that medication replaces diet/activity and clinical care.
+- WHO's **US$3 trillion annual global cost by 2030** is a projection, not a current measured Indian burden. Affordable access, quality-assured supply and continuing care determine policy value.
+- Mechanism, tirzepatide's dual **GIP/GLP-1** action, oral semaglutide and dated infographic statistics repeat existing notes. **ACE2 2021 (d), Bollgard 2022 (b), B/T cells 2022 (d)** are already banked; they are biotechnology/immunology revision anchors, not obesity-drug mechanisms. The unyearred tirzepatide practice item is not a PYQ; its ‘neither 1 nor 3’ option is a typographical error.
+
 ## PDF coverage
 
-2025-04-07: pp. 9, 10, 11 · 2025-06-11: pp. 15, 16, 17, 18, 19 · 2025-06-28: pp. 29, 30, 31, 32 · 2025-09-17: pp. 2, 3, 4, 5
+2025-04-07: pp. 9, 10, 11 · 2025-06-11: pp. 15, 16, 17, 18, 19 · 2025-06-28: pp. 29, 30, 31, 32 · 2025-09-17: pp. 2, 3, 4, 5 · 2025-12-03: pp. 1, 2, 3, 4, 5

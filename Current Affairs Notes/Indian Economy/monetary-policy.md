@@ -50,6 +50,13 @@ The clipping anticipated a 25-basis-point cut. RBI's actual decision reduced rep
 - Weak credit/private investment may persist if firms/households save, deleverage or expect poor demand. Do not infer the entire economy failed to grow from this editorial description.
 - If demand later outstrips supply, inflation may rise; lower-than-expected tax receipts can constrain fiscal space. These are conditional risks, not inevitable deficit increases or automatic welfare cuts.
 
+## 5 December 2025 decision, reported in the 6 December issue
+- MPC cut repo **25 basis points, 5.50% → 5.25%**; PDF headline **“26 basis points” is a typo**. **SDF 5.00%; MSF/Bank Rate 5.50%; neutral stance**. These are dated decisions, not permanent rate definitions. [RBI resolution](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=61749).
+- Growth/inflation context: **real GDP Q2 FY2025–26 growth 8.2%**; source separately cites **1.7% inflation** without a clear matching period and **October's roughly 0.3%**; do not treat both as the same current monthly reading. The Governor's “Goldilocks” characterisation means strong growth with low inflation, not absence of future price or external risks.
+- The **4% CPI target with 2–6% tolerance band** is the issue-era framework. A single monthly reading below 2% does not itself trigger the statutory failure procedure or automatically require a rate cut. Monetary easing depends on the assessed outlook and transmission.
+- Lower funding costs can reduce lending/deposit rates and support demand, with lags and bank/borrower constraints. The PDF's claim that low inflation allows cuts “without risking a rise in prices” is too absolute.
+- Source reports cumulative **125 bps easing during 2025**. Existing MPC composition, statutory basis, reserve ratios and policy-tool distinctions cover the repeated explainer. **2015 Prelims** repeats the bank-rate/OMO question already in the common bank: **(c), 1 and 2**; preserve that existing entry without duplication.
+
 ## PDF coverage
 
-2025-04-10: pp. 6, 7, 8 · 2025-06-07: pp. 11, 12, 13, 14, 15 · 2025-06-23: pp. 31, 32, 33
+2025-04-10: pp. 6, 7, 8 · 2025-06-07: pp. 11, 12, 13, 14, 15 · 2025-06-23: pp. 31, 32, 33 · 2025-12-06: pp. 1, 2, 3, 4

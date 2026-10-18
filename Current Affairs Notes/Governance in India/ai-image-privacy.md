@@ -21,6 +21,13 @@
 - Reform proposals: clear rights/remedies, provenance/labelling, proportionate platform duties and prompt redress, cross-border enforcement and protection of vulnerable users. Distinguish proposals from operative law; source's vague “2024 Intermediary Guidelines” should not replace the actual applicable IT Rules/advisories or DPDP commencement chronology already recorded.
 - Ethical issues include deceased-person replicas, consent/control, exploitative companion/therapy bots and innovation. Not every posthumous claim is resolved by the assertion that all relevant IP/privacy/property interests necessarily end together at death.
 
+## December 2025: NCII and the ‘fishbowl society’
+- The editorial uses **fishbowl society** for pervasive visibility/data tracking that erodes privacy and practical obscurity. **Non-consensual intimate imagery (NCII)** includes real or morphed intimate material disseminated without consent; AI abuse can impair dignity, bodily autonomy, employment and mental health without any consensual original photograph.
+- **11 November 2025 MeitY SOP** provides victim/platform reporting and response guidance under existing **IT Rules 2021, Rule 3(2)(b)**, including removal/disabling access within **24 hours** after a qualifying complaint. It follows Madras High Court directions and is **not a standalone new criminal statute**. [Official SOP](https://www.meity.gov.in/static/uploads/2025/11/a2c9500ef5f8b62a43bfc68747de592d.pdf).
+- Correct the PDF's ‘no accountability/no binding duties’ absolutes: an SOP can elaborate duties under existing rules, even if it does not itself create new offences. The official guidance refers to **an individual/authorised representative**; the initiating case's focus on women does not prove every existing takedown protection excludes transgender or male victims. Distinguish a critique of inclusive implementation from the legal scope of each provision.
+- **Puttaswamy 2017** recognises privacy as a fundamental right; IT/criminal law already supplies remedies for specified acts. DPDP enactment/commencement remain separate, and absence of a bespoke AI statute does not create universal immunity. The source's IPC shorthand is dated after replacement by BNS for relevant post-commencement offences.
+- Underreporting, stigma, police capacity and absence of a clean standalone NCII/deepfake statistical category hinder assessment; do not assert NCRB has no related categories or treat an unspecified NGO ‘thousands daily’ claim as a verified national total. Priorities: accessible reporting, evidence preservation, rapid redress, victim-sensitive support, investigator training, platform safeguards and clearly scoped developer duties.
+
 ## PDF coverage
 
-2025-04-02: pp. 1, 2, 3 · 2025-11-26: pp. 7, 8, 9, 10, 11
+2025-04-02: pp. 1, 2, 3 · 2025-11-26: pp. 7, 8, 9, 10, 11 · 2025-12-03: pp. 18, 19, 20, 21

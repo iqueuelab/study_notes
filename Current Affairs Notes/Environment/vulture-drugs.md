@@ -20,6 +20,14 @@
 - Embedded species table: white-rumped, slender-billed, Indian/long-billed and red-headed **Critically Endangered**; Egyptian **Endangered**; Indian griffon **Least Concern**; Himalayan griffon, cinereous and bearded **Near Threatened** in the source's status snapshot. Do not generalise the source's 97–99% decline to every species or all periods; its separate chart covers later 2003-onward declines.
 - **2012 PYQ: (b), veterinary drug exposure**, not invasive nesting-site species, simple food scarcity or an unspecified epidemic. The source's “only sanctuary” language is broader than its documented 2012 first-sanctuary history.
 
+## December 2025: planned Assam release
+- **BNHS** planned to release **six captive-bred vultures, three males and three females, aged around 2–3 years**, in **January 2026** in Assam. Species: **slender-billed, Gyps tenuirostris**, and **white-rumped, Gyps bengalensis**, both **Critically Endangered**. This is a plan reported in December, not a completed release.
+- Bred at **Rani Vulture Conservation Breeding Centre, Kamrup**; source reports **over 800** bred across BNHS centres. **Kamrup and Biswanath** were chosen within natural range and near existing flocks; Biswanath is near Kaziranga. These are source-era programme figures.
+- **Soft release:** roughly **three months in acclimatisation enclosures → release → BNHS/Forest Department monitoring**. Exposure to other scavengers and local conditions helps captive-bred birds adapt; safe carcasses, community cooperation and drug-law enforcement remain essential.
+- Existing notes cover diclofenac-mediated kidney failure, the **2006 veterinary prohibition**, separate **2015 multidose human-formulation restriction**, safe zones, captive breeding and species statuses. Do not copy the PDF's misplaced Himalayan griffon under an “Endangered” heading: existing corrected snapshot is **Near Threatened**. Nor treat “~20,000 vultures” as a secure all-species census or apply one decline percentage to every species.
+- The **Assam portal** section repeats the earlier We Foundation India/Gauhati University launch and Assamese-language network; no new launch is established by republication. Additional cultural recall: vultures figure in Parsi funerary practice at Towers of Silence; scavenging reduces carcass-management costs and some disease risks, not every pathogen.
+- Practice keys: veterinary diclofenac **(b)**; released species **Critically Endangered (d)**; portal statement set **1 and 2 only (a)** because the Rajasthan-2024 claim is false. The 250-word/15-mark vulture Mains prompt has **no exam year**, so remains practice/review material rather than a PYQ bank entry.
+
 ## PDF coverage
 
-2025-01-13: pp. 10, 11, 21, 23, 24 · 2025-03-17: pp. 5, 6, 7, 8, 29, 30, 31 · 2025-03-18: pp. 29, 30 · 2025-09-04: pp. 5, 6, 7, 8, 9 · 2025-09-13: pp. 8, 9, 10, 11, 12
+2025-01-13: pp. 10, 11, 21, 23, 24 · 2025-03-17: pp. 5, 6, 7, 8, 29, 30, 31 · 2025-03-18: pp. 29, 30 · 2025-09-04: pp. 5, 6, 7, 8, 9 · 2025-09-13: pp. 8, 9, 10, 11, 12 · 2025-12-05: pp. 20, 21, 22, 23, 24, 25

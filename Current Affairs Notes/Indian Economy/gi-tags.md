@@ -55,6 +55,19 @@
 - Source certificate list: **Kannadippaya—Kerala; Apatani textile—Arunachal Pradesh; Marthandam honey—Tamil Nadu; Lepcha Tungbuk—Sikkim; Bodo Aronai—Assam; Ambaji marble—Gujarat; Bedu and Badri cow ghee—Uttarakhand**. Certificate presentation at this event need not be the original registration date of every product; Kannadippaya/Bodo Aronai already appear in earlier notes.
 - **Tribal Affairs Grand Challenge** invites innovations for tribal livelihoods, technology access, social development and market linkage. Link registration with community benefit-sharing, authentic origin labelling and sustainable extraction; GI recognition alone guarantees neither export income nor comprehensive ownership of all traditional knowledge.
 
+## December 2025: Tamil Nadu products and Darjeeling Mandarin
+| Product | Origin and identifying features in the issue |
+|---|---|
+| **Woraiyur cotton sari** | Tiruchi, including Manamedu on the Cauvery; **Korvai** joins separately woven body/border; associated with **Devanga** weavers, strong colours and geometric motifs |
+| **Thooyamalli rice** | Traditional **Samba-season** rice, about **135–140 days**; name means pure jasmine; fragrant, pearl-like grains |
+| **Kavindapadi Naatu Sakkarai** | Erode; sugarcane juice slowly evaporated into traditional jaggery powder; Lower Bhavani irrigation supports the sugarcane belt |
+| **Namakkal Kalchatti / Maakkal Pattirangal** | Tamil Nadu soapstone cooking vessels; heat retention and even heating support traditional slow cooking |
+| **Ambasamudram Choppu Saman** | Tirunelveli; miniature wooden household/kitchen toys, a tradition over 200 years old; source names kadamba, teak and rosewood; linked with pretend play and Golu |
+- These five registrations support origin-linked craft/agricultural identity and livelihoods; existing GI law, ten-year renewable term and authorised-user notes apply. Recognition does not certify claims that a rice cures diabetes, that jaggery is inherently safe for everyone, or that every stone vessel is free of contamination.
+- **Darjeeling Mandarin, Citrus reticulata Blanco**, locally **suntala**: thin peel, aromatic sweet/acid-balanced segments, an important hill cash crop. **GI application 943**, applicant **Uttar Banga Krishi Viswavidyalaya**; registry records certificate **24 November 2025**. Do not date the certificate to the December clipping. [Official GI record](https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/943).
+- Source cultivation pointers: frost-free conditions; **10–35°C**, **100–120 cm rainfall**, light/medium well-drained loam and slopes. These are source agronomic ranges, not guarantees of yield or legal GI-boundary definitions. Pests, orchard decline and climate variability require husbandry alongside branding.
+- The source calls it the third Darjeeling-region GI after tea and Dalle Khursani; avoid turning that regional shorthand into an exclusive nationwide chilli-origin claim. Practice keys: **Korvai—Woraiyur (c); Thooyamalli—Samba (b); Choppu Saman—toys (c)**.
+
 ## PDF coverage
 
-2025-04-04: pp. 3, 4, 5, 6, 7, 8 · 2025-06-27: pp. 1, 28, 29, 30, 31, 32 · 2025-07-01: pp. 18, 19, 20, 21 · 2025-08-27: pp. 1, 2, 3 · 2025-11-13: pp. 7, 8, 9, 10, 16 · 2025-11-15: pp. 4, 5, 6, 7, 8, 9
+2025-04-04: pp. 3, 4, 5, 6, 7, 8 · 2025-06-27: pp. 1, 28, 29, 30, 31, 32 · 2025-07-01: pp. 18, 19, 20, 21 · 2025-08-27: pp. 1, 2, 3 · 2025-11-13: pp. 7, 8, 9, 10, 16 · 2025-11-15: pp. 4, 5, 6, 7, 8, 9 · 2025-12-05: pp. 9, 10, 11, 12, 13, 14 · 2025-12-06: pp. 15, 16, 17, 18, 19, 20

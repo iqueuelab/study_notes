@@ -49,6 +49,12 @@
 - Strengthen certificate access, State-specific community data, portable housing/education/livelihood support and measurable SEED uptake. The demand for a permanent statutory commission remains a proposal; SC/ST/OBC commissions already cover some communities, but mobility, stigma and unclassified status create distinct gaps.
 - Source comparison with SC/ST/OBC commissions needs care: those national commissions have constitutional status; DWBDNC is a registered society. Existing notes correct SEED's launch to February 2022, distinguish the 2021–22 funding period and preserve qualified community estimates; pages 3–4 repeat the earlier permanent-commission demand.
 
+## December 2025: classification proposal and welfare access
+- Embedded Rajya Sabha report says **no proposal to reclassify DNT/NT/SNT communities is under consideration**. This is an issue-date policy statement, not a permanent ban or proof that all earlier recommendations were formally rejected; the revision box's ‘Government in 2024’ date is inconsistent with this December 2025 clipping.
+- Source reports **AnSI's 2023 study of 268 communities**, recommending **fresh classification for 85 and reclassification of nine**, with some communities partly classified across States. These are study/recommendation counts, not an enacted change to SC/ST/OBC lists. Classification varies by State and category; it is not a simple nationwide executive relabelling exercise.
+- Existing notes cover the **Idate report titled 2017, submitted January 2018**, **2019 DWBDNC**, **February 2022 SEED launch** and colonial-law repeal in **1952**. The welfare board is not a permanent statutory commission. Demands for a separate scheduled category remain demands rather than a new constitutional category.
+- Certificate gaps and uncertain status can obstruct education, health, housing and livelihood access, including SEED. Community-led documentation, portable benefits, State-specific verification and anti-stigma implementation are necessary; no inference of inherited criminality follows from colonial labelling or present mobility.
+
 ## PDF coverage
 
-2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42 · 2025-01-29: pp. 20, 21, 22, 23 · 2025-03-21: pp. 25, 26, 27, 28 · 2025-08-04: pp. 8, 9, 10 · 2025-09-18: pp. 1, 2, 3, 4
+2025-01-15: pp. 13, 14, 15, 16, 17 · 2025-01-19: pp. 12, 13, 41, 42 · 2025-01-29: pp. 20, 21, 22, 23 · 2025-03-21: pp. 25, 26, 27, 28 · 2025-08-04: pp. 8, 9, 10 · 2025-09-18: pp. 1, 2, 3, 4 · 2025-12-04: pp. 11, 12, 13, 14

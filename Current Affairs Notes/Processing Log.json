@@ -5841,22 +5841,68 @@
     {
       "date": "2025-12-03",
       "pdf": "2025/12-December/2025-12-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "98c3265347199e50d38c6a5e6a596b8347b0d140dd999ac6c84d3dd3c62a4432",
+      "pages": 21,
+      "topic_ids": [
+        "ai-image-privacy",
+        "colombo-security-conclave",
+        "jal-jeevan-mission",
+        "lakshadweep-defence",
+        "semaglutide"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-04",
       "pdf": "2025/12-December/2025-12-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4056bf16bfa86f055c5d09961dd86c8b695e5ebceaab4cf4f7dc4aa44b34804b",
+      "pages": 17,
+      "topic_ids": [
+        "critical-minerals",
+        "dnt-seed",
+        "hayli-gubbi",
+        "zhuque3"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-05",
       "pdf": "2025/12-December/2025-12-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "63d2b977e4d1b2f6a8b8e97723a1a81f6eae2fce56e7bb7503913164a580642e",
+      "pages": 29,
+      "topic_ids": [
+        "fighter-escape-system",
+        "fluoride",
+        "gi-tags",
+        "india-russia",
+        "isi-act",
+        "rock-eagle-owl",
+        "vulture-drugs",
+        "world-soil-day"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-06",
       "pdf": "2025/12-December/2025-12-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "9db6d2335f4949350fc3d98ee90d8aaa45b521bd4fbe7a67601f0d8ac3da554d",
+      "pages": 20,
+      "topic_ids": [
+        "coal-transition",
+        "gi-tags",
+        "monetary-policy",
+        "rock-eagle-owl",
+        "sanchar-saathi"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-08",
@@ -7245,7 +7291,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-12-03",
+  "next_pdf": "2025-12-08",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7382,6 +7428,11 @@
       "date": "2025-12-01",
       "status": "No standalone or combined issue found",
       "evidence": "No standalone file found; Nov29 and Dec2 cover banners each identify only their own date, without a combined Nov30/Dec1 label. No daily notes invented."
+    },
+    {
+      "date": "2025-12-07",
+      "status": "No standalone or combined issue found",
+      "evidence": "No standalone 2025-12-07.pdf in the December source collection. Inspected adjacent physical PDFs: 2025-12-06 page 1 banner explicitly says 6th Dec. 2025; 2025-12-08 page 1 banner explicitly says 8 Dec. 2025. Neither claims combined 6–7 or 7–8 coverage. All 20 pages of Dec 6 reviewed; Dec 8 first page inspected only for gap evidence. No notes or review status invented for Dec 7."
     }
   ]
 }

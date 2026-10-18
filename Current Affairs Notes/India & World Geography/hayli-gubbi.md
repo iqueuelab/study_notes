@@ -7,6 +7,12 @@
 - Source reports **DGCA ash-avoidance advisories**, airline monitoring/reporting of engine abnormalities, odour/smoke or visibility problems, aircraft inspection and airport checks for runway contamination. Restriction/suspension depends on actual ash exposure and safety assessment; proximity to an ash forecast does not automatically close every airport.
 - Hazard chain: **eruption → high-altitude plume → long-range atmospheric transport → flight-route exposure**. Use volcanic-ash advisories, satellite observations and operational coordination. Avoid the unsupported claim that the volcano had certainly never erupted during an exact 12,000-year interval; “first recorded explosive eruption” is narrower than geological proof of inactivity.
 
+## December 2025: aviation-risk follow-up
+- The article repeats the Ethiopian eruption and ash-avoidance framework, but twice prints **23 November 2024**. Correct year is **2025**; retain the earlier **23 November 2025 Hayli Gubbi** entry, Afar Rift setting and qualification on the unsupported exact 12,000-year inactivity claim.
+- Ash includes abrasive rock/mineral/glass particles; accompanying volcanic gases such as **SO₂ are distinct from ash itself**. Engine deposition can impair cooling/airflow and cause power loss; ash also abrades windscreens and can affect sensors/cabin air. Conventional weather radar may miss ash, so satellite/volcanic-ash advisories and route planning matter; absence of a radar echo is not proof of clear air.
+- Source reports Indian-airspace passage **24–25 November**, cancellations and precautionary inspections. Exact hourly route/altitude figures are issue-era operational reports, not a permanent plume path or a new eruption in December.
+- Historical recall: **British Airways Flight 9, 1982, Galunggung (Indonesia)** and **KLM Flight 867, 1989, Redoubt (Alaska)** suffered multi-engine loss after ash encounters and landed after restart. The PDF's categorical ‘all engines damaged beyond repair’ and exact US$80-million total require incident-record verification; do not memorise them as established here.
+
 ## PDF coverage
 
-2025-11-25: pp. 10, 11
+2025-11-25: pp. 10, 11 · 2025-12-04: pp. 14, 15, 16, 17
