@@ -34,7 +34,11 @@
 - Plant-variety protection under this **sui generis, TRIPS-related regime** is different from a patent, GI, central seed notification, certified-seed quality assurance and a conservation award; each has a separate purpose and procedure. Registration duration also varies by category, so the source image's simple 15/18-year statement should not replace category-specific law.
 - Revision chain: **farmer selection → testing/documentation → notification/seed multiplication → commercial use → evidence-based benefit-sharing claim**. Preserve farmer identity and genetic-resource records; build participatory research and transparent benefit sharing alongside seed access.
 
+## Beej Utsav
+- Four-day festival in tribal areas of **Rajasthan, Madhya Pradesh and Gujarat**, covering **60+ village panchayats**; supported by **Vaagdhara, Banswara** and Gram Swaraj Samooh, Krishi Evam Adivasi Swaraj Sangathan, Saksham Samooh and Bal Swaraj Samooh.
+- **Beej Samvad**, biodiversity fairs, seed balls/plantation and **Beej Mata/Beej Mitra** honours link seed access, local knowledge and climate resilience. Avoid the source's universal claim that indigenous seeds outperform hybrids or need no external inputs.
+- **2015 Seed Village PYQ:** train farmers in quality-seed production and supply others **at the right time and affordable cost**; not simply discourage all seed purchases.
 
 ## PDF coverage
 
-2025-04-14: pp. 18, 19, 20, 21, 22, 23, 24 · 2025-04-20: pp. 7, 8, 9
+2025-04-14: pp. 18, 19, 20, 21, 22, 23, 24 · 2025-04-20: pp. 7, 8, 9 · 2025-06-24: pp. 8, 9, 10, 11

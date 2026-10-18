@@ -10,6 +10,10 @@
 - **MIDH, RKVY and National Horticulture Board** support horticulture development; cold chains, storage, grading, processing and sanitary/phytosanitary compliance reduce losses and support exports. Genome research can assist breeding; source's unqualified “ICAR sequenced mango genome” needs an identified study before attribution.
 - Mango supplies vitamins A/C and other nutrients; grafting preserves varietal traits, exemplified by Malihabad orchards. Cultural/ritual significance and references in older texts supplement economic importance. Source calls **22 July National Mango Day**; this is a popular observance, not proof of a statutory national holiday.
 
+## Totapuri revision
+- **Totapuri:** elongated fruit with a parrot-beak tip; southern India, especially **Chittoor, Andhra Pradesh**, and Karnataka/Tamil Nadu. Also called **Bangalora/Ginimoothi**; useful for pulp, juice and agro-processing employment/exports. Well-drained soils and tropical warmth support cultivation.
+- Variety matching: **Chausa—UP/Bihar**, **Totapuri—south India**, **Gir Kesar—Gujarat**, **Alphonso—Maharashtra/Konkan**. The undated mango matching exercise is practice, not a verified PYQ.
+
 ## PDF coverage
 
-2025-04-30: pp. 19, 20, 21
+2025-04-30: pp. 19, 20, 21 · 2025-06-23: pp. 21, 22, 23

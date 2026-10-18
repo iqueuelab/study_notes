@@ -11,6 +11,10 @@
 - **MAHASAGAR:** Mutual and Holistic Advancement for Security and Growth Across Regions; articulated during the **March 2025 Mauritius visit**, not created for the first time at the Thailand summit. [MEA briefing](https://www.mea.gov.in/outoging-visit-detail.htm?39163).
 - BIMSTEC FTA negotiations/framework are not evidence of a fully operational free-trade area. Implementation, political instability, infrastructure gaps and non-tariff barriers matter alongside declarations.
 
+## 2025 PYQ
+- Seven members as of January 2025; **Bangkok Declaration 1997**, not Dhaka 1999; founders Bangladesh, India, Sri Lanka, Thailand; Nepal joined 2004.
+- **Tourism led by Nepal**, not India; therefore **I only (d)**. This sector-leadership fact complements common membership notes.
+
 ## PDF coverage
 
-2025-04-03: pp. 19, 20, 21 · 2025-04-05: pp. 9, 10
+2025-04-03: pp. 19, 20, 21 · 2025-04-05: pp. 9, 10 · 2025-06-24: pp. 34, 35

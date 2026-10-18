@@ -38,7 +38,13 @@
 - These dated examples illustrate ambush/IED and movement-security risks. Incident casualty figures are the infographic's reported counts; they do not establish today's violence levels or justify collective blame of tribal communities.
 - **SAMADHAN (2017)** remains a combined leadership, training, intelligence, technology, theatre-planning and financing-denial doctrine. Sustainable safety requires lawful operations alongside land/forest rights, local services, democratic participation and rehabilitation. [MHA doctrine announcement](https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=161635).
 
+## June 24 security and development
+- Government's **March 2026 eradication target** remains a target; older Red Corridor maps are not precise June 2025 district lists.
+- **National Policy and Action Plan 2015**, **Special Central Assistance** for infrastructure/services, local policing and rehabilitation complement SAMADHAN. **Greyhounds** and CRPF's **Bastariya Battalion** illustrate terrain skills/local recruitment.
+- Source invokes the **Planning Commission expert group constituted 2006, chaired by D. Bandyopadhyay (report 2008)**: exclusion, tribal resource loss and poor governance require rights, rehabilitation and services. The Forest Conservation Act alone does not explain tribal grievances.
+- **Operation Green Hunt** is a common media label, not a reliable formal nationwide operation title. Poverty/tribal identity do not justify collective suspicion; lawful policing and accountability matter.
+- Adjacent **2009 Deepak Parekh Committee PYQ** concerns financing infrastructure, not minority socio-economic surveys.
 
 ## PDF coverage
 
-2025-01-07: pp. 38, 39, 40 · 2025-03-21: pp. 14, 15, 16, 17 · 2025-04-02: pp. 14, 15, 16, 17
+2025-01-07: pp. 38, 39, 40 · 2025-03-21: pp. 14, 15, 16, 17 · 2025-04-02: pp. 14, 15, 16, 17 · 2025-06-24: pp. 11, 12, 13, 14

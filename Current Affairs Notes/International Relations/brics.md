@@ -11,6 +11,10 @@
 - Global South voice, institutional reform, development finance and trade/payment cooperation; diverse interests and bilateral tensions constrain consensus.
 - January newspaper reports **100% tariff threat** if BRICS undermines dollar dominance; a threat is not an imposed blanket tariff or proof a common BRICS currency exists.
 
+## Summit PYQs
+- **2014 historical context:** first BRIC summit **Yekaterinburg, Russia, 16 June 2009**, not Rio de Janeiro; South Africa was the last addition among the then five—**2 only (b)**. Later expansion does not change that historical answer.
+- **16th summit: Kazan, Russia, 22–24 October 2024**; theme **Strengthening Multilateralism for Just Global Development and Security**, not Multiculturalism. **Indonesia full membership announced January 2025**; 2025 PYQ **I and II (a)**.
+
 ## PDF coverage
 
-2025-01-22: pp. 5, 6
+2025-01-22: pp. 5, 6 · 2025-06-24: pp. 33, 34

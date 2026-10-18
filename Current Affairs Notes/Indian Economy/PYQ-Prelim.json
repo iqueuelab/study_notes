@@ -321,6 +321,26 @@
       "year": 2019,
       "chapter": "Natural rubber and crop origins",
       "answer": "(a) Tobacco, cocoa and rubber"
+    },
+    {
+      "year": 2024,
+      "chapter": "Cocoa cultivation and West African producers",
+      "question": "Which of the following countries are well known as the two largest cocoa producers in the world?\n(a) Algeria and Morocco\n(b) Botswana and Namibia\n(c) Côte d’Ivoire and Ghana\n(d) Madagascar and Mozambique",
+      "answer": "(c)",
+      "exam": "UPSC CSE"
+    },
+    {
+      "year": 2022,
+      "chapter": "Cobia and marine cage aquaculture",
+      "question": "Which of the following is not a bird?\n(a) Golden Mahseer\n(b) Indian Nightjar\n(c) Spoonbill\n(d) White Ibis",
+      "answer": "(a)",
+      "exam": "UPSC CSE"
+    },
+    {
+      "question": "Among other things, which one of the following was the purpose for which the Deepak Parekh Committee was constituted?\n(a) To study the current socio-economic conditions of certain minority communities\n(b) To suggest measures for financing the development of infrastructure\n(c) To frame a policy on the production of genetically modified organisms\n(d) To suggest measures to reduce the fiscal deficit in the Union Budget",
+      "chapter": "Infrastructure financing and the Deepak Parekh Committee",
+      "year": 2009,
+      "answer": "(b)"
     }
   ]
 }

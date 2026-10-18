@@ -12,6 +12,11 @@
 - **6 February 2025 clarification**: MoD signed rocket contracts totalling **₹10,147 crore** with EEL/MIL; **BEL SHAKTI software upgrade** also contracted. [MoD release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2100335&lang=2&reg=3).
 - Domestic ammunition capacity, logistics/replenishment, credible delivery schedules and quality trials support readiness; higher volume/range alone does not prove precision or eliminate escalation concerns.
 
+## June 24 regiment expansion
+- Regiment: three batteries × six launchers = **18 launchers**. Battery salvo of 72 rockets differs from a single launcher's 12 rounds; avoid mixing areas/timings.
+- August 2020 procurement, **₹2,580 crore**: Tata/L&T launcher-command systems and BEML vehicles; package reported 114 launchers, 45 command posts and 330 vehicles, including support/training requirements.
+- Source retrospective: six operational regiments, two raised in 2024, two more to complete training by mid-2026; **ten by 2026 and 22 eventually** are plans/snapshots, not June 2025 operational strength. Grad BM-21 replacement requires ammunition, logistics and training; speculative Mk3 ranges are not fielded air defence.
+
 ## PDF coverage
 
-2025-01-31: pp. 1, 2, 3, 4, 5 · 2025-02-07: pp. 8, 9, 10, 11, 12, 14, 15 · 2025-02-13: pp. 1, 2
+2025-01-31: pp. 1, 2, 3, 4, 5 · 2025-02-07: pp. 8, 9, 10, 11, 12, 14, 15 · 2025-02-13: pp. 1, 2 · 2025-06-24: pp. 1, 2, 3, 4, 5

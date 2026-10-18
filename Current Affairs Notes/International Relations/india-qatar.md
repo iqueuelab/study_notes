@@ -12,6 +12,12 @@
 - Ex-naval officer **Purnendu Tiwary's return issue** remained a diplomatic concern in the source; distinguish release from custody and permission to leave Qatar rather than assuming continued imprisonment.
 - Balance energy/investment gains with expatriate welfare, geopolitical volatility and due process; **GCC comprises Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and UAE**.
 
+## June 24 geography and security
+- Iran's response brought **Al-Udeid US airbase in Qatar** into focus. Qatar is a **Persian Gulf peninsula; Saudi Arabia is its only land neighbour**; Gulf of Bahrain separates it from Bahrain.
+- Flat arid terrain, southern dunes, low limestone relief and episodic wadis; **Khor al Adaid (Inland Sea)** is a distinctive desert–sea ecosystem.
+- LNG/hydrocarbon dependence and predominantly expatriate labour connect energy with labour rights and consular protection. Source's one-ninth citizen share and seven-lakh Indian diaspora are dated approximations.
+- **GCC:** Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, UAE; **Iran is excluded** (2016 PYQ). Al Jazeera, the 2017 Saudi-led blockade and mediation illustrate Qatar's international role.
+
 ## PDF coverage
 
-2025-02-19: pp. 1, 2, 3, 4
+2025-02-19: pp. 1, 2, 3, 4 · 2025-06-24: pp. 5, 6, 7, 8

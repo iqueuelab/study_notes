@@ -14,7 +14,10 @@
 - India is the largest producer/exporter; source shares and market rankings are dated. Maharashtra, Telangana, Karnataka and Tamil Nadu are important producing States.
 - **Tea Board, Coffee Board, Spices Board and Coconut Development Board fall under different ministry/statutory arrangements**; not every commodity board belongs to Agriculture.
 
+## 2022–23 recall
+- The printed 2025 PYQ uses **2022–23**: India was the largest producer/exporter, grew **over 30 varieties**, and Maharashtra, Telangana, Karnataka and Tamil Nadu were major producing States; answer **(d), all three**.
+- The June PDF repeats the January launch: do not date inauguration to June or relocate headquarters to New Delhi. Existing Board/2023–24 facts remain separate from the question's crop year.
 
 ## PDF coverage
 
-2025-01-23: pp. 10, 11, 12 · 2025-01-26: pp. 13, 14 · 2025-03-21: pp. 23, 24, 25 · 2025-06-10: pp. 33, 34
+2025-01-23: pp. 10, 11, 12 · 2025-01-26: pp. 13, 14 · 2025-03-21: pp. 23, 24, 25 · 2025-06-10: pp. 33, 34 · 2025-06-18: pp. 13, 14, 15, 16

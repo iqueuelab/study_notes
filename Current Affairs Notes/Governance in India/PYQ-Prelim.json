@@ -25,6 +25,13 @@
         "d": "1, 2 and 3"
       },
       "answer": "d"
+    },
+    {
+      "year": 2012,
+      "chapter": "DAY-NRLM: self-help groups and rural livelihoods",
+      "question": "How does the National Rural Livelihood Mission seek to improve livelihood options of rural poor?\n1. By setting up a large number of new manufacturing industries and agribusiness centres in rural areas\n2. By strengthening ‘self-help groups’ and providing skill development\n3. By supplying seeds, fertilizers, diesel pump-sets and micro-irrigation equipment free of cost to farmers\nSelect the correct answer using the codes given below:\n(a) 1 and 2 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "answer": "(b)",
+      "exam": "UPSC CSE"
     }
   ]
 }

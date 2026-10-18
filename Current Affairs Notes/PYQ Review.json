@@ -82,6 +82,88 @@
       "chapter": "Arabian Desert and the Green Arabia hypothesis",
       "reason": "Question lacks the full four alternative answer sets. Do not invent them.",
       "issue_date": "2025-06-17"
+    },
+    {
+      "year": 2009,
+      "exam": "UPSC CSE",
+      "chapter": "National arts Akademies: literature, performance and visual arts",
+      "reason": "Source prints the two statements and key but omits answer alternatives; retain explanation, defer JSON inclusion.",
+      "issue_date": "2025-06-19"
+    },
+    {
+      "year": 2023,
+      "exam": "UPSC CSE (source claim unverified)",
+      "chapter": "G7: membership, institutions and summit diplomacy",
+      "reason": "Attribution unverified; source key misreads 1998 G8 formation chronology. Not added to verified bank.",
+      "issue_date": "2025-06-18"
+    },
+    {
+      "year": 2023,
+      "chapter": "Lake Maracaibo and Catatumbo lightning",
+      "question": "Which one of the following (Lake - Country) is not correctly matched?\n1. Maracaibo – Venezuela\n2. Onega – Canada\n3. Michigan – United States of America\n4. Baikal – Russia",
+      "answer": "2. Onega – Canada",
+      "exam": "UPPSC PCS",
+      "subject": "India & World Geography",
+      "reason": "Printed pair numbering appears to stand for four alternatives; preserve for review rather than reconstruct option letters absent from supplied page.",
+      "issue_date": "2025-06-19"
+    },
+    {
+      "issue_date": "2025-06-20",
+      "reason": "CDS 2024 methanol question is not a Civil Services PYQ; excluded from CSE banks. Source incorrectly describes methanal as a typo for formaldehyde, which is its correct synonym."
+    },
+    {
+      "issue_date": "2025-06-21",
+      "reason": "MPPSC 2018 and UKPSC 2016 questions are State PSC, not CSE PYQs; retain useful pass/eligibility revision in notes. MPPSC explanation contradicts MEA citizenship eligibility."
+    },
+    {
+      "issue_date": "2025-06-21",
+      "reason": "Daily Mains decarbonisation question is undated practice, not an explicit genuine PYQ; excluded. Steel 2014 and 2015 PYQs already exist in common Indian Economy bank."
+    },
+    {
+      "year": 2023,
+      "issue_date": "2025-06-24",
+      "id": "green-hydrogen",
+      "pages": [
+        28
+      ],
+      "question": "With reference to green hydrogen, consider the following statements:\n1. It can be used directly as a fuel for internal combustion.\n2. It can be blended with natural gas and used as fuel for heat or power generation.\n3. It can be used in the hydrogen fuel cell to run vehicles.\nHow many of the above statements are correct?",
+      "reason": "Answer supplied (c) All three, but full options absent; preserve for review, not bank"
+    },
+    {
+      "issue_date": "2025-06-23",
+      "id": "mango-cultivation",
+      "pages": [
+        22,
+        23
+      ],
+      "reason": "Mango matching exercise has no year or complete options; practice only"
+    },
+    {
+      "issue_date": "2025-06-23",
+      "id": "crude-imports",
+      "pages": [
+        25
+      ],
+      "reason": "Explicit practice sample, not PYQ"
+    },
+    {
+      "issue_date": "2025-06-23",
+      "id": "naval-platforms",
+      "pages": [
+        27,
+        28
+      ],
+      "reason": "Explicit UPSC-style practice, not PYQ"
+    },
+    {
+      "issue_date": "2025-06-24",
+      "id": "dairy-nutrition",
+      "pages": [
+        18
+      ],
+      "year": null,
+      "question": "Consider the following statements about the Rashtriya Gokul Mission:\nI. It is important for the upliftment of rural poor as majority of low producing indigenous animals are with small and marginal farmers and landless labourers.\nII. It was initiated to promote indigenous cattle and buffalo rearing and conservation in a scientific and holistic manner.\nWhich of the statements given above is/are correct?\n(a) I only\n(b) II only\n(c) Both I and II\n(d) Neither I nor II",
+      "reason": "Inset scanned question is complete but has no supplied year; marked answer(a) is not independently verified; hold for year/answer review, do not invent year."
     }
   ],
   "resolved": [

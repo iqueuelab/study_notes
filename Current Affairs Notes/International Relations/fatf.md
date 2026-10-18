@@ -11,6 +11,10 @@
 - **21 February 2025 high-risk list: DPRK, Iran and Myanmar**. Source omits Myanmar. DPRK/Iran attracted countermeasure calls; Myanmar required proportionate enhanced due diligence, with humanitarian flows/remittances protected. The old **NCCT** label is not the current official list title, and listing does not prove every government deliberately funds terrorism. [Dated FATF statement](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html).
 - Pakistan was removed from increased monitoring in **October 2022**; May clipping reports India considering/pushing for renewed scrutiny, not proof Pakistan had been re-listed. Review national AML/CFT effectiveness and evidence, not nationality alone. Financial restrictions derive from competent jurisdictions/UN rules; FATF recommendations and sanctions are different instruments.
 
+## June2025 list check
+- India advocating renewed scrutiny of Pakistan is a diplomatic proposal, **not a June2025 re-listing**. Pakistan did not appear on the **13 June2025 increased-monitoring list**. [Dated list](https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2025.html).
+- **13 June2025 high-risk list:** DPRK, Iran, Myanmar; countermeasure calls differ from Myanmar's proportionate enhanced due diligence. This repeats and confirms the corrected May distinction, rather than the PDF's two-country list. [FATF statement](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-june-2025.html).
+
 ## PDF coverage
 
-2025-05-24: pp. 6, 7, 8 · 2025-05-25: pp. 20, 21
+2025-05-24: pp. 6, 7, 8 · 2025-05-25: pp. 20, 21 · 2025-06-23: pp. 4, 5, 6

@@ -44,7 +44,12 @@ The clipping anticipated a 25-basis-point cut. RBI's actual decision reduced rep
 - **SLR:** bank-held eligible liquid assets—cash, gold and approved securities—against NDTL; differs from CRR cash at RBI. Government securities earn returns and finance the issuer; SLR does not require every eligible asset to be a government bond.
 - **2010 PYQ(a):** CRR increase →commercial banks have less money to lend. **2010 PYQ(d):** SLR is the intended mechanism for banks' credit to government through government-securities holdings; LAF provides bank–RBI liquidity, not this government-credit mechanism.
 
+## Expansionary policy and transmission
+- **Fiscal expansion:** tax cuts/public spending support disposable income and demand. **Monetary easing:** lower policy rates/liquidity can lower borrowing costs. Reinforcement is possible, but the effects have lags and depend on bank transmission, credit demand, confidence and productive capacity.
+- Income-tax relief in Budget2025 and RBI easing form the issue's context. Its statement that RBI cut rates **twice** in2025 is stale by June23: **February,April andJune** cuts had occurred; the corrected June6 decision is above.
+- Weak credit/private investment may persist if firms/households save, deleverage or expect poor demand. Do not infer the entire economy failed to grow from this editorial description.
+- If demand later outstrips supply, inflation may rise; lower-than-expected tax receipts can constrain fiscal space. These are conditional risks, not inevitable deficit increases or automatic welfare cuts.
 
 ## PDF coverage
 
-2025-04-10: pp. 6, 7, 8 · 2025-06-07: pp. 11, 12, 13, 14, 15
+2025-04-10: pp. 6, 7, 8 · 2025-06-07: pp. 11, 12, 13, 14, 15 · 2025-06-23: pp. 31, 32, 33

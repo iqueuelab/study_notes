@@ -13,6 +13,11 @@
 - Cultural diplomacy, people-to-people contact and route coordination can rebuild trust; border sensitivity, environmental limits and pilgrim health require cooperation.
 [MEA pilgrimage information](https://www.mea.gov.in/faq-kmy.htm).
 
+## June 21 revision
+- Source reports June 2025 resumption after suspension since 2020; describe the gap by dates rather than its inaccurate “four years”. Route coordination is a confidence-building measure, not settlement of border disputes.
+- **Lipulekh recall:** Dharchula → Tawaghat → Lipulekh → Tibet; Niti, Lampiya Dhura and Barahoti are distractors in the source's pass question.
+- Source's MPPSC explanation incorrectly admits OCI/foreign nationals to the **MEA-organised** scheme: eligibility is Indian citizenship and a valid Indian passport. Separate private pilgrimage arrangements from this scheme. [MEA eligibility](https://www.mea.gov.in/eligibility-kmy.htm).
+
 ## PDF coverage
 
-2025-04-17: pp. 3, 4, 5, 6
+2025-04-17: pp. 3, 4, 5, 6 · 2025-06-21: pp. 16, 17, 18, 19, 20, 21

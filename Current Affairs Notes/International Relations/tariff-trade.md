@@ -48,7 +48,12 @@
 - Exporters seek diversification, bilateral engagement and possible relief analogous to UK arrangements; UK treatment is specific rather than automatic Indian exemption. Proposed Indian WTO retaliation and~US$2 bn US import context are not proof enacted duties.
 - Rewritten **2018 rates 25% steel/10% aluminium** and **US$7.6 bn retaliation** repeat the older episode incorrectly; common May 14 notes already distinguish March 2025 tariffs/proposed countermeasures. Steel/aluminium production/background also repeats earlier corrections; no new general aluminium PLI or blanket power subsidy established here.
 
+## June23 growth and trade policy argument
+- The editorial connects tariff uncertainty, transport/input costs and disrupted supply chains to exporter investment risk. US exposure is concentrated in sectors such as apparel, gems, pharmaceuticals, electronics, auto components and MSMEs; its roughly**20% export share** is a dated approximation.
+- Policy proposals: negotiate balanced US arrangements including services/non-tariff barriers; diversify through UK/EU/Australia agreements; monitor diverted imports and use evidence-based trade remedies; sustain public capital expenditure and supportive monetary conditions where inflation allows.
+- Attract supply-chain relocation through reliable land/infrastructure, skills, predictable rules and sector-specific electronics/EV/textile capacity. Extending PLI to wearables/IoT/batteries is an **editorial proposal**, not proof a new scheme was notified.
+- Cheap diverted imports are not automatically **dumping**: the legal test compares export price with normal value and requires injury/causal analysis before anti-dumping duties.
 
 ## PDF coverage
 
-2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20 · 2025-05-14: pp. 13, 17 · 2025-06-01: pp. 15, 18, 19
+2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20 · 2025-05-14: pp. 13, 17 · 2025-06-01: pp. 15, 18, 19 · 2025-06-23: pp. 33, 34, 35, 36

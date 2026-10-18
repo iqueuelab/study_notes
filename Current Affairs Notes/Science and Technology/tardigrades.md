@@ -18,4 +18,4 @@ Rehydration permits renewed activity under suitable conditions.
 
 ## PDF coverage
 
-2025-04-16: pp. 1, 2
+2025-04-16: pp. 1, 2 · 2025-06-19: pp. 1, 2

@@ -3187,32 +3187,122 @@
     {
       "date": "2025-06-18",
       "pdf": "2025/06-June/2025-06-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7bb9ce116132dc2e1d3578a76d11ace54c277069b591c7d6d316f32ea3fb1db5",
+      "pages": 26,
+      "topic_ids": [
+        "cocoa",
+        "g7",
+        "global-south",
+        "india-carbon-emissions",
+        "lake-maracaibo",
+        "lightning",
+        "navic",
+        "sar-nisar",
+        "single-use-plastics",
+        "turmeric-board"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-19",
       "pdf": "2025/06-June/2025-06-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "86ee6000f81a073e2b203c63a6d163ecb8f6570b982539390dd18df66ac14846",
+      "pages": 22,
+      "topic_ids": [
+        "cobia",
+        "day-nrlm",
+        "india-cyprus-croatia",
+        "marsupials",
+        "national-arts-akademies",
+        "pmay",
+        "rice-cultivation",
+        "strait-hormuz",
+        "tardigrades",
+        "tea-cultivation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-20",
       "pdf": "2025/06-June/2025-06-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "aa6518373290790dbd20083d03e1b8df6787ff33fa5f4ee6483e899c63f3aecb",
+      "pages": 18,
+      "topic_ids": [
+        "alcohol-control",
+        "methanol-poisoning",
+        "shanghai-cooperation-organisation",
+        "skin-health-wha",
+        "sma"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-21",
       "pdf": "2025/06-June/2025-06-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4f0386312f385c5972785b5a96f2f21568f019f609735928450323d99709bab1",
+      "pages": 28,
+      "topic_ids": [
+        "assisted-dying",
+        "dna-identification",
+        "green-steel",
+        "invasive-alien-species",
+        "kailash-mansarovar-yatra"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-23",
       "pdf": "2025/06-June/2025-06-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "cfda9cdd1b753f886613ab229729df261978ea6ca45ae367dbec5d9a351b532a",
+      "pages": 36,
+      "topic_ids": [
+        "b2-spirit",
+        "critical-emerging-tech-index",
+        "crude-imports",
+        "e-raktkosh",
+        "export-control-regimes",
+        "fatf",
+        "iran-nuclear-npt",
+        "mango-cultivation",
+        "monetary-policy",
+        "naval-platforms",
+        "notto",
+        "quantum-key-distribution",
+        "tariff-trade"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-24",
       "pdf": "2025/06-June/2025-06-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0134f7fe991ea0152bff1054f033f2fdf56a915a8f8460d0d7c1c4e7afc6b835",
+      "pages": 35,
+      "topic_ids": [
+        "asean",
+        "bimstec",
+        "brics",
+        "dairy-nutrition",
+        "green-hydrogen",
+        "india-qatar",
+        "infrastructure-finance",
+        "left-wing-extremism",
+        "pinaka",
+        "shanghai-cooperation-organisation",
+        "traditional-seeds"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-06-25",
@@ -5346,7 +5436,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-06-18",
+  "next_pdf": "2025-06-25",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -5387,6 +5477,11 @@
       "date": "2025-06-15",
       "status": "No standalone PDF; combined 15–16 June issue reviewed under 16 June.",
       "reason": "No standalone dated PDF in source collection. The June16 PDF is labelled 15&16 June; its complete combined contents reviewed under June16 file, without inventing a separate source."
+    },
+    {
+      "date": "2025-06-22",
+      "status": "No standalone PDF; June22-labelled material reviewed in June23 PDF",
+      "evidence": "2025/06-June/2025-06-23.pdf, pages 1–14 carry June22 material; page15 starts June23 banner. File issue-date and checksum retained as June23."
     }
   ]
 }

@@ -13,6 +13,10 @@
 - Drivers: illegal manufacture, industrial diversion, poor traceability, enforcement corruption/gaps, limited consumer awareness and weak health–excise–police coordination.
 - Response: licensed supply-chain records and inspections, chemical traceability, inter-State intelligence, rapid outbreak identification, accessible emergency treatment and targeted awareness. The source's comprehensive new central law is a **recommendation**, not an enacted May measure; evaluate existing-law enforcement as well as legislative gaps.
 
+## June 20 PYQ revision
+- Ethanol-production question (2025): **United States produces more ethanol than Brazil**; US feedstock is principally corn, Brazil's principally sugarcane. Statement I is false and II true (d); source production volumes are dated approximations.
+- Source CDS explanation mistakenly calls “methanal” a typo for formaldehyde: **methanal is formaldehyde**. Methanol metabolism proceeds through formaldehyde to formate; formate chiefly drives acidosis and optic injury. Preserve that distinction from the source's oversimplified protoplasm explanation.
+
 ## PDF coverage
 
-2025-05-17: pp. 6, 7, 8, 9
+2025-05-17: pp. 6, 7, 8, 9 · 2025-06-20: pp. 9, 10, 11, 12, 13, 14

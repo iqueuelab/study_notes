@@ -342,6 +342,36 @@
       "year": 2023,
       "chapter": "Anaemia Mukt Bharat",
       "answer": "(c) Only three"
+    },
+    {
+      "year": 2021,
+      "chapter": "Spinal muscular atrophy and prenatal research",
+      "question": "In the context of hereditary diseases, consider the following statements:\n1. Passing on mitochondrial diseases from parent to child can be prevented by mitochondrial replacement therapy either before or after in vitro fertilisation of the egg.\n2. A child inherits mitochondrial diseases entirely from the mother and not from the father.\nWhich of the statements given above is/are correct?\n(a) 1 only\n(b) 2 only\n(c) Both 1 and 2\n(d) Neither 1 nor 2",
+      "answer": "(c) Both 1 and 2"
+    },
+    {
+      "year": 2025,
+      "chapter": "Methanol poisoning and illicit liquor regulation",
+      "question": "Consider the following statements:\nStatement I: Of the two major ethanol producers in the world—Brazil and the United States—Brazil produces more ethanol than the United States.\nStatement II: Unlike in the United States where corn is the principal feedstock for ethanol production, sugarcane is the principal feedstock for ethanol production in Brazil.\nWhich one of the following is correct?\n(a) Both Statement I and II are correct, and Statement II explains Statement I\n(b) Both Statement I and II are correct, but Statement II does not explain Statement I\n(c) Statement I is correct, but Statement II is not correct\n(d) Statement I is not correct, but Statement II is correct",
+      "answer": "(d) Statement I is not correct, but Statement II is correct"
+    },
+    {
+      "year": 2022,
+      "chapter": "DNA identification and disaster victim identification",
+      "question": "DNA Barcoding can be a tool to:\n1. Assess the age of a plant or animal.\n2. Distinguish among species that look alike.\n3. Identify undesirable animal or plant materials in processed foods.\nWhich of the statements given above is/are correct?\n(a) 1 only\n(b) 3 only\n(c) 1 and 2\n(d) 2 and 3",
+      "answer": "(d) 2 and 3"
+    },
+    {
+      "question": "Consider the following heavy industries:\n1. Fertilizer plants\n2. Oil refineries\n3. Steel plants\nGreen hydrogen is expected to play a significant role in decarbonizing how many of the above industries?\n(a) Only one\n(b) Only two\n(c) All three\n(d) None",
+      "chapter": "Green hydrogen and off-grid production",
+      "year": 2023,
+      "answer": "(c) All three"
+    },
+    {
+      "question": "One of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen:\n(a) Hydrogen peroxide\n(b) Hydronium\n(c) Oxygen\n(d) Water vapour",
+      "chapter": "Green hydrogen and off-grid production",
+      "year": 2024,
+      "answer": "(d) Water vapour"
     }
   ]
 }

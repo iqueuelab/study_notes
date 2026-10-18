@@ -39,6 +39,10 @@
 - **Current account includes goods, services, primary and secondary income**; a merchandise import surplus alone is the trade deficit, not the full definition of CAD. Reserves do not necessarily fall because a CAD exists.
 - Supplier diversification, reserves, energy efficiency and producer diplomacy improve resilience; route disruption can also increase Indian exporters' freight/time costs.
 
+## June23 supplier reporting
+- Source reports India increasing Russian and US purchases amid West Asian instability. Supplier diversification can reduce one-country exposure while leaving exposure to global prices, freight and chokepoints.
+- PDF's **88.2% import dependence vs87.6%** is labelled **FY2025 first half vs FY2024 first half**, not a new June monthly/full-year figure. Producer/consumer rankings require a year and a defined measure (crude vs all liquids); India is a major third-ranked oil consumer/importer, not the second-largest as its practice distractor states.
+
 ## PDF coverage
 
-2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3 · 2025-05-20: pp. 20, 21, 22, 23 · 2025-06-14: pp. 28, 29, 30, 31, 32, 33 · 2025-06-16: pp. 41, 42, 43, 44, 45, 46
+2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3 · 2025-05-20: pp. 20, 21, 22, 23 · 2025-06-14: pp. 28, 29, 30, 31, 32, 33 · 2025-06-16: pp. 41, 42, 43, 44, 45, 46 · 2025-06-23: pp. 24, 25

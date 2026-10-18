@@ -60,7 +60,11 @@
 - Legal precision: Article **51(c)** urges respect for international law; Article **73** concerns Union executive power and treaty/agreement rights, not a blanket licence to act anywhere at sea. India's 1976 maritime-zones legislation distinguishes sovereign territorial waters from EEZ resource rights. Navigational warnings protect shipping; the source's assertion that Pakistan issued the notice for Indian firings is unverified and should not be memorised as a legal requirement.
 - Readiness does not itself establish a settled doctrine of “pre-emptive self-defence” or prove a future use of force lawful. Assess necessity/proportionality under the applicable law and civilian protection in hostilities; avoid the source's unattributed naval quotations. [UNCLOS overview](https://www.un.org/Depts/los/convention_agreements/convention_overview_convention.htm).
 
+## Tavasya and the four-frigate programme
+- **Tavasya launched22 March2025**, Goa Shipyard; the PDF's June launch date is wrong. It is the second Goa-built additional Project1135.6 frigate; **Triput launched23 July2024**. Distinguish launch, outfitting/trials and commissioning. [MoD launch release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2114025&lang=2&reg=48).
+- Four-ship India–Russia arrangement: **Tushil/Tamal built in Russia**, **Triput/Tavasya at GSL** with Russian collaboration. **Ukrainian Zorya-Mashproekt turbines** show the multinational supply chain; technology transfer and local construction do not mean wholly indigenous components.
+- Source's Tamal 'June2025 commissioning' is stale: its embedded June23 headline says **scheduled1July2025**. At this issue date it was a planned commissioning, not already completed; the common February note contains the subsequently verified July1 completion.
 
 ## PDF coverage
 
-2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5 · 2025-04-28: pp. 1, 2, 3, 4
+2025-01-02: pp. 30, 31, 32, 33 · 2025-01-06: pp. 17 · 2025-01-16: pp. 4, 5, 6, 7, 8 · 2025-01-19: pp. 13, 42, 43 · 2025-01-24: pp. 8, 9, 10 · 2025-02-14: pp. 10, 11 · 2025-02-23: pp. 3, 4, 5, 6, 7, 8, 9, 10 · 2025-02-26: pp. 1, 2, 3, 4, 5 · 2025-04-28: pp. 1, 2, 3, 4 · 2025-06-23: pp. 25, 26, 27, 28

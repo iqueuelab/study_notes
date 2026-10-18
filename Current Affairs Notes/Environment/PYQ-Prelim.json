@@ -351,6 +351,32 @@
       "year": 2025,
       "chapter": "Animal classification and behaviour",
       "answer": "(d) 2 and 3"
+    },
+    {
+      "year": 2025,
+      "chapter": "India’s carbon emissions: sectors and comparison",
+      "question": "Consider the following statements:\nI. Carbon dioxide (CO₂) emissions in India are less than 0.5 t CO₂ per capita.\nII. In terms of CO₂ emissions from fuel combustion, India ranks second in the Asia-Pacific region.\nIII. Electricity and heat producers are the largest sources of CO₂ emissions in India.\nWhich of the statements given above is/are correct?\n(a) I and III only\n(b) II only\n(c) II and III only\n(d) I, II and III",
+      "answer": "(c)",
+      "exam": "UPSC CSE"
+    },
+    {
+      "year": 2023,
+      "chapter": "Marsupials: development and distribution",
+      "question": "Consider the following statements:\nStatement-I: Marsupials are not naturally found in India.\nStatement-II: Marsupials can thrive only in montane grasslands with no predators.\nWhich one of the following is correct in respect of the above statements?\n(a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I\n(b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I\n(c) Statement-I is correct but Statement-II is incorrect\n(d) Statement-I is incorrect but Statement-II is correct",
+      "answer": "(c)",
+      "exam": "UPSC CSE"
+    },
+    {
+      "year": 2023,
+      "chapter": "Invasive alien species: trade pathways and biosecurity",
+      "question": "‘Invasive Species Specialist Group’ (that develops Global Invasive Species Database) belongs to which one of the following organizations?\n(a) The International Union for Conservation of Nature\n(b) The United Nations Environment Programme\n(c) The United Nations World Commission for Environment and Development\n(d) The World Wide Fund for Nature",
+      "answer": "(a) The International Union for Conservation of Nature"
+    },
+    {
+      "question": "Which one of the following best describes the main objective of ‘Seed Village Concept’?\n(a) Encouraging farmers to use their own farm seeds and discouraging them from buying seeds from others\n(b) Involving farmers in training for quality seed production and thereby making quality seeds available to others at the right time and affordable cost\n(c) Earmarking some villages exclusively for certified seed production\n(d) Identifying rural entrepreneurs and helping them set up seed companies",
+      "chapter": "Conserving traditional seed varieties",
+      "year": 2015,
+      "answer": "(b)"
     }
   ]
 }
