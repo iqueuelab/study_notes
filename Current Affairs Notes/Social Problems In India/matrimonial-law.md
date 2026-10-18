@@ -25,7 +25,13 @@
 ## Verified PYQ connection
 - **2014 GS-IV:** innovative measures against sexual violence; official **150 words /10 marks**, correcting the source's **250/15**. Address prevention, safe reporting, accountable institutions, survivor support and measurable behavioural change.
 
+## Dowry deaths: July 2025 evidence
+- **Dowry Prohibition Act 1961** prohibits dowry. Source invokes IPC **304B**; under the new criminal law **BNS section 80** covers dowry death: unnatural death within seven years of marriage with cruelty/harassment for dowry **soon before death**. The seven-year condition alone is insufficient.
+- Clipping summarises **2017–2022 NCRB** data: about **7,000 cases filed annually**, approximately **4,500 charge-sheets**. Among roughly **3,000 investigations pending at end-2022**, **67% had exceeded six months**; among 2022 charge-sheets, about **79% followed investigations lasting over two months**. These denominators differ.
+- Report says **~100 convictions out of ~6,500 cases sent to trial each year**, while most remain pending. This is **not** the conventional conviction rate among cases whose trials concluded; avoid treating pending cases as acquittals or claiming only 100 convictions across all case disposals.
+- Eight States—UP, Bihar, MP, West Bengal, Odisha, Jharkhand, Rajasthan, Haryana—accounted for about **80%** of reported cases; among 19 cities with data, Delhi about **30%**, Kanpur next (~14%). Reported registration differences do not alone prove true incidence rankings.
+- Improve timely evidence collection, independent investigation, survivor/witness protection, legal aid, police sensitisation and court capacity; SHGs/panchayats and community campaigns can challenge social normalisation. Allegations in recent cases remain allegations pending adjudication.
 
 ## PDF coverage
 
-2025-01-06: pp. 1, 2, 3, 4 · 2025-02-17: pp. 10, 11, 12, 13, 14
+2025-01-06: pp. 1, 2, 3, 4 · 2025-02-17: pp. 10, 11, 12, 13, 14 · 2025-07-15: pp. 19, 20, 21, 22

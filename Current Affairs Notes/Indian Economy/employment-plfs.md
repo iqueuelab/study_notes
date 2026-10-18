@@ -25,7 +25,12 @@
 - NSO/Mo SPI survey measures employment, participation, unemployment and work intensity; hours worked aid underemployment analysis. A survey redesign does not establish that hours had never been asked in any earlier employment survey.
 - Assess sampling/reference-period changes before comparisons; more frequent estimates do not automatically mean every month-to-month change is statistically meaningful.
 
+## July 2025: employability and job quality
+- Editorial distinguishes **unemployment, underemployment and skill mismatch**. EPFO enrolment is not a complete measure of net new jobs, secure work or graduate employability; informal employment should not be counted as unemployment.
+- Source attributes approximately **83% of unemployed people being youth**, and **about half of graduates being employable**, to dated reports. These are different populations/indicators; the uncited email/file/spreadsheet percentages lack age/sample denominators and should not be generalised to all Indians.
+- **WEF Future of Jobs 2025** scenario to 2030: **170 million roles created, 92 million displaced, net 78 million**; forecasts depend on employers' assumptions and are not achieved outcomes.
+- Proposals: assessed industry–college partnerships, placement/earnings accountability, digital and communication skills, apprenticeships, interdisciplinary learning and international qualification/language preparation. Idea/Tinker Labs and teaching by industry professionals can support practice. An **Indian Education Service** is an editorial proposal, not an established new service.
 
 ## PDF coverage
 
-2025-02-19: pp. 4, 5, 6, 7 · 2025-05-15: pp. 24, 25
+2025-02-19: pp. 4, 5, 6, 7 · 2025-05-15: pp. 24, 25 · 2025-07-14: pp. 17, 18, 19, 20

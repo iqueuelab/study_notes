@@ -39,7 +39,11 @@
 - **Latent TB infection does not transmit TB**; progression to active infectious disease creates future risk. Subclinical active TB is a separate category. [CDC](https://www.cdc.gov/tb/about/inactive-tuberculosis.html).
 - Elimination threshold (<1 case per million per year), India's 2025 ambition and WHO End TB percentage-reduction targets are distinct; the source's incidence comparison is not proof elimination was reached.
 
+## BPaL and vaccination revision
+- **BPaL = bedaquiline + pretomanid + linezolid**; distinguish **BPaLM**, which adds moxifloxacin. Six-month all-oral regimens replace much longer treatment for eligible resistant-TB patients; selection depends on resistance, eligibility and programme guidance, not a blanket prescription for every XDR case.
+- **BCG**, developed by Calmette and Guérin from *M. bovis* and first used in 1921, is especially important against severe childhood TB. India's limited introduction began in 1948; National TB Programme followed in 1962. Protection against pulmonary TB varies; latitude alone is not a universal rule.
+- Source repeats old burden figures and a suspect **2021 notification count of three lakh**; do not treat these as July 2025 surveillance. VPM1002/MIP are investigational vaccine references in the sheet, not proof of routine approval. Its broad claims about BCG preventing Buruli ulcer, neonatal respiratory infections or treating melanoma should not be read as standard universal indications.
 
 ## PDF coverage
 
-2025-01-24: pp. 5, 6, 7, 8 · 2025-03-11: pp. 21, 22, 23, 24, 26, 27, 32, 33 · 2025-03-21: pp. 20, 21, 22, 23 · 2025-03-24: pp. 9, 10, 11, 20, 21 · 2025-03-25: pp. 14, 15, 16, 17, 18
+2025-01-24: pp. 5, 6, 7, 8 · 2025-03-11: pp. 21, 22, 23, 24, 26, 27, 32, 33 · 2025-03-21: pp. 20, 21, 22, 23 · 2025-03-24: pp. 9, 10, 11, 20, 21 · 2025-03-25: pp. 14, 15, 16, 17, 18 · 2025-07-11: pp. 6, 7, 8, 9, 10

@@ -27,7 +27,12 @@
 - **Operation Atalanta**, launched **2008**, EU CSDP mission, HQ **Rota, Spain**; Gulf of Aden/western Indian Ocean anti-piracy protection, with broader illicit-traffic/IUU-fishing mandate. **EU operation ≠ NATO operation**.
 - Cooperation supports lawful commerce and rules-based maritime order; an exercise is not a mutual-defence treaty. Practice answer **(a), statement1 only**; PDF's explanation misnumbers statements and mentions a nonexistent statement3.
 
+## July editorial: translating convergence into delivery
+- The editorial argues that European strategic autonomy and India's multi-alignment create room for co-development of defence technology, cleaner industry, digital public goods and resilient supply chains. Shared interests do not remove disagreements over Russia, market access, mobility or climate/trade rules.
+- Complement European deep tech/manufacturing with Indian software/platform scale; improve researcher/student/professional mobility, joint R&D and public understanding. **IMEC** remains a connectivity initiative whose delivery depends on regional security and finance.
+- An **early-harvest trade arrangement** and development-sensitive CBAM treatment are proposals; distinguish them from completed agreements. Canada is not a European country; EU/Europe, NATO and Quad are distinct institutions, and the EU is not a Quad member.
+- Source investment-growth figures for **2015–2022** are historical comparisons, not July 2025 annual flows. Avoid presenting the source's “June Raisina Marseille” date as verified; policy substance does not depend on that unverified event label.
 
 ## PDF coverage
 
-2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21
+2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21 · 2025-07-15: pp. 31, 32, 33, 34, 35, 36, 37

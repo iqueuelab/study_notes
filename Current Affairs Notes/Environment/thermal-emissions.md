@@ -20,7 +20,16 @@
 - **ESP→particulates; FGD→SO₂; low-NOx burners/SCR/SNCR→NOx.** An ESP does not remove NO₂ by itself.
 - Calibrated continuous monitoring, independent checks and published data support health/crop protection. Budget growth does not directly measure generation or pollution growth.
 
+## July 14 editorial: exposure and equality
+- The editorial challenges unequal protection after the July SO₂ relaxation: lower average ambient SO₂ does not measure every exposed community's risk, and sulphate-aerosol cooling does not justify continued health damage. Aerosol cooling and greenhouse warming are distinct effects.
+- Cost, vendor constraints and low coal sulphur are government arguments; weigh them against secondary particles, acid deposition and public-health impacts, with transparent consultation and local monitoring. Existing category-specific rules remain the operative distinction.
+
+## July 15: government rationale and category distinction
+- Embedded graphic separates **A ~11%, B ~11%, C ~78% of units**: A mandatory SO₂ compliance; B case-by-case expert-appraisal recommendation; C exemption subject to stack-height compliance. Thus “22% all must install FGD” conflates mandatory and conditional categories, units and stations.
+- Government cites low domestic coal sulphur (~0.5%), generally compliant ambient SO₂ readings, retrofit costs (~₹1.2 crore/MW; source universal estimate ₹2.54 lakh crore) and limited measured urban benefit. These are dated policy arguments, not proof zero secondary-particle or agricultural harm.
+- Source reports only Dehradun/Kolar among **492 monitored cities in 2023** exceeded the relevant SO₂ benchmark; monitoring geography and averaging period matter. Do not compare international standards without matching averaging periods and legal criteria.
+- FGD installation/compliance shares vary by whether counting capacity, units or stations. Existing July 11 category rules take precedence over simplified infographic language. The 250-word/15-mark daily question is coaching practice.
 
 ## PDF coverage
 
-2025-02-07: pp. 4, 5, 6, 7, 8, 12, 13, 14 · 2025-02-27: pp. 20, 21, 22, 23
+2025-02-07: pp. 4, 5, 6, 7, 8, 12, 13, 14 · 2025-02-27: pp. 20, 21, 22, 23 · 2025-07-14: pp. 8, 9 · 2025-07-15: pp. 12, 13, 14, 15

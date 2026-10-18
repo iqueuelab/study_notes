@@ -63,7 +63,15 @@
 
 Priorities: tobacco/alcohol fiscal measures, healthy food and activity environments, clean air, accessible primary care, essential medicines, trained staff and surveillance. Chronic out-of-pocket costs, social disadvantage and the simultaneous burden of infections undermine control. [WHO NCD overview](https://www.who.int/en/news-room/fact-sheets/detail/noncommunicable-diseases)
 
+## July 2025 Oil and Sugar Boards
+- Health Ministry advisory promotes **workplace boards** in canteens, cafeterias, lobbies and meeting rooms to make hidden fats/excess sugar visible; complements healthy catering, fruit/vegetable access, stairs, walking and activity breaks.
+- **15 July clarification:** no direction to attach warning labels to samosa, jalebi or laddoo, and no targeting Indian street-food culture. These are behavioural nudges for healthier choices. [Health Ministry clarification](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2144885&lang=2&reg=48).
+## HFSS fiscal debate
+- **HFSS = high in fat, sugar and salt**; packaged or unpackaged foods can contribute excess energy and NCD risk. Nutrient content, portion and frequency matter; not every traditional snack is nutritionally identical.
+- Source advocates nutrient-based taxes alongside labelling, nutrition literacy and healthier substitutes, with revenues supporting health. Evaluate reformulation, substitution, affordability and regressive household burdens; a tax's public-health impact is distinct from revenue raised.
+- **Eat Right India (2018)**, Kerala's **2016 fat tax** (historical pre-GST measure), and international sugary-drink/food taxes illustrate policy options. A uniform global HFSS tax does not exist; US measures differ by jurisdiction. The clipping's **20–30% levy** is a study proposal, not an enacted all-food tax.
+- Obesity cost **US$23 billion in 2017 → US$480 billion by 2060** is a source-reported model/projection with changing population/economic assumptions, not observed future expenditure.
 
 ## PDF coverage
 
-2025-01-06: pp. 9, 10, 11, 12 · 2025-02-05: pp. 6 · 2025-02-27: pp. 23, 24, 25, 26, 27, 28, 29 · 2025-03-02: pp. 3, 4, 5, 6, 7 · 2025-03-08: pp. 6, 7, 8, 9 · 2025-03-17: pp. 20, 21, 22, 23, 36 · 2025-03-18: pp. 34, 35 · 2025-03-31: pp. 3 · 2025-04-08: pp. 11, 12, 13, 14
+2025-01-06: pp. 9, 10, 11, 12 · 2025-02-05: pp. 6 · 2025-02-27: pp. 23, 24, 25, 26, 27, 28, 29 · 2025-03-02: pp. 3, 4, 5, 6, 7 · 2025-03-08: pp. 6, 7, 8, 9 · 2025-03-17: pp. 20, 21, 22, 23, 36 · 2025-03-18: pp. 34, 35 · 2025-03-31: pp. 3 · 2025-04-08: pp. 11, 12, 13, 14 · 2025-07-15: pp. 15, 16, 17, 18, 19

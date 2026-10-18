@@ -407,6 +407,18 @@
       "year": 2020,
       "chapter": "Pulses: cultivation, imports and farmer incentives",
       "answer": "(a) 1 only"
+    },
+    {
+      "year": 2016,
+      "chapter": "Financial Stability and Development Council",
+      "question": "With reference to Financial Stability and Development Council, consider the following statements:\n1. It is an organ of NITI Aayog.\n2. It is headed by the Union Finance Minister.\n3. It monitors macroprudential supervision of the economy.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "c"
     }
   ]
 }

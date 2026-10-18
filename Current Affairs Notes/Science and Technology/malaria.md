@@ -22,6 +22,11 @@
 - Other human-malaria species recalled here: **P. malariae, P. ovale and P. knowlesi**, alongside falciparum/vivax. Common early fever, headache/chills may begin **10–15 days after infection**; severe disease disproportionately harms young children and pregnant people.
 - **2010 vaccine-difficulty PYQ: source answer (b).** Understand this as absence of reliably protective natural immunity, rather than a literal claim humans develop no partial immunity: exposure can generate incomplete, non-sterilising protection, while complex life stages/immune evasion impede vaccination. Mosquito bites are the main route, **not the only possible route**; transfusion/congenital transmission can occur.
 
+## July 8: Coartem Baby approval
+- **Swissmedic approved Coartem Baby (Riamet Baby)**, developed by Novartis with MMV, for infants/neonates **2 to less than 5 kg** with acute uncomplicated *P. falciparum* malaria or mixed infections including falciparum. **Artemether + lumefantrine**, with a ratio/dose adapted to infant metabolism; not a vaccine or treatment for every severe case. [Developer announcement](https://www.novartis.com/news/media-releases/novartis-receives-approval-first-malaria-medicine-newborn-babies-and-young-infants).
+- Approval rested on the **Phase II/III CALINA** study. Burkina Faso, Côte d'Ivoire, Kenya, Malawi, Mozambique, Nigeria, Tanzania and Uganda participated in the **regulatory assessment** and were expected to grant rapid approvals; the sheet incorrectly calls all eight trial countries. Anticipated approval/access is distinct from completed rollout.
+- Dispersible infant formulation helps avoid unsafe extrapolation from older children's medicines; body weight/clinical eligibility matter more than a blanket age label such as “up to six months”.
+
 ## PDF coverage
 
-2025-02-14: pp. 15, 16, 17, 18, 19 · 2025-06-26: pp. 30, 31, 32, 33, 34, 35, 36
+2025-02-14: pp. 15, 16, 17, 18, 19 · 2025-06-26: pp. 30, 31, 32, 33, 34, 35, 36 · 2025-07-13: pp. 7, 8

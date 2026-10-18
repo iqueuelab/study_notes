@@ -10,6 +10,12 @@
 - The source reviews the **2019–2022 regional crisis**, with major **2020–2021 upsurge** across East Africa/Red Sea/southwest Asia including India/Pakistan. It is background, not a newly verified April 2025 Indian invasion.
 - **FAO Desert Locust Information Service:** monitoring, forecasting and early warning; Indian Locust Warning Organisation conducts surveys/control. Early detection of breeding/hopper bands, cross-border coordination and targeted approved chemical/biological control are more manageable than late response to huge swarms; assess environmental and occupational safeguards. Embedded Delhi/Haryana movement map is historical context, not a current route. [FAO facts and surveillance](https://www.fao.org/locusts/en), [FAO FAQ](https://www.fao.org/locusts/faqs/en/).
 
+## July 2025 pheromone research: species distinction
+- Study of **migratory locust Locusta migratoria**, distinct from desert locust **Schistocerca gregaria**: aggregation pheromone **4-vinylanisole (4VA)** links biosynthesis to swarm management. Do not transfer all experimental results automatically to desert locust control.
+- **4VPMT1/4VPMT2** enzymes convert **4-vinylphenol (4VP)** to 4VA; suppressing their expression or competitively inhibiting them with **4-nitrophenol (4NP)** reduces pheromone production/aggregation experimentally. [Chinese Academy of Sciences](https://english.cas.cn/newsroom/cas_media/202506/t20250627_1046355.shtml).
+- Pheromone traps, aggregation monitoring and biosynthesis/gene targets are research avenues; not an already approved, deployed replacement for integrated control. 4NP toxicity/environmental safety remains a barrier; RNA interference also needs field efficacy, delivery and ecological assessment.
+- Hind-leg stimulation/serotonin and chemical attraction are parts of phase-change biology, not proof that feeding inevitably triggers swarming or that released engineered locusts are already an operational programme.
+
 ## PDF coverage
 
-2025-04-30: pp. 14, 15, 16
+2025-04-30: pp. 14, 15, 16 · 2025-07-15: pp. 24, 25, 26

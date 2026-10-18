@@ -28,6 +28,11 @@
 - Shubhanshu Shukla photographed **fenugreek and green-gram sprouts in petri dishes** and stored samples in an ISS freezer to study microgravity effects on germination/early growth. The sprouts experiment involves **University of Agricultural Sciences, Dharwad and IIT Dharwad**; multigeneration post-flight work will examine genetic, microbial and nutritional changes.
 - Clipping also reports microalgae deployment/storage for potential food, oxygen and biofuel applications; imaging of six crop-seed varieties for later multigeneration studies; and stem-cell recovery/repair research. These are experiments/potential applications, not demonstrated space-farming self-sufficiency or proven clinical therapy.
 
+## Crop seeds: post-flight research
+- **IIST Space Biology Lab + Kerala Agricultural University** study dry seeds exposed aboard Ax-4: rice **Jyothi, Uma**; horse gram **Kanakamani**; tomato **Vellayani Vijay**; sesame **Thilakathara**; brinjal **Soorya**. Dry exposure differs from germinating sprouts on ISS.
+- Compare **space-returned, Earth-stored control and fresh seeds** for germination, growth, morphology, flowering/fruiting, yield and genetic changes over subsequent generations. Space radiation/microgravity may alter biology; beneficial mutations or higher yields are hypotheses, not demonstrated outcomes.
+- Collaboration involves ISRO/HSFC, IIST and KAU; source identifies project lead **K.G. Sreejalakshmi** and May 2025 MoU. The issue anticipates receipt of seeds after landing; completed mission return is recorded separately.
+
 ## PDF coverage
 
-2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8 · 2025-06-26: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1 · 2025-07-10: pp. 24
+2025-04-04: pp. 1, 2, 3 · 2025-04-19: pp. 9, 10, 11 · 2025-05-21: pp. 19, 20, 21, 22 · 2025-05-25: pp. 9, 10 · 2025-06-08: pp. 4, 5, 6, 7, 8 · 2025-06-26: pp. 8, 9, 10, 11, 12, 13 · 2025-06-27: pp. 1 · 2025-07-10: pp. 24 · 2025-07-15: pp. 9, 10, 11, 12

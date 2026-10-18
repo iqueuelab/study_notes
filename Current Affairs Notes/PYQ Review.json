@@ -271,17 +271,6 @@
     },
     {
       "issue_date": "2025-07-07",
-      "id": "fsdc",
-      "pages": [
-        10,
-        11
-      ],
-      "year": 2016,
-      "question": "With reference to the Financial Stability and Development Council (FSDC), consider the following statements:\n1. It is an organ of NITI Aayog.\n2. It is headed by the Union Finance Minister.\n3. It monitors macroprudential supervision of the economy.\nWhich of the statements given above is/are correct?",
-      "reason": "Printed2016label, full stem/statements but full options absent. Supplied answer(c)2and3only. Held from bank until complete options recovered."
-    },
-    {
-      "issue_date": "2025-07-07",
       "id": "plant-treaty",
       "pages": [
         22,
@@ -361,6 +350,34 @@
       "year": 2022,
       "topic_id": "labour-codes",
       "reason": "Explicitly labelled CDS PYQ, not CSE. Retained with exam=CDS so bank consumers do not misidentify the examination."
+    },
+    {
+      "issue_date": "2025-07-12",
+      "year": 2016,
+      "chapter": "Baltic grey seals, declining ice and marine protection",
+      "question": "Consider the following pairs: Annex-I Countries — Cartagena Protocol; Certified Emissions Reductions (CERs) — Nagoya Protocol; Clean Development Mechanism (CDM) — Kyoto Protocol.",
+      "reason": "Printed stem/table but full options absent; do not fabricate option block. Source answer 3 only."
+    },
+    {
+      "issue_date": "2025-07-11",
+      "status": "Four defence PYQs (2025 aircraft, 2024 fighters, 2018 THAAD, 2008 Barak) already present in common banks; no duplicate added."
+    },
+    {
+      "issue_date": "2025-07-12",
+      "status": "Electric-truck mains question explicitly labelled Sample Question; excluded from PYQs."
+    },
+    {
+      "issue_date": "2025-07-11",
+      "status": "Crude-oil MCQ explicitly labelled Practice Sample; excluded from PYQs."
+    },
+    {
+      "issue_date": "2025-07-14",
+      "year": 2019,
+      "exam_stage": "Prelim",
+      "chapter": "Jarawa and Particularly Vulnerable Tribal Groups",
+      "subject": "Anthropology",
+      "status": "Incomplete supplied PYQ: page 7 has full four-statement stem and answer (c) 1, 2 and 4, but no answer-option list. Do not invent omitted options; retain explanation in notes pending official-paper review.",
+      "question": "Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:\n1. PVTGs reside in 18 States and one Union Territory.\n2. A stagnant or declining population is one of the criteria for determining PVTG status.\n3. There are 95 PVTGs officially notified in the country so far.\n4. Irular and Konda Reddi tribes are included in the list of PVTGs.\nWhich of the statements given above are correct?"
     }
   ],
   "resolved": [
@@ -383,6 +400,13 @@
         "2018 IRNSS"
       ],
       "verification": "Official UPSC GS-I papers compared; 2018 scanned page 27 and 2022 scanned pages 15/39 reviewed through OCR. 2018 option d is None, correcting supplied reprint; answer a, not source b."
+    },
+    {
+      "year": 2016,
+      "questions": [
+        "Financial Stability and Development Council statements"
+      ],
+      "verification": "Full wording/options compared with saved official UPSC2016GS-I physical PDFpage21,question56; answer2and3only(c)."
     }
   ],
   "practice_reviewed": [

@@ -3598,27 +3598,93 @@
     {
       "date": "2025-07-11",
       "pdf": "2025/07-July/2025-07-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0ac6a3139d8d2e07cab85a3be5f2a7d2fbb305005a9cf04786af57373628885a",
+      "pages": 16,
+      "topic_ids": [
+        "crude-imports",
+        "custodial-violence",
+        "s400",
+        "tb"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-12",
       "pdf": "2025/07-July/2025-07-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2266f81759ca1199aba340b5e500d071239cb0f8c4512e34fea4953971b51ac9",
+      "pages": 24,
+      "topic_ids": [
+        "astra-gandiva",
+        "baltic-grey-seals",
+        "greater-one-horned-rhino",
+        "gyan-bharatam",
+        "maratha-military-landscapes",
+        "pm-e-drive"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-13",
       "pdf": "2025/07-July/2025-07-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0092f3de4bb5650afbed61a4099e7fdfd20ab3705f7e8a2b3d9441e209974604",
+      "pages": 15,
+      "topic_ids": [
+        "ams-dating",
+        "atags",
+        "bind",
+        "bulgaria-eurozone",
+        "jaguar",
+        "lake-turkana",
+        "mahi-river",
+        "malaria",
+        "nistar"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-14",
       "pdf": "2025/07-July/2025-07-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ea7509eca2d6caa6bdd968d888ca487858518e9e029f840ea9f1e1c63ccb4e2a",
+      "pages": 24,
+      "topic_ids": [
+        "coal-crop-losses",
+        "employment-plfs",
+        "jarawa-pvtg",
+        "nipah",
+        "open-ecosystems",
+        "ordinary-residence-voting",
+        "talisman-sabre",
+        "thermal-emissions"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-15",
       "pdf": "2025/07-July/2025-07-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fcd7a281f4dbf01ba9b1d8d6fc0c30d0b39b55cbef4591cb5dbd02e98ec7a58c",
+      "pages": 37,
+      "topic_ids": [
+        "axiom-4",
+        "desert-locust",
+        "india-eu",
+        "machilipatnam-port",
+        "matrimonial-law",
+        "operation-shiva",
+        "preventive-health",
+        "thermal-emissions",
+        "women-stem"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-07-16",
@@ -5657,7 +5723,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-07-11",
+  "next_pdf": "2025-07-16",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -5714,6 +5780,11 @@
       "status": "No standalone PDF; combined 8–9 July material reviewed in July9 PDF.",
       "evidence": "July9 page1 banner8th&9thJuly2025; page14 startsJuly9news.",
       "reason": "No standalone PDF; 8–9 July combined material reviewed in July 9 PDF. Banner on page 1 says 8th & 9th July 2025; page 14 marks where July 9 news starts. Physical-file coverage and additions are recorded under July 9."
+    },
+    {
+      "date": "2025-07-13",
+      "status": "Physical July 13 file internally labelled 12 July 2025; retained physical-file date for coverage and no invented separate July 13 issue.",
+      "evidence": "2025/07-July/2025-07-13.pdf page 1 header reads 12th July 2025"
     }
   ]
 }

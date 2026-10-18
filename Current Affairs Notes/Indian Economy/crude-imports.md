@@ -55,6 +55,10 @@
 - Correct source's generic “cuts extended into mid-2025”: by **31 May 2025**, eight members had agreed another **411,000 b/d July increase** while unwinding part of voluntary restraint. This was announced future supply, not July output already produced. [OPEC May announcement archive](https://www.opec.org/opec_web/en/publications/498.htm).
 - **2024 Venezuela PYQ: (d)**—large reserves do not imply rapid crisis recovery or halted emigration. Economic distress and migration persisted in the question's context.
 
+## July 11: Russian-oil tariff risk
+- Embedded clipping reports Trump's threat of a **500% tariff** against countries importing Russian oil, alongside a claim that trade talks with India were nearing agreement. Treat this as a source-period political threat/proposal, **not an enacted tariff already applying to every Indian export**.
+- Such secondary pressure can affect supplier choice, payment/shipping costs and India–US negotiations even where Russian discounts lower the crude purchase price. Existing FY2025-first-half import-dependence figures remain historical comparisons.
+
 ## PDF coverage
 
-2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3 · 2025-05-20: pp. 20, 21, 22, 23 · 2025-06-14: pp. 28, 29, 30, 31, 32, 33 · 2025-06-16: pp. 41, 42, 43, 44, 45, 46 · 2025-06-23: pp. 24, 25 · 2025-06-28: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9
+2025-01-14: pp. 10, 11, 12, 14, 17 · 2025-03-30: pp. 1, 2, 3 · 2025-05-20: pp. 20, 21, 22, 23 · 2025-06-14: pp. 28, 29, 30, 31, 32, 33 · 2025-06-16: pp. 41, 42, 43, 44, 45, 46 · 2025-06-23: pp. 24, 25 · 2025-06-28: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9 · 2025-07-11: pp. 15, 16
