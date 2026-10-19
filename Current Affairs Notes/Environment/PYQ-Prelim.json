@@ -707,6 +707,18 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "a"
+    },
+    {
+      "chapter": "Aravalli safari proposal and ecosystem protection",
+      "year": 2007,
+      "question": "In which State is the Guru Shikhar Peak located?",
+      "options": {
+        "a": "Rajasthan",
+        "b": "Gujarat",
+        "c": "Madhya Pradesh",
+        "d": "Maharashtra"
+      },
+      "answer": "a"
     }
   ]
 }

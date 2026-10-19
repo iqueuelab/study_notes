@@ -13,6 +13,13 @@
 - Eligibility includes Army/Navy/Air Force, territorial/reserve and other lawfully constituted forces under award rules. **Civilians, police and paramilitary personnel** can receive the not-in-enemy-presence awards; civilian eligibility should not be assumed identical for every decoration.
 - Service medals **Sena Medal, Nao Sena Medal, Vayu Sena Medal** recognise service-specific gallantry or distinguished devotion to duty, depending on the award category; awards can arise in wartime or peacetime. They are distinct from the six Chakra awards.
 
+## 16 December 2025: Param Vir Dirgha
+- President **Droupadi Murmu** inaugurated **Param Vir Dirgha at Rashtrapati Bhavan on Vijay Diwas, 16 December**, displaying portraits of all **21 Param Vir Chakra recipients**. Corridors previously displayed British ADC portraits; the issue reports **96 portraits** replaced. [President's Secretariat](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2204485&lang=1&reg=3).
+- Gallery combines military remembrance and public education with the government's decolonisation narrative. **Vijay Diwas commemorates the 1971 victory and Bangladesh's liberation**; gallery timing is distinct from the institution of PVC in 1950, already covered.
+- Example: **Captain Vikram Batra, Kargil 1999**. Existing notes explain enemy-presence criterion, posthumous awards and wartime/peacetime orders; photographs of the medals do not create additional awards.
+- Source places the change alongside **Rajpath → Kartavya Path; Ross Island → Netaji Subhas Chandra Bose Dweep; Neil → Shaheed Dweep; Havelock → Swaraj Dweep; Port Blair → Sri Vijaya Puram; Mughal Gardens → Amrit Udyan**, and the Navy ensign redesign. These are background examples, not all new December 2025 renamings.
+- Constitutional link: **Article 51A(b)** cherishing freedom-struggle ideals, **(c)** sovereignty/unity/integrity and **(e)** harmony. The source's ideological “Sanatan values” framing is governmental/editorial interpretation, not constitutional wording or a legal condition for citizenship.
+
 ## PDF coverage
 
-2025-05-23: pp. 11, 12, 13, 14 · 2025-05-25: pp. 15 · 2025-08-14: pp. 9, 10, 11
+2025-05-23: pp. 11, 12, 13, 14 · 2025-05-25: pp. 15 · 2025-08-14: pp. 9, 10, 11 · 2025-12-17: pp. 1, 2, 3

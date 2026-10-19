@@ -32,6 +32,13 @@
 - Practical mix: buses/metro and cleaner fleets, industrial compliance, covered construction/material handling, reliable waste collection, and affordable alternatives/incentives for residue management. Anti-smog guns, towers or cloud seeding cannot substitute for controlling the emissions inventory.
 - Comparative lessons: London's **ULEZ**, Los Angeles vehicle/fuel standards and regional coordination, Beijing's sustained industrial/energy controls. Adapt the mechanisms locally; the PDF's blanket Beijing coal-ban/35%-in-five-years claim lacks a consistent area/period and is not a transferable performance guarantee.
 
+## December 2025: Beijing’s clean-air governance lessons
+- Source contrasts Delhi’s emergency response with sustained Beijing policy: **2013 Air Pollution Prevention and Control Action Plan**, subsequent **Blue Sky** programme; cleaner heating/industry, vehicle standards/electric mobility, dense monitoring and **Beijing–Tianjin–Hebei airshed coordination**.
+- Correct source’s inconsistent **102 µg/m³ (2013) → 31 (2024)** series: Beijing officially reports **2024 annual PM2.5 30.5 µg/m³, 65.9% below 2013**. Do not mix alternative datasets or its separate “over 50% in 2013–2021” comparison. Meeting China’s national standard does not mean meeting WHO’s lower guideline. [Beijing government](https://english.beijing.gov.cn/latest/news/202505/t20250512_4087121.html).
+- **CAQM does have binding statutory direction powers** under **section 12, CAQM Act 2021**, with jurisdiction over NCR and defined adjoining areas affecting NCR air; the PDF claim it lacks binding authority over neighbouring States is wrong. Limits of jurisdiction and practical enforcement/cooperation are different from absence of legal power. [Act](https://www.indiacode.nic.in/bitstream/123456789/16898/1/A2021-29.pdf).
+- Existing NCAP/GRAP, source inventories and winter inversion notes apply. New governance emphasis: adequately staffed/funded regulators, credible PUC/testing and scrappage, public transport/charging, serviced industrial zones with continuous emissions monitoring, construction-dust/waste-burning controls and year-round regional accountability.
+- Congestion pricing and industrial relocation are proposed tools; relocation without cleaner technology/services can export pollution. Emergency school closures/odd-even/bans reduce episodic exposure but need measurable long-term emissions cuts. China’s institutional experience requires adaptation to India’s federal, administrative and social context.
+
 ## PDF coverage
 
-2025-04-24: pp. 3, 4, 5, 6 · 2025-07-09: pp. 6, 7, 8 · 2025-11-17: pp. 8, 9, 10, 11, 12
+2025-04-24: pp. 3, 4, 5, 6 · 2025-07-09: pp. 6, 7, 8 · 2025-11-17: pp. 8, 9, 10, 11, 12 · 2025-12-22: pp. 10, 11, 12, 13

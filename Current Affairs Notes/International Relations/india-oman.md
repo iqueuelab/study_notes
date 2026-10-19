@@ -15,6 +15,14 @@
 - Beyond the already-covered anticipated CEPA, the editorial proposes green hydrogen/renewables, strategic petroleum storage, critical minerals, defence production and offshore education campuses. These are possibilities at the issue date, not concluded operational outcomes.
 - **IMEC** remains a broader connectivity discussion; Oman is **not an original signatory** to the September 2023 memorandum ([official MoU](https://www.mea.gov.in/Images/CPV/Project-Gateway-Multilateral-MOU.pdf)). The source's implication of settled formal corridor membership is misleading.
 
+## 18 December 2025: CEPA signed
+- India–Oman **CEPA signed at Muscat**, a new stage after the prior issue's anticipated signing. Comprehensive agreements can cover goods/services, investment, professional mobility and regulatory cooperation; **FTA is not inherently restricted to goods**.
+- Oman offers **zero duty on 98.08% tariff lines, covering 99.38% of Indian export value**; India liberalises **77.79% lines/94.81% import value**. Tariff-line share differs from trade-value share. Labour-intensive exports—textiles, leather, footwear, gems/jewellery, engineering, pharma, medical devices, agriculture, plastics/furniture—gain access; sensitive exclusions/quotas protect specified Indian sectors.
+- **Mode 4** commitments: intra-corporate transferee quota **20% → 50%**; contractual service suppliers' stay **90 days → two years**, possible additional two years. **Mode 4 is temporary natural-person mobility**, not permanent immigration. [Commerce Ministry signing release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205889&lang=1&reg=1).
+- **Signing ≠ entry into force**; the source's “will now enter duty free” should be read as agreement commitments subject to implementation, origin rules and schedules. Oman is India's second GCC bilateral trade partner after UAE CEPA; Oman–US **2006** agreement is historical.
+- Source **FY2024–25 exports US$4.06 billion/imports about US$6.5 billion**, total about **US$10.61 billion**, already consistent with earlier bilateral notes. Gateway/logistics opportunities toward the Gulf/Africa depend on real routes/rules; signing does not give automatic preferential access to all GCC, Central Asian or Eastern European markets.
+- Embedded awards graphic notes PM Modi's **Order of Oman, 18 December 2025**, and Ethiopia's **Great Honour Nishan of Ethiopia, 16 December**. These are foreign civilian honours, not Indian gallantry decorations; the collage's running count is an issue-era graphic, not a permanent total. Other listed 2025 honours (Sri Lanka, Mauritius, Cyprus, Ghana, Trinidad and Tobago, Brazil, Namibia) are background rather than new December events.
+
 ## PDF coverage
 
-2025-12-11: pp. 23, 24, 25 · 2025-12-14: pp. 16 · 2025-12-16: pp. 7, 8, 9, 10
+2025-12-11: pp. 23, 24, 25 · 2025-12-14: pp. 16 · 2025-12-16: pp. 7, 8, 9, 10 · 2025-12-19: pp. 1, 2, 3, 4, 5

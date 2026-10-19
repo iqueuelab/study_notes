@@ -6083,32 +6083,98 @@
     {
       "date": "2025-12-17",
       "pdf": "2025/12-December/2025-12-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "9f2ccdf234ecc5ad3c53789a9c8434c9c6e19025f31ed0904a122bcc743452ae",
+      "pages": 10,
+      "topic_ids": [
+        "airborne-microplastics",
+        "apache-ah64e",
+        "gallantry-awards"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-18",
       "pdf": "2025/12-December/2025-12-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "5d864a0818a4279b0a784b51c62da07eb70012f4eef36bfcba597093951cbdeb",
+      "pages": 20,
+      "topic_ids": [
+        "aravalli-safari",
+        "chabahar",
+        "desert-cyclone",
+        "irdai",
+        "mh60r",
+        "nuclear-liability",
+        "obsolete-laws",
+        "pamir-ice-cores"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-19",
       "pdf": "2025/12-December/2025-12-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "62ed0f908e08e836a4ce61ab8cfde276d85dcefc9ca15a8ff24548ab1974a183",
+      "pages": 17,
+      "topic_ids": [
+        "diabetes",
+        "india-netherlands",
+        "india-oman",
+        "shakti-semiconductors"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-20",
       "pdf": "2025/12-December/2025-12-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "cd0a678f16c950f8c6c01f48207582ee8fa29826b5af3c000220f1dd54066f08",
+      "pages": 13,
+      "topic_ids": [
+        "defence-production",
+        "desert-park",
+        "kerala-reform",
+        "port-security-bureau"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-22",
       "pdf": "2025/12-December/2025-12-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6201c8a30be2b9288941b1e0625528841b02f92f8a07b6353034f7f859b02c98",
+      "pages": 16,
+      "topic_ids": [
+        "air-pollution-sources",
+        "bluebird",
+        "india-africa-trade",
+        "mgnrega",
+        "superkilonova"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-23",
       "pdf": "2025/12-December/2025-12-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "pages": 26,
+      "sha256": "9b24ad0a3abb2aed9b26f33849b9c9946a62bab42b5bbda761e3f4489691e227",
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "topic_ids": [
+        "anti-doping",
+        "asw-shallow-water-craft",
+        "defence-industry",
+        "india-new-zealand",
+        "maven",
+        "right-to-disconnect"
+      ]
     },
     {
       "date": "2025-12-24",
@@ -7422,7 +7488,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-12-17",
+  "next_pdf": "2025-12-24",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7564,6 +7630,11 @@
       "date": "2025-12-07",
       "status": "No standalone or combined issue found",
       "evidence": "No standalone 2025-12-07.pdf in the December source collection. Inspected adjacent physical PDFs: 2025-12-06 page 1 banner explicitly says 6th Dec. 2025; 2025-12-08 page 1 banner explicitly says 8 Dec. 2025. Neither claims combined 6–7 or 7–8 coverage. All 20 pages of Dec 6 reviewed; Dec 8 first page inspected only for gap evidence. No notes or review status invented for Dec 7."
+    },
+    {
+      "date": "2025-12-21",
+      "status": "No standalone or combined issue found",
+      "evidence": "Assigned jobs.json marks this date missing; checked Current Affairs/2025/12-December/2025-12-21.pdf absent and no matching dated daily PDF in month collection. No notes invented for absent issue. External legal verification of a 21 December Gazette is not review of a missing daily issue."
     }
   ]
 }

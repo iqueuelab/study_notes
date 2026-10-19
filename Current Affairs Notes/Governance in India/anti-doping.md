@@ -1,0 +1,12 @@
+# Anti-doping: WADA, NADA and sports integrity
+
+## December 2025: interpreting the 2024 testing figures
+- Source reports NADA's **7,113 samples, 260 adverse analytical findings (AAFs), ~3.6%** in the **2024** reporting year, with India again prominent among major testing programmes. **Samples/findings are not distinct convicted athletes or final anti-doping rule violations (ADRVs)**: TUEs, repeat results and case management can change outcomes. A high tested-sample positivity rate is not a population-prevalence estimate. [WADA testing report](https://www.wada-ama.org/sites/default/files/2025-12/2024_Anti-Doping%20Testing%20Figures%20Report_FINAL_v3.pdf).
+- Source sport counts: **athletics 76, weightlifting 43, wrestling 29, boxing/powerlifting 17 each, kabaddi 10**; retain as the issue's reported findings, not final sanctions. The same NADO table reports **China 24,214 samples/43 findings, France 91, Italy 85, Russia 76, US 76 and Germany 54 findings**; compare within the same authority/category basis. “No country above 1.75%” cannot be generalised to every small programme.
+- Source discusses university-event withdrawals, reported provisional suspension of wrestler Reetika Hooda, IOA anti-doping panel and India's **2030 Commonwealth Games hosting/2036 Olympic bid ambitions**. These are distinct evidence types; provisional suspension is not a final guilt finding and anecdotes do not quantify national doping prevalence.
+- **WADA established 1999, Montreal**: independent international organisation, equally funded by governments and Olympic Movement; harmonises **World Anti-Doping Code, Prohibited List and international standards**, research, education, intelligence and compliance. **Foundation Board** sets broad policy, **Executive Committee** oversees implementation; **NADA** administers India's system.
+- National Anti-Doping Amendment legislation in **2025** concerns alignment and institutional independence; the **2022 Act enacted** the basic prohibition/testing/adjudication framework. **Passage/assent and commencement are distinct**; do not infer the new statutory framework was operative in December merely from parliamentary passage. Improve athlete/support-staff education, supplement safety, intelligence-led testing, laboratory capacity and fair, timely hearings; more testing and better prevention are complementary.
+
+## PDF coverage
+
+2025-12-23: pp. 22, 23, 24, 25, 26

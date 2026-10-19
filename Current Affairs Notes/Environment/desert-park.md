@@ -13,6 +13,13 @@
 ## UPSC Prelims 2020
 - Statements: **(1) spread over two districts—correct; (2) no human habitation—incorrect; (3) natural habitat of GIB—correct**. Answer **(c) 1 and 3 only**; full question in common Environment PYQ-Prelim JSON.
 
+## 19 December 2025: GIB conservation and corporate responsibility
+- **M.K. Ranjitsinh v Union of India** judgment directs revised priority areas of **14,013 km² Rajasthan and 740 km² Gujarat**; these are conservation planning areas, not Desert National Park’s own area. Orders immediate committee measures for **in-situ/ex-situ conservation and monitoring**, plus long-term climate-impact studies. [Supreme Court judgment, paragraphs 35–40, 76](https://api.sci.gov.in/supremecourt/2019/20754/20754_2019_6_1501_67109_Judgement_19-Dec-2025.pdf).
+- Court links **section 135 Companies Act CSR**, **section 166(2) directors’ environmental duties**, **Schedule VII environmental activities** and **Article 51A(g)**. Corporations share environmental responsibility; CSR cannot mean philanthropy alongside ecological harm.
+- **Polluter pays**: companies threatening endangered-species habitat must bear recovery costs; CSR should support conservation. In-situ protects wild habitats; ex-situ includes conservation breeding outside them. Corporate duties do not remove government’s conservation obligations.
+- Separate **statutory CSR thresholds** from the broader environmental obligation; the judgment does not newly require every company irrespective of statutory eligibility to spend the same CSR percentage. Nor does it make every ecological harm lawful upon payment.
+- Conservation and renewable-energy infrastructure need location-sensitive line routing/mitigation rather than blanket assumptions that all overhead lines everywhere must be buried. Existing notes cover GIB’s critically endangered status, Thar grasslands, habitat loss and collision risks; source bird/population graphics are not a new national census.
+
 ## PDF coverage
 
-2025-01-14: pp. 8, 9, 10, 14, 17 · 2025-01-19: pp. 11, 38, 39
+2025-01-14: pp. 8, 9, 10, 14, 17 · 2025-01-19: pp. 11, 38, 39 · 2025-12-20: pp. 7, 8, 9, 10

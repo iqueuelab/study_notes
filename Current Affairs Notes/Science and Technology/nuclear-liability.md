@@ -43,6 +43,11 @@
 - Policy aim: reliable low-carbon power, domestic manufacturing, investment and technology; assess independent oversight, safety/emergency readiness, waste, insurance, adequate victim compensation and public trust. Nuclear capacity is non-fossil, not renewable.
 - Existing targets remain **100 GW by 2047**, **₹20,000 crore SMR mission**, not delivered capacity; the sheet's **8.8 GW** is a December-era rounded baseline. Its **220-MW PHWR/Bharat Small Reactor** reference differs from generic SMR research. [DAE explanatory overview](https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=156593&lang=1&reg=1).
 
+## December 2025: SHANTI Bill clears Lok Sabha
+- Image-only clipping reports Lok Sabha passage on **17 December** of **Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Bill, 2025**. It proposes replacement of **Atomic Energy Act 1962/CLND Act 2010**, licensing private participation and statutory standing for the nuclear regulator; this is a parliamentary stage, not proof operative repeal had occurred by the issue date.
+- Debate concerns **operator compensation caps, government backstop, supplier recourse for defective equipment, licensing and regulator independence**. Victims' primary claims against operators and subsequent recourse against suppliers are distinct. Government argued safeguards remain; opposition challenged accountability and the speed of consideration. [DAE account of debate](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205519&lang=1&reg=1).
+- The **100 GW by 2047** goal already recorded requires capital, safety/regulatory capacity, waste management and viable tariffs; legal permission alone does not achieve capacity or establish every foreign company may own reactors.
+
 ## PDF coverage
 
-2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19 · 2025-06-17: pp. 1, 2, 3, 4, 5 · 2025-07-23: pp. 14, 15, 16, 17 · 2025-10-07: pp. 4, 5, 6, 7 · 2025-12-16: pp. 5, 6, 7
+2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19 · 2025-06-17: pp. 1, 2, 3, 4, 5 · 2025-07-23: pp. 14, 15, 16, 17 · 2025-10-07: pp. 4, 5, 6, 7 · 2025-12-16: pp. 5, 6, 7 · 2025-12-18: pp. 20

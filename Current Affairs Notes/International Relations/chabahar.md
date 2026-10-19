@@ -24,6 +24,10 @@
 - Temporary relief supports continuity of Shahid Beheshti terminal operations and Afghan/Central Asian connectivity while leaving renewal, transaction-specific compliance, banking and insurance uncertainty. It does not create permanent immunity or establish that all September risks have disappeared.
 - Geography, 2024 ten-year agreement, ₹200/₹400 crore source investment and 43% historical vessel-traffic figure repeat earlier coverage. **2017 Chabahar (c)** and **2016 BRI (d)** are already in the common Prelim bank; retain their existing full options.
 
+## December 2025: first Coast Guard port call
+- **ICGS Sarthak**, an **offshore patrol vessel**, visited **Chabahar, Iran, 16–19 December 2025**, the **first Indian Coast Guard ship visit to this port**. This is distinct from India's earlier commercial terminal operations and Navy visits elsewhere. [Defence Ministry, 17 December](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205444&lang=1&reg=3).
+- Planned professional exchanges with Iranian maritime agencies address **search and rescue, maritime law enforcement, marine pollution, MRCC coordination and VBSS**; port calls support maritime cooperation and Indian connectivity interests toward Afghanistan/Central Asia. The visit does not itself alter sanctions exemptions or complete onward transport infrastructure.
+
 ## PDF coverage
 
-2025-02-09: pp. 9, 10, 11, 12, 13 · 2025-09-19: pp. 9, 10, 11 · 2025-10-31: pp. 1, 2, 3
+2025-02-09: pp. 9, 10, 11, 12, 13 · 2025-09-19: pp. 9, 10, 11 · 2025-10-31: pp. 1, 2, 3 · 2025-12-18: pp. 20

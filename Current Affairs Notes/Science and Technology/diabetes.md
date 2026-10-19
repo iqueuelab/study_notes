@@ -21,6 +21,13 @@
 - Strengthen longitudinal NCD care at Ayushman Arogya Mandirs, affordable insulin/medicines and testing, nutrition/activity support, tobacco control and maternal screening; telemedicine can complement local services. Health education can reduce type 2 risk and complications, not prevent all childhood/type 1 diabetes.
 - Epidemiological numbers depend on year, age coverage and method. The source’s “77 million, IDF 2021” attribution is unreliable; avoid presenting it as India’s current total or an official “diabetes capital” ranking.
 
+## December 2025: IDF Atlas 11th edition
+- **2024 estimate: 589 million adults aged 20–79 (11.11%); 2050 projection: 853 million (12.96%)**. The PDF headline rounds the latter toward “900 million”; preserve the actual estimate and age group. Study covers **215 countries/territories**, using surveys/models and extrapolation where data are absent. Forecasts are conditional, not a future census. [Published study](https://pubmed.ncbi.nlm.nih.gov/41412135/).
+- **China ~148 million, India ~90 million, USA ~38.5 million, Pakistan ~34.5 million in 2024**; source projects Pakistan overtaking USA by 2050. Absolute numbers differ from age-standardised prevalence rankings. [IDF Atlas country table](https://www.ncbi.nlm.nih.gov/books/NBK618744/table/wrap_table-3.4/).
+- Source urban/rural counts **~400/~189 million in 2024 → ~655/~198 million in 2050** highlight urban growth; these are modelled setting-based aggregates. Rural populations still face substantial disease and underdiagnosis; “urban lifestyle disease” alone ignores genetics, ageing, poverty, food environments and unequal access.
+- Existing notes cover type 1/type 2, insulin resistance/deficiency, vascular/renal/retinal complications and prevention/care. Population response: healthier food/activity environments, early detection and longitudinal primary care, affordable medicines/insulin, complication screening and financial protection. Prevention can reduce type 2 risk but is not a guarantee against every type or every case.
+- Costs include household expenditure, lost productive work and pressure on health systems. “Diabetes capital of the world” is an informal label, not an official epidemiological category; dated Atlas figures should not be mixed with surveys covering different ages/diagnostic methods.
+
 ## PDF coverage
 
-2025-04-07: pp. 11, 12, 13, 14 · 2025-04-11: pp. 13, 14, 15, 16, 17
+2025-04-07: pp. 11, 12, 13, 14 · 2025-04-11: pp. 13, 14, 15, 16, 17 · 2025-12-19: pp. 10, 11, 12

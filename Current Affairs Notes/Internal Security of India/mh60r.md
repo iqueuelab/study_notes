@@ -7,6 +7,12 @@
 - First MH-60R squadron **INAS 334**, commissioned **6 March 2024 at INS Garuda, Kochi** ([Defence Ministry](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2012589&lang=2&reg=48)); expansion combines imported platforms with domestic capability-building, rather than calling the MH-60R itself indigenous.
 - Existing PYQs: **INS Astradharini (2016)—torpedo launch and recovery vessel (c)**; **Dhruv (2008)—advanced light helicopter (c)**. These full questions are already in existing banks.
 
+## 17 December 2025: second MH-60R squadron commissioned
+- Embedded clipping reports commissioning at **INS Hansa, Goa**: **INAS 335, Ospreys**. **Correction: PDF's repeated INAS 336 is wrong**; this follows the commissioning scheduled in the earlier 15 December coverage. [Defence announcement naming squadron/date](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2203716&lang=2&reg=48).
+- **Sikorsky/Lockheed Martin MH-60R Seahawk**, US-origin multi-role maritime helicopter, adds ASW/anti-surface, surveillance, SAR, medical evacuation and replenishment capability. Sonobuoys, sonar, radar/electro-optics and weapons support detection and response; fits vary by configuration and mission.
+- India's **24-aircraft acquisition programme** is not evidence all 24 were delivered/operational at this date. Source's **US$1.5-billion purchase figure** lacks clear contract scope and is not retained as settled total procurement cost. It separately cites a **five-year sustainment agreement**, for maintenance/spares/technical support; sustainment and acquisition costs differ.
+- **Correction:** Operation Neptune Spear's modified Black Hawks should not be identified as operational **MH-60R Seahawks**. Helicopter-family resemblance does not make variants/interoperable roles identical. Fleet reach depends on crews, ship compatibility, logistics and sustainment, not the helicopter count alone.
+
 ## PDF coverage
 
-2025-12-15: pp. 4, 5
+2025-12-15: pp. 4, 5 · 2025-12-18: pp. 14, 15, 16
