@@ -33,6 +33,12 @@
 - Repeated status/biology/Operation Olivia material is already covered: **Vulnerable / Schedule I / CITES I**; Coast Guard operation runs **November–May**, not just November–December. The source's **6.98-lakh** nesting graphic refers to the already recorded **Rushikulya February 2025** record, not a new January Andhra Pradesh count. Nest temperature, rather than ocean temperature alone, governs hatchling sex ratios.
 - Embedded Operation Olivia question is **NDA 02/2021**, not CSE; answer **Indian Coast Guard**, excluded from CSE PYQ banks. Supplementary turtle graphic contains dated/conflated global statuses and is not a replacement for species/population-specific assessments.
 
+## 4 February 2026: turtle-trail proposal and nesting safeguards
+- Union Budget **2026–27** proposed **turtle trails in Odisha, Karnataka and Kerala**. This is a tourism-development proposal; the issue did not establish detailed approved construction plans or permission to enter active nesting grounds.
+- Conservationists fear lighting, photography, noise, foot traffic and beach structures could disrupt nesting/hatchling orientation; they favour expert consultation, sensitive-zone exclusion, habitat protection and fishing enforcement before tourism expansion. **Gahirmatha and Rushikulya** are major Odisha arribada sites; the **6.98-lakh Rushikulya February 2025** count is earlier background.
+- Regulate visitor numbers, timing and lights; preserve open nesting habitat and community stewardship; assess coastal-regulation and wildlife requirements. The issue's absolute claim that **no country permits tourism at active mass-nesting beaches** is not established and should not be memorised as a global legal rule.
+- Pages 3–5 repeat the already recorded Andhra Pradesh carcass/bycatch report, biology, **IUCN Vulnerable / Schedule I / CITES I**, TEDs, tagging and **Operation Olivia (November–May)**. The initial ‘Endangered’ shorthand conflicts with formal IUCN status; nest incubation temperature, not ocean warming alone, determines hatchling sex ratios. NDA Operation Olivia question is not CSE.
+
 ## PDF coverage
 
-2025-02-22: pp. 7, 8, 9 · 2025-05-20: pp. 1, 2, 3 · 2025-05-21: pp. 14, 15, 16, 17 · 2026-01-05: pp. 1, 2, 3
+2025-02-22: pp. 7, 8, 9 · 2025-05-20: pp. 1, 2, 3 · 2025-05-21: pp. 14, 15, 16, 17 · 2026-01-05: pp. 1, 2, 3 · 2026-02-04: pp. 1, 2, 3, 4, 5

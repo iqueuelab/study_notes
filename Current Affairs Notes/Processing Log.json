@@ -6819,12 +6819,32 @@
     {
       "date": "2026-02-04",
       "pdf": "2026/02-February/2026-02-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4889abe7e88400e9b34f2db4948cb8063bdf86716d51081dadc67d3482e8a5ac",
+      "pages": 21,
+      "topic_ids": [
+        "death-penalty",
+        "manual-scavenging",
+        "mplads",
+        "olive-ridley"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-05",
       "pdf": "2026/02-February/2026-02-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ff3762d2a47e67331c66e1a1720443556e8ee74f7d5618653784c6d0af0f724d",
+      "pages": 17,
+      "topic_ids": [
+        "dnt-seed",
+        "khanjar",
+        "presidents-rule",
+        "wetlands-governance"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-07",
@@ -7948,7 +7968,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-02-04",
+  "next_pdf": "2026-02-07",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

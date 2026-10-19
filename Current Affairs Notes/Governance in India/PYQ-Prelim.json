@@ -116,6 +116,18 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "a"
+    },
+    {
+      "year": 2020,
+      "chapter": "MPLADS: local assets, fund rules and accountability",
+      "question": "With reference to the funds under the Members of Parliament Local Area Development Scheme (MPLADS), which of the following statements are correct?\n1. MPLADS funds must be used to create durable assets like physical infrastructure for health, education, etc.\n2. A specified portion of each MP’s fund must benefit Scheduled Castes and Scheduled Tribes populations.\n3. MPLADS funds are sanctioned on a yearly basis and the unused funds cannot be carried forward to the next year.\n4. The district authority must inspect at least 10% of all works under implementation every year.\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 and 4 only",
+        "c": "1, 2 and 3 only",
+        "d": "1, 2 and 4 only"
+      },
+      "answer": "d"
     }
   ]
 }

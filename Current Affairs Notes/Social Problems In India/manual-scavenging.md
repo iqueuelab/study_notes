@@ -21,6 +21,14 @@
 - NAMASTE expanded to **waste pickers in June 2024**; the **Waste Picker Enumeration App launched 5 June 2025**. Its **over 80,000 enumerated/validated as of 29 May 2025** were **sewer/septic-tank workers**, not 80,000 waste pickers. Support includes safety equipment/training, health coverage and livelihood finance. [Ministry release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2134303&lang=2&reg=48).
 - Distinguish the scheme's original sanitation remit, later waste-picker expansion and app launch; the PDF's generic “launched in 2024” mixes these stages.
 
+## 4 February 2026: waste-picker enumeration and caste-linked work
+- Parliament data reported **about 1.52 lakh waste pickers profiled/validated across urban areas of 35 States/UTs**, an **ongoing enumeration**, not a census of every Indian waste picker. The issue reports **SC 60.3%, OBC 13.7%, ST 10.5% (84.5% combined)**; **10.7% General**, with a residual category. Women constituted **48.7%**, men **51.3%**, and transgender persons **0.007%** (rounding applies).
+- Delhi (**4,289 of over 6,500**) and Goa (**729 of 1,286**) had General-category majorities in this enumerated group; a national concentration does not eliminate regional variation or prove every person's occupation is inherited.
+- Waste picking recovers reusable/recyclable solid materials for sale. **Waste pickers, manual scavengers and sewer/septic-tank workers are distinct categories**; do not transfer their demographic shares or mortality denominators to each other. The report's **859 deaths since 2014** concerns hazardous sewer/septic-tank cleaning, not waste-picker fatalities.
+- NAMASTE supports formal recognition, protective equipment/training, health coverage, safer work and livelihood finance. ULB integration, worker collectives, contractor accountability and alternative skills should accompany mechanisation and caste-discrimination safeguards. Its waste-picker expansion/app chronology is already covered. [Ministry background on the waste-picker component](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc2025925646901.pdf).
+- Repeated legal material retains the statutory distinction between manual scavenging and hazardous cleaning. The **2013 Act** is the operative law; the source's separate ‘Building and Maintenance of Insanitary Latrines Act, 2013’ is not a distinct Act, and the **2020 initiative is not an enacted amendment**. Existing notes retain the **2023 ₹30-lakh sewer-death compensation direction**, correcting the repeated historical ₹10-lakh-only shortcut.
+- **2016 Garima Abhiyaan PYQ: c**, already in the subject bank; retain its eradication-and-rehabilitation explanation without duplicating the question.
+
 ## PDF coverage
 
-2025-04-28: pp. 4, 5, 6, 7, 8 · 2025-07-23: pp. 4, 5, 6, 7, 8, 9 · 2025-07-24: pp. 7, 8
+2025-04-28: pp. 4, 5, 6, 7, 8 · 2025-07-23: pp. 4, 5, 6, 7, 8, 9 · 2025-07-24: pp. 7, 8 · 2026-02-04: pp. 5, 6, 7, 8, 9, 10, 11

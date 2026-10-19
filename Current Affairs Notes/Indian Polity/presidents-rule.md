@@ -19,6 +19,11 @@
 - Article 356 history includes inconsistent Governor responses to dissolution advice and political misuse; majority should ordinarily be tested on the floor. Existing notes cover approval, duration, Bommai judicial review and federal safeguards.
 - **Restoring a viable majority-supported government need not always await fresh elections**. The clipping's usual-election sequence is not a universal constitutional condition for revocation; suspended Assembly permits constitutionally valid alternatives. **Bihar 2005 events/Rameshwar Prasad 2006**, and **Uttarakhand/Arunachal 2016** illustrate judicial intervention; dates of events and judgments differ.
 
+## 5 February 2026: Manipur government restored
+- The issue reports the end of President's Rule and **Yumnam Khemchand Singh's oath as Chief Minister on 4 February 2026**, with **Nemcha Kipgen and Losii Dikho** as Deputy Chief Ministers. [PMO confirmation](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223363&lang=1&reg=3).
+- A suspended Assembly can support restoration of representative government without first holding a fresh election; revocation is not automatic dissolution. Existing notes retain **two-month approval, six-month renewals, three-year ceiling**, both conditions for extension beyond one year, judicial review and floor-test safeguards.
+- Correct repeated explainer shortcuts: ordinary disorder, election delay or a hung House is **not automatically Article 356 breakdown**; **Article 357** concerns delegated State legislative power, not a generic power to issue ordinances; **Article 123** is the separate ordinance provision. Punchhi's localised-emergency recommendation remains a proposal.
+
 ## PDF coverage
 
-2025-02-14: pp. 1, 2, 3, 4, 5 · 2025-06-03: pp. 42
+2025-02-14: pp. 1, 2, 3, 4, 5 · 2025-06-03: pp. 42 · 2026-02-05: pp. 1, 2, 3

@@ -283,6 +283,7 @@
 - [Karnataka State Water Commission proposal](Governance in India/karnataka-water-commission.md)
 - [Kerala’s development model: fiscal, employment and ecological reform](Governance in India/kerala-reform.md)
 - [Khelo India and youth sports](Governance in India/khelo-india.md)
+- [MPLADS: local assets, fund rules and accountability](Governance in India/mplads.md)
 - [Marital cruelty law and safeguards against violence](Governance in India/marital-cruelty.md)
 - [Municipal finance, fiscal decentralisation and bonds](Governance in India/municipal-finance.md)
 - [NFSA and PDS: entitlements, targeting and exclusion safeguards](Governance in India/nfsa-pds.md)

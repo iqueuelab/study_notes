@@ -2272,6 +2272,21 @@
     {
       "issue_date": "2026-02-03",
       "reason": "CDS-I 2025 mountain-gorilla question excluded as non-CSE; wetlands 250-word/15-mark mains question explicitly practice."
+    },
+    {
+      "issue_date": "2026-02-04",
+      "reason": "NDA 02/2021 Operation Olivia question excluded as non-CSE; complete 2016 Rashtriya Garima Abhiyaan already in Social Problems In India common bank, no duplicate."
+    },
+    {
+      "issue_date": "2026-02-05",
+      "year": 2019,
+      "question": "Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:\n1. PVTGs reside in 18 States and one Union Territory.\n2. A stagnant or declining population is one of the criteria for determining PVTG status.\n3. There are 95 PVTGs officially notified in the country so far.\n4. Irular and Konda Reddi tribes are included in the list of PVTGs.\nWhich of the statements given above are correct?",
+      "reason": "Parent inspected saved official UPSC2019 GS-I bookletA Q51 physicalpage23. All four options restored exactly, supplied keyc consistent with75 ratherthan95PVTGs. Fullquestion entered common subjectPrelimbank.",
+      "status": "resolved_original_paper"
+    },
+    {
+      "issue_date": "2026-02-05",
+      "reason": "Embedded OAS 2018 Montreux Record item excluded as State-PSC, not UPSC CSE."
     }
   ],
   "resolved": [
