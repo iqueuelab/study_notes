@@ -7017,32 +7017,97 @@
     {
       "date": "2026-02-18",
       "pdf": "2026/02-February/2026-02-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6be48e873e380c5b3db7e7c3a5010df13403bdc14fa1f2601ca11a197cac25a8",
+      "pages": 17,
+      "topic_ids": [
+        "ai-governance",
+        "food-safety",
+        "h125",
+        "snowball-earth"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-19",
       "pdf": "2026/02-February/2026-02-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6039a7e029eae35350de05e0e27151a30e9d98fdc2567b555f21d6c4ad9fcbc0",
+      "pages": 22,
+      "topic_ids": [
+        "ai-education",
+        "ai-governance",
+        "ai-kosha",
+        "apples",
+        "loggerhead-turtle"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-20",
       "pdf": "2026/02-February/2026-02-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "aec7658df739d7b6ee1d9a5037f79ea6b00610e10542206e9e4031cc84725042",
+      "pages": 18,
+      "topic_ids": [
+        "critical-minerals",
+        "dgca",
+        "nilgiri-tahr",
+        "rti"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-21",
       "pdf": "2026/02-February/2026-02-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "1ffa1d283e67276e08eb40ae157d41b6f1e7904f8082e2c9e3ff56b1a6e76f16",
+      "pages": 21,
+      "topic_ids": [
+        "export-promotion-mission",
+        "pac",
+        "pax-silica",
+        "sankalp-skilling"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-23",
       "pdf": "2026/02-February/2026-02-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "ae591dff550a14ead9552a7014a124ca1c58f4b8b238e388d0538139dfbb93f9",
+      "pages": 30,
+      "topic_ids": [
+        "apples",
+        "brazil-geography",
+        "global-capability-centres",
+        "india-brazil-partnership",
+        "parliamentary-speech-expunction",
+        "tariff-trade",
+        "womens-reservation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-24",
       "pdf": "2026/02-February/2026-02-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "12277c80216cff910b5b80acaadd590bd86fbed898518e67d2aea3fcb116e635",
+      "pages": 17,
+      "topic_ids": [
+        "agricultural-pesticides",
+        "eci-appointments",
+        "food-safety",
+        "green-hydrogen",
+        "prahaar-counter-terrorism"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-25",
@@ -8086,7 +8151,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-02-18",
+  "next_pdf": "2026-02-25",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -8273,6 +8338,11 @@
       "date": "2026-02-08",
       "status": "No standalone or combined issue found",
       "evidence": "Assigned source collection/jobs inventory has no daily PDF for this date; no notes or review invented."
+    },
+    {
+      "date": "2026-02-22",
+      "status": "No standalone or combined issue found",
+      "evidence": "No PDF for 22 February in the source inventory/jobs.json; reviewed available physical files dated 21 and 23 February, without inventing notes for the missing date."
     }
   ]
 }

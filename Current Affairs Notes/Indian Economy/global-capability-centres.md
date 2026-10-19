@@ -10,6 +10,12 @@
 - Policy trade-offs: state competition versus national coordination; infrastructure/talent diversity; cross-border mobility, double taxation, data localisation and legal predictability. Measure value addition, skills and innovation, not simply number of foreign-owned offices.
 - [Official 6 May conclusion announcement](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2127321&lang=2&reg=48) distinguishes conclusion of negotiations from signature/entry into force.
 
+## February 2026: from service support to product ownership
+- Editorial describes GCCs moving towards **end-to-end product responsibility, R&D, AI/semiconductor work and global strategic decisions**, beyond the already covered captive-centre model. **Follow-the-sun** handoffs across time zones can sustain continuous work; they do not imply every individual works round the clock.
+- Tier-II/III expansion, including Coimbatore, Indore and Kochi, can broaden skilled employment and reduce concentration. Talent in AI security, cloud architecture and quantum cryptography, reliable infrastructure, IP protection and cyber resilience constrain growth.
+- Source estimates **1,800-plus centres/~2 million workers** and **58% investing in agentic AI** are dated industry/editorial claims with incomplete survey definitions. Its text incorrectly extends the 58% to every listed advanced technology; retain the agentic-AI qualification and avoid treating a capability trend as a national census.
+- **DPDP compliance is phased**, so the 2023 Act's passage does not mean all duties were already operational in February 2026. [November 2025 phased implementation](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2190014&lang=1&reg=3). Global minimum-tax rules differ by jurisdiction; a 15% model is not proof India imposed a uniform 15% GCC tax. A proposed single-window clearance/regulatory sandbox is policy advocacy, not an already operative entitlement.
+
 ## PDF coverage
 
-2025-07-22: pp. 13, 14, 15, 16, 17
+2025-07-22: pp. 13, 14, 15, 16, 17 · 2026-02-23: pp. 19, 20, 21, 22

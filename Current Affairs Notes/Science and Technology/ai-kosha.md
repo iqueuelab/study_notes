@@ -21,6 +21,12 @@
 - Source **65,000 jobs cut at TCS/Infosys/Wipro in 2024** is an employment-change claim, not proof AI caused all reductions. **26% workforce exposure** estimates potential task exposure, not realised job loss or certain replacement.
 - Proposals: Cabinet strategy presented to Parliament, dedicated parliamentary oversight, national study of sector/region/group employment effects, reskilling and social protection. These were recommendations, not newly established institutions; Global South/GPAI leadership needs domestic credibility.
 
+## February 2026: compute partnerships and indigenous models
+- The issue reports **NVIDIA collaboration with Yotta, L&T and E2E Networks** for Indian AI cloud/data-centre capacity and model deployment. Distinguish announcements from installed/operational compute; hardware procurement, power/cooling, networking and trained staff all matter.
+- **Yotta's 18 February announcement** envisaged **20,736 NVIDIA Blackwell Ultra GPUs**, over **US$2 billion investment**, with operations expected by August 2026. The announced plan is not evidence that this full capacity was already available in February. [Yotta announcement](https://yotta.com/press-releases/yotta-to-deploy-20000-nvidia-blackwell-ultra-gpus/).
+- The clipping describes Sarvam's indigenous model announcement as **35B/105B**. Contemporary NVIDIA technical documentation identifies the smaller model as **Sarvam 30B**, not 35B; the larger announcement in the issue is **105B**. An announced model and promise of open weights do not establish that weights were already publicly downloadable. [NVIDIA technical account, 18 February](https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/).
+- A **parameter** is a learned model value, not a direct score of intelligence. More parameters alone do not guarantee better performance: data quality, training, architecture, task and evaluation matter. **Fine-tuning** adapts a trained model; **inference** uses it to generate an output. Domestic training capability, access/control and representative Indian-language data are distinct dimensions of technological autonomy.
+
 ## PDF coverage
 
-2025-03-07: pp. 2, 3, 4 · 2025-04-28: pp. 19, 20, 21, 22, 23 · 2025-07-03: pp. 5, 6, 7, 8
+2025-03-07: pp. 2, 3, 4 · 2025-04-28: pp. 19, 20, 21, 22, 23 · 2025-07-03: pp. 5, 6, 7, 8 · 2026-02-19: pp. 1, 2, 3, 4, 5

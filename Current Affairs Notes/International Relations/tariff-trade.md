@@ -60,6 +60,11 @@
 - **Ad valorem** means a percentage of value. US$724million is the proposed equivalent suspension/concession value tied to the burden, not simply US$724million of import trade lost.
 - Product/rate lists were not supplied in this report. Coordination of litigation, negotiations and domestic adjustment matters; escalation can affect automobiles, equipment and consumer-goods supply chains despite broader strategic cooperation. Article8 contains conditions/timing; lack of consultation alone is not a universal automatic retaliation licence.
 
+## February 2026: IEEPA ruling and the replacement surcharge
+- **20 February: Learning Resources v Trump** held that **IEEPA does not authorise presidential tariffs**. This concerns the statutory basis of the challenged emergency tariffs, not a judicial abolition of all US customs duties or every Section 232/301 measure. [Supreme Court opinion](https://www.supremecourt.gov/opinions/25pdf/24-1287_new_3135.pdf).
+- The same day's proclamation used **Section 122, Trade Act 1974**, for a **10% temporary import surcharge**, scheduled **24 February**, lasting **150 days** unless extended by Congress, with exclusions. The statute permits a rate up to **15%**; the issue's **21 February announcement of a rise to 15%** must be distinguished from the signed 10% proclamation and actual collection. [White House proclamation](https://www.whitehouse.gov/presidential-actions/2026/02/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems/).
+- India was assessing implications while exporters faced uncertainty over replacement legal tools, sectoral coverage and negotiations. Avoid calculating one universal landed rate by assuming all previous duties disappeared or stacking the announced surcharge indiscriminately with every sectoral tariff.
+
 ## PDF coverage
 
-2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20 · 2025-05-14: pp. 13, 17 · 2025-06-01: pp. 15, 18, 19 · 2025-06-23: pp. 33, 34, 35, 36 · 2025-07-05: pp. 6, 7
+2025-02-03: pp. 6, 7, 8, 9 · 2025-02-05: pp. 3, 4, 5 · 2025-04-15: pp. 19, 20 · 2025-05-14: pp. 13, 17 · 2025-06-01: pp. 15, 18, 19 · 2025-06-23: pp. 33, 34, 35, 36 · 2025-07-05: pp. 6, 7 · 2026-02-23: pp. 3, 4, 7

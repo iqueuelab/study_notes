@@ -200,6 +200,18 @@
         "d": "1, 2 and 3"
       },
       "answer": "a"
+    },
+    {
+      "year": 2013,
+      "chapter": "Public Accounts Committee and parliamentary financial control",
+      "question": "Consider the following statements:\nThe Parliamentary Committee on Public Accounts\n1. consists of not more than 25 Members of the Lok Sabha\n2. scrutinizes appropriation and finance accounts of the Government\n3. examines the report of the Comptroller and Auditor General of India\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
     }
   ]
 }

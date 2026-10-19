@@ -12,6 +12,13 @@
 - **Cabinet approval 12 November 2025** converts August's proposal into an approved **₹25,060 crore, six-year Mission**. Commerce, MSME and Finance jointly implement with DGFT, overseas missions, EPCs, commodity boards and industry. **Niryat Protsahan** addresses finance/credit; **Niryat Disha** addresses standards, branding, market access/logistics. Avoid presenting repeated November approval as a second January approval.
 - Labour-intensive textiles, leather, gems/jewellery, engineering and marine products face market/credit constraints. Link district export hubs and diversification to competitive additional exports; source **~21% GDP/45 million jobs/~45% MSME exports/~2.5% world exports** are dated rounded indicators with different denominators, not measured Mission outcomes.
 
+## 20 February 2026: seven additional interventions
+- **Niryat Protsahan:** export factoring (**2.75%** subvention; **₹50 lakh/MSME/year** cap); e-commerce credit; shared-risk instruments for emerging/high-risk markets.
+- E-commerce: direct credit up to **₹50 lakh /90% guarantee**; overseas inventory up to **₹5 crore /75% guarantee**. Their **2.75% subvention** has a **₹15 lakh/applicant/year** ceiling; do not apply that ceiling to every EPM component.
+- **Niryat Disha:** **TRACE** testing/certification (**60%/75%**, ₹25 lakh/IEC/year); **FLOW** overseas fulfilment (**up to 30%** approved project cost, maximum three years); **LIFT** eligible freight (**up to 30%**, ₹20 lakh/IEC/FY); **INSIGHT** trade intelligence/capacity (**up to 50%**, eligible public proposals up to 100%, subject to ceilings).
+- These supplement three operating measures—market access, shipment-credit interest subvention and collateral support—bringing **10 of 11 proposed interventions** into operation. [Commerce Ministry launch](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230664&lang=2&reg=48).
+- The repeated market-access clipping's future **31 January 2026** guideline target identifies older material. Existing notes already retain the ₹25,060 crore Mission, ₹4,531 crore MAS allocation and event conditions; this is not a new approval of those amounts.
+
 ## PDF coverage
 
-2025-08-31: pp. 9, 10 · 2026-01-01: pp. 16, 17, 18, 19
+2025-08-31: pp. 9, 10 · 2026-01-01: pp. 16, 17, 18, 19 · 2026-02-21: pp. 14, 15, 16, 17, 18, 19, 20

@@ -2360,6 +2360,79 @@
       "status": "duplicate",
       "question": "Ten Degree Channel island pair",
       "reason": "Already in common Environment Prelim bank."
+    },
+    {
+      "issue_date": "2026-02-19",
+      "pages": [
+        11,
+        12
+      ],
+      "status": "duplicate_existing",
+      "year": 2024,
+      "question": "India does not import apples from the United States of America / competent-authority approval for GM food imports",
+      "reason": "Complete authentic question already present in Indian Economy/PYQ-Prelim.json; answer d; no duplicate added."
+    },
+    {
+      "issue_date": "2026-02-20",
+      "pages": [
+        7,
+        8
+      ],
+      "status": "duplicate_existing",
+      "year": 2012,
+      "question": "Recently, there has been a concern over the short supply of a group of elements called rare earth metals. Why?",
+      "reason": "Complete authentic question and four options already present in Science and Technology/PYQ-Prelim.json, answer c; supplied pages omit options."
+    },
+    {
+      "issue_date": "2026-02-19",
+      "pages": [
+        17
+      ],
+      "status": "practice_excluded",
+      "reason": "Creativity/intellectual-regression mains prompt is explicitly expected/practice, not an authentic UPSC PYQ."
+    },
+    {
+      "issue_date": "2026-02-20",
+      "pages": [
+        13,
+        14,
+        17
+      ],
+      "status": "practice_excluded",
+      "reason": "RTI–privacy and aviation-overreach mains prompts are editorial practice questions, without UPSC attribution/year."
+    },
+    {
+      "issue_date": "2026-02-21",
+      "page": 7,
+      "status": "duplicate_existing",
+      "reason": "Complete authentic 2012 rare-earth question already in Science and Technology/PYQ-Prelim.json; no duplicate appended."
+    },
+    {
+      "issue_date": "2026-02-23",
+      "page": 12,
+      "status": "excluded_non_cse",
+      "reason": "Brazil Selvas/Terra Roxa question labelled UPPCS PCS Prelims 2025; State PSC question excluded."
+    },
+    {
+      "issue_date": "2026-02-23",
+      "page": 27,
+      "status": "excluded_practice",
+      "reason": "Article 105 250-word/15-mark exercise supplies no authentic CSE year; no invented PYQ."
+    },
+    {
+      "issue_date": "2026-02-21",
+      "page": 13,
+      "status": "verified_original",
+      "reason": "2013 CSE GS-I Set A Q51 visually checked against original UPSC scan (48 pages, printed page22), downloaded via July2013 Internet Archive capture; source excerpt options confirmed."
+    },
+    {
+      "issue_date": "2026-02-24",
+      "pages": [
+        8,
+        11
+      ],
+      "status": "excluded_practice",
+      "reason": "TTX and SECI items are practice/expected questions, not authentic CSE PYQs."
     }
   ],
   "resolved": [

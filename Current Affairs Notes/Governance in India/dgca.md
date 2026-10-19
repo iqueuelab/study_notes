@@ -28,6 +28,13 @@
 - Night work, irregular schedules/time-zone shifts and sleep debt impair vigilance, reaction time and judgment and can cause microsleeps; noise, dry cabin air and other environmental stressors compound workloads. Chronic shift-work health associations do not mean every listed illness occurs in every worker.
 - Apply occupational-health lessons to healthcare, railways, trucking, policing, BPOs and factories: adequate staffing, predictable rosters, rest and reporting. “Humans evolved on the ground” is rhetoric, not a substitute for evidence-based fatigue management.
 
+## February 2026: proposed unruly-passenger changes
+- The issue discusses a **DGCA proposal** for airlines to impose bans of **up to 30 days** directly in specified unruly-passenger cases, with expanded conduct categories and monitoring from check-in. Treat this as a proposed amendment, **not a final rule brought into force by this editorial**.
+- Reported conduct includes smoking, alcohol-related misconduct, tampering with exits/safety equipment, and disruptive protests/sloganeering. Safety risks require prompt action; merely complaining about delay, poor service or unfair treatment should not automatically be equated with dangerous behaviour.
+- **Baseline correction:** the official **2017** framework already allowed an interim airline ban pending committee inquiry and required the internal committee to decide within **30 days**. The PDF's “45 days” and suggestion airlines previously had no interim power should not be memorised as the general 2017 rule. The committee includes a retired District and Sessions Judge, another airline's representative and a passenger/consumer representative; an appeal mechanism exists. [Ministry's original framework](https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=3&relid=170619).
+- Editorial safeguards: precise conduct definitions and evidence; proportionate, reasoned bans; opportunity to be heard and appeal; independent scrutiny; a credible passenger-grievance process. Distinguish **airport disputes** from **in-flight threats**, while recognising that genuine ground misconduct can still require lawful action.
+- The policy balance is flight/crew/passenger safety with due process and consumer rights. A proposal for faster decisions does not establish that airlines may silence legitimate complaints.
+
 ## PDF coverage
 
-2025-04-27: pp. 6, 7, 8 · 2025-07-21: pp. 10, 11, 12, 13 · 2025-12-09: pp. 1, 2, 3 · 2025-12-14: pp. 3, 4
+2025-04-27: pp. 6, 7, 8 · 2025-07-21: pp. 10, 11, 12, 13 · 2025-12-09: pp. 1, 2, 3 · 2025-12-14: pp. 3, 4 · 2026-02-20: pp. 14, 15, 16, 17, 18

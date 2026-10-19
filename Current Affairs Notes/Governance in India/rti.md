@@ -28,6 +28,13 @@
 - DPDP distinguishes **person** from **personal data**, which concerns an identifiable individual: its broad person definition does not automatically turn all company/State records into personal data. A potential maximum **₹250 crore** DPDP penalty is not an automatic personal penalty on every PIO for an RTI disclosure. Existing RTI penalty provisions are separate.
 - The source's less-than-1% use of public-interest override has no supporting dataset here; retain as an unverified editorial claim, not a national established statistic.
 
+## February 2026: transparency, privacy and journalism
+- The editorial discusses constitutional challenges to **DPDP Act section 44(3)'s replacement of RTI section 8(1)(j)** and concern that broad personal-information refusals could conceal public-interest records. The clipping reports referral for constitutional consideration; **it supplies no final judgment invalidating or upholding the amendment**.
+- Revision distinction: the amendment removes the older **clause-specific** public-activity/unwarranted-invasion/larger-public-interest wording. **RTI section 8(2)'s wider public-interest override remains**, as do severability under section 10 and appeals. “All personal information can never be disclosed, even for public interest” is therefore too absolute. [Official RTI framework](https://rti.dopt.gov.in/).
+- Privacy under **Article 21** and information access derived from **Article 19(1)(a)** require context-sensitive reconciliation. Public officials retain privacy; expenditure/procurement/performance records require a lawful assessment rather than automatic concealment because an individual is mentioned.
+- Journalism concerns include a possible chilling effect from data-processing obligations and lack of a broad express journalistic exemption. **₹250 crore is a maximum penalty for a specified category of breach, not an automatic fine for an investigative article**; DPDP commencement is phased, not every substantive duty enforceable immediately. Earlier DPDP notes retain the notification timeline.
+- Safeguards: proactive disclosure, clear reasons, redaction/severability, public-interest assessment, independent appeals and proportionate privacy protection. State processing under specified legitimate uses is not unlimited authority to collect every citizen's data without safeguards.
+
 ## PDF coverage
 
-2025-02-25: pp. 16, 17, 18, 19, 20 · 2025-04-11: pp. 4, 5, 6, 7 · 2025-09-13: pp. 6, 7, 8
+2025-02-25: pp. 16, 17, 18, 19, 20 · 2025-04-11: pp. 4, 5, 6, 7 · 2025-09-13: pp. 6, 7, 8 · 2026-02-20: pp. 11, 12, 13, 14

@@ -26,6 +26,11 @@
 - Source reports China **36.5 million tonnes hydrogen in 2024**, **120,000 tonnes green output**, **85% alkaline manufacturing share**, annual equipment-price falls of **20–30%** and up-to-**45%** cost advantage in Europe. These are source-reported, differently defined estimates; IEA’s 2025 review puts China near **60% of all electrolyser manufacturing capacity**, a different denominator from alkaline alone; manufacturing share is not green-hydrogen production share, and imported-system installation costs can erase factory-price advantages. [IEA 2025 review](https://www.iea.org/reports/global-hydrogen-review-2025).
 - Buyers also need dependable renewable electricity, water, product purity, integration, storage and firm offtake. Critical-material dependencies, domestic industrial policy/trade scrutiny and local service requirements complicate a simple cheapest-stack strategy. India’s mission supports domestic capability, but an announced project is not achieved production.
 
+## February 2026: green-ammonia offtake
+- Green ammonia combines nitrogen with renewable-electrolysis hydrogen: **N₂ + 3H₂ → 2NH₃**. It can replace fossil-based ammonia in fertilisers, transport hydrogen chemically, and potentially fuel shipping/power; production emissions and ammonia toxicity require separate assessment.
+- Source reports SECI's **SIGHT Mode 2A** procurement price discovery for **724,000 tonnes/year**, intended for **13 fertiliser plants**, with ten-year supply arrangements and **₹49.75–64.74/kg** discovered prices. Tender/price discovery is not proof all contracted plants were producing or deliveries completed. The MNRE 2025 review confirms the auction volume. [MNRE year review](https://nghm.mnre.gov.in/admin/uploads/176794038987418Press%20Release_Renewable%20Energy%20Capacity%20in%202025.pdf).
+- Long-term demand and incentives can reduce financing risk and exposure to imported ammonia/gas prices. Coastal logistics, renewable power/grid access, certification, safe storage and bankable offtake determine viability. The source's dollar conversions, grey-ammonia comparison and EU discount depend on exchange rate, subsidy, delivery terms and auction date; they are not like-for-like universal cost advantages.
+
 ## PDF coverage
 
-2025-06-24: pp. 26, 27, 28, 29, 30 · 2025-08-01: pp. 7, 8, 9, 10 · 2025-08-02: pp. 84, 85, 86, 87 · 2025-10-03: pp. 11, 12, 13
+2025-06-24: pp. 26, 27, 28, 29, 30 · 2025-08-01: pp. 7, 8, 9, 10 · 2025-08-02: pp. 84, 85, 86, 87 · 2025-10-03: pp. 11, 12, 13 · 2026-02-24: pp. 9, 10, 11

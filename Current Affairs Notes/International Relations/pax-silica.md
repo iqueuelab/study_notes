@@ -16,6 +16,11 @@
 - India must negotiate room for **domestic industrial subsidies, procurement policy and strategic autonomy**. Suggested future China-led/Pax-Silica-led technology blocs and new export-control regimes are analytical scenarios, not established treaty obligations. **ASML's dominance in EUV lithography** does not mean the Netherlands monopolises every type of chipmaking equipment.
 - Source lists participants/observers inconsistently (including Qatar in prose while its inset retains the earlier list). Do not infer accession from that list or describe all participants as formal US allies; membership, summit participation and invitation remain distinct.
 
+## 20 February 2026: India signs the declaration
+- **India formally joined Pax Silica at the India AI Impact Summit in New Delhi on 20 February**, moving beyond January's prospective invitation. Ashwini Vaishnaw participated in the signing with US representatives; the initiative connects minerals, chip fabrication, AI and deployment infrastructure. [MeitY confirmation](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230648&lang=1&reg=1).
+- The issue reprints an earlier editorial saying India's invitation is still expected; that passage is superseded by the accession report. Its Canada/EU member list conflates participation categories; do not treat the inconsistent lists as a complete official signatory register.
+- Existing notes cover diversification, domestic manufacturing capability, industrial-policy space and strategic autonomy. Joining does not itself guarantee mineral supply, technology transfer or a military alliance. The complete **2012 rare-earth PYQ already exists** in the Science and Technology bank: **1 and 3 only**; deposits also occur outside the four countries in statement 2.
+
 ## PDF coverage
 
-2025-12-13: pp. 8, 9, 10, 11 · 2025-12-14: pp. 21 · 2026-01-13: pp. 6, 7, 8, 9 · 2026-01-18: pp. 6 · 2026-01-21: pp. 14, 15, 16, 17
+2025-12-13: pp. 8, 9, 10, 11 · 2025-12-14: pp. 21 · 2026-01-13: pp. 6, 7, 8, 9 · 2026-01-18: pp. 6 · 2026-01-21: pp. 14, 15, 16, 17 · 2026-02-21: pp. 1, 2, 3, 4, 5, 6, 7

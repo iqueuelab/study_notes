@@ -32,6 +32,21 @@
 - Scientific expert assessments (**JECFA/JMPR**) underpin ADIs/residue work; distinguish expert risk assessment from CAC adoption/risk management.
 - Committees: **CCSCH—Spices/Culinary Herbs, hosted by India; CCCF—Contaminants; CCPR—Pesticide Residues; CCFA—Food Additives**. Hygiene, labelling and contaminant/residue guidance protect health and support fair trade; country-specific stronger measures need applicable scientific/legal justification.
 
+## February 2026: front-of-pack nutrition labels
+- The issue reports Supreme Court scrutiny of delayed **front-of-package warning labelling**, asking FSSAI to take a position within four weeks. This is a regulatory/judicial consideration stage, **not notification of a mandatory nationwide warning-label regime**.
+- **FOPL/FOPNL** puts interpretable nutrition information on a pack's front. A warning such as “high in sugar/salt/saturated fat” flags a particular risk; an overall star score summarises nutritional profile. They are different designs, not synonyms for the same policy.
+- FSSAI's **September 2022 draft Indian Nutrition Rating** proposed **½–5 stars**, considering energy, total sugars, saturated fat and sodium, with positive factors including fruit/vegetables, nuts/legumes/millets, fibre and protein. It was a **draft amendment to the 2020 Labelling and Display Regulations**. [FSSAI draft](https://www.fssai.gov.in/upload/uploadfiles/files/Draft_Notification_HFSS_20_09_2022.pdf).
+- The editorial favours direct warnings over stars, arguing that consumers need quick comprehension and that positive nutrients can create a misleading health halo. Chile/Mexico warnings, UK traffic lights and Australia's Health Star Rating illustrate distinct approaches; no single worldwide mandatory format follows from these comparisons.
+- Policy tests: understandable labels across literacy/language levels; evidence-based nutrient thresholds; independent evaluation; clear exemptions and enforcement; protection from misleading claims and marketing to children. Labels complement reformulation, healthy diets and preventive care, rather than guaranteeing disease reduction by themselves.
+- The issue cites **2023 ICMR–INDIAB** estimates of **101 million adults with diabetes and 136 million with prediabetes**. These are historical study estimates, not a measured February 2026 case count or percentages of India's entire population.
+- **Packaging reminder:** newspaper/printed waste is unsuitable for storing or wrapping food under the **2018 Packaging Regulations**, because contaminants can migrate from ink/material. Food-grade packaging is distinct from front-of-pack nutritional communication.
+
+## February 2026: milk adulteration and suspected marine poisoning
+- East Godavari, Andhra Pradesh report describes four elderly deaths with acute kidney injury and **anuria** (absent/negligible urine output) after suspected adulterated milk. Forensic testing was pending in the account: do not identify urea, detergent or another adulterant as the established cause.
+- A separate Vizhinjam, Kerala seafood incident raised suspicion of **tetrodotoxin (TTX)**. Clinical suspicion, food-species identification and laboratory confirmation are different stages; the source does not establish that all snapper or roe carries TTX.
+- TTX blocks **voltage-gated sodium channels**, impairing nerve/muscle conduction and potentially causing paralysis and respiratory failure. It is associated especially with pufferfish and some other animals, remains dangerous after ordinary cooking/freezing, and has no specific antidote; supportive care matters. It should not be equated automatically with an algal toxin.
+- Foodborne infection and toxin-mediated poisoning can both have rapid onset and gastrointestinal symptoms; the source's simple “bacterial = slow, toxin = rapid” table is unreliable. Traceability, sample testing, cold-chain hygiene and targeted inspection support prevention. [FDA toxicology investigation](https://www.accessdata.fda.gov/scripts/publications/search_result_record.cfm?id=51562).
+
 ## PDF coverage
 
-2025-04-05: pp. 1, 2, 3 · 2025-06-07: pp. 4, 5, 6, 7, 8, 9
+2025-04-05: pp. 1, 2, 3 · 2025-06-07: pp. 4, 5, 6, 7, 8, 9 · 2026-02-18: pp. 8, 9, 10, 11, 12 · 2026-02-24: pp. 5, 6, 7, 8

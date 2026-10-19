@@ -18,6 +18,11 @@ The Forest Department's Project Nilgiri Tahr material confirms its endangered st
 - Habitat protection → invasive-plant control and grassland restoration → connected populations → coordinated monitoring across the two States.
 - Key distinction: native montane grasslands are valuable habitat; indiscriminate tree planting can harm a grassland specialist. [Wildlife Institute of India assessment](https://digitalrepository.wii.gov.in/items/217085b0-299a-479b-866e-fd5293d785e5).
 
+## Eravikulam and habitat management
+- **Eravikulam National Park, Kerala, near Munnar**, is a key stronghold with the largest surviving concentration of Nilgiri tahr. The issue reiterates its grassland/cliff adaptation, horns in both sexes and mature male “saddleback” marking.
+- Existing identity/protection notes apply. **Sholas are forest patches within the montane grassland mosaic; the tahr is primarily an open-grassland/cliff animal**, not a species whose habitat can be restored simply by planting trees. Prevent invasive-plant encroachment and fragmentation while protecting native grasslands. [Tamil Nadu project material](https://tnprojectnilgiritahr.com/wp-content/uploads/2024/08/Project-Nilgiri-Tahr-Print-R3.pdf).
+- The source's “Project Nilgiri Tahr—2022” should distinguish the programme's announcement/approval from later launch and implementation; the photo feature is not a new census result.
+
 ## PDF coverage
 
-2025-04-10: pp. 3, 4
+2025-04-10: pp. 3, 4 · 2026-02-20: pp. 8, 9, 10

@@ -14,6 +14,12 @@
 - Executive majority/CJI exclusion raises perceived-partisanship concerns; constitutional accountability needs fair selection, transparent criteria, secure tenure and reasoned decisions. February litigation remained pending; do not invent its outcome.
 - **2017 PYQ: only statement 3 correct**—ECI resolves recognised-party split/merger disputes. ECI is not five-member; Home Ministry does not decide general/by-election schedules.
 
+## February 2026: independence and electoral trust
+- Editorial raises concerns about electoral-roll revision, deletion safeguards and perceived bias. These are contested allegations, not findings that every revision or deletion is unlawful. Transparency, notice, accessible objections/appeals and reasoned decisions strengthen trust.
+- **Article 326** concerns adult suffrage for Lok Sabha and State Assembly elections; Article 324 provides the ECI's superintendence, direction and control. Free and fair elections are a basic-structure concern.
+- CEC removal is by the **President**, following the constitutionally required parliamentary address with the Supreme Court judge removal safeguards; “Parliament removes the CEC” is shorthand. Other ECs require the CEC's recommendation. The source's inquiry-committee description should not be memorised as invariably requiring the sitting CJI personally.
+- **T.N. Seshan v Union of India (1995)** upheld the multi-member Commission; safeguards in appointment, tenure, removal and actual decision-making should be assessed separately.
+
 ## PDF coverage
 
-2025-02-18: pp. 3, 4, 5, 6, 7, 8
+2025-02-18: pp. 3, 4, 5, 6, 7, 8 · 2026-02-24: pp. 12, 13, 14, 15
