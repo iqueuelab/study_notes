@@ -12,7 +12,6 @@
 - Fisheries concerns, jobs, education/healthcare and unequal returns from copper/gold/gas resources underpin opposition. Source **5% Pakistan GDP** has no year/series and should not be memorised. Claims of Chinese trawler exploitation need specific evidence rather than attributing all fisheries pressure to one nationality.
 - A reported **40-year Gwadar operating concession** is not transfer of sovereignty or proof of an established Chinese military base. Assess actual infrastructure/agreements, local participation, environmental impacts and security arrangements; feared militarisation is a risk claim.
 
-
 ## PDF coverage
 
 2025-03-12: pp. 1, 2, 3, 19, 20, 24 · 2025-05-22: pp. 27, 28, 29

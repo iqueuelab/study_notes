@@ -34,7 +34,6 @@
 - **2018 PYQ: (d), Rajasthan iron-ore statement 3 only**. State governments have non-coal auction powers under relevant law; legal exceptions/central critical-mineral auction powers must be assessed by period. Statement that Andhra Pradesh and Jharkhand have no gold mines is incorrect; do not use absence of a large current operating mine as absence of deposits/historic mining.
 - **2023 mineral PYQ: (d), titanium from ilmenite/rutile**, not iron merely because ilmenite contains it. Other beach heavy minerals include leucoxene, zircon, sillimanite, garnet and monazite; resources are not automatically permitted extraction.
 
-
 ## PDF coverage
 
 2025-04-12: pp. 10, 11, 12, 13, 14 · 2025-06-03: pp. 29, 30, 31, 32, 33, 34, 35

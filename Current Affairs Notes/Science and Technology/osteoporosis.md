@@ -14,7 +14,6 @@
 - Resistance exercise, nutrition and monitored countermeasures help; recovery may be incomplete/site-specific. Relevant to long-duration missions, osteoporosis and rehabilitation research.
 - Source Gaganyaan/Bharatiya Antariksh Station dates are **programme targets**, not completed missions.
 
-
 ## PDF coverage
 
 2025-01-08: pp. 14, 15, 19, 20 · 2025-04-01: pp. 1, 2, 3

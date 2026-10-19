@@ -17,7 +17,6 @@
 - Source global shares **50–60% Guatemala /20–25% India /10% Sri Lanka**, annual **25,000–28,000 tonnes**, Kerala **70%**, export **₹500–600 crore** lack consistent year/type/denominator and should not be memorised as comparable verified statistics.
 - Risks: rainfall/temperature variability, viral **cardamom mosaic (katte)** and other diseases, price volatility and processing/storage quality. Sustainable shade cultivation, replanting, research, grading/drying and traceability strengthen returns; SPICED assistance is described in the common Spices Board topic.
 
-
 ## PDF coverage
 
 2025-02-03: pp. 9, 10, 11, 12, 13 · 2025-05-23: pp. 5, 6, 7 · 2025-05-25: pp. 14, 15

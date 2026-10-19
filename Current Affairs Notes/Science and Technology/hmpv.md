@@ -14,7 +14,6 @@
 - HMPV circulates seasonally, often winter/spring in temperate regions; outbreaks do not establish a novel virus or pandemic. Do not use social-media hospital/cemetery claims as epidemiological evidence.
 - Source '2–5 days of illness' is not a guaranteed duration; severity and underlying health vary. **Mycoplasma pneumoniae is a bacterium**, despite its placement in the PDF's 'other viruses' list.
 
-
 ## PDF coverage
 
 2025-01-04: pp. 1, 2, 3, 4 · 2025-01-07: pp. 32, 33, 34, 35

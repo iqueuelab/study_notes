@@ -16,7 +16,6 @@
 - Keep agreement, treaty signature, ratification and implementation distinct. Chagossian displacement, return rights and strategic interests are separate issues to assess.
 - In the Colombo Security Conclave, Bangladesh became a member in 2024; Seychelles was an observer in the source period.
 
-
 ## PDF coverage
 
 2025-01-17: pp. 17, 18 · 2025-01-19: pp. 4, 23, 24 · 2025-03-13: pp. 6, 7, 8, 22, 23, 26, 27, 28

@@ -24,7 +24,6 @@
 - Source 62 lakhcases/367 vacanciesof 1, 122 sanctionedposts are dated snapshots. Staff, courtrooms, research support andtransparentappointments matter withjudgenumbers.
 - Time-limiteduse complements filling regular vacancies, case management andaccess tojustice; do not treat source proposedproceduralshortcuts as already amendedconstitutionalrules.
 
-
 ## PDF coverage
 
 2025-01-31: pp. 15, 16, 17, 18 · 2025-02-03: pp. 13, 14, 15 · 2025-02-14: pp. 19, 20, 21, 22 · 2025-03-10: pp. 29, 30, 31, 32

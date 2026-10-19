@@ -35,7 +35,6 @@
 - Lokpal consists of a chairperson and **up to eight** members, at least half judicial; statutory social-representation requirements apply. PM-related exclusions and full-bench two-thirds approval safeguards remain important.
 - Its CBI supervision relates to referred cases, not blanket command over all CBI work; attachment/confiscation and prosecution involve statutory procedures, not arbitrary seizure.
 
-
 ## PDF coverage
 
 2025-01-20: pp. 18, 19, 20, 23, 25 · 2025-01-26: pp. 4, 5 · 2025-02-21: pp. 1, 2, 3, 4, 5, 26, 27, 28 · 2025-03-19: pp. 6, 7, 8, 9, 10, 11, 12, 13

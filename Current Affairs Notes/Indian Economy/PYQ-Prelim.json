@@ -610,6 +610,30 @@
         "c": "2 and 3 only",
         "d": "1, 2 and 3"
       }
+    },
+    {
+      "year": 2011,
+      "chapter": "MGNREGA: employment guarantee and proposed changes",
+      "question": "Among the following who are eligible to benefit from the “Mahatma Gandhi National Rural Employment Guarantee Act”?",
+      "options": {
+        "a": "Adult members of only the scheduled caste and scheduled tribe households",
+        "b": "Adult members of below poverty line (BPL) households",
+        "c": "Adult members of households of all backward communities",
+        "d": "Adult members of any household"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "UPI: payment growth, interoperability and inclusion",
+      "year": 2025,
+      "question": "Consider the following countries:\nI. United Arab Emirates\nII. France\nIII. Germany\nIV. Singapore\nV. Bangladesh\nHow many countries amongst the above are there other than India where international merchant payments are accepted under UPI?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "answer": "b"
     }
   ]
 }

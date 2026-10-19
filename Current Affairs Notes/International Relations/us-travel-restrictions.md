@@ -14,7 +14,6 @@
 - **2017 seven-country orders**, subsequent revised proclamation and **2018 Trump v. Hawaii** judgment have separate dates/scope; earlier judicial approval is not automatic adjudication of the June 2025 instrument.
 - Mains: security screening versus proportionality, families/refugees/students/business mobility and diplomatic reciprocity; possible challenges or retaliation are scenarios, not already established results.
 
-
 ## PDF coverage
 
 2025-03-16: pp. 3, 4, 5, 6, 14, 15 · 2025-06-06: pp. 4, 5, 6, 7

@@ -10,7 +10,6 @@
 - **2018 Supreme Court ruling** disallowed NOTA in **Rajya Sabha** elections; direct popular voting and indirect proportional-representation elections differ.
 - Source practice answer **(b), statements 3 and 4**, captures its intended freedom-of-expression/direct-election comparison; statement 4’s **“only Lok Sabha and Assembly”** is overbroad if it excludes all local-body polls. Preserve the question for review rather than memorise it as an exhaustive list of NOTA applications. Existing notes retain the 2013 PUCL origin and absence of an automatic national rerun.
 
-
 ## PDF coverage
 
 2025-05-16: pp. 8, 9, 10, 11 · 2025-05-17: pp. 27, 28

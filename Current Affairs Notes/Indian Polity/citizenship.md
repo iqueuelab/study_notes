@@ -62,7 +62,6 @@
 - **Articles 14 and 21** protect persons; citizen-specific **Article 19(1)(e)** residence/settlement rights differ. A UNHCR card does not itself confer Indian citizenship or an unconditional statutory right to remain.
 - The Court scheduled fuller hearing for **July**. Distinguish oral/interim observations, existing executive powers under the then-applicable Foreigners Act, and a final determination of the pending refugee-protection claims; India's non-membership of the Refugee Convention does not answer every constitutional/procedural question.
 
-
 ## PDF coverage
 
 2025-01-01: pp. 24, 25 · 2025-01-11: pp. 2, 3 · 2025-01-22: pp. 1 · 2025-02-05: pp. 1, 2, 3 · 2025-02-16: pp. 2, 3, 4 · 2025-03-01: pp. 1, 2, 3, 4 · 2025-03-12: pp. 5, 6, 7, 8, 20, 21, 25, 26 · 2025-03-17: pp. 14, 15, 33, 34 · 2025-03-18: pp. 32, 33 · 2025-05-06: pp. 14, 15, 16, 17 · 2025-05-09: pp. 6

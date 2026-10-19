@@ -25,7 +25,6 @@
 - The new moons are small irregular satellites, often in distant inclined/retrograde orbits, unlike large regular satellites such as Titan and Rhea.
 - Orbital groups and fragments help reconstruct capture and collision histories. Proposed explanations for Saturn–Jupiter count differences are hypotheses, not a rule that all Jupiter moons are rocky.
 
-
 ## PDF coverage
 
 2025-02-19: pp. 11, 12, 13, 14, 15, 16, 17 · 2025-03-19: pp. 1, 2, 3

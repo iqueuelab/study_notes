@@ -1630,6 +1630,125 @@
       ],
       "status": "reviewed",
       "evidence": "Full text and all 18 images reviewed. Complete 2019 CAMPA question/options included. 2018 Prosopis (pages11–12) and 2023 Cepheids/Nebulae/Pulsars (page15) already in common banks; retain explanations without duplicate entries. No Mains CSE PYQ."
+    },
+    {
+      "date": "2025-12-10",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "reviewed_with_flags",
+      "evidence": "Full text and all 16 images reviewed. Complete 2008 Hand-in-Hand question/options included. Page4 2018 edible-oils and 2021 palm-oil stems lack options in text and images (same partials already flagged in oil-palm notes); no incomplete questions or invented options added. No Mains CSE PYQ."
+    },
+    {
+      "date": "2025-12-11",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "status": "reviewed",
+      "evidence": "Every page image and full text reviewed, including blank p30 and embedded Mains2025 image p5 enlarged. New PLI Mains 2025 retained with 250 words/15 marks. Prelims 2023 PLI; 2016 Astradharini; 2008 Dhruv; 2024 fighter generations; 2025 aircraft pairs; 2021 seabed; 2024 ICH and World Heritage; 2020 bird species; 2024 insects all already banked (including cross-subject bank variants); no duplicates added."
+    },
+    {
+      "date": "2025-12-12",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "duplicates_only",
+      "evidence": "Every page image/full text reviewed. Birds 2020/insects 2024 repeat December 11 and existing bank. Unyearred hate-speech Daily Mains 250 words/15 marks excluded as coaching practice."
+    },
+    {
+      "date": "2025-12-13",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "status": "reviewed",
+      "evidence": "Every page image/full text reviewed. Full 2011 MGNREGA question/options/answer retained; no year-labelled Mains question supplied."
+    },
+    {
+      "issue_date": "2025-12-14",
+      "status": "no_pyqs",
+      "details": "All 22 physical pages reviewed, including blank page 22. Weekly issue has no labelled CSE PYQs."
+    },
+    {
+      "issue_date": "2025-12-15",
+      "status": "duplicates_preserved_in_existing_banks",
+      "details": "2009 Virupaksha and 2012 Nagara/Dravida/Vesara already in Indian Art and Culture; 2016 INS Astradharini and 2008 Dhruv already in Science and Technology (Astradharini also Internal Security). Full stems/options reviewed; no duplicate inserted. Correct Hampi/Pattadakal conflation in revision explanation."
+    },
+    {
+      "issue_date": "2025-12-16",
+      "status": "reviewed",
+      "details": "2017 Mediterranean and 2015 Jordan questions already banked in Geography and International Relations; no duplicates inserted. New full 2025 UPI question transcribed from embedded printed question on page 10, restoring all four options absent from extraction. Full 2020 treaty-pairs question on page 13 included. No Mains PYQs."
     }
   ],
   "resolved": [

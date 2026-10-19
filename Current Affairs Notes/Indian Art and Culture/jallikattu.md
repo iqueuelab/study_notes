@@ -28,7 +28,6 @@
 | Camel racing | Rajasthan fairs including Pushkar; permission/safety depend on applicable rules |
 | Dhirio | Goa bull fights, distinct from bull-embracing Jallikattu; legality cannot be inferred from Tamil Nadu's amendment |
 
-
 ## PDF coverage
 
 2025-01-17: pp. 1, 2, 3 · 2025-01-19: pp. 14, 43 · 2025-05-02: pp. 17, 18, 19, 20

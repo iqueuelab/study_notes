@@ -17,7 +17,6 @@
 - Founding member of EEC/EU institutional predecessors, NATO, OECD and WTO; euro-area participant. Brussels hosts **European Commission, Council of EU, European Council, NATO headquarters**.
 - European Parliament's official seat/plenary is **Strasbourg**, committees/additional sessions **Brussels**, Secretariat **Luxembourg**: correct the PDF's simple “two seats” account. [Parliament organisation](https://www.europarl.europa.eu/news/en/faq/3/which-languages-are-in-use-in-the-parliament).
 
-
 ## PDF coverage
 
 2025-03-05: pp. 11, 12 · 2025-06-09: pp. 2, 3, 4, 5

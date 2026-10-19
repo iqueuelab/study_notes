@@ -23,7 +23,6 @@
 - The issue identifies India's Andaman/Himalayan ophiolites and mafic/ultramafic formations, Deccan rocks and possible hydrothermal settings as **exploration candidates**. Geological plausibility is not a proved Indian commercial reserve; its Vindhyan/Chhattisgarh/Rajasthan references need site-specific assessment.
 - Natural replenishment may occur at some sites but does not establish extraction is renewable at commercial rates. Fuel cells produce water at use; life-cycle energy, hydrogen leakage and extraction impacts still matter. Existing colour/process distinctions are unchanged; claims that white hydrogen is always cheapest or green/pink universally zero-emission are unsupported.
 
-
 ## PDF coverage
 
 2025-03-20: pp. 41, 42, 43, 44, 45, 48, 49 · 2025-05-01: pp. 29, 30, 31, 32

@@ -32,7 +32,6 @@
 - Scientific expert assessments (**JECFA/JMPR**) underpin ADIs/residue work; distinguish expert risk assessment from CAC adoption/risk management.
 - Committees: **CCSCH—Spices/Culinary Herbs, hosted by India; CCCF—Contaminants; CCPR—Pesticide Residues; CCFA—Food Additives**. Hygiene, labelling and contaminant/residue guidance protect health and support fair trade; country-specific stronger measures need applicable scientific/legal justification.
 
-
 ## PDF coverage
 
 2025-04-05: pp. 1, 2, 3 · 2025-06-07: pp. 4, 5, 6, 7, 8, 9

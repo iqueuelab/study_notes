@@ -20,7 +20,6 @@
 - Source's childhood diabetes **India 397/China 734 per lakh** lacks age/year and confuses prevalence/incidence; hold exact comparison for review.
 - Policy: healthier canteens, parent engagement/PTMs, nutrition curriculum, data and medical workshops, clear labels/food standards. **FSSAI school-food regulations 2020** already restrict sale/marketing of specified HFSS foods in/around schools; source's “no national framework” is too broad. Proposed detailed thresholds/front-of-pack health-star labels are distinct from established school restrictions. [FSSAI regulations](https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php).
 
-
 ## PDF coverage
 
 2025-04-26: pp. 8, 9, 10, 11, 12 · 2025-05-27: pp. 18, 19, 20

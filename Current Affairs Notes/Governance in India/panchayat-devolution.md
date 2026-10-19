@@ -20,7 +20,6 @@
 - Untied grants support local flexibility; tied grants specify purposes. Source's **“60% untied”** and its explanation reversing the statement numbers are unreliable; use the corrected 15th FC split above.
 - These questions are supplied coaching practice, not dated official PYQs.
 
-
 ## PDF coverage
 
 2025-02-16: pp. 7, 8, 9, 10 · 2025-02-17: pp. 1, 2, 3, 4, 5, 17, 18

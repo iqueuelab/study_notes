@@ -27,7 +27,6 @@
 - Barriers: truck/fuel-cell cost, hydrogen availability, refuelling/storage networks, flammability/pressure safety and operational reliability. Compare cost and emissions per tonne-km with battery-electric freight, rail and other feasible options.
 - Green-hydrogen supply, domestic equipment, freight refuelling corridors, PPPs and suitable incentives are proposed scaling levers. Source suggestions about FAME/PLI inclusion are recommendations, not verified eligibility or newly sanctioned benefits; retain India's **net-zero 2070** goal as a target.
 
-
 ## PDF coverage
 
 2025-04-19: pp. 4, 5, 6 · 2025-05-11: pp. 5, 6, 7, 8

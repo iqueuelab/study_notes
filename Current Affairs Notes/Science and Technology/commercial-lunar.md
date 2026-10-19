@@ -15,7 +15,6 @@
 ## Country recall
 - **Intuitive Machines is American**, not Chinese; Blue Ghost → Firefly/USA, Resilience → ispace/Japan. Nationality of company differs from launch provider.
 
-
 ## PDF coverage
 
 2025-01-17: pp. 8, 9 · 2025-01-19: pp. 14, 44

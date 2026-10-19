@@ -13,7 +13,6 @@
 ## Himalayan landslide dams
 - Alaknanda study discussed on 9 January 2025: landslide blockage → temporary lake → possible dam breach → downstream flood. Risk combines slope failure with flood exposure; monitoring must follow both hazards.
 
-
 ## PDF coverage
 
 2025-01-02: pp. 4, 5, 6 · 2025-01-09: pp. 7

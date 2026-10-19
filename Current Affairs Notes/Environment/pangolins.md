@@ -20,7 +20,6 @@
 - Traditionally recognised eight pangolins were moved to **CITES Appendix I**, effective **2017**, prohibiting international commercial trade in wild-taken specimens; exceptional permitted transactions and domestic protection are separate legal questions. Preserve the existing notes' newer taxonomy qualifications. [CITES](https://cites.org/eng/new_CITES_trade_rules_come_into_effect_as_2017_starts_02012017).
 - Priorities: intelligence-led enforcement and financial investigations, border cooperation, scale identification, habitat/community protection and demand reduction. Traditional medicinal use of scales is not evidence of efficacy.
 
-
 ## PDF coverage
 
 2025-01-14: pp. 4, 5, 13, 15, 16 · 2025-01-19: pp. 10, 37 · 2025-05-05: pp. 11, 12, 13

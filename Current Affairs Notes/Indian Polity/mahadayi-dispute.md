@@ -12,7 +12,6 @@
 - The undated worksheet asks which States the river “passes through”, but its Karnataka/Maharashtra/Goa answer identifies **basin/dispute States**. The main channel flows through Karnataka and Goa; the basin also includes Maharashtra.
 - As literally worded, the worksheet lacks a Karnataka+Goa-only option. Review its wording rather than memorise basin membership as a false main-channel route.
 
-
 ## PDF coverage
 
 2025-05-16: pp. 14, 15, 16 · 2025-05-17: pp. 26

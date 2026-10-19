@@ -13,7 +13,6 @@
 ## Practice-test trap
 - The 19 January key overstates year-round access to all of Ladakh. **Sonamarg access ≠ completion of the separate Zoji La tunnel**; check the specific section of the route.
 
-
 ## PDF coverage
 
 2025-01-11: pp. 12, 13, 21, 22 · 2025-01-19: pp. 1, 2, 18, 19

@@ -20,7 +20,6 @@
 - The embedded clipping reports NCW condemning online trolling/harassment of **Foreign Secretary Vikram Misri and his family** following India–Pakistan cessation announcements, and seeking restraint. Gendered abuse and threats require appropriate investigation and referrals; NCW's statement does not itself convict offenders or impose penalties.
 - Source reform suggestions—regional/district outreach, grievance cells, staff training and stronger enforcement—remain proposals; existing notes record the statutory term/removal rules and correct the erroneous Law Commission Report 257 attribution.
 
-
 ## PDF coverage
 
 2025-04-17: pp. 16, 17, 18, 19, 20 · 2025-05-13: pp. 6, 7, 8, 9, 10, 11

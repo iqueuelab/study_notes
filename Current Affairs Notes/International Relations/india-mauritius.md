@@ -14,7 +14,6 @@
 - The cited development allocation is **500 million Mauritian rupees**, not ₹500 million Indian rupees. Announced police-academy, information-sharing and cultural projects are not all completed facilities.
 - Cooperation supports Indian Ocean maritime security, capacity building and diaspora ties; sovereignty and local priorities remain central.
 
-
 ## PDF coverage
 
 2025-03-10: pp. 12, 13, 14, 15 · 2025-03-13: pp. 6, 7, 8, 22, 26, 27

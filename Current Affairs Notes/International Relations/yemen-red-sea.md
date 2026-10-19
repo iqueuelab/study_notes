@@ -13,7 +13,6 @@
 - **Land neighbours:** Saudi Arabia to the north and Oman to the east. Across surrounding waters lie **Djibouti, Eritrea and Somalia**. Red Sea → Bab el-Mandeb → Gulf of Aden → Arabian Sea is the maritime sequence.
 - India’s **Operation Rahat (2015)** evacuated Indians and foreign nationals from Yemen. Protecting seafarers, diaspora and trade corridors remains relevant alongside humanitarian relief and diplomacy. [MEA Operation Rahat](https://www.mea.gov.in/Images/amb1/lu1509_aneexr.pdf).
 
-
 ## PDF coverage
 
 2025-03-17: pp. 3, 4, 5, 28, 29 · 2025-03-18: pp. 28, 29 · 2025-04-19: pp. 6, 7, 8

@@ -132,6 +132,8 @@ flows.update({
 flows.update({
  'biochar':['Suitable biomass feedstock','Heat with little or no oxygen: pyrolysis','Carbon-rich biochar + other products','Check contaminants and application suitability','Use appropriately; assess carbon and soil outcomes'],
  'scheduled-tribes-list':['Check the existing State / UT-specific entry','Assess proposed inclusion or exclusion','Parliament changes the list by law: Article 342(2)','Assent and applicable commencement','Implement the amended list'],
+ 'onchocerciasis':['Infected blackfly bites a person','Larvae enter and mature into adult worms','Microfilariae spread through skin and eyes','Another blackfly ingests microfilariae','Larvae develop in the fly; transmission continues'],
+ 'dhruva':['Locate a place using DIGIPIN','Link a descriptive address through an authorised service','Validate the address and sharing permissions','Share necessary details with a permitted service','Correct records and review access'],
 })
 def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
 for i,t in enumerate(topics):

@@ -46,7 +46,6 @@
 - Sudden popular celebrations require capacity limits, reliable entry information, separate ingress/egress, police–organiser command, crowd-pressure monitoring and immediate medical access. Dense compression can kill without a crowd irrationally running.
 - Goa clipping and historical disaster graphics repeat earlier examples; source’s new lighting/AI/RFID proposals are not NDMA mandates. A monitoring device must trigger timely action; it cannot replace usable exits or safe capacity planning.
 
-
 ## PDF coverage
 
 2025-01-09: pp. 14, 15, 16, 17 · 2025-02-27: pp. 10, 11, 12, 13, 14 · 2025-05-04: pp. 5, 6, 7, 8, 9, 10 · 2025-06-05: pp. 2, 3, 4, 5, 6

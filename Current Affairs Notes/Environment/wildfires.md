@@ -26,7 +26,6 @@
 - Some formulations tested contain **chromium/cadmium and other toxic metals**; exposure/aquatic risk differs by product and dose. A study estimated **850,000 pounds of metals** released in the western US **2009–2021**, not all retardant chemicals globally since 2009. [USC research summary](https://viterbischool.usc.edu/news/2024/10/toxic-metals-found-in-wildfire-suppressants/).
 - Balance emergency protection with safer formulations, waterway protection, careful application and environmental monitoring; don't generalise one tested product to every Phos-Chek formulation.
 
-
 ## PDF coverage
 
 2025-01-11: pp. 5, 6, 7, 8, 20, 21 · 2025-01-15: pp. 12, 13 · 2025-01-19: pp. 12, 41 · 2025-02-12: pp. 1, 2, 3

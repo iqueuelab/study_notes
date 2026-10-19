@@ -23,7 +23,6 @@
 - Source **“ICMR-INDIAB nearly 30% urban NAFLD”** lacks an identifiable cohort/test definition and should not be memorised as nationally representative liver-disease prevalence. INDIAB's well-known diabetes/metabolic estimates cannot automatically establish this liver statistic.
 - India integrated NAFLD into the NCD programme in **2021**; Ayushman Bharat primary-care screening/referral is an implementation opportunity,not proof every centre delivers universal liver imaging. Prevent obesity/metabolic disease and strengthen follow-up rather than rely only on a prevalence slogan.
 
-
 ## PDF coverage
 
 2025-04-08: pp. 14, 15, 16, 17 · 2025-06-09: pp. 13, 14, 15, 16 · 2025-06-26: pp. 16, 17, 18, 19

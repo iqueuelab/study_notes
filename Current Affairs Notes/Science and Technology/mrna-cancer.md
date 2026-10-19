@@ -19,7 +19,6 @@
 - Evaluate clinical endpoints, informed consent, comparative safety, regulatory approval and equitable access; novelty alone does not establish an effective treatment.
 - [NHS programme description](https://www.england.nhs.uk/cancer/nhs-cancer-vaccine-launch-pad/): referral to eligible **clinical trials**, not routine efficacy confirmation.
 
-
 ## PDF coverage
 
 2025-02-16: pp. 13, 14, 15

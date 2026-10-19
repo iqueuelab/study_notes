@@ -10,7 +10,6 @@
 - PYQ answers: **2017 Gender Gap ranking → WEF; 2009 founder → Klaus Schwab; 2019 Global Competitiveness Report → WEF**. Full questions in common prelims JSON.
 - Report trap: **Human Development Report → UNDP**, not WEF. The weekly coaching test repeats WEF facts but is not a UPSC PYQ.
 
-
 ## PDF coverage
 
 2025-01-23: pp. 1, 2, 3 · 2025-01-26: pp. 10, 11

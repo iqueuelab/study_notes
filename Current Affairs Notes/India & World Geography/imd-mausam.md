@@ -22,7 +22,6 @@
 - **India** is a founding WMO member since **1950**; IMD is its national meteorological service, not a separate country member. The 19 January test's 1949 membership claim is incorrect. [WMO anniversary remarks](https://wmo.int/content/opening-remarks-occasion-of-imds-150th-anniversary).
 
 
-
 ## PDF coverage
 
 2025-01-18: pp. 20, 21, 22 · 2025-01-19: pp. 5, 6, 8, 26, 27, 32 · 2025-06-12: pp. 9, 10, 11, 12

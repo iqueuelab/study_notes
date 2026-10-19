@@ -26,7 +26,6 @@
 - Beach patrols, anti-poaching work and community/scientist cooperation complement habitat and fishing safeguards. Reduce bright lighting, touching/handling turtles, disturbance and inappropriate tourist access. Relocation/artificial incubation should follow evidence-based protocols and monitor hatching/sex ratios.
 - The source's claim that rescuing weak hatchlings necessarily reduces genetic resilience is an **argument, not an established conservation rule**. Prioritise natural habitat and qualified management while avoiding unnecessary interference. Likewise its global “30–50% decline since 1960” needs a defined population/assessment baseline.
 
-
 ## PDF coverage
 
 2025-02-22: pp. 7, 8, 9 · 2025-05-20: pp. 1, 2, 3 · 2025-05-21: pp. 14, 15, 16, 17

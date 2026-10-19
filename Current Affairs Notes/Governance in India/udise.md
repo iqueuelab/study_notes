@@ -23,7 +23,6 @@
 - Strengthen public-school quality, foundational literacy, teachers, accessible transport, inclusion, vocational pathways and women's employment. Consolidating schools needs safeguards for remote children's access.
 - Plan pensions/elder care and productive employment together; public education and digital tools should complement teachers rather than assume technology alone fixes inequality.
 
-
 ## PDF coverage
 
 2025-01-07: pp. 8, 9, 10, 11, 12 · 2025-02-19: pp. 20, 21, 22, 23 · 2025-02-20: pp. 14, 15, 16, 17

@@ -24,7 +24,6 @@
 | Spices | Kochi; Spices Board Act 1986 |
 - All five fall under **Commerce and Industry**, not Agriculture. **2008 matching PYQ: A–1, B–3, C–4, D–2 → (b)**. **2022 Tea Board PYQ: statements 1 and 4 → (d)**. Overseas-office statements must be read in their exam-year setting; the source's expanded five-city list/50% export assertion is not a verified current network or trade statistic.
 
-
 ## PDF coverage
 
 2025-02-28: pp. 3, 4 · 2025-03-08: pp. 1, 2, 3, 4, 5 · 2025-05-23: pp. 4, 5, 7, 8, 9, 10, 11

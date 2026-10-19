@@ -13,7 +13,6 @@
 ## Precision trap
 - The **stratospheric** polar vortex is principally a winter feature; the tropospheric circulation persists year-round. Avoid an undifferentiated claim that every polar vortex remains equally strong in every season.
 
-
 ## PDF coverage
 
 2025-01-13: pp. 13, 14, 15, 22, 24 · 2025-01-19: pp. 7, 30, 31

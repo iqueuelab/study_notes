@@ -11,7 +11,6 @@
 - The LAC is a disputed line of actual control, **not an agreed, fully demarcated international boundary**. India fought China in 1962.
 - “Largest trading partner” depends on year and whether goods or goods-plus-services are measured; a dated ranking must not become a timeless statement.
 
-
 ## PDF coverage
 
 2025-03-18: pp. 14, 15, 16, 17 · 2025-03-19: pp. 26, 27

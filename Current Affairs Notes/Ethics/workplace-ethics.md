@@ -23,7 +23,6 @@
 - Improve technology/R&D, management, worker skills, timely supplier payment, safe conditions and predictable fair wages; protect displaced workers during automation.
 - Productivity gains, worker dignity and stronger purchasing power can reinforce each other. Cheap labour alone cannot guarantee export competitiveness; market access/logistics/quality also matter.
 
-
 ## PDF coverage
 
 2025-01-11: pp. 16, 17, 18, 19 · 2025-02-24: pp. 1, 2, 3

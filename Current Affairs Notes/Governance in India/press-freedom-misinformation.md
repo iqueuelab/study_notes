@@ -13,7 +13,6 @@
 - Shrinking advertising/jobs, unpaid/precarious freelance/gig work, corporate consolidation and AI disruption threaten financial independence/diversity. Digital independent outlets offer alternative investigative/fact-checking voices but face their own financing and safety constraints.
 - **WEF Global Risks Report 2024** ranked misinformation/disinformation highly over the short-term horizon; a survey-based global risk assessment does not establish every allegation about a particular political party. Protect journalist safety and due process, plural ownership, sustainable revenue, transparent public advertising and digital/media literacy.
 
-
 ## PDF coverage
 
 2025-04-29: pp. 12, 13, 14 · 2025-05-10: pp. 13, 14, 15

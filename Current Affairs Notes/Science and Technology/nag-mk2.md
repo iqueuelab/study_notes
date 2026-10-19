@@ -10,7 +10,6 @@
 - **Nag missile**: third-generation imaging-infrared fire-and-forget anti-tank weapon. **NAMIS** is the integrated system; **NAMICA** is its tracked carrier based on BMP-2.
 - Missile, carrier and complete weapon-system procurement are different categories.
 
-
 ## PDF coverage
 
 2025-01-18: pp. 36, 37 · 2025-03-28: pp. 22, 23 · 2025-03-29: pp. 22, 23

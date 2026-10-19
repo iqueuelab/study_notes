@@ -11,7 +11,6 @@
 ## 6 April 2025: inauguration
 - The new Pamban railway bridge was inaugurated on **6 April 2025**. Its lift span is **72.5 m**, not the inconsistent 63 m figure repeated in this daily PDF. Sensors, electromechanical operation and train-control interlocking coordinate lifting with railway traffic; trains must stop while the span opens for shipping. [Railways](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2119836&lang=2&reg=48).
 
-
 ## PDF coverage
 
 2025-03-27: pp. 23, 24 · 2025-04-07: pp. 1, 2

@@ -16,7 +16,6 @@
 - The 1931 caste-publication baseline, wartime 1941 limitations, 2011 SECC and regular SC/ST enumeration are covered above. Data can inform subcategorisation/welfare but does not itself amend quotas.
 - Delimitation/women’s reservation follow constitutional Census-linked requirements, not automatic constituency redraw on 1 March 2027. Census postponement creates planning gaps; methodology, privacy and transparent coding matter.
 
-
 ## PDF coverage
 
 2025-05-01: pp. 6, 7, 8, 9, 10, 11, 12 · 2025-06-05: pp. 6, 7, 8, 9, 10, 11, 12

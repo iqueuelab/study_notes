@@ -22,7 +22,6 @@
 - Article 21 links protection of life to State prevention/emergency duties; the article’s safe-travel-right language does not mean every collision automatically establishes a constitutional violation.
 - Source economic estimates **US$109 billion over 10 years to halve fatalities, loss~3% GDP and ₹4 benefit per₹1 invested** are study/scenario figures, not annual budget commitments or universal investment returns. Integrate prevention with equitable urban planning and SDGs 3.6/11.
 
-
 ## PDF coverage
 
 2025-01-10: pp. 11, 12, 13, 25, 26, 29 · 2025-05-15: pp. 20, 21, 22, 23, 24

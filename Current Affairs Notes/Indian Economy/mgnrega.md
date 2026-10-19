@@ -1,0 +1,14 @@
+# MGNREGA: employment guarantee and proposed changes
+
+## 13 December 2025: reported rebranding proposal
+- Source reports a possible **‘Pujya Bapu Gramin Rozgar Yojana’** name and **100→125-day** guarantee proposal. These are **pre-legislative reports**, not an enacted new title, operative 125-day entitlement or proof later legislation would retain every reported feature. Reported Cabinet approval is distinct from passage/assent/commencement.
+- **MGNREGA enacted 2005; implementation began 2 February 2006**, later nationwide rural rollout. Ministry of Rural Development; statutory, demand-driven guarantee of **at least 100 days per rural household per financial year**, whose adult members volunteer for unskilled manual work. Not 100 days for every individual or a BPL/SC/ST-only benefit; **2011 PYQ answer (d)**.
+- Work ordinarily within **15 days of demand**; qualifying failure attracts unemployment allowance. Wage delay compensation, a separate entitlement, is source **0.05% of unpaid wages/day after the prescribed 15-day period**. Wage rates notified centrally, historically indexed to **CPI-AL**; States may supplement from own funds.
+- Correct the graphic's ‘Centre:State 60:40’: **60:40 is the wage–material ratio**, not the general intergovernmental funding split. Existing arrangement has Centre meeting unskilled-wage costs and up to three-fourths of material/skilled/semi-skilled costs; States meet the balance and unemployment allowance. Wage–material ratio is assessed at **district level**, not universally GP level. [Rural Development Ministry review](https://www.dord.gov.in/static/uploads/2024/02/4th_CRM_Report-1.pdf).
+- Special additional-day provisions for notified disaster/drought areas and specified eligible forest-rights/ST households require their conditions, not automatic 150 days for everyone. **At least one-third women beneficiaries**, social audit by Gram Sabha, decentralised planning and **GeoMGNREGA** asset records promote inclusion/accountability. **UNNATI** links eligible workers with skills and livelihood opportunities.
+- Source **₹86,000-crore FY2025–26 allocation, ~50.35 average days over five years, ~58% women participation** are different budget/performance measures and periods. Low average days does not by itself prove every household demanded 100 days and was denied them. **Amarjeet Sinha panel constituted 2022**; reported differentiated coverage/funding suggestions remain proposals, not automatic exclusions of more-developed States.
+- Policy assessment: timely demand registration/work/wages, adequate funds, accessible digital systems, independent social audits, asset quality and grievance redress; evaluate statutory rights and fiscal federalism beyond political naming. Article **41** is a DPSP, distinct from the specific statutory guarantee. Avoid unsupported ‘world's first right-to-work law’ ranking.
+
+## PDF coverage
+
+2025-12-13: pp. 1, 2, 3, 4, 5 · 2025-12-14: pp. 20

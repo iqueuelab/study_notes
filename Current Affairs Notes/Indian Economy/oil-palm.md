@@ -17,6 +17,13 @@
 - Repeated NMEO-OP targets/support are already in core notes. Source's starting CPO production **0.27 lakh tonnes** needs original-series/unit verification; do not treat this small baseline as established. [Original Cabinet targets](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1746943&lang=2&reg=48). Palm-kernel oil has edible as well as industrial uses; palm oil does not supply over half of all global vegetable oils under every measure.
 - **2021 PYQ:** African origin makes statement 1 false; lipstick/perfume and biodiesel uses make **2,3 correct**. PDF again omits the full option set; preserve as revision and flag bank completion against original paper.
 
+## December 2025: NMEO–Oilseeds alongside oil palm
+- **NMEO–Oilseeds, launched 2024**, complements **NMEO–Oil Palm (2021)**, with DA&FW implementation across States/UTs. Improve seed quality/productivity, processing and market linkages; expand suitable cultivation including rice/potato fallows to reduce import vulnerability.
+- Primary food-oil crops include **rapeseed–mustard, groundnut, soybean, sunflower, sesame, safflower, niger and linseed**; secondary sources include **cottonseed, coconut, rice bran and suitable tree-borne oils**. Source also lists **castor, neem, karanj and jatropha**; do not infer all listed oilseed products are edible oils—several primarily have industrial/biofuel uses.
+- Source funding description: **60:40 general States/legislature UTs, 90:10 NE/Himalayan States, 100% other UTs**. Oil-palm support includes nurseries/seed gardens, planting, maintenance, intercropping and price assurance; existing NMEO-OP notes contain detailed targets and safeguards.
+- Source's **~60% import dependence** and **US$18–20 billion annual import bill** lack a common specified reference year and are contextual estimates, not December 2025 audited totals. Supplier concentration creates price/foreign-exchange risks; productivity gains must be assessed with water, biodiversity and farmer-income effects.
+- Repeated **2018 edible-oils** and **2021 palm-oil** question stems omit their full answer options in both text and images. Keep keys as revision (**1 only; 2 and 3 only**) and flag for original-paper completion; do not manufacture option sets or add partial bank entries.
+
 ## PDF coverage
 
-2025-06-14: pp. 16, 17, 18, 19, 20, 21 · 2025-08-05: pp. 4, 5, 6, 7
+2025-06-14: pp. 16, 17, 18, 19, 20, 21 · 2025-08-05: pp. 4, 5, 6, 7 · 2025-12-10: pp. 1, 2, 3, 4, 5 · 2025-12-14: pp. 8

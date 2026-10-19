@@ -26,7 +26,6 @@
 - Judicial oversight, proportionate policing, impartial investigation, relief and rehabilitation, verified communication and protection of fundamental rights are complementary. Violence by individuals must not be attributed collectively to a religious community.
 - Distinguish peaceful constitutional disagreement about waqf administration from criminal acts during unrest. Articles 14, 21, 25 and 26 remain relevant to equal protection, life and religious freedoms.
 
-
 ## PDF coverage
 
 2025-04-01: pp. 3, 4, 5, 6 · 2025-04-14: pp. 7, 8, 9, 10

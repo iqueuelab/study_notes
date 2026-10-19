@@ -36,7 +36,6 @@
 - Civil defence tests warning → shelter/blackout → evacuation → rescue/medical response; coordination, accessible communication and protection of vulnerable groups matter. **Later verified:** South Goa reported its **7 May Operation Abhyaas** exercise on 8 May. [District/PIB account](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127665&lang=2&reg=48).
 - Diplomatic measures included reducing mission strength and India's **Indus Waters Treaty held in abeyance** decision; “suspended” is the PDF's shorthand, not treaty termination. Pakistan's response concerning bilateral agreements/Simla should not be treated as proof the LoC automatically ceased to exist or that unilateral treaty termination was legally established.
 
-
 ## PDF coverage
 
 2025-04-24: pp. 1, 2, 3 · 2025-05-01: pp. 1, 2, 3, 4, 5, 6, 26, 27, 28 · 2025-05-02: pp. 1, 2, 3, 4, 5, 9, 10, 11, 12, 13 · 2025-05-04: pp. 19 · 2025-05-06: pp. 1, 2, 3

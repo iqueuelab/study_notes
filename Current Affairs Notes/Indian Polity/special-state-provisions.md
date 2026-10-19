@@ -19,7 +19,6 @@
 - Recall **371D ≠371E**, **Nagaland ≠Mizoram land wording**; safeguards are specific, not blanket exemptions from every parliamentary law.
 - [Constitution of India: official text](https://www.legislative.gov.in/documents).
 
-
 ## PDF coverage
 
 2025-02-10: pp. 10, 11, 12

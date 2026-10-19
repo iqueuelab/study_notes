@@ -32,7 +32,6 @@
 - Governor's Chancellor role comes fromuniversity law, not automatically fromconstitutional Governor status. State Bills changingit need assent/commencement; disputes andpending Bills are source-era snapshots.
 - Balance transparent merit, independent academic selection, State voice andinstitutionalautonomy; concern overpoliticisation is an argument, not proofevery proposedappointee is biased.
 
-
 ## PDF coverage
 
 2025-01-15: pp. 8, 9, 10, 11 · 2025-01-21: pp. 4, 5, 6, 7, 8, 9, 10, 17, 18, 19 · 2025-01-26: pp. 6, 7 · 2025-03-11: pp. 13, 14, 15, 16, 17, 18, 19, 25, 29, 30

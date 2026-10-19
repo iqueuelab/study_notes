@@ -15,7 +15,6 @@
 - Other worlds present different penetration challenges: InSight's HP3 mole lacked adequate regolith friction; Philae's limited hammer penetration on its comet does not establish one deployment method universally superior.
 - Thermal data support future habitat, power-system and resource-use planning; they do not themselves establish commercially extractable ice or a completed lunar base.
 
-
 ## PDF coverage
 
 2025-03-15: pp. 6, 7, 8, 9, 15 · 2025-04-03: pp. 21, 22, 23, 24

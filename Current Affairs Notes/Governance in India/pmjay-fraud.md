@@ -15,7 +15,6 @@
 - Recommendations: coordinated Centre–State anti-fraud units, transparent due-process suspension/de-empanelment/recovery, accessible grievances, provider compliance and timely genuine payments. AI flags need expert review, explanations and privacy; **blockchain cannot make a false diagnosis/input true** or guarantee tamper-proof administration.
 - PDF's NHS/US/Australia examples are broad comparisons, not a verified universal protocol or requirement for biometric authentication in all Australian healthcare.
 
-
 ## PDF coverage
 
 2025-03-14: pp. 10, 11, 12, 13 · 2025-06-08: pp. 8, 9, 10, 11

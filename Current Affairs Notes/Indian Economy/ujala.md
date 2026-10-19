@@ -20,7 +20,6 @@
 ## Practice-test trap
 - UJALA household bulbs and the **Street Lighting National Programme (SLNP)** are separate programmes. Do not attribute cumulative streetlight replacements to UJALA merely because both use LEDs.
 
-
 ## PDF coverage
 
 2025-01-13: pp. 4, 5 · 2025-01-19: pp. 4, 24, 25

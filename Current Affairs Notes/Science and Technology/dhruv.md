@@ -29,7 +29,6 @@
 - Development began **1984** with German **MBB** technical assistance; first flight **1992**, service introduction **2002**. Military certification **CEMILAC**, civil certification **DGCA**, production assurance **DGAQA** have different responsibilities.
 - Source **73-helicopter 2017 orders** cover Army/Navy/Coast Guard variants; retain as dated procurement context. Crashworthy airframe, composites, glass cockpit and high-altitude capability do not remove all risks. Helmet pointing, countermeasures and inert-gas systems are variant/mission-specific rather than identical on every Dhruv.
 
-
 ## PDF coverage
 
 2025-01-18: pp. 42, 43, 44 · 2025-01-27: pp. 4, 5, 6, 7, 8, 9 · 2025-05-02: pp. 24, 25, 26

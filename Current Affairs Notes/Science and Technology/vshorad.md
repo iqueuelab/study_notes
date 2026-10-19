@@ -14,7 +14,6 @@
 - Igla-S imported/assembled arrangements and Starstreak Thales–BDL contracts differ from DRDO's indigenous VSHORADSdevelopment; signed orders, trials and delivered equipment are separate.
 - Short schedules can conflict with manufacturing/supply capacity. Build domestic R&D, certification, spares/training and reliable delivery while meeting urgent operational gaps.
 
-
 ## PDF coverage
 
 2025-02-03: pp. 1, 2, 3, 4 · 2025-03-09: pp. 5, 6, 7

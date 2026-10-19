@@ -12,7 +12,6 @@
 - The clipping reports Indian travellers cancelling Türkiye/Azerbaijan bookings after their perceived support for Pakistan during the conflict. These are consumer/travel-industry reports, **not an announced Indian government travel ban**. Mapping facts above remain the key prelims content.
 - Turkish is official; Kurdish and Arabic are also spoken. The source’s “over 99% Muslim” is an unsourced demographic estimate, not a necessary precise current census fact.
 
-
 ## PDF coverage
 
 2025-03-29: pp. 56, 57, 62, 63 · 2025-05-15: pp. 11, 12, 32, 33 · 2025-05-25: pp. 7, 8

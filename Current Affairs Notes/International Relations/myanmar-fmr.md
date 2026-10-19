@@ -18,7 +18,6 @@
 - Earlier FMR arrangements allowed specified movement within 16 km; late-2024 revised pass arrangements used 10 km. Withdrawal announcements and implementation differed across locations; do not describe an unconditional permanent visa-free entitlement.
 - Terrain, forests, drainage and cross-border Naga/Kuki-Zo ties complicate fencing. Combine lawful controls with community consultation, livelihood access and humanitarian safeguards; displacement does not itself establish criminality.
 
-
 ## PDF coverage
 
 2025-02-14: pp. 11, 12, 13, 14, 15 · 2025-03-16: pp. 1, 2, 3, 13, 14

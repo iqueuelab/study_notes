@@ -32,7 +32,6 @@
 - Asset tracing can support fraud/corruption/drug/environmental-crime investigations; **does not automatically freeze, confiscate or repatriate assets**. National legal process/evidence, international cooperation and judicial safeguards remain necessary.
 - **Silver = assets; Red = locate/request provisional arrest of persons under applicable law**. Source CBI Director's claim “more effective than MLAT” is an assessment; notices do not replace every mutual legal assistance requirement.
 
-
 ## PDF coverage
 
 2025-01-09: pp. 10, 11, 12, 20, 21, 22, 24 · 2025-01-11: pp. 13, 14, 15, 16, 19, 20, 21, 22 · 2025-01-18: pp. 40, 41, 42 · 2025-01-19: pp. 2, 19

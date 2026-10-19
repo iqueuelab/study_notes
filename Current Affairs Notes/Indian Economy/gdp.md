@@ -32,6 +32,13 @@
 - Link PLI/infrastructure/GST and UPI/JAM to productivity, access and resilience while assessing implementation, competition and distribution. Self-reliance can include diversified international supply and technology partnerships; it need not mean insulation from trade.
 - Source statistics mix periods and forecasts: $600-billion-plus reserves, $765-billion exports, 220-GW renewable capacity, $135-billion remittances and ₹3.17-lakh-crore festive sales are not one comparable October dataset. Its fourth-largest-economy claim incorrectly names Germany as the economy to overtake: the existing 2025 nominal-dollar projection comparison is with **Japan**. GDP rank/forecasts do not measure per-capita welfare. The supplied 250-word/15-mark essay is unyearred practice, not a CSE PYQ.
 
+## December 2025: IMF national-accounts data assessment
+- **2025 Article IV data assessment** gives **national accounts C**, while **overall data adequacy is B**. A sector-specific statistical-surveillance assessment is neither a sovereign-credit rating nor a declaration that all Indian data is fabricated. [IMF Article IV report](https://www.imf.org/en/Publications/CR/Issues/2025/11/25/India-2025-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-572056).
+- The article contrasts this with source-period **Q2 FY2025–26 real GDP growth of 8.2%**. Growth estimates and data-quality qualifications answer different questions: rapid reported growth can coexist with methodological gaps, without a logical contradiction or proof the particular rate is false.
+- Concern: limited timely direct informal-sector information and reliance on benchmarks/proxies linked to organised-sector indicators. Demonetisation, GST transition and COVID can weaken assumed co-movement; direction and size of bias need evidence rather than assuming every estimate is always inflated. The source's roughly **30% informal non-agricultural share** has a definitional/reference-period qualification.
+- Rebasing/revised methodology expected in **2026** was prospective at this issue date. Better business/household surveys, timely administrative data, transparent assumptions, revision policies and independent statistical capacity matter as well as changing a base year.
+- Editorial calls for critical media scrutiny, distribution/job-quality context and informed debate; its ‘only one newspaper reported this’ is a coverage claim, not an exhaustive verified media census. GDP growth alone does not describe informal-worker welfare or validate the estimation method.
+
 ## PDF coverage
 
-2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17 · 2025-07-27: pp. 1, 2, 3, 4 · 2025-10-14: pp. 1, 2, 3, 4
+2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17 · 2025-07-27: pp. 1, 2, 3, 4 · 2025-10-14: pp. 1, 2, 3, 4 · 2025-12-13: pp. 6, 7, 8 · 2025-12-14: pp. 21

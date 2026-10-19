@@ -19,7 +19,6 @@
 - Article 356 history includes inconsistent Governor responses to dissolution advice and political misuse; majority should ordinarily be tested on the floor. Existing notes cover approval, duration, Bommai judicial review and federal safeguards.
 - **Restoring a viable majority-supported government need not always await fresh elections**. The clipping's usual-election sequence is not a universal constitutional condition for revocation; suspended Assembly permits constitutionally valid alternatives. **Bihar 2005 events/Rameshwar Prasad 2006**, and **Uttarakhand/Arunachal 2016** illustrate judicial intervention; dates of events and judgments differ.
 
-
 ## PDF coverage
 
 2025-02-14: pp. 1, 2, 3, 4, 5 · 2025-06-03: pp. 42

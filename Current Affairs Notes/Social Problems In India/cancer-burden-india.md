@@ -21,7 +21,6 @@
 - Its projection of **2.08 million new cancer cases by 2040**, **57.5% above a 2020 baseline**, is a forecast. The source's broad “nearly 200,000 new cancer cases/year” clipping statement belongs to the breast-cancer discussion and must not replace India's much larger all-cancer burden.
 - Remaining 2022/2025 burden, cancer-site tables and State-ranking claims repeat the earlier issue—including its inconsistent **2.8-lakh breast cases/8.1-lakh deaths** figures. Use the corrected NCRP and GLOBOCAN datasets already recorded; do not append those erroneous tables again.
 
-
 ## PDF coverage
 
 2025-04-26: pp. 7, 8 · 2025-05-29: pp. 26, 27, 28

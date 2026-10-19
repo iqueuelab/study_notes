@@ -10,7 +10,6 @@
 - Protect estuarine water quality and mangrove habitat rather than equating a regional discovery with an automatic threatened-species category.
 - Weekly practice Q23 prints an inconsistent code explanation; both stated locality records are correct in its account, not a new taxonomic discovery.
 
-
 ## PDF coverage
 
 2025-01-23: pp. 6, 7 · 2025-01-26: pp. 11, 12

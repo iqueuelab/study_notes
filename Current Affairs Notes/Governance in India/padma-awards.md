@@ -15,7 +15,6 @@
 - Source calling the Bharat Ratna three-per-year limit merely a constitutional convention is imprecise: it is an executive award-framework norm, not a constitutional numerical provision; exceptional actual conferments must not rewrite historical PYQ wording.
 - Source “no Padma cap” omits the normal rule: **120 annually**, excluding posthumous and NRI/foreigner/OCI awards, with relaxation in highly deserving cases. [Official award rules](https://www.padmaawards.gov.in/About).
 
-
 ## PDF coverage
 
 2025-04-29: pp. 9, 10, 11, 12 · 2025-05-22: pp. 9, 10, 11 · 2025-05-28: pp. 21, 22, 23, 24

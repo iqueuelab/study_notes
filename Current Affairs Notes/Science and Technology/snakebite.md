@@ -43,7 +43,6 @@ The PDF lists Least Concern; this conservation category does not measure medical
 - It is a major cause of severe envenoming, including clotting disturbance and renal injury. The source's **“over 40% of all Indian snakebite deaths”** lacks a clearly specified national dataset and should not be memorised as a universal share.
 - Agricultural exposure, accidental encounters and delayed access to care contribute to burden. Regional venom research complements the existing **One Health, NAP-SE and antivenom-access** discussion; it does not replace clinical assessment. [IISc on geographic venom variation](https://www.iisc.ac.in/events/differences-in-snake-venom-composition-raise-questions-about-treatment/).
 
-
 ## PDF coverage
 
 2025-01-20: pp. 2, 3, 4, 5 · 2025-01-26: pp. 1, 2 · 2025-04-13: pp. 6, 7, 8, 9

@@ -16,7 +16,6 @@
 ## Status correction
 - **Painted stork: Least Concern since 2023**, replacing Near Threatened in the older notes/source. [Bird Life assessment update](https://www.birdlife.org/news/2023/12/12/the-2023-red-list-update-reveals-hope-for-birds-in-crisis/).
 
-
 ## PDF coverage
 
 2025-03-07: pp. 6, 7, 8

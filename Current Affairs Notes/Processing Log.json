@@ -5938,37 +5938,147 @@
     {
       "date": "2025-12-10",
       "pdf": "2025/12-December/2025-12-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "150fcb162636dedb805037ae701a559827516dd9c2f5f2d5e3cb8c92f5f3ca86",
+      "pages": 16,
+      "topic_ids": [
+        "biostimulants",
+        "bro",
+        "oil-palm",
+        "renewable-energy",
+        "suryakiran"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-11",
       "pdf": "2025/12-December/2025-12-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "096e7f8bfd981f31487676603e1bcc11e97e95bfc3c01a9906cdd28bd3f3928c",
+      "pages": 30,
+      "topic_ids": [
+        "blyths-tragopan",
+        "deep-ocean",
+        "deepavali",
+        "india-oman",
+        "india-russia",
+        "manufacturing",
+        "offshore-mining",
+        "ondc",
+        "startup-india",
+        "western-tragopan"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-12",
       "pdf": "2025/12-December/2025-12-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "35c810f7d4de50b7299e9bf80d5fd796fc9c1f07c81611d05502471670a73f0a",
+      "pages": 16,
+      "topic_ids": [
+        "blyths-tragopan",
+        "education-costs",
+        "hate-speech",
+        "narco-tests",
+        "western-tragopan"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-13",
       "pdf": "2025/12-December/2025-12-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "42526f4660a00fc8e8b89cb062d8ab311fe107cea5095550f74e009c583b7d94",
+      "pages": 14,
+      "topic_ids": [
+        "blue-economy",
+        "gdp",
+        "mgnrega",
+        "pax-silica"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-14",
       "pdf": "2025/12-December/2025-12-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "5c58564ffbfdc1e4b4d0e7e2279749ea1a7235e4fe04966eaddf89648a8d8671",
+      "pages": 22,
+      "topic_ids": [
+        "biostimulants",
+        "blyths-tragopan",
+        "bro",
+        "cosmic-filaments",
+        "deep-ocean",
+        "deepavali",
+        "dgca",
+        "dhruva",
+        "education-costs",
+        "gdp",
+        "harimau-shakti",
+        "hate-speech",
+        "india-oman",
+        "india-russia",
+        "manufacturing",
+        "mgnrega",
+        "narco-tests",
+        "offshore-mining",
+        "oil-palm",
+        "onchocerciasis",
+        "ondc",
+        "open-ecosystems",
+        "pax-silica",
+        "pmfme",
+        "renewable-energy",
+        "startup-india",
+        "suryakiran",
+        "western-tragopan",
+        "zambezi"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-15",
       "pdf": "2025/12-December/2025-12-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2abb13f4a850d35be623482518927e9863c4131bd21d65d2688f4982a3cfa467",
+      "pages": 15,
+      "topic_ids": [
+        "ethiopia",
+        "gerd",
+        "hayli-gubbi",
+        "india-ethiopia",
+        "lunarcrete",
+        "mh60r",
+        "nubian-ibex",
+        "ramappa-temple"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-16",
       "pdf": "2025/12-December/2025-12-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "1c31276e2fbb6e4e1302bed732d9b6509f9956e332801bcf4f99e126829e55eb",
+      "pages": 15,
+      "topic_ids": [
+        "biological-weapons-convention",
+        "india-jordan",
+        "india-oman",
+        "jordan",
+        "nuclear-liability",
+        "ricin",
+        "upi"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-17",
@@ -7312,7 +7422,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-12-10",
+  "next_pdf": "2025-12-17",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

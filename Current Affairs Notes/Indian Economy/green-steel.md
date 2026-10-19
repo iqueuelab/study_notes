@@ -41,7 +41,6 @@
 - India imports substantial suitable **coking coal** but has large domestic iron-ore production; avoid equating iron-ore and metallurgical-coal import dependence. Global competition, energy costs and decarbonisation affect export competitiveness.
 - Housing/infrastructure and manufacturing can expand demand, but future plant expansions and policy targets are not realised output. Generic references to Steel Development Fund/export incentives need scheme/date verification, not assumed universal subsidies.
 
-
 ## PDF coverage
 
 2025-01-02: pp. 1, 2, 3, 4 · 2025-04-22: pp. 8, 9, 10, 11, 12, 13, 14, 15 · 2025-04-23: pp. 13, 14, 15, 16, 17, 18, 19, 20 · 2025-05-14: pp. 13, 14, 15, 16, 17, 18 · 2025-06-01: pp. 14, 15, 16, 18, 19 · 2025-06-21: pp. 21, 22, 23, 24, 25, 26, 27, 28

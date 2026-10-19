@@ -18,7 +18,6 @@
 - **Outer Space Treaty Article VIII** retains ownership of objects/components despite return to Earth; **Rescue Agreement Article 5** governs notification/recovery/return on request with relevant conditions and expenses. **Liability Convention** addresses damage, not an automatic transfer of ownership or blanket immediate duty for any finder to ship debris. [UNOOSA Rescue Agreement](https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html).
 - Tracking cooperation, registration, passivation, planned disposal and end-of-life licensing complement liability rules; legacy debris shows that mission failure can leave enduring safety responsibilities.
 
-
 ## PDF coverage
 
 2025-03-06: pp. 11, 12, 13, 14 · 2025-05-12: pp. 11, 12, 13

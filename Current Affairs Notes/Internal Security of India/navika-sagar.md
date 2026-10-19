@@ -33,7 +33,6 @@
 - Its infographic is the **2017–18 first expedition**, six women under **Vartika Joshi**, with a projected March 2018 return—not the NSP-II crew. Do not blend the two voyages.
 - Retain existing Southern Ocean/Drake Passage/Cape Horn, severe-weather risk, repairs, navigation, teamwork and outreach notes. Success demonstrates sailing/endurance and women's leadership, not a direct measurement of combat power or consequence of Agnipath recruitment.
 
-
 ## PDF coverage
 
 2025-01-07: pp. 21, 22 · 2025-03-07: pp. 8, 9, 10 · 2025-04-02: pp. 10, 11, 12 · 2025-05-30: pp. 16, 17, 18

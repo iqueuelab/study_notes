@@ -24,7 +24,6 @@
 - India's **2025 elimination ambition** and broader regional goals are targets, not verified elimination; the PDF's blanket “WHO/India 2030 deadline” is not a substitute for a dated national target. Eradication is global cessation of transmission; elimination of transmission in a defined area differs from elimination as a public-health problem below a threshold.
 - Practice recall: measles is not waterborne; Gavi supports vaccine access; EPI was launched by **WHO**. These undated practice questions are separate from PYQs.
 
-
 ## PDF coverage
 
 2025-03-20: pp. 28, 29, 30, 50, 51 · 2025-03-30: pp. 12, 13, 14, 15 · 2025-05-29: pp. 18, 19, 20, 21, 22, 23

@@ -359,6 +359,18 @@
         "d": "Though ICJ declared them as no man's land, some South-East Asian countries claim them."
       },
       "answer": "b"
+    },
+    {
+      "chapter": "Biological Weapons Convention and biosecurity",
+      "year": 2020,
+      "question": "Consider the following pairs:\nInternational agreement/set-up — Subject\n1. Alma-Ata Declaration — Healthcare of the people\n2. Hague Convention — Biological and chemical weapons\n3. Talanoa Dialogue — Global climate change\n4. Under2 Coalition — Child rights\nWhich of the pairs given above is/are correctly matched?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "4 only",
+        "c": "1 and 3 only",
+        "d": "2, 3 and 4 only"
+      },
+      "answer": "c"
     }
   ]
 }

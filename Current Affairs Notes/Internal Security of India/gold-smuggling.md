@@ -21,7 +21,6 @@
 - Duty incentives, corruption, hawala and cross-border networks can facilitate smuggling; not every gold transaction finances terrorism. Traceability, cooperation and proportionate enforcement support legal trade.
 - GMS/SGB reduce demand for idle/physical gold through different mechanisms; regulated bonds are not equivalent to every commercial “digital gold”product.
 
-
 ## PDF coverage
 
 2025-02-10: pp. 5, 6, 7, 8, 9, 10 · 2025-03-09: pp. 1, 2, 3, 4, 5

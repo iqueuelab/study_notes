@@ -52,7 +52,6 @@
 - Impact assessment, genuine community consultation, rehabilitation/compensation/livelihood restoration, safety studies, early warning and contingency plans; suitable ecological flows/fish passage and catchment management. Afforestation cannot instantly replace lost mature habitats.
 - Interlinking may improve supply in particular cases but “surplus” varies seasonally; high finance/energy needs, ecological changes and displacement require basin-level assessment. Tehri illustrates Himalayan seismic/rehabilitation debate; neither every dam is unsafe nor every project automatically sustainable.
 
-
 ## PDF coverage
 
 2025-01-10: pp. 4, 5, 6, 7, 24, 25, 27, 28 · 2025-05-20: pp. 7, 8, 9, 10, 11, 12, 13, 14

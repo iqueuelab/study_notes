@@ -14,6 +14,9 @@
 - **UPI Lite** low-value functionality is distinct from **UPI Lite X** offline capability. RuPay credit-card linkage, recurring payments and credit lines have their own eligible uses; international merchant acceptance differs from bilateral remittance links.
 - Improve literacy, dispute resolution, fraud detection, uptime, competition and accessible non-smartphone options. Growth does not establish an inevitable **100% cashless economy**.
 
+## 2025 PYQ: international merchant acceptance
+- Listed countries: **UAE, France, Germany, Singapore, Bangladesh**; source answer **(b), only three—UAE, France and Singapore**. This tests **merchant payments**, distinct from bilateral remittance links or a future cooperation MoU. Preserve the examination-era country set rather than updating the answer from subsequent launches.
+
 ## PDF coverage
 
-2025-02-06: pp. 18, 19, 20, 21, 22, 23
+2025-02-06: pp. 18, 19, 20, 21, 22, 23 · 2025-12-16: pp. 9, 10

@@ -18,7 +18,6 @@
 - Buoys/floats and other observing systems → quality control/data archive → analysis/model assimilation → forecasts/advisories. Ocean analyses support coupled monsoon models rather than making INCOIS the sole monsoon-forecast authority.
 - Acts as **National Oceanographic Data Centre** under **IODE**, National/Regional **Argo Data Centre**; collaboration includes **IOGOOS, POGO and RIMES**. Research access, operational products and capacity-building improve marine resilience. [INCOIS mandate](https://incois.gov.in/site/aboutus.jsp).
 
-
 ## PDF coverage
 
 2025-03-23: pp. 7, 8, 9, 10, 11, 12 · 2025-05-30: pp. 1, 2, 3

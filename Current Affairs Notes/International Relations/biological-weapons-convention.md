@@ -7,6 +7,13 @@
 - The source describes a proposed national implementation framework: **high-risk-agent controls → dual-use research oversight → domestic reporting → incident response**. Treat this as a reform proposal, not an enacted new Indian law on these pages. Biosafety prevents accidental harm; biosecurity additionally addresses theft/misuse and deliberate threats.
 - Global South priorities: laboratory/public-health capacity, early detection, equitable vaccines/therapeutics, manufacturing access and international cooperation. COVID-19 exposed unequal access; the clipping's ‘150+ countries’ vaccine-supply count lacks a consistent metric and is not adopted as a verified Vaccine Maitri total.
 
+## December 2025: strengthening Indian preparedness
+- Editorial proposes an integrated national framework across **human, livestock and agricultural health**: high-risk research oversight, laboratory safeguards, rapid detection, coordinated response, intelligence and law enforcement. Dense populations, agricultural exposure and dual-use biotechnology/synthetic biology/AI create preparedness challenges; they do not establish that every outbreak is deliberate.
+- Institutional roles highlighted: **DBT** research governance, **NCDC** surveillance, **Animal Husbandry and Dairying** livestock systems, **plant-quarantine authorities**, and **NDMA** biological-disaster management. Legal foundations include **Environment (Protection) Act 1986**, **1989 biosafety rules**, recombinant-DNA/biocontainment guidelines and **WMD Act 2005**. India participates in the **BWC** and **Australia Group** export controls.
+- Existing BWC dates/verification limitations and biosafety–biosecurity distinction repeat earlier notes. India is a **BWC State Party**, not merely a signatory. Source's **Global Health Security Index rank 66** lacks its edition here and is not a current December-2025 ranking.
+- The alleged ricin plot is an investigative allegation; ricin is associated with **castor beans/residue**, not a claim that properly processed castor oil inherently contains weapon-ready toxin. Existing ricin notes explain its biology and legal controls.
+- **2020 PYQ reasoning:** **Alma-Ata Declaration—healthcare** and **Talanoa Dialogue—climate change** correctly match; **Under2 Coalition** concerns subnational climate action, not child rights. Source's categorical “Hague conventions have no chemical-weapons connection” is oversimplified: Hague-era law includes rules on poison/poisonous weapons, though the question's broad treaty match is not the intended correct pair. **BWC opened 1972/in force 1975; CWC opened 1993/in force 1997**.
+
 ## PDF coverage
 
-2025-12-02: pp. 7, 8, 9, 10
+2025-12-02: pp. 7, 8, 9, 10 · 2025-12-16: pp. 11, 12, 13, 14, 15

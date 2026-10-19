@@ -11,7 +11,6 @@
 - Post-poll entry before officers leave aims to reduce previous four-to-five-hour reporting delays, subject to connectivity; offline entries should sync when service returns. Approximate turnout trends remain distinct from legally authoritative final records/counts.
 - The June issue repeats other platform objectives/services/user estimates already covered in the preceding update. Timelier data needs clear revision rules, audit trails and secure authorised entry; technology does not change statutory record precedence.
 
-
 ## PDF coverage
 
 2025-06-04: pp. 19, 20, 21 · 2025-06-05: pp. 24, 25, 26

@@ -24,7 +24,6 @@
 ## Ethics illustration
 - A companion memoir portrays courteous leadership, humour, humility, tolerance of uncomfortable press questions and delegation to capable colleagues. Use as a qualitative example, not as a measurable policy outcome.
 
-
 ## PDF coverage
 
 2025-01-03: pp. 1, 2, 3, 4, 5, 6

@@ -21,7 +21,6 @@
 - Source cumulative throughput **7.2 lakh TEU since trials**, **2.20 lakh in current FY** are dated reporting snapshots, not design capacity or all-time final totals.
 - Deep draught, cranes/berths and efficient services enable megaship calls; feeder/hinterland connectivity determines durable hub gains. Source’s automatic **INSTC linkage** is overstated: Vizhinjam’s main locational advantage is near east–west Indian Ocean lanes, not proof it is a designated principal INSTC node.
 
-
 ## PDF coverage
 
 2025-05-03: pp. 1, 2, 3, 4, 5, 6, 7 · 2025-06-04: pp. 13, 14, 15, 16

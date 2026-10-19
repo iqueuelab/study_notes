@@ -31,7 +31,6 @@
 - Repeated article calls higher RBI transfer prospective, reflecting an earlier report, not necessarily status as at 31 May. Do not redate its historical₹2.1 lakh-crore surplus or claim every oil-price reduction translates into budget saving. Fiscal flexibility remains conditional on receipts, spending and buffer prudence.
 - Historical source again misdates **Kargil 1999** to 2000–02; macroeconomic crises/accounting changes confound security-cost comparisons. Capital investment and necessary revenue services both have value; assess opportunity costs and transparent appropriations.
 
-
 ## PDF coverage
 
 2025-05-18: pp. 15, 16, 17, 18, 19 · 2025-05-31: pp. 24, 25, 26, 27

@@ -40,7 +40,6 @@
 - The reported **Digital India Act** remained a proposed overhaul with no public draft identified in this issue, not an enacted replacement for section 79. X's challenge and complaints about delayed takedowns were ongoing disputes, not final legal outcomes at this date.
 - Balance prompt lawful responses to fraud, deepfakes and prohibited content with clear grounds, proportionate obligations, transparency, user notice/reasons where applicable, appeal and independent oversight. The editorial's court-only takedown proposal is a reform recommendation: existing law also recognised appropriate government notifications. Liability, blocking, platform moderation and safe-harbour loss are distinct mechanisms.
 
-
 ## PDF coverage
 
 2025-02-19: pp. 27, 28, 29, 30 · 2025-02-20: pp. 21, 22, 23 · 2025-02-21: pp. 9, 10, 11, 12, 13, 14, 20, 21, 22, 23 · 2025-02-24: pp. 19, 20, 21, 22 · 2025-02-26: pp. 8, 9, 10, 11 · 2025-03-04: pp. 23, 24, 25, 26 · 2025-03-21: pp. 17, 18, 19 · 2025-03-30: pp. 3, 4, 5 · 2025-04-29: pp. 6, 7, 8, 9 · 2025-05-11: pp. 8, 9, 10, 11

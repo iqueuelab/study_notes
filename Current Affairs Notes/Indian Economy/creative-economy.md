@@ -15,7 +15,6 @@
 - Address stressed openness to world cultures/creators, human sensitivity, ethical content and creativity over robotic uniformity. These are policy messages, not proof projected jobs or revenue have already materialised. [PM address](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2125749&lang=2&reg=48).
 - Opportunities: talent/skills, production investment, exports, cultural tourism and soft power. Constraints: fair IP/licensing and creator remuneration, finance/platform access, responsible AI and preserving cultural diversity; international collaborations and awards are instruments, not outcome measures.
 
-
 ## PDF coverage
 
 2025-04-22: pp. 20, 21, 22, 23 · 2025-04-23: pp. 7, 8, 9, 10 · 2025-05-02: pp. 26, 27, 28, 29

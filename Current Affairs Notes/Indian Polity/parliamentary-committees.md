@@ -26,7 +26,6 @@
 - AI/data analytics may flag budget anomalies, compare trends and assist better questions. Verify outputs, protect sensitive material and retain MP/committee judgment; technology does not itself confer investigatory authority.
 - Aim: transparent, responsive governance and informed parliamentary support while preserving independent scrutiny. Reform recommendations should not be represented as already adopted House rules.
 
-
 ## PDF coverage
 
 2025-03-27: pp. 9, 10, 11, 12 · 2025-05-03: pp. 7, 8, 9, 10, 11, 12

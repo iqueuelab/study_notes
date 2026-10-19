@@ -29,7 +29,6 @@
 - Source length **974 km** is an approximate convention, not uniquely established by every geographic source. Tributaries include **Miyar, Thirot, Bhut, Marusudar and other Himalayan streams**; basin networks matter for floods/hydropower.
 - Treaty **western river**, alongside Indus/Jhelum; allocation/use rights and April 2025 abeyance developments remain in the common Indus Treaty topic. India's bridge inauguration does not amend water allocations.
 
-
 ## PDF coverage
 
 2025-01-13: pp. 16, 17, 18, 22, 25 · 2025-01-19: pp. 8, 32, 33 · 2025-06-06: pp. 1, 2, 3, 4

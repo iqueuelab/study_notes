@@ -22,7 +22,6 @@
 - Graphic wrongly implies MTCR membership permits development above thresholds but categorically forbids exports. MTCR is an **export-control arrangement**, with a strong presumption of denial for qualifying Category I systems capable of delivering **≥500 kg to ≥300 km**; it is not a universal domestic-development ban or automatic ban on every missile exceeding 300 km. Hypersonic **Mach ≥5** is distinct from BrahMos's supersonic speed; BrahMos-II remains a development ambition.
 - Export-control details: [US State Department MTCR FAQ](https://2021-2025.state.gov/remarks-and-releases-bureau-of-international-security-and-nonproliferation/missile-technology-control-regime-mtcr-frequently-asked-questions/).
 
-
 ## PDF coverage
 
 2025-05-12: pp. 1, 2 · 2025-05-16: pp. 2, 3 · 2025-05-17: pp. 25, 26 · 2025-05-22: pp. 23, 24

@@ -11,7 +11,6 @@
 ## May 27 clipping: forecast horizons
 - The embedded report says improvements are largely visible in **short/medium-range rainfall forecasts (3–7 days)**; they do not automatically change month-ahead seasonal forecasts or ensure prediction of every sudden severe thunderstorm. Radar observations and specialised models remain important. Existing common notes cover launch, resolution and infrastructure.
 
-
 ## PDF coverage
 
 2025-05-26: pp. 13, 14, 15 · 2025-05-27: pp. 4, 5

@@ -12,7 +12,6 @@
 - GST, IBC, digital payments, infrastructure and investment can support growth; attributing all observed growth to one policy/leader exceeds the evidence.
 - Demographic dividend requires skills, health and productive jobs; a young population is an opportunity, not automatic growth. Forecast dates for overtaking Japan/Germany remain vintage-specific scenarios.
 
-
 ## PDF coverage
 
 2025-03-01: pp. 11, 12, 13, 14 · 2025-03-23: pp. 1, 2, 3

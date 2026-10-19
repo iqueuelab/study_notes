@@ -30,7 +30,6 @@ Digital tools: **SWAYAM** online courses; **National Academic Depository** digit
 - The article argues UGC's grant-making and regulatory roles may conflict and calls for abolition; this is **a reform argument**, not proof of abolition or universally established institutional failure.
 - Separate regulator, accreditation, funding and academic-standard functions with clear accountability if pursuing NEP's proposed HECI structure; institutional change requires the applicable law and implementation, not rhetoric alone.
 
-
 ## PDF coverage
 
 2025-04-08: pp. 17, 18, 19, 20 · 2025-05-14: pp. 7, 8

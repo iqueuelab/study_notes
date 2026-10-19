@@ -34,7 +34,6 @@
 - Dry heat and humid heat pose different risks; coastal humidity limits sweat evaporation, while inland dryness/low soil moisture can intensify daytime heating. Monsoon onset varies year-to-year: “after June 10 ” is not an invariant rule.
 - Priorities: local forecasts and hourly/accessible warnings where feasible, district heat-risk maps, funded action plans, shade/water/rest and health surveillance; water-efficient agriculture, micro-irrigation, rainwater harvesting and appropriate urban greening. Expansion of summer cropping must respect water scarcity, rather than assume irrigation always provides a sustainable heat solution.
 
-
 ## PDF coverage
 
 2025-04-21: pp. 17, 18, 19, 20 · 2025-05-10: pp. 4, 5, 6, 7 · 2025-05-15: pp. 15, 16, 17, 18, 28, 29 · 2025-06-12: pp. 6, 7, 8, 9

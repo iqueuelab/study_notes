@@ -8,12 +8,12 @@
 | Northeast, October–December | Seasonal retreat and northeasterly flow; moisture gained over the Bay of Bengal supplies southeastern peninsular India, especially Tamil Nadu and coastal Andhra Pradesh |
 - Normal southwest onset over **Kerala around 1 June**; onset dates vary. Active/break spells and uneven distribution matter alongside seasonal totals. [IMD monsoon information](https://mausam.imd.gov.in/responsive/monsooninformation_monsoon_activity.php).
 ## Mechanism and controls
-Summer heating of land and northwest India  
-↓  
-Thermal low + northward tropical convergence/monsoon trough  
-↓  
-Cross-equatorial inflow turns southwesterly  
-↓  
+Summer heating of land and northwest India
+↓
+Thermal low + northward tropical convergence/monsoon trough
+↓
+Cross-equatorial inflow turns southwesterly
+↓
 Ocean moisture + convergence + mountain lifting → rainfall.
 - **ITCZ:** convergence/low-pressure belt shifts north in boreal summer; the established monsoon trough and embedded disturbances organise rainfall.
 - **Tibetan Plateau and Himalayas:** elevated heating and a barrier to cold/dry extratropical air help shape circulation; their roles cannot be reduced to one heat-source explanation.

@@ -15,7 +15,6 @@
 ## Precision trap
 - **Seven serotypes** does not mean only seven viral strains: multiple strains/subtypes occur within serotypes.
 
-
 ## PDF coverage
 
 2025-01-14: pp. 6, 7, 8, 13, 16, 17 · 2025-01-19: pp. 10, 11, 38

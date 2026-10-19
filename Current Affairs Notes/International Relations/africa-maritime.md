@@ -19,7 +19,6 @@
 - **Tanzania map:** east African Indian Ocean coast; **Dodoma** is the capital, Dar es Salaam a major port; neighbours shown include Kenya, Uganda, Rwanda, Burundi, DR Congo, Zambia, Malawi and Mozambique; Zanzibar/Pemba lie offshore and Lakes Victoria/Tanganyika are inland.
 - Regional priorities include piracy, trafficking, illegal fishing, maritime terrorism, safe shipping and HADR. Do not reduce African cooperation to Act East or to rivalry with China; shared capacity and regional consent matter. The source's exact global oil-trade percentage is unnecessary without a defined denominator/date.
 
-
 ## PDF coverage
 
 2025-03-25: pp. 8, 9, 10, 11 · 2025-04-14: pp. 11, 12, 13, 14, 15, 16, 17

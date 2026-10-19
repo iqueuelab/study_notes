@@ -17,7 +17,6 @@
 - Three-stage strategy: natural-uranium PHWRs → plutonium fast breeders → thorium/U-233 systems. Reprocessing recovers usable uranium/plutonium but does not eliminate waste, cost, security or proliferation concerns.
 - Assess fuel/enrichment supply, vendor capability, financing/offtake, independent oversight, liability, emergency planning and long-term spent-fuel management. Supplier participation and proposed legal amendments must be distinguished from operative ownership/licensing rules.
 
-
 ## PDF coverage
 
 2025-03-13: pp. 13, 14, 15, 16, 17, 18, 24, 25, 30, 31, 32 · 2025-03-28: pp. 26, 27, 28, 29, 30, 31 · 2025-03-29: pp. 26, 27, 28, 29, 30, 31 · 2025-04-21: pp. 3, 4, 5, 6, 7, 8 · 2025-07-07: pp. 17, 18, 19, 20 · 2025-10-31: pp. 15, 16, 17

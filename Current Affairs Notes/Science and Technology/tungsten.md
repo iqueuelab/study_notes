@@ -11,7 +11,6 @@
 - Do not memorise 'resistant to all acids' or '95% used by steel' as universal facts. Distinguish mineral resources, economically recoverable reserves and actual production.
 - Atomic number **74**, atomic mass about **183.84**, density about **19.3 g/cm³**; these appear in the source graphic.
 
-
 ## PDF coverage
 
 2025-01-04: pp. 13, 14

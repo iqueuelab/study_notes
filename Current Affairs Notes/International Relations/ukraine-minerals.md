@@ -17,7 +17,6 @@
 ## Ukraine border recall
 - **2023 map PYQ: (a), only two—Hungary and Romania** among the six listed. **Bulgaria, Czech Republic, Latvia and Lithuania do not share a land border with Ukraine**. Other neighbours are **Belarus, Russia, Poland, Slovakia and Moldova**; international boundary recognition differs from wartime control.
 
-
 ## PDF coverage
 
 2025-05-02: pp. 29, 30, 31 · 2025-06-03: pp. 17, 18

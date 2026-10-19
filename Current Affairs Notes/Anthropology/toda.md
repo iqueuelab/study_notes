@@ -11,7 +11,6 @@
 ## Practice-test correction
 - The 19 January Noim answer letter contradicts its own explanation. Recall **traditional council/social dispute resolution**, with authority subject to Indian law; reject claims of unrestricted powers.
 
-
 ## PDF coverage
 
 2025-01-13: pp. 6 · 2025-01-19: pp. 5, 25, 26

@@ -17,7 +17,6 @@
 - At its **23 May Board meeting**, RBI maintained CRB at **7.5%** and approved **₹2,68,590.07 crore surplus transfer for accounting year 2024–25**. The decision occurred in the Union’s FY2025–26; approval and actual receipt are distinct. [RBI’s Board release](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60514), [revised ECF highlights](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60513).
 - The repeated review article in the 24 May PDF is stale: it does not establish that review remained unfinished or that the old CRB band was still operative. Core risk-buffer and fiscal distinctions are explained above.
 
-
 ## PDF coverage
 
 2025-05-17: pp. 20, 21, 22 · 2025-05-24: pp. 19, 20, 21

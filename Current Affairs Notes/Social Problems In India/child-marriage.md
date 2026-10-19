@@ -25,7 +25,6 @@
 - Source image highlights safety/violence, educational loss, reproductive health, psychological burden and violation of childhood rights. Child-help services support rescue/referral; an old **1098** image should not be treated as a complete description of present emergency-response integration.
 - **Mains framework:** scale and causes → law/enforcement → education and economic agency → health/social protection → community engagement → implementation gaps and measurable outcomes. The source's 250-word question is undated practice.
 
-
 ## PDF coverage
 
 2025-01-29: pp. 16, 17, 18, 19, 20 · 2025-04-20: pp. 4, 5, 6, 7

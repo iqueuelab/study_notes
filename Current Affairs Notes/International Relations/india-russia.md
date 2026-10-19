@@ -26,6 +26,13 @@
 - Embedded Sberbank account describes direct settlement technology and a **First-India fund linked to Nifty50** for Russian investment. A payment channel without Western intermediaries does not establish universal SWIFT replacement, unlimited transaction availability or immunity from sanctions/compliance requirements.
 - Strategic-autonomy analysis: preserve independent choices and dialogue while managing Ukraine-war pressures, energy interests, technology dependence and multipolar institutions; “time-tested” ties are a diplomatic characterisation.
 
+## December 2025: caution on new defence offers
+- The issue reports a **tepid Indian response** to Russian offers covering **Su-57, Geran/Shahed-type long-range attack drones, submarines and S-500** around Putin's visit. Offers/discussions are not signed purchase orders; no major deal for those platforms was announced in the account.
+- Indian priorities include **Tejas Mk2, AMCA, domestic UAV/loitering-munition capability, conventional AIP submarines and nuclear-submarine programmes**. Each has a different development/procurement stage; indigenous ambition does not mean all systems are operational or imports have ended.
+- Earlier FGFA difficulties, costs, technology access, sanctions-related production/delivery concerns and lifecycle dependence influence evaluation. Describing a drone as less sophisticated is the quoted source's procurement assessment, not proof it lacks battlefield utility.
+- Continuing military-technical dialogue, spares, maintenance, training and co-production illustrate a continuing relationship alongside diversification. This does not establish either complete dependence on Russia or complete freedom from it. Existing defence-production notes already retain **FY2024–25 ₹1,50,590 crore production** and dated export figures; do not count them again as new December production.
+- PYQ recall: **INS Astradharini 2016—torpedo launch/recovery vessel; Dhruv 2008—advanced light helicopter; Rafale/MiG-29/Tejas Mk1 2024—none fifth-generation; Dornier/IL-76/C-17 2025—two correct pairs**. All four are already in the common Science and Technology bank, so no duplicate entries.
+
 ## PDF coverage
 
-2025-03-28: pp. 7, 8, 9, 10, 11 · 2025-03-29: pp. 7, 8, 9, 10, 11 · 2025-05-06: pp. 3, 4, 5, 6, 7 · 2025-12-05: pp. 18, 19, 20
+2025-03-28: pp. 7, 8, 9, 10, 11 · 2025-03-29: pp. 7, 8, 9, 10, 11 · 2025-05-06: pp. 3, 4, 5, 6, 7 · 2025-12-05: pp. 18, 19, 20 · 2025-12-11: pp. 5, 6, 7, 8, 9, 10 · 2025-12-14: pp. 13

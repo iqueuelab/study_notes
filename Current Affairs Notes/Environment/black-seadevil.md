@@ -12,7 +12,6 @@
 - Research and habitat protection matter amid deep-sea pollution, warming and extraction pressure; rare footage alone does not establish the sighting's cause.
 - [FishBase species listing](https://fishbase.org/identification/SpeciesList.php?genus=Melanocetus) identifies *M. johnsonii* as an already described species (**1864**).
 
-
 ## PDF coverage
 
 2025-02-16: pp. 1, 2

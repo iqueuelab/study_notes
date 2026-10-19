@@ -25,7 +25,6 @@
 - India's China/Pakistan border challenges support preparedness, infrastructure, naval/cyber capability and modernisation. Spending totals do not measure readiness or guarantee deterrence.
 - Evaluate personnel/modernisation balance, import dependence, indigenous R&D and manufacturing, UP/Tamil Nadu defence corridors, procurement efficiency and health/education opportunity costs. The source's Defence Production Policy 2020 reference should be read as the **draft DPEPP 2020**, not proof of an operative final policy.
 
-
 ## PDF coverage
 
 2025-01-18: pp. 45, 46 · 2025-04-29: pp. 3, 4, 5, 6

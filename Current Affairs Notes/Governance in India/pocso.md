@@ -23,7 +23,6 @@
 - Source corrections: mandatory reporting already existed in **2012**, not first created in 2019; minimum imprisonment for using a child for pornographic purposes is **5 years**, and **7 years on subsequent conviction**, not a universal fixed 5–7-year ceiling. Aggravated assault and ordinary assault have different punishments.
 - **Section 35** remains **30 days for child evidence after cognizance**, with reasons for delay, and trial **as far as possible within one year**; the PDF's six-month trial deadline is wrong. Investigation deadlines under criminal-procedure law must be identified separately. Sections **29–30** create specified presumptions, not an unconditional presumption in every conceivable POCSO case. [Official statute](https://www.indiacode.nic.in/bitstream/123456789/9318/1/sexualoffencea2012-32.pdf).
 
-
 ## PDF coverage
 
 2025-03-27: pp. 1, 2, 3, 4 · 2025-04-25: pp. 9, 10, 11, 12
