@@ -779,6 +779,30 @@
         "d": "1 and 3"
       },
       "answer": "d"
+    },
+    {
+      "year": 2013,
+      "chapter": "Pygmy hog: alluvial grasslands and species recovery",
+      "question": "Consider the following:\n1. Star tortoise\n2. Monitor lizard\n3. Pygmy hog\n4. Spider monkey\nWhich of the above are naturally found in India?",
+      "options": {
+        "a": "1, 2 and 3 only",
+        "b": "2 and 3 only",
+        "c": "1 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2008,
+      "chapter": "Gorillas: taxonomy, One Health and conservation",
+      "question": "Among the following, which one is not an ape?",
+      "options": {
+        "a": "Gibbon",
+        "b": "Gorilla",
+        "c": "Langur",
+        "d": "Orangutan"
+      },
+      "answer": "c"
     }
   ]
 }

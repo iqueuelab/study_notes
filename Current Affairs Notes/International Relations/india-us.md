@@ -57,6 +57,12 @@
 - Bilateral trade negotiations and a possible meeting alongside Malaysia/ASEAN-related gatherings remained prospective. No signed FTA, guaranteed meeting or completed reduction of Russian oil purchases is established by this issue.
 - Readout differences illustrate audience, bargaining and strategic-autonomy considerations; the source's “silent strength/public pressure” labels are editorial interpretation, not official doctrines. GSP withdrawal is earlier background rather than a newly announced October measure.
 
+## 3 February 2026: tariff announcement and different readouts
+- Following the **2 February Modi–Trump call**, Modi welcomed the announced reduction of US tariffs on Indian products to **18%**. This is the issue-date announcement; it does not establish that a complete FTA had been signed or every customs measure implemented. [PMO readout, 2 February](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2222399&lang=3&reg=3).
+- Trump additionally claimed India would remove tariff/non-tariff barriers, stop buying Russian oil and buy **US$500 billion** of US products. The Indian readout did **not confirm those detailed commitments**. Distinguish this purchase claim from the earlier bilateral **US$500-billion trade target for 2030**.
+- The earlier **up to 50%** headline combined measures on covered Indian goods, with exemptions; neither the old nor new headline is a uniform effective rate on every product. Lower barriers could improve export competitiveness, especially labour-intensive manufactures, but sector-specific coverage matters.
+- The issue reports Jaishankar's US visit for a Critical Minerals Ministerial: mineral diversification, processing capacity and trusted supply chains connect trade diplomacy with energy/technology security. This was an ongoing diplomatic engagement, not proof that a new minerals agreement had been concluded.
+
 ## PDF coverage
 
-2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6 · 2025-09-06: pp. 10, 11, 12 · 2025-09-11: pp. 11, 12 · 2025-09-23: pp. 1, 2 · 2025-10-23: pp. 12, 13, 14
+2025-02-15: pp. 1, 2, 3, 4 · 2025-03-28: pp. 31, 32, 33, 34 · 2025-03-29: pp. 31, 32, 33, 34 · 2025-04-22: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-06-12: pp. 3, 4, 5, 6 · 2025-09-06: pp. 10, 11, 12 · 2025-09-11: pp. 11, 12 · 2025-09-23: pp. 1, 2 · 2025-10-23: pp. 12, 13, 14 · 2026-02-03: pp. 1, 2

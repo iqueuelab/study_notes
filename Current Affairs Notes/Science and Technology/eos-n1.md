@@ -12,6 +12,12 @@
 - PSLV's four stages alternate **solid → liquid → solid → liquid**. This failure followed **C61 in May 2025**; **D1 in 1993 and C39 in 2017** are other source-listed failures. Counting complete versus partial mission outcomes needs consistent definitions; the chronology does not prove C61 and C62 had the same cause.
 - Strategic Earth-observation continuity, launch confidence, insurance and commercial schedules are implications. Source reports private payload insurance and possible NSIL refund/re-flight negotiations; **coverage, cross-waivers and compensation depend on actual contracts**, not an automatic universal exemption or guaranteed repayment of satellite value. EOS-N1's DRDO attribution is source reporting; official mission nomenclature is retained without inventing classified specifications.
 
+## 3 February 2026: independent appraisal after launch failures
+- The Minister reported an **external expert appraisal alongside ISRO's investigation** after consecutive **PSLV-C61 (18 May 2025)** and **C62 (12 January 2026)** failures. Independent scrutiny can improve fault isolation and confidence without implying ISRO lacks expertise.
+- **Correction to the explainer:** ISRO describes C62's anomaly **towards the end of PS3**, not failure of the third stage to ignite. A common affected stage does not establish identical root causes. [ISRO mission record](https://www.isro.gov.in/Mission_PSLV_C62.html).
+- The next PSLV flight was **tentatively targeted for June**, subject to validated corrections. The Minister's **18 launches planned in 2026, six involving private satellites**, and stated absence of client withdrawals were reported plans/assurances, not completed launch outcomes.
+- Diagram recall: PSLV's four stages alternate **solid–liquid–solid–liquid**; PS3 is a solid motor. Separate vehicle reliability, payload capability, investigation findings and return-to-flight approval.
+
 ## PDF coverage
 
-2026-01-08: pp. 1, 2, 3 · 2026-01-13: pp. 1, 2, 3 · 2026-01-18: pp. 4, 5
+2026-01-08: pp. 1, 2, 3 · 2026-01-13: pp. 1, 2, 3 · 2026-01-18: pp. 4, 5 · 2026-02-03: pp. 3, 4

@@ -11,6 +11,12 @@
 - Tourism creates jobs, foreign exchange and local demand, but seasonal overcrowding, safety, scams, waste, water pressure and habitat damage can undermine benefits.
 - Develop lesser-known destinations within carrying capacity; improve transport/accessibility, reliable sanitation, local skills, fair community benefits and outcome-based maintenance.
 
+## January 2026: from attractions to visitor experience
+- Editorial's **three-I framework**: **image** (safety, sanitation, scams and trust); **infrastructure** (last-mile transport, toilets, signage, connectivity, museums and maintenance); **institutional/service behaviour** (immigration, crowd management, guides and hospitality). Branding cannot compensate for a poor end-to-end trip.
+- Segment promotion around spiritual/cultural circuits, adventure, luxury and regional experiences; link digital storytelling to reliable services. Proposed improvements include tourist police with women officers, multilingual guides, verified information, hospitality/homestay training and predictable e-visa/immigration procedures.
+- PPP amenities and Adopt a Heritage can support maintenance; assess destination outcomes rather than only built assets. Regulate footfalls, protect ecology/culture and share benefits with local communities through responsible tourism.
+- The source's Singapore/Thailand comparisons and **40% trained-staff shortfall** lack a consistent year/denominator here; use them as the author's concern, not verified current national statistics. Foreign tourist arrivals, NRI-inclusive international arrivals and tourism receipts are distinct measures.
+
 ## PDF coverage
 
-2025-04-01: pp. 15, 16, 17, 18
+2025-04-01: pp. 15, 16, 17, 18 · 2026-01-29: pp. 1, 2, 3, 4 · 2026-01-31: pp. 29

@@ -2234,6 +2234,44 @@
     {
       "issue_date": "2026-01-24",
       "reason": "Unyearred ACC, Kaladi and expressly labelled fisheries practice questions excluded. Genuine 2025 aircraft and 2015 GI questions already exist and are deduplicated."
+    },
+    {
+      "issue_date": "2026-01-28",
+      "item": "FTA export determinants, explicitly CDS 2024 p9",
+      "decision": "Excluded: not CSE; conceptual explanation retained."
+    },
+    {
+      "issue_date": "2026-01-28",
+      "item": "IONS2017 and IOR-ARC2015 pp17–19; repeated29Jan pp18–20",
+      "decision": "Authentic, already banked under Indian Economy maritime-finance; no duplicate added."
+    },
+    {
+      "issue_date": "2026-01-29",
+      "item": "Nitrogen-fixing plants2022 pp10–11",
+      "decision": "Authentic, already banked under Indian Economy; no duplicate added."
+    },
+    {
+      "issue_date": "2026-01-30",
+      "item": "Ethanol producers2025 pp5–6",
+      "decision": "Authentic, already banked under Science and Technology; no duplicate added."
+    },
+    {
+      "issue_date": "2026-01-30",
+      "item": "E20 250word/15mark prompt p5 and five-option RVC question pp15–16",
+      "decision": "Practice questions, excluded; no authentic CSE mains question supplied."
+    },
+    {
+      "issue_date": "2026-01-28",
+      "item": "Halwa p20 MCQ",
+      "decision": "Practice; no year/attribution, excluded."
+    },
+    {
+      "issue_date": "2026-01-31",
+      "reason": "Repeated 2020 steel-slag, 2016 Red Sanders/ISA, 2021 rolling-defence/Padma/devaluation, 2024 PFAS, 2019 State-Assembly, 2014/2015 classical-languages, 2010 UNCTAD, 2017 IONS, 2015 IORA, 2022 nitrogen-fixation, 2025 ethanol and 2013 fauna questions compared against common banks and result06–08; retain existing authentic entries without duplication. CDS2023 sonic-boom and BPSC2025 humanoid questions excluded as non-CSE. Economic Survey appendix contains no supplied CSE PYQs."
+    },
+    {
+      "issue_date": "2026-02-03",
+      "reason": "CDS-I 2025 mountain-gorilla question excluded as non-CSE; wetlands 250-word/15-mark mains question explicitly practice."
     }
   ],
   "resolved": [

@@ -8,6 +8,11 @@
 - Separate bilateral agreements preserve tailored negotiations but add compliance complexity; tariff preferences need credible origin checks, competitive production, logistics, skills and safeguards. Trade deficits alone do not prove an FTA failed, while indirect Chinese inputs are not automatically illegal transshipment.
 - **2016 PYQ answer (b) ASEAN**; already present in common IR bank, so preserve the existing question without duplication.
 
+## January 2026: reading the “eight FTAs since 2021” claim
+- The promotional list combines **Mauritius CECPA (2021), UAE CEPA and Australia ECTA (2022), EFTA TEPA (signed 2024), UK CETA and Oman CEPA (signed 2025), New Zealand FTA negotiations concluded December 2025, and EU negotiations concluded January 2026**. It counts deals at different legal stages; it does not establish eight new agreements already operating.
+- EFTA comprises **Switzerland, Norway, Iceland and Liechtenstein**, distinct from the EU. Its **US$100bn investment commitment over 15 years** is a prospective investment-linked undertaking, not money already received. UK/EU preferential coverage and NZ's concluded negotiations should retain their own implementation timelines.
+- FTAs lower selected barriers; benefits require competitiveness, origin compliance, logistics, standards and demand. Liberalisation is not equivalent to abandoning every sensitive-sector safeguard.
+
 ## PDF coverage
 
-2026-01-03: pp. 12, 13, 14, 15, 16
+2026-01-03: pp. 12, 13, 14, 15, 16 · 2026-01-28: pp. 7, 8, 9, 10 · 2026-01-31: pp. 21

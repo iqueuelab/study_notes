@@ -694,6 +694,30 @@
         "d": "1, 2 and 3"
       },
       "answer": "d"
+    },
+    {
+      "year": 2021,
+      "chapter": "Rupee depreciation: trade and capital-flow channels",
+      "question": "Consider the following statements:\nThe effect of the devaluation of a currency is that it necessarily:\n1. improves the competitiveness of the domestic exports in the foreign markets\n2. increases the foreign value of the domestic currency\n3. improves the trade balance\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "3 only",
+        "d": "2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2024,
+      "chapter": "Soybean: crop characteristics and international trade",
+      "question": "Consider the following plants:\n1. Groundnut\n2. Horse-gram\n3. Soybean\nHow many of the above belong to the pea family?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "c"
     }
   ]
 }

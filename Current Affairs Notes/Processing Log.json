@@ -6721,27 +6721,100 @@
     {
       "date": "2026-01-28",
       "pdf": "2026/01-January/2026-01-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "71e651231faf89d090e2febf3a448cc4c8517f0674366b262e2789c28dd8a8cc",
+      "pages": 24,
+      "topic_ids": [
+        "india-eu",
+        "ions-iora",
+        "rcep-trade-strategy",
+        "rupee-trade",
+        "union-budget-preparation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-29",
       "pdf": "2026/01-January/2026-01-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d97c673f4bf9e38198388da1027882d6ebcd0323d3cf56d530874468b2927832",
+      "pages": 20,
+      "topic_ids": [
+        "ions-iora",
+        "soybean",
+        "tourism"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-30",
       "pdf": "2026/01-January/2026-01-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d17e160f4c80c53a51ccafbe1c3ac4381b3ae585169a3580d576067e3e289420",
+      "pages": 16,
+      "topic_ids": [
+        "ethanol-maize",
+        "multilateralism",
+        "pygmy-hog",
+        "remount-veterinary-corps"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-31",
       "pdf": "2026/01-January/2026-01-31.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2083ad12bd0bdcd74f47cf0885cba84d255add124b7896148fbc15fc3ec15dd0",
+      "pages": 82,
+      "topic_ids": [
+        "agarwood",
+        "asc-arjun",
+        "economic-survey",
+        "ethanol-maize",
+        "exominer",
+        "fdi-india",
+        "gallantry-awards",
+        "governor-state-relations",
+        "gyan-bharatam",
+        "india-eu",
+        "international-solar-alliance",
+        "ions-iora",
+        "madras-hedgehog",
+        "multilateralism",
+        "padma-awards",
+        "pfas",
+        "pygmy-hog",
+        "rcep-trade-strategy",
+        "remount-veterinary-corps",
+        "rupee-trade",
+        "sonic-boom",
+        "soybean",
+        "steel-slag",
+        "tailings-recovery",
+        "tourism",
+        "union-budget-preparation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-03",
       "pdf": "2026/02-February/2026-02-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "749920a298564fe449f89a22963642fff60b909d5e1e4a1665fc0812dd8492f6",
+      "pages": 17,
+      "topic_ids": [
+        "eos-n1",
+        "gorilla-conservation",
+        "india-us",
+        "menstrual-health-rights",
+        "wetlands-governance"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-04",
@@ -7875,7 +7948,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-01-28",
+  "next_pdf": "2026-02-04",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -8042,6 +8115,16 @@
       "date": "2026-01-25",
       "status": "No standalone or combined issue found",
       "evidence": "Assignment07 jobs.json and January source collection contain no 2026-01-25.pdf; date recorded as a source gap without invented notes."
+    },
+    {
+      "date": "2026-02-01",
+      "status": "No standalone PDF; 1 February banner reviewed in 31 January file",
+      "evidence": "jobs.json and January/February source inventory show no standalone 2026-02-01.pdf. Physical 2026-01-31.pdf page 1 explicitly displays 1st Feb. 2026; its complete 82 pages reviewed under physical January 31, including repeated January 26–30 material and Economic Survey Highlights. This is a filename/banner discrepancy, not an entirely unreviewed 1 February banner."
+    },
+    {
+      "date": "2026-02-02",
+      "status": "No standalone or combined issue found",
+      "evidence": "jobs.json and January/February source inventory show no 2026-02-02.pdf; physical January 31 file has only explicit 1 February banner and does not establish a 2 February issue. No notes invented for 2 February."
     }
   ]
 }

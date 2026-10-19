@@ -17,6 +17,12 @@
 - Veto deadlock, underrepresentation, funding uncertainty, bureaucracy and politicisation constrain effectiveness. India links representative reform and African representation with its demographic weight, development role and peacekeeping contribution; advocacy does not itself confer permanent membership.
 - Mains framework: preserve convening/humanitarian/normative capacity → reform representation and accountability → realistic mandates, timely funding and field capacity → collective response to climate, pandemics and cyber threats. The supplied **250-word** UN-reform prompt is practice material with no PYQ year.
 
+## January 2026: mercantilism and India's preparedness
+- Editorial interprets greater tariff coercion, strategic supply chains and weakened cooperation as a shift towards **mercantilism**: treating trade surpluses and domestic production as instruments of national power. Its “end of globalisation” is a political argument, not proof cross-border trade, investment or multilateral institutions have ended.
+- Proposed causes: uneven distribution of gains, capital returns outpacing wages, regional manufacturing dislocation, populism and China's state-led integration into world markets. These are analytical explanations; avoid attributing every social or geopolitical change to a single cause.
+- India needs productive capacity and human development to convert demographic potential into broadly shared growth. Health, education, manufacturing capabilities, administrative capacity and social cohesion strengthen bargaining power; rhetoric alone cannot substitute for delivery.
+- **DPI (Aadhaar/UPI), renewable energy, services and decentralised governance** are potential strengths. Combine diversified partnerships and strategic autonomy with domestic capability, inclusive institutions and practical climate/financial cooperation; a world of greater rivalry still leaves space for collective rules.
+
 ## PDF coverage
 
-2025-03-21: pp. 4, 5, 6, 7 · 2025-10-24: pp. 4, 5, 6, 7
+2025-03-21: pp. 4, 5, 6, 7 · 2025-10-24: pp. 4, 5, 6, 7 · 2026-01-30: pp. 6, 7, 8, 9 · 2026-01-31: pp. 34

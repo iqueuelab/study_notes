@@ -51,6 +51,24 @@
 - Negotiation conclusion differs from legal scrubbing, final text, translation, signature, required approvals/ratification and entry into force. Do not treat the headline as immediate tariff elimination.
 - The leaders' **26 January Republic Day chief-guest participation** illustrates wider strategic engagement. The source also expected a security/defence framework; the summit confirmed its signing. Its fields include maritime security, defence technology/industry, cyber/hybrid threats, space and counterterrorism—cooperation framework, not mutual-defence treaty.
 
+## January 2026: what the concluded FTA would change
+- **Agreed market-access terms**, conditional on entry into force; scale: about **2 billion people**, roughly a quarter of world GDP; promotional “mother of all deals” is not a formal treaty category.
+- India's announced access: **about 97% of EU tariff lines /99.5% of export value**; immediate elimination at entry into force on **70.4% of lines /90.7% of exports**, followed by phased and partial concessions. India's offer: **92.1% of lines /97.5% of EU export value**, including immediate, phased and quota-based treatment. Tariff lines and trade-value shares are different denominators. EU commitments cover **144 services subsectors**, India's **102**. [Commerce Ministry, 27 January](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219146).
+- Textiles/apparel, leather/footwear, gems, chemicals, engineering and marine exports gain opportunities; customs simplification, origin compliance, quality standards and logistics determine realised gains. A tariff concession does not suspend EU food-safety or technical requirements. SMEs have a dedicated cooperation chapter.
+- EU agri-food concessions are staged/product-specific: most wine tariffs eventually **30%**, spirits **40%**, beer **50%**; olive oil, selected juices, processed food and sheep meat receive elimination with applicable staging. **Automobiles receive calibrated access**, so “autos remain protected” must not be read as complete exclusion. Sensitive agriculture remains safeguarded. [European Commission chapter summary](https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/india/eu-india-agreements/memo-eu-india-free-trade-agreement-chapter-chapter-summary_en).
+- Mobility and AYUSH provisions require their stated conditions: professional entry is temporary/category-specific; AYUSH practice using Indian qualifications applies where the relevant EU member has no regulating rules. Neither is an unrestricted EU-wide professional licence. The source's post-study minimum stay should not be treated as a new unconditional visa guarantee created by the FTA.
+- **US$75.85bn** denotes FY2024–25 Indian merchandise exports to the EU, rather than a guaranteed new US$75bn export windfall. Diversification can reduce exposure to US protectionism and concentrated supply chains, but forecasts of jobs, investment and export expansion remain prospective.
+### Export clusters to connect with the agreement
+| Region | Illustrative production base |
+|---|---|
+| Tamil Nadu /Kerala | Tiruppur apparel; Ambur–Vellore leather; Chennai–Coimbatore engineering; Kerala seafood and Idukki–Wayanad spices |
+| Assam /West Bengal | Tea, bamboo crafts, Darjeeling tea and marine exports |
+| Maharashtra /Gujarat | Ichalkaranji textiles, Pune engineering, Surat textiles/diamonds, Bharuch–Vadodara chemicals |
+| Karnataka /Punjab | Bengaluru electronics/medical devices; Ludhiana knitwear; Jalandhar sports goods |
+| Andhra Pradesh /Telangana | Coastal seafood; Hyderabad pharmaceuticals, electronics and devices |
+| Uttar Pradesh /Rajasthan | Kanpur–Agra leather; Saharanpur–Jodhpur furniture/handicrafts; Jaipur gems |
+- These are source-illustrated opportunities, not measured post-agreement outcomes. Rules of origin, SPS compliance, infrastructure and purchasing power affect export success; the source's FTA-growth question is **CDS 2024**, outside the CSE PYQ bank.
+
 ## PDF coverage
 
-2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21 · 2025-07-15: pp. 31, 32, 33, 34, 35, 36, 37 · 2025-09-08: pp. 3, 4, 5 · 2026-01-09: pp. 11, 12, 13 · 2026-01-27: pp. 12
+2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21 · 2025-07-15: pp. 31, 32, 33, 34, 35, 36, 37 · 2025-09-08: pp. 3, 4, 5 · 2026-01-09: pp. 11, 12, 13 · 2026-01-27: pp. 12 · 2026-01-28: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 · 2026-01-31: pp. 20, 21
