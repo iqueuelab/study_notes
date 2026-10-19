@@ -85,6 +85,18 @@
         "d": "USA"
       },
       "answer": "a"
+    },
+    {
+      "year": 2024,
+      "chapter": "Exercise Harimau Shakti: India–Malaysia army cooperation",
+      "question": "Which of the following statements about ‘Exercise Mitra Shakti-2023’ are correct?\n1. This was a joint military exercise between India and Bangladesh.\n2. It commenced in Aundh (Pune).\n3. Joint response during counter-terrorism operations was a goal of this operation.\n4. Indian Air Force was a part of this exercise.\nSelect the answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "1, 2 and 4",
+        "c": "1, 3 and 4",
+        "d": "2, 3 and 4"
+      },
+      "answer": "d"
     }
   ]
 }

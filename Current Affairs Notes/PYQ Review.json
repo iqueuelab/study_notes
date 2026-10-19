@@ -2141,6 +2141,35 @@
       "year": 2024,
       "question": "Consider the following:\n1. Pyroclastic debris\n2. Ash and dust\n3. Nitrogen compounds\n4. Sulphur compounds\nHow many of the above are products of volcanic eruptions?",
       "reason": "Root inspected saved official UPSC CSE 2024 GS-I booklet A, question 3, physical page 3. Full options restored: Only one/Only two/Only three/All four. Complete bank entry added; official answer key not checked, so answer withheld. Conceptual explanation includes volcanic nitrogen compounds with primary research."
+    },
+    {
+      "status": "resolved_original_papers",
+      "topic": "oil-palm",
+      "years": [
+        2018,
+        2021
+      ],
+      "evidence": "Saved official CSE GS-I papers visually inspected: 2018 booklet A Q10 physical p7; 2021 Q52 physical p25. Complete options restored in common Indian Economy Prelim bank. Earlier source-omission flags are superseded by this resolution."
+    },
+    {
+      "status": "resolved_original_paper",
+      "topic": "harimau-shakti",
+      "year": 2024,
+      "evidence": "Parent visually inspected saved official UPSC2024GS-I bookletA Q82 physicalpage35. ExerciseMitraShakti2023 is a2024CSEquestion. Full statements/options entered; earlier incorrect2023/held attribution superseded."
+    },
+    {
+      "issue_date": "2026-01-07",
+      "page": 6,
+      "question": "The Monroe Doctrine (1823) is currently in the news. Which of the following best describes its key message?",
+      "status": "excluded_practice",
+      "reason": "Image-only unyearred coaching MCQ, not authenticated UPSC CSE PYQ."
+    },
+    {
+      "issue_date": "2026-01-08",
+      "page": 9,
+      "question": "Greenland falls under which continent?",
+      "status": "excluded_non_cse",
+      "reason": "Image-only State examination screenshot (Arunachal Pradesh); not UPSC CSE."
     }
   ],
   "resolved": [

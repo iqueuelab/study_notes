@@ -20,6 +20,13 @@
 - Existing procurement notes cover surpluses. Add **water-sensitive crop diversification with assured buyers** for millets/pulses/oilseeds; agronomic water saving such as appropriate direct seeding/alternate wetting and drying, aquifer monitoring, targeted power incentives and transition support. Drip/sprinklers are not universally suitable for all paddy conditions.
 - Article's Haryana **₹7,500 per hectare** diversion incentive appears a unit/status claim requiring verification; do not reproduce as an established entitlement. Food security, farmer income and water security require joint policy, rather than blaming farmers responding to procurement incentives.
 
+## January 2026: production and seed releases
+- On **4 January**, Agriculture Minister Shivraj Singh Chouhan released **184 varieties of 25 field crops** and announced that India had surpassed China in rice production. Treat the leadership claim as the Minister's dated comparison; harmonise crop year and **milled rice versus paddy** before comparing international series. The official Indian **2024–25 rice estimate of 150.184 Mt** is already covered. [Official event](https://www.pib.gov.in/MediaInvitationShare.aspx?InvitationID=159002&lang=2&reg=48), [Akashvani report of announcement](https://newsonair.gov.in/agriculture-minister-shivraj-singh-chouhan-says-indias-rice-production-crossed-150-million-tonnes-in-2025/).
+- Source State shares for **2024–25**: Uttar Pradesh **13.8%**, Telangana **11.6%**, West Bengal **10.6%**, Punjab **9.5%**, Chhattisgarh **7%**; these are dated production shares, not permanent rankings. Irrigation and procurement help explain Telangana's importance.
+- Source export figure **~20.1 Mt in 2024–25** needs scope verification before use as an all-rice total; do not confuse non-basmati with combined basmati/non-basmati exports. Saudi Arabia, Iran, Iraq, Benin and UAE illustrate West Asian/African markets, not a complete or ranked destination list.
+- HYV release aims at productivity, pest/disease resistance, drought/climate resilience and nutritional security; release alone does not establish adoption or realised yield gains for every variety. Existing notes cover seasons, water stress, methane and diversification.
+- Cultivation ranges in the explainer—roughly **100–150 cm rainfall**, warm humid conditions and often acidic-to-neutral soils—are broad guides, not universal limits. **Standing water is not biologically required throughout every rice system**; water-saving cultivation exists. Boro, Aus and Aman calendars vary regionally.
+
 ## PDF coverage
 
-2025-06-19: pp. 16, 17, 18 · 2025-10-03: pp. 8, 9 · 2025-11-20: pp. 16, 17, 18, 19 · 2026-01-01: pp. 27, 28, 29
+2025-06-19: pp. 16, 17, 18 · 2025-10-03: pp. 8, 9 · 2025-11-20: pp. 16, 17, 18, 19 · 2026-01-01: pp. 27, 28, 29 · 2026-01-10: pp. 1, 2, 3

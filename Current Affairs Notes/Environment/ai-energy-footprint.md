@@ -19,6 +19,12 @@
 - India **1.4 GW** data-centre capacity and potential fivefold growth by 2030 are source-era estimate/projection, not delivered generation or a measured AI-only load. Announced Visakhapatnam/Jamnagar hubs are not proof all capacity is operational.
 - Retain the IEA baseline already explained above rather than the PDF's inconsistent 460 TWh/2024 and 1,000–1,300 TWh range without matched scenarios. Data centres are significant growing users, not established as the world's largest electricity-consuming sector. Natural gas backup emits carbon; fusion is not a commercially available near-term solution.
 
+## January 2026: siting data centres within local resource limits
+- Data centres support cloud/AI, payments, commerce and government services, but concentrate **electricity, cooling-water, backup-diesel, heat and construction burdens**. The editorial's “data dumping ground” is a warning about externalised costs, not a legal category or proof all Indian projects lack public benefits.
+- Source forecasts **77% capacity growth by 2028 /8–9 GW by 2030**; these are projections with different horizons and unspecified baselines, **not achieved generation capacity or AI-only demand**. Compare local substation/grid upgrades and water availability with facility loads rather than extrapolate national averages to every locality.
+- Proposed safeguards: assess cumulative power/water impacts before siting; avoid ecologically fragile/water-stressed locations where impacts cannot be mitigated; require efficient cooling and appropriate **non-potable/recycled water**; disclose water source/cooling and energy/emissions; publish audits/incidents and enforce post-clearance conditions. These are recommendations, not evidence of an enacted nationwide categorical siting ban.
+- Condition incentives on measurable public benefit and environmental performance; ensure grid upgrades are funded fairly, consultation is meaningful and confidentiality does not obscure impacts. Air/liquid/evaporative cooling involve different energy–water tradeoffs; “liquid cooling” alone does not establish zero water use. Chile/US/European community opposition provides the source's social-acceptance examples, not one identical legal outcome everywhere.
+
 ## PDF coverage
 
-2025-05-06: pp. 11, 12, 13, 14 · 2025-07-03: pp. 6 · 2025-10-31: pp. 14, 15, 16, 17
+2025-05-06: pp. 11, 12, 13, 14 · 2025-07-03: pp. 6 · 2025-10-31: pp. 14, 15, 16, 17 · 2026-01-13: pp. 24, 25, 26

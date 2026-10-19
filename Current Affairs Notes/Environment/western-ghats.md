@@ -39,6 +39,13 @@
 - Sundarbans: sea-level/salinity changes, cyclones, pollution and resource extraction can damage mangroves, fisheries and coastal protection. Site-specific management, native habitat restoration, tourism/waste controls, community participation and cumulative impact review support the **Kunming–Montreal biodiversity framework** aims.
 - The report began in 2014, with editions 2017, 2020 and 2025; it was not a perfectly uninterrupted three-year schedule. Existing notes explain the Ghats' six-state geography and selected serial-property scope.
 
+## January 2026: Madhav Gadgil's people-centred conservation legacy
+- Obituary revisits **Madhav Gadgil (1942–2026)**: ecology, indigenous/local knowledge, democratic participation and livelihood rights should inform conservation. He challenged exclusionary “fortress conservation”; community participation does not remove the need for ecological limits, scientific evidence or equitable local institutions.
+- **Centre for Ecological Sciences, IISc, founded 1983**, grew from his ecology work after joining IISc in **1973**. His landscape-level proposal helped lead to **Nilgiri Biosphere Reserve, 1986**, India's first biosphere reserve. Its national designation and later UNESCO world-network inclusion are separate dates. [IISc history](https://ces.iisc.ac.in/?q=history).
+- **WGEEP 2011** sought graded protection across the Western Ghats, local-body/Gram Sabha involvement and a proposed **Western Ghats Ecology Authority**; restrictions on polluting activity varied by sensitivity. Existing notes distinguish **Kasturirangan/HLWG 2013** and draft versus operative notifications. Do not present either report's entire recommendations as already implemented law.
+- Gadgil's criticism: conservation laws can burden forest-dependent people while commercial development escapes scrutiny. Forest rights, biodiversity management committees, cumulative impact review, native restoration and participation connect ecological security with social justice; relevant to Silent Valley, human–wildlife conflict and climate adaptation.
+- **2016 PYQ:** Gadgil and Kasturirangan reports concern **protection of the Western Ghats (d)**.
+
 ## PDF coverage
 
-2025-02-06: pp. 14, 15, 16, 17, 18 · 2025-04-01: pp. 9, 10, 11, 12, 13 · 2025-10-27: pp. 23, 24, 25, 26
+2025-02-06: pp. 14, 15, 16, 17, 18 · 2025-04-01: pp. 9, 10, 11, 12, 13 · 2025-10-27: pp. 23, 24, 25, 26 · 2026-01-09: pp. 1, 2, 3, 4

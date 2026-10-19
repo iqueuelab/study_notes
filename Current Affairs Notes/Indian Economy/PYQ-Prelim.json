@@ -634,6 +634,42 @@
         "d": "All the five"
       },
       "answer": "b"
+    },
+    {
+      "year": 2018,
+      "chapter": "Oil palm and NMEO-OP",
+      "question": "Consider the following statements:\n1. The quantity of imported edible oils is more than the domestic production of edible oils in the last five years.\n2. The Government does not impose any customs duty on all the imported edible oils as a special case.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
+    },
+    {
+      "year": 2021,
+      "chapter": "Oil palm and NMEO-OP",
+      "question": "With reference to ‘palm oil’, consider the following statements:\n1. The palm oil tree is native to Southeast Asia.\n2. The palm oil is a raw material for some industries producing lipstick and perfumes.\n3. The palm oil can be used to produce biodiesel.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "BEE star labelling and appliance energy efficiency",
+      "year": 2016,
+      "question": "On which of the following can you find the Bureau of Energy Efficiency Star Label?\n1. Ceiling fans\n2. Electric geysers\n3. Tubular fluorescent lamps\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1,2 and 3"
+      },
+      "answer": "d"
     }
   ]
 }

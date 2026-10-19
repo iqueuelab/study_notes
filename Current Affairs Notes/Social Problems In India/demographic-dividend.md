@@ -7,6 +7,12 @@
 - Update curricula for digital/green/technical and transferable skills; strengthen apprenticeships, school career guidance, industry–academia partnerships and lifelong reskilling. Coordinate PMKVY, PMKK, SANKALP and internship programmes with measured placement/retention outcomes.
 - Policy must create productive labour demand alongside training; address regional/gender gaps, informal work and access barriers. Youth frustration can cause social instability, but that outcome is not inevitable. Source's future-work Mains prompt and motivational quotes are coaching material, not PYQs or authenticated quotations.
 
+## January 2026: make skill certification valuable in the labour market
+- Editorial diagnosis: training, assessment, certification and placement are fragmented, leaving **Sector Skill Councils (SSCs)** without clear accountability for sustained employment. Certificates can have weak signalling value when employers rely on their own training, experience or referrals. This is an institutional critique, not proof every SSC or public qualification fails.
+- Integrate practical skills within school/degree pathways, allow education–work mobility, expand workplace apprenticeships under **NAPS**, and give employers responsibility for curricula and competency-based assessment. Track placement quality, retention, wages and progression rather than enrolments/certificates alone.
+- SSCs' industry-standard/certification role should link to measurable employability; the issue cites **PM-SETU and ITI modernisation through industry partnership** as enabling initiatives. Labour demand, informal work and regional/gender barriers still matter alongside training.
+- Source **~1.40 crore PMKVY candidates (2015–25)**, **4.1% formally vocationally trained**, **28% higher-education GER**, **44% OECD vocational enrolment /70% selected countries**, and **30–40% industry attrition** have different populations and reference periods; do not compare them as one survey. **NEP 2020's 50% higher-education GER by 2035** is a target, not achieved coverage.
+
 ## PDF coverage
 
-2025-08-29: pp. 15, 16, 17, 18
+2025-08-29: pp. 15, 16, 17, 18 · 2026-01-07: pp. 12, 13, 14

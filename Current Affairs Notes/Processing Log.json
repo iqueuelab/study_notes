@@ -6383,32 +6383,104 @@
     {
       "date": "2026-01-07",
       "pdf": "2026/01-January/2026-01-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0e48aee00a2e213cb2a522e5fab303b7fbac7d6bd1e4cbfdb4cbd1dfc620885f",
+      "pages": 15,
+      "topic_ids": [
+        "aditya-l1",
+        "biomaterials",
+        "demographic-dividend",
+        "venezuela-resource-curse"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-08",
       "pdf": "2026/01-January/2026-01-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8c5b001514a63ab93dc664afb1afbf3f2739fa3d114637c2474ce2f806322866",
+      "pages": 24,
+      "topic_ids": [
+        "astrosat",
+        "eos-n1",
+        "greenland",
+        "india-ghg",
+        "natgrid",
+        "oyster-amr",
+        "space-sector"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-09",
       "pdf": "2026/01-January/2026-01-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "34f0ebce2ee4aa9607dc93b16641c30079f048b5efc06a05158e1c06a0a5b89d",
+      "pages": 20,
+      "topic_ids": [
+        "agricultural-pesticides",
+        "centre-state-fiscal-transfers",
+        "india-eu",
+        "spina-bifida",
+        "typhoid",
+        "western-ghats"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-10",
       "pdf": "2026/01-January/2026-01-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "468d1f84263c8b4b2ea8e666f1f36825a0d0d349fe8b1faf5dc70d5eb286af0b",
+      "pages": 23,
+      "topic_ids": [
+        "bee-star-labelling",
+        "piprahwa-relics",
+        "rice-cultivation",
+        "savitribai-phule",
+        "somaliland",
+        "somnath-temple"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-12",
       "pdf": "2026/01-January/2026-01-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "765fc5fa7dfb8d796bb4e6ba41bfd8571df53ffb8ed04380db41979ee9f1e2a1",
+      "pages": 10,
+      "topic_ids": [
+        "bhairav-battalions",
+        "delimitation-demography",
+        "pocso",
+        "smartphone-source-code-security"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-13",
       "pdf": "2026/01-January/2026-01-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "101f4237d82ef70163e2e7aa2dac7dfbf3e56960af3e06505858bb8be01ee420",
+      "pages": 29,
+      "topic_ids": [
+        "ai-energy-footprint",
+        "eos-n1",
+        "fusion",
+        "golden-globes",
+        "india-germany",
+        "india-japan-jcm",
+        "nipah",
+        "pax-silica",
+        "solar-biofuel-land"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-14",
@@ -7632,7 +7704,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-01-07",
+  "next_pdf": "2026-01-14",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7789,6 +7861,11 @@
       "date": "2026-01-04",
       "status": "No standalone or combined issue found",
       "evidence": "jobs.json assignment10 lists 2026-01-04 missing; collection has no 2026/01-January/2026-01-04.pdf and no inventoried combined issue covering that date. No notes invented."
+    },
+    {
+      "date": "2026-01-11",
+      "status": "No standalone or combined issue found",
+      "evidence": "Assignment jobs.json and January source collection contain no2026-01-11.pdf; no review or notes invented."
     }
   ]
 }

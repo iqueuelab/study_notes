@@ -73,6 +73,30 @@
       "answer": "b",
       "year": 2014,
       "chapter": "Pulikkali, Onam and Kerala folk traditions"
+    },
+    {
+      "chapter": "Piprahwa relics and cultural repatriation",
+      "year": 2023,
+      "question": "With reference to ancient India, consider the following statements:\n1. The concept of Stupa is Buddhist in origin.\n2. Stupa was generally a repository of relics.\n3. Stupa was a votive and commemorative structure in the Buddhist tradition.\nHow many of the statements given above are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Somnath Temple: sacred geography and reconstruction",
+      "year": 2022,
+      "question": "The Prime Minister recently inaugurated the new Circuit House near Somnath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple?\n1. Somnath Temple is one of the Jyotirlinga shrines.\n2. A description of Somnath Temple was given by Al-Biruni.\n3. Pranpratishtha of Somnath Temple (installation of the present day temple) was done by President S. Radhakrishnan.\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1,2 and 3"
+      },
+      "answer": "a"
     }
   ]
 }

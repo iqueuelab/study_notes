@@ -719,6 +719,18 @@
         "d": "Maharashtra"
       },
       "answer": "a"
+    },
+    {
+      "year": 2016,
+      "chapter": "Western Ghats: ecology, indigenous knowledge and cultural memory",
+      "question": "‘Gadgil Committee Report’ and ‘Kasturirangan Committee Report’, sometimes seen in the news, are related to",
+      "options": {
+        "a": "Constitutional reforms",
+        "b": "Ganga Action Plan",
+        "c": "Linking of rivers",
+        "d": "Protection of Western Ghats"
+      },
+      "answer": "d"
     }
   ]
 }

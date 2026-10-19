@@ -30,6 +30,13 @@
 - Energy demand, industry, transport, agriculture and land-use change explain different emission components. High national totals and lower per-capita output are compatible; low per-capita emissions do not make rising absolute emissions irrelevant.
 - Existing 2022 NDC/intensity/capacity/forest-sink commitments remain distinct from the 500 GW ambition and net-zero 2070. Non-fossil **installed capacity is not actual generation**, and intensity reductions are not absolute emission reductions. Efficiency, clean power/storage, industrial transition, transport, methane control and durable sinks all matter.
 
+## January 2026: capacity, intensity and ecological outcomes
+- Editorial asks whether headline progress delivers durable mitigation. **36% emissions-intensity reduction through 2020 from 2005** and non-fossil installed capacity passing **50% in June 2025** repeat existing milestones; the applicable **2022 NDC targets are 45% intensity reduction and about 50% non-fossil capacity by 2030**. The older **33–35%/40%** pair belongs to the original NDC. **175 GW renewable capacity by 2022** was a separate domestic target, not a new 2030 Paris pledge.
+- Falling **emissions/GDP** can coexist with rising total emissions (relative rather than absolute decoupling). Installed **MW/GW**, actual electricity **MWh/TWh**, non-fossil including nuclear, and renewable generation shares are distinct. Growing steel, cement and transport demand matters alongside power-sector change.
+- Source **~2,959 Mt CO₂e in 2020** is historical gross inventory context, not January emissions; power figures **~111 GW solar /51 GW wind**, coal **>70% generation** and renewables **~22%** need matching dates/definitions. Its **336 GWh storage need /500 MWh installed September 2025** may compare battery-only with broader storage categories: do not treat this as total Indian storage including pumped hydro.
+- Carbon-sink accounting and ecosystem health differ: plantations/tree cover cannot substitute automatically for biodiverse natural forests. The issue's **~2.29 Gt added sink** still falls below the **2.5–3 Gt** range; “already met” overstates even its own figures. Verify assessment period/method before comparing inventories; reported CAMPA **₹95,000 crore /Delhi 23%** need fund/utilisation periods.
+- Priorities: batteries/pumped storage, grid flexibility, energy efficiency/PAT/UJALA, industrial decarbonisation, a just coal transition, native-habitat regeneration and transparent ecological/fiscal outcomes. Finance and technology require coordination and accountable implementation.
+
 ## PDF coverage
 
-2025-02-19: pp. 7, 8, 9, 10, 11 · 2025-07-09: pp. 5, 6 · 2025-09-24: pp. 1, 2, 3 · 2025-11-12: pp. 9, 10, 11
+2025-02-19: pp. 7, 8, 9, 10, 11 · 2025-07-09: pp. 5, 6 · 2025-09-24: pp. 1, 2, 3 · 2025-11-12: pp. 9, 10, 11 · 2026-01-08: pp. 21, 22, 23, 24

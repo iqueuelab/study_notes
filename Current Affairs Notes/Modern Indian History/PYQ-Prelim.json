@@ -37,6 +37,18 @@
         "d": "None"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "Savitribai Phule: education, gender and anti-caste reform",
+      "year": 2016,
+      "question": "Satya Shodhak Samaj organized",
+      "options": {
+        "a": "a movement for upliftment of tribals in Bihar",
+        "b": "a temple-entry movement in Gujarat",
+        "c": "an anti-caste movement in Maharashtra",
+        "d": "a peasant movement in Punjab"
+      },
+      "answer": "c"
     }
   ]
 }

@@ -8,6 +8,12 @@
 - Editorial proposals: digitised cross-border provenance registries, auction/customs alerts, clearer ownership/export evidence and international cooperation. Existing heritage conventions/laws are not absent, although retrospective colonial claims and sacred-object sales face gaps; a proposed global ban is not already binding law.
 - Embedded graphic's **~480BCE** Buddha chronology is approximate/disputed, not an exact death date. Its Mauryan-era enshrinement relates to the deposit, not excavation. Practice **A (1 only)**: location is UP, not Bihar.
 
+## 3 January 2026 exposition
+- **The Light and the Lotus: Relics of the Awakened One**, inaugurated at **Rai Pithora Cultural Complex, New Delhi**, reunites repatriated gems with authentic relics/reliquaries from Indian collections and materials from the **1898 and 1971–75 excavations**. This exhibition is distinct from the **July 2025 repatriation** already covered. [Culture Ministry](https://culture.gov.in/events/homecoming-after-127-years-prime-minister-shri-narendra-modi-inaugurates-international), [official background](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210787&lang=1&reg=1).
+- A stone coffer, reliquaries, bone fragments and jewels have different functions: distinguish bodily relics from offerings such as gold ornaments, pearls and gemstones. The site is associated archaeologically with ancient Kapilavastu; avoid treating disputed ancient chronology as exact.
+- **Stupa revision:** burial-mound forms predate Buddhism; Buddhist stupas can preserve relics and serve votive/commemorative purposes. **Anda** = dome; **harmika** = enclosure above it; **chhatra** = umbrella element; **vedika** = railing; **torana** = gateway; circumambulatory path = pradakshinapatha. The Sanchi site contains several stupas; relics of Sariputta/Mahamoggallana should not automatically be attributed to its Great Stupa.
+- Ethical applications of Buddhist teaching: right speech/conduct/livelihood support integrity; compassion and dignity support inclusion; the **Middle Path** encourages moderation and responsible consumption. These are contemporary ethical applications, not evidence that ancient monastic institutions were identical to modern constitutional equality.
+
 ## PDF coverage
 
-2025-08-12: pp. 7, 8, 9, 10
+2025-08-12: pp. 7, 8, 9, 10 · 2026-01-10: pp. 4, 5, 6, 7

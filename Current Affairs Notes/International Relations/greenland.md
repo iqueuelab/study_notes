@@ -14,6 +14,13 @@
 - A purchase proposal alone is not automatically a UN Charter violation; coercion/use of force and denial of self-determination raise different legal issues. Greenland is not a global common, and neither are all adjacent waters: territorial sovereignty, EEZ/continental-shelf resource rights and high-seas freedoms differ under **UNCLOS**. [UN overview](https://www.un.org/Depts/los/convention_agreements/convention_overview_convention.htm).
 - Arctic Council: forum of eight Arctic states including Denmark (with Greenland/Faroes), focused on environment/sustainable development; not a military-security alliance. Priorities: Inuit participation, sovereignty/self-determination, cooperative environmental governance, careful resource development and allied diplomacy. Annexation pressure can strain NATO cooperation; ecological damage and great-power rivalry are risks, not inevitable outcomes.
 
+## January 2026: renewed US interest and critical-mineral mapping
+- Issue revisits US purchase/annexation rhetoric, Denmark/Greenland sovereignty, Pituffik defence significance and Arctic competition; existing notes retain the constitutional, EU-citizenship, self-determination and sea-route distinctions. Territorial acquisition by coercion/use of force differs from a consensual proposal; the Arctic is not uniformly a global common.
+- Mineral map highlights **rare earths, platinum-group metals, graphite, titanium, vanadium, molybdenum and feldspar**, especially accessible coastal/southern occurrences. Deposits assessed or explored are not all operating mines. **GEUS's critical-resource review dates to 2023**; the sheet's “2025 survey” and exact **25 of 34** tally should not be treated as a newly verified assessment without matching mineral-list definitions. [GEUS review](https://pub.geus.dk/en/publications/critical-raw-material-resources-in-greenland/).
+- Applications: selected REEs in permanent magnets for EV motors/wind turbines; graphite commonly in lithium-ion **anodes**; PGMs in catalysts/fuel cells; titanium in aerospace/implants; vanadium in alloys/flow batteries; molybdenum in alloys and feldspar in ceramics/glass. They are not interchangeable battery ingredients.
+- Source **28,000 km² ice loss** lacks its historical period and must not be read as January loss or as sea-ice-route area. Warming can change access but infrastructure, ecology, consent and policy remain constraints; Greenland's 2021 restrictions were not a universal ban on all mineral mining.
+- PYQ recall already banked: **2025 Botswana–diamond /Chile–lithium /Indonesia–nickel: all three (c)**; **battery cathodes: cobalt, lithium, nickel; graphite is usually anode → only three (c)**. Chemistry varies: not every EV battery requires cobalt/nickel.
+
 ## PDF coverage
 
-2025-04-28: pp. 15, 16, 17, 18, 19
+2025-04-28: pp. 15, 16, 17, 18, 19 · 2026-01-08: pp. 5, 6, 7, 8, 9, 10, 11

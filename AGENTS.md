@@ -1,5 +1,10 @@
 # UPSC notes workflow
 
+## Page styles
+
+- Follow the user's manually updated styles for each page when adding or updating notes. Preserve each page type's existing layout, spacing, colours, typography, navigation and print rules; update its generator when needed so regeneration retains those choices.
+- Current-affairs pages use the updated `1040px` main width and `20px` day-group indentation. Keep responsive and print overrides. Fix CSS syntax errors while preserving the intended appearance.
+
 When creating or updating chapter notes from supplied images or documents:
 
 - Make concise revision notes without omitting important facts; use diagrams readable on small screens and in print where useful.

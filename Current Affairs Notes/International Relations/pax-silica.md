@@ -7,6 +7,10 @@
 - The article attributes absence to trade frictions, limited chip-fabrication/mineral-processing capacity and US selection of established technology ecosystems. These are **reported analytical explanations**, not an official published exclusion rule or proof a bilateral FTA is mandatory for entry.
 - Policy response: processing/refining and component capability, reliable energy/logistics, semiconductor/AI investment, recycling/substitution, diversified overseas supply, predictable rules and diplomacy. China's dominance differs by mineral/stage; it does not mine/refine every mineral exclusively. Assess delivered investment and actual supply resilience, not strategic labels alone.
 
+## January 2026: prospective Indian invitation
+- **Image-only update supersedes the repeated December exclusion narrative:** new US Ambassador **Sergio Gor** said on **12 January** that India would be formally invited to Pax Silica **the following month**. This is a reported prospective invitation, **not Indian accession already completed by 13 January**. [Contemporaneous report of the envoy's statement](https://apnews.com/article/a71870e8eb2f62cb698bda074f4ecd49).
+- The original December participant list, minerals-to-AI scope and processing-capability recommendations repeat existing coverage. India’s initial absence was not a permanent exclusion rule; bilateral trade talks, invitation, signing and implementation are distinct. The source's suggested trade-deal/capability explanations remain analysis, not published mandatory admission criteria.
+
 ## PDF coverage
 
-2025-12-13: pp. 8, 9, 10, 11 · 2025-12-14: pp. 21
+2025-12-13: pp. 8, 9, 10, 11 · 2025-12-14: pp. 21 · 2026-01-13: pp. 6, 7, 8, 9

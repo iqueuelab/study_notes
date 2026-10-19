@@ -40,6 +40,12 @@
 - Crude blending complicates origin evidence, segregated processing and compliance. Diversify markets and feedstocks, improve traceability and use diplomatic/commercial engagement; subsequent trade diversion is a possible adjustment, not guaranteed costless replacement.
 - Source's **253,000% export-volume jump** and mixed April–January/July historical figures lack consistent units/periods and are not retained as verified growth statistics. Trade legality depends on applicable jurisdiction/rules; a general WTO assertion does not override EU import conditions.
 
+## January 2026: India–Weimar engagement and strategic autonomy
+- Jaishankar's Europe visit included the **India–Weimar format on 7 January** with **France, Germany and Poland**. The Weimar Triangle is a European consultation grouping, not the EU as a whole or a military alliance; India's guest participation does not make it a fourth permanent member. [Polish Foreign Ministry, 7 January](https://www.gov.pl/web/diplomacy/meeting-of-weimar-triangle-and-india-foreign-ministers).
+- Issue highlights forthcoming high-level engagements involving EU leaders **Ursula von der Leyen /António Costa**, German Chancellor **Friedrich Merz** and French President **Emmanuel Macron**, alongside Piyush Goyal's Brussels talks. These are source-period schedules; an FTA described as nearing completion was **still under negotiation**, not already operative.
+- Cooperation priorities: supply-chain resilience, technology/AI/digital governance, green transition, Indo-Pacific/maritime security and defence. Europe's Ukraine/security concerns and uncertainty over US policy provide context; Indian multi-alignment/strategic autonomy leaves room for issue-based partnerships and disagreement.
+- The source's claim that there is no cohesive “West” or “Global South” is a diplomatic interpretation of fluid coalitions, not abolition of those analytical categories. India's **2026 BRICS chairship** differs from its **2023 G20 presidency**; being a G20 member does not mean holding its presidency in January 2026.
+
 ## PDF coverage
 
-2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21 · 2025-07-15: pp. 31, 32, 33, 34, 35, 36, 37 · 2025-09-08: pp. 3, 4, 5
+2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21 · 2025-07-15: pp. 31, 32, 33, 34, 35, 36, 37 · 2025-09-08: pp. 3, 4, 5 · 2026-01-09: pp. 11, 12, 13

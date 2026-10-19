@@ -13,6 +13,12 @@
 - **June 2024 Chinese EV tariff 38.1%** was a provisional-era source figure, not a timeless final tariff. India–EU FTA was under negotiation at this issue; do not treat recommendation as completed agreement.
 - Priorities: conclude balanced trade arrangements, facilitate mobility/research, expand sustainable technology and Indo-Pacific cooperation, diversify semiconductor/pharma/EV supply chains while preserving strategic autonomy.
 
+## January 2026: Merz visit and defence-industry cooperation
+- During Chancellor **Friedrich Merz's 12–13 January visit**, India and Germany issued a **Joint Declaration of Intent on Strengthening Bilateral Defence Industrial Cooperation**. Proposed roadmap: **co-development, co-production and industry cooperation**, alongside facilitation of German defence exports to India. Declaration/roadmap does not mean a particular submarine or weapons contract was concluded. [Official outcomes](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2213739&lang=1&reg=5).
+- Joint-statement priorities include Indo-Pacific consultations, a free/open rules-based regional order, trusted supply chains and opposition to rising protectionism. Support for concluding the **India–EU FTA** remained a negotiating position at this issue date, not an FTA already in force.
+- Skilled-professional recruitment, higher education and sports arrangements broaden the partnership beyond defence; official outcomes also include critical-mineral cooperation. The **25-year strategic-partnership commemoration refers to 2025**, from 2000, while **75 years of diplomatic relations falls in 2026**, from 1951; avoid assigning both anniversaries to one identical starting year.
+- Germany's industrial technology and India's manufacturing market create complementarities; export facilitation, procurement, technology transfer and delivered production are separate stages. Existing climate/technology partnership and trade figures retain their original periods.
+
 ## PDF coverage
 
-2025-05-28: pp. 18, 19, 20, 21
+2025-05-28: pp. 18, 19, 20, 21 · 2026-01-13: pp. 4, 5, 6
