@@ -31,6 +31,12 @@
 - Repeated article calls higher RBI transfer prospective, reflecting an earlier report, not necessarily status as at 31 May. Do not redate its historical₹2.1 lakh-crore surplus or claim every oil-price reduction translates into budget saving. Fiscal flexibility remains conditional on receipts, spending and buffer prudence.
 - Historical source again misdates **Kargil 1999** to 2000–02; macroeconomic crises/accounting changes confound security-cost comparisons. Capital investment and necessary revenue services both have value; assess opportunity costs and transparent appropriations.
 
+## March 2026: supplementary grants and stabilisation buffer
+- The issue reports Lok Sabha approval of the **second batch of Supplementary Demands for Grants, FY2025–26**: **₹2,81,289.26 crore gross additional provision**, **₹80,145.71 crore offset by savings/enhanced receipts or recoveries**, and **₹2,01,142.96 crore net cash outgo**, across **61 grants**, plus **₹59 lakh token provisions** for reappropriation. Gross authorisation is not identical to fresh cash spending or realised expenditure.
+- **Economic Stabilisation Fund: ₹57,381 crore** proposed/provided through the supplementary package, to create fiscal headroom against global headwinds, oil/energy shocks, supply disruption and sectoral pressures. This is a Union fiscal provision, not an RBI-managed monetary facility. The issue's ₹100/barrel example illustrates a shock, not an automatic fund-release trigger. [DEA supplementary-grant records](https://dea.gov.in/budget-division/471).
+- **Article 115** provides supplementary/additional/excess grants where an authorised amount is insufficient, a new service arises, or spending exceeds authorisation; parliamentary grant voting and appropriation stages differ. Lok Sabha passage alone is not proof of completed presidential assent or money already spent.
+- FM's assurance that **FY2025–26 fiscal-deficit target 4.4% GDP** would be met is a contemporaneous commitment, not final fiscal outturn. The existing formula remains **expenditure − revenue receipts − non-debt capital receipts**; supplementary provision need not increase deficit one-for-one when savings/receipts offset it.
+
 ## PDF coverage
 
-2025-05-18: pp. 15, 16, 17, 18, 19 · 2025-05-31: pp. 24, 25, 26, 27
+2025-05-18: pp. 15, 16, 17, 18, 19 · 2025-05-31: pp. 24, 25, 26, 27 · 2026-03-14: pp. 1, 2, 3, 4

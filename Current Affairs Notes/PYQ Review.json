@@ -2580,6 +2580,65 @@
       "issue_date": "2026-03-10",
       "status": "excluded_practice",
       "reason": "Page8 explicitly labelled Mains Practice (Iran war,250words), page24 four unyeared Prelims Practice MCQs; not authentic CSE PYQs."
+    },
+    {
+      "issue_date": "2026-03-11",
+      "reason": "All questions are explicitly coaching practice; no attributed authentic UPSC CSE PYQ."
+    },
+    {
+      "issue_date": "2026-03-12",
+      "reason": "Khurja and Lakkundi questions are unyearred coaching practice, not authenticated CSE PYQs."
+    },
+    {
+      "issue_date": "2026-03-13",
+      "reason": "Innovation250-word mains prompt and science/environment MCQs are explicitly practice; no authentic CSE PYQ to append."
+    },
+    {
+      "date": "2026-03-14",
+      "pages": [
+        20
+      ],
+      "decision": "authentic_added",
+      "detail": "2019 CSE GS-III Q7 verified visually against Original-Papers/2019/Mains-General-Studies-Paper-III.pdf page2; full question,10marks,150words; absent all current common banks/peer01/02."
+    },
+    {
+      "date": "2026-03-14",
+      "pages": [
+        4,
+        7,
+        10,
+        14,
+        16,
+        20
+      ],
+      "decision": "practice_excluded",
+      "detail": "Unyearred authored prelim MCQs excluded; 2018 heavy riverbed sand-mining CSE question already banked."
+    },
+    {
+      "date": "2026-03-16",
+      "pages": [
+        1,
+        2
+      ],
+      "decision": "page_review",
+      "detail": "Physical page1 blank; page2 image-only promotional cover; all28physicalpages inspected."
+    },
+    {
+      "date": "2026-03-16",
+      "pages": [
+        6,
+        12,
+        15,
+        19,
+        24,
+        28
+      ],
+      "decision": "practice_excluded",
+      "detail": "Authored unyearred MCQs excluded; no new authentic prelim PYQ."
+    },
+    {
+      "issue_date": "2026-03-17",
+      "reason": "All six numbered MCQs are explicitly practice questions; no authentic dated CSE PYQ supplied."
     }
   ],
   "resolved": [

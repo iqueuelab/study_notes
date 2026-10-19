@@ -25,6 +25,12 @@
 - India's existing energy/diaspora/diplomatic exposure now also requires assessing **remittance continuity, commercial shipping/insurance and the opportunity cost of a prolonged war**. Maintain engagement with Iran, Israel, the US and Gulf States; evacuation readiness, de-escalation and diversified supplies are practical responses.
 - The issue's reference to **Ali Khamenei as a continuing wartime leader is stale**: Iran's **1 March letter to the UN** had already reported his killing. Do not carry that wording into a March10 leadership fact box. [Iran's letter at the UN](https://digitallibrary.un.org/record/4104578/files/S_2026_109-EN.pdf). The October2023 Hamas attack is regional background; the current joint strikes began **28 February 2026**, as recorded in the earlier notes.
 
+## 13–16 March 2026: Kharg Island and Gulf-port exposure
+- The issue reports US strikes on **military targets on Kharg Island**, Iran's major oil-export terminal in the Persian Gulf. Striking military installations does not itself prove oil-loading infrastructure was destroyed; the US said oil facilities were spared while warning of further action if shipping was obstructed. [CENTCOM operation record, March13 Kharg strike](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/?dvpTag=Iran&dvpmoduleid=41413&videoid=999553).
+- Iran alleged US operations originated at UAE-linked facilities near **Ras al-Khaimah/Dubai**, and warned civilians away from **Jebel Ali (Dubai), Khalifa (Abu Dhabi) and Fujairah** ports. These are Iranian allegations/warnings, not independent proof of UAE participation. Source reports a Fujairah fire following intercepted-drone debris; incident cause and damage require verification.
+- **Fujairah lies on the Gulf of Oman, outside Hormuz**, making its storage/export facilities important for bypass logistics. **Kharg and Abu Musa are different islands**; Abu Musa is administered by Iran and claimed by the UAE, rather than uncontested Iranian territory.
+- The issue reports movement of **USS Tripoli/31st Marine Expeditionary Unit, ~2,500 Marines** towards the theatre and US requests for allied help on shipping. Dispatch/request is not proof of completed deployment, an agreed multinational escort mission or an amphibious assault. Existing Hormuz location/flow facts repeat.
+
 ## PDF coverage
 
-2026-02-26: pp. 1, 2, 3, 4, 5 · 2026-02-28: pp. 21, 22, 23, 24 · 2026-03-02: pp. 1, 2, 3, 4, 5, 6 · 2026-03-10: pp. 4, 5, 6, 7, 8
+2026-02-26: pp. 1, 2, 3, 4, 5 · 2026-02-28: pp. 21, 22, 23, 24 · 2026-03-02: pp. 1, 2, 3, 4, 5, 6 · 2026-03-10: pp. 4, 5, 6, 7, 8 · 2026-03-16: pp. 6, 7, 8

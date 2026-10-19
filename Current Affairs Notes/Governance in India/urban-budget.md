@@ -23,6 +23,12 @@
 - Coverage: cities **≥10 lakh population (2025 estimates)**, other State/UT capitals, and major industrial cities **≥1 lakh**. Verticals: growth hubs; creative redevelopment; water/sanitation. Support includes resilience, transit-oriented redevelopment, water/sewerage/stormwater and legacy-waste remediation.
 - Separate **₹5,000-crore Credit Repayment Guarantee** improves access for smaller cities and Northeastern/hilly ULBs; **4,223 cities** refers to creditworthiness support, not automatic approval of every city for an identical infrastructure grant. Appraise repayment capacity and inclusive access alongside bankability.
 
+## March 2026: proposed 2047 infrastructure assessment
+- Parliamentary Standing Committee on Housing and Urban Affairs recommended a **High-Level Expert Committee** to assess urban infrastructure, financing, governance reform and institutional capacity through **2047**. Recommendation is not proof the new body had been constituted.
+- **AMRUT 2.0** water/sewerage, **SBM-U 2.0** sanitation/waste, **PMAY-U 2.0** housing, metros and **PM e-Bus Sewa** transport address different needs. Scheme-level achievements need an integrated investment/maintenance and financing strategy; fragmented planning can misallocate resources.
+- **2011 HPEC** examined infrastructure investment over **2012–2031**. Correct the source's **75% population urban by 2030**: the cited projection concerns urban areas' **share of GDP**, not share of people. Population/GDP shares and projections versus realised data must remain distinct. [Original HPEC report](https://www.mohua.gov.in/upload/uploadfiles/files/FinalReport_hpec09.pdf).
+- Urbanisation can raise productivity through density, connectivity and services; benefits depend on functioning local institutions, inclusive housing, reliable water/transport and sustainable finance. Existing Urban Challenge Fund approval is separate from this new assessment recommendation.
+
 ## PDF coverage
 
-2025-02-10: pp. 21, 22, 23, 24 · 2025-02-11: pp. 23, 24, 25, 26 · 2025-02-12: pp. 26, 27, 28, 29 · 2026-02-15: pp. 10, 11, 12
+2025-02-10: pp. 21, 22, 23, 24 · 2025-02-11: pp. 23, 24, 25, 26 · 2025-02-12: pp. 26, 27, 28, 29 · 2026-02-15: pp. 10, 11, 12 · 2026-03-14: pp. 8, 9, 10

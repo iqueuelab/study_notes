@@ -16,6 +16,13 @@
       "year": 2023,
       "chapter": "Marine oil spills: Kerala response and pollution control",
       "question": "What is oil pollution? What are its impacts on the marine ecosystem? In what way is oil pollution particularly harmful for a country like India? (Answer in 150 words) (10 marks)"
+    },
+    {
+      "year": 2019,
+      "chapter": "Sand mining: river ecology and coastal impacts",
+      "question": "Coastal sand mining, whether legal or illegal, poses one of the biggest threats to our environment. Analyze the impact of sand mining along the Indian coasts, citing specific examples.",
+      "marks": 10,
+      "word_limit": 150
     }
   ]
 }

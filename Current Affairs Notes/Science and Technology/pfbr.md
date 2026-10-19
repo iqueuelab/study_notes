@@ -30,6 +30,13 @@
 - Correct the issue's **“FBTR built in 1977”** operational implication: the Kalpakkam **Fast Breeder Test Reactor has operated since 1985**; construction history and first criticality differ. [AERB record](https://www.aerb.gov.in/images/PDF/Annual_Bulletin/Bulletin_Engg/files/basic-html/page19.html).
 - The issue quotes an early PFBR estimate **₹3,492 crore** and **₹6,800 crore by 2019** as historical cost escalation, not a current final audited cost. Its **15–20 year fissile-inventory doubling time** is design/fuel-cycle dependent; **2060s thorium deployment** extrapolates assumptions, not a committed commissioning date. Breeder performance, reprocessing and available fissile inventory determine scaling.
 
+## March 2026: thorium as a long-term fuel pathway
+- Commentary connects the **100-GWe-by-2047 capacity ambition** to fuel security. Its **18,000–20,000 tonnes annual uranium requirement** is an illustrative estimate for an assumed fleet/fuel cycle, not a fixed requirement of every 100-GWe reactor mix.
+- **Natural uranium is a mixture**, mainly U-238 with a small fissile U-235 fraction; it is not simply “U-238 fuel”. Thorium-232 is **fertile**, converted through irradiation/decay to **fissile U-233**; thorium is not itself a readily fissioning substitute loaded without a fissile driver.
+- The three-stage pathway and PFBR's present uranium blanket are covered above. Future thorium blankets may breed U-233; do not imply the initial PFBR blanket already does so commercially. Indian monazite offers large thorium resources, but **resource estimates are not proven economic reserves or ready fuel**.
+- **HALEU–thorium fuel, thorium molten-salt reactors and pyrochemical recycling** are proposed/research routes requiring fuel qualification, irradiation tests, licensing and suitable facilities. Commercial readiness, lower waste/cost and safety benefits cannot be assumed. HALEU means uranium enriched above 5% and below 20% U-235.
+- Closed cycles can greatly improve resource utilisation; the article's **50–100-fold** claim is scenario-dependent and does not eliminate radioactive waste, proliferation controls or long deployment times.
+
 ## PDF coverage
 
-2025-04-21: pp. 1, 2, 3 · 2025-07-07: pp. 14, 15, 16, 17 · 2026-03-09: pp. 12, 13, 14
+2025-04-21: pp. 1, 2, 3 · 2025-07-07: pp. 14, 15, 16, 17 · 2026-03-09: pp. 12, 13, 14 · 2026-03-17: pp. 16, 17, 18, 19, 20, 21

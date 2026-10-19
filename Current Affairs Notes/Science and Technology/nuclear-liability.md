@@ -56,6 +56,10 @@
 - **Section 39** restricts specified declared information, not all nuclear information automatically. **Section 42** assigns administration of worker-safety law to Central Government, with delegation, not wholesale abolition of worker protection. [Gazetted Act](https://cdnbbsr.s3waas.gov.in/s35b8e4fd39d9786228649a8a8bec4e008/uploads/2026/06/20260605195774330.pdf).
 - The supplementary claims **PFBR already operational**, uniform 49/51 ownership, fully removed supplier accountability, blanket labour-law exemption and no parliamentary oversight are not reliable statements of the January position. PHWRs, fast-breeder development and thorium ambitions are different programme stages. Source's **25 reactors/seven sites** and Fukushima “700×” comparison need dated definitions and comparable liability/damage measures; do not memorise them as a legal rule or current confirmed tally.
 
+## March 2026: SHANTI implementation status
+- The sheet calls SHANTI merely “introduced”; **Presidential assent was 20 December 2025**. A **12 February 2026 DAE reply** said implementation/rule-framing timelines had **not yet been notified**. Assent, commencement of individual provisions and an issued operating licence remain distinct. [DAE parliamentary reply](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227086&lang=1&reg=6).
+- Industry–academia collaboration and investment may assist nuclear expansion, but legal reform alone does not solve qualified-fuel supply, finance, safety demonstration, waste management or delivery constraints.
+
 ## PDF coverage
 
-2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19 · 2025-06-17: pp. 1, 2, 3, 4, 5 · 2025-07-23: pp. 14, 15, 16, 17 · 2025-10-07: pp. 4, 5, 6, 7 · 2025-12-16: pp. 5, 6, 7 · 2025-12-18: pp. 20 · 2026-01-06: pp. 12, 13, 14, 15
+2025-02-10: pp. 3, 4, 5 · 2025-06-06: pp. 17, 18, 19 · 2025-06-17: pp. 1, 2, 3, 4, 5 · 2025-07-23: pp. 14, 15, 16, 17 · 2025-10-07: pp. 4, 5, 6, 7 · 2025-12-16: pp. 5, 6, 7 · 2025-12-18: pp. 20 · 2026-01-06: pp. 12, 13, 14, 15 · 2026-03-17: pp. 16, 19, 20

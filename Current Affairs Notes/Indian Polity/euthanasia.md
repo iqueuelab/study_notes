@@ -8,6 +8,11 @@
 - Consent categories: **voluntary** request, **non-voluntary** inability to consent, **involuntary** against wishes. **Quadriplegia/tetraplegia** means paralysis affecting four limbs, commonly from cervical spinal-cord injury; it is **not synonymous with a vegetative state or inevitable loss of cognition**. Support/rehabilitation and palliative care remain vital.
 - Global comparisons must distinguish clinician-administered euthanasia from **physician-assisted dying**, where a patient self-administers; the source wrongly groups some US States with countries permitting active euthanasia. Balance autonomy and relief of suffering with consent, prognosis, coercion protection, disability rights and access to care.
 
+## 12 March 2026: distinguish the old board order from the judgment
+- The main worksheet repeats the **November 2025** direction to examine Harish Rana, while its small current clipping reports the later result. On **11 March 2026**, the Supreme Court allowed withdrawal of life-sustaining treatment for **Harish Rana**, following medical-board findings and assessment of his best interests; clinically assisted nutrition/hydration is medical treatment capable of withdrawal under safeguards. [Judgment, 2026 INSC 222](https://api.sci.gov.in/supremecourt/2025/60980/60980_2025_7_1501_69246_Judgement_11-Mar-2026.pdf).
+- This implements the **Common Cause 2018/2023** end-of-life framework, not a general right to active euthanasia or permission based on disability alone. Withdrawal requires clinical/legal assessment, informed decision procedures and continuing humane palliative care. Existing notes distinguish living-will execution from medical-board implementation.
+- **Quadriplegia is not synonymous with a vegetative state**: spinal paralysis does not itself establish loss of cognition or irreversible unconsciousness. Avoid the worksheet's blanket medical/legal generalisations and outdated exclusive reference to IPC; BNS has operated since July 2024. US assisted-dying rules must not be equated with clinician-administered active euthanasia.
+
 ## PDF coverage
 
-2025-11-28: pp. 1, 2, 3, 4 · 2026-01-15: pp. 8, 9, 10, 11 · 2026-01-18: pp. 24
+2025-11-28: pp. 1, 2, 3, 4 · 2026-01-15: pp. 8, 9, 10, 11 · 2026-01-18: pp. 24 · 2026-03-12: pp. 1, 2, 3, 4

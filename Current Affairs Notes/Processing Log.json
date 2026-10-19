@@ -7315,32 +7315,101 @@
     {
       "date": "2026-03-11",
       "pdf": "2026/03-March/2026-03-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b0d794f50600153321d168637edee099cfc074e9a1f65f19bf9ef642a2758bcb",
+      "pages": 13,
+      "topic_ids": [
+        "asteroid-yr4",
+        "brahmos",
+        "fdi-india",
+        "lpg-pricing"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-12",
       "pdf": "2026/03-March/2026-03-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "64af1a1e434f565ea7ba63ad713edf5b40f14b69ca076dadfcbad5ed29877c06",
+      "pages": 14,
+      "topic_ids": [
+        "euthanasia",
+        "khurja-pottery",
+        "lakkundi-heritage",
+        "women-agriculture"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-13",
       "pdf": "2026/03-March/2026-03-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "b2670b2c9c86af50ee28ca7db113adb69d6bc44a6f03cb03e521d1f08031b19c",
+      "pages": 21,
+      "topic_ids": [
+        "deinococcus-radiodurans",
+        "koala-conservation",
+        "lpg-pricing",
+        "science-budget",
+        "state-environment-2026"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-14",
       "pdf": "2026/03-March/2026-03-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "933fd7e4b8f93fd6a373103a560dfe67429938a08a600059508b1328abef4b25",
+      "pages": 21,
+      "topic_ids": [
+        "fiscal-deficit",
+        "kc135-centcom",
+        "lamitiye",
+        "sand-mining",
+        "strait-hormuz",
+        "urban-budget"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-16",
       "pdf": "2026/03-March/2026-03-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "f3ff5d6546c633cf304db867c549d7be536fa0935054667fb1ffd65b37958851",
+      "pages": 28,
+      "topic_ids": [
+        "carnatic-awards",
+        "desalination",
+        "india-israel-west-asia",
+        "menstrual-health-rights",
+        "speaker-removal",
+        "tariff-trade",
+        "water-climate-resilience"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-17",
       "pdf": "2026/03-March/2026-03-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e05e0a56628f783b1fb7bd6a4ad82995a013364b86e0c0cb5a49e80957b79e0f",
+      "pages": 21,
+      "topic_ids": [
+        "national-quantum-mission",
+        "nuclear-liability",
+        "operation-sankalp",
+        "pfbr",
+        "potti-sriramulu",
+        "sahitya-akademi-awards",
+        "vela-carli-gynandromorphy"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-18",
@@ -8299,7 +8368,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-03-11",
+  "next_pdf": "2026-03-18",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -8506,6 +8575,11 @@
       "date": "2026-03-08",
       "status": "No standalone or combined issue found",
       "evidence": "Assigned inventory and March source directory checked: no 2026-03-08.pdf; no review or notes invented."
+    },
+    {
+      "date": "2026-03-15",
+      "status": "No standalone or combined issue found",
+      "evidence": "Assignment03 jobs.json records no March15 PDF; source collection/prepared slot has March14 and March16 only. No review invented."
     }
   ]
 }

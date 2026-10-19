@@ -22,6 +22,11 @@
 - Graphic wrongly implies MTCR membership permits development above thresholds but categorically forbids exports. MTCR is an **export-control arrangement**, with a strong presumption of denial for qualifying Category I systems capable of delivering **≥500 kg to ≥300 km**; it is not a universal domestic-development ban or automatic ban on every missile exceeding 300 km. Hypersonic **Mach ≥5** is distinct from BrahMos's supersonic speed; BrahMos-II remains a development ambition.
 - Export-control details: [US State Department MTCR FAQ](https://2021-2025.state.gov/remarks-and-releases-bureau-of-international-security-and-nonproliferation/missile-technology-control-regime-mtcr-frequently-asked-questions/).
 
+## March 2026: Indonesia and coastal deterrence
+- Source reports Indonesia's BrahMos procurement agreement, with a **US$300–450 million** estimate, following the Philippines' 2022 contract. Treat the price/battery configuration as reported rather than a verified final contract schedule; an agreement is distinct from delivery and operational deployment.
+- Rationale: shore-based anti-ship batteries could deter ships approaching the **Natuna Islands/North Natuna Sea**, protect energy activities and strengthen maritime denial. Indonesia's EEZ faces encroachment associated with China's expansive South China Sea claims; this does not make those claims legally valid or turn EEZ rights into territorial sovereignty.
+- Indonesia's **Minimum Essential Force** modernisation and India–ASEAN defence links provide context. Supersonic speed/sea-skimming reduce defensive reaction time but do not make interception impossible. The comparison must distinguish missiles: Russian **Oniks/Yakhont is also supersonic**, unlike subsonic Exocet/C-705 configurations. Existing notes distinguish tested submarine launch from operational submarine deployment and original from extended ranges.
+
 ## PDF coverage
 
-2025-05-12: pp. 1, 2 · 2025-05-16: pp. 2, 3 · 2025-05-17: pp. 25, 26 · 2025-05-22: pp. 23, 24
+2025-05-12: pp. 1, 2 · 2025-05-16: pp. 2, 3 · 2025-05-17: pp. 25, 26 · 2025-05-22: pp. 23, 24 · 2026-03-11: pp. 4, 5, 6, 7

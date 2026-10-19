@@ -31,6 +31,12 @@
 - **UNCTAD/UN Trade and Development**, established **1964**, Geneva, publishes this periodic investment monitor; it is distinct from the annual **World Investment Report**. Provisional estimates can later be revised.
 - Source **2010 PYQ: Brazil, Mexico and South Africa—(d), all three**, in its historical emerging-economy classification. Country grouping is not an automatic ranking of investment safety or a universal legal status.
 
+## 10 March 2026: Cabinet approval of PN3 changes
+- **Press Note 3, 17 April 2020** required government-route approval for investment by an entity from a land-border country or where the beneficial owner is situated in/is a citizen of such a country; transfers creating that beneficial ownership were also covered. Purpose: curb opportunistic pandemic-era takeovers.
+- Cabinet approved a **beneficial-owner definition based on PML Rules 2005**, applied at the **investor-entity level**. Investors with **non-controlling land-border-country beneficial ownership up to 10%** may use the otherwise applicable automatic route, subject to sectoral caps/conditions and investee reporting to **DPIIT**. This is not blanket permission for a company directly based in China to buy any 10% Indian stake without approval.
+- **60-day decision window** for specified manufacturing proposals: capital goods, electronic capital goods/components, polysilicon and ingot-wafer. Resident Indian citizens/Indian entities owned and controlled by resident citizens must retain majority shareholding/control in these cases; the Cabinet-Secretary-led Committee of Secretaries can revise specified sectors.
+- Distinguish the **Cabinet decision** from subsequent operative FEMA/policy notification and individual approvals. Aim: ease global PE/VC/start-up investment and technology/supply-chain collaboration while retaining scrutiny of control/security-sensitive investment. [Cabinet release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2237806&lang=2&reg=48).
+
 ## PDF coverage
 
-2025-08-30: pp. 1, 2 · 2025-09-15: pp. 4, 5, 6, 7, 8, 9 · 2025-10-22: pp. 3, 4, 5, 6, 7, 8 · 2026-01-27: pp. 7, 8, 9 · 2026-01-31: pp. 18
+2025-08-30: pp. 1, 2 · 2025-09-15: pp. 4, 5, 6, 7, 8, 9 · 2025-10-22: pp. 3, 4, 5, 6, 7, 8 · 2026-01-27: pp. 7, 8, 9 · 2026-01-31: pp. 18 · 2026-03-11: pp. 7, 8, 9, 10
