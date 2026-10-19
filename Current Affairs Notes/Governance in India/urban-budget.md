@@ -17,6 +17,12 @@
 - **74th Amendment** concerns urban self-government; **73rd** rural panchayats. Municipal taxes, predictable transfers, State Finance Commissions, staffing and transparent borrowing determine usable autonomy.
 - PPP/bond finance needs repayment capacity, risk allocation and disclosure; otherwise projects may favour profitable enclaves while excluding smaller cities and poorer residents.
 
+## February 2026: Urban Challenge Fund approved
+- Cabinet approved launch on **13 February 2026**, announced **14 February**: **₹1 lakh crore central assistance**, intended to mobilise **₹4 lakh crore total investment**. Operational **FY2025–26 to FY2030–31**, with implementation extendable to **FY2033–34**. Investment mobilisation is an expectation, not expenditure achieved. [MoHUA approval](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227991&lang=1&reg=1).
+- Builds on the earlier Budget proposal: competitive project selection, governance/financial/planning reforms and outcome-linked releases. The existing **25% central /minimum 50% market finance** structure leaves the remaining share to States, UTs, ULBs or other sources.
+- Coverage: cities **≥10 lakh population (2025 estimates)**, other State/UT capitals, and major industrial cities **≥1 lakh**. Verticals: growth hubs; creative redevelopment; water/sanitation. Support includes resilience, transit-oriented redevelopment, water/sewerage/stormwater and legacy-waste remediation.
+- Separate **₹5,000-crore Credit Repayment Guarantee** improves access for smaller cities and Northeastern/hilly ULBs; **4,223 cities** refers to creditworthiness support, not automatic approval of every city for an identical infrastructure grant. Appraise repayment capacity and inclusive access alongside bankability.
+
 ## PDF coverage
 
-2025-02-10: pp. 21, 22, 23, 24 · 2025-02-11: pp. 23, 24, 25, 26 · 2025-02-12: pp. 26, 27, 28, 29
+2025-02-10: pp. 21, 22, 23, 24 · 2025-02-11: pp. 23, 24, 25, 26 · 2025-02-12: pp. 26, 27, 28, 29 · 2026-02-15: pp. 10, 11, 12

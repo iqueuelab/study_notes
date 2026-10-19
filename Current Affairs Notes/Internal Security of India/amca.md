@@ -19,6 +19,13 @@
 - Technology access, IP rights, indigenous integration, testing, affordability, supply reliability and sanctions exposure determine value. Russia's assurances on alternative payments/energy supply and US political claims on oil purchases are competing source-era positions; neither proves India had ceased Russian imports or secured sanctions immunity.
 - Graphic altitude/range/radar/cost figures are variant-dependent marketing/design estimates and do not establish proven like-for-like superiority. **2024 Prelims: none (d)** of Rafale, MiG-29 and Tejas Mk1 is fifth-generation; the full question already exists in the Science and Technology bank.
 
+## February 2026: private execution and HAL ecosystem debate
+- Editorial discusses reports that private consortia were being considered for **five AMCA prototypes**, with HAL outside the reported shortlist. Distinguish reported selection stages from an awarded development/production contract; the **May 2025 approved model permitted public/private competition**, already recorded above.
+- **ADA design/programme responsibility + industrial development partner** requires clear responsibility for manufacturing engineering, redesign, flight testing, certification, schedules and lifetime support. Private firms' experience in components or other platforms does not automatically equal integrated fifth-generation fighter capability.
+- Constraints highlighted: costly tooling/test infrastructure, supplier qualification, stealth/avionics integration, trained test pilots/engineers, and incentives when prototype work does not assure a serial-production order. HAL's accumulated facilities and support experience can complement new industry capacity.
+- Editorial proposal: **co-locate private development with the HAL–ADA–IAF Bengaluru ecosystem**, share suitable publicly funded facilities and connect designers with production teams early. This is a recommendation, not a notified mandatory production-location rule. Its blanket claim that HAL maintains every IAF fighter overstates HAL's role; support arrangements vary by platform.
+- Assess combat readiness through **weapons + personnel + spares/maintenance/logistics**, not aircraft counts alone. Private participation and public expertise need accountable integration; neither ownership form by itself guarantees timely delivery.
+
 ## PDF coverage
 
-2025-05-28: pp. 2, 3, 4, 5, 6 · 2025-08-27: pp. 13, 14, 15 · 2025-09-26: pp. 14, 15, 16 · 2025-10-17: pp. 1, 2, 3
+2025-05-28: pp. 2, 3, 4, 5, 6 · 2025-08-27: pp. 13, 14, 15 · 2025-09-26: pp. 14, 15, 16 · 2025-10-17: pp. 1, 2, 3 · 2026-02-11: pp. 17, 18, 19, 20

@@ -2302,6 +2302,64 @@
       "issue_date": "2026-02-10",
       "status": "practice_excluded",
       "detail": "Kimberlite-mineral MCQ is undated practice, not authenticated CSE PYQ. No new questions."
+    },
+    {
+      "issue_date": "2026-02-11",
+      "status": "reviewed",
+      "detail": "2024 Speaker Q93 checked against existing original-paper OCR and visually against original page41; full question/options added. New START 2011 full question/options printed in source, not found in banks, added. No mains PYQs supplied."
+    },
+    {
+      "issue_date": "2026-02-12",
+      "item": "LUPEX UPPSC2024, Swavalambini UPPSC2025, Periplus BPSC64th",
+      "decision": "Excluded: StatePSC, not CSE; conceptual explanations retained."
+    },
+    {
+      "issue_date": "2026-02-12",
+      "item": "Vulture diclofenac/status/portal question sets",
+      "decision": "Unattributed practice, not genuine CSE PYQs."
+    },
+    {
+      "issue_date": "2026-02-13",
+      "item": "2020 CPI,2024 fighter generation,2025 aircraft pairs,2013 viruses,2013 decomposers",
+      "decision": "Authentic CSE questions already present in full common banks; no duplicates."
+    },
+    {
+      "issue_date": "2026-02-14",
+      "item": "2016 MUDRA,2022 solar storm,2001 Athlete’s Foot,2017 Gender Gap,2019 Competitiveness",
+      "decision": "Authentic CSE questions already present in full common banks; no duplicates."
+    },
+    {
+      "issue_date": "2026-02-14",
+      "item": "Artemis II wet rehearsal,pp21–23",
+      "decision": "Content reviewed; repeats peer02Feb11 definitions,SLSpropellants,Feb3leak andMarchwindow. Coverage retained with empty addition."
+    },
+    {
+      "issue_date": "2026-02-17",
+      "year": 2022,
+      "status": "excluded_non_cse",
+      "question": "Chile copper assertion–reason",
+      "reason": "Explicitly UPPSC, not UPSC CSE."
+    },
+    {
+      "issue_date": "2026-02-17",
+      "year": 2019,
+      "status": "duplicate",
+      "question": "Particularly Vulnerable Tribal Groups statements",
+      "reason": "Full four-option original already exists in Social Problems In India common Prelim bank; source omits options."
+    },
+    {
+      "issue_date": "2026-02-17",
+      "year": 2009,
+      "status": "duplicate",
+      "question": "In which one of the following places is the Shompen tribe found?",
+      "reason": "Already in common Environment Prelim bank."
+    },
+    {
+      "issue_date": "2026-02-17",
+      "year": 2014,
+      "status": "duplicate",
+      "question": "Ten Degree Channel island pair",
+      "reason": "Already in common Environment Prelim bank."
     }
   ],
   "resolved": [

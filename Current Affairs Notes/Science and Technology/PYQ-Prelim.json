@@ -624,6 +624,42 @@
         "d": "1, 2 and 3"
       },
       "answer": "b"
+    },
+    {
+      "year": 2025,
+      "chapter": "Quorum sensing: bacterial chemical communication",
+      "question": "Consider the following statements:\nI. No virus can survive in ocean water.\nII. No virus can infect bacteria.\nIII. No virus can change the cellular transcriptional activity in host cells.\nHow many of the statements given above are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2015,
+      "chapter": "Neutrino observatories: INO, JUNO and mass ordering",
+      "question": "In the context of modern scientific research, consider the following statements about ‘IceCube’, a particle detector located at South Pole, which was recently in the news:\n1. It is the world’s largest neutrino detector, encompassing a cubic kilometre of ice.\n2. It is a powerful telescope to search for dark matter.\n3. It is buried deep in the ice.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "year": 2025,
+      "chapter": "CL-20, HMX and LLM-105: energetic materials",
+      "question": "What is the common characteristic of the chemical substances generally known as CL-20, HMX and LLM-105, which are sometimes talked about in media?",
+      "options": {
+        "a": "These are alternatives to hydro-fluorocarbon refrigerants",
+        "b": "These are explosives in military weapons",
+        "c": "These are high-energy fuels for cruise missiles",
+        "d": "These are fuels for rocket propulsion"
+      },
+      "answer": "b"
     }
   ]
 }

@@ -188,6 +188,18 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "a"
+    },
+    {
+      "year": 2024,
+      "chapter": "Removal of the Lok Sabha Speaker",
+      "question": "With reference to the Speaker of the Lok Sabha, consider the following statements:\nWhile any resolution for the removal of the Speaker of the Lok Sabha is under consideration:\n1. He/She shall not preside.\n2. He/She shall not have the right to speak.\n3. He/She shall not be entitled to vote on the resolution in the first instance.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
     }
   ]
 }

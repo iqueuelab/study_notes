@@ -6898,37 +6898,121 @@
     {
       "date": "2026-02-11",
       "pdf": "2026/02-February/2026-02-11.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e49446f8bc7b0f0ec71ce78a764ee1cf57a68b898a7f014c5c2e80630df1ae8e",
+      "pages": 27,
+      "topic_ids": [
+        "amca",
+        "artemis-ii",
+        "ecological-colour-change",
+        "new-start",
+        "speaker-removal",
+        "textile-industry"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-12",
       "pdf": "2026/02-February/2026-02-12.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0f25bd78a4967d09f6f1f3232863a4ff740769fff1b1bbeb6d31c432a74aa6e1",
+      "pages": 19,
+      "topic_ids": [
+        "chandrayaan4",
+        "swavalambini",
+        "tamil-brahmi-egypt",
+        "vulture-drugs"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "review_notes": "Physical date12February2026 retained; page1cover readsFebruary2025,whereaspage2 explicitly12February2026. Reprints of earlier vulturematerial kept dated."
     },
     {
       "date": "2026-02-13",
       "pdf": "2026/02-February/2026-02-13.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "10a8e19cc6003bc97477a626596d4f5641cdc538c4cadf574ab867041dd95cc4",
+      "pages": 27,
+      "topic_ids": [
+        "bodhan-ai",
+        "consumer-price-index",
+        "defence-acquisition",
+        "indigenous-security-dogs",
+        "pulses-imports",
+        "quorum-sensing",
+        "substantive-motions",
+        "vande-mataram"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-14",
       "pdf": "2026/02-February/2026-02-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "c8af098128a23326efc5d417d2b6ed5c1aa82236f94f76485afe16baf4890a8d",
+      "pages": 29,
+      "topic_ids": [
+        "artemis-ii",
+        "high-energy-explosives",
+        "labour-codes",
+        "lymphatic-filariasis",
+        "network-readiness-index",
+        "neutrino-observatories",
+        "parker-solar",
+        "pm-suraj",
+        "solar-observatories"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "review_notes": "Page29 is a blank/watermark-onlypage,visuallyreviewed."
     },
     {
       "date": "2026-02-15",
       "pdf": "2026/02-February/2026-02-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "28e77697fdcfebe8428de441c343e62309eeb24941e281a09faf7b9485994b01",
+      "pages": 12,
+      "topic_ids": [
+        "chincha-guano",
+        "ethanol-maize",
+        "grazing-climate-suitability",
+        "urban-budget"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-16",
       "pdf": "2026/02-February/2026-02-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4b38c71115a2122d86b6324a0e17c7124f14cbdd141ae5fd6cfade8fe53c4961",
+      "pages": 16,
+      "topic_ids": [
+        "bio-based-chemicals",
+        "biomaterials",
+        "cotton",
+        "india-installed-power-capacity",
+        "lhs1903"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-17",
       "pdf": "2026/02-February/2026-02-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fbe7afa1b0b4b1dcb92260bdb8440eca13e4920222990386dc20a45e25360281",
+      "pages": 22,
+      "topic_ids": [
+        "copper-industry",
+        "dnt-seed",
+        "great-nicobar",
+        "green-steel"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-18",
@@ -8002,7 +8086,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-02-11",
+  "next_pdf": "2026-02-18",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

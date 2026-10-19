@@ -54,6 +54,11 @@
 - Existing October notes already cover the **₹92,000-crore estimate**, four components, **20,668 coral colonies**, approximately **51 active megapode nests**, proposed translocation/monitoring to **2052**, tribal rights and ecological risks. Do not duplicate these as newly discovered November data or equate promised mitigation with demonstrated conservation success.
 - Key governance tests: scientific consistency, publication of non-sensitive appraisal evidence, independent monitoring, enforceable conditions, habitat alternatives and meaningful Shompen/Nicobarese rights protection. The editorial's allegation of a development-first fait accompli is an argument, not a court conclusion.
 
+## February 2026: NGT environmental-clearance challenge
+- **NGT's 16 February 2026 order** disposed of fresh challenges to the integrated Great Nicobar project and found no ground to interfere with its environmental clearance, while requiring compliance with safeguards. This is the current decision; the revision box's **“2024 context”** label is erroneous. [Official order record](https://www.greentribunal.gov.in/gen_pdf_test.php?filepath=L25ndF9kb2N1bWVudHMvbmd0L2Nhc2Vkb2MvanVkZ2VtZW50cy9LT0xLQVRBLzIwMjYtMDItMTYvMTc3MTIyMTc1MjE1Njg4MjM5MDQ2OTkyYjJmOGJlYzk2LnBkZg%3D%3D).
+- The source reports the tribunal accepted the high-powered review on coastal classification, coral protection and EIA objections, including the one-season baseline dispute. Treat conclusions as findings in this proceeding, not proof that all ecological impacts or tribal-rights disputes disappear. The reported forest-clearance challenge is a separate proceeding.
+- Earlier components, **₹92,000-crore** source estimate, Shompen/Nicobarese rights, leatherback nesting, megapode, seismic risk and coastal-classification history already appear in these notes. Older appended text saying the committee report is still pending describes an earlier stage and must not overwrite this decision.
+
 ## PDF coverage
 
-2025-01-06: pp. 4, 5, 6, 7, 8, 9 · 2025-05-04: pp. 10, 11, 12, 13, 14, 15, 16 · 2025-07-07: pp. 23, 24 · 2025-08-23: pp. 8, 9, 10, 11 · 2025-10-25: pp. 12, 13, 14, 15, 16 · 2025-10-31: pp. 8, 9, 10, 11 · 2025-11-15: pp. 13, 14, 15, 16
+2025-01-06: pp. 4, 5, 6, 7, 8, 9 · 2025-05-04: pp. 10, 11, 12, 13, 14, 15, 16 · 2025-07-07: pp. 23, 24 · 2025-08-23: pp. 8, 9, 10, 11 · 2025-10-25: pp. 12, 13, 14, 15, 16 · 2025-10-31: pp. 8, 9, 10, 11 · 2025-11-15: pp. 13, 14, 15, 16 · 2026-02-17: pp. 1, 2, 3, 4, 5, 6

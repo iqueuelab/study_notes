@@ -41,6 +41,11 @@
 - India imports substantial suitable **coking coal** but has large domestic iron-ore production; avoid equating iron-ore and metallurgical-coal import dependence. Global competition, energy costs and decarbonisation affect export competitiveness.
 - Housing/infrastructure and manufacturing can expand demand, but future plant expansions and policy targets are not realised output. Generic references to Steel Development Fund/export incentives need scheme/date verification, not assumed universal subsidies.
 
+## February 2026: procurement as an anchor market
+- Editorial proposes that public infrastructure buyers, including Railways, create dependable demand for certified low-emission steel. Its illustrative arithmetic: if steel is **18% of project cost**, a **30% steel premium** raises total cost by about **5.4%** (rounded ~5.5%), assuming other costs unchanged; this is not a universal construction estimate.
+- Proposed implementation: verifiable product certification/traceability (including QR systems and accreditation), low-carbon criteria in schedules/tenders, value-for-money/lifecycle evaluation, phased pilots and coordination across Steel, Finance and Environment ministries. These are recommendations, not evidence a mandatory procurement regime has already commenced.
+- Existing taxonomy and decarbonisation routes remain the basis; certification capacity and tender usability need strengthening. Avoid reading the editorial's verification criticism as proof that India's green-steel taxonomy/certification framework does not exist.
+
 ## PDF coverage
 
-2025-01-02: pp. 1, 2, 3, 4 · 2025-04-22: pp. 8, 9, 10, 11, 12, 13, 14, 15 · 2025-04-23: pp. 13, 14, 15, 16, 17, 18, 19, 20 · 2025-05-14: pp. 13, 14, 15, 16, 17, 18 · 2025-06-01: pp. 14, 15, 16, 18, 19 · 2025-06-21: pp. 21, 22, 23, 24, 25, 26, 27, 28
+2025-01-02: pp. 1, 2, 3, 4 · 2025-04-22: pp. 8, 9, 10, 11, 12, 13, 14, 15 · 2025-04-23: pp. 13, 14, 15, 16, 17, 18, 19, 20 · 2025-05-14: pp. 13, 14, 15, 16, 17, 18 · 2025-06-01: pp. 14, 15, 16, 18, 19 · 2025-06-21: pp. 21, 22, 23, 24, 25, 26, 27, 28 · 2026-02-17: pp. 7, 8, 9, 10

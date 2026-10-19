@@ -40,6 +40,12 @@
 - Source estimates around **60% edible-oil** and **10–15% pulse** import dependence, **52% arable land degradation** and **0.3% soil organic carbon**. These are editorial-period claims with denominator/location/method limitations; 0.3% is not every Indian soil, and the issue's 29% Earth-land/arable equivalence is unreliable.
 - Rebalance incentives/procurement toward suitable pulses/oilseeds; resilient seeds, ICAR/NARS research, Soil Health Cards, precision inputs, FPO aggregation, storage/processing, extension and predictable trade policy connect farmer returns with nutrition. AIM/agritech/private partnership examples illustrate possible support, not verified membership or investment by every named company.
 
+## February 2026: procurement and trade-policy credibility
+- Editorial reports annual pulse output around **2.5 crore tonnes** against demand near **3 crore tonnes**, with imports bridging the gap; these are rounded source-period estimates. It argues that frequent import-policy shifts can lower consumer prices while weakening farmgate returns and future planting incentives.
+- Its **PSS procurement range 2.9–12.4% of production,2019–24** illustrates limited coverage and uneven centres/payments/storage. The comparison with rice/wheat should not become a claim that every tonne of cereal output is procured. Rain dependence, yield gaps and underinvestment compound price uncertainty.
+- The article questions US claims about future pulse market access under a trade arrangement. A foreign announcement or negotiating text is not proof that every Indian crop's import restriction/duty has already changed; distinguish concluded terms, customs notifications and actual purchases.
+- Existing **₹11,440 crore Mission for Aatmanirbharta in Pulses**, target **350 lakh tonnes/310 lakh ha by 2030–31**, remains prospective. Editorial priorities: reliable MSP access, timely payment, storage/FPO aggregation, climate-resilient seeds, irrigation/extension and predictable calibrated imports. A universal legal MSP guarantee is a debated proposal, not established entitlement from this editorial.
+
 ## PDF coverage
 
-2025-06-01: pp. 6, 7, 8, 9, 10, 11 · 2025-07-10: pp. 29, 30, 31, 32 · 2025-09-08: pp. 5, 6, 7, 8, 9, 10 · 2025-09-26: pp. 17, 18, 19 · 2025-10-28: pp. 18, 19, 20
+2025-06-01: pp. 6, 7, 8, 9, 10, 11 · 2025-07-10: pp. 29, 30, 31, 32 · 2025-09-08: pp. 5, 6, 7, 8, 9, 10 · 2025-09-26: pp. 17, 18, 19 · 2025-10-28: pp. 18, 19, 20 · 2026-02-13: pp. 19, 20, 21

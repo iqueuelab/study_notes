@@ -22,6 +22,13 @@
 - Women's night work requires consent and prescribed safety safeguards. Annual health checks and OSH duties depend on prescribed ages/classes and rules; avoid treating the PDF's **40+** shorthand as an unconditional Code-text entitlement for every worker. Single-registration/licensing/returns and inspector-cum-facilitator provisions simplify specified compliance processes.
 - Trade unions contest weakened bargaining/greater employer flexibility; industry supports simpler compliance and investment. Assess coverage, wages, injury prevention, collective voice and actual social-security access instead of assuming legal consolidation alone creates universal protection.
 
+## February 2026: wage definition and benefit delivery
+- Editorial links uniform wage measurement with PF, pension/gratuity and financial inclusion. The Codes' **21 November 2025 commencement** and consolidation of 29 laws are already covered; rules, eligibility and implementation determine actual benefits.
+- **50% rule**: specified excluded remuneration above half of the total is added back to statutory “wages”. This does not universally require **basic pay itself to be 50% of CTC**; wages include applicable components, and statutory exclusions matter. Thus the PDF's **₹50,000 CTC → ₹25,000 basic** example is not an automatic legal calculation. [Labour Ministry FAQs, December 2025/January 2026](https://www.labour.gov.in/static/uploads/2026/01/de4758d5bfeffc456d7de97a801891b0.pdf).
+- A higher statutory wage base can increase covered contributions/benefits and affect take-home pay, but caps, remuneration structure and eligibility prevent one universal result. **Fixed-term employees' one-year gratuity rule** does not automatically apply after one year to every contractor, gig worker or permanent employee.
+- Recognition of gig/platform/unorganised workers and schemes does not instantly give all the same EPF/ESI coverage as employees. Portable migrant benefits require operating schemes and registration; formalisation does not follow merely from bank payment.
+- The author's demand-led-growth/social-stability benefits are expectations; trade unions raise bargaining-power, threshold and enforcement concerns. Assess coverage, net income, claims processing, workplace safety and grievance redress alongside compliance simplification.
+
 ## PDF coverage
 
-2025-07-10: pp. 15, 16, 17, 18, 19 · 2025-11-22: pp. 1, 2, 3, 4, 5
+2025-07-10: pp. 15, 16, 17, 18, 19 · 2025-11-22: pp. 1, 2, 3, 4, 5 · 2026-02-14: pp. 25, 26, 27, 28

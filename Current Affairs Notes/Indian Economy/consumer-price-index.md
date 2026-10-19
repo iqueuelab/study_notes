@@ -28,6 +28,13 @@
 - **2020 Prelims: answer (a), 1 and 2 only.** CPI has greater food weight and includes services; WPI measures goods and is not RBI's inflation-target benchmark.
 - For the WPI **2011–12 series**, **24.38%** is the broader **Food Index** (food articles plus manufactured food products), not food articles alone. Do not confuse this with CPI's food-and-beverages group. [Office of Economic Adviser release](https://eaindustry.nic.in/pdf_files/cmonthly.pdf).
 
+## 12 February 2026: first CPI release with 2024 base
+- **NSO/MoSPI** released **CPI 2024=100**, replacing 2012, with weights based on **HCES 2023–24**. **January 2026 year-on-year combined inflation 2.75% provisional**, rural **2.73%**, urban **2.77%**; combined index **104.46**. CPI level and inflation rate are different quantities. [Official release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2227012&lang=2&reg=48).
+- **358 items (308 goods/50 services)** replace 299; **12 COICOP 2018 divisions** replace six groups. Broader collection includes **1,465 rural /1,395 physical urban markets**, with online collection in 12 large towns and **rural housing**, with streaming/media, new goods and services replacing obsolete items. The source's later 2012-base table is historical background, not the newly operative series.
+- New **food/beverages 36.75%** versus old 45.86%; broader **housing/water/electricity/gas/other fuels 17.67%** differs from old housing alone. Health about 6.1%, transport 8.8%, information/communication 3.61% illustrate changed spending. The source's **2.38% clothing** line confuses a figure appearing in its old pan/tobacco table; do not carry it forward as verified new clothing weight.
+- The official release provides **January 2025–January 2026 reconstructed indices**, linking factors and linked general-index history: “no historical comparison possible” is too absolute. Compare like-for-like series; the general-index link does not make differently classified component series directly comparable. Lower food weight can reduce its mechanical contribution but does not guarantee low volatility or determine the next repo decision.
+- Existing distinctions remain: **CPI-IW /AL /RL—Labour Bureau**; broad Rural/Urban/Combined—NSO; UNME discontinued. **2020 PYQ(a),1 and 2**, already banked. **2015 CPI-IW compiler answer(c), Labour Bureau**; DA linkage normally uses CPI-IW rather than mechanically applying CPI-Combined.
+
 ## PDF coverage
 
-2025-04-16: pp. 2, 3, 4, 5, 6
+2025-04-16: pp. 2, 3, 4, 5, 6 · 2026-02-13: pp. 1, 2, 3, 4, 5, 6, 7

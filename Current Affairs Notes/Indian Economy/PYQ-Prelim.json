@@ -718,6 +718,42 @@
         "d": "None"
       },
       "answer": "c"
+    },
+    {
+      "year": 2015,
+      "chapter": "Consumer Price Index and inflation measurement",
+      "question": "Which of the following brings out the Consumer Price Index Number for Industrial Workers?",
+      "options": {
+        "a": "The Reserve Bank of India",
+        "b": "The Department of Economic Affairs",
+        "c": "The Labour Bureau",
+        "d": "The Department of Personnel and Training"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2016,
+      "chapter": "PM-SURAJ: concessional credit for disadvantaged entrepreneurs",
+      "question": "With reference to ‘Stand Up India Scheme’, which of the following statements is/are correct?\n1. Its purpose is to promote entrepreneurship among SC/ST and women entrepreneurs.\n2. It provides for refinance through SIDBI.\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2018,
+      "chapter": "Network Readiness Index: digital capacity and India",
+      "question": "“Rule of Law Index” is released by which of the following?",
+      "options": {
+        "a": "Amnesty International",
+        "b": "International Court of Justice",
+        "c": "The Office of UN Commissioner for Human Rights",
+        "d": "World Justice Project"
+      },
+      "answer": "d"
     }
   ]
 }

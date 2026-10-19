@@ -12,6 +12,12 @@
 - **Budget 2025–26 five-year Mission for Cotton Productivity**: science/technology support, sustainable yields and extra-long-staple cotton; serves the **Farm → Fibre → Factory → Fashion → Foreign** value chain. [July 2025 official mission account](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2146756&lang=2&reg=48). Ministry responsibilities need the notified implementation framework; the practice question's simple ministry-based key is not sufficient proof.
 - Improve irrigation efficiency, drought/pest resilience, research-extension, risk cover, quality grading, market access and mill/MSME finance. Cotton supports roughly six million growers in source estimates, with a much larger processing/textile workforce; do not equate growers with all value-chain workers.
 
+## February 2026: growers contest US-cotton value-chain proposal
+- Farmer organisations opposed the Commerce Minister's suggestion of importing US raw cotton, processing it in India and exporting textiles/garments. This is a reported trade-policy idea; the issue does not establish a concluded zero-duty agreement or universal import entitlement.
+- Growers fear weaker domestic demand and prices; processors seek competitively priced, suitable-quality inputs and export access. Assess effects across **farmer → fibre → mill → garment → export**, with predictable import rules, productivity support and credible procurement.
+- Source's **₹7,710/quintal** is the **2025–26 medium-staple cotton MSP**, not a universal grade price; long-staple MSP is **₹8,110**. Farmers' **₹10,075** figure is their claimed C2+50% benchmark, not notified MSP. C2 includes imputed rent and interest on owned land/fixed capital; do not confuse it with the government's A2+FL cost-margin framing.
+- Cross-country production comparisons require matching bale weights: Indian statistical bales commonly **170 kg**, US bales **480 lb (~218 kg)**. The issue's US/India bale totals cannot be compared directly without conversion and matching crop years. Low import prices alone do not establish legal dumping.
+
 ## PDF coverage
 
-2025-08-27: pp. 15, 16, 17, 18
+2025-08-27: pp. 15, 16, 17, 18 · 2026-02-16: pp. 13, 14, 15, 16

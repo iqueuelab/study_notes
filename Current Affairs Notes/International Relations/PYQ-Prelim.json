@@ -419,6 +419,18 @@
         "d": "Successful coups"
       },
       "answer": "d"
+    },
+    {
+      "year": 2011,
+      "chapter": "New START and nuclear arms control",
+      "question": "The \"New START\" treaty was in the news. What is this treaty?",
+      "options": {
+        "a": "It is a bilateral strategic nuclear arms reduction treaty between the USA and the Russian Federation",
+        "b": "It is a multilateral energy security cooperation treaty among the members of the East Asia Summit",
+        "c": "It is a treaty between the Russian Federation and the European Union for the energy security cooperation",
+        "d": "It is a multilateral cooperation treaty among the BRICS countries for the promotion of trade"
+      },
+      "answer": "a"
     }
   ]
 }

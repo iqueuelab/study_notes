@@ -8,6 +8,10 @@
 - Source's INO comparison attributes delays to environmental/site concerns, litigation/clearances, political opposition, funding/administrative coordination and inadequate public communication. These are the article's explanation, not proof that all concerns were scientifically baseless or that every international partner relocated to China.
 - Big-science lesson: reliable long-term funding, environmental assessment, transparent risk communication, participation and institutional coordination. INO detects naturally occurring neutrinos; it is not a nuclear reactor or a source of nuclear waste. Broader neutrino astronomy/cosmology promises should not be presented as a completed discovery of dark matter or of the Big Bang neutrino background.
 
+## IceCube PYQ recall
+- **IceCube**, South Pole, uses about **1 km³ of Antarctic ice**, with optical sensors roughly **1.5–2.5 km deep**, to observe Cherenkov light from charged particles generated in neutrino interactions. It is a particle/neutrino telescope, rather than an optical telescope viewing through a mirror.
+- **2015 PYQ (d), all three**: large instrumented volume, indirect dark-matter searches and deep-ice installation. Neutrinos from possible dark-matter annihilation provide a search channel, not confirmation that dark matter has been detected. Weak interaction does not mean neutrinos never interact.
+
 ## PDF coverage
 
-2025-11-27: pp. 14, 15, 16, 17, 18, 19 · 2025-11-28: pp. 9, 10, 11, 12, 13, 14
+2025-11-27: pp. 14, 15, 16, 17, 18, 19 · 2025-11-28: pp. 9, 10, 11, 12, 13, 14 · 2026-02-14: pp. 9, 10, 11
