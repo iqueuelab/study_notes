@@ -2639,6 +2639,47 @@
     {
       "issue_date": "2026-03-17",
       "reason": "All six numbered MCQs are explicitly practice questions; no authentic dated CSE PYQ supplied."
+    },
+    {
+      "issue_date": "2026-03-18",
+      "reason": "Iron-ore/acrylonitrile MCQs and prison-health Mains prompt are coaching practice, without authentic CSE year/attribution."
+    },
+    {
+      "issue_date": "2026-03-19",
+      "reason": "Trade/BHAVYA/polymer/cotton/guillotine MCQs and judicial/demographic Mains prompts are practice material, not authenticated CSE PYQs."
+    },
+    {
+      "issue_date": "2026-03-20",
+      "page": 23,
+      "status": "duplicate_existing",
+      "detail": "Authentic 2020 CSE pulse-production question already in Indian Economy/PYQ-Prelim.json; retain explanation, no duplicate."
+    },
+    {
+      "issue_date": "2026-03-20",
+      "page": 12,
+      "status": "held_not_authenticated",
+      "detail": "Unyearred Myanmar-border item is not authenticated CSE; contains erroneous entire-boundary-1826 assertion and conflicting FMR distances. Excluded."
+    },
+    {
+      "issue_date": "2026-03-20",
+      "pages": [
+        22,
+        23,
+        27,
+        28
+      ],
+      "status": "practice_excluded",
+      "detail": "Arhar fertility question and end practice set are not authenticated CSE PYQs; arhar exception is false."
+    },
+    {
+      "issue_date": "2026-03-21",
+      "pages": [
+        13,
+        14,
+        18
+      ],
+      "status": "practice_excluded",
+      "detail": "Parental-leave Mains prompt and end prelim practice questions have no authentic CSE year/attribution; excluded."
     }
   ],
   "resolved": [

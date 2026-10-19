@@ -13,6 +13,14 @@
 - SSCs' industry-standard/certification role should link to measurable employability; the issue cites **PM-SETU and ITI modernisation through industry partnership** as enabling initiatives. Labour demand, informal work and regional/gender barriers still matter alongside training.
 - Source **~1.40 crore PMKVY candidates (2015–25)**, **4.1% formally vocationally trained**, **28% higher-education GER**, **44% OECD vocational enrolment /70% selected countries**, and **30–40% industry attrition** have different populations and reference periods; do not compare them as one survey. **NEP 2020's 50% higher-education GER by 2035** is a target, not achieved coverage.
 
+## March 2026: a slower-growing, ageing population
+- The editorial discusses **IIMAD–Population Foundation of India projections for 2021–2051**, not a completed 2021 Census count. Its scenario projects population **1.35bn→1.59bn**, roughly **0.5% average annual growth**; projections depend on fertility, mortality and migration assumptions.
+- Source estimates: people aged **60+ about 130m (9.6%)→325m (20.5%)**; median age **28→40 years**. The elderly **number** is roughly 2.5 times the baseline, while the **share** roughly doubles. These are projected values, not observed 2051 outcomes.
+- Working-age **15–59 share** is projected to peak around **2041**, falling from **65.2% in 2021 to 62.8% by 2051** after the intervening peak. This is an age category, not measured labour-force participation/employment; a national peak is not a universal deadline for every State.
+- Fewer young children may reduce school demand and improve pupil–teacher ratios, but rural access, distance and quality should guide consolidation. Source government/private school counts **11.07→10.18 lakh /2.88→3.31 lakh** lack clear endpoints in the summary and should not be treated as a clean like-for-like causal series.
+- Priorities: skills and productive jobs now, women's paid-work participation, reproductive choice/health, geriatric and long-term care, pension/social-security coverage and age-friendly infrastructure. **Silver economy** opportunities do not automatically produce a second demographic dividend; savings, health, productivity and institutions matter.
+- [IIMAD–PFI projection project](https://cpanel.iimad.org/iimad-pfi-population-projections/) identifies the 2021–2051 study; projections should be distinguished from the Registrar General’s separate official projection series.
+
 ## PDF coverage
 
-2025-08-29: pp. 15, 16, 17, 18 · 2026-01-07: pp. 12, 13, 14
+2025-08-29: pp. 15, 16, 17, 18 · 2026-01-07: pp. 12, 13, 14 · 2026-03-19: pp. 18, 19, 20, 21

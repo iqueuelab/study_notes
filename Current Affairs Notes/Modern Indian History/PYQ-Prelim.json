@@ -61,6 +61,18 @@
         "d": "Drastic decrease in the cultivation of plantation crops and commercial crops"
       },
       "answer": "c"
+    },
+    {
+      "year": 2012,
+      "chapter": "Mahad Satyagraha and Ambedkar’s anti-caste movement",
+      "question": "Which of the following parties were established by Dr. B. R. Ambedkar?\n1. The Peasants and Workers Party of India\n2. All India Scheduled Castes Federation\n3. The Independent Labour Party\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
     }
   ]
 }

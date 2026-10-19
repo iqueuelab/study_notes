@@ -30,6 +30,12 @@
 - WHO's **US$3 trillion annual global cost by 2030** is a projection, not a current measured Indian burden. Affordable access, quality-assured supply and continuing care determine policy value.
 - Mechanism, tirzepatide's dual **GIP/GLP-1** action, oral semaglutide and dated infographic statistics repeat existing notes. **ACE2 2021 (d), Bollgard 2022 (b), B/T cells 2022 (d)** are already banked; they are biotechnology/immunology revision anchors, not obesity-drug mechanisms. The unyearred tirzepatide practice item is not a PYQ; its ‘neither 1 nor 3’ option is a typographical error.
 
+## 21 March 2026: generic competition in India
+- Expiry of semaglutide's Indian patent protection opens competition; the issue anticipates lower prices from Indian manufacturers. **Sun Pharma announced launch of injectable Noveltreat and Sematrinity on 21 March** for weight management and type-2 diabetes respectively. Manufacturer approval, launch, price and actual availability are separate milestones. [Manufacturer launch release](https://sunpharma.com/wp-content/uploads/2026/03/PR-for-Semaglutide.pdf).
+- The clipping's old **Ozempic ₹8,800–11,175/month; Wegovy ₹10,850–16,400/month**, and projected generic **₹1,200–1,750/month**, are formulation/dose-specific market examples or expectations, not interchangeable treatment courses or a guaranteed national price.
+- Its infographic reuses older **oral Rybelsus** pack prices and NFHS-5 **24% women/23% men**, already corrected in these notes to **overweight or obesity**, not obesity alone. Do not combine **254 million/351 million** with sex-specific **2050 overweight-plus-obesity projections** as one coherent obesity-only series; the source lacks matching age/diagnostic denominators.
+- GLP-1 mechanism, oral/injectable distinction, clinical prescription/follow-up, common GI adverse effects and complementary diet/activity are already covered; a generic launch changes access/competition, not the need for clinical assessment.
+
 ## PDF coverage
 
-2025-04-07: pp. 9, 10, 11 · 2025-06-11: pp. 15, 16, 17, 18, 19 · 2025-06-28: pp. 29, 30, 31, 32 · 2025-09-17: pp. 2, 3, 4, 5 · 2025-12-03: pp. 1, 2, 3, 4, 5
+2025-04-07: pp. 9, 10, 11 · 2025-06-11: pp. 15, 16, 17, 18, 19 · 2025-06-28: pp. 29, 30, 31, 32 · 2025-09-17: pp. 2, 3, 4, 5 · 2025-12-03: pp. 1, 2, 3, 4, 5 · 2026-03-21: pp. 6, 7, 8, 18

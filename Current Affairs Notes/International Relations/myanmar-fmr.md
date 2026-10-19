@@ -18,6 +18,12 @@
 - Earlier FMR arrangements allowed specified movement within 16 km; late-2024 revised pass arrangements used 10 km. Withdrawal announcements and implementation differed across locations; do not describe an unconditional permanent visa-free entitlement.
 - Terrain, forests, drainage and cross-border Naga/Kuki-Zo ties complicate fencing. Combine lawful controls with community consultation, livelihood access and humanitarian safeguards; displacement does not itself establish criminality.
 
+## 20 March 2026: fencing and alleged cross-border training
+- The clipping reports arrest of **six Ukrainians and one US national**, alleged to have crossed via Mizoram to train Myanmar armed groups in weapons/drone operations. Arrest and allegations are not a judicial finding of guilt.
+- Source cites a Home Affairs parliamentary-committee return: **1,643 km fencing approved; 390.39 km sanctioned; 43.75 km completed; 346.64 km under construction**. Sanctioned length equals the last two figures; nationwide approval does not mean completed fencing.
+- Existing notes cover the four bordering States, original **16 km** FMR, **February 2024 withdrawal announcement** and reported later **10 km/seven-day pass** arrangements. The source alternates 10 and 16 km; it should not be read as unconditional visa-free travel. Biometric gates, verified crossings and counter-drone surveillance must balance security with kinship, livelihoods and humanitarian needs.
+- Do not memorise its practice claim that today's entire boundary was demarcated in **1826**: the Treaty of Yandabo is historical background, while the modern bilateral boundary agreement was signed **10 March 1967**, with subsequent joint demarcation. [Parliamentary statement](https://rsdebate.nic.in/bitstream/123456789/517056/1/PQ_60_13061967_U799_p3602_p360.pdf).
+
 ## PDF coverage
 
-2025-02-14: pp. 11, 12, 13, 14, 15 · 2025-03-16: pp. 1, 2, 3, 13, 14
+2025-02-14: pp. 11, 12, 13, 14, 15 · 2025-03-16: pp. 1, 2, 3, 13, 14 · 2026-03-20: pp. 10, 11, 12, 13, 27

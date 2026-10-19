@@ -27,6 +27,11 @@
 - Combined inherited genetic machinery enabled tuber development, vegetative reproduction and diversification into cold/dry Andean habitats; source cites **107 wild potato species** and roughly **40% tomato-like/60% Etuberosum-like ancestry** as study summaries, not a recipe for crossing modern crops.
 - Evolutionary insight may aid breeding for resilience; an inferred ancient origin does not itself establish a new released climate-proof cultivar. [Participating Natural History Museum, 31 July 2025](https://www.nhm.ac.uk/press-office/press-releases/scientists-reveal-the-origins-of-the-potato-and-find-the-key-to-.html).
 
+## 20 March 2026: purple potatoes in Punjab
+- A young farmer at **Matta, Faridkot** illustrates niche high-value diversification from Punjab's wheat–paddy system. Purple potatoes have Andean roots; their colour comes from **anthocyanins**. Market access, seed quality, storage and realised prices determine viability: the article's **₹6–20 lakh/acre** is a farmer/market claim, not assured net profit or a general crop return.
+- **ICAR–CPRI's Kufri Jamunia**, released/notified in **2024**, has purple skin and flesh, shallow eyes, good ambient storability and roughly **90-day** maturity; recommended for northern, central and eastern plains. Do not confuse it with **Kufri Neelkanth**, whose dark skin surrounds cream flesh. [ICAR variety catalogue](https://icar.gov.in/index.php/en/biofortified-varieties), [CPRI varietal paper](https://epubs.icar.org.in/index.php/PotatoJ/issue/download/4807/1709).
+- Punjab's source crop calendar is sowing **October–November**, harvest **February–March**; maturity varies with cultivar and conditions. Nutritional enrichment/value addition can support entrepreneurship, but antioxidant content alone does not establish anti-ageing or disease-prevention efficacy in people.
+
 ## PDF coverage
 
-2025-05-21: pp. 6, 7, 8, 9, 10, 11, 12, 13, 14 · 2025-05-25: pp. 10, 11 · 2025-06-28: pp. 10, 11, 12, 13, 14 · 2025-08-04: pp. 14, 15
+2025-05-21: pp. 6, 7, 8, 9, 10, 11, 12, 13, 14 · 2025-05-25: pp. 10, 11 · 2025-06-28: pp. 10, 11, 12, 13, 14 · 2025-08-04: pp. 14, 15 · 2026-03-20: pp. 2, 3, 27

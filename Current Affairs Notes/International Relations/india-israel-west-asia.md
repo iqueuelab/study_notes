@@ -31,6 +31,11 @@
 - **Fujairah lies on the Gulf of Oman, outside Hormuz**, making its storage/export facilities important for bypass logistics. **Kharg and Abu Musa are different islands**; Abu Musa is administered by Iran and claimed by the UAE, rather than uncontested Iranian territory.
 - The issue reports movement of **USS Tripoli/31st Marine Expeditionary Unit, ~2,500 Marines** towards the theatre and US requests for allied help on shipping. Dispatch/request is not proof of completed deployment, an agreed multinational escort mission or an amphibious assault. Existing Hormuz location/flow facts repeat.
 
+## 21 March 2026: attacks spread across energy infrastructure
+- The issue reports Iranian missile/drone attacks on Israel and Gulf facilities, including **Mina Al-Ahmadi refinery, Kuwait**, plus defensive interceptions/fire reports in **Bahrain and Saudi Arabia** and an Indian fatality in Kuwait. These are contemporaneous reports; avoid assigning every individual fire to a confirmed successful missile impact.
+- **IRGC = Islamic Revolutionary Guard Corps**, a major Iranian military institution. Infrastructure targeting can convert a regional security crisis into a supply, insurance, price and diaspora-protection crisis. The source's claims about Iran's continuing missile production or strategic intent are attributed wartime assessments, not independently measured factory output or settled war aims.
+- Existing notes cover the conflict's 28 February onset and India's diplomacy; the **Ras Laffan capacity damage** and **Gulf energy-facility map** are detailed in the Hormuz topic.
+
 ## PDF coverage
 
-2026-02-26: pp. 1, 2, 3, 4, 5 · 2026-02-28: pp. 21, 22, 23, 24 · 2026-03-02: pp. 1, 2, 3, 4, 5, 6 · 2026-03-10: pp. 4, 5, 6, 7, 8 · 2026-03-16: pp. 6, 7, 8
+2026-02-26: pp. 1, 2, 3, 4, 5 · 2026-02-28: pp. 21, 22, 23, 24 · 2026-03-02: pp. 1, 2, 3, 4, 5, 6 · 2026-03-10: pp. 4, 5, 6, 7, 8 · 2026-03-16: pp. 6, 7, 8 · 2026-03-21: pp. 2, 3, 4, 5

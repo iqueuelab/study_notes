@@ -34,6 +34,12 @@
 - **2018 PYQ: (d), Rajasthan iron-ore statement 3 only**. State governments have non-coal auction powers under relevant law; legal exceptions/central critical-mineral auction powers must be assessed by period. Statement that Andhra Pradesh and Jharkhand have no gold mines is incorrect; do not use absence of a large current operating mine as absence of deposits/historic mining.
 - **2023 mineral PYQ: (d), titanium from ilmenite/rutile**, not iron merely because ilmenite contains it. Other beach heavy minerals include leucoxene, zircon, sillimanite, garnet and monazite; resources are not automatically permitted extraction.
 
+## March 2026: NMDC production milestone
+- **NMDC reported reaching 50 million tonnes of iron-ore production during FY2025–26**, the first Indian mining company to reach that annual milestone; this is company output, not India's national total, sales or exports. [Company statement, 13 March](https://www.publicnow.com/view/B91FA6E13C81F9584B2157D22F77B7E187B42951).
+- Incorporated **1958**, headquartered **Hyderabad**, a **Ministry of Steel** CPSE and Navratna since **2008**. Iron ore is its principal business; it also operates the mechanised **Panna diamond mine, Madhya Pradesh**. Navratna grants specified financial/operational autonomy, not exemption from public oversight.
+- Ore chemistry and Indian belts repeat existing corrected notes. **Magnetite's theoretical iron content exceeds haematite's**, while haematite dominates Indian commercial mining; “best quality” cannot be assigned from mineral name alone. **Taconite is a low-grade iron-bearing rock**, not an iron-oxide species.
+- Do not revive the sheet's undated “largest Asian reserves”, exact 95% state share, universal export leadership, global 7% share or Odisha steel-production leadership without matching years/definitions. Kudremukh's deposits are a geography association, not proof the closed mine has restarted.
+
 ## PDF coverage
 
-2025-04-12: pp. 10, 11, 12, 13, 14 · 2025-06-03: pp. 29, 30, 31, 32, 33, 34, 35
+2025-04-12: pp. 10, 11, 12, 13, 14 · 2025-06-03: pp. 29, 30, 31, 32, 33, 34, 35 · 2026-03-18: pp. 6, 7, 8, 9, 10

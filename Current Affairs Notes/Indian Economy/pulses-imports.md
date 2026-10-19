@@ -46,6 +46,20 @@
 - The article questions US claims about future pulse market access under a trade arrangement. A foreign announcement or negotiating text is not proof that every Indian crop's import restriction/duty has already changed; distinguish concluded terms, customs notifications and actual purchases.
 - Existing **₹11,440 crore Mission for Aatmanirbharta in Pulses**, target **350 lakh tonnes/310 lakh ha by 2030–31**, remains prospective. Editorial priorities: reliable MSP access, timely payment, storage/FPO aggregation, climate-resilient seeds, irrigation/extension and predictable calibrated imports. A universal legal MSP guarantee is a debated proposal, not established entitlement from this editorial.
 
+## 20 March 2026: Myanmar supply arrangement
+- The clipping reports India **intends to extend** its June 2021 Myanmar pulses MoU for five years beyond **2025–26**, amid supply uncertainty. The original annual commitment was **2.5 lakh tonnes urad + 1 lakh tonnes tur**, through private traders. Do not equate a reported decision/intention with completed exchange of extension letters. [MEA annual-report background](https://fsi.mea.gov.in/Uploads/PublicationDocs/34894_MEA_Annual_Report_English.pdf).
+- It reports an additional **1 lakh tonnes tur for 2026–27**, **3.32 lakh tonnes tur imports from Myanmar in April–January 2025–26, up 44%**, and projected tur output **3.45 Mt versus 3.64 Mt**. These are source-period trade/forecast figures, not final output. Supplier certainty complements domestic production and price support; import quotas/MoUs differ from generally free import policy and customs duties.
+## Pulse crops and source corrections
+| Crop | Crop distinctions and constraints |
+| --- | --- |
+| Tur/arhar/pigeonpea | Tropical, mainly kharif; well-drained black, loamy or alluvial soils; wilt and sterility mosaic are important diseases |
+| Urad/black gram | Warm-season pulse, also rabi/summer regionally; avoid waterlogging/saline soils; yellow mosaic and powdery mildew can damage yields |
+| Masoor/lentil | Rabi pulse; cool growth and warmer maturation; well-drained loam; wilt and Stemphylium blight are constraints |
+- The source mistakenly repeats lentil's UP/MP/West Bengal/Bihar/Jharkhand list as a tur ranking; do not learn **UP as timeless largest tur producer**. Likewise its fixed **42 kg N/ha/year** urad contribution is condition-dependent.
+- **All four** moong, gram, peas and **arhar can fix nitrogen** with suitable rhizobia: its “arhar does not restore fertility” practice answer is false. Rotations, soil cover and residues improve soil health; pulses supply protein, fibre and minerals.
+- **World Pulses Day: 10 February**, designated by UNGA in **2018**, first celebrated **2019**; FAO leads observance. [FAO inaugural account](https://www.fao.org/new-york/fao-statements/detail/2019-world-pulses-day/en).
+- Existing notes retain the approved **₹11,440 crore**, **2025–26 to 2030–31** mission, tur/urad/masoor focus and four-year procurement assurance through NAFED/NCCF; source **₹1,000 crore is not total mission outlay**. The **2020 PYQ answer (a), 1 only**, already banked, correctly distinguishes urad's seasons from false moong-share/declining-rabi claims.
+
 ## PDF coverage
 
-2025-06-01: pp. 6, 7, 8, 9, 10, 11 · 2025-07-10: pp. 29, 30, 31, 32 · 2025-09-08: pp. 5, 6, 7, 8, 9, 10 · 2025-09-26: pp. 17, 18, 19 · 2025-10-28: pp. 18, 19, 20 · 2026-02-13: pp. 19, 20, 21
+2025-06-01: pp. 6, 7, 8, 9, 10, 11 · 2025-07-10: pp. 29, 30, 31, 32 · 2025-09-08: pp. 5, 6, 7, 8, 9, 10 · 2025-09-26: pp. 17, 18, 19 · 2025-10-28: pp. 18, 19, 20 · 2026-02-13: pp. 19, 20, 21 · 2026-03-20: pp. 16, 17, 18, 19, 20, 21, 22, 23, 24, 28

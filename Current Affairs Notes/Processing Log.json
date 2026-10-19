@@ -7414,22 +7414,71 @@
     {
       "date": "2026-03-18",
       "pdf": "2026/03-March/2026-03-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d2780d36d8c093d38bf9862c27e8f27861e3d2580e4f4ab3d258ed6d95877c98",
+      "pages": 24,
+      "topic_ids": [
+        "electric-cooking",
+        "herpes-simplex-virus",
+        "iron-ore",
+        "prison-electronic-monitoring",
+        "titan-acrylonitrile",
+        "trisulphide-metathesis"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-19",
       "pdf": "2026/03-March/2026-03-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "2495ff4c11e2146be7e6d1a4c498a5724f29d9b40b2dc2a6a2c01ddab2c3d3de",
+      "pages": 22,
+      "topic_ids": [
+        "bhavya-industrial-parks",
+        "budget-guillotine",
+        "cotton",
+        "demographic-dividend",
+        "judicial-reform",
+        "polymer-cost-inflation",
+        "trade-remedies"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-20",
       "pdf": "2026/03-March/2026-03-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e73d72e4646226c777aa019f36d88572903b6db3479158e6118b487187e25921",
+      "pages": 28,
+      "topic_ids": [
+        "mahad-ambedkar",
+        "myanmar-fmr",
+        "potato-cultivation",
+        "pulses-imports",
+        "relief-exporters",
+        "strait-hormuz"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-21",
       "pdf": "2026/03-March/2026-03-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3c4cfc8512b384d183a46874af47760cc9644af98fcc0bdb723cb0bfa40c5c0a",
+      "pages": 18,
+      "topic_ids": [
+        "india-israel-west-asia",
+        "maternity-entitlements",
+        "semaglutide",
+        "solar-almm",
+        "strait-hormuz",
+        "water-climate-resilience"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-23",
@@ -8368,7 +8417,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-03-18",
+  "next_pdf": "2026-03-23",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

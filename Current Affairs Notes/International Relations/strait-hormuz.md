@@ -27,6 +27,23 @@
 - **AIS, Automatic Identification System**, broadcasts vessel identification/position information. “Dark transit” describes disabling transmission; masters may switch AIS off when its operation threatens safety/security under applicable guidance, not as an unrestricted routine practice. [IMO guidance](https://www.imo.org/en/ourwork/security/pages/faq.aspx). Missing public tracking data alone cannot prove a vessel's route, hostile intent or safe passage. **GNSS/GPS spoofing** supplies false navigation data, whereas **jamming** disrupts reception; either can threaten navigation without physical damage.
 - Source-era estimates **~600 ships stranded, 23 Indian ships in Persian Gulf/3 Gulf of Oman, ~23,000 Indian maritime workers and four Indian seafarer deaths** are dated reports, not permanent totals. Safety advisories, communications and coordinated assistance matter; an individual transit does not establish normal traffic or a guaranteed safe corridor. Existing strait geography/energy ratios repeat.
 
+## 20 March 2026: Ras Laffan and LNG supply
+- **Ras Laffan, Qatar** is a major LNG processing/export hub connected to the **North Field**, continuous with Iran's **South Pars**. Damage to production capacity compounds Hormuz shipping/insurance constraints; the two risks require separate responses.
+- **QatarEnergy's 19 March statement** reported damage from **18–19 March missile strikes** to LNG Trains **4 and 6**, **12.8 Mt/year**, about **17% of Qatar's exports**, and estimated **3–5 years** repair. Revenue loss near **US$20 billion/year** is its estimate. This contradicts the coaching summary's “no immediate halt/no major disruption” wording. [QatarEnergy statement](https://www.qatarenergy.qa/en/MediaCenter/Pages/newsdetails.aspx?ItemId=3897).
+- The original clipping gives **2024–25 Indian LNG imports ~27 Mt** against **~77 Mt gas consumption** and **Qatar >40% of LNG imports**. Its **>80%** figure instead describes **Hormuz-transiting LNG originating in Qatar**; the summary wrongly makes it India's Qatar-import share. Specify volume units/basis before calculating import dependence; source's broad “~half” includes a separate rounded comparison.
+- Diversified compatible LNG supply, contract/force-majeure assessment, shipping insurance and demand planning matter. **LNG methane** and **LPG propane/butane** have distinct supply chains; an LPG disruption does not establish identical LNG stocks or storage.
+
+
+## 21 March 2026: Gulf energy-facility map
+| Country | Facilities highlighted |
+| --- | --- |
+| Kuwait | Mina Al-Ahmadi; Mina Abdullah refineries |
+| Saudi Arabia | Ras Tanura; Samref refinery at Yanbu |
+| Qatar | Ras Laffan LNG; North Field |
+| UAE | Fujairah oil storage; Shah gas field; Habshan gas facilities; Bab oilfield |
+| Iran | Tehran refinery/storage; Kharg Island; Asaluyeh gas treatment; South Pars |
+- This is the issue-date attack/vulnerability map, not a statement that every site's entire civilian capacity was destroyed. **North Field–South Pars** is a shared giant gas accumulation, not two unrelated “largest fields”. Existing Hormuz notes cover the correct route and oil/LNG denominators.
+
 ## PDF coverage
 
-2025-06-19: pp. 21, 22 · 2026-03-02: pp. 4, 6, 7, 8, 9 · 2026-03-04: pp. 7, 8, 9, 10, 15 · 2026-03-10: pp. 3, 6, 7 · 2026-03-14: pp. 11, 12, 13, 14
+2025-06-19: pp. 21, 22 · 2026-03-02: pp. 4, 6, 7, 8, 9 · 2026-03-04: pp. 7, 8, 9, 10, 15 · 2026-03-10: pp. 3, 6, 7 · 2026-03-14: pp. 11, 12, 13, 14 · 2026-03-20: pp. 24, 25, 26, 28 · 2026-03-21: pp. 3, 4, 5, 18

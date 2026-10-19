@@ -12,6 +12,13 @@
 - Require lawful, necessary, proportionate conditions; judicial oversight, short retention/access controls, review and grievance mechanisms. Avoid widening supervision to people otherwise entitled to ordinary bail or shifting unaffordable device costs onto poor accused.
 - Faster trials, legal aid, effective bail and periodic undertrial review remain central; technology cannot resolve every cause of incarceration.
 
+## March 2026: prison health and overcrowding
+- Jalpaiguri Central Correctional Home, West Bengal, reported **92 HSV infections between 20 August 2025 and 9 March 2026, with seven deaths reported among affected inmates**. Issue accounts identify overcrowding as a major risk-management failure; do not infer a proven transmission chain or cause of every death solely from those totals.
+- The editorial cites **171% Jalpaiguri occupancy**, several West Bengal prisons above 160%, and historical Kandi Sub-Jail occupancy above 400%. These are dated facility figures, not nationwide occupancy. Crowding undermines ventilation, hygiene, privacy, timely care and isolation capacity.
+- Citing **India Justice Report 2025**, the article notes roughly **43% medical-officer vacancy**, inmate/doctor burden **2.6 times** the Model Prison Manual recommendation, and only **25 psychologists for about 5.7 lakh inmates**. Do not relabel these as a fresh 2026 national census. The quoted fivefold TB risk and Kerala skin-disease proportion are study/state findings, not identical national measures.
+- Custody does not extinguish **Article 21 dignity/health protections**. Improve confidential entry screening, prompt treatment/referral, medical/mental-health staffing, disease surveillance, nutrition, ventilation and sanitation; integrate prisons with public-health/NHM systems.
+- Reduce remand congestion through timely trials, legal aid, lawful bail and suitable non-custodial measures; comply with Model Prison Manual standards. Medical isolation must be clinically justified and humane. Foreign-national detention/repatriation requires lawful processes, not automatic release or blame for outbreaks.
+
 ## PDF coverage
 
-2025-04-18: pp. 9, 10, 11, 12
+2025-04-18: pp. 9, 10, 11, 12 · 2026-03-18: pp. 11, 12, 13, 14, 17, 18

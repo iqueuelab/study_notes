@@ -18,6 +18,12 @@
 - Source's **₹7,710/quintal** is the **2025–26 medium-staple cotton MSP**, not a universal grade price; long-staple MSP is **₹8,110**. Farmers' **₹10,075** figure is their claimed C2+50% benchmark, not notified MSP. C2 includes imputed rent and interest on owned land/fixed capital; do not confuse it with the government's A2+FL cost-margin framing.
 - Cross-country production comparisons require matching bale weights: Indian statistical bales commonly **170 kg**, US bales **480 lb (~218 kg)**. The issue's US/India bale totals cannot be compared directly without conversion and matching crop years. Low import prices alone do not establish legal dumping.
 
+## March 2026: CCI funding for an earlier cotton season
+- CCEA approved **₹1,718.56 crore to Cotton Corporation of India for cotton season 2023–24** MSP operations. **Approval year 2026 ≠ crop/marketing season 2023–24**; this does not announce a new 2026 cotton MSP. [Cabinet decision](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2241807&lang=1&reg=3).
+- The issue gives **2023–24 MSP ₹6,620/quintal medium-staple and ₹7,020 long-staple**, distinct from the 2025–26 rates already above. It cites that season's **114.47 lakh hectares and 325.22 lakh 170-kg bales**; the accompanying global-share/rank claims need comparable crop years and bale weights.
+- **CCI**, established **1970**, Ministry of Textiles PSU, undertakes price-support procurement when qualifying market prices fall below MSP, then stores/sells cotton under the relevant arrangements. Procurement protects growers from distress sales but has fiscal, storage, quality and disposal implications.
+- Cotton's warm growing season, suitable drainage/black soils, pest pressure and regional belts are revision background; irrigation/rainfall needs depend on variety/region. Funding for a past season is separate from the productivity mission and temporary import-duty decisions.
+
 ## PDF coverage
 
-2025-08-27: pp. 15, 16, 17, 18 · 2026-02-16: pp. 13, 14, 15, 16
+2025-08-27: pp. 15, 16, 17, 18 · 2026-02-16: pp. 13, 14, 15, 16 · 2026-03-19: pp. 10, 11, 12
