@@ -15,6 +15,12 @@
 - **US$20 billion investment commitment over 15 years** and target of doubling bilateral trade are ambitions, not realised FDI. **5,000 temporary-employment entry places, stays up to three years**, plus **1,000 Work and Holiday visas**; eligibility/professional recognition apply. Do not automatically describe the 5,000 ceiling as 5,000 new grants every year.
 - Diversification amid US tariff pressure, Oceania engagement and services mobility balance export opportunity against farmer protection. An FTA removes/reduces agreed barriers; it need not cover every sector or create a customs union.
 
+## 30 December 2025: repeated FTA overview
+- Negotiations concluded after about nine months; source expected signing in first half 2026. This repeats the 23 December development and is **not a second conclusion, signed treaty or entry into force**.
+- **$5 bn trade/five years, $20 bn investment/15 years, tariff-free Indian exports**, services access and temporary skilled mobility are intended commitments/targets. The **5,000 temporary employment pathway** is a quota/capacity, not proof 5,000 new visas are issued afresh every year regardless of conditions.
+- Agriculture concessions are product-specific: dairy/rice/wheat/sugar and other sensitive exclusions coexist with concessions on some fruit/wine/forestry products. Milk-albumin/infant-formula arrangements do not imply blanket opening of all dairy. Avoid learning the worksheet's repeated 'vegetables:almonds' taxonomy or assuming every listed exclusion applies identically to every product line.
+- Mains: export diversification and labour-intensive manufacturing/services opportunities balanced with sensitive farm livelihoods, rules of origin, safeguards and adjustment capacity. Existing 23 December details remain the primary development record.
+
 ## PDF coverage
 
-2025-03-17: pp. 16, 17, 18, 34, 35 · 2025-03-18: pp. 11, 12, 13, 14, 33, 34 · 2025-03-19: pp. 26 · 2025-12-23: pp. 1, 2, 3, 4
+2025-03-17: pp. 16, 17, 18, 34, 35 · 2025-03-18: pp. 11, 12, 13, 14, 33, 34 · 2025-03-19: pp. 26 · 2025-12-23: pp. 1, 2, 3, 4 · 2025-12-30: pp. 24, 25, 26, 27

@@ -1893,6 +1893,101 @@
       ],
       "status": "reviewed",
       "evidence": "Full extracted text and every page PNG reviewed, including embedded clippings/graphics. No attributed CSE PYQs."
+    },
+    {
+      "date": "2025-12-24",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "status": "reviewed",
+      "evidence": "Full extracted text and every page PNG reviewed, including embedded clippings/graphics. Pages5/6 JSY2012/2023 full statements/options retained. Full2024TFR and2019rhino questions duplicate Social Problems/Environment banks; no second copy. Page3 250word prompt is practice only. Source2023 statement2 shortens authentic wording; retained full poor pregnant women wording. No attributed Mains PYQ."
+    },
+    {
+      "date": "2025-12-25",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "status": "reviewed",
+      "evidence": "Full extracted text and every page PNG reviewed, including embedded clippings/graphics. No attributed CSE PYQs."
+    },
+    {
+      "issue_date": "2025-12-26",
+      "status": "practice_only",
+      "details": "All 15 pages text/images reviewed. Kimberlite-diamonds MCQ is explicitly undated Prelims Practice, not CSE PYQ. No Mains PYQs."
+    },
+    {
+      "issue_date": "2025-12-27",
+      "status": "duplicate_and_practice",
+      "details": "All 15 physicalpages reviewed including blankp 15. Full 2018 Aadhaar statements/options already in Indian Polity common bank; no duplicate added. Childmarriage 150–200 word Mains question explicitly practice, no exam year; excluded. No other authentic CSE PYQs."
+    },
+    {
+      "issue_date": "2025-12-29",
+      "pages": [
+        7,
+        8,
+        15,
+        16
+      ],
+      "status": "duplicate_existing",
+      "reason": "2025REE,2022monazite,2024Venezuela and2025Andes fullquestions already in subjectcommonbanks; no duplicate appended."
+    },
+    {
+      "issue_date": "2025-12-30",
+      "pages": [
+        9
+      ],
+      "status": "duplicate_prior_slot_draft",
+      "reason": "GuruShikhar2007 fullquestion/options already inresult04; corroborated reproduced2007paper, no08duplicate."
+    },
+    {
+      "issue_date": "2025-12-29",
+      "pages": [
+        21,
+        22
+      ],
+      "status": "practice_not_pyq",
+      "reason": "Research250wordprompt has noCSEyear and is editorialpractice."
+    },
+    {
+      "issue_date": "2025-12-30",
+      "pages": [
+        16
+      ],
+      "status": "practice_not_pyq",
+      "reason": "DACMCQ is explicitlyPracticeQuestion withoutCSEyear."
     }
   ],
   "resolved": [

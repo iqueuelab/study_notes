@@ -35,6 +35,14 @@
 - **Aravalli Green Wall** seeks native restoration around the hill belt; the **26-million-ha-by-2030 pledge is India's national degraded-land restoration ambition**, not simply the project area. The project was launched in **2023**, with later 2025 implementation activity; PDF's June-2025 first-launch label conflates stages. [MoEFCC action plan](https://moef.gov.in/uploads/pdf-uploads/pdf_682f0a92983b08Wall.pdf).
 - Embedded safari clipping proposes first-phase work; a minister's expectation does not prove judicial/environmental approvals or completed construction. **2007 Guru Shikhar PYQ—Rajasthan (a)**.
 
+## 29–30 December 2025: definition judgment kept in abeyance
+- **29 December Supreme Court suo motu order** kept its **20 November 2025 judgment and committee recommendations in abeyance** pending further scientific assessment. It proposed a high-powered expert examination; proposal is not proof the final panel was already constituted. [Supreme Court order](https://api.sci.gov.in/supremecourt/2025/75317/75317_2025_1_5_67202_Order_29-Dec-2025.pdf).
+- November definition used **100 m above local relief**, with a **500 m proximity criterion** for ranges; it is not 100 m above mean sea level. The Court questioned possible exclusion/fragmentation and ecological continuity. Its interim protection requires **prior Supreme Court permission for new/renewed mining permissions within the Aravalli areas identified by FSI's 2010 report**. Avoid calling this a universal closure of every existing mine.
+- The **1,048 of 12,081 Rajasthan hills** comparison is an exclusion concern to be examined, not a final finding that 90% of land lost every legal protection. The PDF's later sections describing November's regime as the current final position are superseded by its opening December stay report.
+- Scientific mapping, cumulative impact/carrying capacity, aquifer/corridor protection, native restoration and inter-State coordination matter beyond mechanical thresholds. Article 21, precaution and intergenerational equity provide the mains framework.
+- Existing notes already correct geography: **Delhi–Haryana–Rajasthan–Gujarat**, not Uttar Pradesh; **Banas→Chambal→Yamuna**, not direct Yamuna tributary; Chambal originates near Mhow in Vindhyan terrain, not Aravallis. **Guru Shikhar 1,722 m, Mount Abu, Rajasthan**; 'oldest' is a broad ancient-fold-belt description, not a uniform exact age/zero earthquake risk.
+- Green Wall is landscape restoration; source's **26 million hectares by 2030** is India's national land-restoration target, not proof 26 Mha lies inside a 5 km Aravalli strip. The project predates 2025; do not turn a 2025 push into its first launch. **2007 Guru Shikhar(a)** already added in earlier slot draft; no duplicate.
+
 ## PDF coverage
 
-2025-02-18: pp. 12, 13, 14, 15 · 2025-06-04: pp. 6, 7, 8, 9 · 2025-07-19: pp. 10, 11 · 2025-12-18: pp. 8, 9, 10, 11, 12, 13
+2025-02-18: pp. 12, 13, 14, 15 · 2025-06-04: pp. 6, 7, 8, 9 · 2025-07-19: pp. 10, 11 · 2025-12-18: pp. 8, 9, 10, 11, 12, 13 · 2025-12-30: pp. 1, 2, 3, 4, 5, 6, 7, 8, 9

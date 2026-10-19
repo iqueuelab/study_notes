@@ -24,6 +24,11 @@
 - Repeated rhino profile, poaching concerns, distribution, IRV2020 and 2019 PYQ already appear in these notes with corrected population denominators/West Bengal counts. **2019 answer: 1 only**—Asiatic lion restricted naturally to India; one-horned rhino also Nepal; double-humped camel not India-only. Supplied page omits full options, so no reconstructed question is added.
 - Source tiger density 18.65/100 km² and global rank are unharmonised historical estimates; do not overwrite the differently dated survey already recorded. Global insect decline estimates depend on study/sample and cannot establish every insect is a keystone species.
 
+## December revision: distribution and PYQ corrections
+- Species profile, Indian protected-area map, **IRV2020**, threats/protection and the Rhisotope insert repeat the existing common topics. Retain corrected **2022 global 4,014/Kaziranga 2,613**, West Bengal populations and roughly **65%** denominator; do not restore outdated **~2,400, West Bengal <100 or >70%** claims.
+- **2019 PYQ: (a), 1 only**—Asiatic lion restricted naturally to India; greater one-horned rhino also Nepal; double-humped camel not India-only. The PDF's assertion Bactrian camels are absent/non-native throughout India is misleading given Ladakh's established Bactrian camel population; domesticated and wild species/distributions must be distinguished. It also speculates about small current rhino populations in Bhutan/Bangladesh without evidence; use established India/Nepal strongholds.
+- Rhisotope does **not establish that treated horns poison humans**; established purpose is customs detection/deterrence. Its old population and poaching numbers are not updated December totals. The rhino PYQ already exists in the Environment bank; preserve a single copy.
+
 ## PDF coverage
 
-2025-04-30: pp. 16, 17, 18, 19 · 2025-06-06: pp. 7, 8 · 2025-07-12: pp. 21, 22, 23, 24 · 2025-08-09: pp. 4, 5 · 2025-09-28: pp. 1, 2, 3, 4, 5
+2025-04-30: pp. 16, 17, 18, 19 · 2025-06-06: pp. 7, 8 · 2025-07-12: pp. 21, 22, 23, 24 · 2025-08-09: pp. 4, 5 · 2025-09-28: pp. 1, 2, 3, 4, 5 · 2025-12-24: pp. 12, 13, 14

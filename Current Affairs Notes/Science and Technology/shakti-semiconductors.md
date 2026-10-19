@@ -55,6 +55,18 @@
 - Adoption needs developer boards/software, validated operating-system/toolchain support, security audits, reliable supply and manufacturing tests. Procurement demand can reduce commercial risk, but “indigenous” alone does not prove absence of vulnerabilities.
 - **2025 Majorana 1 PYQ repeats existing bank: statements I/III, (c)**. Microsoft introduced Majorana 1; deep learning is a subset of machine learning. The PDF's stronger explanation that practical topological quantum computing is already achieved overstates the announced evidence.
 
+## December 2025: SCL modernisation and mature-node value
+- Government announced **₹4,500 crore SCL Mohali modernisation on 28 November 2025**, with assurance against privatisation; proposed wafer-capacity expansion is a target, not achieved output. **28 chips from 17 academic institutions** handed over; cumulative **56 C2S student-designed chips** fabricated. [MeitY](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2196011&lang=1&reg=3).
+- **SCL is under MeitY**, having moved from Department of Space; its integrated design/fabrication/packaging/test capability supports strategic ASICs, optoelectronics, MEMS, academic prototypes and indigenous processors. **180 nm CMOS** is a mature node, distinct from leading-edge 3/5 nm technologies. [SCL introduction](https://www.scl.gov.in/introduction.html).
+- Newspaper recalls plant setup/inauguration **1983**, production **1984**, fire **1989**; these milestones should not be confused with the earlier institutional/company formation. Fire was an important setback, not proof SCL once led the entire world or the sole cause of subsequent industry gaps.
+- Proposed role includes trusted legacy/strategic chips, student/startup access, LED/optoelectronic and high-volume products. Larger transistors can serve useful rugged/industrial functions; “legacy” does not mean no strategic value. Modernisation is not evidence a leading-edge commercial fab is already operating.
+- Cleanrooms, yields, equipment/process know-how, skills, reliable utilities and suppliers matter alongside investment. **September SEMICON India** clipping—ten approved projects, US$18 billion/₹1.5 lakh crore, faster approvals and ₹76,000-crore programme—repeats the existing September record; **7.8% GDP growth** is an older quarter-specific reference, not a new December annual result.
+
+## 25 December 2025: self-reliance claim at Gwalior summit
+- At the **Abhyudaya Madhya Pradesh Growth Summit, Gwalior**, Home Minister **Amit Shah** said India would become semiconductor self-reliant and an exporter. This is a **policy expectation**, not evidence all chips/equipment are already domestically produced or a newly commissioned fab at this event.
+- Existing notes distinguish **design → fabrication → packaging/testing → systems/software**, and approval/prototype/production stages. Strategic resilience still needs technology, yields, skilled staff, supplier ecosystems, competitive scale, reliable power/water and environmental safeguards; exports can coexist with imports.
+- Source also reports **₹2 lakh-crore-plus industrial projects** across Madhya Pradesh and praises regional investment conclaves. Distinguish announced/foundation-stone/inauguration components and projected jobs from fully operating output. Regional clusters can widen investment beyond major cities but require actual logistics, skills and market access.
+
 ## PDF coverage
 
-2025-02-12: pp. 4, 5, 6, 7, 8, 9, 10 · 2025-03-10: pp. 15, 16, 17, 18, 19 · 2025-05-15: pp. 25 · 2025-08-13: pp. 1, 2, 3, 4, 5 · 2025-09-03: pp. 1, 2, 3, 4 · 2025-12-19: pp. 13, 14, 15, 16, 17
+2025-02-12: pp. 4, 5, 6, 7, 8, 9, 10 · 2025-03-10: pp. 15, 16, 17, 18, 19 · 2025-05-15: pp. 25 · 2025-08-13: pp. 1, 2, 3, 4, 5 · 2025-09-03: pp. 1, 2, 3, 4 · 2025-12-19: pp. 13, 14, 15, 16, 17 · 2025-12-24: pp. 15, 16, 17, 18 · 2025-12-26: pp. 10, 11, 12

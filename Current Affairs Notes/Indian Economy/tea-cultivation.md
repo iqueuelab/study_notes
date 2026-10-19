@@ -16,6 +16,13 @@
 - **840 g/person/year in India versus ~3 kg in Turkey** are source estimates; “1 kg would absorb all production” is an illustrative domestic-demand argument, not a guaranteed market forecast. Labour welfare, productivity, climate resilience, packaging/organic certification and origin branding affect competitiveness.
 - The same issue calls India both second- and third-largest exporter. Existing notes preserve the **dated reported 2024 second-place claim** with scope caveats; neither contradictory sentence establishes a fresh verified September global ranking. Source's fixed Tea Board office/member/State-share figures remain period-dependent.
 
+## 24 December 2025: FSSAI clarification on “tea”
+- FSSAI directs that **tea must derive from Camellia sinensis**, under **Food Product Standards Regulations 2011,2.10.1**. Calling non-Camellia herbal/plant infusions **rooibos/herbal/flower “tea”** is misleading/misbranding; labelling must describe the food's true nature under **Labelling and Display Regulations 2020,5(1)**. Applies to relevant food businesses including e-commerce; it is not a ban on consuming herbal infusions. [FSSAI order](https://fssai.gov.in/upload/advisories/2025/12/694c01c199e30Orldler%20dated%2024%20Dec%2025.pdf).
+- **C. sinensis**, family **Theaceae**, is an evergreen shrub/tree normally pruned in plantations; **young leaves/buds** are processed. Flowers are bisexual, with stamens and carpels. Different tea categories chiefly reflect processing, rather than four separate botanical source species.
+- **Green:** oxidation curtailed by heating; **oolong:** partial oxidation; **black:** extensive oxidation; **white:** minimal processing/withered-dried leaves/buds. “Fermentation” in conventional black-tea processing commonly refers to enzymatic oxidation, not necessarily microbial fermentation.
+- Existing climate/drainage facts repeat. Source's **15–23°C** is an indicative optimum, not a universal fixed growing limit; its “calcium-free soil” is too absolute. Do not infer tea grows only on hills: drainage, moisture, cultivar and soil acidity matter. Its short country list omits major producers such as **Kenya/Sri Lanka**, so is not a world ranking.
+- Accurate product identity supports consumer choice and legitimate tea producers. Herb blends containing genuine tea must be assessed under applicable composition/labelling rules, not treated identically to infusions with no Camellia ingredient.
+
 ## PDF coverage
 
-2025-06-19: pp. 18, 19, 20, 21 · 2025-09-24: pp. 9, 10, 11, 12
+2025-06-19: pp. 18, 19, 20, 21 · 2025-09-24: pp. 9, 10, 11, 12 · 2025-12-27: pp. 12, 13, 14

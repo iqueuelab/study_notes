@@ -25,6 +25,13 @@
 - Source image highlights safety/violence, educational loss, reproductive health, psychological burden and violation of childhood rights. Child-help services support rescue/referral; an old **1098** image should not be treated as a complete description of present emergency-response integration.
 - **Mains framework:** scale and causes → law/enforcement → education and economic agency → health/social protection → community engagement → implementation gaps and measurable outcomes. The source's 250-word question is undated practice.
 
+## December 2025: prevention beyond national averages
+- The source's “Prevention of Child Marriage Act” title is wrong: **Prohibition of Child Marriage Act 2006**. Existing notes give **female below 18/male below 21** thresholds; “either spouse below 18” alone omits males 18–20. **NFHS 47.4%→23.3%** refers to women 20–24 married before 18, across 2005–06/2019–21; not all girls or marriages in 2025.
+- Editorial's **40% poorest versus 8% richest** and **48% no-education versus 4% higher-education** comparisons are source-reported NFHS/UNFPA associations with different wealth/education cohorts; they are not experimental proof education alone explains every marriage. West Bengal/Bihar/Tripura remain highlighted, with interstate/social variation.
+- **Bal Vivah Mukt Bharat**, launched **27 November 2024**, marked one year with a **100-day intensive campaign**, formally launched **4 December 2025**, covering schools, community/faith leaders and local bodies. This is a new campaign stage, not a new marriage-age law. [WCD announcement](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2197965&lang=2&reg=3).
+- Editorial warns fear of criminalisation can deter adolescents from formal healthcare and push unsafe care. Enforce protection sensitively while maintaining access to confidential appropriate health services, education, counselling and legal support; low prosecution counts alone cannot measure prevalence or establish the success of a law.
+- Existing notes cover poverty, gender norms, early-pregnancy/education consequences and 2030 SDG 5.3. This issue stresses **usable school toilets, safe transport, secondary-school retention, outreach and livelihoods**, beyond cash incentives alone. **150–200-word Mains prompt is expressly practice**, with no authentic exam year, so excluded from PYQ bank.
+
 ## PDF coverage
 
-2025-01-29: pp. 16, 17, 18, 19, 20 · 2025-04-20: pp. 4, 5, 6, 7
+2025-01-29: pp. 16, 17, 18, 19, 20 · 2025-04-20: pp. 4, 5, 6, 7 · 2025-12-27: pp. 4, 5, 6, 7

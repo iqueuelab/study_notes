@@ -24,6 +24,13 @@
 ## Ethics illustration
 - A companion memoir portrays courteous leadership, humour, humility, tolerance of uncomfortable press questions and delegation to capable colleagues. Use as a qualitative example, not as a measurable policy outcome.
 
+## December 2025: institutional reform argument
+- Hardeep Singh Puri's editorial argues predictable rules, decriminalisation, fewer compliances, digital approvals, labour simplification and logistics reform can lower business friction and encourage investment. These are an author's causal argument, not proof every growth outcome was caused by the listed measure.
+- Source-period cumulative figures: **47,000+compliances removed,4,458 provisions decriminalised,8.29 lakh Single Window approvals,3,000+Gati Shakti projects/₹76 lakh crore**; counts use programme-specific coverage and are not equivalent to completed investments/jobs. **BBB sovereign-rating upgrade** is an agency-specific 2025 action, not every rating agency's grade.
+- **Four Labour Codes from 21 November 2025**, consolidating 29 central laws, are reported separately from the **Securities Markets Code Bill's proposed changes**. Bill introduction does not enact specialised market courts. Ports/shipping/cargo reforms require their own commencement provisions; passage is not proof every provision is operative.
+- Repealing 71 obsolete Acts, digital procurement/startup promotion and energy-sector measures illustrate governance themes; existing topic notes retain scheme details and legislative stages. Source **ONDC 326 million orders, GeM₹16.41 lakh crore,2 lakh startups/21 lakh jobs** are dated platform/cumulative snapshots, not comparable annual national-output data.
+- **100 GW nuclear by 2047,5 indigenous SMRs by 2033, ₹20,000 crore mission** are targets/allocation; New Zealand talks were concluded rather than an implemented FTA. SHANTI legislation should retain the existing nuclear topic's assent/commencement distinction, not automatically be treated operative from an editorial.
+
 ## PDF coverage
 
-2025-01-03: pp. 1, 2, 3, 4, 5, 6
+2025-01-03: pp. 1, 2, 3, 4, 5, 6 · 2025-12-30: pp. 20, 21, 22, 23

@@ -6179,32 +6179,104 @@
     {
       "date": "2025-12-24",
       "pdf": "2025/12-December/2025-12-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "pages": 22,
+      "sha256": "2dceb8577d7e290f7eed26203eb4e01d703ac73a0a0fb8fe6c6b17f0b1ef6a34",
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "topic_ids": [
+        "child-trafficking",
+        "greater-one-horned-rhino",
+        "maternal-mortality",
+        "rhino-dehorning",
+        "rhisotope",
+        "shakti-semiconductors"
+      ]
     },
     {
       "date": "2025-12-25",
       "pdf": "2025/12-December/2025-12-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "pages": 13,
+      "sha256": "f87e131a5e71c54aceb7bddc9f8c46da86ad109c95559a774c358889e2dd9683",
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "topic_ids": [
+        "keezhadi",
+        "lunar-nuclear-power",
+        "manufacturing",
+        "port-security-bureau"
+      ]
     },
     {
       "date": "2025-12-26",
       "pdf": "2025/12-December/2025-12-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "8c14d7f6594913fce108ddd91abacccd9ce912a3bc8d3bc53a8035a681a61d24",
+      "pages": 15,
+      "topic_ids": [
+        "jwaneng-diamonds",
+        "kimberley-process",
+        "natgrid",
+        "national-population-register",
+        "rabies",
+        "rashtra-prerna-sthal",
+        "shakti-semiconductors",
+        "textile-industry"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-27",
       "pdf": "2025/12-December/2025-12-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "26f6784c0378465db8c090ce02bdb505e23eeca15af65d681132b48998afcb3e",
+      "pages": 15,
+      "topic_ids": [
+        "aadhaar-voter",
+        "child-marriage",
+        "k4-slbm",
+        "malaria",
+        "tea-cultivation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-29",
       "pdf": "2025/12-December/2025-12-29.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "5e539abc44163d723abde4aadee6ed39486d45bc02b34b95fe511957bc7a1f55",
+      "pages": 26,
+      "topic_ids": [
+        "critical-minerals",
+        "india-iran",
+        "oreshnik",
+        "science-budget",
+        "venezuela-resource-curse"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-30",
       "pdf": "2025/12-December/2025-12-30.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e90a99645b95db4a09642adbb9dc85be80c3ed31d95ced043bf753c1384c4c9e",
+      "pages": 31,
+      "topic_ids": [
+        "aravalli-safari",
+        "defence-industry",
+        "economic-reforms",
+        "india-new-zealand",
+        "industrial-indicators",
+        "kaundinya",
+        "mospi-data",
+        "pinaka"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-31",
@@ -7488,7 +7560,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-12-24",
+  "next_pdf": "2025-12-31",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7635,6 +7707,11 @@
       "date": "2025-12-21",
       "status": "No standalone or combined issue found",
       "evidence": "Assigned jobs.json marks this date missing; checked Current Affairs/2025/12-December/2025-12-21.pdf absent and no matching dated daily PDF in month collection. No notes invented for absent issue. External legal verification of a 21 December Gazette is not review of a missing daily issue."
+    },
+    {
+      "date": "2025-12-28",
+      "status": "No standalone or combined issue found",
+      "evidence": "Assigned 2025-12-28 is listed as missing in jobs.json. Directory inventory of Current Affairs/2025/12-December contains December26,27,29 files, but no December28 standalone or combined-date filename; no combined source covering this date was supplied. No notes invented."
     }
   ]
 }

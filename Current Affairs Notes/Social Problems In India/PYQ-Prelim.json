@@ -56,6 +56,30 @@
         "d": "traders"
       },
       "answer": "d"
+    },
+    {
+      "chapter": "Maternal mortality: indicators, trends and prevention",
+      "year": 2012,
+      "question": "The endeavour of 'Janani Suraksha Yojana' Programme is:\n1. to promote institutional deliveries\n2. to provide monetary assistance to the mother to meet the cost of delivery\n3. to provide for wage loss due to pregnancy and confinement\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a"
+    },
+    {
+      "chapter": "Maternal mortality: indicators, trends and prevention",
+      "year": 2023,
+      "question": "Consider the following statements in relation to Janani Suraksha Yojana:\n1. It is a safe motherhood intervention of the State Health Departments.\n2. Its objective is to reduce maternal and neonatal mortality among poor pregnant women.\n3. It aims to promote institutional delivery among poor pregnant women.\n4. Its objective includes providing public health facilities to sick infants up to one year of age.\nHow many of the statements given above are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All four"
+      },
+      "answer": "b"
     }
   ]
 }

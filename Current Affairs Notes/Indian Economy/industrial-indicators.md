@@ -53,6 +53,10 @@
 - Contemporary June 2 release reports **HSBC India Manufacturing PMI 57.6 in May, versus 58.2 in April**: softer expansion, not contraction. Contents refers to the May low, but the reproduced generic body does not print the figure. **57.6 is an index reading, not 57.6% output growth**. [Contemporary release record](https://www.cmegroup.com/education/events/econoday/636975).
 - HSBC is the India-series sponsor in this period; S&P Global compiles the survey. Existing definitions, components and IIP comparison cover the repeated text.
 
+## November 2025 IIP release reported on 30 December
+- Embedded clipping reports **IIP growth 6.7% year on year in November**, a 25-month high led by manufacturing/capital goods. This is growth relative to November 2024, not a 6.7 point index level or proof all industries expanded.
+- Generic IIP explanation repeats existing notes: **NSO, MoSPI; mining/manufacturing/electricity; monthly volume index; then-base 2011–12**. **Index 116=16% above base**, not necessarily 16% annual growth. Positive index level does not imply positive growth or directly measure inflation/services/GDP.
+
 ## PDF coverage
 
-2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12 · 2025-02-13: pp. 26, 27, 28, 29 · 2025-03-04: pp. 29, 30 · 2025-03-13: pp. 18, 19, 20, 21 · 2025-03-29: pp. 46, 47, 48 · 2025-04-03: pp. 6, 7, 8 · 2025-04-12: pp. 1, 2, 3, 4 · 2025-04-24: pp. 12, 13, 14 · 2025-04-29: pp. 14, 15, 16, 17 · 2025-05-29: pp. 2, 3, 4 · 2025-06-03: pp. 39, 40, 41
+2025-01-01: pp. 30, 31, 32, 33 · 2025-01-03: pp. 11, 12 · 2025-02-01: pp. 9, 10, 11, 12 · 2025-02-13: pp. 26, 27, 28, 29 · 2025-03-04: pp. 29, 30 · 2025-03-13: pp. 18, 19, 20, 21 · 2025-03-29: pp. 46, 47, 48 · 2025-04-03: pp. 6, 7, 8 · 2025-04-12: pp. 1, 2, 3, 4 · 2025-04-24: pp. 12, 13, 14 · 2025-04-29: pp. 14, 15, 16, 17 · 2025-05-29: pp. 2, 3, 4 · 2025-06-03: pp. 39, 40, 41 · 2025-12-30: pp. 27, 28

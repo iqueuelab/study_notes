@@ -20,6 +20,11 @@
 ## Export interest reported in the July 8-labelled section
 - Saudi Arabia, Vietnam and Indonesia were reported as prospective buyers of Guided Pinaka. Interest is distinct from a signed contract, delivery or independently verified combat performance. Exports can deepen defence partnerships and support domestic ammunition manufacturing.
 
+## 29 December 2025: LRGR 120 maiden flight test
+- **DRDO tested Pinaka Long Range Guided Rocket at ITR Chandipur, Odisha**, maximum **120 km**, with planned manoeuvres and precise target impact reported. **ARDE** designed with **HEMRL**, supported by **DRDL/RCI**; trial coordinated by **ITR and Proof & Experimental Establishment**. Launched from an **in-service Pinaka launcher**, demonstrating compatibility across range variants. [DRDO release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2209588&lang=2&reg=3).
+- Test success and the same-day procurement AoN are different milestones; neither proves mass production or field induction. Extended range/guidance improves stand-off artillery precision and logistics commonality.
+- Existing notes cover launcher/pods/support vehicles and earlier ammunition procurement. The worksheet's exact **Mk III 5,757.70 km/h**, projected 300 km variant and mixed Mk I/Mk II ranges are not all verified characteristics of the tested LRGR 120; omit them as established specifications.
+
 ## PDF coverage
 
-2025-01-31: pp. 1, 2, 3, 4, 5 · 2025-02-07: pp. 8, 9, 10, 11, 12, 14, 15 · 2025-02-13: pp. 1, 2 · 2025-06-24: pp. 1, 2, 3, 4, 5 · 2025-07-09: pp. 1, 2
+2025-01-31: pp. 1, 2, 3, 4, 5 · 2025-02-07: pp. 8, 9, 10, 11, 12, 14, 15 · 2025-02-13: pp. 1, 2 · 2025-06-24: pp. 1, 2, 3, 4, 5 · 2025-07-09: pp. 1, 2 · 2025-12-30: pp. 16, 17, 18, 19

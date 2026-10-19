@@ -35,6 +35,11 @@
 - The PDF's generic **18% inputs/5% finished textiles** simplifies product-specific HSN rates. It predates implementation of the September reform; **56th GST Council, 3 September 2025**, recommended **MMF 18%→5%, MMF yarn 12%→5%**, effective with relevant notifications from **22 September**. At this issue date, these changes were announced/prospective. [Textiles Ministry response](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163905&lang=1&reg=1), [September 17 backgrounder](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc2025917639401.pdf).
 - Lower fibre/yarn rates reduce one inversion; they do not prove every upstream chemical/recycled-feedstock mismatch or refund delay disappears. Distinguish fibre, yarn, fabric and chemical inputs before assessing tax neutrality, competitiveness and circular-economy effects.
 
+## December 2025: PMMITRA and regional value chains
+- The Gwalior summit links **PM Mega Integrated Textile Regions and Apparel (PMMITRA) Parks** to cotton demand and incomes in **Malwa/Chambal**. Better farm prices and employment are expected benefits, not guaranteed results for every farmer.
+- Cabinet's **2021** scheme: **seven parks**, **₹4,445 crore original outlay**; integrates spinning, weaving, processing/dyeing, garments, testing, logistics and common infrastructure. **5 F:** farm→fibre→factory→fashion→foreign. Source graphic describes State/Centre SPVs and PPP development; a planned park is not an already completed end-to-end ecosystem.
+- Large integrated sites aim to reduce fragmented logistics and improve competitiveness. Combine anchor investment/MSME links with cotton quality, worker skills/welfare, water and effluent safeguards; physical co-location alone does not ensure global competitiveness.
+
 ## PDF coverage
 
-2025-02-28: pp. 8, 9, 10, 11, 12 · 2025-03-31: pp. 2, 3 · 2025-06-08: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-09-17: pp. 5, 6
+2025-02-28: pp. 8, 9, 10, 11, 12 · 2025-03-31: pp. 2, 3 · 2025-06-08: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-09-17: pp. 5, 6 · 2025-12-26: pp. 11, 12
