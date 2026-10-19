@@ -13,6 +13,11 @@
 - Weigh asserted deterrence benefits against indiscriminate harm, treaty credibility, post-conflict livelihoods and victim-care costs. Withdrawal does not remove humanitarian-law obligations.
 - Priorities: sustained clearance funding, rehabilitation/social inclusion, risk education, security dialogue and compliant defensive alternatives. **Self-deactivation does not make an otherwise prohibited anti-personnel mine lawful under this Convention.** Foreign-aid interruptions can slow clearance; the source's claim that a 2025 review restarted programmes in 2024 is chronologically inconsistent.
 
+## February 2026: Poland withdrawal takes effect
+- Poland deposited withdrawal notice **20 August 2025**, effective **20 February 2026**; describing it as merely considering withdrawal is outdated by this issue. [UN depositary action](https://treaties-prod.un.org/Pages/showActionDetails.aspx?clang=_en&objid=08000002806866ae).
+- Security concerns about Russia motivate defensive flexibility, while civilian casualties, contaminated land, clearance costs and treaty credibility underpin humanitarian objections. Withdrawal does not erase other international humanitarian law obligations.
+- Do not memorise the issue's **164 parties/33 signatories** as a February 2026 membership total; withdrawals make counts time-sensitive. The four-year stockpile/ten-year clearance rules and India non-party status are already covered; complete 2020 international-agreement PYQ is already in the common bank.
+
 ## PDF coverage
 
-2025-04-06: pp. 1, 2, 3, 4
+2025-04-06: pp. 1, 2, 3, 4 · 2026-02-25: pp. 47, 48, 49, 50, 51

@@ -25,6 +25,12 @@
 - Embedded article identifies women as a majority of living donors but a minority of recipients; social/economic access, family decision-making and eligibility need study. Publish gender-disaggregated outcomes and protect informed, voluntary donor consent.
 - Existing notes cover DGHS/Health Ministry, the national registry, network division and National Biomaterial Centre. Source figures **1.8 lakh annual kidney-failure cases/~12,000 transplants** and **10% global need met** are undated estimates with different denominators; do not present them as a matched 2025 Indian count. Practice **all four (d)** recalls the institutional structure.
 
+## February 2026: deceased-donation bottleneck
+- **2024: 18,911 organ transplants**, versus **18,378 in 2023**. NOTTO reconciles the total as **15,505 living-donor + 3,403 deceased-donor + 3 domino transplants**; the source omits the domino category. **1,128 deceased donors** supplied the 3,403 deceased-donor transplants, so donors and transplanted organs must not be equated. [NOTTO 2024 State-wise data](https://www.notto.mohfw.gov.in/WriteReadData/Portal/News/925_1_Statewise_Organ_transplant_data_year_2024.pdf).
+- **Donors, transplanted organs and transplant operations are different denominators**. Source deceased-donation rate **0.77 donors per million population** is not the transplant rate; its Spain/US comparisons lack a consistently specified year. Kidney need and completed procedures likewise require matched definitions.
+- Consent, timely brain-stem-death identification/certification, trained coordinators, ICU/retrieval capacity, transport, registries and inter-State allocation form a chain. A pledge alone cannot guarantee actual deceased donation; family discussions and public trust matter.
+- NOTTO–ROTTO–SOTTO provide national, regional and State networking. Digital waiting lists and Aadhaar-linked pledging can improve coordination while requiring privacy, transparent allocation and equitable access. Removal of administrative age/domicile barriers does not mean every patient is medically eligible irrespective of clinical assessment.
+
 ## PDF coverage
 
-2025-01-15: pp. 5, 6 · 2025-03-25: pp. 11, 12, 13, 14 · 2025-06-23: pp. 17, 18, 19, 20, 21 · 2025-08-22: pp. 12, 13, 14
+2025-01-15: pp. 5, 6 · 2025-03-25: pp. 11, 12, 13, 14 · 2025-06-23: pp. 17, 18, 19, 20, 21 · 2025-08-22: pp. 12, 13, 14 · 2026-02-25: pp. 69, 70, 71, 72, 73, 74

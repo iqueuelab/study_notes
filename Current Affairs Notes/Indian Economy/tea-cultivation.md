@@ -23,6 +23,11 @@
 - Existing climate/drainage facts repeat. Source's **15–23°C** is an indicative optimum, not a universal fixed growing limit; its “calcium-free soil” is too absolute. Do not infer tea grows only on hills: drainage, moisture, cultivar and soil acidity matter. Its short country list omits major producers such as **Kenya/Sri Lanka**, so is not a world ranking.
 - Accurate product identity supports consumer choice and legitimate tea producers. Herb blends containing genuine tea must be assessed under applicable composition/labelling rules, not treated identically to infusions with no Camellia ingredient.
 
+## March 2026: West Asian shipping disruption
+- Exporters report tea cargoes delayed/stranded as West Asian conflict raises shipping uncertainty, freight and war-risk insurance. Exposure extends beyond oil to agricultural exports and payment/working-capital cycles.
+- The newspaper clipping specifies **2024** export volumes: **Iraq 52.59 million kg, UAE 52.71, Iran 11.25 and Saudi Arabia 7.94**; these are historical market volumes, not 2026 exports. Its **45–50% West Asian share** is an industry estimate, not a precisely identified current Tea Board series.
+- Gulf hubs can re-export Indian tea to other destinations. This does not mean every Saudi-bound or Central Asian shipment physically passes through Hormuz: destination port and route determine exposure. Diversified markets, alternative routings, marine insurance and trade finance reduce concentration risk; they cannot instantly remove common regional disruption.
+
 ## PDF coverage
 
-2025-06-19: pp. 18, 19, 20, 21 · 2025-09-24: pp. 9, 10, 11, 12 · 2025-12-27: pp. 12, 13, 14
+2025-06-19: pp. 18, 19, 20, 21 · 2025-09-24: pp. 9, 10, 11, 12 · 2025-12-27: pp. 12, 13, 14 · 2026-03-03: pp. 16, 17, 18

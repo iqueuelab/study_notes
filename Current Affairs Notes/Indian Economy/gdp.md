@@ -45,6 +45,17 @@
 - Institutional forecasts cited **WB 6.5%, IMF 6.6%(2025)/6.2%(2026), OECD 6.7%, ADB 7.2%, Fitch 7.4% FY 26** differ in vintage/fiscal/calendar and are projections, not interchangeable observed rates. Do not infer a single verified consensus forecast from this list.
 - Total GDP scale must be assessed with jobs, distribution, health, education and environmental sustainability. The government's developed-country 2047 aspiration should not be mechanically recast as a formally adopted World Bank 'high-middle-income' classification target.
 
+## February 2026: new national-accounts series
+- **MoSPI/NSO released27 February 2026** a new annual/quarterly GDP series, **base2022–23 replacing2011–12**. Rebasing captures structural changes, newer sources and improved estimation/deflation; ordinary annual revisions mainly update available data. A change of base year does not mechanically guarantee higher growth. [Official release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233518&lang=2&reg=48).
+| Real GDP growth | New-series estimate |
+|---|---|
+| FY2023–24 | **7.2%** (old-series9.2%) |
+| FY2024–25 | **7.1%** |
+| FY2025–26 | **7.6%**, Second Advance Estimate |
+- FY26 **7.6%** compares with January's **7.4%** first advance estimate in the old series; this combines a new estimate vintage and methodology, not simply stronger realised output. FY26 is still an advance estimate. New-series quarterly growth **Q1 6.7%,Q2 8.4%,Q3 7.8%**; retain earlier published rates with their original series/date.
+- FY26 sector GVA estimates: **primary2.8%** (agriculture2.5%,mining5%); **secondary9.5%** (manufacturing12.5%,construction6.9%); **tertiary8.9%** (trade/hotels/transport/communication10.3%,financial/real-estate/IT/professional services about10%). Sector GVA growth is distinct from overall GDP growth.
+- Official FY26 **real GDP₹322.58lakhcrore; nominal GDP₹345.47lakhcrore**, nominal growth **8.6%**. Smaller revised nominal levels raise debt/GDP or deficit/GDP mechanically for unchanged numerators; this alone is not evidence borrowing or fiscal discipline deteriorated. The clipping's **15–20basis-point** fiscal-ratio impact is an economist's estimate, not a newly notified fiscal target.
+
 ## PDF coverage
 
-2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17 · 2025-07-27: pp. 1, 2, 3, 4 · 2025-10-14: pp. 1, 2, 3, 4 · 2025-12-13: pp. 6, 7, 8 · 2025-12-14: pp. 21 · 2025-12-31: pp. 4, 5, 6
+2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17 · 2025-07-27: pp. 1, 2, 3, 4 · 2025-10-14: pp. 1, 2, 3, 4 · 2025-12-13: pp. 6, 7, 8 · 2025-12-14: pp. 21 · 2025-12-31: pp. 4, 5, 6 · 2026-02-28: pp. 1, 2, 3

@@ -7,6 +7,10 @@
 - Potential benefits: local aerospace skills/suppliers, MRO, export support, supplier diversification and India–Brazil/South–South technology cooperation. Real benefits depend on procurement selection, contractual technology/IP access, costs, certification and reliable delivery. C295 and C-390 occupy different payload classes; an existing C295 assembly line does not itself settle the MTA competition.
 - **2025 PYQ recall:** Dornier-228 is used for maritime patrol; **IL-76 is a transport, not a supersonic combat aircraft**; C-17 is a military transport. **Two pairs correct, (b)**. The complete question already exists in the common bank.
 
+## February 2026: conditional India production-hub proposal
+- Embraer's proposed Indian **KC/C-390 manufacturing and Asia-Pacific support hub remains conditional on IAF selection** in its medium-transport-aircraft competition; the source's 60–80 requirement is an indicative procurement range, not confirmed orders.
+- Preserve the distinction between **Embraer–Mahindra's military C-390 bid** and **Embraer–Adani's civil E175 proposal**. Cargo/troop airlift, medical evacuation, HADR and tanker configurations offer operational flexibility; procurement/technology-transfer outcomes remain contingent. Aircraft PYQ is already in the common bank.
+
 ## PDF coverage
 
-2025-10-18: pp. 1, 2, 3
+2025-10-18: pp. 1, 2, 3 · 2026-02-25: pp. 33, 34, 35, 36

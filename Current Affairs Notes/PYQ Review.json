@@ -2433,6 +2433,106 @@
       ],
       "status": "excluded_practice",
       "reason": "TTX and SECI items are practice/expected questions, not authentic CSE PYQs."
+    },
+    {
+      "issue_date": "2026-02-25",
+      "pages": [
+        46
+      ],
+      "status": "held_unverified_attribution",
+      "question": "Salem Sago is derived from: (a) Rice (b) Tapioca (c) Wheat (d) Barley; Salem Sago GI tag belongs to which State?",
+      "reason": "Labelled UPSC Prelims PYQ without year; second item incomplete options. No invented CSE attribution/year."
+    },
+    {
+      "issue_date": "2026-02-25",
+      "pages": [
+        5,
+        9,
+        20,
+        57
+      ],
+      "status": "excluded_non_cse",
+      "reason": "UPPCS PCS 2023, CAPF AC 2019, IB ACIO 2021 and NDA 2025 are outside the CSE-only banks."
+    },
+    {
+      "issue_date": "2026-02-25",
+      "pages": [
+        35,
+        46,
+        50,
+        54,
+        65
+      ],
+      "status": "duplicate_existing",
+      "reason": "Aircraft 2025, Portuguese fruits 2025, international agreements 2020, insects 2024 and IAEA safeguards 2020 already occur in full common banks; source guava answer conflicts with existing correct all-three answer."
+    },
+    {
+      "issue_date": "2026-02-27",
+      "year": 2022,
+      "question": "Contempt of Courts Act / H.N. Sanyal Committee four-statement prelims question",
+      "status": "duplicate_existing",
+      "reason": "Complete authentic question, options and answer b already in Indian Polity/PYQ-Prelim.json; compared full question and all four options."
+    },
+    {
+      "issue_date": "2026-02-27",
+      "question": "Critical mineral security and technological sovereignty (250 words)",
+      "status": "practice_excluded",
+      "reason": "Explicit Today’s Mains Practice Question; no CSE year."
+    },
+    {
+      "issue_date": "2026-02-28",
+      "question": "Despite increasing violations of global norms, international law continues to remain resilient. Critically examine. (250 words) (150 Marks)",
+      "status": "practice_excluded",
+      "reason": "No authentic CSE year; marks anomaly. Not added as PYQ."
+    },
+    {
+      "date": "2026-03-02",
+      "pages": [
+        28
+      ],
+      "decision": "duplicate",
+      "detail": "Full 2008 CSE Barak anti-missile purchase question with Israel/France/Russia/USA options is already in Science and Technology and International Relations common prelim banks; no new copy. Original Barak differs from joint Barak-8."
+    },
+    {
+      "date": "2026-03-02",
+      "pages": [
+        6,
+        9,
+        13,
+        18,
+        21,
+        25,
+        28,
+        31,
+        34
+      ],
+      "decision": "practice_excluded",
+      "detail": "Unyearred authored MCQs are not CSE PYQs."
+    },
+    {
+      "date": "2026-03-03",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "decision": "no_authentic_pyq",
+      "detail": "No additional authentic CSE question; physical March 3 file has March 2 banner on page 1; retained physical source date."
     }
   ],
   "resolved": [

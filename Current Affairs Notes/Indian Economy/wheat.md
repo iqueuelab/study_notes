@@ -25,6 +25,12 @@
 - CACP recommends MSP; Union government approves. Correct the source's “23 MSP crops”: **MSP is announced for 22 mandated crops**, with a separate **fair and remunerative price for sugarcane**. [Official MSP explanation](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/oct/doc20251010662401.pdf). Procurement coverage/conditions vary; announcement does not guarantee universal purchase of all output.
 - Higher MSP can support planting incentives, farm income and procurement buffers, while raising fiscal/procurement costs and potentially reinforcing water-intensive cropping. Consumer-price effects depend on output, stocks, releases and markets; an MSP increase does not automatically lower inflation.
 
+## February 2026: Kashmir rice–wheat rotation
+- SKUAST-K researchers report **Shalimar Wheat-3 and Shalimar Wheat-4**, early-maturing varieties intended to vacate fields before paddy transplantation: source maturity **early June (SW-3), late May (SW-4)**, compared with older wheat stretching into June/July.
+- Reported traits: yellow-rust resistance, grain plus winter-fodder straw, yield potential around **38 quintals/ha** and suitability to approximately **1,850 m**. These are variety/trial claims, not a guaranteed yield across every Kashmir field.
+- Shorter duration addresses a local calendar constraint: delayed wheat harvest → delayed rice planting → lost productivity/income. Multi-location trials and conventional breeding/pedigree selection support adaptation; crop rotation alone does not automatically balance every nutrient.
+- Western Disturbances can supply useful northwestern winter rain; frost, hail and rain near maturity can damage wheat. Cool growth, sunny dry ripening and well-drained loam are already covered. The CAPF question is outside the CSE bank.
+
 ## PDF coverage
 
-2025-04-21: pp. 8, 9, 10, 11 · 2025-10-03: pp. 5, 6, 7, 8
+2025-04-21: pp. 8, 9, 10, 11 · 2025-10-03: pp. 5, 6, 7, 8 · 2026-02-25: pp. 6, 7, 8, 9, 10, 11, 12, 13, 14

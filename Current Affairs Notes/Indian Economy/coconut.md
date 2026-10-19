@@ -33,6 +33,12 @@
 - Farmers contribute local genetic resources and knowledge while researchers provide diagnostics, trials and breeding support; nurseries/extension then scale quality seedlings. Protect farmer recognition and benefit sharing under **PPV&FR Act 2001** where legal criteria are met; royalties are not automatic for every observation. Coconut loss also removes shade for cocoa/nutmeg and weakens mixed-farm incomes.
 - Repeated coconut-oil price, copra, CDB, biodiesel and historical production discussion adds no new price observation. The Lakshadweep question is explicitly **CDS, 21 April 2024**, excluded from CSE PYQs. The printed 82–83% refers to combined production share of major States, not the percentage of States affected by disease.
 
+## Budget 2026–27 and climate-resilient replanting
+- The Budget proposed a **Coconut Promotion Scheme** to raise production/productivity, including replacement of ageing/non-productive palms with improved saplings/varieties. This is a policy announcement, not evidence of completed rejuvenation. Coastal high-value agriculture also includes coconut, cocoa and cashew. [Budget speech, paragraphs 78–79](https://www.indiabudget.gov.in/doc/Budget_Speech.pdf).
+- The editorial urges quality seedlings selected for **heat/drought resilience and wilt tolerance**, supported by CPCRI, agricultural universities, nurseries, FPOs and cooperatives. CDB's existing rejuvenation/extension work and disease biology are already covered.
+- Expansion into non-traditional regions can offset losses but needs local water/climate suitability. Higher temperature and vapour-pressure deficit increase evaporative demand; high-yield genetics alone cannot solve root-wilt and drought stress. The printed **2050/2070 temperature changes** lack a clear baseline/emissions scenario and should be read as projections, not inevitable measured outcomes.
+- The Budget describes India as the largest coconut producer; output, productivity per hectare and nuts per palm remain different measures. The source's **250–300 tender nuts/palm** is a selected hybrid-performance example, not an all-India average or assured yield.
+
 ## PDF coverage
 
-2025-04-05: pp. 3, 4, 5 · 2025-07-28: pp. 19, 20, 21, 22 · 2025-08-02: pp. 22, 23 · 2025-08-07: pp. 2, 3, 4 · 2025-08-27: pp. 3, 4, 5 · 2026-01-19: pp. 6, 7, 8, 9, 10, 17
+2025-04-05: pp. 3, 4, 5 · 2025-07-28: pp. 19, 20, 21, 22 · 2025-08-02: pp. 22, 23 · 2025-08-07: pp. 2, 3, 4 · 2025-08-27: pp. 3, 4, 5 · 2026-01-19: pp. 6, 7, 8, 9, 10, 17 · 2026-03-02: pp. 19, 20, 21

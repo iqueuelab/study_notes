@@ -8,6 +8,12 @@
 - **INS Mahe** is the lead of the separate **eight-ship Cochin Shipyard Mahe-class** series, about **80% indigenous**; Army Chief **General Upendra Dwivedi** presided over its November 2025 commissioning. It is background here, not a new 23 December event. Joint commissioning symbolism supports tri-service integration; proposed theatre commands should not be presented as already fully implemented.
 - Shallow-water vessels complement aircraft, submarines and larger surface ships. They improve near-shore coverage and manoeuvrability, but submarines can still exploit complex acoustic/coastal conditions; small size does not guarantee detection.
 
+## February 2026: Anjadip commissioning
+- **INS Anjadip commissioned27 February 2026 at Chennai Port**, presided over by Navy Chief **Admiral Dinesh K Tripathi**. This follows its December delivery; the two milestones must remain separate. It is the **third GRSE/Arnala-class vessel** and the **fourth commissioned ASW-SWC overall**, counting separate CSL-built Mahe. Official advance/commissioning releases use these different counts. [Defence Ministry commissioning release](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2233666&lang=2&reg=48), [advance release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231754&lang=2&reg=3).
+- **77 m**, built by **GRSE with L&T Kattupalli**; indigenous shallow-water sonar, lightweight torpedoes, ASW rockets and combat-management system support submarine detection/engagement in coastal waters. Surveillance, low-intensity maritime operations and search-and-rescue complement coastal defence.
+- Pages on **Mahe/Androth are older background**, already covered in the common topic. Preserve corrected programme facts: **16 ships total—eight GRSE and eight CSL**; Mahe belongs to CSL's separate series; **Arnala commissioned18 June 2025**, not June 2024. Arnala is named for a Maharashtra coastal fort, not a Lakshadweep island; Androth's propulsion is **three diesel-driven waterjets**, not two engines. Source's GRSE-four/L&T-four split is incorrect.
+- Name recalls **Anjadip Island off Karwar** and the former ship. Layered ASW combines shallow-water craft with larger ships, aircraft and submarines; manoeuvrability and local sonar coverage strengthen littoral security without guaranteeing every submarine will be detected.
+
 ## PDF coverage
 
-2025-12-23: pp. 4, 5, 6, 7, 8, 9, 10, 11, 12
+2025-12-23: pp. 4, 5, 6, 7, 8, 9, 10, 11, 12 · 2026-02-28: pp. 4, 5, 6, 7, 8, 9, 10, 11

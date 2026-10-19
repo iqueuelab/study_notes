@@ -23,6 +23,13 @@
 - India needs productive capacity and human development to convert demographic potential into broadly shared growth. Health, education, manufacturing capabilities, administrative capacity and social cohesion strengthen bargaining power; rhetoric alone cannot substitute for delivery.
 - **DPI (Aadhaar/UPI), renewable energy, services and decentralised governance** are potential strengths. Combine diversified partnerships and strategic autonomy with domestic capability, inclusive institutions and practical climate/financial cooperation; a world of greater rivalry still leaves space for collective rules.
 
+## February 2026: international law under stress
+- Editorial argues repeated violations do not erase a rule's normative force. Legal justification, criticism by weaker States, diplomacy and dispute settlement still constrain legitimacy even when enforcement is uneven. The claim that populist-authoritarian politics is the greatest threat is the author's assessment, not a measurable universal ranking.
+- **UN CharterArticle 2(4)** prohibits threat/use of force in international relations against territorial integrity or political independence or otherwise inconsistently with UN purposes. **Article 51 self-defence** and Security Council action under **Chapter VII** matter; citing a war does not establish every party's conduct or every intervention had the same legal status. [UN Charter](https://www.un.org/en/about-us/un-charter/full-text).
+- International law also sustains trade, aviation, maritime activity, investment, space, rights, climate and health cooperation. ICC prosecutes individuals within its jurisdiction; it is not an interstate dispute court with universal jurisdiction over every State.
+- Contemporary law-making requires stage distinctions: **BBNJ/High Seas Agreement entered into force 17 January 2026**; WHO Pandemic Agreement was **adopted 20 May 2025**, with its PABS annex/signature/ratification process still distinct from entry into force. [UN BBNJ](https://www.un.org/bbnjagreement/en), [WHO adoption](https://www.who.int/news/item/20-05-2025-world-health-assembly-adopts-historic-pandemic-agreement-to-make-the-world-more-equitable-and-safer-from-future-pandemics).
+- Source's India–EU “FTA negotiations” should be read against January 2026 conclusion of negotiations, not automatically as an agreement already in force. For mains, assess norm-making, compliance and enforcement separately, then propose representative institutions, consistent application and peaceful settlement. The unyearred **250-word/“150marks”** prompt is practice with a marks anomaly, not a CSE PYQ.
+
 ## PDF coverage
 
-2025-03-21: pp. 4, 5, 6, 7 · 2025-10-24: pp. 4, 5, 6, 7 · 2026-01-30: pp. 6, 7, 8, 9 · 2026-01-31: pp. 34
+2025-03-21: pp. 4, 5, 6, 7 · 2025-10-24: pp. 4, 5, 6, 7 · 2026-01-30: pp. 6, 7, 8, 9 · 2026-01-31: pp. 34 · 2026-02-28: pp. 12, 13, 14, 15, 16, 17

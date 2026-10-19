@@ -11,6 +11,12 @@
 - Detecting high-risk HPV supports screening and follow-up; a positive HPV result is **not by itself a cancer diagnosis**. Validation does not prove universal availability or that screening has reached all eligible women.
 - Prevention chain: **vaccination → screening → assessment/treatment of precancer → timely cancer care**. The PDF's older India burden figures should not be combined with its separately labelled 2022 cancer table; see the cancer-burden topic for a consistent dataset.
 
+## February 2026: planned free programme
+- Issue reports a forthcoming free, voluntary HPV vaccination programme for **girls aged 14**, using **single-dose quadrivalent Gardasil** through government facilities, including PHCs/Ayushman Arogya Mandirs, CHCs, district hospitals and medical colleges. Retain **planned** status as of this issue; do not backdate the later launch.
+- Gardasil's **6/11/16/18** coverage differs from a vaccine protecting every oncogenic HPV type; favourable trial effectiveness is not 100% protection against all cervical cancers. Cold chain, informed consent, trained vaccination staff and adverse-event monitoring support delivery.
+- **Persistent high-risk HPV infection → precancer → possible invasive cancer over years**. Many infections clear spontaneously. Vaccination before exposure, continued screening and treatment of precancer are complementary; HPV positivity alone is not cancer.
+- The compilation's annual India figures **80,000 cases/42,000 deaths** lack a consistent reference year and should not be used as current totals. Screening intervals depend on test, age, HIV status and programme guidance; its “no treatment for HPV” means no routine virus-eradicating medicine, not absence of treatment for warts/precancer/cancer.
+
 ## PDF coverage
 
-2025-04-26: pp. 5, 6, 7
+2025-04-26: pp. 5, 6, 7 · 2026-02-25: pp. 75, 76, 77, 78, 79, 80

@@ -7112,32 +7112,116 @@
     {
       "date": "2026-02-25",
       "pdf": "2026/02-February/2026-02-25.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "86241603a6f6675ed6e4c8f502ed8c7dd843cae5d81241e657fb3afd654dd87c",
+      "pages": 80,
+      "topic_ids": [
+        "c390-millennium",
+        "e175-india-assembly",
+        "fishing-cat",
+        "hoysala-architecture",
+        "hpv-cervical-cancer",
+        "iea-membership",
+        "kole-pygmy-grasshoppers",
+        "notto",
+        "ottawa-mine-treaty",
+        "project-silica",
+        "quad",
+        "salem-sago",
+        "sandalwood-spike",
+        "stem-cells-autism",
+        "td-vaccine",
+        "tourism",
+        "wheat"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-26",
       "pdf": "2026/02-February/2026-02-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "d40fdd5705b1e31f25b72a707ed3f24eafd4c75332826229d1f3e67cb377852d",
+      "pages": 32,
+      "topic_ids": [
+        "cassava-diversification",
+        "hiv",
+        "india-israel-west-asia",
+        "keralam-state-renaming",
+        "lapis-lazuli",
+        "sabarimala-religious-rights",
+        "urban-green-waste"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-27",
       "pdf": "2026/02-February/2026-02-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "27ef5c9d6143e4a09c5c30faf2b4aacb07ed66c9c3cc937bfdf884e8f6a15bd5",
+      "pages": 20,
+      "topic_ids": [
+        "cafe-vehicle-efficiency",
+        "contempt",
+        "critical-minerals",
+        "smew"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-28",
       "pdf": "2026/02-February/2026-02-28.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3817f839b4e4d7cbcc2a650e983d0d8840801bae1699199f6366c50df40d1d62",
+      "pages": 24,
+      "topic_ids": [
+        "asw-shallow-water-craft",
+        "congo-lakes-peat-carbon",
+        "gdp",
+        "india-israel-west-asia",
+        "multilateralism"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-02",
       "pdf": "2026/03-March/2026-03-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "f7ca981375232d0c0afb877599329304e6aad3663ee1b9574a7e64de625fb00b",
+      "pages": 34,
+      "topic_ids": [
+        "coconut",
+        "india-israel-west-asia",
+        "iran-missiles",
+        "meningococcal-infection",
+        "nilgiri-wood-pigeon",
+        "s400",
+        "salar-pajonales",
+        "sky-sting",
+        "strait-hormuz"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-03",
       "pdf": "2026/03-March/2026-03-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "862c0f14168e8d84e52460ab5554eaf444c754953001192c57436ca95bf2868e",
+      "pages": 18,
+      "topic_ids": [
+        "cabinet-committee-security",
+        "durand-line-conflict",
+        "e-raktkosh",
+        "india-canada",
+        "operation-sankalp",
+        "tea-cultivation"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-04",
@@ -8151,7 +8235,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-02-25",
+  "next_pdf": "2026-03-04",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -8343,6 +8427,11 @@
       "date": "2026-02-22",
       "status": "No standalone or combined issue found",
       "evidence": "No PDF for 22 February in the source inventory/jobs.json; reviewed available physical files dated 21 and 23 February, without inventing notes for the missing date."
+    },
+    {
+      "date": "2026-03-01",
+      "status": "No standalone or combined issue found",
+      "evidence": "Assignment jobs.json records no 2026-03-01 PDF; source collection inventory has no matching daily PDF. No notes or review invented."
     }
   ]
 }

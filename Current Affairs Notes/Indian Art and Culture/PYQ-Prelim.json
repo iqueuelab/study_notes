@@ -121,6 +121,18 @@
         "d": "Assamese"
       },
       "answer": "a"
+    },
+    {
+      "year": 2023,
+      "chapter": "Hoysala architecture and rural temple heritage",
+      "question": "Consider the following dynasties:\n1. Hoysala\n2. Gahadavala\n3. Kakatiya\n4. Yadava\nHow many of the above dynasties established their kingdoms in early eighth century AD?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "None"
+      },
+      "answer": "d"
     }
   ]
 }

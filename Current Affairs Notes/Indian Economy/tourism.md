@@ -17,6 +17,11 @@
 - PPP amenities and Adopt a Heritage can support maintenance; assess destination outcomes rather than only built assets. Regulate footfalls, protect ecology/culture and share benefits with local communities through responsible tourism.
 - The source's Singapore/Thailand comparisons and **40% trained-staff shortfall** lack a consistent year/denominator here; use them as the author's concern, not verified current national statistics. Foreign tourist arrivals, NRI-inclusive international arrivals and tourism receipts are distinct measures.
 
+## February 2026: PRASHAD and pilgrimage infrastructure
+- **Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive (PRASHAD)**: Tourism Ministry **Central Sector scheme, 2014–15**, providing assistance for integrated pilgrimage/spiritual heritage infrastructure through State/UT implementing arrangements. [Scheme guidelines](https://tourism.gov.in/sites/default/files/2023-08/PRASHAD%2015th%20FC%20Scheme%20Guidelines_0.pdf).
+- Andhra Pradesh temple-destination plans highlight drinking water, sanitation, approach/accessibility, lighting/signage and pilgrim facilitation. Central assistance, project sanction, expenditure and completed facilities are separate milestones; 100% eligible public-infrastructure funding is not a promise to pay every tourism-related private cost.
+- Mission Directorate coordination, State/UT execution and maintenance determine outcomes; PPP/CSR may supplement eligible development. Jobs, local craft sales and cultural preservation need carrying-capacity, waste management and community benefits. PRASHAD infrastructure is distinct from e-visas, tourist helplines and Dekho Apna Desh promotion; the NDA question stays outside CSE banks.
+
 ## PDF coverage
 
-2025-04-01: pp. 15, 16, 17, 18 · 2026-01-29: pp. 1, 2, 3, 4 · 2026-01-31: pp. 29
+2025-04-01: pp. 15, 16, 17, 18 · 2026-01-29: pp. 1, 2, 3, 4 · 2026-01-31: pp. 29 · 2026-02-25: pp. 55, 56, 57, 58

@@ -29,6 +29,12 @@
 - Benefits: common procedures, maritime-domain awareness, surface/subsurface/air interoperability, preparedness and defence diplomacy; HADR cooperation is a wider maritime benefit. The sheet's tables of assets “usually participating” are not a verified 2025 full order of battle.
 - Indo-Pacific relevance: sea-lane security, freedom of navigation, operational trust and regional partnerships. China-related strategic interpretation is distinct from a declared collective-defence obligation; hosting in different oceans is a pattern, not an inflexible annual alternation rule.
 
+## February 2026: naval cooperation and Indo-Pacific security
+- At Visakhapatnam's International Fleet Review/MILAN discussion, the US Pacific Fleet commander emphasised India–US naval roles in secure sea lanes, stability, navigation and disaster response. **MILAN** is an India-hosted multilateral exercise; **RIMPAC** is US-led; these are distinct from Malabar and Quad diplomacy.
+- Maritime awareness, anti-submarine cooperation, common procedures and HADR improve readiness. India operates **P-8I** aircraft; the US operates **P-8A**, so the sheet's claim that both use P-8I is incorrect. MH-60R helicopters support naval surveillance/ASW.
+- **Hormuz, Malacca and Bab-el-Mandeb** are strategic chokepoints. Freedom of navigation has UNCLOS-defined rights and jurisdictional limits, not unrestricted access to every water body. The issue's 80%-of-global-oil-trade figure should not be treated as a verified universal IOR share.
+- Partnerships can support India's strategic autonomy and maritime public goods without creating a Quad mutual-defence obligation. Distinguish Chinese commercial port investment, an overseas military base and a proven military deployment.
+
 ## PDF coverage
 
-2025-01-05: pp. 1, 2, 3, 4, 5 · 2025-01-22: pp. 1 · 2025-05-02: pp. 22, 23, 24 · 2025-11-11: pp. 10, 11, 12, 13
+2025-01-05: pp. 1, 2, 3, 4, 5 · 2025-01-22: pp. 1 · 2025-05-02: pp. 22, 23, 24 · 2025-11-11: pp. 10, 11, 12, 13 · 2026-02-25: pp. 23, 24, 25, 26

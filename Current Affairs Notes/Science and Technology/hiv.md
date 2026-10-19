@@ -10,6 +10,12 @@
 - Treat All/free ART and Sampark reconnecting patients to care support retention. HIV/AIDS Act **2017**: non-discrimination, informed consent and confidentiality with statutory exceptions.
 - Address stigma, migrant/key-population access, counselling, medicine continuity and resistance monitoring; registrations alone do not establish viral suppression.
 
+## February 2026: long-acting lenacapavir prevention
+- Issue reports Zimbabwe rollout of **lenacapavir**, a **twice-yearly injectable PrEP** developed by Gilead. Zimbabwe's regulator had already approved it in 2025 through WHO-supported reliance; national approval, first delivery and population coverage are different milestones. [WHO approval account](https://www.who.int/philippines/news/detail-global/01-12-2025-lenacapavir-approved-in-zambia-and-zimbabwe-in-record-time-through-who-collaborative-registration-procedure).
+- **Capsid inhibitor:** targets HIV's protein shell and multiple replication functions. **PrEP** prevents infection in eligible HIV-negative people at risk; it is not a vaccine, HIV cure or substitute for post-exposure protocols. Brand/formulation/indication vary; Yeztugo is the prevention brand described in the source.
+- Trials showed very high prevention efficacy, but the sheet's universal **99.9%** is not a guaranteed individual outcome. Testing before/repeated during PrEP, dosing continuity and resistance surveillance remain important; healthcare employment alone does not automatically establish eligibility.
+- Longer intervals can reduce daily-pill burden and stigma. Affordability, supply, rural delivery, counselling and retention determine whether efficacy translates into population-level benefit; source discussion does not establish Indian programme approval or rollout.
+
 ## PDF coverage
 
-2025-03-28: pp. 13, 14, 15 · 2025-03-29: pp. 13, 14, 15 · 2025-04-05: pp. 11, 12, 13
+2025-03-28: pp. 13, 14, 15 · 2025-03-29: pp. 13, 14, 15 · 2025-04-05: pp. 11, 12, 13 · 2026-02-26: pp. 21, 22, 23
