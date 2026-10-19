@@ -222,6 +222,30 @@
         "d": "Siberian Tundra"
       },
       "answer": "b"
+    },
+    {
+      "chapter": "Zambezi River: headwaters, basin and Victoria Falls",
+      "year": 2020,
+      "question": "Consider the following pairs:\nRiver — Flows into\n1. Mekong — Andaman Sea\n2. Thames — Irish Sea\n3. Volga — Caspian Sea\n4. Zambezi — Indian Ocean\nWhich of the pairs given above is/are correctly matched?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "3 and 4 only",
+        "d": "1, 2 and 4 only"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Zambezi River: headwaters, basin and Victoria Falls",
+      "year": 2003,
+      "question": "The waterfall ‘Victoria’ is associated with the river:",
+      "options": {
+        "a": "Amazon",
+        "b": "Missouri",
+        "c": "St. Lawrence",
+        "d": "Zambezi"
+      },
+      "answer": "d"
     }
   ]
 }

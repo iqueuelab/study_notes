@@ -599,6 +599,17 @@
         "d": "None"
       },
       "answer": "b"
+    },
+    {
+      "chapter": "PMFME: formalising micro food-processing enterprises",
+      "year": 2011,
+      "question": "With what purpose is the Government of India promoting the concept of “Mega Food Parks”?\n1. To provide good infrastructure facilities for the food processing industry.\n2. To increase the processing of perishable items and reduce wastage.\n3. To provide emerging and eco-friendly food processing technologies to entrepreneurs.\nSelect the correct answer using the codes given below:",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      }
     }
   ]
 }

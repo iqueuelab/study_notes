@@ -21,6 +21,13 @@
 - The editorial alleges failures in Mumbai obstacle permissions, committee decisions and earlier Mangaluru recommendations; its inconsistent **5,000/1,000 obstacle totals** and universal claim of no ATCO licensing should not be treated as verified facts. DGCA's established professional-licensing role remains in the core notes.
 - Recommendations: enforce obstacle limits, audit new-airport risks and implement inquiry recommendations with clear institutional accountability; these are policy arguments, not findings that the Ahmedabad crash was caused by nearby buildings.
 
+## December 2025: pilot fatigue and roster design
+- IndiGo cancellations prompted debate over implementation of **flight duty time limitations (FDTL)**. Editorial position: staffing/rosters must adapt to human limits; disruption alone is not evidence that stronger rest standards are intrinsically unsafe.
+- Revised framework announced **8 January 2024**: **weekly rest 36 → 48 hours**; expanded night period **00:00–06:00**. For operations encroaching night, maximum **8 hours flight time / 10 hours flight duty**, **two landings instead of six**. **Correction: two is a limit for the relevant duty operation, not two per week**, as the PDF states. [DGCA reform announcement](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1994183&lang=2&reg=3). Announcement, phased implementation and any temporary airline-specific relief must be distinguished.
+- Mandatory fatigue reporting, non-punitive safety culture and regulator scrutiny of rosters help identify risk. International FAA/EASA practice informed the revision; the source supplies no quantified comparative accident-reduction study.
+- Night work, irregular schedules/time-zone shifts and sleep debt impair vigilance, reaction time and judgment and can cause microsleeps; noise, dry cabin air and other environmental stressors compound workloads. Chronic shift-work health associations do not mean every listed illness occurs in every worker.
+- Apply occupational-health lessons to healthcare, railways, trucking, policing, BPOs and factories: adequate staffing, predictable rosters, rest and reporting. “Humans evolved on the ground” is rhetoric, not a substitute for evidence-based fatigue management.
+
 ## PDF coverage
 
-2025-04-27: pp. 6, 7, 8 · 2025-07-21: pp. 10, 11, 12, 13
+2025-04-27: pp. 6, 7, 8 · 2025-07-21: pp. 10, 11, 12, 13 · 2025-12-09: pp. 1, 2, 3

@@ -695,6 +695,18 @@
         "(d) 3 only"
       ],
       "answer": "(b) 2 only"
+    },
+    {
+      "chapter": "Open ecosystems: grasslands, savannas, scrublands and deserts",
+      "year": 2019,
+      "question": "Consider the following statements:\n1. As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and State levels.\n2. People's participation is mandatory in the compensatory afforestation programmes carried out under the Compensatory Afforestation Fund Act, 2016.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
     }
   ]
 }

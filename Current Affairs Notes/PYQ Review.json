@@ -1582,6 +1582,54 @@
       ],
       "status": "duplicate",
       "evidence": "Page 4 explicitly labels Prelims 2015 bank rate/open-market operations/public debt/public revenue question with all four options and answer C. Exact question already in Indian Economy common PYQ-Prelim.json under Monetary Policy Committee and policy instruments; no duplicate appended. Pages 18 practice GI MCQs are undated repeats, not CSE PYQs."
+    },
+    {
+      "date": "2025-12-08",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "reviewed_with_flags",
+      "evidence": "Full text and all 16 images reviewed. Complete 2011 Mega Food Parks, 2020 river-mouth pairs, 2003 Victoria questions preserved. 2014 smallpox and 2001 Athlete’s Foot repeat existing Science and Technology bank and are omitted as duplicates. Page 8 “UPSC Exam 2022” Victoria item has mixed UPSC/UPPSC-style attribution; not confirmed CSE, held for review. Pages15–16 Mitra Shakti-2023 label confuses exercise year with examination year; actual 2024 attribution found in secondary indexes, held for primary-paper confirmation rather than entered as 2023. The 2011 Mega Food Parks answer is disputed across published keys (b/d); complete question retained with answer withheld for official-key review."
+    },
+    {
+      "date": "2025-12-09",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "status": "reviewed",
+      "evidence": "Full text and all 18 images reviewed. Complete 2019 CAMPA question/options included. 2018 Prosopis (pages11–12) and 2023 Cepheids/Nebulae/Pulsars (page15) already in common banks; retain explanations without duplicate entries. No Mains CSE PYQ."
     }
   ],
   "resolved": [

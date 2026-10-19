@@ -5907,12 +5907,33 @@
     {
       "date": "2025-12-08",
       "pdf": "2025/12-December/2025-12-08.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0b35f8e9aedb40f23e7985f0137d62bdb7cf9fb9268603b15909d562c3348d85",
+      "pages": 16,
+      "topic_ids": [
+        "harimau-shakti",
+        "onchocerciasis",
+        "pmfme",
+        "zambezi"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-09",
       "pdf": "2025/12-December/2025-12-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "55772b968937db175a11cbbc2968f664056f725410d8f4e85b618e04dd1481b3",
+      "pages": 18,
+      "topic_ids": [
+        "bro",
+        "cosmic-filaments",
+        "dgca",
+        "dhruva",
+        "open-ecosystems"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2025-12-10",
@@ -7291,7 +7312,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-12-08",
+  "next_pdf": "2025-12-10",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
