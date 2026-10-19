@@ -21,6 +21,12 @@
 - Its projection of **2.08 million new cancer cases by 2040**, **57.5% above a 2020 baseline**, is a forecast. The source's broad “nearly 200,000 new cancer cases/year” clipping statement belongs to the breast-cancer discussion and must not replace India's much larger all-cancer burden.
 - Remaining 2022/2025 burden, cancer-site tables and State-ranking claims repeat the earlier issue—including its inconsistent **2.8-lakh breast cases/8.1-lakh deaths** figures. Use the corrected NCRP and GLOBOCAN datasets already recorded; do not append those erroneous tables again.
 
+## March 2026: breast-cancer prevention and access
+- The Kolkata conference report quotes estimated incidence increasing from **13 per 1,00,000 women (1990)** to **29.4 (2023)**. Treat these as **conference-reported rates**: the clipping does not establish the underlying comparable registry coverage/age standardisation. Do not splice them into the common GLOBOCAN2022 or NCRP2025 case-count series.
+- Discussion links rising burden to changing reproductive/lifestyle patterns and stresses physical activity, tobacco avoidance, less alcohol, awareness and timely diagnosis. Risk factors change probability; absence of a named exposure does not rule out breast cancer, and a lack of breastfeeding should not be presented as individual blame. Breast cancer can also affect men.
+- Early recognition/referral must connect to affordable imaging/pathology and completed treatment. **Surgery, radiation oncology and systemic therapies** require coordinated care; geographical, economic and medicine-access barriers can interrupt it. [WHO Global Breast Cancer Initiative framework](https://iris.who.int/bitstream/handle/10665/366385/9789240065987-eng.pdf).
+- The report highlights **Project Pink Army**, a community initiative for awareness, patient support and early diagnosis; do not infer it is a national government screening scheme. Conference recommendations concern stronger outreach/financial support, especially beyond major cities.
+
 ## PDF coverage
 
-2025-04-26: pp. 7, 8 · 2025-05-29: pp. 26, 27, 28
+2025-04-26: pp. 7, 8 · 2025-05-29: pp. 26, 27, 28 · 2026-03-10: pp. 21, 22, 23, 24

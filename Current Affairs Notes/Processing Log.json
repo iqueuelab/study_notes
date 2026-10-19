@@ -7276,12 +7276,41 @@
     {
       "date": "2026-03-09",
       "pdf": "2026/03-March/2026-03-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "6d7b76a7be75caa051d021400a4536ef46a4c30e8e6f6cc8e8694bc212679c6e",
+      "pages": 18,
+      "topic_ids": [
+        "barc-trp",
+        "dark-oxygen",
+        "global-nuclear-power",
+        "golestan-palace",
+        "india-canada",
+        "pfbr",
+        "posh-icc",
+        "precision-strike-missile",
+        "raisina-dialogue",
+        "small-modular-reactors"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-10",
       "pdf": "2026/03-March/2026-03-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4e5b9b0aa659163471efe6989b36e2017f35e84b80042f542526e790166cb034",
+      "pages": 24,
+      "topic_ids": [
+        "air-pollution-sources",
+        "cancer-burden-india",
+        "cheetah",
+        "india-israel-west-asia",
+        "musi-watch",
+        "presidential-visit-protocol",
+        "strait-hormuz"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-11",
@@ -8270,7 +8299,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-03-09",
+  "next_pdf": "2026-03-11",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -8472,6 +8501,11 @@
       "date": "2026-03-05",
       "status": "No standalone or combined issue found",
       "evidence": "Source inventory/jobs.json has no physical PDF dated 5 March; available files dated 6 and 7 March were reviewed. No notes or review invented for the gap."
+    },
+    {
+      "date": "2026-03-08",
+      "status": "No standalone or combined issue found",
+      "evidence": "Assigned inventory and March source directory checked: no 2026-03-08.pdf; no review or notes invented."
     }
   ]
 }

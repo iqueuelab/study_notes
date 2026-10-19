@@ -21,6 +21,12 @@
 - A managed **metapopulation** links breeding populations and genetic management across sites; multiple enclosures alone do not guarantee genetic viability. The issue's mortality count is an older, incompletely defined snapshot.
 - Associated report: six crocodiles (four females, two males) from **Van Vihar, Bhopal**, released in **Indira Sagar backwaters, Narmada**. The typed explanation calls them “likely mugger”; do not convert that uncertain identification into a confirmed species record.
 
+## 9 March announcement, reported 10 March 2026
+- **Jwala, a Namibian female at Kuno**, gave birth to **five cubs**, taking the official source-period Indian total to **53**, including **33 thriving Indian-born cubs**. This was the **10th successful litter on Indian soil**, and Jwala's third. These are dated living-population/cub counts, not the cumulative number of all births or imported founders. [MoEFCC, 9 March](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2236900&lang=2&reg=48).
+- The same release records **nine Botswana cheetahs (six females/three males)** placed in Kuno quarantine on **28 February**, undergoing acclimatisation/health monitoring before wider release. Thus the practice question's Namibia/South Africa pair describes the initial imports, not every supplying country by March2026.
+- An embedded clipping reports NTCA viewing movements from Kuno toward Rajasthan as natural territorial dispersal. Dispersal requires landscape monitoring and inter-State coordination; it is not by itself proof of failure or proof of a self-sustaining wild population.
+- Existing species/status notes apply. The source's African-versus-Asiatic table is simplified: **A. j. jubatus is a subspecies, not the name for every African cheetah**, and cheetahs do not occur throughout all Africa. Its **“12 Asiatic cheetahs left”** lacks a dated survey and should not replace a population assessment. Survival, reproduction, habitat/prey, genetics and community coexistence matter beyond the birth milestone.
+
 ## PDF coverage
 
-2025-02-20: pp. 5, 6, 7 · 2025-03-28: pp. 5, 6, 7 · 2025-03-29: pp. 5, 6, 7 · 2025-04-21: pp. 11, 12, 13, 14 · 2025-10-31: pp. 3, 4, 5
+2025-02-20: pp. 5, 6, 7 · 2025-03-28: pp. 5, 6, 7 · 2025-03-29: pp. 5, 6, 7 · 2025-04-21: pp. 11, 12, 13, 14 · 2025-10-31: pp. 3, 4, 5 · 2026-03-10: pp. 8, 9, 10, 11, 12, 13, 14, 24

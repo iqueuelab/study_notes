@@ -10,6 +10,11 @@
 - Failures: committees absent/on paper, poor training, institutional conflicts, power imbalance, retaliation and confidentiality breaches. The Supreme Court's December 2024 compliance concerns underscore enforcement rather than a new statute.
 - Improve composition/compliance audits, regular training, safe reporting, anti-retaliation safeguards, external independence and anonymised reporting. Disclosure of aggregate compliance must preserve survivor privacy. Source MCQ is practice, not a dated CSE PYQ.
 
+## March 2026: Railways' SHINE reporting module
+- **Sexual Harassment Incident Notification for Empowerment (SHINE)** was launched for women railway employees on **8 March, International Women's Day**. It operates through **HRMS → Employee Self Service**, routing complaints online to the nominated committee and supporting monitoring/confidentiality.
+- The Railway Board's **5 March order** also provides for complaints on behalf of **outside visitors, contractual workers or students**, and authorised officials filing on behalf of women employees. This is a reporting channel supporting the existing committee process; a digital submission does not itself decide the complaint. [Board order, reproduced in Southern Railway circular](https://pbtpj.in/circularsuploads/3107.pdf).
+- **Vishaka (1997) → workplace-harassment Act (2013)** remains the legal background. Reporting access, trained independent committees, timely inquiry, privacy and protection against retaliation determine practical effectiveness; the app is not a replacement for those duties.
+
 ## PDF coverage
 
-2025-07-27: pp. 4, 5, 6, 7, 8
+2025-07-27: pp. 4, 5, 6, 7, 8 · 2026-03-09: pp. 15, 16, 17

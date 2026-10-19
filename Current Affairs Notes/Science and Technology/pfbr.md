@@ -25,6 +25,11 @@
 - Sodium heat transfer and engineered/passive systems support safety, but sodium-air/water reactions, cooling and containment need controls. A single negative-temperature-coefficient slogan cannot establish every reactivity feedback is negative or every loss-of-power event safe.
 - Closed-cycle recovery can improve fuel utilisation and alter waste inventories; **it does not eliminate radioactive waste or safeguards/security obligations**. Source's~25%world thorium share depends on resource estimates, not assured economic reserves.
 
+## March 2026: timelines and breeding inventory
+- The commentary's three-stage pathway repeats existing notes. **Natural uranium is not pure U-235**; initial fast-breeder uranium blankets principally breed **Pu-239 from U-238**. U-233 requires thorium-232 irradiation, rather than appearing automatically from a uranium-only blanket.
+- Correct the issue's **“FBTR built in 1977”** operational implication: the Kalpakkam **Fast Breeder Test Reactor has operated since 1985**; construction history and first criticality differ. [AERB record](https://www.aerb.gov.in/images/PDF/Annual_Bulletin/Bulletin_Engg/files/basic-html/page19.html).
+- The issue quotes an early PFBR estimate **₹3,492 crore** and **₹6,800 crore by 2019** as historical cost escalation, not a current final audited cost. Its **15–20 year fissile-inventory doubling time** is design/fuel-cycle dependent; **2060s thorium deployment** extrapolates assumptions, not a committed commissioning date. Breeder performance, reprocessing and available fissile inventory determine scaling.
+
 ## PDF coverage
 
-2025-04-21: pp. 1, 2, 3 · 2025-07-07: pp. 14, 15, 16, 17
+2025-04-21: pp. 1, 2, 3 · 2025-07-07: pp. 14, 15, 16, 17 · 2026-03-09: pp. 12, 13, 14

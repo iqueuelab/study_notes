@@ -19,6 +19,12 @@
 - **India's 28 February statement** urged restraint, civilian safety, dialogue and respect for sovereignty/territorial integrity. Missions issued vigilance/contact/local-security advisories. Airspace closures and suspended flights complicate assistance; source-period estimates of **~10,000 Indians in Iran, over 41,000 in Israel and 8–9 million across the Gulf** illustrate exposure, not an evacuation count. [MEA statement, reproduced by Indian Embassy Cairo](https://www.eoicairo.gov.in/section/press-releases/statement-on-the-evolving-situation-in-west-asia/).
 - India's balancing involves Israel/US partnerships, Gulf energy/trade/diaspora interests and Iran/Chabahar connectivity. Historic Iranian oil ties do not establish resumed large Indian crude imports. The source's blanket **60% of energy imports** lacks a clear fuel/period denominator; distinguish crude, LPG and LNG exposure. Prior evacuation experience is background, not proof a new evacuation was completed.
 
+## 10 March 2026: strategic assessment
+- Editorial views the war as a contest over regional order as well as military/nuclear capability. Iran's ties to **Hezbollah (Lebanon), Houthis (Yemen) and Iraqi Shia militias** illustrate indirect influence; their autonomy, territorial control and capabilities vary, so they are not one uniform army.
+- It argues that Israel's military priorities and Washington's concerns over prolonged engagement/other theatres may diverge. These are analytical judgments, **not proof of agreed US or Israeli war aims**. A drawn-out conflict could divert US attention from the Indo-Pacific and open space for China, Russia or regional powers; these are scenarios rather than established outcomes.
+- India's existing energy/diaspora/diplomatic exposure now also requires assessing **remittance continuity, commercial shipping/insurance and the opportunity cost of a prolonged war**. Maintain engagement with Iran, Israel, the US and Gulf States; evacuation readiness, de-escalation and diversified supplies are practical responses.
+- The issue's reference to **Ali Khamenei as a continuing wartime leader is stale**: Iran's **1 March letter to the UN** had already reported his killing. Do not carry that wording into a March10 leadership fact box. [Iran's letter at the UN](https://digitallibrary.un.org/record/4104578/files/S_2026_109-EN.pdf). The October2023 Hamas attack is regional background; the current joint strikes began **28 February 2026**, as recorded in the earlier notes.
+
 ## PDF coverage
 
-2026-02-26: pp. 1, 2, 3, 4, 5 · 2026-02-28: pp. 21, 22, 23, 24 · 2026-03-02: pp. 1, 2, 3, 4, 5, 6
+2026-02-26: pp. 1, 2, 3, 4, 5 · 2026-02-28: pp. 21, 22, 23, 24 · 2026-03-02: pp. 1, 2, 3, 4, 5, 6 · 2026-03-10: pp. 4, 5, 6, 7, 8

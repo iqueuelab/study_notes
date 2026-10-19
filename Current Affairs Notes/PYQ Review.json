@@ -2570,6 +2570,16 @@
       ],
       "status": "excluded_practice",
       "reason": "Practice Sheet covers MIRV, Minuteman, metabolic risks, gravity bombs, Mk48, Finland and ATMP without authentic CSE years; no invented PYQs."
+    },
+    {
+      "issue_date": "2026-03-09",
+      "status": "excluded_practice",
+      "reason": "Pages17–18 contain six unyeared rapid-fire/practice MCQs (SHINE/Raisina/Golestan/dark oxygen/PrSM/BARC); no authentic CSE PYQ supplied."
+    },
+    {
+      "issue_date": "2026-03-10",
+      "status": "excluded_practice",
+      "reason": "Page8 explicitly labelled Mains Practice (Iran war,250words), page24 four unyeared Prelims Practice MCQs; not authentic CSE PYQs."
     }
   ],
   "resolved": [

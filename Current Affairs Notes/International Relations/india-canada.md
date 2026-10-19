@@ -14,6 +14,12 @@
 - The issue's **8.78 GW** and **22.38 GW by 2031–32** are a source-period installed-capacity snapshot and expansion projection, respectively. Its **76,000 tonnes reserves**, annual domestic-production/requirement numbers and supplier totals lack compatible current resource/unit definitions; do not treat them as an exhaustive March 2026 uranium balance.
 - The leaders also welcomed a **Strategic Energy Partnership**, critical-mineral cooperation and CEPA terms of reference. CEPA negotiation completion was targeted for end-2026; a target is not a concluded trade treaty.
 
+## March 2026: fuel-security implications
+- The uranium commentary repeats the **2027–2035 Cameco contract** already covered. Retain the corrected **CAD 2.6 billion /nearly 22 million pounds of uranium ore concentrate** units; “10,000 tonnes of uranium” must not silently become 10,000 tonnes of uranium metal.
+- The **civil nuclear cooperation agreement signed in June 2010 and in force from September2013**, following India's **2008 NSG waiver**, provides the bilateral framework for peaceful nuclear cooperation. Material accounting and safeguards govern imported civilian fuel; a political criticism of accounting as a sovereignty constraint is an opinion, not cancellation of the obligation. [Agreement text](https://www.treaty-accord.gc.ca/text-texte.aspx?id=105192), [MEA bilateral brief](https://www.mea.gov.in/Portal/ForeignRelation/India-Canada_bilateral_brief__June__2024_.pdf).
+- Jaduguda/Turamdih (**Jharkhand**) and Tummalapalle (**Andhra Pradesh**) illustrate domestic uranium mining. Resource tonnage, ore grade, contained uranium and economically recoverable metal are separate measures. The issue's **4.2–4.3 lakh tonnes “ore” versus 76,000–92,000 tonnes extractable metal** lacks consistent definitions and should not be used as a verified national balance; its **75% import dependence/five-year stockpile** are source claims without a comparable official inventory.
+- Diversified civilian fuel supply complements domestic exploration and the longer-term breeder/thorium strategy. It does not demonstrate supplies are free for military use or establish the issue's unsourced warhead estimate.
+
 ## PDF coverage
 
-2025-11-15: pp. 10, 11, 12 · 2026-03-03: pp. 1, 2, 3
+2025-11-15: pp. 10, 11, 12 · 2026-03-03: pp. 1, 2, 3 · 2026-03-09: pp. 10, 11, 12, 13, 14
