@@ -612,6 +612,18 @@
         "d": "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years."
       },
       "answer": "b"
+    },
+    {
+      "year": 2014,
+      "chapter": "Project Suncatcher: proposed orbital AI computing",
+      "question": "Which of the following pairs is/are correctly matched?\nSpacecraft — Purpose\n1. Cassini-Huygens — Orbiting the Venus and transmitting data to the Earth\n2. Messenger — Mapping and investigating the Mercury\n3. Voyager 1 and 2 — Exploring the outer solar system\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
     }
   ]
 }

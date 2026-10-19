@@ -29,6 +29,11 @@
 - **2019 PYQ: (a), 1 only**—Asiatic lion restricted naturally to India; greater one-horned rhino also Nepal; double-humped camel not India-only. The PDF's assertion Bactrian camels are absent/non-native throughout India is misleading given Ladakh's established Bactrian camel population; domesticated and wild species/distributions must be distinguished. It also speculates about small current rhino populations in Bhutan/Bangladesh without evidence; use established India/Nepal strongholds.
 - Rhisotope does **not establish that treated horns poison humans**; established purpose is customs detection/deterrence. Its old population and poaching numbers are not updated December totals. The rhino PYQ already exists in the Environment bank; preserve a single copy.
 
+## 18 January 2026: Kaziranga elevated corridor foundation
+- Bhoomi Pujan at **Kaliabor, Assam**, for the **86-km NH-715 Kaliabor–Numaligarh project**, reported cost **₹6,957 crore** (official release: over ₹6,950 crore). Components: **35 km elevated wildlife corridor, 21 km bypasses and 30 km widening of existing highway from two to four lanes**. This is a foundation/planned project, not an already operational corridor. [PMO project details](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2215248&lang=13&reg=22).
+- Elevation seeks safe animal movement between Kaziranga floodplains and higher ground, fewer roadkills and improved connectivity/tourism. Judge results through corridor continuity, construction impacts, speed control, flood-season passage and monitoring, alongside engineering completion. Two Amrit Bharat trains were also flagged off; rail services are separate from the corridor's wildlife safeguards.
+- Invertebrate survey, rhino profile, population/protection, IRV2020 and 2019 PYQ are repeats of the corrected common notes. Retain **2022 Kaziranga 2,613**, established India–Nepal range and qualified survey year; the compilation's old population shares and claim that the IRV target was automatically achieved add no new evidence.
+
 ## PDF coverage
 
-2025-04-30: pp. 16, 17, 18, 19 · 2025-06-06: pp. 7, 8 · 2025-07-12: pp. 21, 22, 23, 24 · 2025-08-09: pp. 4, 5 · 2025-09-28: pp. 1, 2, 3, 4, 5 · 2025-12-24: pp. 12, 13, 14
+2025-04-30: pp. 16, 17, 18, 19 · 2025-06-06: pp. 7, 8 · 2025-07-12: pp. 21, 22, 23, 24 · 2025-08-09: pp. 4, 5 · 2025-09-28: pp. 1, 2, 3, 4, 5 · 2025-12-24: pp. 12, 13, 14 · 2026-01-19: pp. 1, 2, 3, 4, 5, 6

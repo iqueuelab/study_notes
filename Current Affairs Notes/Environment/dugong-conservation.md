@@ -17,6 +17,12 @@
 - Source **200+ dugongs in Palk Bay** and claims of recovery/IUCN recognition are article reports, not a comparable long-term census proving recovery or a new IUCN status change. **~12,000 ha seagrass** is habitat coverage within the **~448 km² reserve**, not the reserve's total area. Existing notes retain correct **Palk Bay** location despite an inset saying Gulf of Mannar.
 - Repeated **20–30 tonnes/day** intake error is rejected; the image itself says **20–40 kg/day**, illustrating the unit confusion. Existing species/status/PYQ facts remain unchanged.
 
+## January 2026: conservation-centre design and coastal safeguards
+- The issue reports that MoEFCC's **Expert Appraisal Committee** sought a redesign of the proposed **International Dugong Conservation Centre at Manora, Thanjavur**. Source project estimate **₹40.94 crore**, footprint **about 28,000 m²**, with **almost 22,000 m²** within the **CRZ-III No Development Zone**, and overlap with ecologically sensitive **CRZ-I** mangroves, mudflats and seagrass areas. These are reported appraisal particulars, not proof of final clearance or completed construction.
+- Recommendations: reduce conventional cement/concrete construction, consider timber/prefabricated/composite low-impact designs, minimise land disturbance, move structures outside the NDZ where feasible and study comparable facilities. Conservation education/research/rescue objectives do not exempt a project from coastal safeguards.
+- The State's project invitation confirms the **Manora** proposal; **2025–26 Forest Department policy note** records the **2022 Palk Bay reserve as 44,834 ha (448.34 km²)**. The roughly **12,000 ha seagrass** figure describes habitat within the reserve, not its total extent. [Project invitation](https://www.tngcc.tn.gov.in/wp-content/uploads/2026/01/Dugong-CC_Bid-Invitation-Flyer.pdf), [Forest Department](https://www.forests.tn.gov.in/frontend/gos/Policy_Note_2025-260.pdf).
+- Existing corrected species recall applies: global **Vulnerable**, not the issue's **Critically Endangered** label; **Palk Bay**, not the inset's Gulf of Mannar reserve location. Reject the repeated **20–30 tonnes/day** dietary unit error. Fishers' participation, seagrass mapping and bycatch release recur without establishing a fresh population census or completed recovery.
+
 ## PDF coverage
 
-2025-05-28: pp. 6, 7, 8, 9, 10, 11 · 2025-09-28: pp. 13, 14, 15 · 2025-10-01: pp. 11, 12, 13, 14, 15, 16
+2025-05-28: pp. 6, 7, 8, 9, 10, 11 · 2025-09-28: pp. 13, 14, 15 · 2025-10-01: pp. 11, 12, 13, 14, 15, 16 · 2026-01-17: pp. 6, 7, 8, 9, 10, 11, 12 · 2026-01-18: pp. 34

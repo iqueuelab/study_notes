@@ -25,6 +25,11 @@
 - India's constituency includes **Bangladesh, Bhutan and Sri Lanka**; Executive Directors represent countries/constituencies, while IMF staff and Managing Director have different roles. The Board has **25 Executive Directors**, rather than treating every member country as holding its own seat.
 - Repeated institutional facts/reports add no new baseline material; the PDF's **190 members** is stale: IMF had **191 after Liechtenstein joined on 21 October 2024**. [IMF accession record](https://www.imf.org/en/news/articles/2024/10/21/pr-24387-liechtenstein-principality-of-liechtenstein-becomes-imfs-191st-member).
 
+## 19 January 2026 WEO update
+- IMF revised India's **FY2025–26 real GDP growth estimate from 6.6% to 7.3%**, **+0.7 percentage point**, citing a better-than-expected third-quarter outturn and strong fourth-quarter momentum. These quarter references in the WEO discussion must not be read as completed Indian FY fourth-quarter results in January. Forecasts remain distinct from realised annual growth. [January WEO](https://www.imf.org/-/media/files/publications/weo/2026/january/english/text.pdf).
+- India's table uses **fiscal years starting April**: 2025 column means FY2025–26; it projects **6.4% in FY2026–27 and FY2027–28** as temporary/cyclical supports fade. Source compares **NSO first advance estimate 7.4%** with IMF 7.3% for FY2025–26; differing estimates are not contradictory final outcomes.
+- Institutional history, reports, Urjit Patel appointment and the 2016 GFSR question repeat the common notes; **191 IMF members**, not the recycled 190. **2011 PYQ:** lending is to member countries; eligible members are not confined to developed economies. The central bank may act as fiscal agent/depository, which does not turn it into an independent non-sovereign IMF borrower.
+
 ## PDF coverage
 
-2025-04-24: pp. 9, 10, 11, 12 · 2025-05-10: pp. 10, 11 · 2025-05-17: pp. 3, 4, 5, 6 · 2025-07-30: pp. 20, 21, 22, 23 · 2025-08-02: pp. 59, 60 · 2025-08-30: pp. 3, 4
+2025-04-24: pp. 9, 10, 11, 12 · 2025-05-10: pp. 10, 11 · 2025-05-17: pp. 3, 4, 5, 6 · 2025-07-30: pp. 20, 21, 22, 23 · 2025-08-02: pp. 59, 60 · 2025-08-30: pp. 3, 4 · 2026-01-20: pp. 1, 2, 3, 4

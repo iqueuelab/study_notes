@@ -130,6 +130,20 @@
 - Do not generalise every REE's behaviour to a partly filled 4f shell: **Sc/Y are not lanthanides** and lanthanides differ in electron configurations. The blanket **2,000 tonnes toxic waste per tonne REE** lacks a defined ore/process boundary and is not a universal coefficient. Acid/alkali use, tailings and associated thorium/uranium still require strict controls.
 - PYQ revision: **2025 display/phosphorescent-properties (a); 2022 monazite (b), statements 1,2,4**. Both complete questions already exist in the common bank; monazite is not present throughout all Indian coastal sands.
 
+## January 2026: mineral diplomacy must include processing
+- The article pairs **overseas access** with **domestic refining/separation, recycling and responsible mining**. A foreign ore agreement without midstream technology, financing and downstream demand can leave supply vulnerability intact; possessing Indian resources also does not automatically provide economically recoverable, battery/magnet-grade materials.
+| Partnership | Source's strategic opportunity /qualification |
+|---|---|
+| **Australia** | Investment and research in lithium/cobalt projects; existing 2022 partnership, not five operating mines already supplying India |
+| **Japan** | Diversification, recycling, substitution, stockpiles and third-country cooperation; a resilience model rather than a guarantee against every shortage |
+| **Africa** | Namibia-related lithium/REE/uranium interest and Zambia copper/cobalt; local value addition and community/environmental safeguards matter |
+| **Latin America** | Argentina/Chile lithium and wider Peru/Brazil opportunities; geology differs, competition is high |
+| **US /EU** | Separation/recycling, technology and downstream links; tariffs, investment eligibility and EU lifecycle/transparency standards affect projects |
+| **Saudi Arabia /UAE** | Prospective investment and processing partnerships, not proof either already dominates every refinery chain |
+| **Russia** | Possible diversification, constrained by sanctions, financing and logistics; “backup not core” is the author's assessment |
+- **KABIL–CAMYEN Argentina agreement, 15 January 2024**, covers exploration/development of **five Catamarca lithium blocks**, about **₹200 crore project cost**. It is historical context, not a newly signed January 2026 agreement or ₹200 crore already spent on producing mines. [Mines Ministry record](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1996380&lang=2&reg=48).
+- India's regional partnerships should link **upstream extraction → midstream processing → downstream components/recycling**, with transparent contracts, R&D and skills. These are comparative strengths/opportunities, not exclusive roles permanently assigned to each region. Existing **NCMM**, REPM scheme and China's stage-specific concentration remain covered; lithium/copper are not rare-earth elements.
+
 ## PDF coverage
 
-2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6 · 2025-06-14: pp. 22, 23, 24, 25, 26, 27, 28 · 2025-07-09: pp. 14, 15, 16 · 2025-07-18: pp. 1, 2, 3, 4, 5 · 2025-09-11: pp. 1, 2, 3, 4 · 2025-10-13: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-10-23: pp. 8, 9, 10, 11 · 2025-11-14: pp. 1, 2, 3, 4 · 2025-11-27: pp. 5, 6, 7, 8 · 2025-12-02: pp. 20, 21, 22, 23, 24 · 2025-12-04: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-12-29: pp. 1, 2, 3, 4, 5, 6, 7, 8
+2025-01-30: pp. 14, 15, 16, 17, 18, 19, 20, 21, 22 · 2025-02-27: pp. 29, 30, 31 · 2025-03-05: pp. 5, 6, 7 · 2025-03-14: pp. 3, 4, 5, 6 · 2025-04-06: pp. 6, 7, 8, 9 · 2025-04-22: pp. 23, 24, 25, 26 · 2025-04-23: pp. 10, 11, 12, 13 · 2025-05-13: pp. 21, 22, 23, 24, 25, 26, 27 · 2025-05-21: pp. 4, 5, 6 · 2025-06-14: pp. 22, 23, 24, 25, 26, 27, 28 · 2025-07-09: pp. 14, 15, 16 · 2025-07-18: pp. 1, 2, 3, 4, 5 · 2025-09-11: pp. 1, 2, 3, 4 · 2025-10-13: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-10-23: pp. 8, 9, 10, 11 · 2025-11-14: pp. 1, 2, 3, 4 · 2025-11-27: pp. 5, 6, 7, 8 · 2025-12-02: pp. 20, 21, 22, 23, 24 · 2025-12-04: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2025-12-29: pp. 1, 2, 3, 4, 5, 6, 7, 8 · 2026-01-15: pp. 12, 13, 14, 15 · 2026-01-18: pp. 25

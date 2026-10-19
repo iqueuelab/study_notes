@@ -19,6 +19,12 @@
 - **Code on Social Security 2020** definitions/framework, e-Shram registration and Budget 2025 ID/health-cover announcements are relevant; the Code's provisions for boards/funds are not proof all were already notified, operational and paying benefits by July 2025.
 - The **January 2025 PLFS redesign** broadens frequency/rural coverage, but frequency alone does not create gig-specific classifications. Improve occupation/platform questions, multiple-job reporting and benefit/contract data with privacy safeguards; reconcile survey and administrative records rather than equate registrations with all active workers.
 
+## January 2026: removing the ten-minute delivery promise
+- Following **31 December worker protests** and Labour Minister **Mansukh Mandaviya's** discussions with aggregators, **Blinkit removed its ten-minute advertising promise**; other platforms were expected to follow. This is a change to branding/service assurances, **not a statutory nationwide ban on all quick delivery or proof every platform had already changed**.
+- Quick commerce uses **nearby dark stores, app-based workers and algorithmic allocation**. Warehouse proximity can shorten trips, but speed branding, incentive thresholds, ratings/deactivation and income insecurity can still create implicit pressure; the competing explanations require worker-level evidence rather than assuming no risk because stores are near.
+- Workers raised road safety, stress/fatigue and protection concerns. A changed tagline alone does not establish reduced accidents, improved net earnings or effective insurance. Assess realistic routes/timings, incentives and penalties, safety equipment, rest, transparent pay, accident/health protection and deactivation appeals.
+- The **Code on Social Security 2020** recognises gig/platform work, but recognition is distinct from funded schemes, registration, eligibility and actual benefit delivery. Existing notes on worker representation, bargaining, algorithmic control and net income after costs remain applicable; labels such as “partner” do not resolve employment status for every legal purpose.
+
 ## PDF coverage
 
-2025-03-19: pp. 22, 23, 24, 25 · 2025-05-16: pp. 26 · 2025-07-03: pp. 8, 9, 10, 11
+2025-03-19: pp. 22, 23, 24, 25 · 2025-05-16: pp. 26 · 2025-07-03: pp. 8, 9, 10, 11 · 2026-01-14: pp. 1, 2 · 2026-01-18: pp. 17

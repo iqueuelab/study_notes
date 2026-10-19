@@ -670,6 +670,18 @@
         "d": "1,2 and 3"
       },
       "answer": "d"
+    },
+    {
+      "year": 2011,
+      "chapter": "IMF and World Bank: institutions and reports",
+      "question": "Regarding the International Monetary Fund, which one of the following statements is correct?",
+      "options": {
+        "a": "It can grant loans to any country.",
+        "b": "It can grant loans to only developed countries.",
+        "c": "It grants loans to only member countries.",
+        "d": "It can grant loans to the central bank of a country."
+      },
+      "answer": "c"
     }
   ]
 }

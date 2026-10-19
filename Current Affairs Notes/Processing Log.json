@@ -6485,37 +6485,138 @@
     {
       "date": "2026-01-14",
       "pdf": "2026/01-January/2026-01-14.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fae879bf54e83e2db47108bb02bd6435fbd04b8b0cfea2ff3b5f361b398043b8",
+      "pages": 20,
+      "topic_ids": [
+        "ai-energy-footprint",
+        "artemis-ii",
+        "blue-symbolism",
+        "edible-insects",
+        "gig-work",
+        "i4c"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-15",
       "pdf": "2026/01-January/2026-01-15.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "cf6b9fdb6898dd9ddadcd28d0340e7a26439ef7da915a0077c84efaf081fac5b",
+      "pages": 18,
+      "topic_ids": [
+        "critical-minerals",
+        "euthanasia",
+        "marine-space-biotechnology",
+        "vulture-drugs"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-16",
       "pdf": "2026/01-January/2026-01-16.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "0a074bbfa334edf3aae1f7e69eca67277e3b5230d101ec7632d372d56ba9c7ce",
+      "pages": 12,
+      "topic_ids": [
+        "e4b-nightwatch",
+        "ethylene-glycol",
+        "indian-giant-squirrel",
+        "kathputli",
+        "sanjha-shakti"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-17",
       "pdf": "2026/01-January/2026-01-17.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "bcd21c36ebe834450e69c43e94c11c034ef1824dd855c7c97acee501ed79cc7f",
+      "pages": 15,
+      "topic_ids": [
+        "chabahar",
+        "dugong-conservation",
+        "jallikattu",
+        "startup-india"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-18",
       "pdf": "2026/01-January/2026-01-18.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "4b882389694191c17fcb79dd813c878693798462510e312f930f92d94c99edfa",
+      "pages": 35,
+      "topic_ids": [
+        "ai-energy-footprint",
+        "artemis-ii",
+        "bhairav-battalions",
+        "blue-symbolism",
+        "chabahar",
+        "critical-minerals",
+        "delimitation-demography",
+        "dugong-conservation",
+        "e4b-nightwatch",
+        "edible-insects",
+        "eos-n1",
+        "ethylene-glycol",
+        "euthanasia",
+        "fusion",
+        "gig-work",
+        "golden-globes",
+        "i4c",
+        "india-germany",
+        "india-japan-jcm",
+        "indian-giant-squirrel",
+        "jallikattu",
+        "kathputli",
+        "marine-space-biotechnology",
+        "nipah",
+        "pax-silica",
+        "pocso",
+        "sanjha-shakti",
+        "smartphone-source-code-security",
+        "solar-biofuel-land",
+        "startup-india",
+        "vulture-drugs"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-19",
       "pdf": "2026/01-January/2026-01-19.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "716964cedf9f798a482568be36e0a160f6484f7975c88458a9d8e9f6a4f3d798",
+      "pages": 18,
+      "topic_ids": [
+        "child-trafficking",
+        "coconut",
+        "greater-one-horned-rhino",
+        "indiaphonte-bijoyi"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-20",
       "pdf": "2026/01-January/2026-01-20.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "1632a85788ae95ef1c88b02d585c6cb85373aa95558f19b1e13b9c899abf5bcd",
+      "pages": 19,
+      "topic_ids": [
+        "arbitration",
+        "brics",
+        "imf-world-bank",
+        "project-suncatcher",
+        "stablecoins-cbdc"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-21",
@@ -7704,7 +7805,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-01-14",
+  "next_pdf": "2026-01-21",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {

@@ -164,6 +164,18 @@
         "d": "1, 2, 3 and 4"
       },
       "answer": "c"
+    },
+    {
+      "year": 2009,
+      "chapter": "Arbitration capacity and professional arbitrators",
+      "question": "With reference to Lok Adalats, consider the following statements:\n1. An award made by a Lok Adalat is deemed to be a decree of a civil court and no appeal lies against thereto before any court.\n2. Matrimonial/Family disputes are not covered under Lok Adalat.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
     }
   ]
 }

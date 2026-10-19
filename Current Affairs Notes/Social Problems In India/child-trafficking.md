@@ -8,6 +8,12 @@
 - Source **NCRB 2023: 177,335 crimes against children, +9.2%**, high absolute counts in MP/Maharashtra/UP and rates Assam **84.2**, Delhi **140.3 per lakh children** are reported category-specific figures, not trafficking-only incidence. Its **2,183 trafficking cases /~2,878 child victims (2022)** have different units/years; **45% masked as kidnapping**, **68% post-COVID Delhi rise**, rescue/intervention totals and **270 AHTU districts** lack clear contemporary denominators and are held as source claims, not established national estimates.
 - **US TIP Report 2024 Tier 2** means significant efforts with incomplete minimum-standard compliance, not a ranking among the world's worst offenders. SDGs **5.2, 8.7, 16.2**, UNTOC/Palermo, regional repatriation cooperation and NGOs (Bachpan Bachao Andolan, Prajwala, Vimukthi) support prevention, victim services and prosecution; balance data-sharing with survivor confidentiality.
 
+## January 2026: coordinated prevention and rehabilitation
+- Build on the December victim-centred judgment and existing **Article 21/23, BNS 143, POCSO/JJ/ITPA** framework. **Article 24** specifically prohibits employment of children below 14 in factories, mines or other hazardous employment; **Article 39(e)–(f)** directs protection against abuse and development with dignity.
+- Inter-State/cross-border networks exploit poverty, migration and disasters through deceptive jobs/modelling offers and online recruitment. State police need joint intelligence, coordinated rescue and investigation, victim-safe interoperable records and lawful repatriation; Centre–State cooperation complements local prevention.
+- Strengthen evidence collection, trained investigators/prosecutors, legal aid, trauma-informed care, education, family assessment and livelihoods to prevent re-trafficking. Do not assess success by rescue counts alone; monitor sustained rehabilitation and convictions with clear denominators.
+- The source combines **3,098 children rescued in 2022**, **53,000+ rescues April 2024–March 2025** and **4.8% conviction (2018–22)** without establishing a common agency/population/method. They cannot be treated as one NCRB time series or used to calculate prevalence. Its child-trafficking 250-word question and unyearred Palermo test are practice, not authentic PYQs.
+
 ## PDF coverage
 
-2025-12-24: pp. 19, 20, 21, 22
+2025-12-24: pp. 19, 20, 21, 22 · 2026-01-19: pp. 11, 12, 13, 14, 17

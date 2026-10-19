@@ -2170,6 +2170,53 @@
       "question": "Greenland falls under which continent?",
       "status": "excluded_non_cse",
       "reason": "Image-only State examination screenshot (Arunachal Pradesh); not UPSC CSE."
+    },
+    {
+      "issue_date": "2026-01-13",
+      "pages": [
+        17
+      ],
+      "status": "existing_bank_duplicate",
+      "reason": "2008 CSE ITER-site question, all four options and Southern France answer already in Science and Technology common Prelim bank."
+    },
+    {
+      "issue_date": "2026-01-14",
+      "pages": [
+        18
+      ],
+      "status": "excluded_misattributed_non_cse",
+      "year": 2013,
+      "question": "Tinkathia System in Champaran meant:",
+      "reason": "The issue labels UPSC2013, but exact options are attributed to UPPSC Prelims2013 in exam compilations; no CSE match established. Excluded from CSE banks, 3/20 conceptual explanation retained."
+    },
+    {
+      "issue_date": "2026-01-14",
+      "pages": [
+        19,
+        20
+      ],
+      "status": "authenticated_added",
+      "reason": "2018 CSE Prelim original booklet A Q69, physical PDF page31 individually inspected at UPSC-PYQ/Original-Papers/2018/Prelim-General-Studies-Paper-I.pdf. Full question/options match supplied issue; existing Modern Indian History bank and peer result01/02 show no duplicate."
+    },
+    {
+      "issue_date": "2026-01-15",
+      "pages": [
+        5,
+        6,
+        8
+      ],
+      "status": "excluded_practice",
+      "reason": "Vulture MCQs and 250-word/15-mark Mains prompt are unyearred practice, already discussed in December common topic. No invented CSE year."
+    },
+    {
+      "issue_date": "2026-01-19",
+      "status": "excluded_practice_or_non_cse",
+      "detail": "2019 rhino CSE question already banked. Coconut Lakshadweep explicitly CDS 21 April 2024; Palermo, root-wilt and Indiaphonte questions have no authentic CSE attribution/year; child-trafficking Mains is explicitly practice."
+    },
+    {
+      "issue_date": "2026-01-20",
+      "status": "duplicates_and_practice_excluded",
+      "detail": "2016 GFSR, 2023 CBDC and 2025 BRICS already banked. ADR Mains 250-word prompt is practice. Added source-labelled 2011 IMF, 2009 Lok Adalat and 2014 spacecraft after full relevant-bank/peer dedup."
     }
   ],
   "resolved": [

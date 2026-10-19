@@ -28,6 +28,11 @@
 - **ICGS Sarthak**, an **offshore patrol vessel**, visited **Chabahar, Iran, 16–19 December 2025**, the **first Indian Coast Guard ship visit to this port**. This is distinct from India's earlier commercial terminal operations and Navy visits elsewhere. [Defence Ministry, 17 December](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205444&lang=1&reg=3).
 - Planned professional exchanges with Iranian maritime agencies address **search and rescue, maritime law enforcement, marine pollution, MRCC coordination and VBSS**; port calls support maritime cooperation and Indian connectivity interests toward Afghanistan/Central Asia. The visit does not itself alter sanctions exemptions or complete onward transport infrastructure.
 
+## January 2026: conditional waiver and continued talks
+- **16 January MEA briefing**, reproduced in the embedded clipping, said the US Treasury's **28 October 2025** guidance provided a conditional sanctions waiver **valid until 26 April 2026**, and that India remained engaged with the US on arrangements and Iran on Chabahar. This is a time-limited position at the issue date, not a permanent exemption or confirmation India had abandoned the port. [Recorded spokesperson statement](https://www.youtube.com/watch?v=QhcAZu5eRf0).
+- The typed September-2025 revocation narrative omits this subsequent relief; read it alongside the October waiver and January clarification. The source's reports about possible alternative Indian operational arrangements were not an official announcement of a new structure.
+- Existing map, Shahid Beheshti terminal, 2024 ten-year operating contract and Pakistan-bypassing Afghan/Central Asian access remain relevant. Banking, insurance, renewal risk and onward connectivity constrain commercial continuity; strategic importance alone does not remove transaction-specific sanctions exposure. Both printed PYQs are already banked.
+
 ## PDF coverage
 
-2025-02-09: pp. 9, 10, 11, 12, 13 · 2025-09-19: pp. 9, 10, 11 · 2025-10-31: pp. 1, 2, 3 · 2025-12-18: pp. 20
+2025-02-09: pp. 9, 10, 11, 12, 13 · 2025-09-19: pp. 9, 10, 11 · 2025-10-31: pp. 1, 2, 3 · 2025-12-18: pp. 20 · 2026-01-17: pp. 12, 13, 14, 15 · 2026-01-18: pp. 35

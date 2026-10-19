@@ -40,6 +40,12 @@
 - Reported directions cover **CBI–Interpol cooperation**, State/regional cybercrime coordination linked with I4C, preservation/sharing of platform records and stronger telecom KYC/SIM controls. RBI was asked to respond on AI/ML detection of suspicious accounts and money layering: a request for a response is not proof a new automated freezing system already exists.
 - The ₹3,000-crore loss figure repeats the earlier hearing's reported aggregate; do not turn it into a measured December-only loss. Prevention and rapid evidence/fund preservation remain essential alongside criminal investigation. [Supreme Court order, 1 December 2025, reproduced](https://indiankanoon.org/doc/67470969/).
 
+## January 2026: inter-departmental response to digital-arrest fraud
+- Government informed the Supreme Court of an **Inter-Departmental Committee formed 26 December 2025**, chaired by **Special Secretary (Internal Security), MHA**, with **I4C CEO as Member-Secretary**. Coordinates MHA, MeitY, DoT, MEA, financial-services/Finance, Law, Consumer Affairs, RBI, CBI, NIA and Delhi Police/competent police stakeholders; Attorney-General guides consultations.
+- Mandate: examine legal/regulatory/implementation gaps, real-time inter-agency response and recommendations for rules, enforcement or legislation; representatives of **Google, WhatsApp, Telegram and Microsoft** attended consultations. Participation is not proof an enforceable new platform obligation or new law has already taken effect.
+- **Correct the prose using its embedded clipping:** the court was led by **CJI Surya Kant**, not D.Y. Chandrachud, in this 2025–26 proceeding. The committee formation is a later coordination step in the already covered 2025 suo motu case, not the beginning of every Indian cybercrime institution. [Earlier Supreme Court case record](https://api.sci.gov.in/supremecourt/2025/59769/59769_2025_2_26_66007_Order_17-Nov-2025.pdf).
+- Existing digital-arrest explanation applies: fabricated warrants/uniforms/video courtrooms and threats isolate victims into transfers. **No lawful “digital arrest” exists**; independent verification, prompt **1930/cybercrime.gov.in** reporting and preservation of account/call evidence support investigation. Victims span ages; the source's elderly-victim focus is not a universal demographic rule.
+
 ## PDF coverage
 
-2025-04-28: pp. 8, 9, 10, 11 · 2025-06-27: pp. 1 · 2025-07-19: pp. 11, 12, 13, 14 · 2025-11-04: pp. 1, 2, 3, 4 · 2025-12-02: pp. 1, 2, 3
+2025-04-28: pp. 8, 9, 10, 11 · 2025-06-27: pp. 1 · 2025-07-19: pp. 11, 12, 13, 14 · 2025-11-04: pp. 1, 2, 3, 4 · 2025-12-02: pp. 1, 2, 3 · 2026-01-14: pp. 3, 4, 5 · 2026-01-18: pp. 17, 18, 19
