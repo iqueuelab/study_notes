@@ -257,6 +257,18 @@
         "c": "Only three",
         "d": "All four"
       }
+    },
+    {
+      "year": 2020,
+      "chapter": "Thwaites Glacier and marine ice-sheet instability",
+      "question": "Siachen Glacier is situated to the",
+      "options": {
+        "a": "East of Aksai Chin",
+        "b": "East of Leh",
+        "c": "North of Gilgit",
+        "d": "North of Nubra Valley"
+      },
+      "answer": "d"
     }
   ]
 }

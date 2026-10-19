@@ -28,6 +28,16 @@
 - Existing notes cover type 1/type 2, insulin resistance/deficiency, vascular/renal/retinal complications and prevention/care. Population response: healthier food/activity environments, early detection and longitudinal primary care, affordable medicines/insulin, complication screening and financial protection. Prevention can reduce type 2 risk but is not a guarantee against every type or every case.
 - Costs include household expenditure, lost productive work and pressure on health systems. “Diabetes capital of the world” is an informal label, not an official epidemiological category; dated Atlas figures should not be mixed with surveys covering different ages/diagnostic methods.
 
+## February 2026: HbA1c and anaemia
+- HbA1c depends on both glucose exposure and **red-cell lifespan/haemoglobin**. The source's concern about delayed/missed diagnoses should not become a universal claim that HbA1c is unsuitable for every Indian patient.
+| Interference | Typical implication |
+|---|---|
+| Significant iron-deficiency anaemia | Can **falsely raise** HbA1c |
+| Haemolysis/recent blood loss, shortened red-cell survival | Can **falsely lower** HbA1c |
+| HbS/HbC/HbE and other variants | Direction depends on variant and assay; not every method is affected |
+- **G6PD deficiency is an enzyme defect**, not itself a haemoglobinopathy; associated haemolysis can change interpretation. A source-reported “up to four-year delay” is study-specific, not a fixed diagnostic lag. [NGSP interference guidance](https://ngsp.org/factors.asp), [NIDDK](https://www.niddk.nih.gov/health-information/diagnostic-tests/a1c-test/).
+- Discordance with clinical picture/plasma glucose calls for appropriate confirmatory testing and evaluation of anaemia/variants. **Fasting plasma glucose/OGTT** are diagnostic alternatives where appropriate; **CGM** supports monitoring and is not interchangeable with standard laboratory diagnostic criteria. Existing notes retain thresholds and confirmation requirements.
+
 ## PDF coverage
 
-2025-04-07: pp. 11, 12, 13, 14 · 2025-04-11: pp. 13, 14, 15, 16, 17 · 2025-12-19: pp. 10, 11, 12
+2025-04-07: pp. 11, 12, 13, 14 · 2025-04-11: pp. 13, 14, 15, 16, 17 · 2025-12-19: pp. 10, 11, 12 · 2026-02-10: pp. 6, 7, 8

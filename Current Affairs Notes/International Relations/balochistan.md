@@ -12,6 +12,12 @@
 - Fisheries concerns, jobs, education/healthcare and unequal returns from copper/gold/gas resources underpin opposition. Source **5% Pakistan GDP** has no year/series and should not be memorised. Claims of Chinese trawler exploitation need specific evidence rather than attributing all fisheries pressure to one nationality.
 - A reported **40-year Gwadar operating concession** is not transfer of sovereignty or proof of an established Chinese military base. Assess actual infrastructure/agreements, local participation, environmental impacts and security arrangements; feared militarisation is a risk claim.
 
+## January–February 2026: renewed attacks and reconciliation debate
+- The editorial discusses coordinated **BLA attacks across Balochistan on 31 January 2026**. It attributes **at least 30 civilian and 18 security-personnel deaths** to Pakistani authorities and reports the military's claim of killing **at least 150 fighters** in response. These are attributed contemporaneous claims, not independently settled final totals.
+- It describes cooperation among armed groups through **Baloch Raaji Aajoi Sangar (BRAS)** and argues that repeated coercive responses without political inclusion sustain cycles of insurgency. Security spillovers after the Taliban's return in Afghanistan and TTP activity are related context; **Baloch separatists and TTP are distinct actors**.
+- Suggested policy lesson: pair civilian protection and accountability with dialogue, local participation in mineral/CPEC development, fair economic benefits and political reconciliation. This is the editorial's analysis, not proof that one factor alone explains all violence.
+- Claims by Islamabad about Indian involvement remain contested allegations; the editorial disputes the evidentiary basis. Do not convert either government's assertions into independently established facts. Existing notes cover Kalat/One Unit history, resource grievances, peaceful rights protests and Kashgar–Gwadar geography; peaceful Baloch activism must remain distinct from armed attacks.
+
 ## PDF coverage
 
-2025-03-12: pp. 1, 2, 3, 19, 20, 24 · 2025-05-22: pp. 27, 28, 29
+2025-03-12: pp. 1, 2, 3, 19, 20, 24 · 2025-05-22: pp. 27, 28, 29 · 2026-02-07: pp. 14, 15, 16, 17, 18

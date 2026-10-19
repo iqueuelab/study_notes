@@ -803,6 +803,18 @@
         "d": "Orangutan"
       },
       "answer": "c"
+    },
+    {
+      "year": 2010,
+      "chapter": "Reticulated python: record length and ecology",
+      "question": "King Cobra is the only snake that makes its own nest. Why does it make its nest?",
+      "options": {
+        "a": "It is a snake-eater and the nest helps attract other snakes",
+        "b": "It is a viviparous snake and needs a nest to give birth to its offspring",
+        "c": "It is an oviparous snake and lays its eggs in the nest and guards the nest until they are hatched",
+        "d": "It is a large, cold-blooded animal and needs a nest to hibernate in the cold season"
+      },
+      "answer": "c"
     }
   ]
 }

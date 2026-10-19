@@ -6849,17 +6849,51 @@
     {
       "date": "2026-02-07",
       "pdf": "2026/02-February/2026-02-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "125d2f2fd2d5bfb7d774997ca40081020d22c08c5e7e5c1d6878ef9113a1da50",
+      "pages": 18,
+      "topic_ids": [
+        "balochistan",
+        "chabahar",
+        "crude-imports",
+        "india-gcc-fta"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_note": "Physical file 2026-02-07 retained; first-page banner says 7 Feb 2025, inconsistent with December 2025 statistics and February 2026 developments."
     },
     {
       "date": "2026-02-09",
       "pdf": "2026/02-February/2026-02-09.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "00ce3a155d30ff4d6294dd51e64f890ad3a6005ec1c27e09e3645bfff10709d7",
+      "pages": 18,
+      "topic_ids": [
+        "aconcagua",
+        "india-malaysia",
+        "lake-urmia",
+        "reticulated-python",
+        "thwaites-glacier"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-02-10",
       "pdf": "2026/02-February/2026-02-10.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "7be0ff9e48aa39ad6b94534b04e8c8c7ff356392b198830a779b373d39409142",
+      "pages": 16,
+      "topic_ids": [
+        "diabetes",
+        "india-greece",
+        "jwaneng-diamonds",
+        "kimberley-process",
+        "lyriothemis-dragonflies"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true,
+      "date_note": "Physical file 2026-02-10 retained; banner reads 10 Feb 2025, inconsistent with the February 2026 news and 2026 military-cooperation plan."
     },
     {
       "date": "2026-02-11",
@@ -7968,7 +8002,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-02-07",
+  "next_pdf": "2026-02-11",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -8145,6 +8179,16 @@
       "date": "2026-02-02",
       "status": "No standalone or combined issue found",
       "evidence": "jobs.json and January/February source inventory show no 2026-02-02.pdf; physical January 31 file has only explicit 1 February banner and does not establish a 2 February issue. No notes invented for 2 February."
+    },
+    {
+      "date": "2026-02-06",
+      "status": "No standalone or combined issue found",
+      "evidence": "Assigned source collection/jobs inventory has no daily PDF for this date; no notes or review invented."
+    },
+    {
+      "date": "2026-02-08",
+      "status": "No standalone or combined issue found",
+      "evidence": "Assigned source collection/jobs inventory has no daily PDF for this date; no notes or review invented."
     }
   ]
 }

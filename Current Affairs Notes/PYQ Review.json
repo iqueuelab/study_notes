@@ -2287,6 +2287,21 @@
     {
       "issue_date": "2026-02-05",
       "reason": "Embedded OAS 2018 Montreux Record item excluded as State-PSC, not UPSC CSE."
+    },
+    {
+      "issue_date": "2026-02-07",
+      "status": "already_banked",
+      "detail": "Read complete Indian Economy and International Relations Prelim/Mains JSON banks. Printed 2011 Brent, 2008 barrel, 2017 Chabahar, 2016 BRI and 2016 GCC-membership questions already present with full statements/options; no duplicates appended. Oil-profile and ToR MCQs explicitly practice, excluded."
+    },
+    {
+      "issue_date": "2026-02-09",
+      "status": "reviewed",
+      "detail": "Compared all 28 common subject Prelim/Mains banks (356 questions) and assignment01. 2019 animal-diet/viviparity question already banked in Environment; do not append. 2010 King Cobra and 2020 Siachen full questions/options printed in source, not found in any current bank; appended. UKPSC RO/ARO 2022 Aconcagua and JKSSB 2022 saline-lake questions excluded. 2011 Kra/Malacca question lacks options in supplied pages: held for complete original, no options invented."
+    },
+    {
+      "issue_date": "2026-02-10",
+      "status": "practice_excluded",
+      "detail": "Kimberlite-mineral MCQ is undated practice, not authenticated CSE PYQ. No new questions."
     }
   ],
   "resolved": [

@@ -33,6 +33,12 @@
 - The typed September-2025 revocation narrative omits this subsequent relief; read it alongside the October waiver and January clarification. The source's reports about possible alternative Indian operational arrangements were not an official announcement of a new structure.
 - Existing map, Shahid Beheshti terminal, 2024 ten-year operating contract and Pakistan-bypassing Afghan/Central Asian access remain relevant. Banking, insurance, renewal risk and onward connectivity constrain commercial continuity; strategic importance alone does not remove transaction-specific sanctions exposure. Both printed PYQs are already banked.
 
+## February 2026: equipment commitment fulfilled
+- The issue reports the government's **6 February parliamentary reply** that India had fulfilled its **US$120 million equipment-procurement commitment**, under the **13 May 2024 ten-year IPGL–Iran Ports and Maritime Organisation contract** for Shahid Beheshti terminal. Distinguish this contribution from a loan, full lifetime project cost or sovereignty over the port.
+- Meeting a financial commitment does not establish uninterrupted operation: banking, insurance, sanctions renewal and onward infrastructure remain material constraints. Absence of a new annual budget provision alone does not prove an official withdrawal announcement.
+- Read the repeated September 2025 sanctions-withdrawal material alongside the later conditional waiver **valid until 26 April 2026**, already recorded in January notes. It is misleading to present September's change as if no subsequent relief occurred.
+- Chabahar provides a Pakistan-bypassing route toward Afghanistan/Central Asia; it is not literally India's only possible route to the region. The 2017 Chabahar and 2016 BRI questions repeat the common bank.
+
 ## PDF coverage
 
-2025-02-09: pp. 9, 10, 11, 12, 13 · 2025-09-19: pp. 9, 10, 11 · 2025-10-31: pp. 1, 2, 3 · 2025-12-18: pp. 20 · 2026-01-17: pp. 12, 13, 14, 15 · 2026-01-18: pp. 35
+2025-02-09: pp. 9, 10, 11, 12, 13 · 2025-09-19: pp. 9, 10, 11 · 2025-10-31: pp. 1, 2, 3 · 2025-12-18: pp. 20 · 2026-01-17: pp. 12, 13, 14, 15 · 2026-01-18: pp. 35 · 2026-02-07: pp. 7, 8, 9, 10, 11
