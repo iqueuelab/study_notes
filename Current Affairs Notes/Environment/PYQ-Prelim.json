@@ -731,6 +731,54 @@
         "d": "Protection of Western Ghats"
       },
       "answer": "d"
+    },
+    {
+      "year": 2022,
+      "chapter": "Miyawaki method: native mini forests and urban restoration",
+      "question": "The “Miyawaki method” is well known for the:",
+      "options": {
+        "a": "Promotion of commercial farming in arid and semi-arid areas",
+        "b": "Development of gardens using genetically modified flora",
+        "c": "Creation of mini forests in urban areas",
+        "d": "Harvesting wind energy on coastal areas and on sea surfaces"
+      },
+      "answer": "c"
+    },
+    {
+      "year": 2020,
+      "chapter": "Steel slag: roads, circular economy and material safeguards",
+      "question": "Steel slag can be the material for which of the following?\n1. Construction of base road\n2. Improvement of agricultural soil\n3. Production of cement\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Tailings: mineral recovery and storage safety",
+      "year": 2018,
+      "question": "Which of the following is/are the possible consequence(s) of heavy sand mining in riverbeds?\n1. Decreased salinity in the river\n2. Pollution of groundwater\n3. Lowering of the water-table\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "b"
+    },
+    {
+      "chapter": "Madras hedgehog and dryland habitat conservation",
+      "year": 2021,
+      "question": "Consider the following animals:\n1. Hedgehog\n2. Marmot\n3. Pangolin\nTo reduce the chance of being captured by predators, which of the above organisms roll up and protect/protects its/their vulnerable parts?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "1 and 3"
+      },
+      "answer": "d"
     }
   ]
 }

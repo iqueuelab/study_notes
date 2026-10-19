@@ -20,6 +20,11 @@
 - Source places the change alongside **Rajpath → Kartavya Path; Ross Island → Netaji Subhas Chandra Bose Dweep; Neil → Shaheed Dweep; Havelock → Swaraj Dweep; Port Blair → Sri Vijaya Puram; Mughal Gardens → Amrit Udyan**, and the Navy ensign redesign. These are background examples, not all new December 2025 renamings.
 - Constitutional link: **Article 51A(b)** cherishing freedom-struggle ideals, **(c)** sovereignty/unity/integrity and **(e)** harmony. The source's ideological “Sanatan values” framing is governmental/editorial interpretation, not constitutional wording or a legal condition for citizenship.
 
+## January 2026: Shubhanshu Shukla
+- Republic Day-eve approval included **one Ashok Chakra, three Kirti Chakras and twelve Shaurya Chakras**, including a posthumous Shaurya Chakra, in the source's Chakra-series announcement.
+- **Group Captain Shubhanshu Shukla** was honoured with **Ashok Chakra** following his **June 2025 ISS mission**; the President conferred it at **Kartavya Path on 26 January 2026**. The **highest gallantry award other than in the face of the enemy** is distinct from the Padma Awards. [Defence Ministry ceremony record](https://www.pib.gov.in/ShowAlbum.aspx?albumid=215444&lang=1&reg=3).
+- Ax-4 made him the **first Indian aboard ISS**, not the first Indian ever in space; the earlier Rakesh Sharma milestone remains distinct. Existing notes explain Ashok/Kirti/Shaurya hierarchy and service-specific gallantry medals.
+
 ## PDF coverage
 
-2025-05-23: pp. 11, 12, 13, 14 · 2025-05-25: pp. 15 · 2025-08-14: pp. 9, 10, 11 · 2025-12-17: pp. 1, 2, 3
+2025-05-23: pp. 11, 12, 13, 14 · 2025-05-25: pp. 15 · 2025-08-14: pp. 9, 10, 11 · 2025-12-17: pp. 1, 2, 3 · 2026-01-26: pp. 22

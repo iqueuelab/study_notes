@@ -8,6 +8,12 @@
 - **2017 wildlife-law PYQ: D**, gharial, Indian wild ass and wild buffalo all protected, subject to statutory exceptions. Section 11 addresses specified dangerous or irrecoverably injured/diseased animals with statutory safeguards; self-defence is not a licence for unlawful prior conduct.
 - **2017 gharial habitat PYQ: B, Chambal River**; fish-eating, slender-snouted gharials inhabit freshwater rivers. Chambal is a major population, **not India's only viable population**. **2013 fauna PYQ: C (all three), historical exam answer**; do not transplant that generic “endangered” label into a current IUCN list. Source practice **B (2 and 3)** despite its explanation misnumbering statements.
 
+## January 2026: gharial survey and crocodilian recall
+- Compilation reports **3,037 gharials across 13 rivers in the Ganga basin**. This is a basin survey count, not a new count of mature breeding adults or every gharial worldwide; do not compare it directly with estimates using different age classes/geographic coverage.
+- **Gavialis gangeticus: family Gavialidae**, not Crocodylidae as the source states; order Crocodylia. Long narrow snout specialises in fish capture; adult male's **ghara**, named after an earthen pot, aids vocalisation. Highly aquatic; sandbanks are used for basking/nesting. Source seasonal recall: mating November–January, egg laying March–May, with local variation.
+- Major surviving populations occur in **Chambal and Girwa (India), Rapti–Narayani (Nepal)**. Chambal spans MP–Rajasthan–UP; it is not the sole viable wild population. **Critically Endangered**; altered flows/dams, fishing-net entanglement, sand extraction, pollution and loss of nesting banks threaten recovery. Maintain environmental flows, protected sandbanks and safer fishing practices. [WII species account](https://v1.wii.gov.in/nmcg/priority-species/reptiles/gharial).
+- Embedded Sundarban saltwater-crocodile clipping and protection/distribution points repeat the existing survey notes. The source alters the authentic **2013 PYQ's “endangered” to “Critically endangered”** and gives a wrong answer; retain the original question and historical answer already in the bank, alongside distinct current IUCN statuses.
+
 ## PDF coverage
 
-2025-08-20: pp. 1, 2, 3, 4
+2025-08-20: pp. 1, 2, 3, 4 · 2026-01-22: pp. 4, 5, 6, 7, 8

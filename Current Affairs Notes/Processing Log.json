@@ -6621,32 +6621,102 @@
     {
       "date": "2026-01-21",
       "pdf": "2026/01-January/2026-01-21.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "bbd12c9247687c1bf68cb7eb814a32a36074ac3a5e3b9d1e2d025f34917b4e80",
+      "pages": 17,
+      "topic_ids": [
+        "copper-industry",
+        "darwin-bark-spider",
+        "pax-silica",
+        "reusable-launch-vehicles"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-22",
       "pdf": "2026/01-January/2026-01-22.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fbabf4b8323f0f58806457f96369251e32ee33d61773fd7f9892026260ee5ff5",
+      "pages": 15,
+      "topic_ids": [
+        "gaur",
+        "gbs",
+        "miyawaki",
+        "peace-prizes",
+        "saltwater-crocodile"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-23",
       "pdf": "2026/01-January/2026-01-23.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "086d0b69d3a939df801b73af98e96814b46ac3a4cdc9158004973f06bf56de9a",
+      "pages": 15,
+      "topic_ids": [
+        "air-pollution-sources",
+        "gaur",
+        "landslides",
+        "lr-ashm"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-24",
       "pdf": "2026/01-January/2026-01-24.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "af2a7ca954ed70da6132d78c7a2e95cb68924e3473e4e718e4ebe2732c27d138",
+      "pages": 14,
+      "topic_ids": [
+        "acc-pli",
+        "c295",
+        "fisheries",
+        "kaladi",
+        "steel-slag"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-26",
       "pdf": "2026/01-January/2026-01-26.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e016cacdaf400fe737f77062c4604d3990c4285c0df9883338a7d4f0b80b7419",
+      "pages": 30,
+      "topic_ids": [
+        "agarwood",
+        "exominer",
+        "gallantry-awards",
+        "governor-state-relations",
+        "madras-hedgehog",
+        "padma-awards",
+        "pfas",
+        "schizophrenia",
+        "sonic-boom",
+        "steel-slag",
+        "tailings-recovery"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-27",
       "pdf": "2026/01-January/2026-01-27.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "399d5173b4de7d32a1577c51178c07931030e331fc46ce2007c1ac5e71faf6a4",
+      "pages": 13,
+      "topic_ids": [
+        "asc-arjun",
+        "fdi-india",
+        "gyan-bharatam",
+        "india-eu",
+        "international-solar-alliance"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-28",
@@ -7805,7 +7875,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-01-21",
+  "next_pdf": "2026-01-28",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7967,6 +8037,11 @@
       "date": "2026-01-11",
       "status": "No standalone or combined issue found",
       "evidence": "Assignment jobs.json and January source collection contain no2026-01-11.pdf; no review or notes invented."
+    },
+    {
+      "date": "2026-01-25",
+      "status": "No standalone or combined issue found",
+      "evidence": "Assignment07 jobs.json and January source collection contain no 2026-01-25.pdf; date recorded as a source gap without invented notes."
     }
   ]
 }

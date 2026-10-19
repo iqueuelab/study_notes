@@ -30,6 +30,12 @@
 - Reported release pattern **70% initially after annual-plan approval; 30% after progress and utilisation reporting**. Survey/catalogue, conservation/training, digitisation/metadata, translation and research/publication/outreach form the implementation chain. The pattern is corroborated in the Asiatic Society's later bulletin; that later record is verification, not an October outcome. [Institutional bulletin](https://asiaticsociety.culture.gov.in/sites/default/files/2026-01/Bulletin%20December%202025_compressed.pdf).
 - Existing notes retain the National Digital Repository, manuscript scope, September portal launch and **Budget 2025–26** announcement. Correct this issue's repeated **2024–25** Budget label. Catalogue/scan/translation/public access are separate milestones; preserve physical originals, provenance, scholarly review and custodian cooperation.
 
+## January 2026: Granth Kutir
+- President inaugurated **Granth Kutir at Rashtrapati Bhavan on 23 January**: about **2,300 books and 50 manuscripts** in India's **11 classical languages**. Materials include palm leaf, paper, bark and cloth; the collection spans epics, philosophy, grammar, history/governance, science, devotional literature and the Constitution in classical languages. [President's Secretariat](https://presidentofindia.nic.in/press_releases/president-india-inaugurates-granth-kutir-rashtrapati-bhavan).
+- Languages: **Tamil, Sanskrit, Kannada, Telugu, Malayalam, Odia, Marathi, Pali, Prakrit, Assamese, Bengali**. IGNCA provides conservation/documentation/display expertise; contributions came from institutions, governments and individual donors. It supports **Gyan Bharatam's preservation–digitisation–dissemination** vision; one repository is distinct from a completed national manuscript inventory.
+- **Classical status ≠ Eighth Schedule inclusion**: Pali/Prakrit illustrate the distinction; the Schedule has **22 languages**, while this classical list has eleven. Physical conservation, scholarly cataloguing and public research access complement digitisation.
+- PYQ timeline: **2014—Kannada and Telugu, not Gujarati: (c)**; **2015—Odia, declared classical in 2014: (a)**. The source's 2015 answer remains correct for its exam date, but its present-tense claim that **Assamese is not classical** is stale: **Assamese, Bengali, Marathi, Pali and Prakrit gained status on 3 October 2024**.
+
 ## PDF coverage
 
-2025-05-18: pp. 1, 2, 3, 4, 5 · 2025-07-12: pp. 3, 4, 5, 6, 7 · 2025-09-13: pp. 3, 4, 5, 6 · 2025-10-25: pp. 6, 7, 8
+2025-05-18: pp. 1, 2, 3, 4, 5 · 2025-07-12: pp. 3, 4, 5, 6, 7 · 2025-09-13: pp. 3, 4, 5, 6 · 2025-10-25: pp. 6, 7, 8 · 2026-01-27: pp. 1, 2, 3, 4

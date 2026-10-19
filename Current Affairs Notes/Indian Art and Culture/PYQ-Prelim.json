@@ -97,6 +97,30 @@
         "d": "1,2 and 3"
       },
       "answer": "a"
+    },
+    {
+      "chapter": "Gyan Bharatam and manuscript conservation",
+      "year": 2014,
+      "question": "Consider the following languages:\n1. Gujarati\n2. Kannada\n3. Telugu\nWhich of the above has/have been declared as “Classical Language/Languages” by the Government of India?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Gyan Bharatam and manuscript conservation",
+      "year": 2015,
+      "question": "Which one of the following was given classical language status recently?",
+      "options": {
+        "a": "Odia",
+        "b": "Konkani",
+        "c": "Bhojpuri",
+        "d": "Assamese"
+      },
+      "answer": "a"
     }
   ]
 }

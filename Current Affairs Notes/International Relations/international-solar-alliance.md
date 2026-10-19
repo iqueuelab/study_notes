@@ -9,6 +9,13 @@
 - **STAR-C** technology/application resource centres, **ITEC training**, solar fellowships and **One Sun, One World, One Grid** are relevant initiatives. OSOWOG envisions interconnected grids for renewable transfer across time zones, not continuous sunshine everywhere or a completed global grid.
 - **2016 ISA PYQ: A (1 only)**; launch at the 2015 climate conference is correct, universal UN membership false. Source four-statement practice **A (1, 2 and 3)**.
 
+## January 2026: US withdrawal announcement
+- **7 January US Presidential memorandum** directed steps to withdraw from listed international bodies, including **International Solar Alliance**. This is an announced withdrawal/implementation direction; the treaty notice/effective-exit process is a separate question. US joined in **2021**. [Original memorandum](https://www.whitehouse.gov/presidential-actions/2026/01/withdrawing-the-united-states-from-international-organizations-conventions-and-treaties-that-are-contrary-to-the-interests-of-the-united-states/).
+- The issue attributes **about 1% of ISA funding** to the US and reports continuity of existing programmes. This suggests limited direct budget exposure under the reported funding definition, not proof of zero indirect financing/diplomatic impact.
+- Domestic Indian solar demand, utility contracts, banks and other investors can cushion effects; source **~144 GW module/~25 GW cell manufacturing capacity** is a dated manufacturing snapshot, not installed solar generation or output actually produced. The categorical claim that every project, job and tariff is secure overstates evidence.
+- Larger risks may concern concessional finance, perceived policy uncertainty and project decisions in poorer/African members; diversify finance and partnerships, retain risk-reduction/training programmes and strengthen local capabilities. Export openings for Indian firms are conditional possibilities, not a guaranteed consequence of US withdrawal.
+- Existing India–France launch at **COP21 in 2015**, Gurugram HQ and membership corrections apply. **2018 adoption/2020 entry into force** opened eligibility to all UN members; this did not enrol every country. **2016 PYQ: (a), statement 1 only**, already banked.
+
 ## PDF coverage
 
-2025-08-21: pp. 7, 8, 9, 10 · 2025-10-09: pp. 9, 10, 11, 12
+2025-08-21: pp. 7, 8, 9, 10 · 2025-10-09: pp. 9, 10, 11, 12 · 2026-01-27: pp. 9, 10, 11, 12

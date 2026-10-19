@@ -46,6 +46,11 @@
 - Cooperation priorities: supply-chain resilience, technology/AI/digital governance, green transition, Indo-Pacific/maritime security and defence. Europe's Ukraine/security concerns and uncertainty over US policy provide context; Indian multi-alignment/strategic autonomy leaves room for issue-based partnerships and disagreement.
 - The source's claim that there is no cohesive “West” or “Global South” is a diplomatic interpretation of fluid coalitions, not abolition of those analytical categories. India's **2026 BRICS chairship** differs from its **2023 G20 presidency**; being a G20 member does not mean holding its presidency in January 2026.
 
+## 27 January 2026: conclusion of FTA negotiations
+- The image-only clipping reports completed negotiations ahead of the **16th India–EU Summit, New Delhi**, involving **Modi, European Council President António Costa and Commission President Ursula von der Leyen**. The summit's official statement confirmed **conclusion of FTA negotiations**. [EU summit record](https://www.consilium.europa.eu/en/meetings/international-summit/2026/01/27/).
+- Negotiation conclusion differs from legal scrubbing, final text, translation, signature, required approvals/ratification and entry into force. Do not treat the headline as immediate tariff elimination.
+- The leaders' **26 January Republic Day chief-guest participation** illustrates wider strategic engagement. The source also expected a security/defence framework; the summit confirmed its signing. Its fields include maritime security, defence technology/industry, cyber/hybrid threats, space and counterterrorism—cooperation framework, not mutual-defence treaty.
+
 ## PDF coverage
 
-2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21 · 2025-07-15: pp. 31, 32, 33, 34, 35, 36, 37 · 2025-09-08: pp. 3, 4, 5 · 2026-01-09: pp. 11, 12, 13
+2025-01-18: pp. 1, 2, 3, 4 · 2025-03-01: pp. 4, 5, 6, 7, 8 · 2025-06-02: pp. 20, 21 · 2025-07-15: pp. 31, 32, 33, 34, 35, 36, 37 · 2025-09-08: pp. 3, 4, 5 · 2026-01-09: pp. 11, 12, 13 · 2026-01-27: pp. 12

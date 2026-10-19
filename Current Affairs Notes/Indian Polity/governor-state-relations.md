@@ -69,6 +69,19 @@
 - During the pending Article 143 reference, CJI B. R. Gavai stressed that constitutional authorities cannot evade their duties; Justice Surya Kant distinguished directing a decision from commanding assent. The Union argued a universal deadline ignores differences between Bills; these are hearing submissions, not a final new ruling.
 - The issue misdates the Tamil Nadu judgment: **8 April 2025**, not 2024. Existing notes give its different one-/three-month directions; the issue's blanket three-month summary is incomplete. Keep the later November opinion separate. [April judgment](https://api.sci.gov.in/supremecourt/2023/45314/45314_2023_11_1501_60770_Judgement_08-Apr-2025.pdf).
 
+## January 2026: the Governor's legislative address
+- The editorial criticises Governors in **Tamil Nadu, Kerala and Karnataka** skipping/altering Cabinet-prepared speeches, arguing that personal disagreement should not replace the elected ministry's policy statement. Individual incidents are source-reported; the institutional issue is ministerial responsibility and federal trust.
+| Constitutional provision | Distinction |
+|---|---|
+| **175** | Governor may address either House or both assembled together and send messages; “may” does not create unlimited personal political discretion |
+| **176** | Special address at the first session after each Assembly general election and the first session each year; both Houses together where bicameral |
+| **163** | Aid/advice framework, subject to constitutionally recognised exceptions |
+| **208** | Each House makes its own procedure rules; earlier corresponding provincial rules continue until replaced, with permitted adaptation |
+- Special address outlines the government's programme, followed by debate/Motion of Thanks. **Shamsher Singh (1974)** and **Nabam Rebia (2016)** inform the constitutional-head/limited-discretion framework; do not confuse address powers with personal authorship of government policy. [Constitution text](https://www.wipo.int/wipolex/en/legislation/details/6771).
+- Impartial appointments, consultation with the Chief Minister and adherence to conventions are reform proposals associated with **Sarkaria/Punchhi** debates, not already enacted changes to the appointment process.
+## Correcting the 2019 PYQ key
+- **Statement 1 correct:** annual first-session address. **Statement 2 false:** State Houses do not automatically follow a Lok Sabha rule whenever their own rules lack a provision. The source's **(c) both** key should be **(a) 1 only**; comparable parliamentary precedent is not a universal constitutional fallback rule.
+
 ## PDF coverage
 
-2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19 · 2025-05-17: pp. 9, 10, 11, 12 · 2025-05-19: pp. 12, 13, 14, 15, 16 · 2025-05-25: pp. 4, 5 · 2025-07-24: pp. 20, 21, 22, 23, 24 · 2025-08-22: pp. 7, 8, 9, 10, 11 · 2025-09-12: pp. 1, 2, 3
+2025-04-09: pp. 1, 2, 3 · 2025-04-19: pp. 1, 2, 3, 4 · 2025-04-24: pp. 6, 7, 8, 9 · 2025-05-04: pp. 19 · 2025-05-17: pp. 9, 10, 11, 12 · 2025-05-19: pp. 12, 13, 14, 15, 16 · 2025-05-25: pp. 4, 5 · 2025-07-24: pp. 20, 21, 22, 23, 24 · 2025-08-22: pp. 7, 8, 9, 10, 11 · 2025-09-12: pp. 1, 2, 3 · 2026-01-26: pp. 25, 26, 27, 28

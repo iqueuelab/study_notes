@@ -13,6 +13,11 @@
 - Antivirals are not the main treatment for the immune disorder; management of an identified antecedent infection is a separate decision.
 - Many recover over weeks/months, sometimes much longer, with persistent disability in some; no instant curative treatment. Rapidly progressive weakness/breathing difficulty requires urgent clinical assessment. [WHO explanation](https://www.who.int/en/news-room/fact-sheets/detail/guillain-barr%C3%A9-syndrome).
 
+## January 2026: Neemuch report and classification
+- Compilation reports a **Guillain–Barré syndrome cluster in Neemuch district, Madhya Pradesh**, without case counts or an identified cause. This is separate from the January 2025 Pune cluster already covered.
+- **AIDP is a demyelinating subtype of GBS, not a synonym for every GBS case**; axonal variants also occur. The source's equal male/female frequency conflicts with WHO: GBS affects all ages but is more common in adults and males. [WHO factsheet](https://www.who.int/news-room/fact-sheets/detail/guillain-barr%C3%A9-syndrome).
+- Existing notes retain peripheral-nerve immune injury, ascending weakness, respiratory/autonomic danger, post-infection triggers, IVIG/plasma exchange and variable recovery. Fever/history of infection is not a diagnostic requirement, and recovery within six months is not guaranteed.
+
 ## PDF coverage
 
-2025-01-28: pp. 1, 2, 3, 12, 13, 17, 18, 19
+2025-01-28: pp. 1, 2, 3, 12, 13, 17, 18, 19 · 2026-01-22: pp. 11, 12, 13

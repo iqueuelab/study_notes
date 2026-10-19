@@ -24,6 +24,13 @@
 - Lower gross investment, mature-investment exits and Indian firms' overseas expansion affect net flows differently; the source's geopolitical/project-delay explanations are possible drivers, not causation established by the flow table. Existing notes retain sectoral policy qualifications and correct the repeated overbroad agriculture/railway claims.
 - **PYQ recall, already banked:** 2020 **(b)**—largely non-debt-creating capital; 2011 **(b)**—FII broadens capital availability while FDI targets enterprises/sectors. These contrasts are revision heuristics: FDI need not mean buying only newly issued shares, and portfolio investors need not have zero influence or universally short holding periods.
 
+## January 2026: UNCTAD's preliminary 2025 estimates
+- **Global Investment Trends Monitor No.50**, January 2026, estimated global FDI **US$1.6 trillion in calendar 2025, +14%**. Much of the increase reflected financial-centre flows: **excluding conduits, about +5%**; greenfield/project-finance activity remained weak. Do not read the headline as uniform new factory investment. [UNCTAD release, 20 January](https://unctad.org/news/global-investment-growth-resumes-finance-leading-rebound).
+- Source country estimates: **India US$47 billion, +73%**; **China US$107.5 billion, −8%, third consecutive decline**. These are preliminary annual inward-FDI measures, distinct from India's fiscal-year equity-only figures and RBI net FDI after repatriation/outward flows. [Monitor](https://unctad.org/system/files/official-document/diaeiainf2026d1_en.pdf).
+- **Developed economies +43% to US$728 billion; developing economies −2% to US$877 billion** in the report. India's rise is not the experience of every developing country. Services/digital investment and selected large projects matter; policy incentives or China+1 are possible explanations, not causation proved by aggregate flows.
+- **UNCTAD/UN Trade and Development**, established **1964**, Geneva, publishes this periodic investment monitor; it is distinct from the annual **World Investment Report**. Provisional estimates can later be revised.
+- Source **2010 PYQ: Brazil, Mexico and South Africa—(d), all three**, in its historical emerging-economy classification. Country grouping is not an automatic ranking of investment safety or a universal legal status.
+
 ## PDF coverage
 
-2025-08-30: pp. 1, 2 · 2025-09-15: pp. 4, 5, 6, 7, 8, 9 · 2025-10-22: pp. 3, 4, 5, 6, 7, 8
+2025-08-30: pp. 1, 2 · 2025-09-15: pp. 4, 5, 6, 7, 8, 9 · 2025-10-22: pp. 3, 4, 5, 6, 7, 8 · 2026-01-27: pp. 7, 8, 9

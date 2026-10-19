@@ -39,6 +39,14 @@
 - Existing NCAP/GRAP, source inventories and winter inversion notes apply. New governance emphasis: adequately staffed/funded regulators, credible PUC/testing and scrappage, public transport/charging, serviced industrial zones with continuous emissions monitoring, construction-dust/waste-burning controls and year-round regional accountability.
 - Congestion pricing and industrial relocation are proposed tools; relocation without cleaner technology/services can export pollution. Emergency school closures/odd-even/bans reduce episodic exposure but need measurable long-term emissions cuts. China’s institutional experience requires adaptation to India’s federal, administrative and social context.
 
+## January 2026: secondary particles and source apportionment
+- Source reports CAQM synthesis of earlier Delhi studies: winter PM2.5 contributions **secondary particles 27%, transport 23%, biomass burning 20%, dust 15%, industry 9%**. These are study/season-specific estimates, not a universal annual inventory; listed figures sum to 94%, so do not silently redistribute the remainder.
+- A **secondary chemical category** is different from an emitting sector: transport, industry, power and biomass all release precursors. Adding secondary particles to a separate total that already includes their sectoral origins can double-count emissions.
+- **SO₂ oxidation → sulphuric acid/sulphate; NOₓ oxidation → nitric acid; reaction with NH₃ → ammonium sulphate/nitrate particles**. Ammonia is a reactant, not merely a catalyst. VOC chemistry also creates secondary organic aerosols; sunlight/temperature/humidity and regional transport affect formation.
+- Source discusses a new **2026-base-year inventory/source-apportionment exercise** involving **ARAI, IIT Delhi, TERI and IITM**, intended to strengthen early-warning/decision-support systems. Treat as planned work, distinct from the synthesis of existing studies; the source reports the earlier DSS had been suspended in 2024.
+- Separate the recycled **CREA June 2025 analysis** from the January CAQM report: its **11.9 µg/m³ ammonium sulphate /about 34% PM2.5** is a **nationwide average**, not specifically Delhi's annual share as the compilation implies. [Original CREA release](https://energyandcleanair.org/wp/wp-content/uploads/2025/06/CREA_Press-release_Secondary-particles-contribute-one-third-of-India-PM2.5_06.2025.pdf).
+- Agriculture/manure are important NH₃ sources; coal/industry SO₂ and combustion NOₓ require coordinated airshed controls. Existing health effects, WHO guideline PYQ and NCAP notes apply. Reduce gases at source using cleaner power/fuels, industrial controls, efficient fertiliser/manure/waste management and transport action; chemical formation is not controlled by visible-smoke restrictions alone.
+
 ## PDF coverage
 
-2025-04-24: pp. 3, 4, 5, 6 · 2025-07-09: pp. 6, 7, 8 · 2025-11-17: pp. 8, 9, 10, 11, 12 · 2025-12-22: pp. 10, 11, 12, 13
+2025-04-24: pp. 3, 4, 5, 6 · 2025-07-09: pp. 6, 7, 8 · 2025-11-17: pp. 8, 9, 10, 11, 12 · 2025-12-22: pp. 10, 11, 12, 13 · 2026-01-23: pp. 4, 5, 6, 7, 8, 9, 10

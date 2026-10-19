@@ -134,6 +134,8 @@ flows.update({
  'scheduled-tribes-list':['Check the existing State / UT-specific entry','Assess proposed inclusion or exclusion','Parliament changes the list by law: Article 342(2)','Assent and applicable commencement','Implement the amended list'],
  'onchocerciasis':['Infected blackfly bites a person','Larvae enter and mature into adult worms','Microfilariae spread through skin and eyes','Another blackfly ingests microfilariae','Larvae develop in the fly; transmission continues'],
  'dhruva':['Locate a place using DIGIPIN','Link a descriptive address through an authorised service','Validate the address and sharing permissions','Share necessary details with a permitted service','Correct records and review access'],
+ 'miyawaki':['Assess the site and its natural ecosystem','Select locally native species in suitable layers','Prepare soil and plant densely','Water, mulch and manage early competition','Monitor survival and long-term habitat value'],
+ 'steel-slag':['Identify slag type and composition','Process and stabilise the material','Test expansion, strength and environmental safety','Use only in approved, suitable applications','Monitor performance and manage residues'],
 })
 def link(t):return quote(t['subject'])+'/'+t['id']+'.html'
 for i,t in enumerate(topics):

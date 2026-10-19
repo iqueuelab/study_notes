@@ -176,6 +176,18 @@
         "d": "Neither 1 nor 2"
       },
       "answer": "a"
+    },
+    {
+      "chapter": "Governor: constitutional powers and State relations",
+      "year": 2019,
+      "question": "With reference to the Legislative Assembly of a State in India, consider the following statements:\n1. The Governor makes a customary address to Members of the House at the commencement of the first session of the year.\n2. When a State Legislature does not have a rule on a particular matter, it follows the Lok Sabha rule on that matter.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a"
     }
   ]
 }

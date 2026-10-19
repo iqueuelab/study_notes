@@ -15,6 +15,11 @@
 - Source calling the Bharat Ratna three-per-year limit merely a constitutional convention is imprecise: it is an executive award-framework norm, not a constitutional numerical provision; exceptional actual conferments must not rewrite historical PYQ wording.
 - Source “no Padma cap” omits the normal rule: **120 annually**, excluding posthumous and NRI/foreigner/OCI awards, with relaxation in highly deserving cases. [Official award rules](https://www.padmaawards.gov.in/About).
 
+## January 2026 announcement
+- **25 January:** President approved **131 Padma Awards**, counting each of **two duo cases as one award**: **5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri**. Announcement/approval precedes the separate investiture ceremonies. [Home Ministry list](https://www.pib.gov.in/PressReleaseIframePage.aspx?LID=1&PRID=2218547&RegID=3&lang=2&reg=48).
+- Five Vibhushan recipients: **Dharmendra Singh Deol (art, posthumous); K.T. Thomas (public affairs); N. Rajam (art); P. Narayanan (literature/education); V.S. Achuthanandhan (public affairs, posthumous)**. The list illustrates cultural, institutional and public-service recognition; total awards and individual people need not be identical with duo awards.
+- Existing category hierarchy, nomination process and **2021 PYQ (d), all three incorrect** remain. The normal **120 Padma-award limit excludes specified categories**; the 131 announcement is not by itself proof the rules were abolished. Military gallantry decorations such as Ashok Chakra are distinct from Padma civilian honours.
+
 ## PDF coverage
 
-2025-04-29: pp. 9, 10, 11, 12 · 2025-05-22: pp. 9, 10, 11 · 2025-05-28: pp. 21, 22, 23, 24
+2025-04-29: pp. 9, 10, 11, 12 · 2025-05-22: pp. 9, 10, 11 · 2025-05-28: pp. 21, 22, 23, 24 · 2026-01-26: pp. 21, 22, 23

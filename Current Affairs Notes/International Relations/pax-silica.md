@@ -11,6 +11,11 @@
 - **Image-only update supersedes the repeated December exclusion narrative:** new US Ambassador **Sergio Gor** said on **12 January** that India would be formally invited to Pax Silica **the following month**. This is a reported prospective invitation, **not Indian accession already completed by 13 January**. [Contemporaneous report of the envoy's statement](https://apnews.com/article/a71870e8eb2f62cb698bda074f4ecd49).
 - The original December participant list, minerals-to-AI scope and processing-capability recommendations repeat existing coverage. India’s initial absence was not a permanent exclusion rule; bilateral trade talks, invitation, signing and implementation are distinct. The source's suggested trade-deal/capability explanations remain analysis, not published mandatory admission criteria.
 
+## January 2026: India's choices in technology supply chains
+- Beyond the previously covered planned invitation, the editorial weighs India's **digital public infrastructure, AI market, engineering talent and semiconductor investment** against weak upstream manufacturing/mineral-processing capacity. Participation can support trusted supply access and collaboration; assess delivered capability rather than assuming invitation itself secures chips or minerals.
+- India must negotiate room for **domestic industrial subsidies, procurement policy and strategic autonomy**. Suggested future China-led/Pax-Silica-led technology blocs and new export-control regimes are analytical scenarios, not established treaty obligations. **ASML's dominance in EUV lithography** does not mean the Netherlands monopolises every type of chipmaking equipment.
+- Source lists participants/observers inconsistently (including Qatar in prose while its inset retains the earlier list). Do not infer accession from that list or describe all participants as formal US allies; membership, summit participation and invitation remain distinct.
+
 ## PDF coverage
 
-2025-12-13: pp. 8, 9, 10, 11 · 2025-12-14: pp. 21 · 2026-01-13: pp. 6, 7, 8, 9 · 2026-01-18: pp. 6
+2025-12-13: pp. 8, 9, 10, 11 · 2025-12-14: pp. 21 · 2026-01-13: pp. 6, 7, 8, 9 · 2026-01-18: pp. 6 · 2026-01-21: pp. 14, 15, 16, 17

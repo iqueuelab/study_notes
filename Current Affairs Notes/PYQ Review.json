@@ -2217,6 +2217,23 @@
       "issue_date": "2026-01-20",
       "status": "duplicates_and_practice_excluded",
       "detail": "2016 GFSR, 2023 CBDC and 2025 BRICS already banked. ADR Mains 250-word prompt is practice. Added source-labelled 2011 IMF, 2009 Lok Adalat and 2014 spacecraft after full relevant-bank/peer dedup."
+    },
+    {
+      "issue_date": "2026-01-21",
+      "status": "excluded_non_cse",
+      "detail": "Chile copper assertion–reason is explicitly UPPSC 2022, not UPSC CSE."
+    },
+    {
+      "issue_date": "2026-01-22",
+      "reason": "2013 fauna PYQ altered to Critically endangered with incorrect answer; original endangered wording and historical answer c already preserved in common bank. Repeated 2015/2025 peace-prize and 2017 wildlife/habitat questions deduplicated."
+    },
+    {
+      "issue_date": "2026-01-23",
+      "reason": "2022 WHO air-quality question already exists; deduplicated."
+    },
+    {
+      "issue_date": "2026-01-24",
+      "reason": "Unyearred ACC, Kaladi and expressly labelled fisheries practice questions excluded. Genuine 2025 aircraft and 2015 GI questions already exist and are deduplicated."
     }
   ],
   "resolved": [

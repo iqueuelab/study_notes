@@ -682,6 +682,18 @@
         "d": "It can grant loans to the central bank of a country."
       },
       "answer": "c"
+    },
+    {
+      "chapter": "Foreign direct investment: routes, flows and net investment",
+      "year": 2010,
+      "question": "Consider the following countries:\n1. Brazil\n2. Mexico\n3. South Africa\nAccording to UNCTAD, which of the above is/are categorized as “Emerging Economies”?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "d"
     }
   ]
 }
