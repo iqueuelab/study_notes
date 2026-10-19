@@ -2533,6 +2533,43 @@
       ],
       "decision": "no_authentic_pyq",
       "detail": "No additional authentic CSE question; physical March 3 file has March 2 banner on page 1; retained physical source date."
+    },
+    {
+      "date": "2026-03-04",
+      "pages": [
+        9,
+        10,
+        15
+      ],
+      "decision": "practice_excluded",
+      "detail": "250-word/15-mark authored Hormuz prompt and five practice MCQs excluded; Bab-el-Mandeb correct option is d, not printed c."
+    },
+    {
+      "date": "2026-03-04",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "decision": "date_scope",
+      "detail": "Defence contracts signed March3 are reported in physical March4 PDF; retained March4 additions so March3 weekly cutoff does not import later source content."
+    },
+    {
+      "issue_date": "2026-03-06",
+      "pages": [
+        16
+      ],
+      "status": "excluded_practice",
+      "reason": "Six questions explicitly headed UPSC Prelims Practice Question; no actual CSE exam year. Concept explanations retained in topic notes."
+    },
+    {
+      "issue_date": "2026-03-07",
+      "pages": [
+        24,
+        25
+      ],
+      "status": "excluded_practice",
+      "reason": "Practice Sheet covers MIRV, Minuteman, metabolic risks, gravity bombs, Mk48, Finland and ATMP without authentic CSE years; no invented PYQs."
     }
   ],
   "resolved": [

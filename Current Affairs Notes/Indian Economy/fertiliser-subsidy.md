@@ -29,6 +29,12 @@
 - **Urea's controlled-price subsidy is separate**. Existing notes explain company payments linked to verified retail sales; the proposed direct transfer to farmer accounts is not the existing fertiliser DBT mechanism. Procurement affordability, timely DAP/TSP supplies, imported input-price exposure and balanced N:P:K:S use must be weighed against fiscal/soil-water costs.
 - Soil testing, balanced dosing, diversified supply and evidence-based alternatives support reform; organic/nano products cannot be assumed universal substitutes. The PDF's Union List descriptions are inaccurate and should not be used as a constitutional citation for the scheme.
 
+## March 2026: gas and import-price shock
+- Gulf disruption raises feedstock, energy, freight and supply risks for fertilisers. **Natural gas → hydrogen; hydrogen + atmospheric nitrogen → ammonia (Haber–Bosch); ammonia + carbon dioxide → urea, CO(NH₂)₂.** DAP instead combines ammonia and phosphoric acid; phosphate and potash supply concentration creates additional vulnerabilities.
+- Source forecasts **DAP ~US$1,000/t FOB** from ~US$850 and **urea potentially US$1,000/t CFR** if disruption persists beyond several weeks. These were expert scenarios, not verified completed purchases at that level; **FOB excludes the main sea freight, CFR includes it**, so quotations are not directly comparable.
+- FAI's **April–December FY2025–26** comparison: urea sales **31.16m tonnes versus 30.02m (+3.8%)**; production **22.44m (−3%)**; imports **8m (+85.3%)**. These dated industry figures cover different flows; stocks/timing prevent a simple sales=production+imports identity.
+- Rising import costs can increase the subsidy bill while controlled farmer prices cushion immediate transmission. Availability, working capital and later sowing demand matter; higher world prices do not automatically mean the same increase in notified urea MRP. Existing notes retain NBS-versus-urea and company-payment distinctions.
+
 ## PDF coverage
 
-2025-01-07: pp. 15, 16, 17, 18 · 2025-03-23: pp. 15, 16, 17, 18 · 2025-10-29: pp. 8, 9, 10
+2025-01-07: pp. 15, 16, 17, 18 · 2025-03-23: pp. 15, 16, 17, 18 · 2025-10-29: pp. 8, 9, 10 · 2026-03-06: pp. 8, 9, 10, 16

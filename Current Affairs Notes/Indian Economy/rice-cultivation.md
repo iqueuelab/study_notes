@@ -27,6 +27,13 @@
 - HYV release aims at productivity, pest/disease resistance, drought/climate resilience and nutritional security; release alone does not establish adoption or realised yield gains for every variety. Existing notes cover seasons, water stress, methane and diversification.
 - Cultivation ranges in the explainer—roughly **100–150 cm rainfall**, warm humid conditions and often acidic-to-neutral soils—are broad guides, not universal limits. **Standing water is not biologically required throughout every rice system**; water-saving cultivation exists. Boro, Aus and Aman calendars vary regionally.
 
+## March 2026: West Asian shipment disruption
+- Exporters reported stalled **basmati-focused shipments to Iran/West Asia**, stranded consignments, fewer available vessels and sharply higher freight. This is an industry account of disrupted trade, **not a notified Indian export prohibition** or proof all rice shipments everywhere stopped.
+- Association context: around **6m tonnes annual basmati exports**, **70–75%** destined for West Asia, with Iran roughly **1m tonnes**; Saudi Arabia, Iraq and UAE are other major buyers. Reference-year/scope differ from the separate **April–December 2025 all-rice destination totals: West Asia 3.90m/Africa 7.16m tonnes**. Do not label the larger Africa figure basmati alone.
+- Source reports wholesale basmati prices up **10–15% over the previous month** and anticipates further volatility; freight, inventory, export demand and origin prices can move differently. Iran's reported recent stocking may buffer near-term supply without guaranteeing future food security.
+- Exporters sought review of **demurrage**, charges associated with delay beyond allowed time; port/container contractual fees require their specific terms. The clipping's bunker-fuel **US$480→925 “per barrel”** has an unresolved unit error and should not be memorised as a validated oil quotation.
+- Diversified markets/routes, transparent logistics charges, finance and shipment tracking can protect farmer/exporter cash flows; existing notes preserve cultivation and crop-year distinctions.
+
 ## PDF coverage
 
-2025-06-19: pp. 16, 17, 18 · 2025-10-03: pp. 8, 9 · 2025-11-20: pp. 16, 17, 18, 19 · 2026-01-01: pp. 27, 28, 29 · 2026-01-10: pp. 1, 2, 3
+2025-06-19: pp. 16, 17, 18 · 2025-10-03: pp. 8, 9 · 2025-11-20: pp. 16, 17, 18, 19 · 2026-01-01: pp. 27, 28, 29 · 2026-01-10: pp. 1, 2, 3 · 2026-03-06: pp. 11, 12, 16

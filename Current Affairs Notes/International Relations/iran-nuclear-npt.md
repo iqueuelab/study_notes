@@ -20,6 +20,13 @@
 - Iran asserted peaceful-enrichment rights and opposed snapback. Source's October 2025 deadline was prospective diplomatic/legal context, not proof sanctions already reimposed by 25 July.
 - The nuclear-deal question is **CAPF AC 2014**, excluded from CSE banks. A 2014 question cannot refer to the completed 2015 JCPOA; distinguish interim negotiations from the final agreement.
 
+## March 2026: nuclear sites and escalation risks
+- Editorial links **Zaporizhzhia**, under Russian control since **2022**, with renewed threats to Iran's **Fordow, Natanz and Isfahan** facilities. **Bushehr power plant, Tehran research reactor, enrichment and fuel-cycle facilities have different functions/inventories**; damage to an airport in Bushehr is not proof a reactor was hit.
+- Early reports of no detected damage and later reports of damaged Natanz entrances describe evolving assessments. The claim most enriched uranium remained intact is an attributed assessment, not verified accounting of every stockpile or proof Iran possessed a nuclear weapon. Existing notes retain the distinction between enrichment, weaponisation and safeguards.
+- Reactor/spent-fuel damage can release radionuclides such as **caesium-137** and create long-lived health, soil and food-chain risks; release depends on inventory, containment and actual damage. Cyber intrusion/ransomware can also threaten nuclear operations; an attempted breach does not prove theft/control of weapons.
+- **Additional Protocol I Article 56** specifically protects dams, dykes and nuclear electrical generating stations against attacks releasing dangerous forces with severe civilian losses, with narrow conditions/exceptions. It is too broad to call this one identical automatic treaty protection for every enrichment installation; ordinary IHL rules still matter. [ICRC explanation](https://blogs.icrc.org/law-and-policy/2022/10/18/protection-nuclear-power-plants-armed-conflict/).
+- Negotiation, restored inspection/material accountancy and risk reduction are the editorial's preferred response; refugee flows, covert relocation and asymmetric retaliation remain scenarios, not established outcomes.
+
 ## PDF coverage
 
-2025-06-23: pp. 8, 9, 10 · 2025-06-25: pp. 1, 2, 3 · 2025-07-28: pp. 24, 25, 26, 27 · 2025-08-02: pp. 23, 24, 25
+2025-06-23: pp. 8, 9, 10 · 2025-06-25: pp. 1, 2, 3 · 2025-07-28: pp. 24, 25, 26, 27 · 2025-08-02: pp. 23, 24, 25 · 2026-03-06: pp. 13, 14, 15, 16

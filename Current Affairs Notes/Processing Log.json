@@ -7226,17 +7226,52 @@
     {
       "date": "2026-03-04",
       "pdf": "2026/03-March/2026-03-04.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "edfa7e4babdb729965b426c357ca75430012dba41bbd5c96c61a6c677e1f1d83",
+      "pages": 15,
+      "topic_ids": [
+        "defence-acquisition",
+        "science-budget",
+        "strait-hormuz",
+        "strategic-petroleum-reserves"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-06",
       "pdf": "2026/03-March/2026-03-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "e42bfad3c7ee390d28433d7a5da1f0d5f54ffc47b081a526934ff57d903cd860",
+      "pages": 17,
+      "topic_ids": [
+        "childhood-obesity",
+        "fertiliser-subsidy",
+        "iran-nuclear-npt",
+        "morbi-ceramics",
+        "rice-cultivation",
+        "thirumangai-alvar-bronze"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-07",
       "pdf": "2026/03-March/2026-03-07.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "3ec5d090d381fa261a5748157d8c2676f03bc30ec586007700156c6fdada5686",
+      "pages": 25,
+      "topic_ids": [
+        "finland-geography",
+        "gravity-bombs",
+        "metabolic-disease-burden",
+        "minuteman-iii",
+        "mk48-torpedo",
+        "multilateralism",
+        "shakti-semiconductors"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-03-09",
@@ -8235,7 +8270,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2026-03-04",
+  "next_pdf": "2026-03-09",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -8432,6 +8467,11 @@
       "date": "2026-03-01",
       "status": "No standalone or combined issue found",
       "evidence": "Assignment jobs.json records no 2026-03-01 PDF; source collection inventory has no matching daily PDF. No notes or review invented."
+    },
+    {
+      "date": "2026-03-05",
+      "status": "No standalone or combined issue found",
+      "evidence": "Source inventory/jobs.json has no physical PDF dated 5 March; available files dated 6 and 7 March were reviewed. No notes or review invented for the gap."
     }
   ]
 }

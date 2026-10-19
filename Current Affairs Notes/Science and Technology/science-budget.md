@@ -44,6 +44,19 @@
 - Suggested **2% GDP in 5–7 years/private share≥50%** are editorial goals, not notified spending commitments. Priorities: stable multi-year funding, mission research in AI/quantum/semiconductors/materials/green energy, university laboratories and research careers, joint industry chairs/incubators, technology transfer and commercialisation incentives. Basic research and applied finance complement each other.
 - The **₹1 lakh crore RDI fund** is already covered with July approval/November launch, financing/governance distinctions. The unyearred 250-word question is practice: structural weaknesses → evidence → academia–industry/finance/skills reforms → accountable outcomes; exclude from PYQ banks.
 
+## March 2026: proposed R&D disclosure standard
+- Editorial argues that information asymmetry makes investors undervalue hard-to-observe innovation, weakening funding incentives. **Akerlof's 1970 “Market for Lemons”** explains how uncertain quality can drive out higher-quality offerings; applying this to R&D is an analytical analogy.
+- It proposes an R&D/technology-reporting framework under **SEBI LODR 2015**, initially voluntary for two years, then mandatory. This is an **editorial reform proposal**, not an already notified SEBI standard or a compulsory R&D spending quota. Existing financial and company-law disclosures mean India is not a complete reporting vacuum.
+| Proposed disclosure | Purpose |
+|---|---|
+| R&D capital/revenue expenditure, by segment | Separate research investment from broad innovation claims |
+| Patent filings, grants, expiry and maintenance | Assess intellectual-property pipeline and quality |
+| Technology workforce/skills | Show organisational capability |
+| Technology Readiness Levels | Indicate maturity from concept to operational use |
+| Revenue from products introduced in preceding five years | Track commercialisation/innovation turnover |
+- Expected channels: credible information → better valuation/lower financing costs → stronger market discipline and efficient capital allocation. **Corporate R&D ~0.23% GDP** is the editorial's dated estimate, not total national GERD. Its OECD/China/Korea studies and **6–12%/3–14%** effects require study-specific identification; do not present them as a guaranteed Indian policy impact.
+- Good design must protect commercially sensitive/IP information, use comparable definitions, limit compliance burden and guard against inflated patent/TRL counts. Disclosure can improve capital allocation but neither replaces sustained basic-research support nor guarantees innovation. [SEBI disclosure framework](https://www.sebi.gov.in/sebi_data/attachdocs/jan-2026/1769776024792.pdf).
+
 ## PDF coverage
 
-2025-02-11: pp. 15, 16, 17 · 2025-02-12: pp. 17, 18, 19, 20 · 2025-03-07: pp. 4, 5, 6 · 2025-07-02: pp. 26, 27 · 2025-07-03: pp. 20, 21 · 2025-09-27: pp. 8, 9, 10, 11 · 2025-11-04: pp. 4, 5, 6, 7 · 2025-12-29: pp. 18, 19, 20, 21, 22, 23
+2025-02-11: pp. 15, 16, 17 · 2025-02-12: pp. 17, 18, 19, 20 · 2025-03-07: pp. 4, 5, 6 · 2025-07-02: pp. 26, 27 · 2025-07-03: pp. 20, 21 · 2025-09-27: pp. 8, 9, 10, 11 · 2025-11-04: pp. 4, 5, 6, 7 · 2025-12-29: pp. 18, 19, 20, 21, 22, 23 · 2026-03-04: pp. 11, 12, 13, 14, 15
