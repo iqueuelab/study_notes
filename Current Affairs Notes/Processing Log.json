@@ -6281,32 +6281,104 @@
     {
       "date": "2025-12-31",
       "pdf": "2025/12-December/2025-12-31.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "dd1593915c891188e2b52d78964e626114e95ea2ae8474961d92085fa50aaa3f",
+      "pages": 24,
+      "topic_ids": [
+        "apples",
+        "cbam",
+        "cleft-care",
+        "defence-industry",
+        "dhruv",
+        "digital-content",
+        "gdp",
+        "multipolarity"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-01",
       "pdf": "2026/01-January/2026-01-01.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "pages": 29,
+      "sha256": "ec84f76889d025500dc03498e19b9b41c534dae75fbfc8b22fc8cc656bd38317",
+      "topic_ids": [
+        "cannabis-regulation",
+        "desert-cyclone",
+        "export-promotion-mission",
+        "foreign-portfolio-investment",
+        "nimesulide",
+        "pralay",
+        "rice-cultivation",
+        "security-dogs",
+        "space-sector"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-02",
       "pdf": "2026/01-January/2026-01-02.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "pages": 15,
+      "sha256": "c97c9cf0548e9de49d79b02de9d3268776d94791d4c80a782b8e2c848e0bdf82",
+      "topic_ids": [
+        "climate-resilient-agriculture",
+        "dong-sunrise",
+        "india-pakistan-nuclear-lists",
+        "open-ecosystems",
+        "textile-industry"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-03",
       "pdf": "2026/01-January/2026-01-03.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "pages": 23,
+      "sha256": "ac2e4197183de81053a5486df313c323eb1eed5e69a3ce7a141fc530abfbabcf",
+      "topic_ids": [
+        "electronics-components",
+        "rcep-trade-strategy",
+        "solid-waste",
+        "somaliland"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-05",
       "pdf": "2026/01-January/2026-01-05.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "fcdae9aac32d042234c0f1262ba793d2ce673a4c65598fee98980ad96e587c3a",
+      "pages": 20,
+      "topic_ids": [
+        "crude-imports",
+        "disaster-risk-financing",
+        "fighter-aircraft",
+        "olive-ridley",
+        "samudra-pratap",
+        "venezuela-resource-curse"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-06",
       "pdf": "2026/01-January/2026-01-06.pdf",
-      "status": "pending"
+      "status": "reviewed",
+      "sha256": "67298fda69954843049af8ded309498ed962ddfc27caccd3186b6a3f4679310f",
+      "pages": 15,
+      "topic_ids": [
+        "nuclear-liability",
+        "popocatepetl-tomography",
+        "remote-sensing",
+        "uapa"
+      ],
+      "text_reviewed": true,
+      "page_images_reviewed": true
     },
     {
       "date": "2026-01-07",
@@ -7560,7 +7632,7 @@
     }
   ],
   "download_audit": "incomplete; known pending attachments remain separately in Remaining Downloads.json",
-  "next_pdf": "2025-12-31",
+  "next_pdf": "2026-01-07",
   "policy": "Read each PDF fully, inspect images, merge complementary facts by topic; pending files are not summarised.",
   "date_corrections": [
     {
@@ -7712,6 +7784,11 @@
       "date": "2025-12-28",
       "status": "No standalone or combined issue found",
       "evidence": "Assigned 2025-12-28 is listed as missing in jobs.json. Directory inventory of Current Affairs/2025/12-December contains December26,27,29 files, but no December28 standalone or combined-date filename; no combined source covering this date was supplied. No notes invented."
+    },
+    {
+      "date": "2026-01-04",
+      "status": "No standalone or combined issue found",
+      "evidence": "jobs.json assignment10 lists 2026-01-04 missing; collection has no 2026/01-January/2026-01-04.pdf and no inventoried combined issue covering that date. No notes invented."
     }
   ]
 }

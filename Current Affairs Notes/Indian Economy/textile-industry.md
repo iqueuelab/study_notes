@@ -40,6 +40,12 @@
 - Cabinet's **2021** scheme: **seven parks**, **₹4,445 crore original outlay**; integrates spinning, weaving, processing/dyeing, garments, testing, logistics and common infrastructure. **5 F:** farm→fibre→factory→fashion→foreign. Source graphic describes State/Centre SPVs and PPP development; a planned park is not an already completed end-to-end ecosystem.
 - Large integrated sites aim to reduce fragmented logistics and improve competitiveness. Combine anchor investment/MSME links with cotton quality, worker skills/welfare, water and effluent safeguards; physical co-location alone does not ensure global competitiveness.
 
+## April–October 2025: technical-textile export decline
+- Council data reported **US$1.95bn versus US$1.97bn**, a **1.2% dollar decline**; rupee-denominated exports **+2.3%**. Currency basis can change the sign of growth. The PDF links weakness to US tariffs; this is industry attribution, not a quantified causal estimate.
+- Source destinations **US 25.9%, Germany 6%, UK 5%**; exports to US **−15% year-on-year**. **FIBC (flexible intermediate bulk container) bags, slings, ropes, gauze/wipes etc ~60%; technical fabrics 27.7%**. Embedded article reports **October US$249.7m versus US$253.5m**; keep month and seven-month comparisons separate.
+- **Technical textiles are defined by performance/function**, not just fibre: geotextiles for roads/erosion control, medical/protective textiles, packaging, industrial/agro/transport applications. They can use natural or synthetic fibres, woven/nonwoven/knitted structures; cotton/silk/wool are not inherently excluded, contrary to the PDF's comparison.
+- Client-specific specifications limit rapid redirection to other markets; diversification needs certification, design/quality, market intelligence, trade negotiations and domestic demand, alongside scale/logistics. Vietnam/Bangladesh facing weak demand does not by itself mean they could absorb India's exports.
+
 ## PDF coverage
 
-2025-02-28: pp. 8, 9, 10, 11, 12 · 2025-03-31: pp. 2, 3 · 2025-06-08: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-09-17: pp. 5, 6 · 2025-12-26: pp. 11, 12
+2025-02-28: pp. 8, 9, 10, 11, 12 · 2025-03-31: pp. 2, 3 · 2025-06-08: pp. 11, 12, 13, 14, 15, 16, 17, 18 · 2025-09-17: pp. 5, 6 · 2025-12-26: pp. 11, 12 · 2026-01-02: pp. 9, 10, 11

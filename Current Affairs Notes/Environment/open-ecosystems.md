@@ -17,6 +17,13 @@
 - Colonial/postcolonial **wasteland** classifications and the source's **1985 National Wasteland Development Board** reference frame policy bias; naturally open ecosystems should be restored according to ecological baseline, not automatically planted with trees. Source Maharashtra livestock value **₹59,000 crore, 2018–19** is a dated livelihood illustration.
 - PYQ revision: **2019 CAMPA**—National and State authorities, source key **1 only**; this does not erase applicable Gram Sabha/forest-rights obligations in implementation. **2018 Prosopis**—reduces local biodiversity, **(b)**; that question already exists in the common bank.
 
+## Traditional Marathi literature and savanna history
+- Study examines **28 georeferenced excerpts** in biographies, hagiographies, myths, poems and **Dhangar ovīs**, spanning **13th–20th centuries**, to triangulate western Maharashtra's open-canopy landscape history. Literary images plus botanical evidence support **at least ~750 years of savanna presence**, not merely recent colonial deforestation. They do not date every grassland parcel or establish zero human influence. [Research paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.70201).
+- Texts identify **62 plants, 44 wild**, including **27 savanna indicators, 14 generalists, only 3 forest indicators**. Examples **hivara (Vachellia leucophloea), khaira (Senegalia catechu), babhuā (Vachellia nilotica), palasa (Butea monosperma), Sehima nervosum**. Indicators describe habitat associations, not an exhaustive modern biodiversity census.
+- **Vana/jāgala** can denote unsettled wooded grass/scrub landscapes; equating each reference with closed rainforest distorts historical ecology. **Anūpa** describes wetter/marsh/closed-canopy contexts. **16th-century Ādiparva** describes cattle-herders near Baramati, grass/water from **Nira River** and thorny trees; Shinganapur/Vir sacred narratives and pastoral songs connect flora with livelihoods.
+- **Fine-leaf savannas** occupy drier zones up to about **1,000 mm rainfall**, **broadleaf** wetter zones above about **700 mm**, overlapping **700–1,000 mm**; these are regional study descriptions, not universal savanna climate thresholds. Thick bark, spines, resprouting and clonal growth reflect fire/herbivory adaptations.
+- Extend existing restoration principle: use historical ecology and local knowledge before afforestation; protect native open habitats and pastoral access. Natural savanna does not mean every current grazing/fire regime is beneficial.
+
 ## PDF coverage
 
-2025-07-14: pp. 22, 23, 24 · 2025-12-09: pp. 7, 8, 9, 10, 11, 12 · 2025-12-14: pp. 5
+2025-07-14: pp. 22, 23, 24 · 2025-12-09: pp. 7, 8, 9, 10, 11, 12 · 2025-12-14: pp. 5 · 2026-01-02: pp. 3, 4, 5

@@ -1988,6 +1988,159 @@
       ],
       "status": "practice_not_pyq",
       "reason": "DACMCQ is explicitlyPracticeQuestion withoutCSEyear."
+    },
+    {
+      "issue_date": "2025-12-31",
+      "pages": [
+        20,
+        21
+      ],
+      "status": "practice_not_pyq",
+      "reason": "Cleftcare250wordprompt isDailyMainsPractice withoutCSEyear."
+    },
+    {
+      "date": "2026-01-01",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "status": "reviewed",
+      "evidence": "Reviewed full extracted text and every rendered page image, including embedded clippings/maps/infographics. Undated Mains prompts retained as practice only. Jan3 final page23 is blank branded page."
+    },
+    {
+      "date": "2026-01-02",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "status": "reviewed",
+      "evidence": "Reviewed full extracted text and every rendered page image, including embedded clippings/maps/infographics. Undated Mains prompts retained as practice only. Jan3 final page23 is blank branded page."
+    },
+    {
+      "date": "2026-01-03",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "status": "reviewed",
+      "evidence": "Reviewed full extracted text and every rendered page image, including embedded clippings/maps/infographics. Undated Mains prompts retained as practice only. Jan3 final page23 is blank branded page."
+    },
+    {
+      "date": "2026-01-03",
+      "pages": [
+        15,
+        16
+      ],
+      "status": "existing_duplicate",
+      "evidence": "2016 RCEP/ASEAN complete question is already in International Relations common Prelim bank; no duplicate appended."
+    },
+    {
+      "date": "2026-01-03",
+      "pages": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "status": "verified_new_pyqs",
+      "evidence": "Official UPSC2023 PDF downloaded and text reviewed: Set A Q78 famine, Q97 conflict pairs, Q98 coups. Official UPSC2022 PDF downloaded; rendered page37 Set A Q82 visually confirms full Bidibidi question/options. Four complete questions appended; source answers retained. Official papers: https://www.upsc.gov.in/sites/default/files/QP_CS_Pre_Exam_2023_280523.pdf and https://www.upsc.gov.in/sites/default/files/GENERAL%20STUDIES%20PAPER%20I.pdf"
+    },
+    {
+      "issue_date": "2026-01-05",
+      "pages": [
+        3
+      ],
+      "status": "excluded_non_cse",
+      "reason": "Operation Olivia question identified on page image as NDA 02/2021, not Civil Services Examination."
+    },
+    {
+      "issue_date": "2026-01-05",
+      "pages": [
+        12,
+        17
+      ],
+      "status": "existing_bank_duplicates",
+      "reason": "2024 Venezuela, 2025 Andes and 2024 fighter-generation questions already present in subject common PYQ banks; explanations retained in topics."
+    },
+    {
+      "issue_date": "2026-01-06",
+      "pages": [
+        8
+      ],
+      "status": "existing_bank_duplicate",
+      "reason": "Complete 2019 UAPA/NIA mains question 250 words/15 marks already banked."
+    },
+    {
+      "issue_date": "2026-01-06",
+      "pages": [
+        3,
+        4
+      ],
+      "status": "resolved_original_paper",
+      "year": 2024,
+      "question": "Consider the following:\n1. Pyroclastic debris\n2. Ash and dust\n3. Nitrogen compounds\n4. Sulphur compounds\nHow many of the above are products of volcanic eruptions?",
+      "reason": "Root inspected saved official UPSC CSE 2024 GS-I booklet A, question 3, physical page 3. Full options restored: Only one/Only two/Only three/All four. Complete bank entry added; official answer key not checked, so answer withheld. Conceptual explanation includes volcanic nitrogen compounds with primary research."
     }
   ],
   "resolved": [

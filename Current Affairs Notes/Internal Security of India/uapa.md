@@ -21,6 +21,13 @@
 - **2019 mains PYQ (250 words, 15 marks)**: evaluate UAPA/NIA amendments against the security setting and rights objections. Discuss individual designation, NIA investigation/seizure powers, financing and cross-border threats alongside evidence, due process, bail/trial delay and independent oversight.
 - Original **11 March 2025** government declarations specified **five-year bans** under section 3(1); confirmation is a later review step. [MHA declaration record](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2110470&lang=2&reg=48).
 
+## 5 January 2026: differentiated bail in the Delhi-riots conspiracy case
+- Supreme Court denied bail to **Umar Khalid and Sharjeel Imam** while granting conditional bail to **Gulfisha Fatima, Meeran Haider, Shifa-ur-Rehman, Mohd. Saleem Khan and Shadab Ahmed**. The Court distinguished alleged roles in the prosecution's hierarchy; these are **bail-stage assessments, not findings of guilt after trial**. [Supreme Court judgment](https://api.sci.gov.in/supremecourt/2025/50992/50992_2025_16_1502_67204_Judgement_05-Jan-2026.pdf).
+- **Section 43D(5)** concerns specified Chapters IV/VI offences and a court finding reasonable grounds for believing accusations prima facie true after the prescribed assessment; it does not abolish judicial inquiry or require a full trial at the bail stage. Individual role and record matter; prolonged custody is a constitutional concern, not an automatic identical outcome for every co-accused.
+- Editorial criticises **about five years in custody**, unframed charges/roughly **700 witnesses**, and potential chilling of lawful protest. Distinguish these editorial arguments from holdings: **peaceful protest or ordinary messaging-group membership alone does not establish a terrorist act**. Section 15 has statutory intent/means/consequence requirements; the article's shorthand “any threatened disruption” is too broad.
+- Constitutional evaluation: **Article 21 liberty and speedy trial; Article 19 speech/assembly**, balanced with lawful counter-terrorism. Rationalise evidence/witness lists, prevent unnecessary delay, scrutinise individual attribution and apply reasoned periodic review.
+- Supplement repeats errors corrected in core notes: UAPA criminal investigation/remand is **not preventive detention**, individual designation **not automatic arrest/conviction**, and 2019 individual-listing powers do not by themselves prove every listed person's guilt. Existing **2019 mains PYQ, 250 words/15 marks**, already banked; discuss security needs, investigative changes and rights objections with these distinctions.
+
 ## PDF coverage
 
-2025-01-10: pp. 15, 16, 17, 26, 30 · 2025-03-01: pp. 14, 15, 16, 17 · 2025-09-20: pp. 6, 7, 8
+2025-01-10: pp. 15, 16, 17, 26, 30 · 2025-03-01: pp. 14, 15, 16, 17 · 2025-09-20: pp. 6, 7, 8 · 2026-01-06: pp. 4, 5, 6, 7, 8

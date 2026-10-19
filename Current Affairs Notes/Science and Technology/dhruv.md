@@ -29,6 +29,11 @@
 - Development began **1984** with German **MBB** technical assistance; first flight **1992**, service introduction **2002**. Military certification **CEMILAC**, civil certification **DGCA**, production assurance **DGAQA** have different responsibilities.
 - Source **73-helicopter 2017 orders** cover Army/Navy/Coast Guard variants; retain as dated procurement context. Crashworthy airframe, composites, glass cockpit and high-altitude capability do not remove all risks. Helmet pointing, countermeasures and inert-gas systems are variant/mission-specific rather than identical on every Dhruv.
 
+## 30 December 2025: Dhruv NG civil inaugural flight
+- **HAL's 5.5 tonne, twin-engine, multi-role Dhruv NG civil variant** made its inaugural flight at Bengaluru. Intended civil roles include medical evacuation, tourism, disaster response and offshore operations. This milestone is not proof commercial service or every prospective customer purchase completed.
+- Event included **DGCA certification for indigenous manufacture of the Shakti civil engine**; engine-manufacturing certification does not itself prove completion of every aircraft type-certification step. **Shakti is HAL–Safran collaboration**, not evidence every engine component or technology is wholly Indian. [Public broadcaster's event report](https://newsonair.gov.in/civil-aviation-minister-ram-mohan-naidu-to-flag-off-inaugural-dhruv-ng-helicopter-flight-in-bengaluru/).
+- Avoid the worksheet's absolute 'HAL first entered civil aviation': HAL already had civil aircraft/helicopter activity. This is a new civil variant/expansion milestone. Production quality, safety certification, lifecycle support and affordability determine adoption.
+
 ## PDF coverage
 
-2025-01-18: pp. 42, 43, 44 · 2025-01-27: pp. 4, 5, 6, 7, 8, 9 · 2025-05-02: pp. 24, 25, 26
+2025-01-18: pp. 42, 43, 44 · 2025-01-27: pp. 4, 5, 6, 7, 8, 9 · 2025-05-02: pp. 24, 25, 26 · 2025-12-31: pp. 9, 10, 11

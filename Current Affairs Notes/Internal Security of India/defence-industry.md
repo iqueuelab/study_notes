@@ -94,6 +94,11 @@
 - Precision strike, counter-drone detection/interdiction, harbour handling, maritime surveillance, training and secure communications serve distinct roles. **AoN approves need/procurement proposals; it does not establish signed contracts, delivery or induction.** The identical₹79,000 crore October headline concerned different systems and must not be merged as the same meeting.
 - Source's DAC MCQ is unyearred practice: neither claim correct—DAC is chaired by Defence Minister, not CDS; service/designated agencies conduct trials. Do not enter it as an authentic PYQ.
 
+## 30 December 2025: signed carbine and torpedo contracts
+- **₹4,666 crore signed contracts**: **over 4.25 lakh CQB carbines/accessories, ₹2,770 crore, Bharat Forge+PLR Systems**, Army/Navy; **48 heavyweight torpedoes/equipment/integration, about₹1,896 crore, WASS Submarine Systems, Italy**, for six Kalvari-class P75 submarines. Torpedo deliveries planned **April 2028→early 2030**. [MoD](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209832&lang=2&reg=48).
+- Compact carbines aid confined-space infantry operations; torpedoes improve undersea strike/sea denial. Domestic carbine contracts and imported torpedoes show different supply arrangements; do not label the whole procurement indigenous.
+- Source-period FY 2025–26 capital contracts **₹1,82,492 crore** is a cumulative signed-contract value, not delivered inventory or annual expenditure. Signed contracts remain distinct from preceding DAC AoNs and later induction.
+
 ## PDF coverage
 
-2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4 · 2025-05-30: pp. 11, 12, 13 · 2025-06-07: pp. 16, 17, 18, 19 · 2025-07-04: pp. 7 · 2025-09-24: pp. 7, 8 · 2025-10-24: pp. 8, 9, 10 · 2025-12-23: pp. 12, 13, 14 · 2025-12-30: pp. 13, 14, 15, 16
+2025-01-01: pp. 22, 23, 24 · 2025-01-02: pp. 7, 8, 9, 10, 11 · 2025-01-11: pp. 8, 9, 10, 11, 12, 20, 21 · 2025-01-13: pp. 18, 19, 20 · 2025-01-23: pp. 5, 6 · 2025-01-25: pp. 13 · 2025-02-10: pp. 13, 14, 15, 16, 17, 18 · 2025-02-11: pp. 7, 8, 9, 10, 11 · 2025-02-25: pp. 1, 2, 3, 4, 5 · 2025-03-06: pp. 4 · 2025-05-30: pp. 11, 12, 13 · 2025-06-07: pp. 16, 17, 18, 19 · 2025-07-04: pp. 7 · 2025-09-24: pp. 7, 8 · 2025-10-24: pp. 8, 9, 10 · 2025-12-23: pp. 12, 13, 14 · 2025-12-30: pp. 13, 14, 15, 16 · 2025-12-31: pp. 6, 7, 8

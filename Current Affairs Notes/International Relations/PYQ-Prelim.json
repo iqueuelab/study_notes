@@ -371,6 +371,54 @@
         "d": "2, 3 and 4 only"
       },
       "answer": "c"
+    },
+    {
+      "chapter": "Somaliland: recognition, sovereignty and Horn of Africa geography",
+      "year": 2022,
+      "question": "Consider the following statements:\n1. Bidibidi is a large refugee settlement in north-western Kenya.\n2. Some people who fled from South Sudan civil war live in Bidibidi.\n3. Some people who fled from civil war in Somalia live in Dadaab refugee complex in Kenya.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "answer": "c"
+    },
+    {
+      "chapter": "Somaliland: recognition, sovereignty and Horn of Africa geography",
+      "year": 2023,
+      "question": "Which one of the following countries has been suffering from decades of civil strife and food shortages and was in news in the recent past for its very severe famine?",
+      "options": {
+        "a": "Angola",
+        "b": "Costa Rica",
+        "c": "Ecuador",
+        "d": "Somalia"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Somaliland: recognition, sovereignty and Horn of Africa geography",
+      "year": 2023,
+      "question": "Consider the following pairs:\nArea of conflict mentioned in news — Country where it is located\n1. Donbas — Syria\n2. Kachin — Ethiopia\n3. Tigray — North Yemen\nHow many of the above pairs are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "answer": "d"
+    },
+    {
+      "chapter": "Somaliland: recognition, sovereignty and Horn of Africa geography",
+      "year": 2023,
+      "question": "In the recent years Chad, Guinea, Mali and Sudan caught the international attention for which one of the following reasons common to all of them?",
+      "options": {
+        "a": "Discovery of rich deposits of rare earth elements",
+        "b": "Establishment of Chinese military bases",
+        "c": "Southward expansion of Sahara Desert",
+        "d": "Successful coups"
+      },
+      "answer": "d"
     }
   ]
 }

@@ -26,6 +26,13 @@
 - Beach patrols, anti-poaching work and community/scientist cooperation complement habitat and fishing safeguards. Reduce bright lighting, touching/handling turtles, disturbance and inappropriate tourist access. Relocation/artificial incubation should follow evidence-based protocols and monitor hatching/sex ratios.
 - The source's claim that rescuing weak hatchlings necessarily reduces genetic resilience is an **argument, not an established conservation rule**. Prioritise natural habitat and qualified management while avoiding unnecessary interference. Likewise its global “30–50% decline since 1960” needs a defined population/assessment baseline.
 
+## January 2026: Andhra Pradesh nesting-season deaths
+- Three adult carcasses were reported near **Muthyalammapalem, Thantadi and Rajanapalem**, Visakhapatnam–Anakapalli coast. Fishing-net entanglement was the **suspected cause**, not an established post-mortem finding. Air-breathing turtles can drown when gear prevents surfacing; **40–45 minutes is a reported interval, not an invariant physiological limit**.
+- The clipping calls for enforcement of the **Andhra Pradesh Marine Fishing Regulation Act**, including reported restrictions on mechanised fishing within **8 km**. Treat this as the report's local enforcement concern, not a universal all-India prohibition on every fishing boat.
+- Nesting typically **December–April** locally; proposed planting near beaches also needs ecological scrutiny to retain suitable open sandy nesting habitat. Bycatch prevention, TEDs, seasonal enforcement, community monitoring, appropriate hatchery protocols and coastal-light controls work together.
+- Repeated status/biology/Operation Olivia material is already covered: **Vulnerable / Schedule I / CITES I**; Coast Guard operation runs **November–May**, not just November–December. The source's **6.98-lakh** nesting graphic refers to the already recorded **Rushikulya February 2025** record, not a new January Andhra Pradesh count. Nest temperature, rather than ocean temperature alone, governs hatchling sex ratios.
+- Embedded Operation Olivia question is **NDA 02/2021**, not CSE; answer **Indian Coast Guard**, excluded from CSE PYQ banks. Supplementary turtle graphic contains dated/conflated global statuses and is not a replacement for species/population-specific assessments.
+
 ## PDF coverage
 
-2025-02-22: pp. 7, 8, 9 · 2025-05-20: pp. 1, 2, 3 · 2025-05-21: pp. 14, 15, 16, 17
+2025-02-22: pp. 7, 8, 9 · 2025-05-20: pp. 1, 2, 3 · 2025-05-21: pp. 14, 15, 16, 17 · 2026-01-05: pp. 1, 2, 3

@@ -246,6 +246,17 @@
         "d": "Zambezi"
       },
       "answer": "d"
+    },
+    {
+      "year": 2024,
+      "chapter": "Popocatépetl: seismic tomography and volcanic hazards",
+      "question": "Consider the following:\n1. Pyroclastic debris\n2. Ash and dust\n3. Nitrogen compounds\n4. Sulphur compounds\nHow many of the above are products of volcanic eruptions?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All four"
+      }
     }
   ]
 }

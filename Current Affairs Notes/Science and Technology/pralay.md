@@ -15,6 +15,11 @@
 - **Research Centre Imarat** led development with DRDO laboratories, **BDL/BEL**, industry and MSMEs. Quasi-ballistic guidance/manoeuvring, road mobility, solid propellant and varied conventional warheads support precision battlefield strikes.
 - Practice MCQ's answer text **1 and 3 only** corresponds to **option C**, despite the printed answer letter A; it is a practice question, not a UPSC PYQ.
 
+## 31 December 2025: two-missile salvo
+- **DRDO launched two Pralay missiles in quick succession from the same launcher**, off Odisha at about **10:30**, during **user evaluation trials**. ITR Chandipur tracked both trajectories; shipborne telemetry confirmed terminal events. This validates the tested salvo, without establishing universal deployment or a guarantee of defeating every missile defence. [Defence Ministry](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210128&lang=2&reg=48).
+- Existing notes cover solid propulsion, quasi-ballistic manoeuvring, mobile launch, conventional battlefield role, **150–500 km** reported range and RCI/BDL/BEL participation. Quasi-ballistic manoeuvring can complicate interception; ballistic missiles are not all perfectly fixed parabolas.
+- Do not memorise the PDF's **Mach 6.1, CEP <10 m or 500–1,000 kg payload** as verified specifications: this official salvo release does not establish them, and the embedded “two-stage/Mach 1–1.6” diagram is inconsistent. Accuracy alone cannot guarantee minimal collateral harm; conventional strikes can still escalate conflict.
+
 ## PDF coverage
 
-2025-01-24: pp. 1, 2, 3 · 2025-07-30: pp. 1, 2, 3 · 2025-08-02: pp. 49, 50, 51
+2025-01-24: pp. 1, 2, 3 · 2025-07-30: pp. 1, 2, 3 · 2025-08-02: pp. 49, 50, 51 · 2026-01-01: pp. 6, 7, 8, 9

@@ -11,6 +11,10 @@
 - **Orinoco drains to Atlantic; Rio Negro belongs to Amazon system**, linked across basins by the Casiquiare channel. **Lake Maracaibo** connects with Gulf of Venezuela; **Guri** is a hydroelectric reservoir. **Pico Bolívar** is highest peak; **Angel Falls** descends from a tepui in Guiana Highlands.
 - PYQs already banked: **2024 Venezuela(d)**—large oil reserves do not establish recovery/stopped emigration; **2025 Andes(c), four listed countries: Bolivia, Colombia, Ecuador, Venezuela**, excluding Brazil/Paraguay.
 
+## January 2026: qualifications to repeated Venezuela revision
+- The resource-curse analysis, dated oil figures, PDVSA/sanctions background, physical map and **2024 Venezuela / 2025 Andes PYQs** repeat the December entry without a new measured series; retain that common explanation and coverage.
+- **Maracaibo connects to the Gulf of Venezuela and has lagoon/estuarine characteristics**; “largest lake in South America” depends on classification. Source historical hyperinflation/migration figures and the unsupported “no other country” income-reversal superlative must not become newly established January 2026 findings.
+
 ## PDF coverage
 
-2025-12-29: pp. 9, 10, 11, 12, 13, 14, 15, 16
+2025-12-29: pp. 9, 10, 11, 12, 13, 14, 15, 16 · 2026-01-05: pp. 6, 7, 8, 9, 10, 11, 12

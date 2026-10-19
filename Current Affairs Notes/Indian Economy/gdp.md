@@ -39,6 +39,12 @@
 - Rebasing/revised methodology expected in **2026** was prospective at this issue date. Better business/household surveys, timely administrative data, transparent assumptions, revision policies and independent statistical capacity matter as well as changing a base year.
 - Editorial calls for critical media scrutiny, distribution/job-quality context and informed debate; its ‘only one newspaper reported this’ is a coverage claim, not an exhaustive verified media census. GDP growth alone does not describe informal-worker welfare or validate the estimation method.
 
+## 31 December 2025: fourth-largest-economy claim
+- Government/source claims nominal GDP about **$4.18 trillion**, above Japan and behind US, China, Germany; **third by around 2030/$7.3 trillion** is a projection. Existing notes explain that the 2025 ranking originates in nominal-dollar forecast comparisons and depends on exchange rates, reference periods and revisions; it is not proof of an audited completed calendar-year outcome or per-capita welfare rank.
+- Source real-growth sequence **Q4 FY 2024–25 7.4%, Q1 FY 2025–26 7.8%, Q2 8.2%** refers to different quarters in then-published series. Domestic consumption, credit/public capex, services and digital/institutional reforms are discussed drivers; the source's falling-unemployment/exports/inflation assertions need their own series/timebases.
+- Institutional forecasts cited **WB 6.5%, IMF 6.6%(2025)/6.2%(2026), OECD 6.7%, ADB 7.2%, Fitch 7.4% FY 26** differ in vintage/fiscal/calendar and are projections, not interchangeable observed rates. Do not infer a single verified consensus forecast from this list.
+- Total GDP scale must be assessed with jobs, distribution, health, education and environmental sustainability. The government's developed-country 2047 aspiration should not be mechanically recast as a formally adopted World Bank 'high-middle-income' classification target.
+
 ## PDF coverage
 
-2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17 · 2025-07-27: pp. 1, 2, 3, 4 · 2025-10-14: pp. 1, 2, 3, 4 · 2025-12-13: pp. 6, 7, 8 · 2025-12-14: pp. 21
+2025-05-31: pp. 7, 8, 9, 10, 11, 12, 13, 14, 15 · 2025-06-02: pp. 10, 11, 12, 13, 14, 15, 16, 17 · 2025-07-27: pp. 1, 2, 3, 4 · 2025-10-14: pp. 1, 2, 3, 4 · 2025-12-13: pp. 6, 7, 8 · 2025-12-14: pp. 21 · 2025-12-31: pp. 4, 5, 6

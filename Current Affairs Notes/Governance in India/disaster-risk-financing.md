@@ -23,6 +23,12 @@
 - [FEMA assessment guidance](https://www.fema.gov/sites/default/files/documents/fema_rd_pda-guide_07012025.pdf), [Mexico Finance Ministry](https://www.gob.mx/shcp/prensa/nota-informativa-349793?idiom=es-MX).
 - Reform agenda: publish assessments/releases and reasons; update norms transparently; refine hazard/climate/vulnerability measures; combine predictable grants and appropriate risk transfer; strengthen local preparedness, audits and grievance mechanisms. Faster rules should retain accountability, not substitute unchecked post-audit for every safeguard. **Practice mains** is unyearred, so excluded from PYQ banks.
 
+## January 2026: disaster losses as fiscal risk
+- OECD-based source chart estimates India's **average annual recorded disaster damage at about 0.4% of GDP, 1990–2024**. This is a historical average ratio, not an identical loss every year, not a forecast, and not a licence to multiply today's GDP to recreate the historical rupee series. Recorded direct damage can omit wider welfare, health and indirect output losses.
+- Source describes Emerging Asia at **roughly 100 disasters / 80 million people affected annually**; chart country composition/time windows vary. India faces substantial flood/storm losses; China leads the chart's absolute disaster count. Frequency, intensity, reported damage and risk-index ranking are distinct measures; greater exposure/assets and reporting changes also raise measured losses.
+- Its **second-highest Asian World Risk Index position after the Philippines** is a source-chart snapshot without a clearly specified index edition, not a timeless current rank. Risk combines exposure with vulnerability, including susceptibility, coping and adaptation capacity; the PDF's additive slogan is not the index's formal formula. Lower historical geophysical damage share does not make Indian seismic risk negligible.
+- Fiscal response: prevention/adaptation and resilient infrastructure, contingency budgets, insurance/parametric cover and catastrophe bonds, alongside recovery finance. Match financing layers to hazard frequency/severity, affordability and basis risk; Sendai resilience goals link development planning with fiscal protection. Existing Indian fund architecture remains covered above.
+
 ## PDF coverage
 
-2025-10-06: pp. 9, 10, 11, 12 · 2025-11-29: pp. 11, 12, 13, 14, 15, 16
+2025-10-06: pp. 9, 10, 11, 12 · 2025-11-29: pp. 11, 12, 13, 14, 15, 16 · 2026-01-05: pp. 18, 19
