@@ -1,6 +1,6 @@
 """Render editable Ancient & Medieval History chapter Markdown to responsive HTML."""
 from pathlib import Path
-import ast,html,re
+import ast,html,re,sys
 from urllib.parse import quote
 ROOT=Path(__file__).resolve().parents[1]
 SUBJECT=ROOT/'Ancient & Medieval History'
@@ -18,6 +18,9 @@ css+='@media(max-width:600px){td[data-label]:before{content:attr(data-label) ": 
 for chapter in sorted(SUBJECT.iterdir()):
  source=chapter/'Quick Revision Notes.md'
  if not chapter.is_dir() or not source.exists() or chapter.name.startswith('01.'):continue
+ if len(sys.argv)>1 and not chapter.name.startswith(sys.argv[1].zfill(2)+'.'):continue
+ existing=chapter/'Quick Revision Notes.html'
+ page_css=re.search(r'<style>(.*?)</style>',existing.read_text(),re.S)[1] if existing.exists() else css
  text=source.read_text();title=text.splitlines()[0].lstrip('# ').strip();diagrams=[]
  def diagram(match):
   fields=[x.strip() for x in match[1].split('|')];index=len(diagrams)
@@ -25,6 +28,8 @@ for chapter in sorted(SUBJECT.iterdir()):
   diagrams.append(figure);return 'DIAGRAMPLACEHOLDER'+str(index)
  text=re.sub(r'<!-- flow:(.*?) -->',diagram,text)
  body=namespace['render'](text)
+ body=re.sub(r'(<h3>\d{4}.*?)(?=<h[23]>|$)',r'<section class="answer-block">\1</section>',body,flags=re.S)
+ if '.answer-block{' not in page_css:page_css+=' .answer-block{break-inside:avoid}'
  for i,figure in enumerate(diagrams):body=body.replace('<p>DIAGRAMPLACEHOLDER'+str(i)+'</p>',figure)
  def labelled_table(match):
   table=match[0];headers=re.findall(r'<th>(.*?)</th>',table,re.S)
@@ -32,13 +37,13 @@ for chapter in sorted(SUBJECT.iterdir()):
   def row(m):
    cells=re.findall(r'<td>(.*?)</td>',m[0],re.S)
    if not cells:return m[0]
-   return '<tr>'+''.join('<td'+(' data-label="'+html.escape(re.sub('<.*?>','',headers[i]),quote=True)+'"' if i else '')+'>'+cell+'</td>' for i,cell in enumerate(cells))+'</tr>'
+   return '<tr>'+''.join('<td'+(' data-label="'+html.escape(html.unescape(re.sub('<.*?>','',headers[i])),quote=True)+'"' if i else '')+'>'+cell+'</td>' for i,cell in enumerate(cells))+'</tr>'
   return re.sub(r'<tr>.*?</tr>',row,table,flags=re.S)
  body=re.sub(r'<table>.*?</table>',labelled_table,body,flags=re.S)
  body=re.sub(r'<table>(<tr>.*?</tr>)(.*?)</table>',r'<table><thead>\1</thead><tbody>\2</tbody></table>',body,flags=re.S)
  pdf={'02':'Harappan Civilisation.pdf','03':'The Vedic Age.pdf','04':'The Mahajanapadas.pdf','05':'Buddhism and Jainism.pdf'}.get(chapter.name[:2],title+'.pdf')
  controls='<div class="controls"><button onclick="window.print()">Print / Save as PDF</button><a href="Quick%20Revision%20Notes.md">Editable notes</a><a href="'+quote(pdf)+'">Download PDF</a><a href="../Chronology.html">History timeline</a></div>'
- chapter_css=css+('@media print{td,th{padding:5pt}}' if chapter.name[:3] in {'04.','05.'} else '')
+ chapter_css=page_css+('@media print{td,th{padding:5pt}}' if chapter.name[:3] in {'04.','05.'} else '')
  page='<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+html.escape(title)+'</title><style>'+chapter_css+'</style></head><body><main>'+controls+body+'</main></body></html>'
  (chapter/'Quick Revision Notes.html').write_text(page)
  print('Rendered',chapter.name)

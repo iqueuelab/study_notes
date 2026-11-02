@@ -30,6 +30,24 @@
       "short_label": "C5",
       "title": "Buddhism and Jainism",
       "notes": "05. Buddhism and Jainism/Quick Revision Notes.html"
+    },
+    "6": {
+      "label": "Chapter 6",
+      "short_label": "C6",
+      "title": "The Maurya Empire",
+      "notes": "06. The Maurya Empire (c 324-187BCE)/Quick Revision Notes.html"
+    },
+    "15": {
+      "label": "Chapter 15",
+      "short_label": "C15",
+      "title": "Bhakti and Other Important Religious Movements",
+      "notes": "15. Bhakti and Other Important Religious Movements/Quick Revision Notes.html"
+    },
+    "16": {
+      "label": "Chapter 16",
+      "short_label": "C16",
+      "title": "The Advent of Europeans",
+      "notes": "16. The Advent of Europeans/Quick Revision Notes.html"
     }
   },
   "eras": [
@@ -51,12 +69,32 @@
     {
       "start": 1,
       "end": 1499,
-      "label": "1–1499 CE · Historical sources referenced"
+      "label": "1–1499 CE · Religious traditions and historical sources"
     },
     {
       "start": 1500,
+      "end": 1706,
+      "label": "1500–1706 · Devotional traditions and maritime trade"
+    },
+    {
+      "start": 1707,
+      "end": 1765,
+      "label": "1707–1765 · Rivalry and Company revenue power"
+    },
+    {
+      "start": 1766,
+      "end": 1818,
+      "label": "1766–1818 · Wars and subsidiary dependence"
+    },
+    {
+      "start": 1819,
+      "end": 1899,
+      "label": "1819–1899 · Annexations, resistance and historical research"
+    },
+    {
+      "start": 1900,
       "end": 3000,
-      "label": "1500 onwards · Archaeological discoveries and research"
+      "label": "1900 onwards · Archaeology and later developments"
     }
   ],
   "events": [
@@ -497,7 +535,8 @@
       "summary": "Later traditions connect a twelve-year Magadhan famine, Bhadrabahu’s movement south and Chandragupta Maurya’s Jaina renunciation at Shravanabelagola. Not an independently established exact itinerary or a single instantaneous sectarian split.",
       "category": "Religious history",
       "chapters": [
-        "5"
+        "5",
+        "6"
       ],
       "end_year": -201
     },
@@ -582,7 +621,8 @@
       "summary": "Campaign through the northwest and Punjab, return down the Indus and land/sea withdrawal. Resistance extended beyond Porus; no Magadha conquest.",
       "category": "Military campaign",
       "chapters": [
-        "4"
+        "4",
+        "6"
       ],
       "end_year": -325
     },
@@ -616,8 +656,22 @@
       "summary": "His death is followed by successor struggles; Seleucus was not immediately appointed ruler of all northwestern India during the Indian retreat.",
       "category": "Political change",
       "chapters": [
-        "4"
+        "4",
+        "6"
       ]
+    },
+    {
+      "id": "maurya-chandragupta-maurya-s-reign",
+      "start_year": -321,
+      "date_label": "c.321–297 BCE",
+      "title": "Chandragupta Maurya’s reign",
+      "summary": "Approximate conventional dates; Nanda overthrow, north-western consolidation, Seleucus agreement and Pataliputra court.",
+      "category": "Reign",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false,
+      "end_year": -297
     },
     {
       "id": "maurya-foundation",
@@ -627,8 +681,48 @@
       "summary": "Overthrow of the Nandas, traditionally with Kautilya's assistance; slightly different accession dates occur in scholarship.",
       "category": "Political change",
       "chapters": [
-        "4"
+        "4",
+        "6"
       ]
+    },
+    {
+      "id": "maurya-mauryan-imperial-period",
+      "start_year": -321,
+      "date_label": "c.321–185 BCE",
+      "title": "Mauryan imperial period",
+      "summary": "Common approximate reconstruction; chapter uses c.324–187 BCE. Political control varied by region.",
+      "category": "Dynasty",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false,
+      "end_year": -185
+    },
+    {
+      "id": "maurya-chandragupta-seleucus-conflict-and-settlement",
+      "start_year": -305,
+      "date_label": "c.305–303 BCE",
+      "title": "Chandragupta–Seleucus conflict and settlement",
+      "summary": "Territorial and diplomatic settlement; 500 elephants for Seleucus; exact marriage and boundary details debated.",
+      "category": "Treaty",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false,
+      "end_year": -303
+    },
+    {
+      "id": "maurya-megasthenes-at-the-mauryan-court",
+      "start_year": -303,
+      "date_label": "c.303–297 BCE",
+      "title": "Megasthenes at the Mauryan court",
+      "summary": "Broad conventional setting after Seleucus settlement; Indica survives in later authors, not the original.",
+      "category": "Cultural exchange",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false,
+      "end_year": -297
     },
     {
       "id": "amaravati-stupa-development",
@@ -650,7 +744,8 @@
       "summary": "Northwestern Kharoshthi inscriptions and possible Persian connections in Mauryan royal display; bell-shaped capitals belong to pillars, not rock edicts.",
       "category": "Cultural exchange",
       "chapters": [
-        "4"
+        "4",
+        "6"
       ],
       "end_year": -201
     },
@@ -662,7 +757,8 @@
       "summary": "Sri Lankan chronicles associate Mahinda and Sanghamitta with Sri Lanka; Sona/Uttara with Suvarnabhumi, Mahadeva with Mahishamandala, Majjhima with Himalayan region, Dhammarakkhita with Aparantaka and Maharakkhita with Yona country. Exact destination boundaries are debated.",
       "category": "Religious history",
       "chapters": [
-        "5"
+        "5",
+        "6"
       ],
       "end_year": -201
     },
@@ -674,7 +770,8 @@
       "summary": "Third-century BCE inscriptions at Barabar and Nagarjuni, associated with Ashoka and Dasharatha, provide important evidence for Ajivika patronage beyond rival textual accounts.",
       "category": "Institutional history",
       "chapters": [
-        "5"
+        "5",
+        "6"
       ],
       "end_year": -201
     },
@@ -686,7 +783,8 @@
       "summary": "The Great Stupa began with an Ashokan-period brick nucleus; later enlargements, stone casing and gateways belong to further building phases.",
       "category": "Architecture",
       "chapters": [
-        "5"
+        "5",
+        "6"
       ],
       "end_year": -201
     },
@@ -704,6 +802,105 @@
       "end_year": 300
     },
     {
+      "id": "maurya-bindusara-s-reign",
+      "start_year": -297,
+      "date_label": "c.297–273 BCE",
+      "title": "Bindusara’s reign",
+      "summary": "Approximate conventional chronology; Amitrochates/Amitraghata, southern consolidation and diplomatic contacts.",
+      "category": "Reign",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false,
+      "end_year": -273
+    },
+    {
+      "id": "maurya-ashoka-s-accession-and-consecration-traditions",
+      "start_year": -273,
+      "date_label": "c.273–268 BCE",
+      "title": "Ashoka’s accession and consecration traditions",
+      "summary": "Alternative chronologies distinguish accession c.273 and later consecration c.268; succession stories are literary traditions.",
+      "category": "Succession",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false,
+      "end_year": -268
+    },
+    {
+      "id": "maurya-ashoka-s-consecrated-reign",
+      "start_year": -268,
+      "date_label": "c.268–232 BCE",
+      "title": "Ashoka’s consecrated reign",
+      "summary": "Conventional chronology used for regnal-year reference; dates remain approximate.",
+      "category": "Reign",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false,
+      "end_year": -232
+    },
+    {
+      "id": "maurya-kalinga-war",
+      "start_year": -261,
+      "date_label": "c.261 BCE",
+      "title": "Kalinga war",
+      "summary": "Conventional c.261 BCE; eighth year after consecration; Major Rock Edict XIII records suffering and remorse.",
+      "category": "War",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": true
+    },
+    {
+      "id": "maurya-ashoka-s-sambodhi-visit-and-dhamma-tours",
+      "start_year": -258,
+      "date_label": "c.258 BCE",
+      "title": "Ashoka’s Sambodhi visit and dhamma tours",
+      "summary": "Approximate placement from ten years after consecration; Major Rock Edict VIII.",
+      "category": "Religious history",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "maurya-touring-instructions-and-royal-moral-communications",
+      "start_year": -256,
+      "date_label": "c.256 BCE",
+      "title": "Touring instructions and royal moral communications",
+      "summary": "Twelve years after consecration in edict evidence; yuktas, rajukas and pradesikas to inspect every five years. Absolute year approximate.",
+      "category": "Administration",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "maurya-dhamma-mahamatras-appointed",
+      "start_year": -255,
+      "date_label": "c.255 BCE",
+      "title": "Dhamma-mahamatras appointed",
+      "summary": "Thirteen years after consecration in Major Rock Edict V; absolute year approximate.",
+      "category": "Administration",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "maurya-konakamana-stupa-enlarged",
+      "start_year": -254,
+      "date_label": "c.254 BCE",
+      "title": "Konakamana stupa enlarged",
+      "summary": "Nigali Sagar inscription places enlargement in 14th year; c.254 BCE approximate.",
+      "category": "Architecture",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
+    },
+    {
       "id": "buddhist-council-third",
       "start_year": -250,
       "date_label": "c.250 BCE · conventional chronology",
@@ -711,8 +908,71 @@
       "summary": "Theravada accounts associate Ashoka and Moggaliputta Tissa with doctrinal purification, Kathavatthu and missions. Not all school histories narrate the same council.",
       "category": "Council",
       "chapters": [
-        "5"
+        "5",
+        "6"
       ]
+    },
+    {
+      "id": "maurya-ashoka-visits-lumbini-and-nigali-sagar",
+      "start_year": -248,
+      "date_label": "c.248 BCE",
+      "title": "Ashoka visits Lumbini and Nigali Sagar",
+      "summary": "Twentieth-year records; Lumbini bali exemption and produce share reduced to one-eighth. Absolute year approximate.",
+      "category": "Religious history",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "maurya-late-major-pillar-edicts",
+      "start_year": -242,
+      "date_label": "c.242–241 BCE",
+      "title": "Late major pillar edicts",
+      "summary": "Twenty-sixth and twenty-seventh years after consecration; approximate placement. Judicial fairness, protection and policy retrospective.",
+      "category": "Inscription",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false,
+      "end_year": -241
+    },
+    {
+      "id": "maurya-ashoka-dies",
+      "start_year": -232,
+      "date_label": "c.232 BCE",
+      "title": "Ashoka dies",
+      "summary": "Approximate conventional date; subsequent regional fragmentation and succession problems.",
+      "category": "Succession",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "maurya-dasharatha-s-conventional-reign",
+      "start_year": -232,
+      "date_label": "c.232–224 BCE",
+      "title": "Dasharatha’s conventional reign",
+      "summary": "Later Maurya associated with Nagarjuni cave dedications to Ajivikas; approximate reign dates.",
+      "category": "Reign",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false,
+      "end_year": -224
+    },
+    {
+      "id": "maurya-antiochus-iii-s-north-western-expedition",
+      "start_year": -206,
+      "date_label": "c.206 BCE",
+      "title": "Antiochus III’s north-western expedition",
+      "summary": "Distinct from Alexander’s earlier campaign and from subsequent Indo-Greek expansion; not the first Greek arrival in India.",
+      "category": "Military campaign",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
     },
     {
       "id": "bharhut-railings-sculpture",
@@ -750,6 +1010,18 @@
         "5"
       ],
       "end_year": -1
+    },
+    {
+      "id": "maurya-brihadratha-killed-shunga-rule-begins",
+      "start_year": -185,
+      "date_label": "c.185 BCE",
+      "title": "Brihadratha killed; Shunga rule begins",
+      "summary": "Pushyamitra’s takeover conventionally c.185 BCE; chapter gives c.187. Do not record both as separate events.",
+      "category": "Political change",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": true
     },
     {
       "id": "kharavela-jaina-patronage",
@@ -871,6 +1143,18 @@
       ]
     },
     {
+      "id": "maurya-rudradaman-s-junagadh-inscription",
+      "start_year": 150,
+      "date_label": "c.150 CE",
+      "title": "Rudradaman’s Junagadh inscription",
+      "summary": "c.150 CE; records earlier Sudarshana lake construction under Pushyagupta and works under Tushaspha. Later evidence about Mauryan activity.",
+      "category": "Inscription",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
+    },
+    {
       "id": "asanga-vasubandhu",
       "start_year": 301,
       "date_label": "c.fourth–fifth centuries CE",
@@ -968,6 +1252,18 @@
       "end_year": 600
     },
     {
+      "id": "bhakti-tamil",
+      "title": "Tamil devotional traditions expand",
+      "start_year": 500,
+      "date_label": "c.sixth–twelfth centuries",
+      "summary": "Alvar and Nayanar hymns, temple networks and vernacular devotion developed under several dynasties; chronology varied regionally.",
+      "category": "Religious development",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1200
+    },
+    {
       "id": "dharmakirti-logic",
       "start_year": 601,
       "date_label": "seventh century CE",
@@ -1018,6 +1314,18 @@
       "end_year": 645
     },
     {
+      "id": "bhakti-sufism-early",
+      "title": "Early Sufi ascetic and devotional traditions",
+      "start_year": 700,
+      "date_label": "c.eighth–eleventh centuries",
+      "summary": "Rabia, Bayazid Bistami and Junayd exemplify diverse early mystical traditions; substantial literature and institutions followed.",
+      "category": "Religious development",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1100
+    },
+    {
       "id": "tibet-eighth-century-transmission",
       "start_year": 701,
       "date_label": "eighth century CE · transmission phase",
@@ -1042,6 +1350,18 @@
       "end_year": 800
     },
     {
+      "id": "bhakti-shankara",
+      "title": "Shankara: conventional life dates",
+      "start_year": 788,
+      "date_label": "c.788–820 · conventional dates",
+      "summary": "Advaita, liberating knowledge, major commentaries and the traditional four-matha association; precise chronology and some attributions are debated.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 820
+    },
+    {
       "id": "jaina-mahapurana",
       "start_year": 801,
       "date_label": "ninth century CE",
@@ -1052,6 +1372,30 @@
         "5"
       ],
       "end_year": 900
+    },
+    {
+      "id": "bhakti-prabandham",
+      "title": "Alvar hymns assembled into the Divya Prabandham",
+      "start_year": 900,
+      "date_label": "By about the tenth century",
+      "summary": "The anthology of approximately four thousand Tamil hymns acquired the standing of the Tamil Veda.",
+      "category": "Text / literature",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1000
+    },
+    {
+      "id": "bhakti-hujwiri",
+      "title": "Hujwiri and Kashf al-Mahjub",
+      "start_year": 1001,
+      "date_label": "Eleventh century",
+      "summary": "Lahore-based Sufi associated with a major Persian treatise on spiritual life.",
+      "category": "Text / literature",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1100
     },
     {
       "id": "tibet-eleventh-century-transmission",
@@ -1066,6 +1410,42 @@
       "end_year": 1100
     },
     {
+      "id": "bhakti-ramanuja",
+      "title": "Ramanuja: traditional life dates",
+      "start_year": 1017,
+      "date_label": "1017–1137 · traditional dates",
+      "summary": "Vishishtadvaita, real dependent souls/matter, personal Narayana, devotion, grace and surrender.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1137
+    },
+    {
+      "id": "bhakti-akka",
+      "title": "Akka Mahadevi’s devotional poetry",
+      "start_year": 1101,
+      "date_label": "Twelfth century",
+      "summary": "Karnataka vachanas address Shiva as Chennamallikarjuna and challenge prescribed social conventions.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1200
+    },
+    {
+      "id": "bhakti-basavanna",
+      "title": "Basavanna and the Karnataka Sharana movement",
+      "start_year": 1101,
+      "date_label": "Twelfth century",
+      "summary": "Kannada vachanas, spiritual experience, dignity of work and criticism of caste/gender exclusion; Anubhava Mantapa remembered as a discussion forum.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1200
+    },
+    {
       "id": "hemachandra-parishishtaparvan",
       "start_year": 1101,
       "date_label": "twelfth century CE",
@@ -1074,6 +1454,18 @@
       "category": "Literature",
       "chapters": [
         "5"
+      ],
+      "end_year": 1200
+    },
+    {
+      "id": "bhakti-jayadeva",
+      "title": "Jayadeva and Gita Govinda",
+      "start_year": 1101,
+      "date_label": "Twelfth century",
+      "summary": "Radha–Krishna love expressed in a major devotional poem, influential in eastern Vaishnava traditions.",
+      "category": "Text / literature",
+      "chapters": [
+        "15"
       ],
       "end_year": 1200
     },
@@ -1090,6 +1482,30 @@
       "is_turning_point": false
     },
     {
+      "id": "bhakti-northern",
+      "title": "Northern devotional movements gain momentum",
+      "start_year": 1101,
+      "date_label": "Twelfth–seventeenth centuries · broad span",
+      "summary": "Diverse Rama, Krishna and formless-devotion currents grew through regional language, performance, social criticism and institutions.",
+      "category": "Religious development",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1700
+    },
+    {
+      "id": "bhakti-bijjala",
+      "title": "Bijjala’s rule: context for Basavanna",
+      "start_year": 1157,
+      "date_label": "c.1157–1167",
+      "summary": "Kalachuri ruler associated with Basavanna’s ministerial service.",
+      "category": "Political context",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1167
+    },
+    {
       "id": "buddhist-monastery-late-medieval-losses",
       "start_year": 1175,
       "date_label": "late twelfth–early thirteenth centuries CE · approximate horizon",
@@ -1100,6 +1516,113 @@
         "5"
       ],
       "end_year": 1225
+    },
+    {
+      "id": "bhakti-farid",
+      "title": "Baba Farid: conventional life dates",
+      "start_year": 1175,
+      "date_label": "c.1175–1265/66",
+      "summary": "Fariduddin Ganj-i Shakar; Chishti spiritual discipline and verses later included in Guru Granth Sahib.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1266
+    },
+    {
+      "id": "bhakti-janabai",
+      "title": "Janabai’s devotional milieu",
+      "start_year": 1201,
+      "date_label": "Thirteenth–fourteenth centuries",
+      "summary": "Marathi poems connected household labour, devotion and experiences of caste/gender exclusion.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1400
+    },
+    {
+      "id": "bhakti-urban-artisans",
+      "title": "Urban and artisanal growth in explanations of Bhakti",
+      "start_year": 1201,
+      "date_label": "Thirteenth–fourteenth centuries",
+      "summary": "Expansion of craft production and towns is one interpretation of wider audiences and demands for dignity, rather than a universal single cause.",
+      "category": "Social context",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1400
+    },
+    {
+      "id": "bhakti-moinuddin-death",
+      "title": "Death of Muinuddin Chishti",
+      "start_year": 1236,
+      "date_label": "1236",
+      "summary": "Ajmer’s Gharib Nawaz became the centre of an enduring shrine tradition; Chishti name derives from Chisht, Afghanistan.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ]
+    },
+    {
+      "id": "bhakti-madhva",
+      "title": "Madhva: traditional life dates",
+      "start_year": 1238,
+      "date_label": "1238–1317 · traditional dates",
+      "summary": "Dvaita distinguishes Vishnu, souls and matter while affirming dependence on God; alternative chronologies exist.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1317
+    },
+    {
+      "id": "bhakti-nizamuddin",
+      "title": "Nizamuddin Auliya’s lifetime",
+      "start_year": 1238,
+      "date_label": "1238–1325",
+      "summary": "Delhi Chishti master: love, hospitality and distance from courtly dependence; associated with Khusrau and Hasan Sijzi.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1325
+    },
+    {
+      "id": "bhakti-namdev",
+      "title": "Namdev: conventional life dates",
+      "start_year": 1270,
+      "date_label": "c.1270–1350",
+      "summary": "Vitthala devotion, Marathi abhangs and hymns preserved in Guru Granth Sahib.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1350
+    },
+    {
+      "id": "bhakti-jnaneshwar",
+      "title": "Jnaneshwar’s lifetime",
+      "start_year": 1275,
+      "date_label": "1275–1296",
+      "summary": "Marathi Jnaneshwari, Amritanubhava and Haripath traditions helped widen devotional expression.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1296
+    },
+    {
+      "id": "bhakti-burhanuddin",
+      "title": "Burhanuddin Gharib and Deccan Chishtis",
+      "start_year": 1301,
+      "date_label": "Fourteenth century",
+      "summary": "Expansion into the Deccan; the source’s thirteenth-century placement is not adopted.",
+      "category": "Religious development",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1400
     },
     {
       "id": "ajivika-late-medieval-references",
@@ -1114,6 +1637,1858 @@
       "end_year": 1400
     },
     {
+      "id": "bhakti-ramananda",
+      "title": "Ramananda’s broad historical setting",
+      "start_year": 1301,
+      "date_label": "Fourteenth–fifteenth centuries · disputed chronology",
+      "summary": "North Indian Rama–Sita devotion, vernacular teaching and Ramanandi traditions; exact life dates/disciple lists uncertain.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1500
+    },
+    {
+      "id": "bhakti-vidyapati",
+      "title": "Vidyapati: conventional life dates",
+      "start_year": 1352,
+      "date_label": "c.1352–1448",
+      "summary": "Maithili poet of Shiva devotion and Radha–Krishna love.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1448
+    },
+    {
+      "id": "europe-timur-invasion",
+      "start_year": 1398,
+      "date_label": "1398",
+      "title": "Timur invades north India",
+      "summary": "Crossing of Indus and invasion postdated Muhammad bin Tughluq; relevant to the ruler–event PYQ trap.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-kabir",
+      "title": "Kabir’s devotional setting",
+      "start_year": 1401,
+      "date_label": "Fifteenth–early sixteenth century · broad placement",
+      "summary": "Nirguna devotion, critique of empty ritual/caste and multiple verse traditions including Bijak; calendar placement is intentionally broad.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1600
+    },
+    {
+      "id": "bhakti-mira",
+      "title": "Mirabai’s devotional setting",
+      "start_year": 1401,
+      "date_label": "Fifteenth–sixteenth centuries · dates uncertain",
+      "summary": "Krishna bhajans, Mewar/Rajput context and spiritual agency; biographical details mediated by later traditions.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1600
+    },
+    {
+      "id": "bhakti-ravidas",
+      "title": "Ravidas and devotional dignity",
+      "start_year": 1401,
+      "date_label": "Fifteenth–sixteenth centuries",
+      "summary": "Leather-working association, critique of caste exclusion and hymns preserved in Guru Granth Sahib.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1600
+    },
+    {
+      "id": "bhakti-sur",
+      "title": "Surdas in Braj devotional literature",
+      "start_year": 1401,
+      "date_label": "Fifteenth–sixteenth centuries · life dates vary",
+      "summary": "Sursagar, Sursaravali and Sahitya Lahari; Krishna devotion associated with the Vallabha tradition.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1600
+    },
+    {
+      "id": "bhakti-annama",
+      "title": "Annamacharya’s lifetime",
+      "start_year": 1408,
+      "date_label": "1408–1503",
+      "summary": "Telugu sankirtanas devoted to Venkateshwara; not a contemporary of Tyagaraja.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1503
+    },
+    {
+      "id": "bhakti-narsinh",
+      "title": "Narsinh Mehta: conventional life dates",
+      "start_year": 1414,
+      "date_label": "c.1414–1481",
+      "summary": "Gujarati Radha–Krishna devotion; Vaishnava Jan To remembered for compassion.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1481
+    },
+    {
+      "id": "bhakti-shankaradeva",
+      "title": "Shankaradeva’s lifetime",
+      "start_year": 1449,
+      "date_label": "1449–1568",
+      "summary": "Assamese devotional poetry/drama, Ekasarana tradition and satra/namghar networks.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1568
+    },
+    {
+      "id": "bhakti-nanak",
+      "title": "Guru Nanak’s lifetime",
+      "start_year": 1469,
+      "date_label": "1469–1539",
+      "summary": "Founder of Sikhism; Naam, honest livelihood, sharing, service and community; Talwandi birthplace distinct from Kartarpur on Ravi.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1539
+    },
+    {
+      "id": "bhakti-vallabha",
+      "title": "Vallabhacharya’s lifetime",
+      "start_year": 1479,
+      "date_label": "1479–1531",
+      "summary": "Shuddhadvaita and Pushtimarg; Krishna/Shrinathji seva and grace.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1531
+    },
+    {
+      "id": "bhakti-chaitanya",
+      "title": "Chaitanya Mahaprabhu’s lifetime",
+      "start_year": 1486,
+      "date_label": "1486–1533",
+      "summary": "Krishna devotion, sankirtan and Bengal–Odisha–Vrindavan networks.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1533
+    },
+    {
+      "id": "europe-dias-expedition-rounds-the-cape",
+      "start_year": 1487,
+      "date_label": "1487–1488",
+      "title": "Dias expedition rounds the Cape",
+      "summary": "Voyage began in 1487; rounded southern Africa in 1488, opening the route later used to reach India.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1488
+    },
+    {
+      "id": "europe-vasco-da-gama-reaches-calicut",
+      "start_year": 1498,
+      "date_label": "1498",
+      "title": "Vasco da Gama reaches Calicut",
+      "summary": "May arrival on the Kerala coast under the Zamorin; early modern Portuguese ocean route, not the first Europe–India contact.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": true
+    },
+    {
+      "id": "bhakti-naqs-india",
+      "title": "Baqi Billah introduces Naqshbandi order in India",
+      "start_year": 1501,
+      "date_label": "Late sixteenth century · broad placement",
+      "summary": "Distinguish Indian introduction from the earlier Central Asian Bahauddin Naqshband lineage.",
+      "category": "Religious development",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1600
+    },
+    {
+      "id": "bhakti-radha-vallabha",
+      "title": "Hit Harivansh and Radha-Vallabha tradition",
+      "start_year": 1501,
+      "date_label": "Sixteenth century",
+      "summary": "Vernacular Radha devotion; the source’s unsupported precise 1585 founding date is excluded.",
+      "category": "Religious development",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1600
+    },
+    {
+      "id": "bhakti-tulsidas",
+      "title": "Tulsidas and Rama devotion",
+      "start_year": 1501,
+      "date_label": "Sixteenth–early seventeenth centuries · broad placement",
+      "summary": "Awadhi Ramcharitmanas gave Rama devotion enduring literary and performative forms.",
+      "category": "Text / literature",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1700
+    },
+    {
+      "id": "europe-portuguese-fort-at-cochin",
+      "start_year": 1503,
+      "date_label": "1503",
+      "title": "Portuguese fort at Cochin",
+      "summary": "Early fortified base supporting Indian Ocean trade.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-almeida-s-viceroyalty",
+      "start_year": 1505,
+      "date_label": "1505–1509",
+      "title": "Almeida's viceroyalty",
+      "summary": "First Portuguese viceroy; naval supremacy associated with Blue Water Policy.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1509
+    },
+    {
+      "id": "europe-albuquerque-s-governorship",
+      "start_year": 1509,
+      "date_label": "1509–1515",
+      "title": "Albuquerque's governorship",
+      "summary": "Consolidation through territorial bases and maritime choke points.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1515
+    },
+    {
+      "id": "europe-portuguese-conquest-of-goa",
+      "start_year": 1510,
+      "date_label": "1510",
+      "title": "Portuguese conquest of Goa",
+      "summary": "Albuquerque captured Goa from the Bijapur Sultanate.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-portuguese-capture-malacca",
+      "start_year": 1511,
+      "date_label": "1511",
+      "title": "Portuguese capture Malacca",
+      "summary": "Albuquerque extended control over a strategic Southeast Asian trade route.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-portuguese-occupation-of-hormuz",
+      "start_year": 1515,
+      "date_label": "1515",
+      "title": "Portuguese occupation of Hormuz",
+      "summary": "Albuquerque established a base at the Persian Gulf entrance.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-panipat",
+      "title": "Babur’s victory ends the Lodi dynasty",
+      "start_year": 1526,
+      "date_label": "1526",
+      "summary": "Chronological background to the saint-contemporaneity question: Nanak was alive, while Dadu and Tyagaraja belonged to later generations.",
+      "category": "Political context",
+      "chapters": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "id": "europe-portuguese-headquarters-move-to-goa",
+      "start_year": 1530,
+      "date_label": "1530",
+      "title": "Portuguese headquarters move to Goa",
+      "summary": "Nuno da Cunha shifted headquarters from Cochin; distinct from the 1510 conquest.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-eknath",
+      "title": "Eknath’s lifetime",
+      "start_year": 1533,
+      "date_label": "c.1533–1599",
+      "summary": "Marathi religious literature, bharuds, Bhavarth Ramayan and a recension of Jnaneshwari.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1599
+    },
+    {
+      "id": "europe-bassein-ceded-to-portuguese",
+      "start_year": 1534,
+      "date_label": "1534",
+      "title": "Bassein ceded to Portuguese",
+      "summary": "Bahadur Shah of Gujarat ceded Bassein and dependencies.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-diu-fortification-agreement",
+      "start_year": 1535,
+      "date_label": "1535",
+      "title": "Diu fortification agreement",
+      "summary": "Gujarat permitted Portuguese fortification under pressure from Mughal expansion.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-angad",
+      "title": "Guruship of Guru Angad",
+      "start_year": 1539,
+      "date_label": "1539–1552",
+      "summary": "Gurmukhi standardisation/popularisation, education, langar and physical training.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1552
+    },
+    {
+      "id": "bhakti-dadu",
+      "title": "Dadu Dayal’s lifetime",
+      "start_year": 1544,
+      "date_label": "1544–1603",
+      "summary": "Non-sectarian Nirguna devotion, Rajasthan activity and Dadu Panth; Kabir was earlier, not his disciple.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1603
+    },
+    {
+      "id": "bhakti-amardas",
+      "title": "Guruship of Guru Amar Das",
+      "start_year": 1552,
+      "date_label": "1552–1574",
+      "summary": "Manji organisation, langar, women preachers and opposition to discriminatory social practices.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1574
+    },
+    {
+      "id": "europe-printing-press-arrives-in-goa",
+      "start_year": 1556,
+      "date_label": "1556",
+      "title": "Printing press arrives in Goa",
+      "summary": "Early printing associated with Portuguese missionary activity.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-portuguese-acquire-daman",
+      "start_year": 1559,
+      "date_label": "1559",
+      "title": "Portuguese acquire Daman",
+      "summary": "Expansion of northern Portuguese coastal possessions.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-garcia-da-orta-s-medicinal-plant-work",
+      "start_year": 1563,
+      "date_label": "1563",
+      "title": "Garcia da Orta's medicinal-plant work",
+      "summary": "Coloquios contributed to European knowledge of Asian plants; Indian medical traditions already existed.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-sirhindi",
+      "title": "Ahmad Sirhindi’s lifetime",
+      "start_year": 1564,
+      "date_label": "1564–1624",
+      "summary": "Naqshbandi thinker stressing sharia and criticising some Akbar-era policies; not Kabir’s teacher.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1624
+    },
+    {
+      "id": "europe-battle-of-talikota",
+      "start_year": 1565,
+      "date_label": "1565",
+      "title": "Battle of Talikota",
+      "summary": "Vijayanagara's defeat accelerated regional realignments; Mysore's Wodeyar dynasty already existed.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-ramdas-guru",
+      "title": "Guruship of Guru Ram Das",
+      "start_year": 1574,
+      "date_label": "1574–1581",
+      "summary": "Development of Ramdaspur/Amritsar and Lavan hymns.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1581
+    },
+    {
+      "id": "bhakti-amritsar",
+      "title": "Amritsar/Ramdaspur develops",
+      "start_year": 1577,
+      "date_label": "1577 · conventional landmark",
+      "summary": "Town and tank associated with Guru Ram Das; later shrine construction and Granth installation are distinct events.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ]
+    },
+    {
+      "id": "bhakti-arjan",
+      "title": "Guruship of Guru Arjan",
+      "start_year": 1581,
+      "date_label": "1581–1606",
+      "summary": "Harmandir and community centres, compilation of Adi Granth; executed under Jahangir.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1606
+    },
+    {
+      "id": "europe-houtman-reaches-java",
+      "start_year": 1596,
+      "date_label": "1596",
+      "title": "Houtman reaches Java",
+      "summary": "Dutch voyage to Banten, not a landing in India.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-english-east-india-company-charter",
+      "start_year": 1600,
+      "date_label": "31 December 1600",
+      "title": "English East India Company charter",
+      "summary": "Elizabeth I granted a 15-year monopoly on 31 December.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "month": 12,
+      "day": 31
+    },
+    {
+      "id": "bhakti-bahina",
+      "title": "Bahinabai’s devotional poetry",
+      "start_year": 1601,
+      "date_label": "Seventeenth century",
+      "summary": "Marathi abhangs explore spiritual and household tensions; distinguish the later modern poet of the same name.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1700
+    },
+    {
+      "id": "europe-dutch-voc-established",
+      "start_year": 1602,
+      "date_label": "1602",
+      "title": "Dutch VOC established",
+      "summary": "Joint-stock company combined trading capital with treaty, fortification and war powers.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-adi-granth",
+      "title": "Adi Granth installed at Harmandir Sahib",
+      "start_year": 1604,
+      "date_label": "1604",
+      "summary": "Guru Arjan’s compilation included Gurus’ hymns and devotional voices from diverse traditions.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ]
+    },
+    {
+      "id": "europe-dutch-factory-at-masulipatnam",
+      "start_year": 1605,
+      "date_label": "1605",
+      "title": "Dutch factory at Masulipatnam",
+      "summary": "Earliest Dutch factory in India; distinguish Pulicat among the 2003 PYQ's choices.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-akal-takht",
+      "title": "Akal Takht established",
+      "start_year": 1606,
+      "date_label": "1606",
+      "summary": "Guru Hargobind associated temporal authority with spiritual responsibility.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ]
+    },
+    {
+      "id": "bhakti-arjan-martyrdom",
+      "title": "Guru Arjan executed under Jahangir",
+      "start_year": 1606,
+      "date_label": "1606",
+      "summary": "Major watershed in Sikh–Mughal relations; religious and political tensions form the context.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ]
+    },
+    {
+      "id": "bhakti-hargobind",
+      "title": "Guruship of Guru Hargobind",
+      "start_year": 1606,
+      "date_label": "1606–1644",
+      "summary": "Miri–Piri, two swords, armed defence and community institutions.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1644
+    },
+    {
+      "id": "europe-hawkins-arrives-at-surat",
+      "start_year": 1608,
+      "date_label": "1608",
+      "title": "Hawkins arrives at Surat",
+      "summary": "Arrival on Hector preceded his court mission.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-samarth",
+      "title": "Samarth Ramdas’s lifetime",
+      "start_year": 1608,
+      "date_label": "1608–1681",
+      "summary": "Rama devotion, Dasbodh, Manache Shlok and disciplined action; precise Shivaji-guru narratives debated.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1681
+    },
+    {
+      "id": "bhakti-tukaram",
+      "title": "Tukaram’s lifetime",
+      "start_year": 1608,
+      "date_label": "c.1608–1649/50",
+      "summary": "Marathi abhangs, Vitthala devotion, compassion and criticism of hypocrisy.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1650
+    },
+    {
+      "id": "europe-english-trading-charter-renewed",
+      "start_year": 1609,
+      "date_label": "1609",
+      "title": "English trading charter renewed",
+      "summary": "James I renewed the Company's monopoly arrangement.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-hawkins-visits-jahangir",
+      "start_year": 1609,
+      "date_label": "1609",
+      "title": "Hawkins visits Jahangir",
+      "summary": "Trading negotiations met Portuguese opposition.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-dutch-establish-pulicat-base",
+      "start_year": 1610,
+      "date_label": "1610",
+      "title": "Dutch establish Pulicat base",
+      "summary": "Important Coromandel settlement and later Fort Geldria headquarters.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-english-factory-at-masulipatnam",
+      "start_year": 1611,
+      "date_label": "1611",
+      "title": "English factory at Masulipatnam",
+      "summary": "First English factory in South India.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-swally",
+      "start_year": 1612,
+      "date_label": "1612",
+      "title": "Battle of Swally",
+      "summary": "Thomas Best's naval victory over Portuguese forces near Surat.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-english-surat-factory-permitted",
+      "start_year": 1613,
+      "date_label": "1613",
+      "title": "English Surat factory permitted",
+      "summary": "Jahangir's reign; followed the Swally victory.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-thomas-roe-s-embassy",
+      "start_year": 1615,
+      "date_label": "1615–1619",
+      "title": "Thomas Roe's embassy",
+      "summary": "James I's ambassador negotiated with Jahangir for commercial protection.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1619
+    },
+    {
+      "id": "europe-danish-company-established",
+      "start_year": 1616,
+      "date_label": "1616",
+      "title": "Danish company established",
+      "summary": "Company formation preceded Tranquebar settlement.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-batavia-founded",
+      "start_year": 1619,
+      "date_label": "1619",
+      "title": "Batavia founded",
+      "summary": "Dutch base on Java; not conquest of the whole island.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-danish-settlement-at-tranquebar",
+      "start_year": 1620,
+      "date_label": "1620",
+      "title": "Danish settlement at Tranquebar",
+      "summary": "Tharangambadi became the Danish southern Indian base.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-amboyna-incident",
+      "start_year": 1623,
+      "date_label": "1623",
+      "title": "Amboyna incident",
+      "summary": "Executions sharpened Anglo-Dutch commercial rivalry.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-golconda-s-golden-farman",
+      "start_year": 1632,
+      "date_label": "1632",
+      "title": "Golconda's Golden Farman",
+      "summary": "Trading privilege for English Company commerce.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-mughal-capture-of-hooghly",
+      "start_year": 1632,
+      "date_label": "1632",
+      "title": "Mughal capture of Hooghly",
+      "summary": "Shah Jahan's forces took the Portuguese settlement.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-english-factories-in-odisha",
+      "start_year": 1633,
+      "date_label": "1633",
+      "title": "English factories in Odisha",
+      "summary": "Hariharpur and Balasore were early English footholds in Eastern India.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-madras-land-grant",
+      "start_year": 1639,
+      "date_label": "1639",
+      "title": "Madras land grant",
+      "summary": "Day and Cogan obtained land from Venkatadri Nayak under Vijayanagara/Chandragiri authority.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-fort-st-george-built",
+      "start_year": 1640,
+      "date_label": "1640",
+      "title": "Fort St George built",
+      "summary": "First English fort in India, at Madras.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-harrai",
+      "title": "Guruship of Guru Har Rai",
+      "start_year": 1644,
+      "date_label": "1644–1661",
+      "summary": "Community institutions and associations with Dara Shikoh amid changing Mughal relations.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1661
+    },
+    {
+      "id": "europe-bombay-marriage-treaty-provision",
+      "start_year": 1661,
+      "date_label": "1661",
+      "title": "Bombay marriage treaty provision",
+      "summary": "Anglo-Portuguese agreement included Bombay in Catherine's dowry.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-harkrishan",
+      "title": "Guruship of Guru Har Krishan",
+      "start_year": 1661,
+      "date_label": "1661–1664",
+      "summary": "Child Guru remembered for service during illness; died of smallpox in 1664.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1664
+    },
+    {
+      "id": "europe-charles-ii-marries-catherine",
+      "start_year": 1662,
+      "date_label": "1662",
+      "title": "Charles II marries Catherine",
+      "summary": "Distinguish wedding date from 1661 treaty and 1668 Company lease.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-dutch-capture-cochin",
+      "start_year": 1663,
+      "date_label": "1663",
+      "title": "Dutch capture Cochin",
+      "summary": "Portuguese lost an important Malabar base.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-french-east-india-company-established",
+      "start_year": 1664,
+      "date_label": "1664",
+      "title": "French East India Company established",
+      "summary": "Colbert's initiative under Louis XIV.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-tegh",
+      "title": "Guruship of Guru Tegh Bahadur",
+      "start_year": 1664,
+      "date_label": "1664–1675",
+      "summary": "SGPC records recognition in 1664; travel and defence of religious conscience central to Sikh remembrance.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1675
+    },
+    {
+      "id": "europe-bombay-leased-to-english-company",
+      "start_year": 1668,
+      "date_label": "1668",
+      "title": "Bombay leased to English Company",
+      "summary": "Crown transfer for annual rent of ten pounds.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-french-factory-at-surat",
+      "start_year": 1668,
+      "date_label": "1668",
+      "title": "French factory at Surat",
+      "summary": "Caron developed an early French Indian trading post.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-french-factory-at-masulipatnam",
+      "start_year": 1669,
+      "date_label": "1669",
+      "title": "French factory at Masulipatnam",
+      "summary": "Associated with Marcara.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-french-settlement-at-pondicherry",
+      "start_year": 1673,
+      "date_label": "1673–1674",
+      "title": "French settlement at Pondicherry",
+      "summary": "Initial occupation followed by Francois Martin's development of the settlement.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1674
+    },
+    {
+      "id": "bhakti-tegh-execution",
+      "title": "Guru Tegh Bahadur executed in Delhi",
+      "start_year": 1675,
+      "date_label": "1675",
+      "summary": "Execution under Aurangzeb; Sis Ganj Sahib commemorates the site.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ]
+    },
+    {
+      "id": "bhakti-gobind",
+      "title": "Guruship of Guru Gobind Singh",
+      "start_year": 1675,
+      "date_label": "1675–1708",
+      "summary": "Khalsa, collective discipline, and scriptural Guruship; last human Sikh Guru.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1708
+    },
+    {
+      "id": "europe-charnock-s-sutanuti-settlement",
+      "start_year": 1690,
+      "date_label": "1690",
+      "title": "Charnock's Sutanuti settlement",
+      "summary": "Important phase of Calcutta's growth, not purchase of all three villages that year.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-dutch-headquarters-shift-to-nagapattinam",
+      "start_year": 1690,
+      "date_label": "1690",
+      "title": "Dutch headquarters shift to Nagapattinam",
+      "summary": "Replaced Pulicat as principal Coromandel headquarters.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-dutch-seize-pondicherry",
+      "start_year": 1693,
+      "date_label": "1693",
+      "title": "Dutch seize Pondicherry",
+      "summary": "Demonstrates pre- and non-French European occupation.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-company-acquires-calcutta-village-rights",
+      "start_year": 1698,
+      "date_label": "1698",
+      "title": "Company acquires Calcutta village rights",
+      "summary": "Zamindari rights over Sutanuti, Kalikata and Gobindapur.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-khalsa",
+      "title": "Khalsa founded at Anandpur",
+      "start_year": 1699,
+      "date_label": "1699",
+      "summary": "Guru Gobind Singh, Panj Pyare, khande-di-pahul and shared discipline.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ]
+    },
+    {
+      "id": "europe-fort-william-and-bengal-presidency-develop",
+      "start_year": 1700,
+      "date_label": "c.1700",
+      "title": "Fort William and Bengal presidency develop",
+      "summary": "Around 1700; institutional development rather than an exact single founding moment.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "bhakti-banda",
+      "title": "Guru Gobind Singh commissions Banda Bahadur",
+      "start_year": 1708,
+      "date_label": "1708",
+      "summary": "Punjab mission entrusted to Banda Singh Bahadur; not an appointment by Guru Tegh Bahadur.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ]
+    },
+    {
+      "id": "bhakti-scriptural-guru",
+      "title": "Guru Granth Sahib recognised as enduring Guru",
+      "start_year": 1708,
+      "date_label": "1708",
+      "summary": "At the close of Guru Gobind Singh’s life at Nanded, personal succession gives way to enduring scriptural Guruship.",
+      "category": "Sikh history",
+      "chapters": [
+        "15"
+      ]
+    },
+    {
+      "id": "europe-surman-embassy-begins",
+      "start_year": 1715,
+      "date_label": "1715",
+      "title": "Surman embassy begins",
+      "summary": "William Hamilton accompanied John Surman's mission to the Mughal court.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-farrukhsiyar-s-company-farmans",
+      "start_year": 1717,
+      "date_label": "1717",
+      "title": "Farrukhsiyar's Company farmans",
+      "summary": "Trading and rental privileges; Bengal annual payment of 3000 rupees. Private trade was not universally exempt.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-marathas-capture-bassein-and-salsette",
+      "start_year": 1739,
+      "date_label": "1739",
+      "title": "Marathas capture Bassein and Salsette",
+      "summary": "Reduced Portuguese northern possessions.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-war-of-austrian-succession",
+      "start_year": 1740,
+      "date_label": "1740–1748",
+      "title": "War of Austrian Succession",
+      "summary": "European background to First Carnatic War.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1748
+    },
+    {
+      "id": "europe-dupleix-becomes-governor",
+      "start_year": 1742,
+      "date_label": "1742",
+      "title": "Dupleix becomes governor",
+      "summary": "French ambitions linked commerce to intervention in Indian politics.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-adyar-or-st-thome",
+      "start_year": 1746,
+      "date_label": "1746",
+      "title": "Battle of Adyar or St Thome",
+      "summary": "French force defeated Nawab Anwar-ud-din's force under Mahfuz Khan.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-first-carnatic-war",
+      "start_year": 1746,
+      "date_label": "1746–1748",
+      "title": "First Carnatic War",
+      "summary": "English–French conflict in India connected to European war.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1748
+    },
+    {
+      "id": "europe-french-capture-madras",
+      "start_year": 1746,
+      "date_label": "1746",
+      "title": "French capture Madras",
+      "summary": "La Bourdonnais seized the English settlement.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-nizam-ul-mulk-dies",
+      "start_year": 1748,
+      "date_label": "1748",
+      "title": "Nizam-ul-Mulk dies",
+      "summary": "Hyderabad succession dispute contributed to Second Carnatic War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-aix-la-chapelle",
+      "start_year": 1748,
+      "date_label": "1748",
+      "title": "Treaty of Aix-la-Chapelle",
+      "summary": "Madras restored to English; Louisbourg restored to France.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-ambur",
+      "start_year": 1749,
+      "date_label": "1749",
+      "title": "Battle of Ambur",
+      "summary": "Anwar-ud-din killed; Muhammad Ali held out at Trichinopoly.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-second-carnatic-war",
+      "start_year": 1749,
+      "date_label": "1749–1754",
+      "title": "Second Carnatic War",
+      "summary": "French and English intervention in Hyderabad and Carnatic succession struggles.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1754
+    },
+    {
+      "id": "europe-nasir-jang-killed",
+      "start_year": 1750,
+      "date_label": "1750",
+      "title": "Nasir Jang killed",
+      "summary": "Muzaffar Jang briefly succeeded, followed by Salabat Jang with French backing.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-clive-s-arcot-campaign",
+      "start_year": 1751,
+      "date_label": "1751",
+      "title": "Clive's Arcot campaign",
+      "summary": "Diversion reduced pressure on Muhammad Ali at Trichinopoly.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-kaveripak",
+      "start_year": 1752,
+      "date_label": "1752",
+      "title": "Battle of Kaveripak",
+      "summary": "Part of the Arcot–Trichinopoly struggle in the Second Carnatic War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-chanda-sahib-killed",
+      "start_year": 1752,
+      "date_label": "1752",
+      "title": "Chanda Sahib killed",
+      "summary": "A major French-supported claimant removed; English position strengthened.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-dupleix-recalled-and-pondicherry-agreement",
+      "start_year": 1754,
+      "date_label": "1754",
+      "title": "Dupleix recalled and Pondicherry agreement",
+      "summary": "Godeheu negotiated limits on political intervention.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-danish-settlement-at-serampore",
+      "start_year": 1755,
+      "date_label": "1755",
+      "title": "Danish settlement at Serampore",
+      "summary": "Frederiksnagore established in Bengal; source's 1676 date rejected.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-seven-years-war",
+      "start_year": 1756,
+      "date_label": "1756–1763",
+      "title": "Seven Years' War",
+      "summary": "Global Anglo-French conflict connected to rivalry in India.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1763
+    },
+    {
+      "id": "europe-siraj-captures-fort-william",
+      "start_year": 1756,
+      "date_label": "1756",
+      "title": "Siraj captures Fort William",
+      "summary": "June capture; subsequent prisoner-death narrative disputed in numbers and detail.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-siraj-ud-daulah-succeeds-alivardi",
+      "start_year": 1756,
+      "date_label": "1756",
+      "title": "Siraj-ud-Daulah succeeds Alivardi",
+      "summary": "Disputes over privileges, fortifications and political authority sharpened.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-third-carnatic-war",
+      "start_year": 1756,
+      "date_label": "1756–1763",
+      "title": "Third Carnatic War",
+      "summary": "Indian theatre of the Seven Years' War.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1763
+    },
+    {
+      "id": "europe-english-recover-calcutta",
+      "start_year": 1757,
+      "date_label": "1757",
+      "title": "English recover Calcutta",
+      "summary": "Clive and Admiral Watson retook the settlement early in the year.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-plassey",
+      "start_year": 1757,
+      "date_label": "23 June 1757",
+      "title": "Battle of Plassey",
+      "summary": "Clive defeated Siraj through battle, conspiracy and defections; Mir Jafar installed; 24 Parganas gained.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": true,
+      "month": 6,
+      "day": 23
+    },
+    {
+      "id": "europe-clive-s-first-bengal-governorship",
+      "start_year": 1758,
+      "date_label": "1758–1760",
+      "title": "Clive's first Bengal governorship",
+      "summary": "Company influence and demands on the Nawab expanded after Plassey.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1760
+    },
+    {
+      "id": "europe-french-siege-of-madras-fails",
+      "start_year": 1758,
+      "date_label": "1758–1759",
+      "title": "French siege of Madras fails",
+      "summary": "Madras was not captured in this campaign.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1759
+    },
+    {
+      "id": "europe-initial-company-trade-at-thatta",
+      "start_year": 1758,
+      "date_label": "1758–1775",
+      "title": "Initial Company trade at Thatta",
+      "summary": "Factory in Sindh opened in the Kalhora period, later abandoned.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1775
+    },
+    {
+      "id": "europe-lally-captures-fort-st-david",
+      "start_year": 1758,
+      "date_label": "1758",
+      "title": "Lally captures Fort St David",
+      "summary": "French offensive in the Third Carnatic War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-biderra",
+      "start_year": 1759,
+      "date_label": "1759",
+      "title": "Battle of Biderra",
+      "summary": "English Company defeated Dutch forces near Chinsura; not immediate end of all Dutch settlements.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-wandiwash",
+      "start_year": 1760,
+      "date_label": "1760",
+      "title": "Battle of Wandiwash",
+      "summary": "Eyre Coote defeated Lally; crucial Anglo-French turning point.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": true
+    },
+    {
+      "id": "europe-mir-qasim-replaces-mir-jafar",
+      "start_year": 1760,
+      "date_label": "1760",
+      "title": "Mir Qasim replaces Mir Jafar",
+      "summary": "Ceded Burdwan, Midnapore and Chittagong; pursued administrative and military independence.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-pondicherry-falls-to-english",
+      "start_year": 1761,
+      "date_label": "1761",
+      "title": "Pondicherry falls to English",
+      "summary": "French settlement captured during Third Carnatic War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-third-battle-of-panipat",
+      "start_year": 1761,
+      "date_label": "1761",
+      "title": "Third Battle of Panipat",
+      "summary": "Ahmad Shah Abdali defeated Marathas, not Ibrahim Lodi.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-mir-qasim-s-customs-conflict",
+      "start_year": 1763,
+      "date_label": "1763",
+      "title": "Mir Qasim's customs conflict",
+      "summary": "Abolition of internal duties challenged Company privilege; war and restoration of Mir Jafar followed.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-paris",
+      "start_year": 1763,
+      "date_label": "1763",
+      "title": "Treaty of Paris",
+      "summary": "French trading settlements restored subject to restrictions; territorial rivalry decisively curtailed.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-buxar",
+      "start_year": 1764,
+      "date_label": "22 October 1764",
+      "title": "Battle of Buxar",
+      "summary": "Hector Munro defeated allied forces associated with Mir Qasim, Shuja-ud-Daulah and Shah Alam II.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": true,
+      "month": 10,
+      "day": 22
+    },
+    {
+      "id": "europe-allahabad-settlement-and-imperial-diwani",
+      "start_year": 1765,
+      "date_label": "1765",
+      "title": "Allahabad settlement and imperial diwani",
+      "summary": "Bengal, Bihar and Orissa revenue grant; emperor's annual payment 26 lakh; Awadh retained as buffer with indemnity.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": true
+    },
+    {
+      "id": "europe-dual-government-in-bengal",
+      "start_year": 1765,
+      "date_label": "1765–1772",
+      "title": "Dual Government in Bengal",
+      "summary": "Company held substantive power while Indian deputies and nominal Nawab bore administration; Clive's arrangement ended by Hastings.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1772
+    },
+    {
+      "id": "europe-najm-ud-daulah-becomes-nawab",
+      "start_year": 1765,
+      "date_label": "1765",
+      "title": "Najm-ud-Daulah becomes Nawab",
+      "summary": "Company control of finance, military power and appointments reduced effective independence.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-company-hyderabad-agreement",
+      "start_year": 1766,
+      "date_label": "1766",
+      "title": "Company–Hyderabad agreement",
+      "summary": "Northern Circars and assistance arrangements formed background to First Mysore War.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-first-anglo-mysore-war",
+      "start_year": 1767,
+      "date_label": "1767–1769",
+      "title": "First Anglo-Mysore War",
+      "summary": "Hyder broke the opposing coalition and advanced towards Madras.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1769
+    },
+    {
+      "id": "bhakti-tyagaraja",
+      "title": "Tyagaraja’s lifetime",
+      "start_year": 1767,
+      "date_label": "1767–1847",
+      "summary": "Carnatic Trinity composer, mainly Telugu Rama devotion, Pancharatna Kritis.",
+      "category": "Thinker / saint",
+      "chapters": [
+        "15"
+      ],
+      "end_year": 1847
+    },
+    {
+      "id": "europe-treaty-of-madras",
+      "start_year": 1769,
+      "date_label": "1769",
+      "title": "Treaty of Madras",
+      "summary": "Mutual restoration and defensive assistance against third-party attack.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-bengal-famine",
+      "start_year": 1770,
+      "date_label": "1770",
+      "title": "Bengal famine",
+      "summary": "Severe crop failure interacted with extraction and administrative failure; precise mortality estimates uncertain.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-maratha-attack-on-mysore",
+      "start_year": 1771,
+      "date_label": "1771",
+      "title": "Maratha attack on Mysore",
+      "summary": "British failure to assist Hyder deepened hostility after Treaty of Madras.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-dual-government-abolished",
+      "start_year": 1772,
+      "date_label": "1772",
+      "title": "Dual Government abolished",
+      "summary": "Warren Hastings ended the arrangement and reorganised Company revenue administration.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-madhav-rao-i-dies",
+      "start_year": 1772,
+      "date_label": "1772",
+      "title": "Madhav Rao I dies",
+      "summary": "Peshwa succession dispute developed under Narayan Rao and Raghunath Rao.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-warren-hastings-in-bengal",
+      "start_year": 1772,
+      "date_label": "1772–1785",
+      "title": "Warren Hastings in Bengal",
+      "summary": "Governorship followed by Governor-Generalship; ring-fence strategy associated with this period.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1785
+    },
+    {
+      "id": "europe-narayan-rao-murdered",
+      "start_year": 1773,
+      "date_label": "1773",
+      "title": "Narayan Rao murdered",
+      "summary": "Raghunath Rao's claim challenged; Nana Phadnavis later supported infant Madhav Rao II.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-regulating-act",
+      "start_year": 1773,
+      "date_label": "1773",
+      "title": "Regulating Act",
+      "summary": "Established Governor-General of Bengal and controls over presidency governments; Warren Hastings first held the office.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-first-anglo-maratha-war",
+      "start_year": 1775,
+      "date_label": "1775–1782",
+      "title": "First Anglo-Maratha War",
+      "summary": "Company intervention in Peshwa succession; Maratha resistance followed by Salbai settlement.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1782
+    },
+    {
+      "id": "europe-treaty-of-surat",
+      "start_year": 1775,
+      "date_label": "1775",
+      "title": "Treaty of Surat",
+      "summary": "Bombay authorities supported Raghunath Rao in exchange for concessions.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-purandar",
+      "start_year": 1776,
+      "date_label": "1776",
+      "title": "Treaty of Purandar",
+      "summary": "Upton's agreement recognised infant Peshwa and withdrew support to Raghunath Rao.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-british-capture-mahe",
+      "start_year": 1779,
+      "date_label": "1779",
+      "title": "British capture Mahe",
+      "summary": "French settlement under Hyder's protection became a trigger for renewed Mysore war.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-talegaon-wadgaon-campaign-and-convention",
+      "start_year": 1779,
+      "date_label": "1779",
+      "title": "Talegaon–Wadgaon campaign and convention",
+      "summary": "Maratha forces compelled Bombay army's surrender; Hastings rejected the resulting convention.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-goddard-captures-ahmedabad-and-bassein",
+      "start_year": 1780,
+      "date_label": "1780",
+      "title": "Goddard captures Ahmedabad and Bassein",
+      "summary": "Company counteroffensive in First Maratha War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-pollilur-and-capture-of-arcot",
+      "start_year": 1780,
+      "date_label": "1780",
+      "title": "Pollilur and capture of Arcot",
+      "summary": "Hyder defeated Baillie's force and took Arcot.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-popham-captures-gwalior",
+      "start_year": 1780,
+      "date_label": "1780",
+      "title": "Popham captures Gwalior",
+      "summary": "Assault on 3 August; source's 1781 date rejected.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-second-anglo-mysore-war",
+      "start_year": 1780,
+      "date_label": "1780–1784",
+      "title": "Second Anglo-Mysore War",
+      "summary": "Hyder and then Tipu fought the Company; concluded without decisive British territorial gains.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1784
+    },
+    {
+      "id": "europe-battle-of-porto-novo",
+      "start_year": 1781,
+      "date_label": "1781",
+      "title": "Battle of Porto Novo",
+      "summary": "Eyre Coote defeated Hyder in the Second Mysore War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-hyder-ali-dies",
+      "start_year": 1782,
+      "date_label": "1782",
+      "title": "Hyder Ali dies",
+      "summary": "Tipu continued the Second Anglo-Mysore War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-salbai",
+      "start_year": 1782,
+      "date_label": "1782",
+      "title": "Treaty of Salbai",
+      "summary": "Madhav Rao II recognised, Raghunath Rao pensioned; Company retained Salsette; long peace with Marathas.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-mangalore",
+      "start_year": 1784,
+      "date_label": "1784",
+      "title": "Treaty of Mangalore",
+      "summary": "Mutual return of territories and prisoners concluded Second Mysore War.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-tipu-s-ottoman-diplomatic-initiative",
+      "start_year": 1786,
+      "date_label": "1786",
+      "title": "Tipu's Ottoman diplomatic initiative",
+      "summary": "Diplomatic mission to Ottoman Empire documented in archival research; the chapter's earlier range is not used.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
       "id": "william-jones-language-affinities",
       "start_year": 1786,
       "end_year": 1786,
@@ -1123,6 +3498,999 @@
       "category": "Scholarship",
       "chapters": [
         "3"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-tipu-s-french-diplomatic-initiative",
+      "start_year": 1787,
+      "date_label": "1787",
+      "title": "Tipu's French diplomatic initiative",
+      "summary": "Envoys sought support as Mysore rebuilt its position.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-tipu-attacks-travancore",
+      "start_year": 1789,
+      "date_label": "1789–1790",
+      "title": "Tipu attacks Travancore",
+      "summary": "Conflict with British ally helped trigger Third Anglo-Mysore War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1790
+    },
+    {
+      "id": "europe-third-anglo-mysore-war",
+      "start_year": 1790,
+      "date_label": "1790–1792",
+      "title": "Third Anglo-Mysore War",
+      "summary": "Company allied with Nizam and Marathas; Cornwallis followed Medows in command.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1792
+    },
+    {
+      "id": "europe-cornwallis-captures-bangalore",
+      "start_year": 1791,
+      "date_label": "1791",
+      "title": "Cornwallis captures Bangalore",
+      "summary": "Advance followed by supply difficulties; renewed campaign led towards Seringapatam.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-seringapatam",
+      "start_year": 1792,
+      "date_label": "1792",
+      "title": "Treaty of Seringapatam",
+      "summary": "Tipu lost half his dominions; 3.3 crore indemnity and two sons as hostages.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-hyderabad-subsidiary-arrangement",
+      "start_year": 1798,
+      "date_label": "1798",
+      "title": "Hyderabad subsidiary arrangement",
+      "summary": "Nizam accepted dependence and disbanded French corps.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-lord-wellesley-s-governor-generalship",
+      "start_year": 1798,
+      "date_label": "1798–1805",
+      "title": "Lord Wellesley's Governor-Generalship",
+      "summary": "Systematic subsidiary dependence and major Mysore/Maratha expansion.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1805
+    },
+    {
+      "id": "europe-tipu-s-revolutionary-french-contacts",
+      "start_year": 1798,
+      "date_label": "1798",
+      "title": "Tipu's revolutionary French contacts",
+      "summary": "Contacts heightened Wellesley's suspicions but did not produce decisive French military assistance.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-tanjore-administration-transferred",
+      "start_year": 1799,
+      "date_label": "1799",
+      "title": "Tanjore administration transferred",
+      "summary": "Treaty changed administrative control; not identical to every subsidiary agreement.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-seringapatam-falls-and-tipu-dies",
+      "start_year": 1799,
+      "date_label": "4 May 1799",
+      "title": "Seringapatam falls and Tipu dies",
+      "summary": "4 May: Harris commanded main army; reduced Wodeyar state restored under subsidiary dependence with Purnaiya as diwan.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": true,
+      "month": 5,
+      "day": 4
+    },
+    {
+      "id": "europe-nana-phadnavis-dies",
+      "start_year": 1800,
+      "date_label": "1800",
+      "title": "Nana Phadnavis dies",
+      "summary": "Loss of stabilising statesman preceded intensified Maratha rivalry.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-awadh-territorial-subsidiary-settlement",
+      "start_year": 1801,
+      "date_label": "1801",
+      "title": "Awadh territorial subsidiary settlement",
+      "summary": "Wellesley's arrangement obtained territory to maintain Company forces.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-vithoji-holkar-killed",
+      "start_year": 1801,
+      "date_label": "1801",
+      "title": "Vithoji Holkar killed",
+      "summary": "Peshwa's action deepened conflict with Yashwant Rao Holkar.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-holkar-defeats-peshwa-and-scindia-at-poona",
+      "start_year": 1802,
+      "date_label": "1802",
+      "title": "Holkar defeats Peshwa and Scindia at Poona",
+      "summary": "Baji Rao II fled and sought British restoration.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-bassein",
+      "start_year": 1802,
+      "date_label": "31 December 1802",
+      "title": "Treaty of Bassein",
+      "summary": "31 December: Baji Rao II accepted subsidiary force, revenue cession and diplomatic restrictions.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "month": 12,
+      "day": 31
+    },
+    {
+      "id": "europe-ahmednagar-assaye-and-argaon",
+      "start_year": 1803,
+      "date_label": "1803",
+      "title": "Ahmednagar, Assaye and Argaon",
+      "summary": "Arthur Wellesley's Deccan campaign against Scindia/Bhonsle.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-baji-rao-ii-restored-at-poona",
+      "start_year": 1803,
+      "date_label": "1803",
+      "title": "Baji Rao II restored at Poona",
+      "summary": "British forces implemented Bassein settlement.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-lake-captures-northern-centres-and-wins-laswari",
+      "start_year": 1803,
+      "date_label": "1803",
+      "title": "Lake captures northern centres and wins Laswari",
+      "summary": "Aligarh, Delhi and Agra; Mughal emperor came under British protection.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-second-anglo-maratha-war",
+      "start_year": 1803,
+      "date_label": "1803–1805",
+      "title": "Second Anglo-Maratha War",
+      "summary": "Company fought Scindia/Bhonsle and later Holkar; expansion exposed financial and military limits too.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1805
+    },
+    {
+      "id": "europe-treaty-of-deogaon",
+      "start_year": 1803,
+      "date_label": "1803",
+      "title": "Treaty of Deogaon",
+      "summary": "Bhonsle ceded territory including Cuttack.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-surji-arjungaon",
+      "start_year": 1803,
+      "date_label": "1803",
+      "title": "Treaty of Surji-Arjungaon",
+      "summary": "Scindia accepted territorial losses and restrictions.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-holkar-s-continued-resistance",
+      "start_year": 1804,
+      "date_label": "1804–1805",
+      "title": "Holkar's continued resistance",
+      "summary": "Campaigns and British failures at Bharatpur exposed limits of Company victory.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1805
+    },
+    {
+      "id": "europe-treaty-of-rajpurghat",
+      "start_year": 1805,
+      "date_label": "1805",
+      "title": "Treaty of Rajpurghat",
+      "summary": "December peace with Holkar restored much territory; not a 1806 treaty.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-tilsit-and-british-strategic-fears",
+      "start_year": 1807,
+      "date_label": "1807",
+      "title": "Treaty of Tilsit and British strategic fears",
+      "summary": "Franco-Russian cooperation increased concerns over routes towards India.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-company-sindh-friendship-treaty",
+      "start_year": 1809,
+      "date_label": "1809",
+      "title": "Company–Sindh friendship treaty",
+      "summary": "Excluded French influence and offered territorial assurances; Minto's frontier diplomacy.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-pindari-raids-in-mirzapur-and-shahabad",
+      "start_year": 1812,
+      "date_label": "1812",
+      "title": "Pindari raids in Mirzapur and Shahabad",
+      "summary": "Plundering bands posed challenges beyond their central Indian bases.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-pindari-raids-on-nizam-s-territories",
+      "start_year": 1815,
+      "date_label": "1815",
+      "title": "Pindari raids on Nizam's territories",
+      "summary": "Added to pressure for a Company suppression campaign.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-nagpur-subsidiary-arrangement",
+      "start_year": 1816,
+      "date_label": "1816",
+      "title": "Nagpur subsidiary arrangement",
+      "summary": "Appa Sahib accepted Company treaty before renewed resistance.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-pindari-raids-in-northern-circars",
+      "start_year": 1816,
+      "date_label": "1816",
+      "title": "Pindari raids in Northern Circars",
+      "summary": "British preparations for suppression intensified.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-kirkee",
+      "start_year": 1817,
+      "date_label": "1817",
+      "title": "Battle of Kirkee",
+      "summary": "November defeat of Peshwa's forces after attack on Poona Residency.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-sitabuldi",
+      "start_year": 1817,
+      "date_label": "1817",
+      "title": "Battle of Sitabuldi",
+      "summary": "November defeat of Appa Sahib's Nagpur forces.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-pindari-suppression-campaign",
+      "start_year": 1817,
+      "date_label": "1817–1818",
+      "title": "Pindari suppression campaign",
+      "summary": "Hastings' main campaign overlapped the Third Anglo-Maratha War; preparations began in 1816.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1818
+    },
+    {
+      "id": "europe-third-anglo-maratha-war",
+      "start_year": 1817,
+      "date_label": "1817–1818",
+      "title": "Third Anglo-Maratha War",
+      "summary": "Peshwa, Nagpur and Holkar resistance defeated; Scindia constrained by a separate agreement.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1818
+    },
+    {
+      "id": "europe-treaty-of-gwalior",
+      "start_year": 1817,
+      "date_label": "1817",
+      "title": "Treaty of Gwalior",
+      "summary": "Scindia accepted anti-Pindari cooperation and restrictions; stayed out of principal war.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-mahidpur",
+      "start_year": 1817,
+      "date_label": "21 December 1817",
+      "title": "Battle of Mahidpur",
+      "summary": "21 December: Holkar forces defeated at Mahidpur, not Baroda.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "month": 12,
+      "day": 21
+    },
+    {
+      "id": "europe-peshwaship-abolished-and-satara-created",
+      "start_year": 1818,
+      "date_label": "1818",
+      "title": "Peshwaship abolished and Satara created",
+      "summary": "Baji Rao II pensioned at Bithur; Pratap Singh installed in dependent Satara state; Company paramountcy expanded.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": true
+    },
+    {
+      "id": "europe-rajput-protection-arrangements",
+      "start_year": 1818,
+      "date_label": "1818",
+      "title": "Rajput protection arrangements",
+      "summary": "States accepted British protection as Maratha dominance receded.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-mandsaur",
+      "start_year": 1818,
+      "date_label": "1818",
+      "title": "Treaty of Mandsaur",
+      "summary": "Holkar accepted British dependence after Mahidpur.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-sindh-treaty-renewed",
+      "start_year": 1820,
+      "date_label": "1820",
+      "title": "Sindh treaty renewed",
+      "summary": "Added exclusion of Americans and dealt with frontier issues.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-first-burmese",
+      "start_year": 1824,
+      "date_label": "1824–1826",
+      "title": "First Anglo-Burmese War",
+      "summary": "Historical war-date pair in revision; distinct from the Sikh wars.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1826
+    },
+    {
+      "id": "europe-burnes-explores-indus-navigation",
+      "start_year": 1831,
+      "date_label": "1831",
+      "title": "Burnes explores Indus navigation",
+      "summary": "Survey of commercial and strategic possibilities.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-company-assumes-mysore-administration",
+      "start_year": 1831,
+      "date_label": "1831",
+      "title": "Company assumes Mysore administration",
+      "summary": "Bentinck's government cited misgovernment; not annexation under lapse.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-ropar-meeting",
+      "start_year": 1831,
+      "date_label": "1831",
+      "title": "Ropar meeting",
+      "summary": "Bentinck met Ranjit Singh on the Sutlej; frontier diplomacy and commercial cooperation.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-sindh-navigation-treaty",
+      "start_year": 1832,
+      "date_label": "1832",
+      "title": "Sindh navigation treaty",
+      "summary": "Pottinger negotiated commercial access to the Indus.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-charter-act-and-governor-general-of-india",
+      "start_year": 1833,
+      "date_label": "1833",
+      "title": "Charter Act and Governor-General of India",
+      "summary": "Bentinck became first Governor-General of India; distinct from Hastings' Bengal office.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "maurya-prinsep-deciphers-brahmi-inscriptions",
+      "start_year": 1837,
+      "date_label": "1837 CE",
+      "title": "Prinsep deciphers Brahmi inscriptions",
+      "summary": "Key nineteenth-century decipherment; chapter’s 1887 date is rejected.",
+      "category": "Research",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-sindh-military-and-subsidiary-dependence",
+      "start_year": 1838,
+      "date_label": "1838–1839",
+      "title": "Sindh military and subsidiary dependence",
+      "summary": "Residence, transit, military expenditure and unequal treaty demands expanded Company control.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1839
+    },
+    {
+      "id": "europe-tripartite-treaty",
+      "start_year": 1838,
+      "date_label": "1838",
+      "title": "Tripartite Treaty",
+      "summary": "Company, Ranjit Singh and Shah Shuja connected to Afghan intervention.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-first-anglo-afghan-war",
+      "start_year": 1839,
+      "date_label": "1839–1842",
+      "title": "First Anglo-Afghan War",
+      "summary": "British intervention and reverses formed background to subsequent frontier expansion.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1842
+    },
+    {
+      "id": "europe-ranjit-singh-dies",
+      "start_year": 1839,
+      "date_label": "1839",
+      "title": "Ranjit Singh dies",
+      "summary": "Sikh court succession struggles and army influence intensified.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-kharak-singh-and-nau-nihal-singh-die",
+      "start_year": 1840,
+      "date_label": "1840",
+      "title": "Kharak Singh and Nau Nihal Singh die",
+      "summary": "Deaths in contested circumstances destabilised Lahore succession.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-napier-appointed-in-sindh",
+      "start_year": 1842,
+      "date_label": "1842",
+      "title": "Napier appointed in Sindh",
+      "summary": "Political and military authority under Ellenborough preceded confrontation with Amirs.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-imamgarh-destroyed",
+      "start_year": 1843,
+      "date_label": "1843",
+      "title": "Imamgarh destroyed",
+      "summary": "Napier's action intensified conflict with Talpur Amirs.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-miani-dubba-and-annexation-of-sindh",
+      "start_year": 1843,
+      "date_label": "1843",
+      "title": "Miani, Dubba and annexation of Sindh",
+      "summary": "Napier defeated Talpur forces; Sindh annexed under Ellenborough.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-sher-singh-assassinated-duleep-succeeds",
+      "start_year": 1843,
+      "date_label": "1843",
+      "title": "Sher Singh assassinated; Duleep succeeds",
+      "summary": "Child Maharaja under Rani Jindan's regency amid political turmoil.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-hira-singh-killed",
+      "start_year": 1844,
+      "date_label": "1844",
+      "title": "Hira Singh killed",
+      "summary": "Lahore power struggle continued; Jawahar Singh followed as wazir.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battles-of-mudki-and-ferozeshah",
+      "start_year": 1845,
+      "date_label": "1845",
+      "title": "Battles of Mudki and Ferozeshah",
+      "summary": "December battles with heavy fighting in the First Sikh War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-danes-sell-indian-settlements",
+      "start_year": 1845,
+      "date_label": "1845",
+      "title": "Danes sell Indian settlements",
+      "summary": "Tranquebar and Serampore transferred to British.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-first-anglo-sikh-war",
+      "start_year": 1845,
+      "date_label": "1845–1846",
+      "title": "First Anglo-Sikh War",
+      "summary": "Hardinge Governor-General; Gough principal British commander.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1846
+    },
+    {
+      "id": "europe-jawahar-singh-killed",
+      "start_year": 1845,
+      "date_label": "1845",
+      "title": "Jawahar Singh killed",
+      "summary": "Khalsa army influence and frontier mistrust intensified.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-aliwal",
+      "start_year": 1846,
+      "date_label": "1846",
+      "title": "Battle of Aliwal",
+      "summary": "January: Harry Smith defeated Sikh forces.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-baddowal",
+      "start_year": 1846,
+      "date_label": "1846",
+      "title": "Battle of Baddowal",
+      "summary": "January: Ranjodh Singh Majithia checked Harry Smith; Sikh success.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-sobraon",
+      "start_year": 1846,
+      "date_label": "1846",
+      "title": "Battle of Sobraon",
+      "summary": "February: Gough's decisive victory opened the way to Lahore.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-amritsar",
+      "start_year": 1846,
+      "date_label": "1846",
+      "title": "Treaty of Amritsar",
+      "summary": "March: Kashmir transferred to Gulab Singh for 75 lakh rupees.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-bhairowal",
+      "start_year": 1846,
+      "date_label": "1846",
+      "title": "Treaty of Bhairowal",
+      "summary": "December: regency council under Resident; Jindan excluded; British control deepened.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-treaty-of-lahore",
+      "start_year": 1846,
+      "date_label": "1846",
+      "title": "Treaty of Lahore",
+      "summary": "March: territorial cession, 1.5 crore indemnity, army reduction and British influence.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-ramnagar",
+      "start_year": 1848,
+      "date_label": "1848",
+      "title": "Battle of Ramnagar",
+      "summary": "November fighting met strong Sikh resistance.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-dalhousie-s-governor-generalship",
+      "start_year": 1848,
+      "date_label": "1848–1856",
+      "title": "Dalhousie's Governor-Generalship",
+      "summary": "Annexation by war, lapse and alleged misgovernment; distinct pretexts must be separated.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1856
+    },
+    {
+      "id": "europe-satara-annexed-under-lapse",
+      "start_year": 1848,
+      "date_label": "1848",
+      "title": "Satara annexed under lapse",
+      "summary": "Refusal of adopted heir's political succession.",
+      "category": "Treaty / policy",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-second-anglo-sikh-war",
+      "start_year": 1848,
+      "date_label": "1848–1849",
+      "title": "Second Anglo-Sikh War",
+      "summary": "Multan uprising and broader resistance led to annexation.",
+      "category": "War",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false,
+      "end_year": 1849
+    },
+    {
+      "id": "europe-battle-of-chillianwala",
+      "start_year": 1849,
+      "date_label": "1849",
+      "title": "Battle of Chillianwala",
+      "summary": "January battle inflicted heavy losses on British forces.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-battle-of-gujrat",
+      "start_year": 1849,
+      "date_label": "1849",
+      "title": "Battle of Gujrat",
+      "summary": "February: Gough's decisive victory in Second Sikh War.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-jaitpur-and-sambalpur-annexed",
+      "start_year": 1849,
+      "date_label": "1849",
+      "title": "Jaitpur and Sambalpur annexed",
+      "summary": "Lapse cases distinct from Awadh's alleged misgovernment.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-punjab-board-of-administration-formed",
+      "start_year": 1849,
+      "date_label": "1849",
+      "title": "Punjab Board of Administration formed",
+      "summary": "Henry Lawrence, John Lawrence and Charles Mansel.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-punjab-annexed",
+      "start_year": 1849,
+      "date_label": "29 March 1849",
+      "title": "Punjab annexed",
+      "summary": "29 March under Dalhousie; Duleep pensioned; not lapse.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": true,
+      "month": 3,
+      "day": 29
+    },
+    {
+      "id": "europe-punjab-chief-commissionership",
+      "start_year": 1853,
+      "date_label": "1853",
+      "title": "Punjab Chief Commissionership",
+      "summary": "Board abolished; John Lawrence appointed Chief Commissioner.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-duleep-singh-goes-to-britain",
+      "start_year": 1854,
+      "date_label": "1854",
+      "title": "Duleep Singh goes to Britain",
+      "summary": "Later exile, not simultaneous removal with Jindan in 1849.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-jhansi-and-nagpur-annexed",
+      "start_year": 1854,
+      "date_label": "1854",
+      "title": "Jhansi and Nagpur annexed",
+      "summary": "Rulers' deaths and succession disputes preceded final annexation; lapse applied.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-awadh-annexed",
+      "start_year": 1856,
+      "date_label": "1856",
+      "title": "Awadh annexed",
+      "summary": "Wajid Ali Shah deposed on alleged misgovernment; not Doctrine of Lapse.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-revolt-against-company-rule",
+      "start_year": 1857,
+      "date_label": "1857",
+      "title": "Revolt against Company rule",
+      "summary": "Annexations, military disruption and political grievances formed part of its background.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "europe-punjab-lieutenant-governorship-begins",
+      "start_year": 1859,
+      "date_label": "1859",
+      "title": "Punjab Lieutenant-Governorship begins",
+      "summary": "John Lawrence briefly held the first Lieutenant-Governorship from January 1859; Robert Montgomery succeeded him in February.",
+      "category": "Event",
+      "chapters": [
+        "16"
       ],
       "is_turning_point": false
     },
@@ -1150,6 +4518,30 @@
       ],
       "is_turning_point": false,
       "end_year": 1868
+    },
+    {
+      "id": "europe-mysore-administration-restored",
+      "start_year": 1881,
+      "date_label": "1881",
+      "title": "Mysore administration restored",
+      "summary": "Rendition under Ripon; Wodeyar ruler resumed administration under paramountcy.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
+    },
+    {
+      "id": "maurya-arthashastra-brought-to-modern-scholarly-attention",
+      "start_year": 1905,
+      "date_label": "1905 CE",
+      "title": "Arthashastra brought to modern scholarly attention",
+      "summary": "R. Shamasastry’s identification/initial scholarly announcement; publication followed.",
+      "category": "Research",
+      "chapters": [
+        "6"
+      ],
+      "is_turning_point": false
     },
     {
       "id": "harappa-excavation",
@@ -1285,6 +4677,18 @@
       ],
       "is_turning_point": false,
       "end_year": 1969
+    },
+    {
+      "id": "europe-portuguese-rule-ends-in-goa-daman-and-diu",
+      "start_year": 1961,
+      "date_label": "1961",
+      "title": "Portuguese rule ends in Goa, Daman and Diu",
+      "summary": "Indian military action ended the remaining Portuguese enclaves in these territories.",
+      "category": "Event",
+      "chapters": [
+        "16"
+      ],
+      "is_turning_point": false
     },
     {
       "id": "surkotada-work",

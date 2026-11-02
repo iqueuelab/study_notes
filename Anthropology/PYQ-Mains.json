@@ -1,0 +1,259 @@
+{
+  "subject": "Anthropology",
+  "exam_stage": "Mains",
+  "questions": [
+    {
+      "year": 2017,
+      "chapter": "1. Meaning, Scope and Development of Anthropology",
+      "question": "Define Anthropology. Describe the major branches of Anthropology elaborating on any one branch.",
+      "paper": "Anthropology Paper I",
+      "marks": 20,
+      "question_number": "6(a)",
+      "marks_breakdown": {
+        "definition": 5,
+        "branches_and_elaboration": 15
+      }
+    },
+    {
+      "year": 2014,
+      "chapter": "1. Meaning, Scope and Development of Anthropology",
+      "question": "Critically examine the role of anthropology in Contemporary India.",
+      "paper": "Anthropology Paper I",
+      "marks": 15,
+      "question_number": "2(a)"
+    },
+    {
+      "year": 2014,
+      "chapter": "2. Relationship of Anthropology with Other Disciplines",
+      "question": "Write a note in about 150 words on: Major sub-divisions of Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150,
+      "question_number": "1(c)"
+    },
+    {
+      "year": 2013,
+      "chapter": "2. Relationship of Anthropology with Other Disciplines",
+      "question": "How do you situate Anthropology in Social Sciences?",
+      "paper": "Anthropology Paper I",
+      "marks": 10
+    },
+    {
+      "year": 2023,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Write a note in about 150 words on: Scope and relevance of Social and Cultural Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150,
+      "question_number": "1(a)"
+    },
+    {
+      "year": 2022,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "“Anthropology is the systematic, objective and holistic study of human kind in all times and places”. Elaborate the argument.",
+      "paper": "Anthropology Paper I",
+      "marks": 20,
+      "question_number": "2(a)"
+    },
+    {
+      "year": 2019,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Write a note in about 150 words on: The relationship between Linguistics and Social-Cultural Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150,
+      "question_number": "1(a)"
+    },
+    {
+      "year": 2018,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Give an account of the field methods used in the study of Archaeological Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 2016,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Write a note in about 150 words on: Differences between Social Anthropology and Sociology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150,
+      "question_number": "1(a)"
+    },
+    {
+      "year": 2015,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Write a note in about 150 words on: Archaeological Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150,
+      "question_number": "1(a)"
+    },
+    {
+      "year": 2013,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Write a note in about 150 words on: Linguistic Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 1994,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Write a note in about 150 words on: Social and Cultural Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 1990,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Write a note in about 150 words on: Applied Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 1989,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Write a note in about 150 words on: Theme of Linguistic Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 1989,
+      "chapter": "3. Main Branches of Anthropology",
+      "question": "Write a note in about 150 words on: New Physical Anthropology.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 2021,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Explain the genetic mechanisms of micro and macro evolution.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 2020,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Elucidate how Darwin and post-Darwin theories of evolution resulted in the development of Synthetic theory of evolution.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 2019,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Write a short note on implications of mutation in evolution in about 150 words.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 2018,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Explain the biological changes that made human beings capable of making culture.",
+      "paper": "Anthropology Paper I",
+      "marks": 20
+    },
+    {
+      "year": 2016,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Elucidate the biological and cultural factors in human evolution.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 2015,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Critically examine Darwin’s theory of evolution in understanding evolution.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 1997,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Write a short note on biological evolution of early man in about 150 words.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 1994,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "How Darwinism differs from the synthetic theory of organic evolution.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 1993,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "What is Synthetic Theory of Evolution? Discuss how this theory helps us in understanding the evolutionary mechanism.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 1992,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Write a short note on Synthetic theory of evolution in about 150 words.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 1992,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "What is organic evolution? Give evidence for human evolution.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 1991,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "What is Organic Evolution? Describe the theories of organic evolution.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 1990,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Write a short note on Micro evolution in about 150 words.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 1988,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Give a critical account of the processes of organic evolution and explain how they contribute to speciation.",
+      "paper": "Anthropology Paper I",
+      "marks": 15
+    },
+    {
+      "year": 1986,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Write a short note on Biological Evolution and concept of new Physical Anthropology in about 150 words.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 1986,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Write a short note on Lamarckism and Darwinism in about 150 words.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    },
+    {
+      "year": 1985,
+      "chapter": "4. Human Evolution and Emergence of Man",
+      "question": "Write a short note on Theory of organic evolution in about 150 words.",
+      "paper": "Anthropology Paper I",
+      "marks": 10,
+      "word_limit": 150
+    }
+  ]
+}

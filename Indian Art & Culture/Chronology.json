@@ -1,0 +1,229 @@
+{
+  "subject": "Indian Art & Culture",
+  "chapters": {
+    "1": {
+      "label": "Chapter 1",
+      "short_label": "C1",
+      "title": "Prehistoric Cultures in India",
+      "notes": "01. Prehistoric Cultures in India/Quick Revision Notes.html"
+    }
+  },
+  "eras": [
+    {
+      "start": -3000000,
+      "end": -10001,
+      "label": "Before 10,000 BCE · Human origins and stone tools"
+    },
+    {
+      "start": -10000,
+      "end": -1,
+      "label": "10,000 BCE onwards · Food production and regional cultures"
+    },
+    {
+      "start": 1,
+      "end": 2100,
+      "label": "Discoveries and research"
+    }
+  ],
+  "events": [
+    {
+      "id": "palaeolithic",
+      "title": "Palaeolithic tool traditions",
+      "start_year": -2500000,
+      "date_label": "c.2.5 million years ago–10,000 BCE · broad chapter scheme",
+      "category": "Period",
+      "summary": "Old Stone Age hunting and gathering; broad global teaching range, not a securely dated start for India. Numeric placement of the remote starting point is approximate.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -10000
+    },
+    {
+      "id": "attirampakkam-middle",
+      "title": "Early Middle Palaeolithic transition at Attirampakkam",
+      "start_year": -383000,
+      "date_label": "c.385 ±64 thousand years ago",
+      "category": "Technology",
+      "summary": "Prepared-core/flake transition dated by luminescence; this Indian sequence extends to about 172 thousand years ago. Placement is approximate, not an exact BCE date.",
+      "chapters": [
+        "1"
+      ]
+    },
+    {
+      "id": "sapiens",
+      "title": "Homo sapiens evolves in Africa",
+      "start_year": -298000,
+      "date_label": "About 300,000 years ago",
+      "category": "Human origins",
+      "summary": "Modern human origins predate the Upper Palaeolithic. Numeric placement is approximate; a tool industry is not a biological species.",
+      "chapters": [
+        "1"
+      ]
+    },
+    {
+      "id": "lower-end",
+      "title": "Lower Palaeolithic in the simplified chapter scheme",
+      "start_year": -100000,
+      "date_label": "Around 100,000 BCE · conventional boundary",
+      "category": "Period",
+      "summary": "Approximate ending boundary used by the chapter; not a synchronous change across India. Attirampakkam demonstrates much earlier Middle Palaeolithic technology.",
+      "chapters": [
+        "1"
+      ]
+    },
+    {
+      "id": "middle",
+      "title": "Middle Palaeolithic: conventional teaching range",
+      "start_year": -100000,
+      "date_label": "c.100,000–40,000 BCE · simplified range",
+      "category": "Period",
+      "summary": "Flake and prepared-core industries. This conventional range does not override earlier securely dated regional evidence.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -40000
+    },
+    {
+      "id": "upper",
+      "title": "Upper Palaeolithic: conventional range",
+      "start_year": -40000,
+      "date_label": "c.40,000–10,000 BCE",
+      "category": "Period",
+      "summary": "Blade–burin toolkits, bone working, ornaments and symbolic expression; regional variation remains.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -10000
+    },
+    {
+      "id": "mesolithic",
+      "title": "Mesolithic: conventional chapter range",
+      "start_year": -10000,
+      "date_label": "c.10,000–7000 BCE · simplified range",
+      "category": "Period",
+      "summary": "Microlithic hunting/fishing/gathering communities; regional Mesolithic traditions persisted later than this range.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -7000
+    },
+    {
+      "id": "mehrgarh",
+      "title": "Early farming settlement at Mehrgarh",
+      "start_year": -7000,
+      "date_label": "From c.7000 BCE",
+      "category": "Settlement",
+      "summary": "Balochistan farming village with wheat/barley, livestock and mud-brick houses; early levels preceded pottery.",
+      "chapters": [
+        "1"
+      ]
+    },
+    {
+      "id": "neolithic",
+      "title": "Neolithic: broad chapter range",
+      "start_year": -7000,
+      "date_label": "c.7000–2000 BCE · regional variation",
+      "category": "Period",
+      "summary": "Farming, animal keeping, polished tools and village life developed unevenly.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -2000
+    },
+    {
+      "id": "chalcolithic",
+      "title": "Chalcolithic regional villages",
+      "start_year": -3000,
+      "date_label": "c.3000–700 BCE · broad range",
+      "category": "Period",
+      "summary": "Copper and stone used together in farming villages; overlaps Harappan Bronze Age urbanism rather than universally preceding it.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -700
+    },
+    {
+      "id": "southern-neolithic",
+      "title": "Southern Neolithic agro-pastoral traditions",
+      "start_year": -3000,
+      "date_label": "Third–second millennia BCE",
+      "category": "Regional culture",
+      "summary": "Cattle keeping, ashmounds and ground stone tools characterise several Deccan communities; beginning/end varied locally.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -1001
+    },
+    {
+      "id": "ganeshwar",
+      "title": "Ganeshwar–Jodhpura: conventional regional range",
+      "start_year": -2800,
+      "date_label": "c.2800–2200 BCE",
+      "category": "Regional culture",
+      "summary": "Rajasthan copper-working sites linked to wider Harappan-period exchange; not a universal beginning date for copper use.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -2200
+    },
+    {
+      "id": "mature-harappan",
+      "title": "Mature Harappan civilisation: contextual comparison",
+      "start_year": -2600,
+      "date_label": "c.2600–1900 BCE",
+      "category": "Regional culture",
+      "summary": "Bronze Age towns coexisted with regional copper-stone villages. Undeciphered writing places Harappan studies within protohistory.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -1900
+    },
+    {
+      "id": "iron",
+      "title": "Iron Age: broad chapter range",
+      "start_year": -1500,
+      "date_label": "c.1500–200 BCE · simplified range",
+      "category": "Period",
+      "summary": "Regional iron-using traditions overlapped later Chalcolithic societies; this is not a universal date for the earliest iron.",
+      "chapters": [
+        "1"
+      ],
+      "end_year": -200
+    },
+    {
+      "id": "foote",
+      "title": "Foote recognises a Palaeolithic handaxe at Pallavaram",
+      "start_year": 1863,
+      "date_label": "30 May 1863",
+      "category": "Discovery",
+      "summary": "Robert Bruce Foote’s recognised discovery near Chennai opened a major phase of Indian prehistoric research.",
+      "chapters": [
+        "1"
+      ],
+      "month": 5,
+      "day": 30
+    },
+    {
+      "id": "lubbock",
+      "title": "Lubbock publishes Pre-historic Times",
+      "start_year": 1865,
+      "date_label": "1865",
+      "category": "Research",
+      "summary": "John Lubbock introduced the Palaeolithic and Neolithic terminology.",
+      "chapters": [
+        "1"
+      ]
+    },
+    {
+      "id": "nevasian",
+      "title": "Sankalia identifies the Nevasa flake industry",
+      "start_year": 1956,
+      "date_label": "1956",
+      "category": "Research",
+      "summary": "H. D. Sankalia’s Pravara-valley work is associated with identifying the Indian Middle Palaeolithic/Nevasian industry.",
+      "chapters": [
+        "1"
+      ]
+    }
+  ]
+}
